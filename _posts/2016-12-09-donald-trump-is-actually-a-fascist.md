@@ -1,0 +1,29 @@
+---
+id: 1163
+title: 'Donald Trump is actually a fascist'
+date: '2016-12-09T06:45:00-08:00'
+author: 'Trump 2020'
+layout: post
+guid: 'https://www.impeachment.network/?p=1163'
+permalink: /2016/12/09/donald-trump-is-actually-a-fascist/
+categories:
+    - Uncategorized
+---
+
+Donald Trump is a fascist.
+
+When you call somebody a fascist, you can mean any number of things. Often, it means no more than “somebody I don’t like.” It is an all-purpose epithet, usable by anyone against everyone from university deans to Fox News anchors. For that reason, the label should be used sparingly — saved for special occasions. As with “Nazi” or “Hitler,” it is often said that in any discussion, the first person reduced to using such a word has lost the argument. It’s ridiculous to compare any living person to Hitler or Mussolini.
+
+But I mean “fascist” in the more clinical sense. For close to a year, and especially since his election as president, people have been trying to figure out Trump’s political principles: What does he stand for, how will he act as president? Various theories have been advanced. Some think he won the election by pandering simultaneously to different groups with conflicting agendas, and convincing all of them he was on their side. Was this a calculated exploitation of America’s “gimme gimme gimme” politics? Or was it the politics of a man who had no politics, who wanted to be president because, in our celebrity culture, it was the only job more glamorous than starring in his own reality television show? It has even been suggested, in the sole subject of conversation in Washington for the past month, that Trump might allow himself to be sworn in as president and then resign, having accomplished all he aspired to.
+
+But now that we’ve seen a bit of him in action, it seems that Trump actually does have a recognizable agenda that explains how he simultaneously can pander to big business generally while “strong-arming” (the words of a Post editorial Friday) an air conditioning manufacturer to save a few hundred jobs for a while. Or how he can make nice with the authoritarian Vladimir Putin while making bellicose foreign policy noises in general. Or how he can blithely upset with a phone call the absurdly delicate balance of our relations with China and Taiwan. All this seemingly erratic behavior can be explained — if not justified — by thinking of Trump as a fascist. Not in the sense of an all-purpose bad guy, but in the sense of somebody who sincerely believes that the toxic combination of strong government and strong corporations should run the nation and the world. He spent his previous career negotiating with the government on behalf of corporations; now he has switched teams. But it’s the same game.
+
+The game has several names: “Corporate statism” is one. In Europe, they call it “dirigisme.” Those two other words for it — “Nazism” and “fascism” — are now beyond all respectability. It means, roughly, combining the power of the state with the power of corporations. At its mildest, it is intrusive regulations on business about parental leave and such. At its most toxic, it is concentration camps. In the 1930s, a few Americans (including a few liberals) bought into it. Pearl Harbor ended that argument. Even for Trump, “fascism” itself now is a dirty word, not just a policy choice. Even Trump would not use it — least of all about himself.
+
+But the deal Trump negotiated with Carrier and its parent company, United Technologies, to “save” hundreds of jobs is a prime example of the philosophy. Trump brags about “saving” Midwestern blue-collar jobs through a combination of bribery and arm-twisting. Turns out hundreds more jobs will be lost, and Trump as president can’t possibly negotiate on behalf of millions of workers.
+
+But Trump believes — truly believes, I think — in the title of one of his books: the art of the deal. He thinks he is the world’s greatest negotiator. When he says he won’t reveal his income taxes because he is in the midst of negotiations with the IRS, he may be sincere. He says, believably, that he gets audited every year. That means every year’s tax bill is just the government’s opening move in an annual chess game, and Trump doesn’t want to give away his own opening move. Now he plans to negotiate more “deals” and he thinks — because he can outfox some midlevel IRS auditors — that he can outfox the political and business leaders of the world. “The Art of the Deal” is not “Mein Kampf,” although “not ‘Mein Kampf’ ” isn’t much of an endorsement.
+
+Just to be clear: If I’m correct that Trump actually has a governing philosophy, that’s a bad thing, not a good thing. If he actually has principles to guide him through those famous swamps he plans to drain, that’s alarming, not reassuring. Bad principles are not a good substitute for no principles. Four or eight years of bad principles may make no principles look pretty good.
+
+Source: Michael Kinsley, washingtonpost.com/opinions/donald-trump-is-actually-a-fascist/2016/12/09/e193a2b6-bd77-11e6-94ac-3d324840106c\_story.html

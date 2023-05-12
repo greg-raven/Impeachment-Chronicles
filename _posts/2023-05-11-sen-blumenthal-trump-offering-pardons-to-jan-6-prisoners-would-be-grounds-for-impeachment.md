@@ -1,0 +1,15 @@
+---
+id: 1395
+title: 'Sen. Blumenthal: Trump offering pardons to Jan. 6 prisoners would be grounds for impeachment'
+date: '2023-05-11T06:40:39-07:00'
+author: 'Trump 2020'
+layout: post
+guid: 'https://www.impeachment.network/?p=1395'
+permalink: /2023/05/11/sen-blumenthal-trump-offering-pardons-to-jan-6-prisoners-would-be-grounds-for-impeachment/
+categories:
+    - Uncategorized
+---
+
+Senator Richard Blumenthal (D-CT) said that if former President Donald Trump were to pardon convicted January 6 rioters after re-election in 2024, his actions would warrant an impeachment process. Sen. Blumenthal told a CNN reporter on Thursday that a Trump pardon of the January 6 prisoners would be a betrayal of America’s trust.
+
+Source: justthenews.com/videos/sen-blumenthal-trump-offering-pardons-jan-6-prisoners-would-be-grounds-impeachment

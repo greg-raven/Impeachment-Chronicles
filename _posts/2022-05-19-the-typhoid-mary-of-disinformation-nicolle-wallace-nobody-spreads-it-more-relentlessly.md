@@ -1,0 +1,49 @@
+---
+id: 330
+title: '‘The Typhoid Mary of Disinformation’: Nicolle Wallace. Nobody Spreads it More Relentlessly.'
+date: '2022-05-19T14:24:00-07:00'
+author: 'Trump 2020'
+layout: post
+guid: 'https://www.impeachment.network/?p=330'
+permalink: /2022/05/19/the-typhoid-mary-of-disinformation-nicolle-wallace-nobody-spreads-it-more-relentlessly/
+categories:
+    - Uncategorized
+---
+
+- From her days as Bush/Cheney propagandist, to her stint on The View, to her role as beloved-by-Democrats MSNBC host, Wallace has perfected the art of sociopathic lying. Watch our original video.
+
+The most blatant and shameless liars from the first term of the Bush/Cheney administration have, revealingly, enjoyed great success in media and journalism. That is because serial deceit is not a liability for a thriving career in corporate journalism but rather a vital asset — provided that the lies are in service of ruling class policies. Tawdry propagandists who helped drive post-9/11 America into a bottomless pit of lies and self-destruction have become the most highly-paid and beloved stars of liberal media. They include:
+
+- Former Bush White House speechwriter David Frum of The Atlantic and CNN;
+- Bush/Cheney CIA and NSA Director Gen. Michael Hayden of CNN;
+- Ubiquitous amoral neocon warmonger Bill Kristol of MSNBC and various #NeverTrump groups;
+- Al-Qaeda/Saddam conspiracy theorist Jeffrey Goldberg, now editor-in-chief of The Atlantic;
+- The various scumbags, con artists, predator-protectors and fraudsters of the Lincoln Project, drowning in #Resistance cash and frequent MSNBC appearances;
+- Pro-war Florida GOP Congressman Joe Scarborough, now a multi-million host of MSNBC’s flagship morning show and anchor of its corporate brand; and,
+- Rep. Liz Cheney, long-time vocal supporter of her father and now a literal “hero” to American media liberals.
+
+But few Bush-era propagandists have thrived more, made more money, and developed a more devoted and swooning liberal fan base than the official Communications Director of the Bush/Cheney White House and 2004 Bush/Cheney-reelection campaign, Nicolle Wallace. Having catapulted from her work as Jeb Bush’s Press Secretary to the White House to senior adviser to John McCain’s presidential campaign (working for her close friend, Lincoln Project co-founder Steve Schmidt, who recently performed one of the most public and sustained nervous breakdowns in the history of the internet), Wallace was always beloved by the DC press corps.
+
+In 2005, when she was named Bush White House Communications Director, The New York Times lavished her with praise, claiming that she “comes from a different mold than the small band of Texans who carry out the White House press policy” and admiringly noted that “she was once fired for being too nice to reporters.” She endeared herself further to corporate journalists by repeatedly sabotaging the McCain campaign from which she was collecting a paycheck, leaking negative stories about McCain and his running mate, Alaska Gov. Sarah Palin (whose selection as Vice Presidential candidate was driven primarily by liberal icons Bill Kristol and Steve Schmidt).
+
+As Wallace — seeing the media’s love affair with Obama — began shrewdly repositioning herself as a liberal, she claimed in 2010 that she did not even vote for McCain due to her misgivings about Palin (a claim which Schmidt repeated about himself for the first time last week during his multi-day psychological erosion). When Wallace published a self-glorifying novel about the first female chief of staff (modeled after herself) to the first female president in 2011, liberal corporate journalists including MSNBC’s Rachel Maddow gushed over it, while The New York Times’ reporter Ashley Parker, now of The Washington Post, heralded her as “the tough, savvy and hard-charging conservative political operator” who enjoys a close friendship with CNN’s Dana Bash.
+
+So beloved was Wallace by the corporate press that she was rewarded in 2014 with a highly lucrative contract to be a co-host on ABC’s The View. She then joined NBC News. Quickly adapting to her new role as a Republican who vehemently despised Donald Trump — easily the most lucrative Trump-era archetype —- MSNBC bestowed her with her own afternoon cable show in 2017. She quickly became one of Democratic viewers’ most popular hosts — constantly giving a platform to Schmidt and other Lincoln Project sleaze merchants as part of the #NeverTrump gang, a faction so beloved by corporate media employees that they filled cable green rooms and newspaper op-ed pages while having little to no representation among the actual voting populace. Liberals love Wallace so much that she was given a second hour to host in 2020.
+
+But lurking beneath her perky smile, multi-million-dollar media contracts, gushing liberal fan base and a long list of media admirers is something extremely dark and pernicious. In a swamp of professional liars and sleaze merchants, Nicolle Wallace has distinguished herself easily as one of the most seamless and casual liars in the world of Washington politics and media. She thrived in the Bush/Cheney administration precisely because she was so adept at selling the White House’s deadly lies to liberal corporate media employees, dressing up those lies in a pleasing-to-liberals packaging that she learned from growing up in a affluent town near San Francisco, and then at Berkeley and Northwestern’s School of Journalism. She was the vintage conservative who liberals could love — a smiling sophisticate, someone willing to betray her GOP employers to impress liberal journalists, an amicable young woman touting degrees from the types of schools that impress coastal media elites — and it was virtually inevitable that she would thrive within media corporations that need women who can credibly claim to be conservatives yet appeal to liberal sensibilities and flatter liberal audiences.
+
+Wallace has employed those personality traits in service of the most toxic and insidious of all tasks: a happy, relentless purveyor of official disinformation. When the CIA wants the American public contaminated with its lies and disinformation, Nicolle Wallace’s lips begin moving. She delivers the anonymous disinformation campaigns of the U.S. security state with a tone of empathy, compassion, and liberal elegance, all in the language and with the affectations which affluent liberals most admire.
+
+She has an unsurpassed ability to broadcast to audiences outright lies whispered to her by Deep State operatives — one after the next — without flinching or betraying the slightest sense of a conscience or moral compass. She lies like only a sociopath can: exuding charm and warmth yet utterly vacant on the inside, except for a soul festering in rot. Over the last twenty years — from her perches at the White House, on The View, and now at MSNBC — nobody has made liberals eat up Pentagon and neocon war propaganda more eagerly and uncritically than Nicolle Wallace.
+
+There is literally not a single liberal/CIA disinformation campaign over the last six years that she did not fully and uncritically embrace. Each time the U.S. Security State and Democratic Party fabricated blatant lies and embarked on injecting their poisonous brew into the American bloodstream, Nicolle Wallace was at the forefront. Using the skills she harnessed to help lead Americans into one of its most destructive and immoral wars in U.S. history — the invasion and 15-year destruction of Iraq — the former Bush/Cheney shill, now a DNC and CIA shill, has played a starring role in virtually every lie American liberals have been led to believe.
+
+Because Wallace is primarily a video performer — she rarely writes or speaks extemporaneously, instead clinging loyally to talking points and teleprompter scripts — video is the only medium that can really convey the full extent of her brazen contempt for the truth. After we began compiling many of the examples of Wallace’s leading role in spreading official disinformation, we asked Matt Orfalea — who came to prominence as a young videographer for the 2016 Sanders campaign and who has since become a much more heterodox voice on his Rumble page, which he began after repeatedly being censored by YouTube — to produce a video with the goal of viscerally conveying who Nicolle Wallace really is and the dark arts on which she relies for her careerist and ideological project.
+
+Orfalea is an artist: a highly creative and unorthodox videographer. The videos he produced for journalist Matt Taibbi regarding the media’s disinformation orgy about the Kyle Rittenhouse trial and its even more deceitful effort to lie to the public about the materials on Hunter Biden’s laptop are two of the best political videos I have seen in years. The video he produced for us on Nicolle Wallace — the Typhoid Mary of Disinformation — is, in my view, at least of the same quality. The tone and tenor of this video are obviously quite different from those we typically employ to do our reporting here, but the video so perfectly conveys who Wallace is, and how she spews and disseminates disinformation, that I am very proud to present it and eager for you to watch it.
+
+The free trailer, available to all, is below. The full mini-documentary, for subscribers only, follows after that. Above all else, it demonstrates the key point about this new discourse about “disinformation.” Those who most flamboyantly warn of the dangers of disinformation and seek to censor the internet in the name of fighting it are, (through such tactics as the defunct-for-now Homeland Security Disinformation Board) in fact, the most aggressive and destructive purveyors of disinformation in the world.
+
+\[…\]
+
+Source: Glenn Greenwald, greenwald.substack.com/p/the-typhoid-mary-of-disinformation

@@ -1,0 +1,39 @@
+---
+id: 1335
+title: 'Forget the Steele dossier: Mueller report release shows why Trump-Russia inquiry was required'
+date: '2021-12-01T07:25:00-08:00'
+author: 'Trump 2020'
+layout: post
+guid: 'https://www.impeachment.network/?p=1335'
+permalink: /2021/12/01/forget-the-steele-dossier-mueller-report-release-shows-why-trump-russia-inquiry-was-required/
+categories:
+    - Uncategorized
+---
+
+- A federal appeals court ruled on Tuesday that parts of the redacted Mueller report be made public
+
+The last few weeks we have seen the media work itself into something of a frenzy in an attempt to force a “reckoning” on the matter of the Steele Dossier, the opposition research document prepared by former British intelligence agent Christopher Steele about then-candidate Donald Trump. I’m sure I don’t need to go into detail about that chapter in the Trump era. You’d have to have been in a coma not to have heard more about it than you ever cared to. Suffice to say that it was the source of the rumor about the infamous “pee tape” which offered many a late night comedian an uproarious punchline.
+
+It’s hard to know exactly what precipitated this sudden desire to have the media don a hair shirt over their coverage of the dossier, but it seems to stem from a recent ABC interview with Steele and the recent indictments of a handful of people by Special Prosecutor John Durham for lying to the FBI about it. Durham’s inquiry into what Trump called “the oranges of the investigation” has been going on for years now with very little to show for it and according to those who have followed the cases closely, like journalist Marcy Wheeler, there is every reason to believe that the probe will end up being a dud.
+
+Nonetheless, there has been quite a back and forth among news organizations over whether they were too credulous in reporting the dossier and if it was ethical to publish it in the first place. Overlooking the mountain of evidence that had nothing at all to do with the dossier and the bizarre behavior by Trump both before and during his presidency when it came to Russia, the result of all this “reckoning” is that suddenly there seems to be some belief even in mainstream quarters that the whole Russia scandal was overblown and perhaps not worth the resources and time put into reporting it.
+
+Naturally, no one is more pleased by this than Donald Trump:
+
+No doubt there was some histrionic coverage of the Steele Dossier. But the truth is that virtually every news outlet that reported it made clear that it was unsubstantiated and no one reported that it was the only reason for the Russia investigation. Trump and his campaign’s suspicious behavior was more than enough to set off alarms all over the world.
+
+Trump had been seeking to do business in Russia for years and was found to have lied throughout the campaign about that, saying that he knew Vladimir Putin, that he didn’t know him, that they were “stablemates,” that he couldn’t comment because it would betray Putin’s confidence all the while heaping over-the-top praise on the Russian leader. During the course of the Russia investigation, it was revealed that Trump had elaborate plans for Trump Tower Moscow, which he had assigned to none other than his personal lawyer and his daughter Ivanka. He lied repeatedly about this too, even in one of the presidential debates in the fall of 2016.
+
+Special Prosecutor Robert Mueller and his team found that they could not prove a conspiracy between the Trump campaign and the Russian government in regards to the interference in the 2016 election and the hacking of Hillary Clinton’s campaign. He indicted a bunch of people, including Trump’s campaign chairman Paul Manafort, for passing campaign data to a Russian operative associated with an oligarch to whom he owed a lot of money. There were strange fringe players all over that campaign including the famous “coffee boy” George Papadopoulos who were also indicted by Mueller and confirmed by the bipartisan Intelligence Committee report to have been the one who actually tripped the investigation by the FBI. His loose lips to an Australian diplomat about Russian activities on behalf of Trump happened months before anyone had heard of Christopher Steele’s dossier.
+
+The Senate’s report made clear that the dossier was not the source of the government investigation. The Mueller Report did not rely upon it in any way. It was a side-show, at best, which had zero bearing on the findings of those two huge investigations which concluded that the Trump campaign’s suspicious activities, including the numerous overt attempts to cover up and obstruct justice, were more than enough to justify the investigations that plagued him throughout his term.
+
+All of these things and much more actually happened, including meetings overseas in which Donald Trump openly sided with Vladimir Putin over his own intelligence agencies. It wasn’t just some made-up scandal. We had a president who was either so corrupt, so reckless or so vulnerable to blackmail that he spent his entire term essentially justifying the suspicions about his relationship with the Russian government with his bizarre behavior.
+
+One of the most damning charges against the Trump campaign (which also had nothing to do with the Steele Dossier) was reported by the New York Times in July of 2017, revealing that Donald Trump Jr, Jared Kushner and Paul Manafort had met with a Russian attorney who was offering dirt on Hillary Clinton on behalf of the Russian government. According to the Senate intelligence report, the Russian government saw that as a signal that they were willing to play ball, particularly when Trump explicitly asked Russia to release Clinton’s emails in a public press conference shortly afterward. That very night there was an attempt to hack the Clinton campaign and within a month, a cache of emails was released by Wikileaks on the eve of the Democratic National Convention.
+
+In a somewhat surprising decision, on Tuesday a federal appeals court reversed a lower court ruling that kept certain redactions in the Mueller Report in place pertaining to Donald Trump Jr’s involvement in the investigation and the Mueller team’s reasoning for not charging him and others with campaign finance violations. The government’s insistence on keeping that under wraps was absurd since much of the information was already public and its reasoning that it would cause “reputational or stigmatizing harm” made no sense. (They will not unredact the parts which explain why Mueller chose not to charge for false statements which really would be interesting, unfortunately.) The decision won’t offer any new revelations but at least it strikes a small blow for transparency.
+
+As he has his whole life, Trump has escaped direct accountability for any of it. I doubt the Russia investigations had anything to do with his loss in 2020 and Mueller’s decision not to say directly that Trump obstructed justice because it might harm his reputation (while also making it clear that he could be prosecuted for that crime after leaving office) was tragically naive. But that is no reason for the media to signal its even-handedness by flagellating itself over the Steele Dossier and help Trump persuade even more people that the Russia scandal was nothing more than a partisan witch hunt. It was not. And one can’t help but wonder if it might be more fruitful for the media to have a little “reckoning” over their “but her emails” coverage during the 2016 campaign, a truly egregious error in judgment that led to the nightmare that followed. At the moment there is every reason to believe that could easily happen again.
+
+Source: Heather Digby Parton, salon.com/2021/12/01/forget-the-steele-dossier-mueller-report-release-shows-why-inquiry-was-required/

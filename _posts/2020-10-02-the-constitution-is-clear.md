@@ -1,0 +1,15 @@
+---
+id: 703
+title: 'The Constitution is clear'
+date: '2020-10-02T06:46:00-07:00'
+author: 'Trump 2020'
+layout: post
+guid: 'https://www.impeachment.network/?p=703'
+permalink: /2020/10/02/the-constitution-is-clear/
+categories:
+    - Uncategorized
+---
+
+<figure class="wp-block-image">![Greg Pinelo](https://www.impeachment.network/_assets/2020-10-02-Twitter.jpg)</figure>Note: Greg Pinelo is a Democratic strategist and a former ad maker for Obama.
+
+H/T: Twitchy.com

@@ -1,0 +1,67 @@
+---
+id: 605
+title: 'Yet another media tale — Trump tear-gassed protesters for a church photo op — collapses'
+date: '2021-06-09T07:15:00-07:00'
+author: 'Trump 2020'
+layout: post
+guid: 'https://www.impeachment.network/?p=605'
+permalink: /2021/06/09/yet-another-media-tale-trump-tear-gassed-protesters-for-a-church-photo-op-collapses/
+categories:
+    - Uncategorized
+---
+
+- That the White House violently cleared Lafayette Park at Trump’s behest was treated as unquestioned truth by most corporate media. Today it was revealed as a falsehood.
+
+For more than a year, it has been consecrated media fact that former President Donald Trump and his White House, on June 1 of last year, directed the U.S. Park Police to use tear gas against peaceful Lafayette Park protesters, all to enable a Trump photo-op in front of St. John’s Church. That this happened was never presented as a possibility or likelihood but as indisputable truth. And it provoked weeks of unmitigated media outrage, presented as one of the most egregious assaults on the democratic order in decades.
+
+This tale was so pervasive in the media landscape that it would be impossible for any one article to compile all the examples. “Peaceful Protesters Tear-Gassed To Clear Way For Trump Church Photo-Op,” read the NPR headline on June 1. The New York Times ran with: “Protesters Dispersed With Tear Gas So Trump Could Pose at Church.” CNN devoted multiple segments to venting indignation while the on-screen graphic declared: “Peaceful Protesters Near White House Tear-Gassed, Shot With Rubber Bullets So Trump Can Have Church Photo Op.”
+
+ABC News anchor George Stephanopoulos “reported” that “the administration asked police to clear peaceful protesters from the park across the White House so that the President could stage a photo op.” The Intercept published an article stating that “federal police used tear gas and rubber bullets to clear protesters from Lafayette Square in front of the White House,” all to feature a video where the first interviewee said: “to me, the way our military and police have behaved toward the protesters at the instruction of President Trump has almost been Nazi-like.”Nazi-like.” This was repeated by virtually every major corporate outlet:
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> This was the scene outside of the White House on Monday as police used tear gas and flash grenades to clear out peaceful protesters so President Trump could visit the nearby St. John’s Church, where there was a parish house basement fire Sunday night <https://t.co/nFrCqYpqZR> [pic.twitter.com/DVP11iiVIh](https://t.co/DVP11iiVIh)
+> 
+> — The New York Times (@nytimes) [June 2, 2020](https://twitter.com/nytimes/status/1267638330654625794?ref_src=twsrc%5Etfw)
+
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>At a June 2 Press Conference, then-Sen. Kamala Harris (D-CA) proclaimed with anger: “last night I watched as President Trump, having gassed peaceful protesters just so he could do this photo op, then he went on to teargas priests who were helping protesters in Lafayette Park.” Speaking on MSNBC’s Morning Joe, House Speaker Nancy Pelosi exclaimed: “What is this, a banana republic?,” when asked about NBC News’ report that “security forces used tear gas and flash-bangs against a crowd of peaceful demonstrators to clear the area for the president.”
+
+There were some denials of this narrative at the time, largely confined to right-wing media. ABC News mocked “hosts on Fox News, one of the president’s preferred news media outlets, \[who\] have spent the days since the controversial photo op shifting defenses to fit the president’s narrative.” Meanwhile, The Federalist’s Mollie Hemingway — in an article retweeted by Trump as a “must read” — cited sources to assert that the entire media narrative was false because force was to clear the Park not to enable Trump’s photo op but rather “because \[protesters\] had climbed on top of a structure in Lafayette Park that had been burned the prior night” and the Park Police decided to build a barrier to protect it.
+
+But as usual, the self-proclaimed Superior Liberal Truth Squad instantly declared them to be lying. The Washington Post’s “fact-checker,” Phillip Bump, mocked denials from Trump supporters and right-wing reporters such as Hemingway, proclaiming that a recent statement from the Park Police “brings the debate to a close,” as it proves “the deployment of security forces using weapons and irritants to clear a peaceful protest so that the president could have a photo op.”
+
+All of this came crashing down on their heads on Wednesday afternoon. The independent Inspector General of the Interior Department, Mark Lee Greenblatt, issued his office’s findings after a long investigation into “the actions of the U.S. Park Police (USPP) to disperse protesters in and around Lafayette Park in Washington, DC, on June 1, 2020.” Greenblatt has been around Washington for a long time, occupying numerous key positions in the Obama administration, including investigative counsel at the Department of Justice’s Office of Inspector General and Assistant Inspector General for Investigations at Obama’s Commerce Department.
+
+The letter released by Greenblatt’s office accompanying the report makes clear how far-reaching the investigation was:
+
+> Over the course of this review, our career investigative staff conducted extensive witness interviews, reviewed video footage from numerous vantage points, listened to radio transmissions from multiple law enforcement entities, and examined evidence including emails, text messages, telephone records, procurement documents, and other related materials. This report presents a thorough, independent examination of that evidence to assess the USPP’s decision making and operations, including a detailed timeline of relevant actions and an analysis of whether the USPP’s actions complied with governing policies.
+
+The IG’s conclusion could not be clearer: the media narrative was false from start to finish. Namely, he said, “the evidence did not support a finding that the \[U.S. Park Police\] cleared the park on June 1, 2020, so that then President Trump could enter the park.” Instead — exactly as Hemingway’s widely-mocked-by-liberal-outlets article reported — “the evidence we reviewed showed that the USPP cleared the park to allow a contractor to safely install anti-scale fencing in response to destruction of Federal property and injury to officers that occurred on May 30 and May 31.” Crucially, “the evidence established that relevant USPP officials had made those decisions and had begun implementing the operational plan several hours before they knew of a potential Presidential visit to the park, which occurred later that day.”
+
+The detailed IG report elaborated on the timeline even more extensively. It was “on the morning of June 1” when “the Secret Service procured anti-scale fencing to establish a more secure perimeter around Lafayette Park that was to be delivered and installed that same day.” The agencies had “determined that it was necessary to clear protesters from the area in and around the park to enable the contractor’s employees to safely install the fence.” Indeed, “we found that by approximately 10 a.m. on June 1, the USPP had already begun developing a plan to clear protesters from the area to enable the contractor to safely install the anti-scale fence” — many hours before Trump decided to go.
+
+The clearing of the Park, said the IG Report, had nothing to do with Trump or his intended visit to the Church; in fact, those responsible for doing this did not have any knowledge of Trump’s intentions:
+
+> The evidence we reviewed showed that the USPP cleared the park to allow the contractor to safely install the anti-scale fencing in response to destruction of property and injury to officers occurring on May 30 and 31. Further, the evidence showed that the USPP did not know about the President’s potential movement until mid- to late afternoon on June 1—hours after it had begun developing its operational plan and the fencing contractor had arrived in the park.
+
+Beyond that, planning for that operation began at least two days before Trump decided to visit the church. “The fencing contractor told us and emails we reviewed confirmed that on May 30, the assistant division chief of the Secret Service’s Procurement Division discussed with the contractor how quickly the contractor could deliver anti-scale fencing to Lafayette Park,” the Report found.
+
+Plans for the fence were finalized at least the day prior to Trump’s walk: “the fencing contractor’s project manager told us that she learned on May 31 that the Secret Service had contacted the fencing contractor about an anti-scale fence.” And while Attorney General William Barr did visit the Park shortly before Trump’s walk and saw what he viewed as unruly protesters, causing him to ask Park Police commanders whether they would still be there when Trump arrived, the order to clear the Park had been given well before that and was unrelated to Trump or to Barr: there is “no evidence that the Attorney General’s visit to Lafayette Park at 6:10 p.m. caused the USPP to alter its plans to clear the park.”
+
+Indeed, none of the key decision-makers had any idea Trump was coming when they implemented plans to clear the Park:
+
+> The USPP operations commander, the USPP incident commander, and the USPP acting chief of police told us they did not know the President planned to make a speech in the Rose Garden that evening. The USPP incident commander told us he was never informed of the President’s specific plans or when the President planned to come out of the White House. He said, “It was just a, ‘Hey, here he comes.’ And all of a sudden I turn around and there’s the entourage.”
+> 
+> The USPP acting chief of police also told us he did not know about the President’s plans to visit St. John’s Church and that the USPP incident commander told him the President might come to the park to assess the damage at an unspecified time. The USPP acting chief of police and the USPP incident commander told us this information had no impact on their operational plan, and both denied that the President’s potential visit to the park influenced the USPP’s decision to clear Lafayette Park and the surrounding areas. Numerous other USPP captains and lieutenants and the ACPD civil disturbance unit commanders also told us they received no information suggesting that the USPP cleared the area to facilitate the President’s visit to St. John’s Church. The DCNG major we interviewed told us that his USPP liaison appeared as surprised as he was when the President visited Lafayette Park, stating, “We \[were\] both kind of equally shocked.”
+
+Of the dozens of people who participated in the investigation, “no one we interviewed stated that the USPP cleared the park because of a potential visit by the President or that the USPP altered the timeline to accommodate the President’s movement.”
+
+In sum, the media claims that were repeated over and over and over as proven fact — and even confirmed by “fact-checkers” — were completely false. Watch how easily and often and aggressively and readily they just spread lies, this one courtesy of CNN’s Erin Burnett and Don Lemon:
+
+<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="473" src="https://www.youtube.com/embed/pW2CQ1jd4uA?feature=oembed" title="CNN's Erin Burnett and Don Lemon, June 1, 2020" width="840"></iframe></div></figure>With the issuance of this independent debunking of their claims, the journalists who spread this latest lie have started to come to terms with what they did — yet again. “A narrative we thought we knew is not the reality,” NBC News’ chief CIA Disinformation Agent Ken Dilanian awkwardly acknowledged on Meet the Press Daily. Shortly before publication of this article, Politico begrudgingly admitted that while “the department’s Park Police failed to give Black Lives Matter demonstrators proper warning before it cleared them from Lafayette Park,” their primary media claim was untrue: “its actions were unrelated to President Donald Trump’s photo-op appearance at a nearby church.” Time will tell how readily others who spread this lie will account for how they — yet again — got this story so wrong.
+
+Over and over we see the central truth: the corporate outlets that most loudly and shrilly denounce “disinformation” — to the point of demanding online censorship and de-platforming in the name of combating it — are, in fact, the ones who spread disinformation most frequently and destructively. It is hard to count how many times they have spread major fake stories in the Trump years. For that reason, they have nobody but themselves to blame for the utter collapse in trust and faith on the part of the public, which has rightfully concluded they cannot and should not be believed.
+
+Source: Glenn Greenwald, greenwald.substack.com/p/yet-another-media-tale-trump-tear
+
+- - - - - -
+
+**Webmaster note:** The original article has many links not included here.
