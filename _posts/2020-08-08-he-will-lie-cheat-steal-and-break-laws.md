@@ -8,7 +8,7 @@ author:
 
 > He will lie. He will cheat. He will steal. He will break laws. He will collude with Vladimir Putin. The only way to rid our country of the most Criminally Corrupt President in our Nation’s history is with massive turnout. Vote as if Democracy depends on it. Because it does.
 >
-> <cite>Rob Reiner via Twitter</cite>
+> <cite>Rob Reiner, via Twitter</cite>
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> He will lie. He will cheat. He will steal. He will break laws. He will collude with Vladimir Putin. The only way to rid our country of the most Criminally Corrupt President in our Nation’s history is with massive turnout. Vote as if Democracy depends on it. Because it does.
 >

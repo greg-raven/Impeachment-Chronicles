@@ -8,7 +8,7 @@ author:
 
 > You can not reason with a Trump supporter. They believe that a Lying Criminal who doesn’t give a flying fuck about them was sent to them by God. Don’t try to reason. Just Vote. Vote like our Democracy depends on it. Because it does.
 >
-> <cite>Rob Reiner via Twitter</cite>
+> <cite>Rob Reiner, via Twitter</cite>
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> You can not reason with a Trump supporter. They believe that a Lying Criminal who doesn’t give a flying fuck about them was sent to them by God. Don’t try to reason. Just Vote. Vote like our Democracy depends on it. Because it does.
 >

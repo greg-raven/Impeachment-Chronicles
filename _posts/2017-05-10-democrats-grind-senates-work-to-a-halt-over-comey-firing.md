@@ -4,12 +4,8 @@ date: '2017-05-10T10:19:00-07:00'
 layout: post
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> And totally justified. At this point we arguably do not have a legitimate president or administration. 1/ <https://t.co/SSc6dC9Adi>
-> 
-> — Paul Krugman (@paulkrugman) [May 10, 2017](https://twitter.com/paulkrugman/status/862395339604729858?ref_src=twsrc%5Etfw)
+> \[…\] At this point we arguably do not have a legitimate president or administration. \[…\]
+>
+> <cite>Paul Krugman, via Twitter</cite>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>> “At this point we arguably do not have a legitimate president or administration.”
-> 
-> <cite>Paul Krugman</cite>
-
-Source: via Twitter
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And totally justified. At this point we arguably do not have a legitimate president or administration. 1/ <a href="https://t.co/SSc6dC9Adi">https://t.co/SSc6dC9Adi</a></p>&mdash; Paul Krugman (@paulkrugman) <a href="https://twitter.com/paulkrugman/status/862395339604729858?ref_src=twsrc%5Etfw">May 10, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

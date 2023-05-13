@@ -8,7 +8,7 @@ author:
 
 > Trump’s closing strategy: Blanket the country with super spreader rallies and kill as many Americans as possible.
 >
-> <cite>Rob Reiner via Twitter</cite>
+> <cite>Rob Reiner, via Twitter</cite>
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Trump’s closing strategy: Blanket the country with super spreader rallies and kill as many Americans as possible.
 >

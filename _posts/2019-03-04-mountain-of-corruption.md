@@ -8,7 +8,7 @@ author:
 
 > Facing the Mountain of Corruption can seem overwhelming. To give the public a clear picture of Trump’s lifetime of criminality, hearings must be focused. Only pointed questions from Members and seasoned prosecutors. No grandstanding. Democracy at stake.
 >
-> <cite>Rob Reiner via Twitter</cite>
+> <cite>Rob Reiner, via Twitter</cite>
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Facing the Mountain of Corruption can seem overwhelming. To give the public a clear picture of Trump’s lifetime of criminality, hearings must be focused. Only pointed questions from Members and seasoned prosecutors. No grandstanding. Democracy at stake.
 >

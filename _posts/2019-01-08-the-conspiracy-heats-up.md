@@ -8,7 +8,7 @@ author:
 
 > The conspiracy heats up. Just when the desperate liar tries to bullshit US with his non existent border crisis, we learn that his campaign chairman was sharing valuable polling data with Russian intelligence. An illegitimate POTUS pushes an illegitimate crisis. #TrumpResign
 >
-> <cite>Rob Reiner via Twitter</cite>
+> <cite>Rob Reiner, via Twitter</cite>
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The conspiracy heats up. Just when the desperate liar tries to bullshit US with his non existent border crisis, we learn that his campaign chairman was sharing valuable polling data with Russian intelligence. An illegitimate POTUS pushes an illegitimate crisis. [\#TrumpResign](https://twitter.com/hashtag/TrumpResign?src=hash&ref_src=twsrc%5Etfw)
 >

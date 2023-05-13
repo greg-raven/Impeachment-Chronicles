@@ -2,9 +2,11 @@
 title: 'Anticipating Trump’s return to Twitter'
 date: '2022-10-28T08:35:38-07:00'
 layout: post
+author:
+- Rick Wilson
 ---
 
-1/ So, as I warned, Trump is likely to be back here on Hellscape dot com any time now. E|on will want to juice the stock price, and rest-assured, Wall Street will take the bait.
+1/ So, as I warned, Trump is likely to be back here on Hellscape dot com any time now. Elon will want to juice the stock price, and rest-assured, Wall Street will take the bait.
 
 There was a sense that his banishment made his cult less committed, his danger less pendant.
 
@@ -14,7 +16,7 @@ There was a sense that his banishment made his cult less committed, his danger l
 
 Who cares? This is where the fight is, and if he’s here, you owe it to yourself to tell him to fuck right off.
 
-4/ Y’all, he reads his twitter comments. He’s a damn snowflake. Drag him. Have fun with it. He’s not sending his militia to kick in doors yet, and since Duke E|on has embraced the free speech public square trope, ride it like a rented mule.
+4/ Y’all, he reads his twitter comments. He’s a damn snowflake. Drag him. Have fun with it. He’s not sending his militia to kick in doors yet, and since Duke Elon has embraced the free speech public square trope, ride it like a rented mule.
 
 5/ (Yes, I know it’s going private now; should have said “valuation” instead of “stock price.”)
 
@@ -44,10 +46,4 @@ OK, back to work for this guy. Ads to make, people to smite,
 
 See you soon, Donnie.
 
-> 1/ So, as I warned, Trump is likely to be back here on Hellscape dot com any time now. E|on will want to juice the stock price, and rest-assured, Wall Street will take the bait.
->
-> There was a sense that his banishment made his cult less committed, his danger less pendant.
->
-> <cite>Rick Wilson via Twitter</cite>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ So, as I warned, Trump is likely to be back here on Hellscape dot com any time now. E|on will want to juice the stock price, and rest-assured, Wall Street will take the bait. <br><br>There was a sense that his banishment made his cult less committed, his danger less pendant.</p>&mdash; Rick Wilson (@TheRickWilson) <a href="https://twitter.com/TheRickWilson/status/1585813534801281028?ref_src=twsrc%5Etfw">October 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1/ So, as I warned, Trump is likely to be back here on Hellscape dot com any time now. Elon will want to juice the stock price, and rest-assured, Wall Street will take the bait. <br><br>There was a sense that his banishment made his cult less committed, his danger less pendant.</p>&mdash; Rick Wilson (@TheRickWilson) <a href="https://twitter.com/TheRickWilson/status/1585813534801281028?ref_src=twsrc%5Etfw">October 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

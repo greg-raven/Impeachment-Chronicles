@@ -8,7 +8,7 @@ author:
 
 > It’s clear: Trump is guilty. But the only way to remove this corrupt President is to move Republicans. The only way to do that is to move the public. The only way to do that is to have star witnesses testify. Free elections and Democracy are at stake.
 >
-> <cite>Rob Reiner via Twitter</cite>
+> <cite>Rob Reiner, via Twitter</cite>
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> It’s clear: Trump is guilty. But the only way to remove this corrupt President is to move Republicans. The only way to do that is to move the public. The only way to do that is to have star witnesses testify. Free elections and Democracy are at stake.
 >

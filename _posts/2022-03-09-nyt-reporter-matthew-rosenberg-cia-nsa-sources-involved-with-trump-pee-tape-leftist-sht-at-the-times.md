@@ -1,10 +1,14 @@
 ---
-title: 'NYT reporter Matthew Rosenberg: CIA/NSA sources involved with Trump ‘pee tape’ &#038; ‘leftist sh*t’ at the Times'
+title: "CIA/NSA sources involved with Trump ‘pee tape"
 date: '2022-03-09T09:23:00-08:00'
 layout: post
+author:
+- Matthew Rosenberg
 ---
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" at="" frameborder="0" height="473" leftist="" sh="" src="https://www.youtube.com/embed/9y-ClpvWnq8?feature=oembed" the="" times="" title="NYT Reporter: CIA/NSA Sources Involved With Trump “Pee Tape” & "Leftist sh*t" At The Times" width="840"></iframe></div></figure>New York Times Reporter Discusses CIA / NSA Sources; ‘Ridiculous Pee Tape Didn’t Exist’ … ‘Crazier Leftist Sh\*t’ Influences Reporting
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9y-ClpvWnq8" title="Leftist shit at The Times"></iframe>
+
+New York Times Reporter Discusses CIA / NSA Sources; ‘Ridiculous Pee Tape Didn’t Exist’ … ‘Crazier Leftist Sh\*t’ Influences Reporting
 
 - Rosenberg on infamous pee tape: “It involved CIA and NSA. It involved Trump and involved that ridiculous, like, ‘pee tape’, which of course doesn’t exist.”
 - Rosenberg: “I think there’s like a real internal tug of war \[at NYT\] between, like the reasonable people and some of the crazier leftist sh\*t that’s worked its way in there.”

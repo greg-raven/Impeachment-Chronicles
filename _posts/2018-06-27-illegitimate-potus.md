@@ -8,7 +8,7 @@ author:
 
 > The illegitimate POTUS will now try to ram a SCOTUS nominee through before Nov. So much for that McConnell rule. Calling on two principled Republicans to stand up against tyranny.
 >
-> <cite>Rob Reiner via Twitter</cite>
+> <cite>Rob Reiner, via Twitter</cite>
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The illegitimate POTUS will now try to ram a SCOTUS nominee through before Nov. So much for that McConnell rule. Calling on two principled Republicans to stand up against tyranny.
 >

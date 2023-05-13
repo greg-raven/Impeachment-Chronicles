@@ -12,4 +12,4 @@ author:
 
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>> Sick of DT crying hoax. We’ve been attacked. This is not about you. Our security &amp; Democracy at stake. Stand up,protect US &amp; be a POTUS!!
 >
-> <cite>Rob Reiner via Twitter</cite>
+> <cite>Rob Reiner, via Twitter</cite>

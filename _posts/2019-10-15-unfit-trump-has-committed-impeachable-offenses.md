@@ -8,7 +8,7 @@ author:
 
 > The GOP knows this unfit President has committed Impeachable offenses. They have no moral, legal, or Constitutional defense for him. It’s time to make them comfortable with voting to remove him from office. Our Democracy depends on it.
 >
-> <cite>Rob Reiner via Twitter</cite>
+> <cite>Rob Reiner, via Twitter</cite>
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The GOP knows this unfit President has committed Impeachable offenses. They have no moral, legal, or Constitutional defense for him. It’s time to make them comfortable with voting to remove him from office. Our Democracy depends on it.
 >

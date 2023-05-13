@@ -8,7 +8,7 @@ author:
 
 > The survival of Democracy depends on the removal of the most Criminally Corrupt President in our Nation’s history. It’s time to put our differences aside and celebrate what unites US by coalescing behind Joe Biden. This Nov. let’s blow the Sick Liar away.
 >
-> <cite>Rob Reiner via Twitter</cite>
+> <cite>Rob Reiner, via Twitter</cite>
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The survival of Democracy depends on the removal of the most Criminally Corrupt President in our Nation’s history. It’s time to put our differences aside and celebrate what unites US by coalescing behind Joe Biden. This Nov. let’s blow the Sick Liar away.
 >
