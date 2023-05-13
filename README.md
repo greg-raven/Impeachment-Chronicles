@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <p><em><strong>Disclaimer:</strong> The information here may vary depending on the version you're using.<br/>
   Please refer to the <code>README.md</code> bundled within the theme-gem for information specific to your version or by pointing
@@ -372,3 +373,8 @@ To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+=======
+# Impeachment Chronicles
+
+Attacks on our 45th President, his vice-president, and our republic.
+>>>>>>> 72f7f0969c46b73514ddb732d578411a8f9da2e6
