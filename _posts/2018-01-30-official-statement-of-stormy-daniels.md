@@ -18,4 +18,6 @@ Thank you,
 
 Stormy Daniels
 
-<figure class="wp-block-image size-full">![](/wp-content/uploads/2023/03/20180130-Stormy-Daniels.jpg)</figure>
+<figure>
+<img src="/assets/20180130-Stormy-Daniels.jpg">
+</figure>

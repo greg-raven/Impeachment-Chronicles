@@ -11,5 +11,5 @@ author:
 > <cite>BrooklynDad Defiant!, via Twitter (via ifunny.co/picture/brooklyndad-defiant-mmpadellan-talk-of-impeachment-is-not-enough-this-IoWpmijD9)</cite>
 
 <figure>
-<img src="/wp-content/uploads/2022/12/20170204-bdd.jpg">
+<img src="/assets/20170204-bdd.jpg">
 </figure>
