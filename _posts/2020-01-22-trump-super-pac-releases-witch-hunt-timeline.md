@@ -4,7 +4,7 @@ date: '2020-01-22T04:56:00-08:00'
 layout: post
 ---
 
-The America First Action PAC released a [timeline of the ongoing “witch hunt” against President Donald Trump](https://www.impeachment-hoax.com) on Wednesday.
+The America First Action PAC released a [timeline of the ongoing “witch hunt” against President Donald Trump](https://web.archive.org/web/20221207223303/http://www.impeachment-hoax.com/) on Wednesday.
 
 The deeply researched timeline, provided exclusively in advance to Breitbart News, details all of the evidence of federal law enforcement officers, intelligence agencies, and government bureaucrats trying to cripple President Trump’s political campaign and his administration and continues to highlight the present-day efforts by Democrats and their impeachment effort.
 

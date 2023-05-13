@@ -2,20 +2,24 @@
 title: 'Maxine Waters is right, impeachment IS whatever Congress says it is'
 date: '2017-09-21T10:27:00-07:00'
 layout: post
+author:
+- Elura Nanos
 ---
 
 Well, it sure seems like Rep. Maxine Waters (D-Calif.) is brushing up on her Constitutional law. Yesterday, Waters spoke at a Congressional Black Caucus Town Hall on Civil Rights, and she used her time to full-on demand help with impeaching Donald Trump. Specifically, she said:
 
-“[Impeachment is about whatever the Congress says it is. There is no law that dictates impeachment. What the Constitution says is ‘high crimes and misdemeanors,’ and we define that.](/2017/09/19/rep-maxine-waters-impeachment-is-about-whatever-the-congress-says-it-is/)”
+“[Impeachment is about whatever the Congress says it is. There is no law that dictates impeachment. What the Constitution says is ‘high crimes and misdemeanors,’ and we define that.](/2017/09/19/rep-maxine-waters-impeachment-is-about-whatever-the-congress-says-it-is.html)”
 
 Waters, never a stranger to haters, predictably set Twitter on fire with her statements:
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Maxine Waters is wrong you can't impeach a President because you don't like him. Maxine maybe you should read the constitution.
-> 
+>
 > — Terry West (@TerryWe33931124) [September 21, 2017](https://twitter.com/TerryWe33931124/status/910995640481714178?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>> \#AskWatters just because mad Maxine Waters is black and a woman, does that give her a right to THINK she can impeach POTUS?
-> 
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+
+> \#AskWatters just because mad Maxine Waters is black and a woman, does that give her a right to THINK she can impeach POTUS?
+>
 > <cite>Dan Marsh (@deplorareaper) September 21, 2017</cite>
 
 I get it. For those who’ve not really looked into the law surrounding impeachment, Waters’ statements may sound a little suspect. I mean a truly impeachable offense can’t really be “whatever the Congress says it is,” right?

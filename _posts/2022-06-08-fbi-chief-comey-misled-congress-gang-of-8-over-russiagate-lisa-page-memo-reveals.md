@@ -4,7 +4,7 @@ date: '2022-06-08T10:08:00-07:00'
 layout: post
 ---
 
-- Lisa Page, as an FBI lawyer in 2017, wrote “[talking points](/2017/03/08/talking-points/)” for Director James Comey ahead of a briefing to Congress — a memo now exposed for its deceptions. Her lawyer, Amy Jeffress, is the wife of the judge for the trial of recently acquitted ex-Clinton lawyer Michael Sussmann.
+- Lisa Page, as an FBI lawyer in 2017, wrote “[talking points](/2017/03/08/talking-points.html)” for Director James Comey ahead of a briefing to Congress — a memo now exposed for its deceptions. Her lawyer, Amy Jeffress, is the wife of the judge for the trial of recently acquitted ex-Clinton lawyer Michael Sussmann.
 
 The FBI deceived the House, Senate and the Justice Department about the substance and strength of evidence undergirding its counterintelligence investigation of President Trump, according to a recently declassified document and other material.
 
