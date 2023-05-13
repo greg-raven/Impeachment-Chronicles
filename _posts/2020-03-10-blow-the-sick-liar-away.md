@@ -3,7 +3,7 @@ title: 'Blow the sick liar away'
 date: '2020-03-10T09:32:00-07:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > The survival of Democracy depends on the removal of the most Criminally Corrupt President in our Nation’s history. It’s time to put our differences aside and celebrate what unites US by coalescing behind Joe Biden. This Nov. let’s blow the Sick Liar away.

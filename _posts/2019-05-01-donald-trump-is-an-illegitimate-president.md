@@ -3,7 +3,7 @@ title: 'Donald Trump is an illegitimate president'
 date: '2019-05-01T13:38:00-07:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > Donald Trump is an illegitimate President. He welcomed the help of a foreign enemy power and aided &amp; abetted in stealing an election. He covered up his 100 contacts with that enemy &amp; obstructs the investigation into that enemy’s attack on US. #ImpeachmentNOW

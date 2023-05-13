@@ -3,7 +3,7 @@ title: 'Fact: Trump stole documents'
 date: '2022-10-13T09:22:00-07:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > Fact: Donald Trump stole Highly Classified Documents from the United States Government. When asked for their return, he directed an aide to hide them. He will be Indicted for that.

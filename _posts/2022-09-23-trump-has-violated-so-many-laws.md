@@ -3,7 +3,7 @@ title: 'Trump has violated so many laws'
 date: '2022-09-23T09:23:00-07:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > Trump has violated so many laws, it’s hard to keep track. But the one we must never forget is he led an armed deadly Insurrection to Overthrow the Government of the United States of America.

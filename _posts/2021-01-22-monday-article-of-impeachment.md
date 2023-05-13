@@ -3,7 +3,7 @@ title: 'Monday Article of Impeachment'
 date: '2021-01-22T13:43:00-08:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > On Monday The House will send an Article of Impeachment to The Senate which will charge Donald Trump with an open and shut case of inciting Insurrection. Every Senator will have to decide whether they will uphold the Constitution and convict or drive a stake into Democracy.

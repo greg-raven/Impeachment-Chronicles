@@ -3,7 +3,7 @@ title: 'The conspiracy heats up'
 date: '2019-01-08T13:36:00-08:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > The conspiracy heats up. Just when the desperate liar tries to bullshit US with his non existent border crisis, we learn that his campaign chairman was sharing valuable polling data with Russian intelligence. An illegitimate POTUS pushes an illegitimate crisis. #TrumpResign

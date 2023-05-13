@@ -3,7 +3,7 @@ title: 'Time for media to dig in hard'
 date: '2017-02-24T09:29:00-08:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > Time for media to dig in hard to get the truth out about Trump ties to Russia. 1st amendment and life of our democracy depends on it.

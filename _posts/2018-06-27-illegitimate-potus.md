@@ -3,7 +3,7 @@ title: 'Illegitimate POTUS'
 date: '2018-06-27T13:41:00-07:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > The illegitimate POTUS will now try to ram a SCOTUS nominee through before Nov. So much for that McConnell rule. Calling on two principled Republicans to stand up against tyranny.

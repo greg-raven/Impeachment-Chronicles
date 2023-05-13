@@ -3,7 +3,7 @@ title: 'DT is the most corrupt POTUS in my lifetime'
 date: '2017-03-10T13:37:00-08:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > DT is the most corrupt POTUS in my lifetime. Don’t let a soulless pathological liar numb you with his mountain of lies. Democracy at stake.

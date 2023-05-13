@@ -3,7 +3,7 @@ title: 'Trump is guilty'
 date: '2019-12-05T13:47:00-08:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > It’s clear: Trump is guilty. But the only way to remove this corrupt President is to move Republicans. The only way to do that is to move the public. The only way to do that is to have star witnesses testify. Free elections and Democracy are at stake.

@@ -3,7 +3,7 @@ title: 'Original sin'
 date: '2020-08-23T13:44:00-07:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > The original sin of America is slavery. The original sin of Trump’s Presidency is a stolen election. For the sake of equal justice, human dignity, and the preservation of Democracy we can not let him steal another. To overcome we must overwhelm. VOTE!

@@ -3,7 +3,7 @@ title: 'Killing democracy'
 date: '2019-04-17T13:42:00-07:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > Tomorrow Donald Trump, with the aid of the Attorney General of the United States, will try to drive a stake through the heart of Democracy.

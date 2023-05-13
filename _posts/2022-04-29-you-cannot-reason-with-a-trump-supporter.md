@@ -3,7 +3,7 @@ title: 'You cannot reason with a Trump supporter'
 date: '2022-04-29T09:31:00-07:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > You can not reason with a Trump supporter. They believe that a Lying Criminal who doesn’t give a flying fuck about them was sent to them by God. Don’t try to reason. Just Vote. Vote like our Democracy depends on it. Because it does.

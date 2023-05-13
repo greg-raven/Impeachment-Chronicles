@@ -3,7 +3,7 @@ title: 'HRC will win'
 date: '2016-11-04T13:38:00-07:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 > The Russians can collude with DT. The FBI can collude with DT. The American people won’t have their democracy stolen from them. HRC WILL WIN

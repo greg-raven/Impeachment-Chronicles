@@ -3,7 +3,7 @@ title: 'Pathological liar exposed again'
 date: '2017-03-16T13:45:00-07:00'
 layout: post
 author:
-	- Rob Reiner
+- Rob Reiner
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The pathological liar exposed again. Danger to our standing in the world &amp; democracy itself at stake. Impeachment looms. [\#Trumprussia](https://twitter.com/hashtag/Trumprussia?src=hash&ref_src=twsrc%5Etfw)
