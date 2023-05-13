@@ -8,6 +8,6 @@ Yates, Comey, CIA Director John Brennan, and Director of National Intelligence J
 
 It was this meeting that Rice memorialized in a bizarre inauguration-day email to herself that claimed Obama told the gathered to do everything “by the book.” But Rice also noted in her email that the key point of discussion in that meeting was whether and how to withhold national security information, likely including details of the investigation into Trump himself, from the incoming Trump national security team.
 
-See: [Obama, Biden Oval Office meeting on January 5 was key to entire anti-Trump operation](/2020/05/09/obama-biden-oval-office-meeting-on-january-5-was-key-to-entire-anti-trump-operation/)
+See: [Obama, Biden Oval Office meeting on January 5 was key to entire anti-Trump operation](/2020/05/08/obama-biden-oval-office-meeting-on-january-5-was-key-to-entire-anti-trump-operation/)
 
 Source: Mollie Ziegler Hemingway, thefederalist.com/2020/05/08/obama-biden-oval-office-meeting-on-january-5-was-key-to-entire-anti-trump-operation/
