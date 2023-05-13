@@ -2,6 +2,9 @@
 title: 'Effort to spread discredited Russia collusion theory welcomed by McCain Senate panel, memos show'
 date: '2021-09-24T09:44:00-07:00'
 layout: post
+author:
+- John Solomon
+- Lee Smith
 ---
 
 - Armed Services panel secretly fought court battle this summer to quash subpoena seeking records of contacts with ex-FBI official Daniel Jones and liberal-funded The Democracy Integrity Project nonprofit.

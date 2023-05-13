@@ -2,6 +2,8 @@
 title: 'FBI knew Steele’s Russia research connected to Clinton, Dems from earliest interactions'
 date: '2020-06-10T06:31:00-07:00'
 layout: post
+author:
+- John Solomon
 ---
 
 - Senate investigators seeking to obtain FBI notes, emails from summer 2016 detailing first interactions with Steele’s Russia research.

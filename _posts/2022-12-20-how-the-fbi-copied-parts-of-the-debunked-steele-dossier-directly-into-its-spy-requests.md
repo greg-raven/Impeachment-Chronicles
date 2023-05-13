@@ -2,6 +2,8 @@
 title: 'How the FBI copied parts of the debunked Steele Dossier directly into its spy requests'
 date: '2022-12-20T15:42:13-08:00'
 layout: post
+author:
+- Paul Sperry
 ---
 
 The FBI relied more extensively on Christopher Steele’s debunked dossier in their Russiagate investigation than has been revealed, inserting key parts from it into their applications for warrants to spy on the 2016 Trump campaign.

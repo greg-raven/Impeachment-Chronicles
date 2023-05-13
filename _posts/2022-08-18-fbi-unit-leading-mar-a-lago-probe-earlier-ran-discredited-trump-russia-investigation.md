@@ -2,6 +2,8 @@
 title: 'FBI unit leading Mar-a-Lago probe earlier ran discredited Trump-Russia investigation'
 date: '2022-08-18T23:03:00-07:00'
 layout: post
+author:
+- Paul Sperry
 ---
 
 The FBI division overseeing the investigation of former President Trump’s handling of classified material at his Mar-a-Lago residence is also a focus of Special Counsel John Durham’s investigation of the bureau’s alleged abuses of power and political bias during its years-long Russiagate probe of Trump.

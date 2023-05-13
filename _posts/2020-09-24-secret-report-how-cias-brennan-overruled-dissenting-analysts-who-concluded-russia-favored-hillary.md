@@ -2,6 +2,8 @@
 title: 'Secret Report: How CIA’s Brennan overruled dissenting analysts who concluded Russia favored Hillary'
 date: '2020-09-24T09:50:00-07:00'
 layout: post
+author:
+- Paul Sperry
 ---
 
 Former CIA Director John Brennan personally edited a crucial section of the intelligence report on Russian interference in the 2016 election and assigned a political ally to take a lead role in writing it after career analysts disputed Brennan’s take that Russian leader Vladimir Putin intervened in the 2016 election to help Donald Trump clinch the White House, according to two senior U.S. intelligence officials who have seen classified materials detailing Brennan’s role in drafting the document.

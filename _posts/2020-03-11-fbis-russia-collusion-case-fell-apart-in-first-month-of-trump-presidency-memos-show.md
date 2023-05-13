@@ -2,6 +2,8 @@
 title: 'FBI’s Russia collusion case fell apart in first month of Trump presidency, memos show'
 date: '2020-03-11T05:46:00-07:00'
 layout: post
+author:
+- John Solomon
 ---
 
 - Flynn collusion ruled out, [Steele dossier](/2016/06/20/the-steele-dossier.html) debunked in January 2017, more than two years before Mueller announced it.

@@ -2,6 +2,8 @@
 title: 'FBI recorded Trump questions on Russia during first counterintelligence briefing'
 date: '2020-07-24T06:37:00-07:00'
 layout: post
+author:
+- John Solomon
 ---
 
 - Agent’s notes confirm IG report that August 2016 briefing with Trump and Flynn used to gather evidence for Russia probe

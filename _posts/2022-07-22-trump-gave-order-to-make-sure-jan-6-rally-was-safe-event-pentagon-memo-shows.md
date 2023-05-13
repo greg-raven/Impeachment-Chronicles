@@ -2,6 +2,8 @@
 title: 'Trump gave order to ‘make sure’ Jan. 6 rally was ‘safe event,’ Pentagon memo shows'
 date: '2022-07-22T14:08:39-07:00'
 layout: post
+author:
+- John Solomon
 ---
 
 - Gen. Milley’s recollection undercuts months-long effort by Democrats to suggest Trump wanted to incite violence: many key questions left unanswered.

@@ -2,6 +2,8 @@
 title: 'Impeachment star witness was aware of Burisma corruption'
 date: '2020-12-18T06:54:00-08:00'
 layout: post
+author:
+- Tom Fitton
 ---
 
 Turns out that one of the Democrats’ star witnesses in their sham impeachment of President Trump – former U.S. Ambassador to Ukraine Marie “Masha” Yovanovitch – seemed to have been shading the truth. Are you at all surprised?
@@ -19,7 +21,7 @@ Polt emails Yovanovitch on October 4, 2017:
 Yovanovitch, in her response, warned Polt about Burisma, writing:
 
 > Mike: Sorry not to have responded more quickly. I will get back to you with a fuller response, but I would urge caution in dealing with the Burisma Group. It is widely believed that the owner was the beneficiary of the corrupt justice system here and I think –to the extent that anyone is aware that Burisma is funding the training –there would be raised eyebrows in Kyiv over the irony of Burisma training prosecutors and to what end.
-> 
+>
 > I’d also note that the PGO \[Prosecutor General’s Office\] is one of the entities here that remains resolutely unreformed. After a year and a half of trying, we pulled out and reprogrammed our resources into other areas in the justice sector that were ready for change. Wish I had better news and will get back to you with more details.
 
 In a November 7, 2017, email to Yovanovitch, Polt indicates that he is taking her “sage advice” and “not moving forward” with Burisma’s funding of the training.

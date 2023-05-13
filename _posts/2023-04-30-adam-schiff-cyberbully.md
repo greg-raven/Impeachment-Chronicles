@@ -2,6 +2,8 @@
 title: 'Adam Schiff, Cyberbully'
 date: '2023-04-30T08:01:47-07:00'
 layout: post
+author:
+- Paul Sperry
 ---
 
 \[…\] In articles for RealClearlnvestigations, I outed Schiff’s anonymous “whistleblower” from the first impeachment of President Trump. It was Eric Ciaramella, a Democrat who had worked in the Trump White House as an Obama holdover. I also exposed Ciaramella’s prior relationship with Sean Misko, one of Schiff’s top staffers on the impeachment committee.

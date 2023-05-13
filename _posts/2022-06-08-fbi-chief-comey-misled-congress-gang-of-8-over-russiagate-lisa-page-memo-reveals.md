@@ -2,6 +2,8 @@
 title: 'FBI Chief Comey misled Congress’ ‘Gang of 8’ over Russiagate, Lisa Page memo reveals'
 date: '2022-06-08T10:08:00-07:00'
 layout: post
+author:
+- Paul Sperry
 ---
 
 - Lisa Page, as an FBI lawyer in 2017, wrote “[talking points](/2017/03/08/talking-points.html)” for Director James Comey ahead of a briefing to Congress — a memo now exposed for its deceptions. Her lawyer, Amy Jeffress, is the wife of the judge for the trial of recently acquitted ex-Clinton lawyer Michael Sussmann.

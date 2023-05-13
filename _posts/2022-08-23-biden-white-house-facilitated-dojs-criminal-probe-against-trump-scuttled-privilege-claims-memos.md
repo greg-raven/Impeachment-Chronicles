@@ -2,6 +2,8 @@
 title: 'Biden White House facilitated DOJ’s criminal probe against Trump, scuttled privilege claims: Memos'
 date: '2022-08-23T23:05:00-07:00'
 layout: post
+author:
+- John Solomon
 ---
 
 - “I have therefore decided not to honor the former President’s ‘protective’ claim of privilege,” acting National Archivist Debra Steidel Wall wrote Trump’s team in May.

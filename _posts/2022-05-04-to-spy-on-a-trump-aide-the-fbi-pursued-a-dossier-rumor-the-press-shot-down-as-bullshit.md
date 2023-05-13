@@ -2,6 +2,8 @@
 title: 'To spy on a Trump aide, the FBI pursued a dossier rumor the press shot down as ‘bullshit’'
 date: '2022-05-04T14:13:00-07:00'
 layout: post
+author:
+- Paul Sperry
 ---
 
 - The FBI treated as suspicious Carter Page’s 2016 trip to Moscow involving his speech at the New Economic School, above, where President Obama also once spoke. But that tip about Page was dismissed by the Washington Post’s sources as “bullshit.” Later the paper wasn’t so skeptical.

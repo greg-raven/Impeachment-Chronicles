@@ -2,6 +2,8 @@
 title: 'It gets worse: Look who worked together to frame Donald Trump with fake Russia hoax'
 date: '2021-09-24T09:39:00-07:00'
 layout: post
+author:
+- Victoria Taft
 ---
 
 How much more frightening will this conspiracy get? Now, according to court documents reported by JusttheNews.com, we learn that The Dark Lord himself, George Soros, paid for his own investigator to work for the U.S. Senate Armed Services Committee to plant the fake Trump-Russia story–and that then-Senator John McCain let him do it.
