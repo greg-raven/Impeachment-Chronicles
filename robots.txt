@@ -1,1 +1,1 @@
-Sitemap: http://www.impeachment.network/sitemap.txt
+Sitemap: http://www.impeachment.network/sitemap.xml
