@@ -4,7 +4,7 @@ date: '2023-05-09T06:42:37-07:00'
 layout: post
 author:
 - John Solomon
-	- Ben Whedon
+- Ben Whedon
 ---
 
 The committees investigating the matter have sought information from the CIA, but the report indicates that the agency remains uncooperative.
