@@ -2,6 +2,8 @@
 title: 'Collusion with Trump'
 date: '2016-12-22T13:45:00-08:00'
 layout: post
+author:
+	- Rob Reiner
 ---
 
 > Russia hacks our election to help DT. FBI violates Hatch Act and colludes with Trump. He is an illegitimate POTUS. #Jan20ImpeachmentDay

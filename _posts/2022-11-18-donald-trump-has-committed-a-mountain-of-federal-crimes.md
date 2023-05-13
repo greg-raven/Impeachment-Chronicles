@@ -2,6 +2,8 @@
 title: 'Donald Trump has committed a mountain of Federal Crimes'
 date: '2022-11-18T06:44:22-08:00'
 layout: post
+author:
+	- Rob Reiner
 ---
 
 > We don’t need a Special Counsel to determine that Donald Trump has committed a mountain of Federal Crimes. Merrick Garland: Stop trying to avoid looking political and INDICT!

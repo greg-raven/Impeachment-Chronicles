@@ -2,6 +2,8 @@
 title: 'Self rule will be over'
 date: '2021-08-06T09:36:00-07:00'
 layout: post
+author:
+	- Rob Reiner
 ---
 
 > I won’t stop saying this until Trump is brought to Justice. If he is not prosecuted for trying to overthrow our Government, we will lose our Democracy. 245 years of Self Rule will be over.

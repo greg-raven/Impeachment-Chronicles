@@ -2,6 +2,8 @@
 title: 'Lewis: DT illegitimate'
 date: '2017-01-16T13:42:00-08:00'
 layout: post
+author:
+	- Rob Reiner
 ---
 
 > John Lewis didn&#39;t call DT illegitimate in the abstract. He said it because of Russia&#39;s intervention and growing evidence of treason. #MSMdig
