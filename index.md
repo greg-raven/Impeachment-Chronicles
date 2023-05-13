@@ -1,9 +1,9 @@
 ---
-title: Impeachment Chronicles
-date: '2023-05-12T09:49:34-07:00'
-author: 'Trump 2020'
-layout: default
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/'
-
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
 ---
-
