@@ -1,10 +1,10 @@
 ---
 title: 'Whistleblower was overheard in 2017 discussing with ally how to remove Trump'
-date: '2020-01-22T09:44:00-08:00'
+date: '2020-01-22T13:52:00-08:00'
 layout: post
 ---
 
-Barely two weeks after Donald Trump took office, Eric Ciaramella — the CIA analyst whose name was recently linked in a tweet by the president and mentioned by lawmakers as the anonymous “whistleblower” who touched off Trump’s impeachment — was overheard in the White House discussing with another staffer how to remove the newly elected president from office, according to former colleagues.
+Barely two weeks after Donald Trump took office, Eric Ciaramella – the CIA analyst whose name was recently linked in a tweet by the president and mentioned by lawmakers as the anonymous “whistleblower” who touched off Trump’s impeachment – was overheard in the White House discussing with another staffer how to remove the newly elected president from office, according to former colleagues.
 
 Sources told RealClearInvestigations the staffer with whom Ciaramella was speaking was Sean Misko. Both were Obama administration holdovers working in the Trump White House on foreign policy and national security issues. And both expressed anger over Trump’s new “America First” foreign policy, a sea change from President Obama’s approach to international affairs.
 
@@ -16,7 +16,7 @@ Misko left the White House last summer to join House impeachment manager Adam Sc
 
 The probe culminated in Trump’s impeachment last month on a party-line vote in the House of Representatives. Schiff and other House Democrats last week delivered the articles of impeachment to the Senate, and are now pressing the case for his removal during the trial, which began Tuesday.
 
-The coordination between the official believed to be the whistleblower and a key Democratic staffer, details of which are disclosed here for the first time, undercuts the narrative that impeachment developed spontaneously out of the “patriotism” of an “apolitical civil servant.”
+The coordination between the official believed to be the whistleblower and a key Democratic staffer, details of which are disclosed here for the first time, undercuts the narrative that impeachment developed spontaneously out of what Trump’s Democratic antagonists call the “patriotism” of an “apolitical civil servant.”
 
 Two former co-workers said they overheard Ciaramella and Misko, close friends and Democrats held over from the Obama administration, discussing how to “take out,” or remove, the new president from office within days of Trump’s inauguration. These co-workers said the president’s controversial Ukraine phone call in July 2019 provided the pretext they and their Democratic allies had been looking for.
 
@@ -28,7 +28,7 @@ All unnamed sources for this article spoke only on condition that they not be fu
 
 Democrats based their impeachment case on the whistleblower complaint, which alleges that President Trump sought to help his re-election campaign by demanding that Ukraine’s leader investigate former Vice President Joe Biden and his son Hunter in exchange for military aid. Yet Schiff, who heads the House Intelligence Committee, and other Democrats have insisted on keeping the identity of the whistleblower secret, citing concern for his safety, while arguing that his testimony no longer matters because other witnesses and documents have “corroborated” what he alleged in his complaint about the Ukraine call.
 
-Republicans have fought unsuccessfully to call him as a witness, arguing that his motivations and associations are relevant — and that the president has the same due-process right to confront his accuser as any other American.
+Republicans have fought unsuccessfully to call him as a witness, arguing that his motivations and associations are relevant – and that the president has the same due-process right to confront his accuser as any other American.
 
 The whistleblower’s candor is also being called into question. It turns out that the CIA operative failed to report his contacts with Schiff’s office to the intelligence community’s inspector general who fielded his whistleblower complaint. He withheld the information both in interviews with the inspector general, Michael Atkinson, and in writing, according to impeachment committee investigators. The whistleblower form he filled out required him to disclose whether he had “contacted other entities” — including “members of Congress.” But he left that section blank on the disclosure form he signed.
 
@@ -48,7 +48,7 @@ An Obama holdover and registered Democrat, Ciaramella in early 2017 expressed ho
 
 At the time, the CIA operative worked on loan to the White House as a top Ukrainian analyst in the National Security Council, where he had previously served as an adviser on Ukraine to Vice President Biden. The whistleblower complaint cites Biden, alleging that Trump demanded Ukraine’s newly elected leader investigate him and his son “to help the president’s 2020 reelection bid.”
 
-Two NSC co-workers told RCI that they overheard Ciaramella and Misko — who was also working at the NSC as an analyst — making anti-Trump remarks to each other while attending a staff-wide NSC meeting called by then-National Security Adviser Michael Flynn, where they sat together in the south auditorium of the Eisenhower Executive Office Building, part of the White House complex.
+Two NSC co-workers told RCI that they overheard Ciaramella and Misko – who was also working at the NSC as an analyst – making anti-Trump remarks to each other while attending a staff-wide NSC meeting called by then-National Security Adviser Michael Flynn, where they sat together in the south auditorium of the Eisenhower Executive Office Building, part of the White House complex.
 
 The “all hands” meeting, held about two weeks into the new administration, was attended by hundreds of NSC employees.
 
@@ -56,11 +56,11 @@ The “all hands” meeting, held about two weeks into the new administration, w
 
 A military staffer detailed to the NSC, who was seated directly in front of Ciaramella and Misko during the meeting, confirmed hearing them talk about toppling Trump during their private conversation, which the source said lasted about one minute. The crowd was preparing to get up to leave the room at the time.
 
-“After Flynn briefed \[the staff\] about what ‘America first’ foreign policy means, Ciaramella turned to Misko and commented, ‘We need to take him out,’” the staffer recalled. “And Misko replied, ‘Yeah, we need to do everything we can to take out the president.’ “
+“After Flynn briefed \[the staff\] about what ‘America First’ foreign policy means, Ciaramella turned to Misko and commented, ‘We need to take him out,’” the staffer recalled. “And Misko replied, ‘Yeah, we need to do everything we can to take out the president.’”
 
 Added the military detailee, who spoke on condition of anonymity: “By ‘taking him out,’ they meant removing him from office by any means necessary. They were triggered by Trump’s and Flynn’s vision for the world. This was the first ‘all hands’ \[staff meeting\] where they got to see Trump’s national security team, and they were huffing and puffing throughout the briefing any time Flynn said something they didn’t like about ‘America First.’”
 
-He said he also overheard Ciaramella telling Misko, referring to Trump, ‘We can’t let him enact this foreign policy.’”
+He said he also overheard Ciaramella telling Misko, referring to Trump, “We can’t let him enact this foreign policy.”
 
 Alarmed by their conversation, the military staffer immediately reported what he heard to his superiors.
 
@@ -86,11 +86,11 @@ A mutual ally in the National Security Council who was one of the White House of
 
 Vindman leaked what he’d heard to Ciaramella by phone that afternoon, the sources said. In their conversation, which lasted a few minutes, he described Trump’s call as “crazy,” and speculated he had “committed a criminal act.” Neither reviewed the transcript of the call before the White House released it months later.
 
-NSC co-workers said that Vindman, like Ciaramella, openly expressed his disdain for Trump whose foreign policy was often at odds with the recommendations of “the interagency” — a network of agency working groups comprised of intelligence bureaucrats, experts and diplomats who regularly meet to craft and coordinate policy positions inside the federal government.
+NSC co-workers said that Vindman, like Ciaramella, openly expressed his disdain for Trump, whose foreign policy was often at odds with the recommendations of “the interagency” — a network of agency working groups comprised of intelligence bureaucrats, experts and diplomats who regularly meet to craft and coordinate policy positions inside the federal government.
 
 Before he was detailed to the White House, Vindman served in the U.S. Army, where he once received a reprimand from a superior officer for badmouthing and ridiculing America in front of Russian soldiers his unit was training with during a joint 2012 exercise in Germany.
 
-His commanding officer, Army Lt. Col. Jim Hickman, complained that Vindman, then a major, “was apologetic of American culture, laughed about Americans not being educated or worldly and really talked up Obama and globalism to the point of \[It being\] uncomfortable.”
+His commanding officer, Army Lt. Col. Jim Hickman, complained that Vindman, then a major, “was apologetic of American culture, laughed about Americans not being educated or worldly and really talked up Obama and globalism to the point of \[it being\] uncomfortable.”
 
 “Vindman was a partisan Democrat at least as far back as 2012,” Hickman, now retired, asserted. “Do not let the uniform fool you. He is a political activist in uniform.”
 
@@ -120,7 +120,7 @@ Neither Bakaj nor Zaid responded to requests for an interview.
 
 It’s not clear who the mutual friend and national security attorney was whom the analyst turned to for additional help after meeting with Schiff’s staff. But people familiar with the matter say that former Justice Department national security lawyer David Laufman involved himself early on in the whistleblower case.
 
-Also a former CIA officer, Laufman was promoted by the Obama administration to run counterintelligence cases, including the high-profile investigations of Clinton’s classified emails and the Trump campaign’s alleged ties to Russia. Laufman sat in on Clinton’s July 2016 FBI interview. He also signed off on the wiretapping of a Trump campaign adviser, which the Department of Justice inspector general determined was conducted under false pretenses involving doctored emails, suppression of exculpatory evidence, and other malfeasance. Laufman’s office was implicated in a report detailing the surveillance misconduct.
+Also a former CIA officer, Laufman was promoted by the Obama administration to run counterintelligence cases, including the high-profile investigations of Clinton’s classified emails and the Trump campaign’s alleged ties to Russia. Laufman sat in on Clinton’s July 2016 FBI interview. He also signed off on the wiretapping of a Trump campaign adviser, which the Department of Justice inspector general determined was conducted under false pretenses involving doctored emails, suppression of exculpatory evidence, and other malfeasance. Laufman’s office was implicated in the inspector general’s report detailing the surveillance misconduct.
 
 Laufman could not be reached for comment.
 
@@ -130,9 +130,9 @@ Laufman recently defended Zaid on Twitter after Trump blasted Zaid for advocatin
 
 After the CIA analyst was coached on how to file a complaint under Intelligence Community whistleblower protections, he was steered to another Obama holdover — former Justice Department attorney-turned-inspector general Michael Atkinson — who facilitated the processing of his complaint, despite numerous red flags raised by career Justice Department lawyers who reviewed it.
 
-The department’s Office of Legal Counsel that the complaint involved “foreign diplomacy,” not intelligence, contained “hearsay” evidence based on “secondhand” information, and did not meet the definition of an “urgent concern” that needed to be reported to Congress. Still, Atkinson worked closely with Schiff to pressure the White House to make the complaint public.
+The department’s Office of Legal Counsel ruled that the complaint involved “foreign diplomacy,” not intelligence, contained “hearsay” evidence based on “secondhand” information, and did not meet the definition of an “urgent concern” that needed to be reported to Congress. Still, Atkinson worked closely with Schiff to pressure the White House to make the complaint public.
 
-Fleitz said cloaking the CIA analyst in the whistleblower statute provided him cover from public scrutiny. By making him anonymous, he was able to hide his background and motives. Filing the complaint with the IC inspector general, moreover, gave him added protections against reprisals, while letting him disclose classified information. If he had filed directly with Congress, it could not have made the complaint public due to classified concerns. But a complaint referred by the IG to Congress gave it more latitude over what it could make public.
+Fleitz said cloaking the CIA analyst in the whistleblower statute provided him cover from public scrutiny. By making him anonymous, he was able to hide his background and motives. Filing the complaint with the IC inspector general, moreover, gave him added protections against reprisals, while letting him disclose classified information. If he had filed directly with Congress, it could not have made the complaint public due to concerns about disclosing classified information. But a complaint referred by the IG to Congress gave it more latitude over what it could make public.
 
 **Omitted Contacts With Schiff**
 
@@ -174,7 +174,7 @@ Atkinson’s office declined comment.
 
 During closed-door depositions taken in the impeachment inquiry, Ciaramella’s confederate Misko was observed handing notes to Schiff’s lead counsel for the impeachment inquiry, Daniel Goldman – another Obama Justice attorney and a major Democratic donor – as he asked questions of Trump administration witnesses, officials with direct knowledge of the proceedings told RealClearInvestigations. Misko also was observed sitting on the dais behind Democratic members during last month’s publicly broadcast joint impeachment committee hearings.
 
-Another Schiff recruit believed to part of the clandestine political operation against Trump is Abby Grace, who also worked closely with Ciaramella at the NSC, both before and after Trump was elected. During the Obama administration, Grace was an assistant to Obama national security aide Ben Rhodes.
+Another Schiff recruit believed to be part of the clandestine political operation against Trump is Abby Grace, who also worked closely with Ciaramella at the NSC, both before and after Trump was elected. During the Obama administration, Grace was an assistant to Obama national security aide Ben Rhodes.
 
 Last February, Schiff recruited this other White House friend of the whistleblower to work as an impeachment investigator. Grace is listed alongside Sean Misko as senior staffers in the House Intelligence Committee’s “The Trump-Ukraine Impeachment Inquiry Report” published last month.
 
@@ -192,4 +192,4 @@ Schiff has maintained in open hearings and interviews that he did not personally
 
 The CIA declined comment. But the agency reportedly has taken security measures to protect the analyst, who has continued to work on issues relating to Russia and Ukraine and participate in interagency meetings.
 
-Source: Paul Sperry, www.realclearinvestigations.com/articles/2020/01/22/whistleblower\_was\_overheard\_in\_17\_discussing\_with\_ally\_how\_to\_remove\_trump\_121701.html
+Source: Paul Sperry, realclearinvestigations.com/articles/2020/01/22/whistleblower\_was\_overheard\_in\_17\_discussing\_with\_ally\_how\_to\_remove\_trump\_121701.html
