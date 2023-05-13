@@ -3,7 +3,7 @@ id: 1318
 title: 'MSNBC host pushes 3 debunked claims about Trump in single segment'
 date: '2021-12-29T06:34:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1318'
 permalink: /2021/12/29/msnbc-host-pushes-3-debunked-claims-about-trump-in-single-segment/
 categories:

@@ -3,7 +3,7 @@ id: 583
 title: 'Adam Schiff nails Mike Pence with new evidence in Ukraine scheme'
 date: '2019-12-17T07:03:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=583'
 permalink: /2019/12/17/adam-schiff-nails-mike-pence-with-new-evidence-in-ukraine-scheme/
 categories:

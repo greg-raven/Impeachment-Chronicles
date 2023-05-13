@@ -3,7 +3,7 @@ id: 1110
 title: 'Trump should be arrested for attempted murder'
 date: '2021-12-02T07:52:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1110'
 permalink: /2021/12/02/trump-should-be-arrested-for-attempted-murder/
 categories:

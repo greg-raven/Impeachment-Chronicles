@@ -3,7 +3,7 @@ id: 603
 title: 'Judge dismisses claims against Trump over clearing DC protestors from Lafayette Square'
 date: '2021-06-22T07:14:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=603'
 permalink: /2021/06/22/judge-dismisses-claims-against-trump-over-clearing-dc-protestors-from-lafayette-square/
 categories:

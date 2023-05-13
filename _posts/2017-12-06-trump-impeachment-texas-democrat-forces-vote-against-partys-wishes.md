@@ -3,7 +3,7 @@ id: 1210
 title: 'Trump impeachment? Texas Democrat forces vote against party’s wishes'
 date: '2017-12-06T06:47:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1210'
 permalink: /2017/12/06/trump-impeachment-texas-democrat-forces-vote-against-partys-wishes/
 categories:

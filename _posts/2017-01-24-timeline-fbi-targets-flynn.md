@@ -3,7 +3,7 @@ id: 402
 title: 'Timeline: FBI targets Flynn'
 date: '2017-01-24T07:45:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=402'
 permalink: /2017/01/24/timeline-fbi-targets-flynn/
 categories:

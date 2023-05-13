@@ -3,7 +3,7 @@ id: 629
 title: 'The never-ending impeachment'
 date: '2020-01-16T15:14:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=629'
 permalink: /2020/01/16/the-never-ending-impeachment/
 categories:

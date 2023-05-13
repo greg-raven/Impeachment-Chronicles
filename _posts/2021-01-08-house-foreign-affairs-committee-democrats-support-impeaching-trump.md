@@ -3,7 +3,7 @@ id: 618
 title: 'House Foreign Affairs Committee Democrats support impeaching Trump'
 date: '2021-01-08T07:22:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=618'
 permalink: /2021/01/08/house-foreign-affairs-committee-democrats-support-impeaching-trump/
 categories:

@@ -3,7 +3,7 @@ id: 758
 title: 'Pelosi says House to move forward with impeachment attempt if Pence doesn’t respond'
 date: '2021-01-10T12:17:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=758'
 permalink: /2021/01/10/pelosi-says-house-to-move-forward-with-impeachment-attempt-if-pence-doesnt-respond/
 categories:

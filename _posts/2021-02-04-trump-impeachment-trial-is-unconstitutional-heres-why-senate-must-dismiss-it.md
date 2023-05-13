@@ -3,7 +3,7 @@ id: 616
 title: 'Trump impeachment trial is unconstitutional – here’s why Senate must dismiss it'
 date: '2021-02-04T07:21:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=616'
 permalink: /2021/02/04/trump-impeachment-trial-is-unconstitutional-heres-why-senate-must-dismiss-it/
 categories:

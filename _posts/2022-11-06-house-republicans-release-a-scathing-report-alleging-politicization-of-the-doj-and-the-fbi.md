@@ -3,7 +3,7 @@ id: 1167
 title: 'House Republicans release a scathing report alleging politicization of the DOJ and the FBI'
 date: '2022-11-06T08:07:39-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1167'
 permalink: /2022/11/06/house-republicans-release-a-scathing-report-alleging-politicization-of-the-doj-and-the-fbi/
 categories:

@@ -3,7 +3,7 @@ id: 592
 title: 'Rep. Adam Schiff is coming after Mike Pence next'
 date: '2019-12-19T07:08:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=592'
 permalink: /2019/12/19/rep-adam-schiff-is-coming-after-mike-pence-next/
 categories:

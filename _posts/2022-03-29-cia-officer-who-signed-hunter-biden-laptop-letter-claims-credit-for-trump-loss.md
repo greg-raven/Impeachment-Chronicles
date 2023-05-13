@@ -3,7 +3,7 @@ id: 281
 title: 'CIA officer who signed Hunter Biden laptop letter claims credit for Trump loss'
 date: '2022-03-29T09:41:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=281'
 permalink: /2022/03/29/cia-officer-who-signed-hunter-biden-laptop-letter-claims-credit-for-trump-loss/
 categories:

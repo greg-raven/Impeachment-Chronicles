@@ -3,7 +3,7 @@ id: 1023
 title: 'He will lie, cheat, steal, and break laws'
 date: '2020-08-08T09:30:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1023'
 permalink: /2020/08/08/he-will-lie-cheat-steal-and-break-laws/
 categories:

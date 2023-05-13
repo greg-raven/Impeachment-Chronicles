@@ -3,7 +3,7 @@ id: 967
 title: 'Whistleblower was overheard in 2017 discussing with ally how to remove Trump'
 date: '2020-01-22T13:52:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=967'
 permalink: /2020/01/22/whistleblower-was-overheard-in-2017-discussing-with-ally-how-to-remove-trump-2/
 categories:

@@ -3,7 +3,7 @@ id: 1087
 title: 'Collusion with Trump'
 date: '2016-12-22T13:45:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1087'
 permalink: /2016/12/22/collusion-with-trump/
 categories:

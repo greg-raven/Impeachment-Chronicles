@@ -3,7 +3,7 @@ id: 1093
 title: 'Trump is guilty'
 date: '2019-12-05T13:47:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1093'
 permalink: /2019/12/05/trump-is-guilty-2/
 categories:

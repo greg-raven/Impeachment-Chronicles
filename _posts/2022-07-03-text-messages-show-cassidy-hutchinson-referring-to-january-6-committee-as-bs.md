@@ -3,7 +3,7 @@ id: 287
 title: 'Text messages show Cassidy Hutchinson referring to January 6 Committee as ‘BS’'
 date: '2022-07-03T09:50:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=287'
 permalink: /2022/07/03/text-messages-show-cassidy-hutchinson-referring-to-january-6-committee-as-bs/
 categories:

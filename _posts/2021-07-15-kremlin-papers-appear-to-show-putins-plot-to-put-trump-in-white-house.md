@@ -3,7 +3,7 @@ id: 384
 title: 'Kremlin papers appear to show Putin’s plot to put Trump in White House'
 date: '2021-07-15T07:19:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=384'
 permalink: /2021/07/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house/
 categories:

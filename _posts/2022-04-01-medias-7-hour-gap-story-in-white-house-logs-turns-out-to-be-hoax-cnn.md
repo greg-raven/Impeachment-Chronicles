@@ -3,7 +3,7 @@ id: 297
 title: 'Media’s ‘7-hour gap’ story in White House logs turns out to be hoax: CNN'
 date: '2022-04-01T10:38:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=297'
 permalink: /2022/04/01/medias-7-hour-gap-story-in-white-house-logs-turns-out-to-be-hoax-cnn/
 categories:

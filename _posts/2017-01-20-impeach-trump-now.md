@@ -3,7 +3,7 @@ id: 1117
 title: 'Impeach Trump Now'
 date: '2017-01-20T15:30:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1117'
 permalink: /2017/01/20/impeach-trump-now/
 categories:

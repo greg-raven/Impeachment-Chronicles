@@ -3,7 +3,7 @@ id: 1353
 title: 'It gets worse: Look who worked together to frame Donald Trump with fake Russia hoax'
 date: '2021-09-24T09:39:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1353'
 permalink: /2021/09/24/it-gets-worse-look-who-worked-together-to-frame-donald-trump-with-fake-russia-hoax/
 categories:

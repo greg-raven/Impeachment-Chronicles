@@ -3,7 +3,7 @@ id: 415
 title: 'Democratic lawmaker to file articles of impeachment over Trump’s Charlottesville response'
 date: '2017-08-17T07:53:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=415'
 permalink: /2017/08/17/democratic-lawmaker-to-file-articles-of-impeachment-over-trumps-charlottesville-response/
 categories:

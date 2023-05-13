@@ -3,7 +3,7 @@ id: 674
 title: 'Rosenstein agrees that by August of 2017 there was no evidence of Trump-Russia collusion'
 date: '2020-06-03T06:23:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=674'
 permalink: /2020/06/03/rosenstein-agrees-that-by-august-of-2017-there-was-no-evidence-of-trump-russia-collusion/
 categories:

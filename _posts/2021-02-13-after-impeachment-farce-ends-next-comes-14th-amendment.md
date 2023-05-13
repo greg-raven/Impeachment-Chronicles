@@ -3,7 +3,7 @@ id: 788
 title: 'After impeachment farce ends, next comes 14th Amendment'
 date: '2021-02-13T12:31:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=788'
 permalink: /2021/02/13/after-impeachment-farce-ends-next-comes-14th-amendment/
 categories:

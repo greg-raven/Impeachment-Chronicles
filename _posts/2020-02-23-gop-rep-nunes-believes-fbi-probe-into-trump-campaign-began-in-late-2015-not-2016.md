@@ -3,7 +3,7 @@ id: 653
 title: 'GOP Rep. Nunes believes FBI probe into Trump campaign began in late 2015, not 2016'
 date: '2020-02-23T05:05:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=653'
 permalink: /2020/02/23/gop-rep-nunes-believes-fbi-probe-into-trump-campaign-began-in-late-2015-not-2016/
 categories:

@@ -3,7 +3,7 @@ id: 1119
 title: 'Need To Impeach'
 date: '2017-10-21T15:34:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1119'
 permalink: /2017/10/21/need-to-impeach/
 categories:

@@ -3,7 +3,7 @@ id: 464
 title: 'The elephant in the room'
 date: '2017-02-28T10:08:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=464'
 permalink: /2017/02/28/the-elephant-in-the-room/
 categories:

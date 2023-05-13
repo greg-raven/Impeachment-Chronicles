@@ -3,7 +3,7 @@ id: 1154
 title: 'Twitter ‘journalists’ Louise Mensch and Claude Taylor were just caught spreading fake news'
 date: '2017-08-29T05:29:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1154'
 permalink: /2017/08/29/twitter-journalists-louise-mensch-and-claude-taylor-were-just-caught-spreading-fake-news/
 categories:

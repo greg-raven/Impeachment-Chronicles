@@ -3,7 +3,7 @@ id: 693
 title: 'Ex-FBI lawyer to plead guilty to altering evidence in Russia probe'
 date: '2020-08-14T06:40:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=693'
 permalink: /2020/08/14/ex-fbi-lawyer-to-plead-guilty-to-altering-evidence-in-russia-probe/
 categories:

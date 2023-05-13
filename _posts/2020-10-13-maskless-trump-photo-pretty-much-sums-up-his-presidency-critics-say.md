@@ -3,7 +3,7 @@ id: 813
 title: 'Maskless Trump photo pretty much sums up his presidency, critics say'
 date: '2020-10-13T13:24:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=813'
 permalink: /2020/10/13/maskless-trump-photo-pretty-much-sums-up-his-presidency-critics-say/
 categories:

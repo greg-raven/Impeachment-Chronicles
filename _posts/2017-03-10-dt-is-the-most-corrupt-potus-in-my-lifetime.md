@@ -3,7 +3,7 @@ id: 1063
 title: 'DT is the most corrupt POTUS in my lifetime'
 date: '2017-03-10T13:37:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1063'
 permalink: /2017/03/10/dt-is-the-most-corrupt-potus-in-my-lifetime/
 categories:

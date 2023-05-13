@@ -3,7 +3,7 @@ id: 1077
 title: 'Lewis: DT illegitimate'
 date: '2017-01-16T13:42:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1077'
 permalink: /2017/01/16/lewis-dt-illegitimate/
 categories:

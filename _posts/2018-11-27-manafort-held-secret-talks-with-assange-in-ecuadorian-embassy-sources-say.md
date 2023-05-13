@@ -3,7 +3,7 @@ id: 521
 title: 'Manafort held secret talks with Assange in Ecuadorian embassy, sources say'
 date: '2018-11-27T14:26:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=521'
 permalink: /2018/11/27/manafort-held-secret-talks-with-assange-in-ecuadorian-embassy-sources-say/
 categories:

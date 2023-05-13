@@ -3,7 +3,7 @@ id: 508
 title: 'First Republicans talk possibility of impeachment for Trump'
 date: '2017-05-17T14:07:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=508'
 permalink: /2017/05/17/first-republicans-talk-possibility-of-impeachment-for-trump/
 categories:

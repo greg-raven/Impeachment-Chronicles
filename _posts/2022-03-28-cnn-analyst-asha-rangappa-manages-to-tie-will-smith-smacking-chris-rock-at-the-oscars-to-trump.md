@@ -3,7 +3,7 @@ id: 283
 title: 'CNN analyst Asha Rangappa manages to tie Will Smith smacking Chris Rock at the Oscars to Trump'
 date: '2022-03-28T09:43:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=283'
 permalink: /2022/03/28/cnn-analyst-asha-rangappa-manages-to-tie-will-smith-smacking-chris-rock-at-the-oscars-to-trump/
 categories:

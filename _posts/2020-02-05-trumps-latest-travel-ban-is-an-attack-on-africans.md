@@ -3,7 +3,7 @@ id: 1325
 title: 'Trump’s latest travel ban is an attack on Africans'
 date: '2020-02-05T06:47:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1325'
 permalink: /2020/02/05/trumps-latest-travel-ban-is-an-attack-on-africans/
 categories:

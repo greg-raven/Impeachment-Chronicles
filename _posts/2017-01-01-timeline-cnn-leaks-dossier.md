@@ -3,7 +3,7 @@ id: 239
 title: 'Timeline: CNN leaks dossier'
 date: '2017-01-01T15:01:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=239'
 permalink: /2017/01/01/timeline-cnn-leaks-dossier/
 categories:

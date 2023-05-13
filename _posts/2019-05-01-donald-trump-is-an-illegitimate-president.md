@@ -3,7 +3,7 @@ id: 1065
 title: 'Donald Trump is an illegitimate president'
 date: '2019-05-01T13:38:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1065'
 permalink: /2019/05/01/donald-trump-is-an-illegitimate-president/
 categories:

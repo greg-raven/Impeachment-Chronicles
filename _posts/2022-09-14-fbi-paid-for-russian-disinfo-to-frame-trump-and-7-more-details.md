@@ -3,7 +3,7 @@ id: 990
 title: 'FBI paid for Russian disinfo to frame Trump — and 7 more details'
 date: '2022-09-14T14:03:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=990'
 permalink: /2022/09/14/fbi-paid-for-russian-disinfo-to-frame-trump-and-7-more-details/
 categories:

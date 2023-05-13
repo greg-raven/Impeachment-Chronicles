@@ -3,7 +3,7 @@ id: 921
 title: 'Trump: DOJ asked us to put a lock on docs, then FBI broke it'
 date: '2022-08-10T22:59:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=921'
 permalink: /2022/08/10/trump-doj-asked-us-to-put-a-lock-on-docs-then-fbi-broke-it/
 categories:

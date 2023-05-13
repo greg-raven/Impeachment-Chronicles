@@ -3,7 +3,7 @@ id: 1176
 title: 'Donald Trump has committed a mountain of Federal Crimes'
 date: '2022-11-18T06:44:22-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1176'
 permalink: /2022/11/18/donald-trump-has-committed-a-mountain-of-federal-crimes/
 categories:

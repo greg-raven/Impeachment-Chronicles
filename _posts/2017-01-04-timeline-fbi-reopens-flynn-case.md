@@ -3,7 +3,7 @@ id: 215
 title: 'Timeline: FBI ‘reopens’ Flynn case'
 date: '2017-01-04T14:09:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=215'
 permalink: /2017/01/04/timeline-fbi-reopens-flynn-case/
 categories:

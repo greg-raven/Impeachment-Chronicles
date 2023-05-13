@@ -3,7 +3,7 @@ id: 685
 title: 'John Bolton book claims impeachable offenses across ‘full range’ of Trump’s foreign policy'
 date: '2020-06-12T06:33:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=685'
 permalink: /2020/06/12/john-bolton-book-claims-impeachable-offenses-across-full-range-of-trumps-foreign-policy/
 categories:

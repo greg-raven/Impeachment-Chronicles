@@ -3,7 +3,7 @@ id: 1027
 title: 'Blow the sick liar away'
 date: '2020-03-10T09:32:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1027'
 permalink: /2020/03/10/blow-the-sick-liar-away/
 categories:

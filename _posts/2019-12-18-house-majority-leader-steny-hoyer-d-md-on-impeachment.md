@@ -3,7 +3,7 @@ id: 587
 title: 'House Majority Leader Steny Hoyer (D-MD) on Impeachment'
 date: '2019-12-18T07:06:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=587'
 permalink: /2019/12/18/house-majority-leader-steny-hoyer-d-md-on-impeachment/
 categories:

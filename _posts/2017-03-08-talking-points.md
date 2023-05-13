@@ -3,7 +3,7 @@ id: 175
 title: 'Talking Points'
 date: '2017-03-08T14:01:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=175'
 permalink: /2017/03/08/talking-points/
 categories:

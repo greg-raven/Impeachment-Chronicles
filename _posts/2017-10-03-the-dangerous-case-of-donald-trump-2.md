@@ -3,7 +3,7 @@ id: 493
 title: 'The Dangerous Case of Donald Trump'
 date: '2017-10-03T13:57:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=493'
 permalink: /2017/10/03/the-dangerous-case-of-donald-trump-2/
 categories:

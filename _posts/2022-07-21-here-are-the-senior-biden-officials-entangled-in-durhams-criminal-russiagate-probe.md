@@ -3,7 +3,7 @@ id: 802
 title: 'Here are the senior Biden officials entangled in Durham’s criminal Russiagate probe'
 date: '2022-07-21T14:07:51-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=802'
 permalink: /2022/07/21/here-are-the-senior-biden-officials-entangled-in-durhams-criminal-russiagate-probe/
 categories:

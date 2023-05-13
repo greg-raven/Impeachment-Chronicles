@@ -3,7 +3,7 @@ id: 768
 title: 'House set to give Pence ultimatum before moving to impeach Trump'
 date: '2021-01-11T12:20:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=768'
 permalink: /2021/01/11/house-set-to-give-pence-ultimatum-before-moving-to-impeach-trump/
 categories:

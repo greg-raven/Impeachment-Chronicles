@@ -3,7 +3,7 @@ id: 631
 title: 'Mystery solved: DOJ secretly thwarted release of Russia documents declassified by Trump'
 date: '2022-07-20T04:22:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=631'
 permalink: /2022/07/20/mystery-solved-doj-secretly-thwarted-release-of-russia-documents-declassified-by-trump/
 categories:

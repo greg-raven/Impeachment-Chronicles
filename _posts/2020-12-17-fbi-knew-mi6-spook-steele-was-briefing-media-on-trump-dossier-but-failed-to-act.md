@@ -3,7 +3,7 @@ id: 740
 title: 'FBI knew MI6 spook Steele was briefing media on Trump dossier but failed to act'
 date: '2020-12-17T10:07:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=740'
 permalink: /2020/12/17/fbi-knew-mi6-spook-steele-was-briefing-media-on-trump-dossier-but-failed-to-act/
 categories:

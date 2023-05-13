@@ -3,7 +3,7 @@ id: 1130
 title: 'Repeating the ‘very fine people’ lie'
 date: '2020-08-12T06:33:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1130'
 permalink: /2020/08/12/repeating-the-very-fine-people-lie/
 categories:

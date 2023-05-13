@@ -3,7 +3,7 @@ id: 651
 title: 'Impeachment 2.0? Democrats line up possible new charges against Trump'
 date: '2020-02-06T05:03:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=651'
 permalink: /2020/02/06/impeachment-2-0-democrats-line-up-possible-new-charges-against-trump/
 categories:

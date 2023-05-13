@@ -3,7 +3,7 @@ id: 1073
 title: 'Illegitimate POTUS'
 date: '2018-06-27T13:41:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1073'
 permalink: /2018/06/27/illegitimate-potus/
 categories:

@@ -3,7 +3,7 @@ id: 730
 title: '‘Trump was right’: Explosive new FBI texts detail internal furor over handling of ‘Crossfire Hurricane’ investigation'
 date: '2020-09-24T09:53:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=730'
 permalink: /2020/09/24/trump-was-right-explosive-new-fbi-texts-detail-internal-furor-over-handling-of-crossfire-hurricane-investigation/
 categories:

@@ -3,7 +3,7 @@ id: 1269
 title: '2016 election was illegitimate'
 date: '2018-02-16T07:52:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1269'
 permalink: /2018/02/16/2016-election-was-illegitimate/
 categories:

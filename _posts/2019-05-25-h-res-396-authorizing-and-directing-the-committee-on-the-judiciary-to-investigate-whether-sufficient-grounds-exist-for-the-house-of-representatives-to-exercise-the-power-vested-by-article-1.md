@@ -3,7 +3,7 @@ id: 548
 title: 'H.Res.396 — Authorizing and directing the Committee on the Judiciary to investigate whether sufficient grounds exist for the House of Representatives to exercise the power vested by article 1, section 2, clause 5 of the Constitution in respect to acts of misconduct by Donald John Trump, President of the United States'
 date: '2019-05-25T15:39:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=548'
 permalink: /2019/05/25/h-res-396-authorizing-and-directing-the-committee-on-the-judiciary-to-investigate-whether-sufficient-grounds-exist-for-the-house-of-representatives-to-exercise-the-power-vested-by-article-1/
 categories:

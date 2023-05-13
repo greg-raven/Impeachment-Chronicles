@@ -3,7 +3,7 @@ id: 1341
 title: 'How Russiagate began with Obama’s Iran Deal domestic spying campaign'
 date: '2020-05-20T07:35:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1341'
 permalink: /2020/05/20/how-russiagate-began-with-obamas-iran-deal-domestic-spying-campaign/
 categories:

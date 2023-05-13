@@ -3,7 +3,7 @@ id: 334
 title: 'ACLJ obtains new memo in State Department lawsuit unveiling unreported Obama-era officials’ secret meeting with Iran’s Zarif during Trump Administration'
 date: '2022-05-24T14:29:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=334'
 permalink: /2022/05/24/aclj-obtains-new-memo-in-state-department-lawsuit-unveiling-unreported-obama-era-officials-secret-meeting-with-irans-zarif-during-trump-administration/
 categories:

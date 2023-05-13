@@ -3,7 +3,7 @@ id: 687
 title: '‘Gangster in the White House’: Noam Chomsky explains why Trump is undeniably ‘the worst criminal in history’'
 date: '2020-06-23T06:34:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=687'
 permalink: /2020/06/23/gangster-in-the-white-house-noam-chomsky-explains-why-trump-is-undeniably-the-worst-criminal-in-history/
 categories:

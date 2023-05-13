@@ -3,7 +3,7 @@ id: 826
 title: 'From ‘an attempted coup’ to chaos, searing moments of Jan. 6'
 date: '2022-07-23T09:55:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=826'
 permalink: /2022/07/23/from-an-attempted-coup-to-chaos-searing-moments-of-jan-6/
 categories:

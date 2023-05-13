@@ -3,7 +3,7 @@ id: 122
 title: 'Even if the Steele dossier is discredited, there’s plenty of evidence of Trump’s collusion with Russia'
 date: '2021-11-18T16:12:31-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=122'
 permalink: /2021/11/18/even-if-the-steele-dossier-is-discredited-theres-plenty-of-evidence-of-trumps-collusion-with-russia/
 categories:

@@ -3,7 +3,7 @@ id: 605
 title: 'Yet another media tale — Trump tear-gassed protesters for a church photo op — collapses'
 date: '2021-06-09T07:15:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=605'
 permalink: /2021/06/09/yet-another-media-tale-trump-tear-gassed-protesters-for-a-church-photo-op-collapses/
 categories:

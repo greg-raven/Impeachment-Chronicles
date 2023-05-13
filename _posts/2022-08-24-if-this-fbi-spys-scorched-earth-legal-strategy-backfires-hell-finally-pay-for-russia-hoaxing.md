@@ -3,7 +3,7 @@ id: 939
 title: 'If this FBI spy’s scorched-earth legal strategy backfires, he’ll finally pay for Russia hoaxing'
 date: '2022-08-24T23:06:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=939'
 permalink: /2022/08/24/if-this-fbi-spys-scorched-earth-legal-strategy-backfires-hell-finally-pay-for-russia-hoaxing/
 categories:

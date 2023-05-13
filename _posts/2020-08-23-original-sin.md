@@ -3,7 +3,7 @@ id: 1083
 title: 'Original sin'
 date: '2020-08-23T13:44:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1083'
 permalink: /2020/08/23/original-sin/
 categories:

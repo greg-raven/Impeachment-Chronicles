@@ -3,7 +3,7 @@ id: 986
 title: 'A review of various actions by the Federal Bureau of Investigation and Department of Justice in advance of the 2016 election'
 date: '2018-06-15T14:01:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=986'
 permalink: /2018/06/15/a-review-of-various-actions-by-the-federal-bureau-of-investigation-and-department-of-justice-in-advance-of-the-2016-election/
 categories:

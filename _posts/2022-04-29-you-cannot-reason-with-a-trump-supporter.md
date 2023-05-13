@@ -3,7 +3,7 @@ id: 1025
 title: 'You cannot reason with a Trump supporter'
 date: '2022-04-29T09:31:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1025'
 permalink: /2022/04/29/you-cannot-reason-with-a-trump-supporter/
 categories:

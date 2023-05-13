@@ -3,7 +3,7 @@ id: 512
 title: 'Trump impeachment vote fails overwhelmingly'
 date: '2017-12-06T14:09:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=512'
 permalink: /2017/12/06/trump-impeachment-vote-fails-overwhelmingly/
 categories:

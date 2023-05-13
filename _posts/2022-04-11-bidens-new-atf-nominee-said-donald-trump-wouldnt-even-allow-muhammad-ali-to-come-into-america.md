@@ -3,7 +3,7 @@ id: 295
 title: 'Biden’s new ATF nominee said Donald Trump wouldn’t even allow Muhammad Ali ‘to come into America’'
 date: '2022-04-11T10:35:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=295'
 permalink: /2022/04/11/bidens-new-atf-nominee-said-donald-trump-wouldnt-even-allow-muhammad-ali-to-come-into-america/
 categories:

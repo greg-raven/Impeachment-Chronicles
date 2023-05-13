@@ -3,7 +3,7 @@ id: 1041
 title: 'Trump is guilty'
 date: '2022-10-08T10:12:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1041'
 permalink: /2022/10/08/trump-is-guilty/
 categories:

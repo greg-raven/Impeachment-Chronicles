@@ -3,7 +3,7 @@ id: 477
 title: 'Julian Castro renews call for president’s impeachment after ex-prosecutors claim Trump obstructed justice'
 date: '2017-05-06T10:17:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=477'
 permalink: /2017/05/06/julian-castro-renews-call-for-presidents-impeachment-after-ex-prosecutors-claim-trump-obstructed-justice/
 categories:

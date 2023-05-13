@@ -3,7 +3,7 @@ id: 1172
 title: 'Trump was right. Again.'
 date: '2022-11-21T06:40:11-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1172'
 permalink: /2022/11/21/trump-was-right-again/
 categories:

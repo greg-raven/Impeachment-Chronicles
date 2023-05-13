@@ -3,7 +3,7 @@ id: 705
 title: 'DNI declassifies Brennan notes, CIA memo on Hillary Clinton ‘stirring up’ scandal between Trump, Russia'
 date: '2020-10-06T06:51:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=705'
 permalink: /2020/10/06/dni-declassifies-brennan-notes-cia-memo-on-hillary-clinton-stirring-up-scandal-between-trump-russia/
 categories:

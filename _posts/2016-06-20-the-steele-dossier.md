@@ -3,7 +3,7 @@ id: 153
 title: 'The Steele Dossier'
 date: '2016-06-20T13:01:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=153'
 permalink: /2016/06/20/the-steele-dossier/
 categories:

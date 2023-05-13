@@ -3,7 +3,7 @@ id: 421
 title: 'Jeff Flake warns of impeachment if Trump fires Mueller'
 date: '2018-03-20T07:57:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=421'
 permalink: /2018/03/20/jeff-flake-warns-of-impeachment-if-trump-fires-mueller/
 categories:

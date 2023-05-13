@@ -3,7 +3,7 @@ id: 435
 title: 'The media lied repeatedly about Officer Brian Sicknick’s Death. And they just got caught.'
 date: '2021-04-19T08:06:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=435'
 permalink: /2021/04/19/the-media-lied-repeatedly-about-officer-brian-sicknicks-death-and-they-just-got-caught/
 categories:

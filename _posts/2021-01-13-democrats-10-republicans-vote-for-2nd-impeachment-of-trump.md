@@ -3,7 +3,7 @@ id: 776
 title: 'Democrats, 10 Republicans vote for 2nd impeachment of Trump'
 date: '2021-01-13T12:25:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=776'
 permalink: /2021/01/13/democrats-10-republicans-vote-for-2nd-impeachment-of-trump/
 categories:

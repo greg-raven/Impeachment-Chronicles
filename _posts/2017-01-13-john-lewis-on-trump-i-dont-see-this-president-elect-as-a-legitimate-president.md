@@ -3,7 +3,7 @@ id: 345
 title: 'John Lewis on Trump: ‘I don’t see this president-elect as a legitimate president’'
 date: '2017-01-13T15:47:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=345'
 permalink: /2017/01/13/john-lewis-on-trump-i-dont-see-this-president-elect-as-a-legitimate-president/
 categories:

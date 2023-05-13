@@ -3,7 +3,7 @@ id: 599
 title: 'Trump ordering Iran strike is war crime, faith leader says'
 date: '2020-01-11T07:11:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=599'
 permalink: /2020/01/11/trump-ordering-iran-strike-is-war-crime-faith-leader-says/
 categories:

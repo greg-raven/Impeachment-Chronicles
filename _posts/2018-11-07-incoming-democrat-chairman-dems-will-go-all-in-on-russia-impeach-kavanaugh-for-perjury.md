@@ -3,7 +3,7 @@ id: 519
 title: 'Incoming Democrat chairman: Dems will go ‘all-in’ on Russia, impeach Kavanaugh for ‘perjury’'
 date: '2018-11-07T14:23:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=519'
 permalink: /2018/11/07/incoming-democrat-chairman-dems-will-go-all-in-on-russia-impeach-kavanaugh-for-perjury/
 categories:

@@ -3,7 +3,7 @@ id: 655
 title: 'FBI wrongly told its agents Trump-Russia collusion claims had come from DOJ, bombshell document reveals'
 date: '2022-05-23T05:13:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=655'
 permalink: /2022/05/23/fbi-wrongly-told-its-agents-trump-russia-collusion-claims-had-come-from-doj-bombshell-document-reveals/
 categories:

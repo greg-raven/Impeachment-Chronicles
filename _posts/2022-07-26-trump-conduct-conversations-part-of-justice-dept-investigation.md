@@ -3,7 +3,7 @@ id: 870
 title: 'Trump conduct, conversations part of Justice Dept. investigation'
 date: '2022-07-26T06:37:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=870'
 permalink: /2022/07/26/trump-conduct-conversations-part-of-justice-dept-investigation/
 categories:

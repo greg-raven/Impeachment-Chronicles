@@ -3,7 +3,7 @@ id: 573
 title: 'This is the single best argument for why Trump should be impeached and removed'
 date: '2019-12-02T06:54:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=573'
 permalink: /2019/12/02/this-is-the-single-best-argument-for-why-trump-should-be-impeached-and-removed/
 categories:

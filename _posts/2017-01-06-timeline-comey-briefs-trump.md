@@ -3,7 +3,7 @@ id: 220
 title: 'Timeline: Comey briefs Trump'
 date: '2017-01-06T14:12:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=220'
 permalink: /2017/01/06/timeline-comey-briefs-trump/
 categories:

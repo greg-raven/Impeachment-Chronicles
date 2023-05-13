@@ -3,7 +3,7 @@ id: 1281
 title: 'The racism at the heart of Trump’s ‘travel ban’'
 date: '2020-02-04T08:26:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1281'
 permalink: /2020/02/04/the-racism-at-the-heart-of-trumps-travel-ban/
 categories:

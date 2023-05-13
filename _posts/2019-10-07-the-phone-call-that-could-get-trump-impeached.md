@@ -3,7 +3,7 @@ id: 562
 title: 'The phone call that could get Trump impeached'
 date: '2019-10-07T06:47:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=562'
 permalink: /2019/10/07/the-phone-call-that-could-get-trump-impeached/
 categories:

@@ -3,7 +3,7 @@ id: 1055
 title: 'Washington Post’s Russiagate retraction'
 date: '2021-11-12T10:19:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1055'
 permalink: /2021/11/12/washington-posts-russiagate-retraction/
 categories:

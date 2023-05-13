@@ -3,7 +3,7 @@ id: 664
 title: 'FBI’s Russia collusion case fell apart in first month of Trump presidency, memos show'
 date: '2020-03-11T05:46:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=664'
 permalink: /2020/03/11/fbis-russia-collusion-case-fell-apart-in-first-month-of-trump-presidency-memos-show/
 categories:

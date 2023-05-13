@@ -3,7 +3,7 @@ id: 340
 title: 'Trump ‘compromising’ claims: How and why did we get here?'
 date: '2017-01-12T15:34:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=340'
 permalink: /2017/01/12/trump-compromising-claims-how-and-why-did-we-get-here/
 categories:

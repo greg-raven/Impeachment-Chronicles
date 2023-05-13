@@ -3,7 +3,7 @@ id: 1174
 title: 'War crimes'
 date: '2020-04-21T06:42:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1174'
 permalink: /2020/04/21/war-crimes/
 categories:

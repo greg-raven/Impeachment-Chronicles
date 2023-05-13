@@ -3,7 +3,7 @@ id: 527
 title: '‘We’re gonna impeach the motherfucker’: the Democrats’ new street fighters'
 date: '2019-01-04T06:25:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=527'
 permalink: /2019/01/04/were-gonna-impeach-the-motherfucker-the-democrats-new-street-fighters/
 categories:

@@ -3,7 +3,7 @@ id: 1343
 title: 'Former acting Attorney General Yates acknowledges Comey ‘went rogue’ on Flynn interview'
 date: '2020-08-05T07:55:00-07:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1343'
 permalink: /2020/08/05/former-acting-attorney-general-yates-acknowledges-comey-went-rogue-on-flynn-interview/
 categories:

@@ -3,7 +3,7 @@ id: 185
 title: 'Schumer warns Trump: Intel officials ‘have six ways from Sunday at getting back at you’'
 date: '2017-01-03T07:27:00-08:00'
 author: 'Trump 2020'
-layout: base
+layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=185'
 permalink: /2017/01/03/schumer-warns-trump-intel-officials-have-six-ways-from-sunday-at-getting-back-at-you/
 categories:
