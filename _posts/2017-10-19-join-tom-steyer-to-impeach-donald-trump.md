@@ -2,6 +2,10 @@
 title: 'Join Tom Steyer to impeach Donald Trump'
 date: '2017-10-19T13:58:00-07:00'
 layout: post
+author:
+- Tom Steyer
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="473" src="https://www.youtube.com/embed/GXl8vRmLeJk?feature=oembed" title="Join Us" width="840"></iframe></div></figure>Source: Tom Steyer
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GXl8vRmLeJk" title="Join Tom Steyer to impeach Donald Trump"></iframe>
+
+Source: Tom Steyer

@@ -2,14 +2,12 @@
 title: 'We have formed a 25th Amendment Political Action Committee'
 date: '2017-10-14T13:53:00-07:00'
 layout: post
+author:
+- Alex Plaxen
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> "We have formed a 25th Amendment Political Action Committee and a Super Political Action Committee. We hope to be for the 25th Amendment what the [@NRA](https://twitter.com/NRA?ref_src=twsrc%5Etfw) is to the 2nd Amendment." [@duty2warn](https://twitter.com/duty2warn?ref_src=twsrc%5Etfw) [\#25thAmendment](https://twitter.com/hashtag/25thAmendment?src=hash&ref_src=twsrc%5Etfw) [\#DutyToWarn](https://twitter.com/hashtag/DutyToWarn?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/KzCdXzxBA4](https://t.co/KzCdXzxBA4)
-> 
-> — Alex Plaxen (@APlaxen) [October 14, 2017](https://twitter.com/APlaxen/status/919221288949964800?ref_src=twsrc%5Etfw)
-
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>> We have formed a 25th Amendment Political Action Committee and a Super Political Action Committee. We hope to be for the 25th Amendment what the @NRA is to the 2nd Amendment. @duty2warn #25thAmendment #DutyToWarn https://t.co/KzCdXzxBA4
-> 
+> We have formed a 25th Amendment Political Action Committee and a Super Political Action Committee. We hope to be for the 25th Amendment what the @NRA is to the 2nd Amendment. @duty2warn #25thAmendment #DutyToWarn https://t.co/KzCdXzxBA4
+>
 > <cite>Alex Plaxen</cite>
 
-Source: Alex Plaxen
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;We have formed a 25th Amendment Political Action Committee and a Super Political Action Committee. We hope to be for the 25th Amendment what the <a href="https://twitter.com/NRA?ref_src=twsrc%5Etfw">@NRA</a> is to the 2nd Amendment.&quot; <a href="https://twitter.com/duty2warn?ref_src=twsrc%5Etfw">@duty2warn</a> <a href="https://twitter.com/hashtag/25thAmendment?src=hash&amp;ref_src=twsrc%5Etfw">#25thAmendment</a> <a href="https://twitter.com/hashtag/DutyToWarn?src=hash&amp;ref_src=twsrc%5Etfw">#DutyToWarn</a> <a href="https://t.co/KzCdXzxBA4">pic.twitter.com/KzCdXzxBA4</a></p>&mdash; Alex Plaxen (@APlaxen) <a href="https://twitter.com/APlaxen/status/919221288949964800?ref_src=twsrc%5Etfw">October 14, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -2,6 +2,8 @@
 title: 'Dem Rep. Maxine Waters leads ‘impeach’ Trump chant at leftist Tax March rally'
 date: '2017-04-15T10:15:00-07:00'
 layout: post
+author:
+- Justin Haskins
 ---
 
 Far-left Rep. Maxine Waters (D-Calif.) is openly calling for the impeachment of President Donald Trump.
@@ -22,12 +24,10 @@ Waters has been one of Trump’s fiercest critics in Congress.
 
 On Friday, she issued a series of messages on Twitter suggesting Trump is guilty of colluding with Russia to win the 2016 election against Hillary Clinton.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Trump worked so hard this week to make people believe he was fighting w/ Putin. Trump will never criticize Putin b/c he's in bed w/ him.
-> 
-> — Maxine Waters (@RepMaxineWaters) [April 14, 2017](https://twitter.com/RepMaxineWaters/status/852855692990062592?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump worked so hard this week to make people believe he was fighting w/ Putin. Trump will never criticize Putin b/c he&#39;s in bed w/ him.</p>&mdash; Maxine Waters (@RepMaxineWaters) <a href="https://twitter.com/RepMaxineWaters/status/852855692990062592?ref_src=twsrc%5Etfw">April 14, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>“Putin &amp; Trump have both criticized U.S. intelligence, denied campaign collusion, &amp; engaged in misinformation campaigns, lies,” Waters added.
+“Putin &amp; Trump have both criticized U.S. intelligence, denied campaign collusion, &amp; engaged in misinformation campaigns, lies,” Waters added.
 
 “The question remains what does Putin have on Trump that he is seemingly the ONLY person Trump will not criticize in any way?” Waters also said.
 
-Source: Justin Haskins, www.theblaze.com/news/2017/04/15/watch-dem-rep-maxine-waters-leads-impeach-trump-chant-at-leftist-tax-march-rally
+Source: Justin Haskins, theblaze.com/news/2017/04/15/watch-dem-rep-maxine-waters-leads-impeach-trump-chant-at-leftist-tax-march-rally
