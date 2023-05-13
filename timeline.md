@@ -26,4 +26,4 @@ guid: 'https://www.impeachment.network/?page_id=22'
 | February 9, 2021 | Senate begins second impeachment trial. |
 | February 13, 2021 | The Senate votes to acquit President Trump forever on the lone charge. |
 
-</figure><figure class="wp-block-image size-full size-large is-style-default">![President Donald Trump and Vice-president Mike Pence](https://www.impeachment.network/_assets/Official-Portraits-of-President-Donald-J-Trump-and-Vice-President-Mike-Pence.jpg)<figcaption>President Donald Trump and Vice-president Mike Pence</figcaption></figure>
+</figure><figure class="wp-block-image size-full size-large is-style-default">![President Donald Trump and Vice-president Mike Pence](/assets/Official-Portraits-of-President-Donald-J-Trump-and-Vice-President-Mike-Pence.jpg)<figcaption>President Donald Trump and Vice-president Mike Pence</figcaption></figure>

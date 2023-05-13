@@ -10,6 +10,6 @@ categories:
     - Uncategorized
 ---
 
-<figure class="wp-block-image">![Greg Pinelo](https://www.impeachment.network/_assets/2020-10-02-Twitter.jpg)</figure>Note: Greg Pinelo is a Democratic strategist and a former ad maker for Obama.
+<figure class="wp-block-image">![Greg Pinelo](/assets/2020-10-02-Twitter.jpg)</figure>Note: Greg Pinelo is a Democratic strategist and a former ad maker for Obama.
 
 H/T: Twitchy.com

@@ -36,4 +36,4 @@ American First Action is the official Pro-Trump Super PAC dedicated to electing 
 
 Source: Charlie Spiering, breitbart.com/politics/2020/01/22/exclusive-trump-super-pac-releases-witch-hunt-timeline/
 
-[Witch Hunt Timeline](https://www.impeachment.network/_assets/WitchHuntTimeline.pdf) ([Download](https://www.impeachment.network/_assets/WitchHuntTimeline.pdf))
+[Witch Hunt Timeline](/assets/WitchHuntTimeline.pdf) ([Download](/assets/WitchHuntTimeline.pdf))

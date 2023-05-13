@@ -10,7 +10,7 @@ categories:
     - Uncategorized
 ---
 
-XXXXXXXXXXXXXX  
+XXXXXXXXXXXXXX
 DELIBERATIVE FROCESS PRIVILEGED DOCUMENT
 
 \[…\]
@@ -25,4 +25,4 @@ information regarding Russian activities directed at the Trump campaign was coll
 
 Source: Lisa Page, FBI
 
-<figure class="wp-block-image size-large">![](https://www.impeachment.network/_assets/20170308-lisa-page-memo.jpg)</figure>
+<figure class="wp-block-image size-large">![](/assets/20170308-lisa-page-memo.jpg)</figure>
