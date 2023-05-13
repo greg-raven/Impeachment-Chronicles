@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=778'
 permalink: /2021/01/13/mcconnell-wont-agree-to-reconvene-senate-early-for-impeachment-trial/
-categories:
-    - Uncategorized
 ---
 
 Senate Majority Leader Mitch McConnell’s (R-Ky.) office told Senate Minority Leader Charles Schumer’s (D-N.Y.) staff on Wednesday that the GOP will not agree to reconvene the Senate before Jan. 19 to allow an impeachment trial while President Trump is still in office.

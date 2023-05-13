@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1387'
 permalink: /2023/04/30/adam-schiff-cyberbully/
-categories:
-    - Uncategorized
 ---
 
 \[…\]

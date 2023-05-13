@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=345'
 permalink: /2017/01/13/john-lewis-on-trump-i-dont-see-this-president-elect-as-a-legitimate-president/
-categories:
-    - Uncategorized
 ---
 
 Rep. John Lewis, the Georgia Democrat and civil rights icon, says he does not see Donald Trump as a legitimate president.

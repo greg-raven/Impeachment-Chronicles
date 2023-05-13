@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=978'
 permalink: /2019/12/09/review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation/
-categories:
-    - Uncategorized
 ---
 
 **Conclusions Concerning All Four FISA Applications**

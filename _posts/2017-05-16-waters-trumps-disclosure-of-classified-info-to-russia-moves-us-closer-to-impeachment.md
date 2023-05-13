@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1152'
 permalink: /2017/05/16/waters-trumps-disclosure-of-classified-info-to-russia-moves-us-closer-to-impeachment/
-categories:
-    - Uncategorized
 ---
 
 Rep. Maxine Waters (D., Calif.) on Tuesday spoke at the Center for American Progress Ideas Conference in Washington, where she claimed that Monday’s Washington Post report on President Trump sharing classified intelligence with Russian diplomats moves Congress closer to impeaching him.

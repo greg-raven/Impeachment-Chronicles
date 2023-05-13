@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=715'
 permalink: /2020/07/17/damning-notes-from-peter-strzok-about-russia-manafort-and-roger-stone/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> New docs – 2/2017 Peter Strzok notes on NYT Trump/Russia reporting.  

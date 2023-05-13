@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1053'
 permalink: /2018/07/16/its-not-wrong-to-compare-trumps-america-to-the-holocaust-heres-why/
-categories:
-    - Uncategorized
 ---
 
 - Parallels lie in authoritarianism, racism, ethnic myths and dehumanizing language, not the Final Solution

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=583'
 permalink: /2019/12/17/adam-schiff-nails-mike-pence-with-new-evidence-in-ukraine-scheme/
-categories:
-    - Uncategorized
 ---
 
 House Intelligence Committee Chairman Adam Schiff says new evidence raises questions about Mike Pence’s knowledge and involvement in the Ukraine scheme.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=933'
 permalink: /2022/08/19/crossfire-hurricane-cleanup-raid-fury-over-report-on-fbi-unit-that-ran-mar-a-lago-probe/
-categories:
-    - Uncategorized
 ---
 
 If you think the FBI division in charge of the raid on former President Donald Trump’s Palm Beach residence should be investigated, don’t worry. Special Counsel John Durham is already investigating the very same unit for allegedly abusing its power in the now totally discredited Russiagate probe, notoriously known as “Crossfire Hurricane.”

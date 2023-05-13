@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=722'
 permalink: /2020/09/18/trump-says-every-american-can-get-a-coronavirus-vaccine-by-april-but-health-experts-say-thats-not-likely/
-categories:
-    - Uncategorized
 ---
 
 (CNN) — President Donald Trump claimed Friday there will be enough coronavirus vaccines for every American by April — a claim that doesn’t match any timeline given by the federal government’s health agencies, private researchers or even the companies making the vaccines.

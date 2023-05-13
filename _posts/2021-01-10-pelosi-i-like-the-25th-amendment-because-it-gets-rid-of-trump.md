@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=756'
 permalink: /2021/01/10/pelosi-i-like-the-25th-amendment-because-it-gets-rid-of-trump/
-categories:
-    - Uncategorized
 ---
 
 Speaker Nancy Pelosi (D-Calif.) said in an interview to be broadcast Sunday night that she supports invoking the 25th Amendment to remove President Trump from office before his term expires next week.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1170'
 permalink: /2022/11/20/rape-culture-america/
-categories:
-    - Uncategorized
 ---
 
 Rape culture America. Brought to you by the billionaire owner of this site and a former President.

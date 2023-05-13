@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=664'
 permalink: /2020/03/11/fbis-russia-collusion-case-fell-apart-in-first-month-of-trump-presidency-memos-show/
-categories:
-    - Uncategorized
 ---
 
 - Flynn collusion ruled out, [Steele dossier](http://greg-raven.github.io/Impeachment-Chronicles/2016/06/20/the-steele-dossier/) debunked in January 2017, more than two years before Mueller announced it.

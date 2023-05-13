@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=670'
 permalink: /2020/06/01/peaceful-protesters-tear-gassed-to-clear-way-for-trump-church-photo-op/
-categories:
-    - Uncategorized
 ---
 
 The plaza between St. John’s Church and Lafayette Park was full of people nonviolently protesting police brutality late Monday afternoon when U.S. Park Police and National Guard troops, with the use of tear gas, suddenly started pushing them away for no apparent reason.

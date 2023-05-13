@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=594'
 permalink: /2019/12/20/nancy-pelosi-on-trump-hell-be-impeached-for-ever-as-it-happened/
-categories:
-    - Uncategorized
 ---
 
 - ‘No matter what the Senate does – he’s impeached for ever’

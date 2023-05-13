@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=270'
 permalink: /2022/02/28/4-new-things-we-just-learned-about-the-special-counsel-investigation/
-categories:
-    - Uncategorized
 ---
 
 - When will the corrupt media begin reporting on this biggest political scandal of the last century?

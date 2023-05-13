@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=274'
 permalink: /2022/03/09/nyt-reporter-matthew-rosenberg-cia-nsa-sources-involved-with-trump-pee-tape-leftist-sht-at-the-times/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" at="" frameborder="0" height="473" leftist="" sh="" src="https://www.youtube.com/embed/9y-ClpvWnq8?feature=oembed" the="" times="" title="NYT Reporter: CIA/NSA Sources Involved With Trump “Pee Tape” & "Leftist sh*t" At The Times" width="840"></iframe></div></figure>New York Times Reporter Discusses CIA / NSA Sources; ‘Ridiculous Pee Tape Didn’t Exist’ … ‘Crazier Leftist Sh\*t’ Influences Reporting

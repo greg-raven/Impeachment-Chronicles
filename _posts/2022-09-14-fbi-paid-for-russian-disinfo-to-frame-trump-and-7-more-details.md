@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=990'
 permalink: /2022/09/14/fbi-paid-for-russian-disinfo-to-frame-trump-and-7-more-details/
-categories:
-    - Uncategorized
 ---
 
 - Our federal government paid for Russian disinformation to frame the president of the United States for colluding with Russia.

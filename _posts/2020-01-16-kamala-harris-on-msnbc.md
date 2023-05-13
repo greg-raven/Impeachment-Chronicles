@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=624'
 permalink: /2020/01/16/kamala-harris-on-msnbc/
-categories:
-    - Uncategorized
 ---
 
 > “This is a solemn, serious moment. These are the most serious charges ever brought in the history of our country against a president.”

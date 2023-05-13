@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=633'
 permalink: /2022/07/20/in-harvard-study-of-jan-6-rioters-top-motivation-is-clear-trump/
-categories:
-    - Uncategorized
 ---
 
 - The study, which was shared with NBC News ahead of its publication, logged and analyzed the motives of 417 Capitol rioters, all of whom have been charged in relation to Jan. 6.

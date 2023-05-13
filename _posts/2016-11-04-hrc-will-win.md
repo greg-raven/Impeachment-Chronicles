@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1067'
 permalink: /2016/11/04/hrc-will-win/
-categories:
-    - Uncategorized
 ---
 
 > The Russians can collude with DT. The FBI can collude with DT. The American people won’t have their democracy stolen from them. HRC WILL WIN

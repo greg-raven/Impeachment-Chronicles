@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=111'
 permalink: /2016/07/28/text-peter-strzok-to-lisa-page/
-categories:
-    - Uncategorized
 ---
 
 so three things I want to talk with you about:

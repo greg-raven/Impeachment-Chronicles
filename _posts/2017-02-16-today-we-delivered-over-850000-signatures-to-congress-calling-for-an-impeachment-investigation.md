@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=452'
 permalink: /2017/02/16/today-we-delivered-over-850000-signatures-to-congress-calling-for-an-impeachment-investigation/
-categories:
-    - Uncategorized
 ---
 
 Wow! This is Amazing!

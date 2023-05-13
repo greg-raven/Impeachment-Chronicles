@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=565'
 permalink: /2019/10/09/joe-biden-calls-for-trumps-impeachment-for-the-first-time/
-categories:
-    - Uncategorized
 ---
 
 Former Vice President Joe Biden called for President Donald Trump’s impeachment Wednesday in a speech marked by some of his sharpest criticism yet of the president.

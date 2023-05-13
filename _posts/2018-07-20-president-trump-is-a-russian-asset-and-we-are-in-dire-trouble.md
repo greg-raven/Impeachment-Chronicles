@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1007'
 permalink: /2018/07/20/president-trump-is-a-russian-asset-and-we-are-in-dire-trouble/
-categories:
-    - Uncategorized
 ---
 
 - The legendary filmmaker behind ‘When Harry Met Sally’ and ‘The Princess Bride’ discusses his new film ‘Shock and Awe,’ press freedom and our erratic president.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=222'
 permalink: /2017/01/10/these-reports-allege-trump-has-deep-ties-to-russia/
-categories:
-    - Uncategorized
 ---
 
 - [The Steele Dossier](/2016/06/20/the-steele-dossier/), compiled by a person who has claimed to be a former British intelligence official, alleges Russia has compromising information on Trump. The allegations are unverified, and the report contains errors.

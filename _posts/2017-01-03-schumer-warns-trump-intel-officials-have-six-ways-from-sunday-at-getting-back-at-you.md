@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=185'
 permalink: /2017/01/03/schumer-warns-trump-intel-officials-have-six-ways-from-sunday-at-getting-back-at-you/
-categories:
-    - Uncategorized
 ---
 
 The new leader of Democrats in the Senate says Donald Trump is being “really dumb” for picking a fight with intelligence officials, suggesting they have ways to strike back, after the president-elect speculated Tuesday that his “so-called” briefing about Russian cyberattacks had been delayed in order to build a case.

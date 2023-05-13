@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=685'
 permalink: /2020/06/12/john-bolton-book-claims-impeachable-offenses-across-full-range-of-trumps-foreign-policy/
-categories:
-    - Uncategorized
 ---
 
 According to a press release put out by publishing giant Simon &amp; Schuster, Bolton’s soon-to-be-released book — *The Room Where It Happened: A White House Memoir* — contains a thorough accounting of Trump’s transgressions.

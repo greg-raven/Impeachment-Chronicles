@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=870'
 permalink: /2022/07/26/trump-conduct-conversations-part-of-justice-dept-investigation/
-categories:
-    - Uncategorized
 ---
 
 - People familiar with the probe said investigators are examining the former president’s conversations and have seized phone records of top aides

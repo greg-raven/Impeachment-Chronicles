@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=438'
 permalink: /2021/05/07/trump-celebrates-fec-dropping-their-case-against-him/
-categories:
-    - Uncategorized
 ---
 
 The Federal Election Commission has dropped its investigation into former President Donald Trump. He was accused of sending hush money payments to a number of women, including porn star Stormy Daniels.

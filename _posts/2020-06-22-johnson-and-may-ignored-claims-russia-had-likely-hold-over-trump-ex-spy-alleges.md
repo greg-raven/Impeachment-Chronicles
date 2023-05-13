@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1357'
 permalink: /2020/06/22/johnson-and-may-ignored-claims-russia-had-likely-hold-over-trump-ex-spy-alleges/
-categories:
-    - Uncategorized
 ---
 
 - Exclusive: Christopher Steele claims May government turned blind eye to Trump allegations

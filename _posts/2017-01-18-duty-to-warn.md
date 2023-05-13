@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=365'
 permalink: /2017/01/18/duty-to-warn/
-categories:
-    - Uncategorized
 ---
 
 **What Is Duty To Warn?**

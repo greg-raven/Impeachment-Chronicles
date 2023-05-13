@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=917'
 permalink: /2022/08/09/search-warrant-or-not-americans-have-no-reason-to-believe-the-fbi-raid-on-trumps-florida-home-was-justified/
-categories:
-    - Uncategorized
 ---
 
 - Americans do not need to defer to the court that already issued multiple falsified warrants against the former president.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=726'
 permalink: /2020/09/24/flynn-case-bombshell-fbi-analysts-bought-insurance-fearing-theyd-be-sued-for-misconduct/
-categories:
-    - Uncategorized
 ---
 
 - Flynn probe was supposed to be shut down in November 2016, and analysts became worried when superiors kept it open without cause.

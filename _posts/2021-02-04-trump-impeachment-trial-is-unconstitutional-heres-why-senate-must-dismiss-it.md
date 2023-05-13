@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=616'
 permalink: /2021/02/04/trump-impeachment-trial-is-unconstitutional-heres-why-senate-must-dismiss-it/
-categories:
-    - Uncategorized
 ---
 
 - Because the 45th president is now a private citizen, impeachment proceedings are rendered null and void

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1281'
 permalink: /2020/02/04/the-racism-at-the-heart-of-trumps-travel-ban/
-categories:
-    - Uncategorized
 ---
 
 - Adding Nigeria to the expanded list of excluded countries just makes it more obvious.

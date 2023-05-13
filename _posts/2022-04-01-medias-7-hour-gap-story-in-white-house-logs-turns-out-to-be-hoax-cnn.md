@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=297'
 permalink: /2022/04/01/medias-7-hour-gap-story-in-white-house-logs-turns-out-to-be-hoax-cnn/
-categories:
-    - Uncategorized
 ---
 
 The establishment media were abuzz this week with stories about a “seven-hour gap” in White House switchboard logs on January 6, but on Thursday night it emerged that the gap was likely the result of using ordinary landlines and cell phones.

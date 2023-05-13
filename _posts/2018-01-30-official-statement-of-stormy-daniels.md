@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1371'
 permalink: /2018/01/30/official-statement-of-stormy-daniels/
-categories:
-    - Uncategorized
 ---
 
 To Whom it May Concern:

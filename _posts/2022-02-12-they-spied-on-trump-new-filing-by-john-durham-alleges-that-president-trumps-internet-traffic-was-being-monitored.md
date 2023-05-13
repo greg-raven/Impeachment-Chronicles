@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=254'
 permalink: /2022/02/12/they-spied-on-trump-new-filing-by-john-durham-alleges-that-president-trumps-internet-traffic-was-being-monitored/
-categories:
-    - Uncategorized
 ---
 
 The investigation by special counsel John Durham hasn’t been moving quickly by any means, but there was some activity last September when it was reported that Durham was seeking an indictment of Hillary Clinton campaign attorney Michael Sussman, who was apparently the source of that now-debunked hot tip that the Trump Organization had a secret communications channel with the Russian Alfa Bank.

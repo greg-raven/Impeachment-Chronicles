@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=986'
 permalink: /2018/06/15/a-review-of-various-actions-by-the-federal-bureau-of-investigation-and-department-of-justice-in-advance-of-the-2016-election/
-categories:
-    - Uncategorized
 ---
 
 **Conclusions**

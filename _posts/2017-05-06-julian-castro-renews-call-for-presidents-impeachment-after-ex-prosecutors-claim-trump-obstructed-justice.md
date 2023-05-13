@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=477'
 permalink: /2017/05/06/julian-castro-renews-call-for-presidents-impeachment-after-ex-prosecutors-claim-trump-obstructed-justice/
-categories:
-    - Uncategorized
 ---
 
 NEWMARKET, N.H. – 2020 presidential candidate Julian Castro once again urged the House of Representatives on Monday to move forward with impeachment proceedings against President Trump.

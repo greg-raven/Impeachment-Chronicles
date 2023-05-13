@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=369'
 permalink: /2017/01/18/schakowsky-statement-on-donald-trumps-inauguration/
-categories:
-    - Uncategorized
 ---
 
 “I have decided to join the growing group of my colleagues who will not attend the Inauguration in protest of a President who used bigotry, fear, and lies to win an election that was tainted by foreign interference and voter suppression — and who intends to betray the interests of the ordinary working people who put him in office.

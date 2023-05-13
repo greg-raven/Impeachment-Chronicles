@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=334'
 permalink: /2022/05/24/aclj-obtains-new-memo-in-state-department-lawsuit-unveiling-unreported-obama-era-officials-secret-meeting-with-irans-zarif-during-trump-administration/
-categories:
-    - Uncategorized
 ---
 
 The Boston Globe put it this way: “Kerry is quietly seeking to salvage Iran deal he helped craft.”

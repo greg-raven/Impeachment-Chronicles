@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=754'
 permalink: /2021/01/10/pelosi-democrats-will-move-to-impeach-trump/
-categories:
-    - Uncategorized
 ---
 
 House Democrats will stage a vote to impeach President Trump for encouraging mob violence at the Capitol last Wednesday, Speaker Nancy Pelosi (D-Calif.) announced Sunday night.

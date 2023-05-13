@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1065'
 permalink: /2019/05/01/donald-trump-is-an-illegitimate-president/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Donald Trump is an illegitimate President. He welcomed the help of a foreign enemy power and aided &amp; abetted in stealing an election. He covered up his 100 contacts with that enemy &amp; obstructs the investigation into that enemy’s attack on US. [\#ImpeachmentNOW](https://twitter.com/hashtag/ImpeachmentNOW?src=hash&ref_src=twsrc%5Etfw)

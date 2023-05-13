@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=699'
 permalink: /2020/09/06/kamala-harris-says-she-wont-take-trumps-word-on-vaccine-efficacy/
-categories:
-    - Uncategorized
 ---
 
 Democratic vice presidential nominee Kamala Harris told CNN that she wouldn’t take President Donald Trump’s word alone on the efficacy of a coronavirus vaccine.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1397'
 permalink: /2023/05/09/active-cia-employee-recruited-signatories-for-hunter-biden-laptop-letter-report-shows/
-categories:
-    - Uncategorized
 ---
 
 The committees investigating the matter have sought information from the CIA, but the report indicates that the agency remains uncooperative.

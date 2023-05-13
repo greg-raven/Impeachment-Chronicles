@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1333'
 permalink: /2020/04/27/dossier-author-christopher-steele-had-previously-undisclosed-meetings-with-lawyers-for-dnc-clinton-campaign/
-categories:
-    - Uncategorized
 ---
 
 - Christopher Steele shed new light on his work for the Clinton campaign and DNC, revealing in testimony last month that he met with two lawyers for the Democrats as part of his investigation into Donald Trump.

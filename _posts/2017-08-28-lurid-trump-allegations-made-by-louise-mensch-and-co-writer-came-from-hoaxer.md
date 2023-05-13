@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1156'
 permalink: /2017/08/28/lurid-trump-allegations-made-by-louise-mensch-and-co-writer-came-from-hoaxer/
-categories:
-    - Uncategorized
 ---
 
 - Mensch and Claude Taylor tweeted details of criminal inquires that didn’t exist

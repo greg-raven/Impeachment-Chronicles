@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1141'
 permalink: /2022/10/28/anticipating-trumps-return-to-twitter/
-categories:
-    - Uncategorized
 ---
 
 1/ So, as I warned, Trump is likely to be back here on Hellscape dot com any time now. E|on will want to juice the stock price, and rest-assured, Wall Street will take the bait.  

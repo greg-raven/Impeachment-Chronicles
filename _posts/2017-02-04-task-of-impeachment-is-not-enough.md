@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1276'
 permalink: /2017/02/04/task-of-impeachment-is-not-enough/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-image size-full">![](http://greg-raven.github.io/Impeachment-Chronicles/wp-content/uploads/2022/12/20170204-bdd.jpg)</figure>> BrooklynDad\_Defiant! @ @mmpadellan Talk of impeachment is NOT enough. This election was STOLEN. That means Pence would ALSO be illegitimate 2 succeed trump. #VoidTheElection

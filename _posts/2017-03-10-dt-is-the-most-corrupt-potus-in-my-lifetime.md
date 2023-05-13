@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1063'
 permalink: /2017/03/10/dt-is-the-most-corrupt-potus-in-my-lifetime/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> DT is the most corrupt POTUS in my lifetime. Don't let a soulless pathological liar numb you with his mountain of lies. Democracy at stake.

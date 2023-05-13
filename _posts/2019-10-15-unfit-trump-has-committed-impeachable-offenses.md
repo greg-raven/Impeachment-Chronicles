@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1005'
 permalink: /2019/10/15/unfit-trump-has-committed-impeachable-offenses/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The GOP knows this unfit President has committed Impeachable offenses. They have no moral, legal, or Constitutional defense for him. It’s time to make them comfortable with voting to remove him from office. Our Democracy depends on it.

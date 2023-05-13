@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=603'
 permalink: /2021/06/22/judge-dismisses-claims-against-trump-over-clearing-dc-protestors-from-lafayette-square/
-categories:
-    - Uncategorized
 ---
 
 US District Judge Dabney Friedrich ruled against Black Lives Matter on Monday, dismissing claims that Trump, Barr, and Esper directed a conspiracy targeting black protesters.

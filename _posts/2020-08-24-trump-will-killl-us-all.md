@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=695'
 permalink: /2020/08/24/trump-will-killl-us-all/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Trump is taking a page from Putin’s playbook, and trying to bully the FDA into making a Covid-19 vaccine available before Stage 3 of testing is complete! HE WILL KILLL US ALL!! 71 days. <https://t.co/3Yn0aEFVDF>

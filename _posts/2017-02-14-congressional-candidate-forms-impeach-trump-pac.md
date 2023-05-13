@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=448'
 permalink: /2017/02/14/congressional-candidate-forms-impeach-trump-pac/
-categories:
-    - Uncategorized
 ---
 
 A Democratic congressional candidate filed paperwork with the the Federal Election Commission (FEC) to create the Impeach Trump Leadership PAC.

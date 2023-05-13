@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=527'
 permalink: /2019/01/04/were-gonna-impeach-the-motherfucker-the-democrats-new-street-fighters/
-categories:
-    - Uncategorized
 ---
 
 - Progressives cheer as Congress’s new intake pledge to take the fight to Trump.

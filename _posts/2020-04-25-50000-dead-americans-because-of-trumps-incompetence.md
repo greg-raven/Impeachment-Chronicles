@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1127'
 permalink: /2020/04/25/50000-dead-americans-because-of-trumps-incompetence/
-categories:
-    - Uncategorized
 ---
 
 > I don’t think we had any idea how much damage he would go on to do. There are 50,000 Americans now who are dead in significant part because of his incompetence.

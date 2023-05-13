@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1343'
 permalink: /2020/08/05/former-acting-attorney-general-yates-acknowledges-comey-went-rogue-on-flynn-interview/
-categories:
-    - Uncategorized
 ---
 
 - Yates is testifying before the Senate Judiciary Committee

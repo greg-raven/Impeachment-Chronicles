@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=988'
 permalink: /2016/08/08/well-stop-trump-from-becoming-president/
-categories:
-    - Uncategorized
 ---
 
 FBI Special Counsel Lisa Page: “\[Trump’s\] not ever going to become president, right? Right?!”

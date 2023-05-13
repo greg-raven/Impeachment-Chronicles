@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=720'
 permalink: /2020/07/17/senate-republicans-release-files-they-say-undercut-steele-dossier/
-categories:
-    - Uncategorized
 ---
 
 - The Senate Judiciary Committee on Friday released newly declassified documents

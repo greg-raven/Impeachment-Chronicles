@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=380'
 permalink: /2018/01/08/tom-steyer-we-need-to-get-rid-of-this-dangerous-and-unfit-president/
-categories:
-    - Uncategorized
 ---
 
 ‘We need to get rid of him.’

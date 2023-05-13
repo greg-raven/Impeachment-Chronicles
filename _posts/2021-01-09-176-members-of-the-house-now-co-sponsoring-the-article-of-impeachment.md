@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=748'
 permalink: /2021/01/09/176-members-of-the-house-now-co-sponsoring-the-article-of-impeachment/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> UPDATE: 176 members of the House now co-sponsoring the article of impeachment [@RepTedLieu](https://twitter.com/RepTedLieu?ref_src=twsrc%5Etfw), [@RepRaskin](https://twitter.com/RepRaskin?ref_src=twsrc%5Etfw) and I wrote to remove Donald Trump for inciting an insurrection at the Capitol.

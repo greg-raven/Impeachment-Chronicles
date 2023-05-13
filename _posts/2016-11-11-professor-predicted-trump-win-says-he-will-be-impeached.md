@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=164'
 permalink: /2016/11/11/professor-predicted-trump-win-says-he-will-be-impeached/
-categories:
-    - Uncategorized
 ---
 
 (CNN) — The man dubbed “Prediction Professor” for accurately calling almost every presidential election since 1984, including the 2016 election, now forecasts the impeachment of President-elect Donald Trump.

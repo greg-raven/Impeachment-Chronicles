@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=653'
 permalink: /2020/02/23/gop-rep-nunes-believes-fbi-probe-into-trump-campaign-began-in-late-2015-not-2016/
-categories:
-    - Uncategorized
 ---
 
 Rep. Devin Nunes, the top Republican on the House Permanent Select Committee on Intelligence, thinks the FBI’s Trump-Russia probe began before the agency’s publicly stated July 2016 start date.

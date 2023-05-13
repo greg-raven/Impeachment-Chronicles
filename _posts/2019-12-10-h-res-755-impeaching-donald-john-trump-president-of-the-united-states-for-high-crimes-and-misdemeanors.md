@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=579'
 permalink: /2019/12/10/h-res-755-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors/
-categories:
-    - Uncategorized
 ---
 
 Introduced by Rep. Jerrold Nadler D-NY-10

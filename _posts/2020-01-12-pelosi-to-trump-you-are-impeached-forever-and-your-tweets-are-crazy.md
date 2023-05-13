@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=620'
 permalink: /2020/01/12/pelosi-to-trump-you-are-impeached-forever-and-your-tweets-are-crazy/
-categories:
-    - Uncategorized
 ---
 
 - The Speaker of the House did not hold back on *This Week with George Stephanopoulos.*

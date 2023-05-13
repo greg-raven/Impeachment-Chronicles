@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1154'
 permalink: /2017/08/29/twitter-journalists-louise-mensch-and-claude-taylor-were-just-caught-spreading-fake-news/
-categories:
-    - Uncategorized
 ---
 
 In the words of Mark Twain, “everybody talks about fake news but nobody does anything about it.” Such it is with Twitter “citizen journalists” like Louise Mensch and Claude Taylor, who claim to be uncovering unreported political conspiracies but are more than likely just spreading falsehoods. Which is why, as I’ve argued before, Twitter users like Mensch, who have a track record of disseminating lies, should not be given official verification checkmarks.

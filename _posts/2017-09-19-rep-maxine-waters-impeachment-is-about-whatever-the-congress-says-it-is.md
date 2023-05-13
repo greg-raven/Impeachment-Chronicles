@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=487'
 permalink: /2017/09/19/rep-maxine-waters-impeachment-is-about-whatever-the-congress-says-it-is/
-categories:
-    - Uncategorized
 ---
 
 (CNSNews.com) — Rep. Maxine Waters (D-Calif.), who previously has called for the impeachment of Donald Trump, on Thursday told a Congressional Black Caucus Town Hall on Civil Rights that she expects other members of the black community to back her up:

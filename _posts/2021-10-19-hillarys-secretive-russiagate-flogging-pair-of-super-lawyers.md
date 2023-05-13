@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1316'
 permalink: /2021/10/19/hillarys-secretive-russiagate-flogging-pair-of-super-lawyers/
-categories:
-    - Uncategorized
 ---
 
 The indictment of Hillary Clinton lawyer Michael Sussmann for allegedly lying to the FBI sheds new light on the pivotal role of Democratic operatives in the Russiagate affair. The emerging picture shows Sussmann and his Perkins Coie colleague Marc Elias, the chief counsel for Clinton’s 2016 campaign, proceeding on parallel, coordinated tracks to solicit and spread disinformation tying Donald Trump to the Kremlin.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=407'
 permalink: /2017/01/31/shrinks-battle-over-diagnosing-donald-trump/
-categories:
-    - Uncategorized
 ---
 
 - Chaos in the White House fuels discord amongst the experts.

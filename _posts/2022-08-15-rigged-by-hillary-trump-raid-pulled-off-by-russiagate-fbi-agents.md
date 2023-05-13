@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=923'
 permalink: /2022/08/15/rigged-by-hillary-trump-raid-pulled-off-by-russiagate-fbi-agents/
-categories:
-    - Uncategorized
 ---
 
 Paul Sperry is a former Washington bureau chief for *Investor’s Business Daily,* a Hoover Institute media fellow and has written multiple books including the best-selling “Infiltration.”

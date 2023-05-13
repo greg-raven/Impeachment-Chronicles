@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1320'
 permalink: /2017/08/20/donald-trump-is-a-nazi-sympathizer/
-categories:
-    - Uncategorized
 ---
 
 The late U.S. Poet Laureate Dr. Maya Angelou once said, “When someone shows you who they are, believe them!”

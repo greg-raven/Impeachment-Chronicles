@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=592'
 permalink: /2019/12/19/rep-adam-schiff-is-coming-after-mike-pence-next/
-categories:
-    - Uncategorized
 ---
 
 Rep. Schiff said that he has evidence that Pence knew more about the Ukraine scheme than he has previously stated and the American people deserve to see the proof.

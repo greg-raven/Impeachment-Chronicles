@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1089'
 permalink: /2017/09/22/sick-of-dt-crying-hoax/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Sick of DT crying hoax. We've been attacked. This is not about you. Our security &amp; Democracy at stake. Stand up,protect US &amp; be a POTUS!!

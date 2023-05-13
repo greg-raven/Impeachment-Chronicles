@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=525'
 permalink: /2019/01/03/2019-will-be-the-worst-year-of-donald-trumps-life/
-categories:
-    - Uncategorized
 ---
 
 Some presidents have really bad years.

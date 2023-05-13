@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1335'
 permalink: /2021/12/01/forget-the-steele-dossier-mueller-report-release-shows-why-trump-russia-inquiry-was-required/
-categories:
-    - Uncategorized
 ---
 
 - A federal appeals court ruled on Tuesday that parts of the redacted Mueller report be made public

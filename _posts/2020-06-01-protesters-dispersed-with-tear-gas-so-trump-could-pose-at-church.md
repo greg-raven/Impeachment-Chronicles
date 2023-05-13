@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=672'
 permalink: /2020/06/01/protesters-dispersed-with-tear-gas-so-trump-could-pose-at-church/
-categories:
-    - Uncategorized
 ---
 
 - “He did not pray,” said Mariann E. Budde, the Episcopal bishop of Washington. “He did not mention George Floyd, he did not mention the agony of people who have been subjected to this kind of horrific expression of racism and white supremacy for hundreds of years.”

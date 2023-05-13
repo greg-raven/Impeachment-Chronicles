@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=122'
 permalink: /2021/11/18/even-if-the-steele-dossier-is-discredited-theres-plenty-of-evidence-of-trumps-collusion-with-russia/
-categories:
-    - Uncategorized
 ---
 
 Ever since then, Trump and his right-wing media chorus have been loudly proclaiming that the entire “Trump-Russia collusion narrative” was “phony” and that he was the victim of a “hoax” perpetrated by the Democrats, the media and the FBI.

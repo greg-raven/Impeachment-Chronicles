@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1269'
 permalink: /2018/02/16/2016-election-was-illegitimate/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The more we learn about 2016 election the more ILLEGITIMATE it becomes. America deserves to know whether we have a FAKE President in the Oval Office [\#RussianInterference](https://twitter.com/hashtag/RussianInterference?src=hash&ref_src=twsrc%5Etfw) <https://t.co/x3BHO5CPIm>

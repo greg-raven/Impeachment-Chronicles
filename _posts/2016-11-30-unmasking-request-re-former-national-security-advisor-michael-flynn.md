@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=167'
 permalink: /2016/11/30/unmasking-request-re-former-national-security-advisor-michael-flynn/
-categories:
-    - Uncategorized
 ---
 
 [First-known request](http://greg-raven.github.io/Impeachment-Chronicles/2020/05/08/follow-up-unmasking-requests-re-former-national-security-advisor-michael-flynn/): Samantha Power, U.S. Ambassador to the United Nations

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=709'
 permalink: /2020/10/31/mueller-gathered-evidence-suggesting-dnc-clinton-camp-manufactured-russia-collusion-story/
-categories:
-    - Uncategorized
 ---
 
 - Memos show Clinton-DNC effort to tie Trump to Russia began as early as May 2016 in Ukraine, but Mueller didn’t include in final report.

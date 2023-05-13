@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=768'
 permalink: /2021/01/11/house-set-to-give-pence-ultimatum-before-moving-to-impeach-trump/
-categories:
-    - Uncategorized
 ---
 
 The House is set to issue a largely futile ultimatum to Vice President Mike Pence on Tuesday, demanding he invoke constitutional authority to remove President Donald Trump from office, as a prelude to an expected vote to impeach the president for the second time in little more than a year.

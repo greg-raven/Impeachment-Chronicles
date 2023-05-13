@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=491'
 permalink: /2017/09/28/the-dangerous-case-of-donald-trump/
-categories:
-    - Uncategorized
 ---
 
 - A new book delves into the president’s mental health.

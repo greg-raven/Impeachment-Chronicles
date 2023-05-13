@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1091'
 permalink: /2017/04/04/they-stole-the-election/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> They stole the election, but they will not steal our democracy. [\#trumprussia](https://twitter.com/hashtag/trumprussia?src=hash&ref_src=twsrc%5Etfw)

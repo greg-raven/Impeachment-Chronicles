@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=544'
 permalink: /2019/05/07/pelosi-we-cannot-accept-a-second-term-for-donald-trump/
-categories:
-    - Uncategorized
 ---
 
 Speaker of the House Nancy Pelosi said Tuesday that the nation could not “accept” another term from President Trump if the country wants to remain “faithful” to the Constitution.

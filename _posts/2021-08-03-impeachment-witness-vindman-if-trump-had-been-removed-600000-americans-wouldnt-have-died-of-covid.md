@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=8'
 permalink: /2021/08/03/impeachment-witness-vindman-if-trump-had-been-removed-600000-americans-wouldnt-have-died-of-covid/
-categories:
-    - Uncategorized
 ---
 
 - Vindman: ‘Direct logic link’ to Trump being acquitted during first impeachment and the coronavirus pandemic

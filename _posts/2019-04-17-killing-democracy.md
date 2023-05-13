@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1075'
 permalink: /2019/04/17/killing-democracy/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Tomorrow Donald Trump, with the aid of the Attorney General of the United States, will try to drive a stake through the heart of Democracy.

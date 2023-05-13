@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1355'
 permalink: /2021/09/24/effort-to-spread-discredited-russia-collusion-theory-welcomed-by-mccain-senate-panel-memos-show/
-categories:
-    - Uncategorized
 ---
 
 - Armed Services panel secretly fought court battle this summer to quash subpoena seeking records of contacts with ex-FBI official Daniel Jones and liberal-funded The Democracy Integrity Project nonprofit.

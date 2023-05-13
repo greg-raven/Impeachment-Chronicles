@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1095'
 permalink: /2021/12/06/trump-spac-under-investigation-by-feds-sec/
-categories:
-    - Uncategorized
 ---
 
 The special purpose acquisition company, or SPAC, that announced plans to merge with former President Donald Trump’s new social media company is under investigation by federal regulators, the company disclosed on Monday.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=954'
 permalink: /2022/08/30/top-fbi-official-ousted-amid-charges-of-bias-in-hunter-biden-investigation/
-categories:
-    - Uncategorized
 ---
 
 Washington, D.C. – A senior FBI official has abruptly resigned, The Washington Times reported late Monday, amidst allegations he showed improper political bias during the bureau’s investigation into information recovered from the hard drive of a laptop left by Hunter Biden in a Delaware computer repair shop.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=766'
 permalink: /2021/01/11/former-democrat-leader-daschle-warns-against-trump-impeachment/
-categories:
-    - Uncategorized
 ---
 
 Former Senate Democratic leader Tom Daschle warned his party against impeaching President Donald Trump for inciting the mob attack on the Capitol, arguing that even a delayed Senate trial risks impeding urgent action President-elect Joe Biden must take to bolster the economy and combat the Covid-19 pandemic.

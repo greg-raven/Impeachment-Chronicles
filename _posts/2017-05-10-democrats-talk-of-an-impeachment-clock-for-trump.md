@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=481'
 permalink: /2017/05/10/democrats-talk-of-an-impeachment-clock-for-trump/
-categories:
-    - Uncategorized
 ---
 
 Democratic leaders aren’t calling for the impeachment of President Donald Trump.

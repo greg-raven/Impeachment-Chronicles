@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1015'
 permalink: /2022/09/23/trump-has-violated-so-many-laws/
-categories:
-    - Uncategorized
 ---
 
 Trump has violated so many laws, it’s hard to keep track. But the one we must never forget is he led an armed deadly Insurrection to Overthrow the Government of the United States of America.

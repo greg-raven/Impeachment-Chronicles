@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=540'
 permalink: /2019/05/02/new-york-times-admits-obama-admin-deployed-multiple-spies-against-trump-campaign-in-2016/
-categories:
-    - Uncategorized
 ---
 
 - *The New York Times* admitted on Thursday that the Obama administration deployed multiple spies against the Trump campaign in 2016, confirming recent comments by Attorney General William Barr that ‘spying did occur’ during the campaign.

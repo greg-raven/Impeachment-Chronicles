@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=618'
 permalink: /2021/01/08/house-foreign-affairs-committee-democrats-support-impeaching-trump/
-categories:
-    - Uncategorized
 ---
 
 Democrats on the House Foreign Affairs Committee joined growing calls among their colleagues for Speaker Nancy Pelosi (D-Calif.) to take steps to impeach President Trump for his actions before the U.S. Capitol was attacked by a mob of his supporters.

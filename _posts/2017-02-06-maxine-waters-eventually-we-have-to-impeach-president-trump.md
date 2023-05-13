@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=444'
 permalink: /2017/02/06/maxine-waters-eventually-we-have-to-impeach-president-trump/
-categories:
-    - Uncategorized
 ---
 
 - ‘I have not called for the impeachment yet, he is doing it himself.’

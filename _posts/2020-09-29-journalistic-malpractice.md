@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1136'
 permalink: /2020/09/29/journalistic-malpractice/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Tonight, “Moderator” Chris Wallace allowed Joe Biden to repeat the Charlottesville “Very Fine People” Lie unchallenged.  

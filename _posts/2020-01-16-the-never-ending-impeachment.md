@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=629'
 permalink: /2020/01/16/the-never-ending-impeachment/
-categories:
-    - Uncategorized
 ---
 
 - Efforts to remove Trump didn’t start with Ukraine. And won’t end there.

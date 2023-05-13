@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=821'
 permalink: /2022/07/22/trump-gave-order-to-make-sure-jan-6-rally-was-safe-event-pentagon-memo-shows/
-categories:
-    - Uncategorized
 ---
 
 - Gen. Milley’s recollection undercuts months-long effort by Democrats to suggest Trump wanted to incite violence: many key questions left unanswered.

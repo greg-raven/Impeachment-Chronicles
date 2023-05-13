@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=291'
 permalink: /2022/05/25/sussmann-billed-the-purchase-of-flash-drives-to-clinton-campaign-days-before-giving-them-to-fbi/
-categories:
-    - Uncategorized
 ---
 
 Just days before 2016 Clinton campaign attorney Michael Sussmann met with the FBI over alleged Trump-Russia collusion – inspired by what he described as his desire to be a concerned citizen – Sussmann bought and billed the campaign for two flash drives on which he stored data that he presented to the bureau, a prosecution witness testified Wednesday.

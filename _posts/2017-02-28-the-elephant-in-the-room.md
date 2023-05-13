@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=464'
 permalink: /2017/02/28/the-elephant-in-the-room/
-categories:
-    - Uncategorized
 ---
 
 It’s time we talked openly about Donald Trump’s mental health.

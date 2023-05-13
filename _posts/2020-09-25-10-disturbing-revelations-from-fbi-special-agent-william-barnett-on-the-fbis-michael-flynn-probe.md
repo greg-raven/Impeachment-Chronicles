@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=732'
 permalink: /2020/09/25/10-disturbing-revelations-from-fbi-special-agent-william-barnett-on-the-fbis-michael-flynn-probe/
-categories:
-    - Uncategorized
 ---
 
 The Justice Department on Thursday released a summary of its interview of a former FBI special agent who revealed damaging information on the initial FBI counterintelligence and Special Counsel Robert Mueller’s investigations into Lt. Gen. (Ret.) Michael Flynn.

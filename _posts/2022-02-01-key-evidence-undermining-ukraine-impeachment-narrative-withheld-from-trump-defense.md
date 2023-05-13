@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1161'
 permalink: /2022/02/01/key-evidence-undermining-ukraine-impeachment-narrative-withheld-from-trump-defense/
-categories:
-    - Uncategorized
 ---
 
 In 2016, Burisma Holdings was being investigated by Ukraine’s then-Prosecutor General Viktor Shokin while then-Vice President Joe Biden’s Hunter sat on the company’s board making $83,000. So Joe Biden threatened to withhold $1 billion in aid to Ukraine unless they fired Shokin.

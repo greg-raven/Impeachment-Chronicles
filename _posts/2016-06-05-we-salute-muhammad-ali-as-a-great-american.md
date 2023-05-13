@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=374'
 permalink: /2016/06/05/we-salute-muhammad-ali-as-a-great-american/
-categories:
-    - Uncategorized
 ---
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We salute <a href="https://twitter.com/hashtag/MuhammadAli?src=hash&amp;ref_src=twsrc%5Etfw">#MuhammadAli</a> as a great American. Sadly, we need to acknowledge that Donald Trump wouldn&#39;t even allow him to come into America.</p>&mdash; Steve Dettelbach (@SteveDettelbach) <a href="https://twitter.com/SteveDettelbach/status/739622713724002305?ref_src=twsrc%5Etfw">June 6, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

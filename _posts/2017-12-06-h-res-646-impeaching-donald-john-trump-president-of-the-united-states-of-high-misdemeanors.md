@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=510'
 permalink: /2017/12/06/h-res-646-impeaching-donald-john-trump-president-of-the-united-states-of-high-misdemeanors/
-categories:
-    - Uncategorized
 ---
 
 On December 6, 2017, Rep. Al Green introduced articles of impeachment against President Trump. Green introduced the resolution as a privileged motion and it was voted on the same day. As expected the resolution did not move forward, losing by 364–58 with all Republicans and most Democrats voting against it.

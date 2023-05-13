@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=548'
 permalink: /2019/05/25/h-res-396-authorizing-and-directing-the-committee-on-the-judiciary-to-investigate-whether-sufficient-grounds-exist-for-the-house-of-representatives-to-exercise-the-power-vested-by-article-1/
-categories:
-    - Uncategorized
 ---
 
 Introduced by Rep. Shelia Jackson Lee (D-TX)

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=631'
 permalink: /2022/07/20/mystery-solved-doj-secretly-thwarted-release-of-russia-documents-declassified-by-trump/
-categories:
-    - Uncategorized
 ---
 
 - Department used last-minute privacy concerns to halt release, then ignored direct order from president to make memos public.

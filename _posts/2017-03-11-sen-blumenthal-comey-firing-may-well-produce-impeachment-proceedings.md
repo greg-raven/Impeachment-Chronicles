@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1329'
 permalink: /2017/03/11/sen-blumenthal-comey-firing-may-well-produce-impeachment-proceedings/
-categories:
-    - Uncategorized
 ---
 
 Sen. Richard Blumenthal said Wednesday that President Donald Trump’s decision to fire his FBI director could lead to possible impeachment proceedings in Congress.

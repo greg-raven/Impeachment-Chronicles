@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1176'
 permalink: /2022/11/18/donald-trump-has-committed-a-mountain-of-federal-crimes/
-categories:
-    - Uncategorized
 ---
 
 We don’t need a Special Counsel to determine that Donald Trump has committed a mountain of Federal Crimes. Merrick Garland: Stop trying to avoid looking political and INDICT!

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1013'
 permalink: /2022/10/13/fact-trump-stole-documents/
-categories:
-    - Uncategorized
 ---
 
 Fact: Donald Trump stole Highly Classified Documents from the United States Government. When asked for their return, he directed an aide to hide them. He will be Indicted for that.

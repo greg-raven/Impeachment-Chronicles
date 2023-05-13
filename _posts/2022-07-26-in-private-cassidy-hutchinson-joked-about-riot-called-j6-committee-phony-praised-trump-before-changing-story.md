@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=860'
 permalink: /2022/07/26/in-private-cassidy-hutchinson-joked-about-riot-called-j6-committee-phony-praised-trump-before-changing-story/
-categories:
-    - Uncategorized
 ---
 
 - Hutchinson commiserated with other targets of the probe about how little information she had about any wrongdoing on Jan. 6.

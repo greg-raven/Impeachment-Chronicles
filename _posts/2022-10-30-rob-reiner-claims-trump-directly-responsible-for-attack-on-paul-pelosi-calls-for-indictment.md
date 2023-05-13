@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1144'
 permalink: /2022/10/30/rob-reiner-claims-trump-directly-responsible-for-attack-on-paul-pelosi-calls-for-indictment/
-categories:
-    - Uncategorized
 ---
 
 Director, actor, and longtime Democrat activist Rob Reiner blamed former President Donald Trump for the recent attack on House Speaker Nancy Pelosi’s (D-CA) husband, Paul Pelosi, claiming it was “directly” tied to Trump challenging the legitimacy of the 2020 election.

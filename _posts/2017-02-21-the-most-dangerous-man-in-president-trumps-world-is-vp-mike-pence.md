@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=457'
 permalink: /2017/02/21/the-most-dangerous-man-in-president-trumps-world-is-vp-mike-pence/
-categories:
-    - Uncategorized
 ---
 
 There’s a way to remove Donald Trump from office without impeachment. It comes from another section of the Constitution – and the man who controls most of that power is Trump’s Vice President: Mike Pence.

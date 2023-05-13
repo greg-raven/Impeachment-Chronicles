@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=935'
 permalink: /2022/08/19/think-the-fbi-deserves-the-benefit-of-the-doubt-this-laundry-list-of-corruption-should-make-you-think-again/
-categories:
-    - Uncategorized
 ---
 
 - A look at the FBI’s last six years shows a pattern of irredeemable corruption.

@@ -6,14 +6,10 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1077'
 permalink: /2017/01/16/lewis-dt-illegitimate/
-categories:
-    - Uncategorized
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> John Lewis didn't call DT illegitimate in the abstract. He said it because of Russia's intervention and growing evidence of treason. [\#MSMdig](https://twitter.com/hashtag/MSMdig?src=hash&ref_src=twsrc%5Etfw)
-> 
-> — Rob Reiner (@robreiner) [January 16, 2017](https://twitter.com/robreiner/status/821045430209216512?ref_src=twsrc%5Etfw)
-
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>> John Lewis didn’t call DT illegitimate in the abstract. He said it because of Russia’s intervention and growing evidence of treason. #MSMdig
-> 
+> John Lewis didn&#39;t call DT illegitimate in the abstract. He said it because of Russia&#39;s intervention and growing evidence of treason. #MSMdig
+>
 > <cite>Rob Reiner via Twitter</cite>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">John Lewis didn&#39;t call DT illegitimate in the abstract. He said it because of Russia&#39;s intervention and growing evidence of treason. <a href="https://twitter.com/hashtag/MSMdig?src=hash&amp;ref_src=twsrc%5Etfw">#MSMdig</a></p>&mdash; Rob Reiner (@robreiner) <a href="https://twitter.com/robreiner/status/821045430209216512?ref_src=twsrc%5Etfw">January 16, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

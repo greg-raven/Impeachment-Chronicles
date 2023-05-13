@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=115'
 permalink: /2016/07/31/crossfire-hurricane/
-categories:
-    - Uncategorized
 ---
 
 **FEDERAL BUREAU OF INVESTIGATION** Electronic Communication

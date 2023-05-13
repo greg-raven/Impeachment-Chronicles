@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=552'
 permalink: /2019/09/29/hillary-clinton-trump-knows-hes-an-illegitimate-president-insomuch-as-he-has-a-conscience/
-categories:
-    - Uncategorized
 ---
 
 In an interview with “CBS Sunday Morning” host Jane Pauley that aired Sunday, former Secretary of State and Democratic presidential candidate Hillary Clinton talks about the recent accusation that President Trump inappropriately pressured the president of Ukraine for information about the Biden family’s deals with an energy country in that country.

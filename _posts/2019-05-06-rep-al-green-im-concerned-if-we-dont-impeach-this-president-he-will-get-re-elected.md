@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=542'
 permalink: /2019/05/06/rep-al-green-im-concerned-if-we-dont-impeach-this-president-he-will-get-re-elected/
-categories:
-    - Uncategorized
 ---
 
 Rep. Al Green told MSNBC Saturday that he is “concerned if we don’t impeach this president, he will get re-elected.”

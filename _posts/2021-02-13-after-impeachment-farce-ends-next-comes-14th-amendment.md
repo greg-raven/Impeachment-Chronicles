@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=788'
 permalink: /2021/02/13/after-impeachment-farce-ends-next-comes-14th-amendment/
-categories:
-    - Uncategorized
 ---
 
 With the result of the second impeachment charade a forgone conclusion in Washington, let us now turn to the final partisan tool remaining in Democrats’ torture closet: The 14th Amendment.

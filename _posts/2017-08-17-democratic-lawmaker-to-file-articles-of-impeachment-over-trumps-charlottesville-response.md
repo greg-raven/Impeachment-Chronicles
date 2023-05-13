@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=415'
 permalink: /2017/08/17/democratic-lawmaker-to-file-articles-of-impeachment-over-trumps-charlottesville-response/
-categories:
-    - Uncategorized
 ---
 
 Rep. Steve Cohen announced Thursday that he would introduce articles of impeachment against President Trump following the president’s comments about the violent attacks in Charlottesville, Va., saying the president had “failed the presidential test of moral leadership.”

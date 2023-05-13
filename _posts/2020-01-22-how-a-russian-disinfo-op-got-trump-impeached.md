@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=643'
 permalink: /2020/01/22/how-a-russian-disinfo-op-got-trump-impeached/
-categories:
-    - Uncategorized
 ---
 
 - The Kremlin may have been laying the groundwork for blaming Ukraine for 2016 as early as 2015.

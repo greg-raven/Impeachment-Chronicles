@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=705'
 permalink: /2020/10/06/dni-declassifies-brennan-notes-cia-memo-on-hillary-clinton-stirring-up-scandal-between-trump-russia/
-categories:
-    - Uncategorized
 ---
 
 - A source said Brennan’s handwritten notes were taken after briefing Obama on the matter

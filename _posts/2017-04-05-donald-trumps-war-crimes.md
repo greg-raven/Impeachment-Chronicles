@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=469'
 permalink: /2017/04/05/donald-trumps-war-crimes/
-categories:
-    - Uncategorized
 ---
 
 - His administration is killing unusually large numbers of civilians, in violation of U.S. and international law.

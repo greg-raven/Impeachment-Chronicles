@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1123'
 permalink: /2020/11/29/dominion-eric-coomer-allegedly-bragged-he-made-fking-sure-that-trumps-not-gonna-win/
-categories:
-    - Uncategorized
 ---
 
 - A conference call attendee alleges that Dominion’s Eric Coomer made some damning statements about the outcome of the November 3 election

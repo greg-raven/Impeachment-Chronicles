@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=500'
 permalink: /2017/10/28/a-crises-of-legitimacy/
-categories:
-    - Uncategorized
 ---
 
 It seems to me that people aren’t quite getting how close we are to a crisis of legitimacy 1/

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=519'
 permalink: /2018/11/07/incoming-democrat-chairman-dems-will-go-all-in-on-russia-impeach-kavanaugh-for-perjury/
-categories:
-    - Uncategorized
 ---
 
 - Also laments that elite Republicans are joining Democrats.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=550'
 permalink: /2019/09/18/the-25th-amendment-loophole-democrats-could-use-against-trump/
-categories:
-    - Uncategorized
 ---
 
 It’s been a defining question of his presidency: Is Donald Trump mentally fit enough to perform the duties of his office? And if he weren’t, what remedy could there be? While never entirely going away, the discussion seemed to have quieted. But then came Sharpiegate, his surpassingly strange conflict with the deep state of the NOAA. What other explanation could there be for the president who would draw on a weather map for a press conference show-and-tell? Even Republicans and former Trump administration officials sounded the alarm. “He’s deteriorating in plain sight,” a Republican strategist in frequent contact with the White House told Business Insider. “The guy is obviously in mental decline,” Anthony Scaramucci, who briefly served as White House communications director, sounded off on CNN.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=404'
 permalink: /2017/01/30/remove-donald-trump-from-his-presidency/
-categories:
-    - Uncategorized
 ---
 
 Quoted from www.whitehouse.gov/america-first-energy: “President Trump is committed to eliminating harmful and unnecessary policies such as the Climate Action Plan and the Waters of the U.S. rule.”

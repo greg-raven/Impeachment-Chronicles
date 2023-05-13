@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=267'
 permalink: /2022/02/21/ratcliffe-says-all-kinds-of-intelligence-showed-fake-russia-collusion/
-categories:
-    - Uncategorized
 ---
 
 The U.S. government possessed a wealth of intelligence showing bogus allegations of collusion between former President Donald Trump and Russia, former Director of National Intelligence John Ratcliffe said, referring to his time overseeing the nation’s spy apparatus.

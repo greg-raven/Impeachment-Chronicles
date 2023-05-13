@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=367'
 permalink: /2017/01/18/rep-gerry-connolly-announces-he-will-not-attend-inauguration/
-categories:
-    - Uncategorized
 ---
 
 U.S. Rep. Gerry Connolly (D-11th) is joining a growing list of Democratic members of Congress planning to boycott President-elect Donald Trump’s inauguration on Friday.

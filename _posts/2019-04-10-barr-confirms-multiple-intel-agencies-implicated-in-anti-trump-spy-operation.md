@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=536'
 permalink: /2019/04/10/barr-confirms-multiple-intel-agencies-implicated-in-anti-trump-spy-operation/
-categories:
-    - Uncategorized
 ---
 
 - ‘I’m not talking about the FBI necessarily, but intelligence agencies more broadly,’ Barr said.

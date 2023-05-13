@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=517'
 permalink: /2018/07/28/was-the-2016-election-legitimate-its-now-definitely-worth-asking-the-question/
-categories:
-    - Uncategorized
 ---
 
 We need to talk about a forbidden subject: the legitimacy of the current president.

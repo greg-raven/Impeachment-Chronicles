@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1041'
 permalink: /2022/10/08/trump-is-guilty/
-categories:
-    - Uncategorized
 ---
 
 Trump is guilty

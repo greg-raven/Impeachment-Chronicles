@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=819'
 permalink: /2020/05/14/president-unmasked-trump-goes-maskless-again-on-tour-of-factory-despite-being-surrounded-by-staff-in-face-coverings/
-categories:
-    - Uncategorized
 ---
 
 PRESIDENT Donald Trump has been seen not wearing a mask again on a tour of a factory despite being surrounded by staff in face coverings.

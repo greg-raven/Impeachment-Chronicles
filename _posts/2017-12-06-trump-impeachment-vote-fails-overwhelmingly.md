@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=512'
 permalink: /2017/12/06/trump-impeachment-vote-fails-overwhelmingly/
-categories:
-    - Uncategorized
 ---
 
 - The measure drew the support of 58 House Democrats.

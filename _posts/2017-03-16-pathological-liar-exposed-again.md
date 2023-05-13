@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1085'
 permalink: /2017/03/16/pathological-liar-exposed-again/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The pathological liar exposed again. Danger to our standing in the world &amp; democracy itself at stake. Impeachment looms. [\#Trumprussia](https://twitter.com/hashtag/Trumprussia?src=hash&ref_src=twsrc%5Etfw)

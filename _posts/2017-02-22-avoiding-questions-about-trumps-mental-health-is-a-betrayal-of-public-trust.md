@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=460'
 permalink: /2017/02/22/avoiding-questions-about-trumps-mental-health-is-a-betrayal-of-public-trust/
-categories:
-    - Uncategorized
 ---
 
 Just about every week, the media invites a psychiatrist or psychologist to admonish other psychiatrists or psychologists for calling Donald Trump mentally ill. This has become the default recourse when it comes to the question of Trump’s mental health for a media relentlessly accused of being partisan, “fake,” and deliberately dishonest.

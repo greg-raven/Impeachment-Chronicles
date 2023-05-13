@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=874'
 permalink: /2022/07/26/9-11-families-launch-ad-attacking-trump-for-holding-saudi-backed-golf-tournament/
-categories:
-    - Uncategorized
 ---
 
 - ‘How much money to turn your back on your own country?’

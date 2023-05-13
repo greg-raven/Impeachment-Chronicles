@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=760'
 permalink: /2021/01/10/republicans-wrestle-over-removing-trump/
-categories:
-    - Uncategorized
 ---
 
 GOP lawmakers are wrestling with whether to stick with President Trump between now and Jan. 20 as members of his Cabinet consider resigning or invoking the 25th Amendment to remove him from office.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=332'
 permalink: /2022/05/24/fbi-agent-testifies-fired-up-leadership-pushed-trump-probe-despite-flimsy-evidence/
-categories:
-    - Uncategorized
 ---
 
 - FBI agent Curtis Heide testified Tuesday in the Michael Sussmann trial that he learned the Trump-Russia allegation was false within a couple of weeks.

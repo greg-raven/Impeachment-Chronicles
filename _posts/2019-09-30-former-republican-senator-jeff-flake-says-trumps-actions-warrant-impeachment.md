@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=556'
 permalink: /2019/09/30/former-republican-senator-jeff-flake-says-trumps-actions-warrant-impeachment/
-categories:
-    - Uncategorized
 ---
 
 Former Republican Senator Jeff Flake said that with what the American public currently knows about President Donald Trump’s conduct in office, impeachment proceedings against him are warranted.

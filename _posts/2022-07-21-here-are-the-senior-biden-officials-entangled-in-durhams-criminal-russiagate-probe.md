@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=802'
 permalink: /2022/07/21/here-are-the-senior-biden-officials-entangled-in-durhams-criminal-russiagate-probe/
-categories:
-    - Uncategorized
 ---
 
 Several individuals connected to a 2016 Hillary Clinton campaign plot to cast Donald Trump as a covert Kremlin collaborator are working in high-level jobs within the Biden administration – including at least two senior Biden appointees cited by Special Counsel John Durham in his “active (and) ongoing” criminal investigation of the scheme, according to recently filed court documents.

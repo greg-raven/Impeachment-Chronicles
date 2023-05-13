@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=287'
 permalink: /2022/07/03/text-messages-show-cassidy-hutchinson-referring-to-january-6-committee-as-bs/
-categories:
-    - Uncategorized
 ---
 
 The January 6 committee’s key witness, Cassidy Hutchinson, called the committee “bs” in a text message obtained exclusively by the Daily Caller.

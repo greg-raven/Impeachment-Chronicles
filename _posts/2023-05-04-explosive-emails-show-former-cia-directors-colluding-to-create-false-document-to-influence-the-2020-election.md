@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1401'
 permalink: /2023/05/04/explosive-emails-show-former-cia-directors-colluding-to-create-false-document-to-influence-the-2020-election/
-categories:
-    - Uncategorized
 ---
 
 A bombshell new email obtained by JustTheNews reveals damning new details about the lengths that former acting CIA Director Mike Morell went in order to help Joe Biden in the 2020 election. The email, sent by former CIA Director Mike Morrell to Obama-Era CIA Chief John Brennan, shows an effort to create pushback against Donald Trump before the 2020 election.

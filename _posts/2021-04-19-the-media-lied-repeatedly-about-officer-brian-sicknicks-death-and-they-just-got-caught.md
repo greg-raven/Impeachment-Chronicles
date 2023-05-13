@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=435'
 permalink: /2021/04/19/the-media-lied-repeatedly-about-officer-brian-sicknicks-death-and-they-just-got-caught/
-categories:
-    - Uncategorized
 ---
 
 - Just as with the Russia Bounty debacle, they will never acknowledge what they did. Their audience wants to be lied to for partisan gain and emotional pleasure.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=285'
 permalink: /2022/03/24/while-in-brussels-joe-biden-attacks-donald-trump-by-repeating-the-very-fine-people-lie-saying-that-was-the-moment-he-decided-to-run-for-president/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> While in Brussels, Joe Biden attacks Donald Trump by repeating the "very fine people" lie, saying that was the moment he decided to run for president. [pic.twitter.com/MjmYuqisUs](https://t.co/MjmYuqisUs)

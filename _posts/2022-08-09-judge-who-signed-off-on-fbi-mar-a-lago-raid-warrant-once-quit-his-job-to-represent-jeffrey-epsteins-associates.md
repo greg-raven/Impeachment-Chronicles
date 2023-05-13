@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=915'
 permalink: /2022/08/09/judge-who-signed-off-on-fbi-mar-a-lago-raid-warrant-once-quit-his-job-to-represent-jeffrey-epsteins-associates/
-categories:
-    - Uncategorized
 ---
 
 It has been revealed that the warrant enabling the Biden FBI’s unprecedented raid of Mar-a-Lago was signed by Bruce E. Reinhart, the magistrade judge for the Southern District of Florida who previously defected from the U.S. Attorney’s Office to represent associates of Jeffrey Epstein, the convicted sex trafficker also known for having not killed himself.

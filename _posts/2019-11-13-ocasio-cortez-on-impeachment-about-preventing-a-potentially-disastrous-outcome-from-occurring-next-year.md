@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=429'
 permalink: /2019/11/13/ocasio-cortez-on-impeachment-about-preventing-a-potentially-disastrous-outcome-from-occurring-next-year/
-categories:
-    - Uncategorized
 ---
 
 Socialist Rep. Alexandria Ocasio-Cortez (D-NY) admitted during a Wednesday night interview on CNN that impeachment was about unifying the different factions of the Democrat Party and “preventing a potentially disastrous outcome from occurring next year.”

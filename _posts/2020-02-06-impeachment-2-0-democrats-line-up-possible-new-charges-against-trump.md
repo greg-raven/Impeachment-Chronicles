@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=651'
 permalink: /2020/02/06/impeachment-2-0-democrats-line-up-possible-new-charges-against-trump/
-categories:
-    - Uncategorized
 ---
 
 Democrats already have lined up possible charges if they choose to pursue impeachment 2.0.

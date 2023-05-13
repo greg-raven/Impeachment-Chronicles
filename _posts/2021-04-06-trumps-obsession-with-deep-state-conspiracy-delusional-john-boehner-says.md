@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1203'
 permalink: /2021/04/06/trumps-obsession-with-deep-state-conspiracy-delusional-john-boehner-says/
-categories:
-    - Uncategorized
 ---
 
 - Former House speaker writes in memoir: ‘That’s horseshit’

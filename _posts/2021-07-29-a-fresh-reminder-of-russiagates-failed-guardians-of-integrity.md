@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=386'
 permalink: /2021/07/29/a-fresh-reminder-of-russiagates-failed-guardians-of-integrity/
-categories:
-    - Uncategorized
 ---
 
 For more than four years, Western media outlets have exhaustively claimed that President Vladimir Putin of Russia waged a sweeping influence campaign to install Donald Trump in the White House and undermine U.S. democracy.

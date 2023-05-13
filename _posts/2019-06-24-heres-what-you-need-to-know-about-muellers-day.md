@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1349'
 permalink: /2019/06/24/heres-what-you-need-to-know-about-muellers-day/
-categories:
-    - Uncategorized
 ---
 
 Former special counsel Robert Mueller testified today before the House Judiciary and House Intelligence committees.

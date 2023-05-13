@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=683'
 permalink: /2020/06/10/fbi-knew-steeles-russia-research-connected-to-clinton-dems-from-earliest-interactions/
-categories:
-    - Uncategorized
 ---
 
 - Senate investigators seeking to obtain FBI notes, emails from summer 2016 detailing first interactions with Steele’s Russia research.

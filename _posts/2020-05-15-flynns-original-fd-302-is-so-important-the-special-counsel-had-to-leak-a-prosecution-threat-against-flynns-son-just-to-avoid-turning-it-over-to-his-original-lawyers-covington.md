@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1165'
 permalink: /2020/05/15/flynns-original-fd-302-is-so-important-the-special-counsel-had-to-leak-a-prosecution-threat-against-flynns-son-just-to-avoid-turning-it-over-to-his-original-lawyers-covington/
-categories:
-    - Uncategorized
 ---
 
 Wed Nov 1, 2017: Flynn’s original lawyers Covington ask for a copy of his FD-302: “We don’t think he has committed a felony offense”

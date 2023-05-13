@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=965'
 permalink: /2022/09/07/trump-raid-conducted-so-sloppily-it-violated-fbi-manual-mandates/
-categories:
-    - Uncategorized
 ---
 
 - Many items and papers taken that FBI lack authority to confiscate

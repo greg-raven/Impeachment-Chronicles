@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=762'
 permalink: /2021/01/10/top-house-democrat-resolution-will-be-introduced-to-charge-trump-with-inciting-sedition/
-categories:
-    - Uncategorized
 ---
 
 Rep. Hakeem Jeffries (D-N.Y.), the No. 3 House Democrat, announced Sunday that a “privileged resolution will be introduced that will charge” President Donald Trump with “inciting sedition.”

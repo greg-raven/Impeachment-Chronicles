@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=423'
 permalink: /2018/12/01/starting-over-the-center-right-after-trump/
-categories:
-    - Uncategorized
 ---
 
 Panel 3: Political Prospects for a New Center-Right

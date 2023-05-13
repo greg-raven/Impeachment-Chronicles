@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=980'
 permalink: /2022/09/15/the-walls-of-justice-are-closing-in-on-trump/
-categories:
-    - Uncategorized
 ---
 
 For the first time, in a long life of being unaccountable to the civil and criminal rules of society, Donald Trump is feeling what it’s like to have the walls of justice closing in. Its about time. And it’s only going to get more satisfying.

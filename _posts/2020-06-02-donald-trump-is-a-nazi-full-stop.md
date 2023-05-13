@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1322'
 permalink: /2020/06/02/donald-trump-is-a-nazi-full-stop/
-categories:
-    - Uncategorized
 ---
 
 - We can stop with all the hedging and qualifying

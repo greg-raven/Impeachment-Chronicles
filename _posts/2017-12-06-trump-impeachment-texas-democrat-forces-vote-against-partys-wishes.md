@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1210'
 permalink: /2017/12/06/trump-impeachment-texas-democrat-forces-vote-against-partys-wishes/
-categories:
-    - Uncategorized
 ---
 
 - Democrat Pushes Vote On Trump Impeachment. It Didn’t Succeed

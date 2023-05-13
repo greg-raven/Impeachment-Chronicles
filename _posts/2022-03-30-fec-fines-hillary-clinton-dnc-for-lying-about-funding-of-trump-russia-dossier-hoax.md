@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=293'
 permalink: /2022/03/30/fec-fines-hillary-clinton-dnc-for-lying-about-funding-of-trump-russia-dossier-hoax/
-categories:
-    - Uncategorized
 ---
 
 The Federal Election Commission has fined Hillary Clinton’s 2016 presidential campaign and the Democratic National Committee for violating federal law by lying in reports about its funding of the since-discredited Steele Dossier, a newly issued memo showed.

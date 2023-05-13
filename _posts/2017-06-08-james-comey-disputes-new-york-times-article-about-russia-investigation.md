@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=411'
 permalink: /2017/06/08/james-comey-disputes-new-york-times-article-about-russia-investigation/
-categories:
-    - Uncategorized
 ---
 
 James B. Comey, the former FBI director, on Thursday disputed an article that appeared in February in *The New York Times* about contacts between President Trump’s advisers and Russian intelligence officials.

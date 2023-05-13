@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=261'
 permalink: /2022/02/21/politico-says-presidents-day-should-be-canceled-for-including-trump/
-categories:
-    - Uncategorized
 ---
 
 In an article titled “It’s Time To Cancel Presidents Day,” the publication made the case that Presidents’ Day is not woke enough and that it “does a disservice to history” and “is less a show of genuine respect for American history than an insult to it.”

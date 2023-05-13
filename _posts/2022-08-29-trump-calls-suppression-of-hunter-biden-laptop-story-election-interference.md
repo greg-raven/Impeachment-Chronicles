@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=942'
 permalink: /2022/08/29/trump-calls-suppression-of-hunter-biden-laptop-story-election-interference/
-categories:
-    - Uncategorized
 ---
 
 - 79 percent of Americans say that they the 2020 election results would have been different had the Hunter Biden story not been suppressed.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=826'
 permalink: /2022/07/23/from-an-attempted-coup-to-chaos-searing-moments-of-jan-6/
-categories:
-    - Uncategorized
 ---
 
 Through eight hearings, 20 live witnesses and dozens of hours of recorded testimony, the House Jan. 6 committee has focused its case squarely on former President Donald Trump.

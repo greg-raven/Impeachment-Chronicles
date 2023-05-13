@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=790'
 permalink: /2021/02/13/donald-trumps-full-statement-on-impeachment-trial-acquittal/
-categories:
-    - Uncategorized
 ---
 
 I want to first thank my team of dedicated lawyers and others for their tireless work upholding justice and defending truth.

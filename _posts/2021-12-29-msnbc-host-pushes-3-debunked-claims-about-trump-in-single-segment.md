@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1318'
 permalink: /2021/12/29/msnbc-host-pushes-3-debunked-claims-about-trump-in-single-segment/
-categories:
-    - Uncategorized
 ---
 
 - Nicolle Wallace repeats widely discredited claims to attack Trump

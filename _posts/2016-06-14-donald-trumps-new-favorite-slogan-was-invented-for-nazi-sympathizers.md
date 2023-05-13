@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1279'
 permalink: /2016/06/14/donald-trumps-new-favorite-slogan-was-invented-for-nazi-sympathizers/
-categories:
-    - Uncategorized
 ---
 
 - ‘America First’ was Charles Lindbergh’s motto in the 1930s

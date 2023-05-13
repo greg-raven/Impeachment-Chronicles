@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=649'
 permalink: /2020/01/22/trump-super-pac-releases-witch-hunt-timeline/
-categories:
-    - Uncategorized
 ---
 
 The America First Action PAC released a [timeline of the ongoing “witch hunt” against President Donald Trump](https://www.impeachment-hoax.com) on Wednesday.

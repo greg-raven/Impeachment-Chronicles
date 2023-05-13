@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=758'
 permalink: /2021/01/10/pelosi-says-house-to-move-forward-with-impeachment-attempt-if-pence-doesnt-respond/
-categories:
-    - Uncategorized
 ---
 
 House Speaker Nancy Pelosi (D-Calif.) on Sunday evening said that the House will move forward with a resolution Monday that calls on Vice President Mike Pence to invoke the 25th Amendment in order to impeach the president, just two weeks before his term ends.

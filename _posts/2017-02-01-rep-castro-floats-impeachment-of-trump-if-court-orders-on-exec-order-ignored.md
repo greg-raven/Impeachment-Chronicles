@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=409'
 permalink: /2017/02/01/rep-castro-floats-impeachment-of-trump-if-court-orders-on-exec-order-ignored/
-categories:
-    - Uncategorized
 ---
 
 - ‘If you do it repeatedly you’re putting yourself in the impeachment realm.’

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=471'
 permalink: /2017/04/14/trump-will-never-criticize-putin/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Trump worked so hard this week to make people believe he was fighting w/ Putin. Trump will never criticize Putin b/c he's in bed w/ him.

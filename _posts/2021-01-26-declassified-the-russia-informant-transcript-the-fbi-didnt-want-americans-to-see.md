@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=786'
 permalink: /2021/01/26/declassified-the-russia-informant-transcript-the-fbi-didnt-want-americans-to-see/
-categories:
-    - Uncategorized
 ---
 
 In secretly recorded talks with informer Stefan Halper, Carter Page dispelled key Russia collusion allegations before FISA warrant was even approved.

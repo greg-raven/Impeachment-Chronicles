@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=581'
 permalink: /2019/12/10/the-first-democrat-to-call-for-impeachment-says-if-the-senate-wont-remove-trump-from-office-democrats-can-try-again/
-categories:
-    - Uncategorized
 ---
 
 - Texas Rep. Al Green was the first to support impeaching Trump. He’s not planning on dropping it anytime soon.

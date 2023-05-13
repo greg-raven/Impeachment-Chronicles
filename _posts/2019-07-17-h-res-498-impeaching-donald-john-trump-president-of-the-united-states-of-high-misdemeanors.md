@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=427'
 permalink: /2019/07/17/h-res-498-impeaching-donald-john-trump-president-of-the-united-states-of-high-misdemeanors/
-categories:
-    - Uncategorized
 ---
 
 Introduced by Rep. Al Green (D-TX-9)

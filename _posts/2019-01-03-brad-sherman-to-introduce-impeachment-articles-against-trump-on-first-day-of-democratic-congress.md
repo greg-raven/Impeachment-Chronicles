@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=382'
 permalink: /2019/01/03/brad-sherman-to-introduce-impeachment-articles-against-trump-on-first-day-of-democratic-congress/
-categories:
-    - Uncategorized
 ---
 
 - Pelosi: ‘We shouldn’t be impeaching for a political reason, and we shouldn’t avoid impeachment for a political reason’

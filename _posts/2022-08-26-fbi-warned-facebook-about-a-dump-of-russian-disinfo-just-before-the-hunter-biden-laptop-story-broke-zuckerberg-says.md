@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=941'
 permalink: /2022/08/26/fbi-warned-facebook-about-a-dump-of-russian-disinfo-just-before-the-hunter-biden-laptop-story-broke-zuckerberg-says/
-categories:
-    - Uncategorized
 ---
 
 - Zuckerberg appeared this week on the Joe Rogan Experience podcast.

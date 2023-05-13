@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=573'
 permalink: /2019/12/02/this-is-the-single-best-argument-for-why-trump-should-be-impeached-and-removed/
-categories:
-    - Uncategorized
 ---
 
 - He tried to meddle in the 2020 election. It’s crazy to say that you have to let him participate in the 2020 election in order to render a verdict on his attempt to cheat in it.

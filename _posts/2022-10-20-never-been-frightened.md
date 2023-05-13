@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1274'
 permalink: /2022/10/20/never-been-frightened/
-categories:
-    - Uncategorized
 ---
 
 Never been frightened? Then why do you say the same thing, over and over?

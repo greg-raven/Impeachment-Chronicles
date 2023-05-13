@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=740'
 permalink: /2020/12/17/fbi-knew-mi6-spook-steele-was-briefing-media-on-trump-dossier-but-failed-to-act/
-categories:
-    - Uncategorized
 ---
 
 The FBI knew a former British spy was feeding claims from a ‘sexed-up dossier’ on U.S. President Donald Trump to media but refused to act, declassified files reveal.

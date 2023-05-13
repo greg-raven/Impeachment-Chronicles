@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=502'
 permalink: /2017/05/16/cnns-wolf-blitzer-are-we-getting-closer-to-impeachment-of-donald-trump/
-categories:
-    - Uncategorized
 ---
 
 CNN host Wolf Blitzer brought up the possibility of impeaching President Trump in an interview with Senator Angus King (I-Maine) Tuesday evening after a New York Times article alleged the president asked then-FBI Director Comey to end the FBI investigation of former National Security Adviser Michael Flynn.

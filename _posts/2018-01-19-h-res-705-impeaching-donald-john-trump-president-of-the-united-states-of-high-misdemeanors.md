@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=419'
 permalink: /2018/01/19/h-res-705-impeaching-donald-john-trump-president-of-the-united-states-of-high-misdemeanors/
-categories:
-    - Uncategorized
 ---
 
 Mr. Al Green of Texas submitted the following resolution; which was laid on the table

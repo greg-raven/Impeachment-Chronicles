@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=707'
 permalink: /2020/10/08/pelosi-democrats-introducing-bill-to-create-commission-on-presidential-capacity/
-categories:
-    - Uncategorized
 ---
 
 House Speaker Nancy Pelosi (D-Calif.) and Rep. Jamie Raskin (D-Md.) announced a bill to create “Commission on Presidential Capacity to Discharge the Powers and Duties of Office” that would possibly attempt to invoke the 25th Amendment of the Constitution to enable Congress to “help ensure effective and uninterrupted leadership in the highest office in the Executive Branch of government.”

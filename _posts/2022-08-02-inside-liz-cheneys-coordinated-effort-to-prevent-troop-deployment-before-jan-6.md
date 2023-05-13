@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=868'
 permalink: /2022/08/02/inside-liz-cheneys-coordinated-effort-to-prevent-troop-deployment-before-jan-6/
-categories:
-    - Uncategorized
 ---
 
 - Before Liz Cheney claimed President Donald Trump took no action on the National Guard, she coordinated a campaign to prevent deployment.

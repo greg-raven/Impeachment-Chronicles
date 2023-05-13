@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=417'
 permalink: /2017/11/14/maxine-waters-screams-impeach-45-from-the-stage-at-star-studded-glamour-awards/
-categories:
-    - Uncategorized
 ---
 
 NEW YORK (AP) — There were movie stars and supermodels, TV hosts and pop stars.

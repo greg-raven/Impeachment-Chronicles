@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=336'
 permalink: /2022/07/15/obama-appointed-judge-agrees-fbi-arrest-of-peter-navarro-curious/
-categories:
-    - Uncategorized
 ---
 
 U.S. District Court Judge Amit Mehta agreed Friday with defendant Peter Navarro, a former economic adviser to President Donald Trump, that his abrupt arrest by the FBI at Reagan National Airport last month for contempt of Congress was bizarre.

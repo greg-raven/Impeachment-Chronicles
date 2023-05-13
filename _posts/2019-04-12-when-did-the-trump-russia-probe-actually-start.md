@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=657'
 permalink: /2019/04/12/when-did-the-trump-russia-probe-actually-start/
-categories:
-    - Uncategorized
 ---
 
 The FBI’s investigation into the Trump campaign formally began in late July 2016, after the Australian government sent in a tip about George Papadopoulos.

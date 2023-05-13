@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=169'
 permalink: /2020/05/08/follow-up-unmasking-requests-re-former-national-security-advisor-michael-flynn/
-categories:
-    - Uncategorized
 ---
 
 <iframe class="pdf" src="/assets/2020-05-13-ODNI-to-CEG-RHJ-Unmasking.pdf"> </iframe>

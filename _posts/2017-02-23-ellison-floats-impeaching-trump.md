@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=462'
 permalink: /2017/02/23/ellison-floats-impeaching-trump/
-categories:
-    - Uncategorized
 ---
 
 - The candidates try to move past an election being seen as a proxy war for bitter supporters of Hillary Clinton and Bernie Sanders.

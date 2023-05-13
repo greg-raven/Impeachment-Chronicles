@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=750'
 permalink: /2021/01/09/weve-just-hit-180-cosponsors-of-the-article-of-impeachment/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> UPDATE to the update: We’ve just hit 180 cosponsors of the Article of Impeachment drafted by Rep [@davidcicilline](https://twitter.com/davidcicilline?ref_src=twsrc%5Etfw), [@RepRaskin](https://twitter.com/RepRaskin?ref_src=twsrc%5Etfw), me and [@HouseJudiciary](https://twitter.com/HouseJudiciary?ref_src=twsrc%5Etfw) staff.   

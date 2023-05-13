@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=328'
 permalink: /2016/10/31/computer-scientists-have-apparently-uncovered-a-covert-server-linking-the-trump-organization-to-a-russian-based-bank/
-categories:
-    - Uncategorized
 ---
 
 > Computer scientists have apparently uncovered a covert server linking the Trump Organization to a Russian-based bank.

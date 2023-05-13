@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=485'
 permalink: /2017/05/20/impeach-trump-houston-lawmaker-holds-unusually-agreeable-town-hall/
-categories:
-    - Uncategorized
 ---
 
 - Democrat Al Green, who thrilled liberals with his call for the impeachment of the president this week, found a receptive audience at home on Saturday

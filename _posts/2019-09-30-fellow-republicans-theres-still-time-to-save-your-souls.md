@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=554'
 permalink: /2019/09/30/fellow-republicans-theres-still-time-to-save-your-souls/
-categories:
-    - Uncategorized
 ---
 
 Two years ago I stood in the Senate chamber and said: “There are times when we must risk our careers in favor of our principles.”

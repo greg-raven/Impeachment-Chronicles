@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=562'
 permalink: /2019/10/07/the-phone-call-that-could-get-trump-impeached/
-categories:
-    - Uncategorized
 ---
 
 - Trump’s call with Ukraine, explained.

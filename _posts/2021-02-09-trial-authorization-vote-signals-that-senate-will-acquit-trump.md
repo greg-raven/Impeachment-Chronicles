@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=610'
 permalink: /2021/02/09/trial-authorization-vote-signals-that-senate-will-acquit-trump/
-categories:
-    - Uncategorized
 ---
 
 Forty-four Republicans voted against proceeding with the trial against former President Donald Trump, the clearest signal yet that the Senate will ultimately acquit the president of the impeachment charge against him for a second time.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=228'
 permalink: /2020/05/08/obama-biden-oval-office-meeting-on-january-5-was-key-to-entire-anti-trump-operation/
-categories:
-    - Uncategorized
 ---
 
 - Susan Rice’s bizarre Inauguration Day email about that meeting helps explain the campaign of leaks, lies, and obstruction that followed.

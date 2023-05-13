@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=283'
 permalink: /2022/03/28/cnn-analyst-asha-rangappa-manages-to-tie-will-smith-smacking-chris-rock-at-the-oscars-to-trump/
-categories:
-    - Uncategorized
 ---
 
 You just knew that the incident at the Oscars where Will Smith smacked Chris Rock would leave many of the hottest takes in its wake. Because Donald Trump continues to live rent-free in so many heads, what happened at the Academy Awards last night was bound to be tied to the 45th president in some fashion. Among the takes along those lines is this one from CNN analyst Asha Rangappa:

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=340'
 permalink: /2017/01/12/trump-compromising-claims-how-and-why-did-we-get-here/
-categories:
-    - Uncategorized
 ---
 
 > \[…\] The President-elect of the United States is vulnerable to blackmail. Imagine if that’s true. There are already senior Republicans like John McCain talking about hearings. There are Democrats, not just wishful thinking on their part, talking about impeachment \[…\]

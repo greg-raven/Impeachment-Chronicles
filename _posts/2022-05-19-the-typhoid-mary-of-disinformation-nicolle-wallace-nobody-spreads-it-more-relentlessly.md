@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=330'
 permalink: /2022/05/19/the-typhoid-mary-of-disinformation-nicolle-wallace-nobody-spreads-it-more-relentlessly/
-categories:
-    - Uncategorized
 ---
 
 - From her days as Bush/Cheney propagandist, to her stint on The View, to her role as beloved-by-Democrats MSNBC host, Wallace has perfected the art of sociopathic lying. Watch our original video.

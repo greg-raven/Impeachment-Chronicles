@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=304'
 permalink: /2022/03/19/no-apologies-no-remorse-from-51-intel-officials-who-spread-disinformation-to-blunt-hunter-biden-laptop-revelations/
-categories:
-    - Uncategorized
 ---
 
 - “The officials … signed a letter saying that the laptop ‘has the classic earmarks of a Russian information operation’.”

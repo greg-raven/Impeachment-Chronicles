@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=388'
 permalink: /2021/07/08/why-trump-supporters-believe-the-election-of-joe-biden-was-fraudulent/
-categories:
-    - Uncategorized
 ---
 
 I think I’ve had discussions w/enough Boomer-tier Trump supporters who believe the 2020 election was fraudulent to extract a general theory about their perspective. It is also the perspective of most of the people at the Capitol on 1/6, and probably even Trump himself. 1/x

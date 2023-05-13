@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=95'
 permalink: /2021/11/17/atlantics-anne-applebaum-explains-why-even-if-every-single-word-in-the-steele-dossier-was-wrong-the-fbi-and-media-were-right-to-treat-it-as-legit/
-categories:
-    - Uncategorized
 ---
 
 Even if every single word in [The Steele Dossier](http://greg-raven.github.io/Impeachment-Chronicles/2016/06/20/the-steele-dossier/) was wrong, that would not change the fact that the Russians sought to manipulate the US election using hacked material and a disinformation campaign. Nor would it change the fact that the Trump family welcomed this intervention.

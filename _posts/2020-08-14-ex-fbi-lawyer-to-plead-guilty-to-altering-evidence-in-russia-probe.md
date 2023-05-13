@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=693'
 permalink: /2020/08/14/ex-fbi-lawyer-to-plead-guilty-to-altering-evidence-in-russia-probe/
-categories:
-    - Uncategorized
 ---
 
 - Kevin Clinesmith will admit he altered a document involving Carter Page’s ties to the CIA.

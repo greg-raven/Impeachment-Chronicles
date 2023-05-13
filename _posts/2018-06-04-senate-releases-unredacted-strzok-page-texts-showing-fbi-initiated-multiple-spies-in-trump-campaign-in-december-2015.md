@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=830'
 permalink: /2018/06/04/senate-releases-unredacted-strzok-page-texts-showing-fbi-initiated-multiple-spies-in-trump-campaign-in-december-2015/
-categories:
-    - Uncategorized
 ---
 
 The US Senate today released over [500 pages of information related to the Spygate scandal](https://www.hsgac.senate.gov/imo/media/doc/Appendix%20C%20-%20Documents.pdf).

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=674'
 permalink: /2020/06/03/rosenstein-agrees-that-by-august-of-2017-there-was-no-evidence-of-trump-russia-collusion/
-categories:
-    - Uncategorized
 ---
 
 - He agreed that there was ‘no “there” there.’

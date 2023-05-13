@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1307'
 permalink: /2020/01/22/the-top-seven-lies-adam-schiff-has-told-to-boost-impeachment/
-categories:
-    - Uncategorized
 ---
 
 Adam Schiff is a liar.

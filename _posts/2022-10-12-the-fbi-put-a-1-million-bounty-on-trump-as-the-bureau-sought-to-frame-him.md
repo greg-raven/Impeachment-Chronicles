@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1148'
 permalink: /2022/10/12/the-fbi-put-a-1-million-bounty-on-trump-as-the-bureau-sought-to-frame-him/
-categories:
-    - Uncategorized
 ---
 
 - James Comey and his crooked cronies at the bureau were so desperate to topple Trump that they put the equivalent of a a taxpayer-funded bounty on the president’s head to frame him.

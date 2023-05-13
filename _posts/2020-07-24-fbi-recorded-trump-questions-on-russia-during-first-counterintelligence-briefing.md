@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=691'
 permalink: /2020/07/24/fbi-recorded-trump-questions-on-russia-during-first-counterintelligence-briefing/
-categories:
-    - Uncategorized
 ---
 
 - Agent’s notes confirm IG report that August 2016 briefing with Trump and Flynn used to gather evidence for Russia probe

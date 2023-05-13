@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1327'
 permalink: /2020/04/23/john-brennan-buried-evidence-that-putin-actually-favored-hillary-in-2016/
-categories:
-    - Uncategorized
 ---
 
 Former CIA officer and National Security Council Chief of Staff Fred Fleitz said Wednesday that former CIA Director John Brennan ignored intelligence that Russian President Vladimir Putin actually wanted Hillary Clinton to win the the 2016 presidential election.

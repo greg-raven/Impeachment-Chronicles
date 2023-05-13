@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=17'
 permalink: /2016/03/18/trump-would-be-impeached-for-his-china-tariff-chambers-donohue-says/
-categories:
-    - Uncategorized
 ---
 
 - U.S. Chamber‘s Donohue uses a bit of hyperbole to make his point: It‘s American consumers and businesses that would pay the price.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=718'
 permalink: /2020/07/17/new-russia-probe-memos-expose-massive-errors-in-nyt-anti-trump-story-steele-dossier/
-categories:
-    - Uncategorized
 ---
 
 Senate Judiciary Committee Chairman Sen. Lindsey Graham (R-S.C.) has released two newly-declassified documents related to government surveillance abuses against the Trump campaign in 2016.

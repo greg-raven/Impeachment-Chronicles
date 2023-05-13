@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1172'
 permalink: /2022/11/21/trump-was-right-again/
-categories:
-    - Uncategorized
 ---
 
 Two years ago Donald Trump told CBS’s Lesley Stahl on 60 Minutes the Hunter Biden laptop was real and should be covered by the media. Stahl said it couldn’t be verified. Two years later @cbsnews has finally verified it. Trump was right. Again.

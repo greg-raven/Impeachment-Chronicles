@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1314'
 permalink: /2022/12/13/twitter-files-overshadow-the-bigger-scandal-fbi-lied-to-tech-giants-to-interfere-in-election/
-categories:
-    - Uncategorized
 ---
 
 - Not only did the FBI prompt Twitter and Facebook to censor the Hunter Biden laptop story, the bureau did so by deceiving the companies.

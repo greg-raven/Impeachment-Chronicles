@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=730'
 permalink: /2020/09/24/trump-was-right-explosive-new-fbi-texts-detail-internal-furor-over-handling-of-crossfire-hurricane-investigation/
-categories:
-    - Uncategorized
 ---
 
 - Newly disclosed internal FBI notes and text messages detail the extent of the FBI’s desire to take down Trump and his associates at any cost.

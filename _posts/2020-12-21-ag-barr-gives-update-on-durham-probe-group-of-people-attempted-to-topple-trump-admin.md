@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=744'
 permalink: /2020/12/21/ag-barr-gives-update-on-durham-probe-group-of-people-attempted-to-topple-trump-admin/
-categories:
-    - Uncategorized
 ---
 
 During an interview last week, Attorney General William Barr gave an update on the criminal investigation into the origin of the Obama-era FBI counterintelligence investigation into the Trump campaign, saying that a “willful if small group of people” were involved in an attempt to “topple” the Trump administration.

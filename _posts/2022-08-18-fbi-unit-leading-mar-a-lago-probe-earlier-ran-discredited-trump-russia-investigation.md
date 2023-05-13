@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=931'
 permalink: /2022/08/18/fbi-unit-leading-mar-a-lago-probe-earlier-ran-discredited-trump-russia-investigation/
-categories:
-    - Uncategorized
 ---
 
 The FBI division overseeing the investigation of former President Trump’s handling of classified material at his Mar-a-Lago residence is also a focus of Special Counsel John Durham’s investigation of the bureau’s alleged abuses of power and political bias during its years-long Russiagate probe of Trump.

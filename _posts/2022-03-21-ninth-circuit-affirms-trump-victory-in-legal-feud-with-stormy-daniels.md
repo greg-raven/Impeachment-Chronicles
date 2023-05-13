@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=302'
 permalink: /2022/03/21/ninth-circuit-affirms-trump-victory-in-legal-feud-with-stormy-daniels/
-categories:
-    - Uncategorized
 ---
 
 The U.S. Court of Appeals for the Ninth Circuit affirmed a victory for former President Donald Trump in his legal feud with pornographic actress Stormy Daniels.

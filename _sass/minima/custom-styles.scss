@@ -1,2 +1,17 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
+
+blockquote .small, blockquote cite, blockquote footer, blockquote small {
+    display: block;
+    font-size: 80%;
+    line-height: 1.42857143;
+    color:#777
+}
+
+blockquote .small:before, blockquote cite:before, blockquote footer:before, blockquote small:before {
+    content: "\2014 \00A0"
+}
+
+.scribd_iframe_embed {
+	width: 100%;
+}

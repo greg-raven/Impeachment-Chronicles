@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=734'
 permalink: /2020/08/19/ex-fbi-lawyer-admits-to-false-statement-during-russia-probe/
-categories:
-    - Uncategorized
 ---
 
 A former FBI lawyer has pleaded guilty to altering a document related to the secret surveillance of a former Trump campaign adviser during the Russia investigation

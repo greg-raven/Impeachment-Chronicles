@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=872'
 permalink: /2021/01/14/san-antonio-spurs-coach-gregg-popovich-praises-second-impeachment-good-move/
-categories:
-    - Uncategorized
 ---
 
 San Antonio Spurs Coach Gregg Popovich praised the effort of House Democrats to impeach Trump for a second time, calling it a “good move.”

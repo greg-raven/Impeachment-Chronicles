@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=523'
 permalink: /2019/01/03/californias-rep-brad-sherman-to-introduce-impeachment-measure/
-categories:
-    - Uncategorized
 ---
 
 Rep. Brad Sherman plans to introduce articles of impeachment against President Trump on Thursday, the first day of Democratic control of the House.

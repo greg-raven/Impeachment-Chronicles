@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1125'
 permalink: /2020/04/16/trump-ignores-the-experts/
-categories:
-    - Uncategorized
 ---
 
 > There’s no way to safely reopen without massive testing. Yet we’re barely testing more people this week than last. And hospitals continue to report serious bottlenecks. If Trump ignores the experts and forces a premature reopening, Even more Americans will die.”

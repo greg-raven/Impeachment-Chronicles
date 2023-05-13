@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=320'
 permalink: /2022/05/02/january-6-committee-is-violating-the-constitution/
-categories:
-    - Uncategorized
 ---
 
 Sunday, conservative talk Mark Levin opened his FNC “Life, Liberty, &amp; Levin” program by criticizing the January 6 House Select Committee and congressional Democrats for promoting a “political agenda” against former President Donald Trump.

@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=847'
 permalink: /2018/11/20/surest-sign-that-a-recession-is-coming/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Surest sign that a recession is coming: Trump's chief economic adviser calls recession fears "nonsense." <https://t.co/JhTjIm2GOg>

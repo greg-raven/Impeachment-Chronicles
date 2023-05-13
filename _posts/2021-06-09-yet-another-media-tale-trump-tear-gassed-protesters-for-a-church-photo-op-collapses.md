@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=605'
 permalink: /2021/06/09/yet-another-media-tale-trump-tear-gassed-protesters-for-a-church-photo-op-collapses/
-categories:
-    - Uncategorized
 ---
 
 - That the White House violently cleared Lafayette Park at Trump’s behest was treated as unquestioned truth by most corporate media. Today it was revealed as a falsehood.

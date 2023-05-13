@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=175'
 permalink: /2017/03/08/talking-points/
-categories:
-    - Uncategorized
 ---
 
 XXXXXXXXXXXXXX

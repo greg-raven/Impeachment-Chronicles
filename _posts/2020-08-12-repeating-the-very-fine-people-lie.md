@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1130'
 permalink: /2020/08/12/repeating-the-very-fine-people-lie/
-categories:
-    - Uncategorized
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Three years ago today, white supremacists descended on Charlottesville with torches in hand and hate in their hearts. Our president said they were "very fine people."  

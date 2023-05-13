@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=937'
 permalink: /2022/08/23/biden-white-house-facilitated-dojs-criminal-probe-against-trump-scuttled-privilege-claims-memos/
-categories:
-    - Uncategorized
 ---
 
 - “I have therefore decided not to honor the former President’s ‘protective’ claim of privilege,” acting National Archivist Debra Steidel Wall wrote Trump’s team in May.

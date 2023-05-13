@@ -6,8 +6,6 @@ author: 'Trump 2020'
 layout: post
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=534'
 permalink: /2019/03/27/h-res-257-inquiring-whether-the-house-of-representatives-should-impeach-donald-john-trump-president-of-the-united-states-of-america/
-categories:
-    - Uncategorized
 ---
 
 Introduced by Rep. Rashida Tlaib (D-MI)
