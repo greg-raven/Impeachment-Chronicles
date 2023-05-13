@@ -2,12 +2,11 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
-	<title>Impeachment Chronicles</title>
-	<meta name="generator" content="BBEdit 14.6" />
+    <title>{{ page.title }}</title>
 </head>
 <body>
 
-{{ content }}
+	{{ content }}
 
 </body>
 </html>
