@@ -1,11 +1,7 @@
 ---
-id: 1174
 title: 'War crimes'
 date: '2020-04-21T06:42:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1174'
-permalink: /2020/04/21/war-crimes/
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> UNHINGED: Squad member Rep. Ayanna Pressley accuses the Trump administration of "war crimes"<https://t.co/Vcq54XtJbD> [pic.twitter.com/v3cmgog2Mg](https://t.co/v3cmgog2Mg)

@@ -1,11 +1,7 @@
 ---
-id: 1339
 title: 'Trump under fire for claim of ‘large scale killing’ of white farmers in South Africa'
 date: '2018-08-23T07:31:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1339'
-permalink: /2018/08/23/trump-under-fire-for-claim-of-large-scale-killing-of-white-farmers-in-south-africa/
 ---
 
 - The president’s unfounded tweet followed a segment on Fox News on the topic on Wednesday night.

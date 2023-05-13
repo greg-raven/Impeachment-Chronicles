@@ -1,11 +1,7 @@
 ---
-id: 963
 title: 'Over 50 ‘classified’ folders seized by FBI from Mar-a-Lago were empty'
 date: '2022-09-02T13:51:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=963'
-permalink: /2022/09/02/over-50-classified-folders-seized-by-fbi-from-mar-a-lago-were-empty/
 ---
 
 The FBI seized over 50 empty folders marked “CLASSIFIED” during last month’s raid on former President Donald Trump’s Mar-a-Lago estate.

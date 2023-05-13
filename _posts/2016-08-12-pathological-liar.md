@@ -1,11 +1,7 @@
 ---
-id: 1017
 title: 'Pathological liar'
 date: '2016-08-12T09:27:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1017'
-permalink: /2016/08/12/pathological-liar/
 ---
 
 > @realDonaldTrump is a pathological liar. Nothing that comes out his mouth has any value. Time for the media to shut him down.

@@ -1,11 +1,7 @@
 ---
-id: 529
 title: 'NYT reveals FBI retaliated against Trump for Comey firing'
 date: '2019-01-14T06:26:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=529'
-permalink: /2019/01/14/nyt-reveals-fbi-retaliated-against-trump-for-comey-firing/
 ---
 
 - A Friday expose from the New York Times reveals that the FBI investigation of Trump for alleged treason was little more than retaliation against the president for lawfully firing an incompetent and ethically-challenged FBI director.

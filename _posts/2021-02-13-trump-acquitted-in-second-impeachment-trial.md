@@ -1,11 +1,7 @@
 ---
-id: 792
 title: 'Trump acquitted in second impeachment trial'
 date: '2021-02-13T12:29:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=792'
-permalink: /2021/02/13/trump-acquitted-in-second-impeachment-trial/
 ---
 
 Former President Donald Trump was acquitted of an insurrection incitement charge by the Senate on Saturday.

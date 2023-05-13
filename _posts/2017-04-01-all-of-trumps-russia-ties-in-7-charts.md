@@ -1,11 +1,7 @@
 ---
-id: 1009
 title: 'All of Trump’s Russia ties, in 7 charts'
 date: '2017-04-01T09:16:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1009'
-permalink: /2017/04/01/all-of-trumps-russia-ties-in-7-charts/
 ---
 
 What is the real story of Donald Trump and Russia? The answer is still unclear, and Democrats in Congress want to get to the bottom of it with an investigation. But there’s no doubt that a spider web of connections — some public, some private, some clear, some murky — exists between Trump, his associates and Russian President Vladimir Putin.

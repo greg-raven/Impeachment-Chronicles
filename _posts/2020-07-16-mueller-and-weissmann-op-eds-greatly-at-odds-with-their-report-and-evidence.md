@@ -1,11 +1,7 @@
 ---
-id: 689
 title: 'Mueller and Weissmann op-eds greatly at odds with their report and evidence'
 date: '2020-07-16T06:36:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=689'
-permalink: /2020/07/16/mueller-and-weissmann-op-eds-greatly-at-odds-with-their-report-and-evidence/
 ---
 
 In response to President Trump’s commutation of Roger Stone’s prison sentence last week, the Russia investigation’s two lead prosecutors published op-eds in the nation’s top newspapers that fueled the collusion narrative their own investigation failed to validate. As they chided Stone and others for alleged deceptions, both Special Counsel Robert S. Mueller and one of his top deputies, Andrew Weissmann, made claims greatly at odds with their official report, discrepancies that they did not acknowledge.

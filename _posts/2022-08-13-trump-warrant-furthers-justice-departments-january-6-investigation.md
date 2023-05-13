@@ -1,11 +1,7 @@
 ---
-id: 950
 title: 'Trump warrant furthers Justice Department’s January 6 investigation'
 date: '2022-08-13T10:31:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=950'
-permalink: /2022/08/13/trump-warrant-furthers-justice-departments-january-6-investigation/
 ---
 
 The Mar-a-Lago search warrant has been unsealed. Turns out it is what I told you it was going to be: an open-ended license to grab any item that might be relevant to the Justice Department’s Capitol-riot investigation.

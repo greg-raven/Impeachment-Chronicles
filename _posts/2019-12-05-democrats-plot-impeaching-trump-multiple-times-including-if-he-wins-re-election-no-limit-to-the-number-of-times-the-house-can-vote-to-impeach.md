@@ -1,11 +1,7 @@
 ---
-id: 577
 title: 'Democrats plot impeaching Trump multiple times, including if he wins re-election: ‘No limit to the number of times the house can vote to impeach’'
 date: '2019-12-05T07:00:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=577'
-permalink: /2019/12/05/democrats-plot-impeaching-trump-multiple-times-including-if-he-wins-re-election-no-limit-to-the-number-of-times-the-house-can-vote-to-impeach/
 ---
 
 Multiple Democrats came out on Thursday and suggested that there may be multiple impeachments of President Donald Trump if the president is acquitted in the Senate, including if he wins re-election next November.

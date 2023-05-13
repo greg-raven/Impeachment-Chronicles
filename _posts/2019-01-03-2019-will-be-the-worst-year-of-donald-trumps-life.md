@@ -1,11 +1,7 @@
 ---
-id: 525
 title: '2019 will be the worst year of Donald Trump’s life'
 date: '2019-01-03T06:24:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=525'
-permalink: /2019/01/03/2019-will-be-the-worst-year-of-donald-trumps-life/
 ---
 
 Some presidents have really bad years.

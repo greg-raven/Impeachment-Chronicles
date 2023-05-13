@@ -1,11 +1,7 @@
 ---
-id: 1019
 title: 'Utter proof the FBI framed Trump and shielded Hunter Biden'
 date: '2022-10-12T09:29:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1019'
-permalink: /2022/10/12/utter-proof-the-fbi-framed-trump-and-shielded-hunter-biden/
 ---
 
 Igor Danchenko is on trial, but so is the FBI.

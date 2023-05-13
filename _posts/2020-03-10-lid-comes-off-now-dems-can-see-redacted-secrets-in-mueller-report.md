@@ -1,11 +1,7 @@
 ---
-id: 662
 title: 'Lid comes off! Now Dems can see redacted secrets in Mueller report'
 date: '2020-03-10T05:45:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=662'
-permalink: /2020/03/10/lid-comes-off-now-dems-can-see-redacted-secrets-in-mueller-report/
 ---
 
 A three-judge appeals court panel has ruled that House Democrats can obtain grand-jury material that was redacted in Robert Mueller’s special counsel report.

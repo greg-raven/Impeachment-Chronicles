@@ -1,11 +1,7 @@
 ---
-id: 378
 title: 'Donald Trump impeachment effort already underway'
 date: '2017-01-20T07:07:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=378'
-permalink: /2017/01/20/donald-trump-impeachment-effort-already-underway/
 ---
 
 - The campaign hinges on Mr. Trump’s intention to keep his commercial real estate empire intact while in office

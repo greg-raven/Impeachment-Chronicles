@@ -1,11 +1,7 @@
 ---
-id: 810
 title: 'We are retired generals and admirals. Trump’s actions on Jan. 6 were a dereliction of duty.'
 date: '2022-07-21T16:23:09-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=810'
-permalink: /2022/07/21/we-are-retired-generals-and-admirals-trumps-actions-on-jan-6-were-a-dereliction-of-duty/
 ---
 
 The inquiry by the House’s Jan. 6 committee has produced many startling findings, but none to us more alarming than the fact that while rioters tried to thwart the peaceful transfer of power and ransacked the Capitol on Jan. 6, 2021, the president and commander in chief, Donald Trump, abdicated his duty to preserve, protect, and defend the Constitution.

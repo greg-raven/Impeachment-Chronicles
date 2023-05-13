@@ -1,11 +1,7 @@
 ---
-id: 489
 title: 'Maxine Waters is right, impeachment IS whatever Congress says it is'
 date: '2017-09-21T10:27:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=489'
-permalink: /2017/09/21/maxine-waters-is-right-impeachment-is-whatever-congress-says-it-is/
 ---
 
 Well, it sure seems like Rep. Maxine Waters (D-Calif.) is brushing up on her Constitutional law. Yesterday, Waters spoke at a Congressional Black Caucus Town Hall on Civil Rights, and she used her time to full-on demand help with impeaching Donald Trump. Specifically, she said:

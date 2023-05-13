@@ -1,11 +1,7 @@
 ---
-id: 585
 title: '99 things Democrats have said Trump could be impeached for'
 date: '2019-12-18T07:04:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=585'
-permalink: /2019/12/18/99-things-democrats-have-said-trump-could-be-impeached-for/
 ---
 
 President Trump was only in office two weeks before a Democratic congressman called for his impeachment.

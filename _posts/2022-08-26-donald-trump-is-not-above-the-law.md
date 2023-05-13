@@ -1,11 +1,7 @@
 ---
-id: 925
 title: 'Donald Trump is not above the law'
 date: '2022-08-26T23:01:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=925'
-permalink: /2022/08/26/donald-trump-is-not-above-the-law/
 ---
 
 Over the course of this summer, the nation has been transfixed by the House select committee’s hearings on the events of Jan. 6, 2021, and how or whether Donald Trump might face accountability for what happened that day. The Justice Department remained largely silent about its investigations of the former president until this month, when the F.B.I. searched his home in Palm Beach, Fla., in a case related to his handling of classified documents. The spectacle of a former president facing criminal investigation raises profound questions about American democracy, and these questions demand answers.

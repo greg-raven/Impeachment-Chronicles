@@ -1,11 +1,7 @@
 ---
-id: 1039
 title: 'Exactly like Nazi propaganda'
 date: '2016-11-19T09:39:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1039'
-permalink: /2016/11/19/exactly-like-nazi-propaganda/
 ---
 
 > Trump’s Nat security advisor says Islam is a cancer+we should be afraid of it. Exactly how is that not like Nazi propaganda vs Jews in 1930s

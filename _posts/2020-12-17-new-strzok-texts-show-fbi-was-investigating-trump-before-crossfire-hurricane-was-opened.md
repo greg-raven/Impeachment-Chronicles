@@ -1,11 +1,7 @@
 ---
-id: 742
 title: 'New Strzok texts show FBI was investigating Trump before Crossfire Hurricane was opened'
 date: '2020-12-17T10:10:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=742'
-permalink: /2020/12/17/new-strzok-texts-show-fbi-was-investigating-trump-before-crossfire-hurricane-was-opened/
 ---
 
 Newly declassified text messages from former FBI agent Peter Strzok suggest that the FBI began investigating then-presidential candidate Donald Trump and his campaign before the Crossfire Hurricane investigation was opened.

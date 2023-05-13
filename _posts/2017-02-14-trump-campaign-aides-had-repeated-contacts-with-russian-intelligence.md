@@ -1,11 +1,7 @@
 ---
-id: 450
 title: 'Trump campaign aides had repeated contacts with Russian intelligence'
 date: '2017-02-14T09:49:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=450'
-permalink: /2017/02/14/trump-campaign-aides-had-repeated-contacts-with-russian-intelligence/
 ---
 
 WASHINGTON — Phone records and intercepted calls show that members of Donald J. Trump’s 2016 presidential campaign and other Trump associates had repeated contacts with senior Russian intelligence officials in the year before the election, according to four current and former American officials.

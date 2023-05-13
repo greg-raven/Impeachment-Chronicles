@@ -1,10 +1,7 @@
 ---
-id: 22
 title: Timeline
 date: '2021-08-06T05:41:43-07:00'
-author: 'Trump 2020'
 layout: page
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?page_id=22'
 ---
 
 <figure class="wp-block-table table">| June 16, 2015 | Donald J. Trump announces his candidacy for president of the United States. |

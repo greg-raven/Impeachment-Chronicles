@@ -1,11 +1,7 @@
 ---
-id: 782
 title: 'Sen. Leahy to preside over Trump’s impeachment trial'
 date: '2021-01-25T12:27:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=782'
-permalink: /2021/01/25/sen-leahy-to-preside-over-trumps-impeachment-trial/
 ---
 
 Sen. Patrick Leahy (D-Vt.), president pro tempore of the Senate, will preside over next month’s impeachment trial of former President Donald Trump, Leahy said on Jan. 25.

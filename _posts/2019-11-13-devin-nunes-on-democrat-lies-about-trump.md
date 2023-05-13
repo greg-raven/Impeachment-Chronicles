@@ -1,10 +1,8 @@
 ---
-title: 'Devin Nunes on Democrat lies and hypocrisy'
+title: 'Devin Nunes: Opening Statement for Kent and Taylor Hearing on Impeachment'
 date: '2019-11-13T12:44:16-08:00'
 layout: post
 ---
-
-**Opening Statement for Kent and Taylor Hearing on Impeachment**
 
 In a July open hearing of this committee following publication of the Mueller report, the Democrats engaged in a last-ditch effort to convince the American people that President Trump is a Russian agent. That hearing was the pitiful finale of a three-year-long operation by the Democrats, the corrupt media, and partisan bureaucrats to overturn the results of the 2016 presidential election.
 

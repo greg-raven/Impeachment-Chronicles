@@ -1,11 +1,7 @@
 ---
-id: 851
 title: 'Trump is simply the worse America has to offer'
 date: '2022-07-22T08:29:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=851'
-permalink: /2022/07/22/trump-is-simply-the-worse-america-has-to-offer/
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> “Trump is simply the worst America has to offer and is a danger to democracy.”

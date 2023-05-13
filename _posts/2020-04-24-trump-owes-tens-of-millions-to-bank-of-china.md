@@ -1,11 +1,7 @@
 ---
-id: 1345
 title: 'Trump owes tens of millions to Bank of China'
 date: '2020-04-24T08:12:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1345'
-permalink: /2020/04/24/trump-owes-tens-of-millions-to-bank-of-china/
 ---
 
 - The president’s financial dealings with the state-owned bank complicate his attacks on Biden.

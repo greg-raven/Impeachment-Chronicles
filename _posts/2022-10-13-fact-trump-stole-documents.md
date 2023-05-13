@@ -1,11 +1,7 @@
 ---
-id: 1013
 title: 'Fact: Trump stole documents'
 date: '2022-10-13T09:22:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1013'
-permalink: /2022/10/13/fact-trump-stole-documents/
 ---
 
 Fact: Donald Trump stole Highly Classified Documents from the United States Government. When asked for their return, he directed an aide to hide them. He will be Indicted for that.

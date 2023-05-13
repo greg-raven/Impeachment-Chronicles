@@ -1,11 +1,7 @@
 ---
-id: 148
 title: 'U.S. intel officials probe ties between Trump adviser and Kremlin'
 date: '2016-09-23T07:04:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=148'
-permalink: /2016/09/23/u-s-intel-officials-probe-ties-between-trump-adviser-and-kremlin/
 ---
 
 U.S. intelligence officials are seeking to determine whether an American businessman identified by Donald Trump as one of his foreign policy advisers has opened up private communications with senior Russian officials — including talks about the possible lifting of economic sanctions if the Republican nominee becomes president, according to multiple sources who have been briefed on the issue.

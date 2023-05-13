@@ -1,11 +1,7 @@
 ---
-id: 774
 title: 'McConnell privately backs impeachment as House moves to charge Trump'
 date: '2021-01-12T12:23:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=774'
-permalink: /2021/01/12/mcconnell-privately-backs-impeachment-as-house-moves-to-charge-trump/
 ---
 
 - The House formally called on Vice President Mike Pence to move to wrest power from the president, as Republican support built for impeaching him of inciting violence against the nation.

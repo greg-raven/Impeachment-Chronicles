@@ -1,11 +1,7 @@
 ---
-id: 976
 title: 'Durham shocker: Danchenko was a paid FBI informant'
 date: '2022-09-13T13:56:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=976'
-permalink: /2022/09/13/durham-shocker-danchenko-was-a-paid-fbi-informant/
 ---
 
 Today, Special Counsel John Durham moved to unseal this motion in limine in the false statements case against Igor Danchenko.

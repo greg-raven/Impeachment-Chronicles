@@ -1,11 +1,7 @@
 ---
-id: 125
 title: 'The Washington Post corrects, removes parts of two stories regarding the Steele dossier'
 date: '2021-11-12T13:26:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=125'
-permalink: /2021/11/12/the-washington-post-corrects-removes-parts-of-two-stories-regarding-the-steele-dossier/
 ---
 
 The *Washington Post* on Friday took the unusual step of correcting and removing large portions of two articles, published in March 2017 and February 2019, that had identified a Belarusian American businessman as a key source of the “[Steele dossier](http://greg-raven.github.io/Impeachment-Chronicles/2016/06/20/the-steele-dossier/),” a collection of largely unverified reports that claimed the Russian government had compromising information about then-candidate Donald Trump.

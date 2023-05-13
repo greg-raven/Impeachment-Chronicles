@@ -1,11 +1,7 @@
 ---
-id: 982
 title: 'Facebook suppressed Hunter Biden story after visit from FBI'
 date: '2022-08-25T13:58:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=982'
-permalink: /2022/08/25/facebook-suppressed-hunter-biden-story-after-visit-from-fbi/
 ---
 
 There is growing evidence that the FBI ordered a crackdown of any investigation and any coverage of Hunter Biden’s laptop computer leading up to the 2020 presidential election. Click here to join Todd’s private Facebook group for Conservatives.

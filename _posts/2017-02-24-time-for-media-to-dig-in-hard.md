@@ -1,11 +1,7 @@
 ---
-id: 1021
 title: 'Time for media to dig in hard'
 date: '2017-02-24T09:29:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1021'
-permalink: /2017/02/24/time-for-media-to-dig-in-hard/
 ---
 
 > Time for media to dig in hard to get the truth out about Trump ties to Russia. 1st amendment and life of our democracy depends on it.

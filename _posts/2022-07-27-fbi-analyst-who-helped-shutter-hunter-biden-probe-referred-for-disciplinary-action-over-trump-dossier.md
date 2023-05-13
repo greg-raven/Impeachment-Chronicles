@@ -1,11 +1,7 @@
 ---
-id: 854
 title: 'FBI analyst who helped shutter Hunter Biden probe referred for disciplinary action over Trump dossier'
 date: '2022-07-27T16:23:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=854'
-permalink: /2022/07/27/fbi-analyst-who-helped-shutter-hunter-biden-probe-referred-for-disciplinary-action-over-trump-dossier/
 ---
 
 It turns out that the FBI analyst who falsely labeled accurate intelligence on Hunter Biden’s activities “disinformation” had a less-than-spotless record at the bureau, according to new claims from whistleblowers at the Bureau.

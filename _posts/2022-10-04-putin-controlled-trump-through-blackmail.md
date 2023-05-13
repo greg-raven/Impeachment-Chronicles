@@ -1,11 +1,7 @@
 ---
-id: 1043
 title: 'Putin controlled Trump through blackmail'
 date: '2022-10-04T10:13:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1043'
-permalink: /2022/10/04/putin-controlled-trump-through-blackmail/
 ---
 
 And here we have Collins’ corporate colleague, Joe Scarborough, joining with Nancy Pelosi to spread the absolutely batshit insane conspiracy theory that Putin controlled Trump through blackmail: even as Trump armed Ukraine and waged war on Nord Stream 2:

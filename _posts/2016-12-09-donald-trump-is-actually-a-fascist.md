@@ -1,11 +1,7 @@
 ---
-id: 1163
 title: 'Donald Trump is actually a fascist'
 date: '2016-12-09T06:45:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1163'
-permalink: /2016/12/09/donald-trump-is-actually-a-fascist/
 ---
 
 Donald Trump is a fascist.

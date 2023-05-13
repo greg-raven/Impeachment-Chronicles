@@ -1,11 +1,7 @@
 ---
-id: 316
 title: 'Durham unmasks alliance between media, Democrat dirt diggers that triggered false Russia story'
 date: '2022-04-30T14:00:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=316'
-permalink: /2022/04/30/durham-unmasks-alliance-between-media-democrat-dirt-diggers-that-triggered-false-russia-story/
 ---
 
 - Court filings show plan to introduce evidence that Clinton campaign flooded media with “unverified derogatory information” on Trump.

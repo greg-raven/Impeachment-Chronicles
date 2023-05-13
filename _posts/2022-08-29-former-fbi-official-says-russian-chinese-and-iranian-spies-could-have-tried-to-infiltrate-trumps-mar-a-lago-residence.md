@@ -1,11 +1,7 @@
 ---
-id: 944
 title: 'Former FBI official says Russian, Chinese, and Iranian spies could have tried to infiltrate Trump’s Mar-a-Lago residence'
 date: '2022-08-29T10:21:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=944'
-permalink: /2022/08/29/former-fbi-official-says-russian-chinese-and-iranian-spies-could-have-tried-to-infiltrate-trumps-mar-a-lago-residence/
 ---
 
 - Former FBI official Peter Strzok says “any competent foreign intelligence service” would have tried to enter Mar-a-Lago.

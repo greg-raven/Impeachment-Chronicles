@@ -1,17 +1,11 @@
 ---
-id: 1065
 title: 'Donald Trump is an illegitimate president'
 date: '2019-05-01T13:38:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1065'
-permalink: /2019/05/01/donald-trump-is-an-illegitimate-president/
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Donald Trump is an illegitimate President. He welcomed the help of a foreign enemy power and aided &amp; abetted in stealing an election. He covered up his 100 contacts with that enemy &amp; obstructs the investigation into that enemy’s attack on US. [\#ImpeachmentNOW](https://twitter.com/hashtag/ImpeachmentNOW?src=hash&ref_src=twsrc%5Etfw)
-> 
-> — Rob Reiner (@robreiner) [May 1, 2019](https://twitter.com/robreiner/status/1123522975896985600?ref_src=twsrc%5Etfw)
-
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>> Donald Trump is an illegitimate President. He welcomed the help of a foreign enemy power and aided &amp; abetted in stealing an election. He covered up his 100 contacts with that enemy &amp; obstructs the investigation into that enemy’s attack on US. #ImpeachmentNOW
-> 
+> Donald Trump is an illegitimate President. He welcomed the help of a foreign enemy power and aided &amp; abetted in stealing an election. He covered up his 100 contacts with that enemy &amp; obstructs the investigation into that enemy’s attack on US. #ImpeachmentNOW
+>
 > <cite>Rob Reiner via Twitter</cite>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump is an illegitimate President. He welcomed the help of a foreign enemy power and aided &amp; abetted in stealing an election. He covered up his 100 contacts with that enemy &amp; obstructs the investigation into that enemy’s attack on US. <a href="https://twitter.com/hashtag/ImpeachmentNOW?src=hash&amp;ref_src=twsrc%5Etfw">#ImpeachmentNOW</a></p>&mdash; Rob Reiner (@robreiner) <a href="https://twitter.com/robreiner/status/1123522975896985600?ref_src=twsrc%5Etfw">May 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

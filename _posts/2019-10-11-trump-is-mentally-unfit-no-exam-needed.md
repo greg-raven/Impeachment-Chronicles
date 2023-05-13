@@ -1,11 +1,7 @@
 ---
-id: 569
 title: 'Trump is mentally unfit, no exam needed'
 date: '2019-10-11T06:52:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=569'
-permalink: /2019/10/11/trump-is-mentally-unfit-no-exam-needed/
 ---
 
 - Three mental health professionals who contributed to “The Dangerous Case of Donald Trump” cite recent actions that confirm their worries.

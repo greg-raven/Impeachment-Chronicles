@@ -1,11 +1,7 @@
 ---
-id: 608
 title: 'DOJ watchdog criticizes Trump’s firing of IGs, but omits key facts in matter'
 date: '2021-02-25T07:15:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=608'
-permalink: /2021/02/25/doj-watchdog-criticizes-trumps-firing-of-igs-but-omits-key-facts-in-matter/
 ---
 
 Michael Horowitz, the Justice Department inspector general who wrote the Dec. 9, 2019, Review of Four FISA Applications, recently reaffirmed his earlier statements that Trump fired two inspectors general “for doing their jobs” and called Trump’s presidency “a challenging time … particularly in the last year” during a Feb. 10 online discussion hosted by Harvard Law School and moderated by Jack Goldsmith.

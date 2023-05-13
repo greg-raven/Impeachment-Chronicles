@@ -1,11 +1,7 @@
 ---
-id: 790
 title: 'Donald Trump’s full statement on impeachment trial acquittal'
 date: '2021-02-13T12:32:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=790'
-permalink: /2021/02/13/donald-trumps-full-statement-on-impeachment-trial-acquittal/
 ---
 
 I want to first thank my team of dedicated lawyers and others for their tireless work upholding justice and defending truth.

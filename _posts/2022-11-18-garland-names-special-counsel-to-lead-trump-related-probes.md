@@ -1,11 +1,7 @@
 ---
-id: 1206
 title: 'Garland names special counsel to lead Trump-related probes'
 date: '2022-11-18T05:42:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1206'
-permalink: /2022/11/18/garland-names-special-counsel-to-lead-trump-related-probes/
 ---
 
 WASHINGTON (AP) — Attorney General Merrick Garland named a special counsel on Friday to oversee the Justice Department’s investigation into the presence of classified documents at former President Donald Trump’s Florida estate as well as key aspects of a separate probe involving the Jan. 6, 2021, insurrection and efforts to undo the 2020 election.

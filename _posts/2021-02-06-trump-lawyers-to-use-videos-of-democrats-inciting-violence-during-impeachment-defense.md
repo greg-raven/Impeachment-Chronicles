@@ -1,11 +1,7 @@
 ---
-id: 612
 title: 'Trump lawyers to use videos of Democrats inciting violence during impeachment defense'
 date: '2021-02-06T07:18:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=612'
-permalink: /2021/02/06/trump-lawyers-to-use-videos-of-democrats-inciting-violence-during-impeachment-defense/
 ---
 
 Former President Donald Trump’s lead impeachment defense attorney Bruce Castor said he will use video clips of top Democrats inciting violence during the coming impeachment trial.

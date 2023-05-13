@@ -1,11 +1,7 @@
 ---
-id: 1069
 title: 'If Flynn was a Russian asset'
 date: '2017-05-06T13:39:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1069'
-permalink: /2017/05/06/if-flynn-was-a-russian-asset/
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> If DT knew Flynn was a Russian asset, stick a fork in him. Special prosecutor critical to get to truth. Democracy at stake. [\#trumprussia](https://twitter.com/hashtag/trumprussia?src=hash&ref_src=twsrc%5Etfw)

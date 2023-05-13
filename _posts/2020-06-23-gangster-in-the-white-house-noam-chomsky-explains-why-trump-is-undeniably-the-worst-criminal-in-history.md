@@ -1,11 +1,7 @@
 ---
-id: 687
 title: '‘Gangster in the White House’: Noam Chomsky explains why Trump is undeniably ‘the worst criminal in history’'
 date: '2020-06-23T06:34:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=687'
-permalink: /2020/06/23/gangster-in-the-white-house-noam-chomsky-explains-why-trump-is-undeniably-the-worst-criminal-in-history/
 ---
 
 Author Noam Chomsky, now 91, is old enough to remember a long list of U.S. presidents, from Harry Truman in the 1940s to Ronald Reagan in the 1980s to Barack Obama in the late 2000s and early 2010s. And during an interview on “The Michael Brooks Show,” Chomsky laid out some reasons why Donald Trump is, hands down, the worst he has seen so far.

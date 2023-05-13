@@ -1,11 +1,7 @@
 ---
-id: 1208
 title: 'Trump is going to break your heart'
 date: '2015-12-15T06:38:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1208'
-permalink: /2015/12/15/trump-is-going-to-break-your-heart/
 ---
 
 As a young man, I learned that sometimes that hot chick you’re dating is also completely crazy and, as much fun as it is to go out with her, it’s going to end badly. That’s Donald Trump, the super hottie of the “I Hate the GOP Establishment with a Burning Passion That Has Rendered Me Insusceptible to Reason” crew. He’s sexy, he likes to party, and he certainly puts out – in the sense that he fulfills your fantasies about giving it to the RINOs good and hard.

@@ -1,11 +1,7 @@
 ---
-id: 10
 title: 'CNN salivates over impeachment witness’ deranged claim 600,000 Americans died because Trump acquitted'
 date: '2021-08-04T15:37:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=10'
-permalink: /2021/08/04/cnn-salivates-over-impeachment-witness-deranged-claim-600000-americans-died-because-trump-acquitted/
 ---
 
 The Democrats’ star witness for President Trump’s first impeachment trial was back on television this morning to provide CNN more deranged commentary on the former president. New Day co-host Brianna Keilar helped Retired Lt. Col. Alexander Vindman go off on Trump, blaming him for 600,000 dead Americans, left-wing riots, and America’s “slide toward authoritarianism.”

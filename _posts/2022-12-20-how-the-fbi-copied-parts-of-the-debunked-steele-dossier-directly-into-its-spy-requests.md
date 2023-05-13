@@ -1,11 +1,7 @@
 ---
-id: 1361
 title: 'How the FBI copied parts of the debunked Steele Dossier directly into its spy requests'
 date: '2022-12-20T15:42:13-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1361'
-permalink: /2022/12/20/how-the-fbi-copied-parts-of-the-debunked-steele-dossier-directly-into-its-spy-requests/
 ---
 
 The FBI relied more extensively on Christopher Steele’s debunked dossier in their Russiagate investigation than has been revealed, inserting key parts from it into their applications for warrants to spy on the 2016 Trump campaign.

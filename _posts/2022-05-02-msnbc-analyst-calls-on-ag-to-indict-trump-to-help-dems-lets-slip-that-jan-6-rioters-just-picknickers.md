@@ -1,11 +1,7 @@
 ---
-id: 318
 title: 'MSNBC analyst calls on AG to indict Trump to ‘help’ Dems, lets slip that Jan 6 rioters just ‘picknickers’'
 date: '2022-05-02T14:08:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=318'
-permalink: /2022/05/02/msnbc-analyst-calls-on-ag-to-indict-trump-to-help-dems-lets-slip-that-jan-6-rioters-just-picknickers/
 ---
 
 Democrats need a little help from their friends in the U.S. Justice Department to avoid electoral disaster in the November elections because the outcome could be no picnic for the radical left.

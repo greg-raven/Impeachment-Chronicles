@@ -1,11 +1,7 @@
 ---
-id: 546
 title: 'Biden agrees with woman who says Trump is ‘an illegitimate president’'
 date: '2019-05-14T15:39:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=546'
-permalink: /2019/05/14/biden-agrees-with-woman-who-says-trump-is-an-illegitimate-president/
 ---
 
 Former Vice President Joe Biden quipped that a woman who claimed she had a “very severe case of what’s called Trump Derangement Syndrome” should become his running mate.

@@ -1,11 +1,7 @@
 ---
-id: 508
 title: 'First Republicans talk possibility of impeachment for Trump'
 date: '2017-05-17T14:07:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=508'
-permalink: /2017/05/17/first-republicans-talk-possibility-of-impeachment-for-trump/
 ---
 
 Republicans are beginning to talk of the possibility that President Trump could face impeachment after reports that he pressed ousted FBI Director James Comey to end an investigation of former national security adviser Michael Flynn.

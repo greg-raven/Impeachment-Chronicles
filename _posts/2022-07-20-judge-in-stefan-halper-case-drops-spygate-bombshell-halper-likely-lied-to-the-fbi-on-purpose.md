@@ -1,11 +1,7 @@
 ---
-id: 713
 title: 'Judge in Stefan Halper case drops SpyGate bombshell: Halper likely lied to the FBI on purpose'
 date: '2022-07-20T09:37:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=713'
-permalink: /2022/07/20/judge-in-stefan-halper-case-drops-spygate-bombshell-halper-likely-lied-to-the-fbi-on-purpose/
 ---
 
 - There are now a fair number of documentations’ showing that Stefan Halper ‘may have made clear misstatements to the FBI,’ the court said.

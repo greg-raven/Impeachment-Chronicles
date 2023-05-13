@@ -1,11 +1,7 @@
 ---
-id: 309
 title: 'Project Veritas questions possible media-govt. collusion on Jan. 6'
 date: '2022-03-11T13:48:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=309'
-permalink: /2022/03/11/project-veritas-questions-possible-media-govt-collusion-on-jan-6/
 ---
 
 The latest report by Project Veritas is raising questions about possible collusion between the mainstream media and government agencies to discredit Donald Trump and Republican voters. A new investigation by the non-profit journalism enterprise revealed mainstream media knew that FBI informants were inside the capitol during the January 6 protest.

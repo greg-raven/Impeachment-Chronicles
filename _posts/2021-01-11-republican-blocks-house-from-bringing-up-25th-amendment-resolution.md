@@ -1,11 +1,7 @@
 ---
-id: 770
 title: 'Republican blocks House from bringing up 25th Amendment resolution'
 date: '2021-01-11T12:21:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=770'
-permalink: /2021/01/11/republican-blocks-house-from-bringing-up-25th-amendment-resolution/
 ---
 
 Rep. Alex Mooney (R-W.Va.) on Jan. 11 blocked Democrats from introducing a resolution via unanimous consent to call on Vice President Mike Pence to invoke the 25th Amendment to remove President Donald Trump.

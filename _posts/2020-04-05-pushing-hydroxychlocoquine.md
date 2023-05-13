@@ -1,11 +1,7 @@
 ---
-id: 668
 title: 'Pushing hydroxychlocoquine'
 date: '2020-04-05T05:55:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=668'
-permalink: /2020/04/05/pushing-hydroxychlocoquine/
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> So is the BLOTUS pushing this drug HYDROXYCHLOROQUIN in the hopes that IF it works, he will get nominated for the Nobel Peace Prize? [pic.twitter.com/sVElPc4bUg](https://t.co/sVElPc4bUg)

@@ -1,11 +1,7 @@
 ---
-id: 1351
 title: 'How Russiagate became a story of old friends in high places'
 date: '2021-09-21T09:36:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1351'
-permalink: /2021/09/21/how-russiagate-became-a-story-of-old-friends-in-high-places/
 ---
 
 The indictment of Washington attorney Michael Sussman — accused of lying to the FBI in order to smear Donald Trump during the 2016 campaign — reveals the ace up the sleeve of high-powered Democrats. It’s a card they played time and again to advance the Trump-Russia conspiracy theory: friends in high places.

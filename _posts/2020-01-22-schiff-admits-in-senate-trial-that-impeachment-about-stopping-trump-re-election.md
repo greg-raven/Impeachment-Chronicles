@@ -1,11 +1,7 @@
 ---
-id: 646
 title: 'Schiff admits in Senate trial that impeachment about stopping Trump re-election'
 date: '2020-01-22T04:52:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=646'
-permalink: /2020/01/22/schiff-admits-in-senate-trial-that-impeachment-about-stopping-trump-re-election/
 ---
 
 House Intelligence Committee Chairman Adam Schiff (D-CA), who is serving as a Democratic impeachment manager during President Donald Trump’s Senate impeachment trial, admitted on Wednesday that Democrats’ partisan impeachment was about stopping the president from being re-elected.

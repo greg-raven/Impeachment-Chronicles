@@ -1,11 +1,7 @@
 ---
-id: 560
 title: 'Trump has disqualified himself from running in 2020'
 date: '2019-10-01T06:45:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=560'
-permalink: /2019/10/01/trump-has-disqualified-himself-from-running-in-2020/
 ---
 
 - The president’s brazen attempt at cheating has taken “decide it at the ballot box” off the menu. Impeachment is imperative.

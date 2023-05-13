@@ -1,11 +1,7 @@
 ---
-id: 972
 title: 'Crazy as sh*t'
 date: '2017-10-14T13:55:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=972'
-permalink: /2017/10/14/crazy-as-sht/
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> aka crazy as sh\*t: 125 psychologists and other mental health professionals marched to demand that President Trump be thrown out of office [pic.twitter.com/9yZpcueZzG](https://t.co/9yZpcueZzG)

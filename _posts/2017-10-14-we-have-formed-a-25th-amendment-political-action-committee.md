@@ -1,11 +1,7 @@
 ---
-id: 969
 title: 'We have formed a 25th Amendment Political Action Committee'
 date: '2017-10-14T13:53:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=969'
-permalink: /2017/10/14/we-have-formed-a-25th-amendment-political-action-committee/
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> "We have formed a 25th Amendment Political Action Committee and a Super Political Action Committee. We hope to be for the 25th Amendment what the [@NRA](https://twitter.com/NRA?ref_src=twsrc%5Etfw) is to the 2nd Amendment." [@duty2warn](https://twitter.com/duty2warn?ref_src=twsrc%5Etfw) [\#25thAmendment](https://twitter.com/hashtag/25thAmendment?src=hash&ref_src=twsrc%5Etfw) [\#DutyToWarn](https://twitter.com/hashtag/DutyToWarn?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/KzCdXzxBA4](https://t.co/KzCdXzxBA4)

@@ -1,11 +1,7 @@
 ---
-id: 1267
 title: 'Keep pouting'
 date: '2020-11-24T07:51:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1267'
-permalink: /2020/11/24/keep-pouting/
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Keep pouting.  

@@ -1,11 +1,7 @@
 ---
-id: 469
 title: 'Donald Trump’s war crimes'
 date: '2017-04-05T10:13:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=469'
-permalink: /2017/04/05/donald-trumps-war-crimes/
 ---
 
 - His administration is killing unusually large numbers of civilians, in violation of U.S. and international law.

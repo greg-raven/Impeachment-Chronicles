@@ -1,11 +1,7 @@
 ---
-id: 776
 title: 'Democrats, 10 Republicans vote for 2nd impeachment of Trump'
 date: '2021-01-13T12:25:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=776'
-permalink: /2021/01/13/democrats-10-republicans-vote-for-2nd-impeachment-of-trump/
 ---
 
 Democrats in the House of Representatives, joined by ten Republicans, voted to impeach President Donald Trump for a second time, in a 232–197 vote on Jan. 13. The single article of impeachment alleges that the president incited an insurrection that resulted in the breach of the U.S. Capitol on Jan. 6.

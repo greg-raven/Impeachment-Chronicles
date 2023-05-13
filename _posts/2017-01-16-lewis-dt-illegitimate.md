@@ -1,11 +1,7 @@
 ---
-id: 1077
 title: 'Lewis: DT illegitimate'
 date: '2017-01-16T13:42:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1077'
-permalink: /2017/01/16/lewis-dt-illegitimate/
 ---
 
 > John Lewis didn&#39;t call DT illegitimate in the abstract. He said it because of Russia&#39;s intervention and growing evidence of treason. #MSMdig

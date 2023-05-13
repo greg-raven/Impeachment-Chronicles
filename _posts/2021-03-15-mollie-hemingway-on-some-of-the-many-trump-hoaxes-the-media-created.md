@@ -1,11 +1,7 @@
 ---
-id: 431
 title: 'Mollie Hemingway on some of the many Trump hoaxes the media ‘created’'
 date: '2021-03-15T08:02:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=431'
-permalink: /2021/03/15/mollie-hemingway-on-some-of-the-many-trump-hoaxes-the-media-created/
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Today's reveal that WaPo allowed a political opponent to anonymously invent Trump quotes is quite the story. But my favorite "anonymous" story remains "Anonymous"! That was when the NYT tried to suggest a disgruntled low-level staffer was Trump cabinet official or family member.

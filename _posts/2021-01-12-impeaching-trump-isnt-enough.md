@@ -1,11 +1,7 @@
 ---
-id: 1337
 title: 'Impeaching Trump isn’t enough'
 date: '2021-01-12T07:29:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1337'
-permalink: /2021/01/12/impeaching-trump-isnt-enough/
 ---
 
 Impeachment of President Donald Trump is necessary but not enough. Conviction, too, is amply warranted but still insufficient. Congress must take that final step and use its rarely invoked constitutional power to disqualify Trump from ever again holding federal office.

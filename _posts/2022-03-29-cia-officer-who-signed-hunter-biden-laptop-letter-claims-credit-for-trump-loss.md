@@ -1,11 +1,7 @@
 ---
-id: 281
 title: 'CIA officer who signed Hunter Biden laptop letter claims credit for Trump loss'
 date: '2022-03-29T09:41:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=281'
-permalink: /2022/03/29/cia-officer-who-signed-hunter-biden-laptop-letter-claims-credit-for-trump-loss/
 ---
 
 One of the former CIA officers who signed a letter claiming stories about a laptop allegedly belonging to Hunter Biden were disinformation says he helped swing the 2020 election away from President Donald Trump.

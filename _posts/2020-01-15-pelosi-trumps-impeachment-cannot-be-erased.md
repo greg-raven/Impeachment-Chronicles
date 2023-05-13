@@ -1,11 +1,7 @@
 ---
-id: 622
 title: 'Pelosi: Trump’s impeachment ‘cannot be erased’'
 date: '2020-01-15T12:25:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=622'
-permalink: /2020/01/15/pelosi-trumps-impeachment-cannot-be-erased/
 ---
 
 Speaker Nancy Pelosi (D-Calif.) ahead of a vote on Wednesday to send House-passed articles of impeachment to the Senate for a trial doubled down on comments that impeachment will forever be a part of President Trump’s legacy.

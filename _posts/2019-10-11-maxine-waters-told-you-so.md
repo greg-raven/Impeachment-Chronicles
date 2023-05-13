@@ -1,11 +1,7 @@
 ---
-id: 567
 title: 'Maxine Waters told you so'
 date: '2019-10-11T06:51:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=567'
-permalink: /2019/10/11/maxine-waters-told-you-so/
 ---
 
 - Waters called for impeachment years before President Trump called Ukraine. In an interview with Glamour, she discusses the probe, the election, and her own vindication.

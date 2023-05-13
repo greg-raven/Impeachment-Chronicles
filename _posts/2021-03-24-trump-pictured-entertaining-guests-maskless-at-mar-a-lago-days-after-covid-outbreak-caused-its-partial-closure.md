@@ -1,11 +1,7 @@
 ---
-id: 817
 title: 'Trump pictured entertaining guests maskless at Mar-a-Lago days after COVID outbreak caused its partial closure'
 date: '2021-03-24T13:32:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=817'
-permalink: /2021/03/24/trump-pictured-entertaining-guests-maskless-at-mar-a-lago-days-after-covid-outbreak-caused-its-partial-closure/
 ---
 
 - Trump was spotted entertaining guests at his Mar-A-Lago club on Tuesday.

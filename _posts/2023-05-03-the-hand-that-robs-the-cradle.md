@@ -1,11 +1,7 @@
 ---
-id: 1393
 title: 'The hand that robs the cradle'
 date: '2023-05-03T05:22:03-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1393'
-permalink: /2023/05/03/the-hand-that-robs-the-cradle/
 ---
 
 Democrat megadonor Reid Hoffman is currently funding the lawsuit filed by E. Jean Carroll accusing President Trump of rape (she once said “rape is sexy” on tv). He visited Epstein’s island in 2014, after it was already revealed he was a sexual predator. They always accuse Trump what they’re guilty of.

@@ -1,11 +1,7 @@
 ---
-id: 311
 title: 'Simple tests for the extent of vote fraud with absentee and provisional ballots in the 2020 U.S. presidential election'
 date: '2022-05-12T13:53:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=311'
-permalink: /2022/05/12/simple-tests-for-the-extent-of-vote-fraud-with-absentee-and-provisional-ballots-in-the-2020-u-s-presidential-election/
 ---
 
 **Abstract**

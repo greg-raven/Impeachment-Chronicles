@@ -1,11 +1,7 @@
 ---
-id: 839
 title: 'Obama activated Stefan Halper as a government contractor at start of primaries'
 date: '2018-05-24T10:22:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=839'
-permalink: /2018/05/24/obama-activated-stefan-halper-as-a-government-contractor-at-start-of-primaries/
 ---
 
 The Obama administration set up Trump campaign spy Stefan Halper’s government contractor account on October 21, 2015, just as the Iowa caucus campaign was getting underway.

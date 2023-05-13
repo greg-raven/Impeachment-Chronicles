@@ -1,11 +1,7 @@
 ---
-id: 220
 title: 'Timeline: Comey briefs Trump'
 date: '2017-01-06T14:12:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=220'
-permalink: /2017/01/06/timeline-comey-briefs-trump/
 ---
 
 An ostensibly similar briefing about Russian interference efforts during the 2016 campaign was given to President-elect Trump. After that briefing, Comey privately briefed Trump on the most salacious and absurd “pee tape” allegation in the Christopher Steele dossier, a document the FBI had already used to obtain a warrant to spy on Trump campaign affiliate Carter Page. Comey told Trump he was telling him because CNN was looking for any reason it could find to publish a story about Russia having compromising information on him, and he wanted to warn Trump about it. He did not mention the dossier was completely unverified or that it was the product of a secretly funded operation by the Clinton campaign and Democratic National Committee.

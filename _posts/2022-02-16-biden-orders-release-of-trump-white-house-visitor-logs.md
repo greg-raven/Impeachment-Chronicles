@@ -1,11 +1,7 @@
 ---
-id: 279
 title: 'Biden orders release of Trump White House Visitor Logs'
 date: '2022-02-16T09:39:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=279'
-permalink: /2022/02/16/biden-orders-release-of-trump-white-house-visitor-logs/
 ---
 
 - Trump has repeatedly fought for the privacy of documents being sought by the committee investigating the Capitol riot.

@@ -1,11 +1,7 @@
 ---
-id: 347
 title: '‘I want to say this about Donald Trump …’'
 date: '2017-01-15T15:48:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=347'
-permalink: /2017/01/15/i-want-to-say-this-about-donald-trump/
 ---
 
 > Rep. Jamie Raskin: &ldquo;I want to say this for Donald Trump, who I may well be voting to impeach…&rdquo; He’s drowned out by applause.

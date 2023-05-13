@@ -1,11 +1,7 @@
 ---
-id: 326
 title: 'Hillary Clinton OK’d sharing Trump-Russia ‘data’: campaign manager'
 date: '2022-05-20T14:19:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=326'
-permalink: /2022/05/20/hillary-clinton-okd-sharing-trump-russia-data-campaign-manager/
 ---
 
 WASHINGTON, DC — Hillary Clinton personally authorized her campaign to share since-debunked computer data linking Donald Trump with a Russian bank, according to bombshell testimony from her 2016 campaign manager Friday.

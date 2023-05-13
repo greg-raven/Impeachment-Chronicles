@@ -1,11 +1,7 @@
 ---
-id: 865
 title: 'Which Republicans oppose Trump and why?'
 date: '2016-08-10T07:06:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=865'
-permalink: /2016/08/10/which-republicans-oppose-trump-and-why/
 ---
 
 Here’s a semi-comprehensive list we’ll be updating of the many notable Republicans who have said they won’t support GOP presidential nominee Donald Trump, why they’re opposing him and who they’ll back instead:

@@ -1,11 +1,7 @@
 ---
-id: 1047
 title: 'He dreamed of being a police officer, then was killed by a pro-Trump mob'
 date: '2021-01-08T10:16:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1047'
-permalink: /2021/01/08/he-dreamed-of-being-a-police-officer-then-was-killed-by-a-pro-trump-mob/
 ---
 
 - The death of Brian Sicknick, a military veteran and experienced Capitol Police officer, amplified the tragedy of Wednesday’s riots and undermined President Trump’s pro-law-enforcement claims.

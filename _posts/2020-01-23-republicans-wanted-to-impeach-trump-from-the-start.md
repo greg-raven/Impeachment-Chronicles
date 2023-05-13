@@ -1,11 +1,7 @@
 ---
-id: 173
 title: 'Republicans wanted to impeach Trump from the start'
 date: '2020-01-23T13:29:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=173'
-permalink: /2020/01/23/republicans-wanted-to-impeach-trump-from-the-start/
 ---
 
 Among the most puzzling defenses of President Trump is this particular script, beloved of Republican lawmakers: “The Democrats have been trying to impeach this president since before he was sworn into office.” Trumpites like to deliver it with high ferocity and little variation.

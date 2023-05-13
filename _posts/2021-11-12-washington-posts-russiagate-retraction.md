@@ -1,11 +1,7 @@
 ---
-id: 1055
 title: 'Washington Post’s Russiagate retraction'
 date: '2021-11-12T10:19:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1055'
-permalink: /2021/11/12/washington-posts-russiagate-retraction/
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Another major editor's note attached to a Washington Post Russiagate story (see others: <https://t.co/56HwMKrW7k> &amp; <https://t.co/7wuV1rw13x>).  

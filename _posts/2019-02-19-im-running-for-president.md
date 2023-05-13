@@ -1,11 +1,7 @@
 ---
-id: 425
 title: 'I’m running for president'
 date: '2019-02-19T07:59:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=425'
-permalink: /2019/02/19/im-running-for-president/
 ---
 
 > “Donald Trump, the most dangerous president in modern American history \[…\] We are running against a president who is a pathological liar, a fraud, a racist, a sexist, a xenophobe, and someone who is undermining American democracy as he leads us in an authoritarian direction.”

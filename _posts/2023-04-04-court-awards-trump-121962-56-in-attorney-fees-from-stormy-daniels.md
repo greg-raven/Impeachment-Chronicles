@@ -1,11 +1,7 @@
 ---
-id: 1381
 title: 'Court awards Trump $121,962.56 in attorney fees from Stormy Daniels'
 date: '2023-04-04T13:30:52-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1381'
-permalink: /2023/04/04/court-awards-trump-121962-56-in-attorney-fees-from-stormy-daniels/
 ---
 
 In what might be one of the most well-timed rulings of all time, the U.S. Ninth Circuit Court of Appeals awarded former President Donald Trump $121,962.56 in attorney fees from adult film star Stormy Daniels.

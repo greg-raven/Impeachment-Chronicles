@@ -1,11 +1,7 @@
 ---
-id: 1329
 title: 'Sen. Blumenthal: Comey firing ‘may well produce impeachment proceedings’'
 date: '2017-03-11T06:55:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1329'
-permalink: /2017/03/11/sen-blumenthal-comey-firing-may-well-produce-impeachment-proceedings/
 ---
 
 Sen. Richard Blumenthal said Wednesday that President Donald Trump’s decision to fire his FBI director could lead to possible impeachment proceedings in Congress.

@@ -1,11 +1,7 @@
 ---
-id: 948
 title: 'Ex-FBI special agent says Biden’s Department of Justice pushed hard for Bureau to raid Mar-a-Lago'
 date: '2022-08-18T10:29:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=948'
-permalink: /2022/08/18/ex-fbi-special-agent-says-bidens-department-of-justice-pushed-hard-for-bureau-to-raid-mar-a-lago/
 ---
 
 - ‘My guess would be the Bureau was the one going against the DOJ in this particular situation, because when you consider which entity has more to lose — FBI clearly has much more to lose from this situation,’ the LA ex-FBI agent said

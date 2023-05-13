@@ -1,11 +1,7 @@
 ---
-id: 374
 title: 'We salute Muhammad Ali as a great American'
 date: '2016-06-05T06:58:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=374'
-permalink: /2016/06/05/we-salute-muhammad-ali-as-a-great-american/
 ---
 
 > We salute #MuhammadAli as a great American. Sadly, we need to acknowledge that Donald Trump wouldn't even allow him to come into America.

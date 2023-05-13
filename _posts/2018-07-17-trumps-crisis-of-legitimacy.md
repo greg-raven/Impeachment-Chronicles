@@ -1,11 +1,7 @@
 ---
-id: 515
 title: 'Trump’s crisis of legitimacy'
 date: '2018-07-17T14:15:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=515'
-permalink: /2018/07/17/trumps-crisis-of-legitimacy/
 ---
 
 - The president understands the stakes of the Russia story more clearly than most of his followers.

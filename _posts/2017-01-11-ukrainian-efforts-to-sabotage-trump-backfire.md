@@ -1,11 +1,7 @@
 ---
-id: 250
 title: 'Ukrainian efforts to sabotage Trump backfire'
 date: '2017-01-11T15:30:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=250'
-permalink: /2017/01/11/ukrainian-efforts-to-sabotage-trump-backfire/
 ---
 
 - Kiev officials are scrambling to make amends with the president-elect after quietly working to boost Clinton.

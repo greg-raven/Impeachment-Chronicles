@@ -1,11 +1,7 @@
 ---
-id: 659
 title: 'Judicial watch uncovers timeline of Fusion GPS/Steele going back to 2015'
 date: '2020-08-10T05:21:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=659'
-permalink: /2020/08/10/judicial-watch-uncovers-timeline-of-fusion-gps-steele-going-back-to-2015/
 ---
 
 Strzok and Page’s names are connected to meetings and phone calls in the UK and DC

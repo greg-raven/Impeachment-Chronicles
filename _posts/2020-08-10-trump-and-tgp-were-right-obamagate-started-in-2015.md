@@ -1,11 +1,7 @@
 ---
-id: 833
 title: 'Trump and TGP were right: Obamagate started in 2015'
 date: '2020-08-10T10:15:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=833'
-permalink: /2020/08/10/trump-and-tgp-were-right-obamagate-started-in-2015/
 ---
 
 - Judicial Watch Provides More Support for this Today

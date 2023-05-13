@@ -1,11 +1,7 @@
 ---
-id: 738
 title: 'FBI agent: Never was evidence of Russia collusion but Mueller team had ‘get Trump’ goal'
 date: '2020-09-25T10:05:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=738'
-permalink: /2020/09/25/fbi-agent-never-was-evidence-of-russia-collusion-but-mueller-team-had-get-trump-goal/
 ---
 
 - Agent says Flynn case should have been shut down but FBI kept it open without legal grounds.

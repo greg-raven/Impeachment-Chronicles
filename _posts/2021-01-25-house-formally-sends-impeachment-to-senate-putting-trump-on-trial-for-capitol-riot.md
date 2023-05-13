@@ -1,11 +1,7 @@
 ---
-id: 780
 title: 'House formally sends impeachment to Senate, putting Trump on trial for Capitol riot'
 date: '2021-01-25T12:26:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=780'
-permalink: /2021/01/25/house-formally-sends-impeachment-to-senate-putting-trump-on-trial-for-capitol-riot/
 ---
 
 House Democrats on Monday sent to the Senate their single impeachment article against former President Trump, officially putting the former president on trial for his role in the deadly mob attack on the Capitol earlier in the month.

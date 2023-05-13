@@ -1,11 +1,7 @@
 ---
-id: 655
 title: 'FBI wrongly told its agents Trump-Russia collusion claims had come from DOJ, bombshell document reveals'
 date: '2022-05-23T05:13:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=655'
-permalink: /2022/05/23/fbi-wrongly-told-its-agents-trump-russia-collusion-claims-had-come-from-doj-bombshell-document-reveals/
 ---
 
 WASHINGTON — FBI agents probing since-debunked claims of a secret back channel between Donald Trump and a Russian bank believed that the allegations had originated with the Department of Justice — when in fact they came from Hillary Clinton campaign attorney Michael Sussmann, who had shopped them to the bureau’s then-general counsel days earlier.

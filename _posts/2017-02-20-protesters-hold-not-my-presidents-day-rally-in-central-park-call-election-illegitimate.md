@@ -1,11 +1,7 @@
 ---
-id: 455
 title: 'Protesters hold ‘Not My President’s Day’ rally in Central Park, call election ‘illegitimate’'
 date: '2017-02-20T10:03:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=455'
-permalink: /2017/02/20/protesters-hold-not-my-presidents-day-rally-in-central-park-call-election-illegitimate/
 ---
 
 Instead of celebrating Presidents’ Day, thousands of demonstrators lined Central Park on Monday to protest the presidency of Donald Trump, saying his election win was “illegitimate” and his policies dangerous.

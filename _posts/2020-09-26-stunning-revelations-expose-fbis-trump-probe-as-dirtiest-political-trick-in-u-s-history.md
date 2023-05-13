@@ -1,11 +1,7 @@
 ---
-id: 701
 title: 'Stunning revelations expose FBI’s Trump probe as dirtiest political trick in U.S. history'
 date: '2020-09-26T06:45:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=701'
-permalink: /2020/09/26/stunning-revelations-expose-fbis-trump-probe-as-dirtiest-political-trick-in-u-s-history/
 ---
 
 - Evidence continues to mount that Trump was been victimized by rogue and lawless government actors throughout his entire presidency

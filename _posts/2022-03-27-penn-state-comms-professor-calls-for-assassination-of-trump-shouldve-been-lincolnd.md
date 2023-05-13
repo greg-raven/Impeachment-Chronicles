@@ -1,11 +1,7 @@
 ---
-id: 307
 title: 'Penn State comms professor calls for assassination of Trump: ‘Should’ve been Lincoln’d’'
 date: '2022-03-27T13:44:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=307'
-permalink: /2022/03/27/penn-state-comms-professor-calls-for-assassination-of-trump-shouldve-been-lincolnd/
 ---
 
 - Furness wrote, “Should’ve been Lincoln’d five minutes later,” referring to the assassination of President Abraham Lincoln in 1865.

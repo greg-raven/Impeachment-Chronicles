@@ -1,11 +1,7 @@
 ---
-id: 957
 title: 'The Trump admin talked a lot but took no action'
 date: '2022-09-01T09:36:18-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=957'
-permalink: /2022/09/01/the-trump-admin-talked-a-lot-but-took-no-action/
 ---
 
 When [@POTUS](https://twitter.com/POTUS?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1565338637629173760%7Ctwgr%5E509870e33bb5c1816f0fd9befd9d669ebb4b0fb9%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.impeachment.network%2Fwp-admin%2Fpost.php%3Fpost%3D957action%3Dedit) took office, schools were closed. The former admin talked a lot but took no action. We had a plan to get teachers vaccinated, pass the American Rescue Plan, and focus on safely getting back to in-person learning.

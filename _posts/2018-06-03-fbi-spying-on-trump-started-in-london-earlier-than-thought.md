@@ -1,11 +1,7 @@
 ---
-id: 835
 title: 'FBI spying on Trump started in London, earlier than thought'
 date: '2018-06-03T10:18:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=835'
-permalink: /2018/06/03/fbi-spying-on-trump-started-in-london-earlier-than-thought/
 ---
 
 - New texts implicate Obama White House

@@ -1,11 +1,7 @@
 ---
-id: 506
 title: 'Congressman calls for Trump’s impeachment on House floor'
 date: '2017-05-17T14:06:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=506'
-permalink: /2017/05/17/congressman-calls-for-trumps-impeachment-on-house-floor/
 ---
 
 Democratic Rep. Al Green of Texas called for the impeachment of President Donald Trump Wednesday morning, the first member of Congress to officially request leveling charges against the President from the House floor.

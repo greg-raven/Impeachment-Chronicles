@@ -1,11 +1,7 @@
 ---
-id: 666
 title: 'AG Barr on Spygate probe: ‘One of the greatest travesties in American history’ was committed against Donald Trump'
 date: '2020-04-10T05:47:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=666'
-permalink: /2020/04/10/ag-barr-on-spygate-probe-one-of-the-greatest-travesties-in-american-history-was-committed-against-donald-trump/
 ---
 
 (TNS) Attorney General William Barr gave a wide-ranging interview to Fox News’ Laura Ingraham on Wednesday, in which he discussed a great many things and provided lots of insight into various subjects.

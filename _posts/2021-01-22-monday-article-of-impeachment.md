@@ -1,11 +1,7 @@
 ---
-id: 1079
 title: 'Monday Article of Impeachment'
 date: '2021-01-22T13:43:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1079'
-permalink: /2021/01/22/monday-article-of-impeachment/
 ---
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> On Monday The House will send an Article of Impeachment to The Senate which will charge Donald Trump with an open and shut case of inciting Insurrection. Every Senator will have to decide whether they will uphold the Constitution and convict or drive a stake into Democracy.

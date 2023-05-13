@@ -1,11 +1,7 @@
 ---
-id: 452
 title: 'Today we delivered over 850,000 signatures to Congress calling for an impeachment investigation'
 date: '2017-02-16T09:58:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=452'
-permalink: /2017/02/16/today-we-delivered-over-850000-signatures-to-congress-calling-for-an-impeachment-investigation/
 ---
 
 Wow! This is Amazing!

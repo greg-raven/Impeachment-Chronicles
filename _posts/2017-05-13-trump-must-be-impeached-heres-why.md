@@ -1,11 +1,7 @@
 ---
-id: 483
 title: 'Trump must be impeached. Here’s why.'
 date: '2017-05-13T10:22:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=483'
-permalink: /2017/05/13/trump-must-be-impeached-heres-why/
 ---
 
 The time has come for Congress to launch an impeachment investigation of President Trump for obstruction of justice.

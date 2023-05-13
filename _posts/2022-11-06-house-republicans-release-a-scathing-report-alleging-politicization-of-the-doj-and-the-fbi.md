@@ -1,11 +1,7 @@
 ---
-id: 1167
 title: 'House Republicans release a scathing report alleging politicization of the DOJ and the FBI'
 date: '2022-11-06T08:07:39-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1167'
-permalink: /2022/11/06/house-republicans-release-a-scathing-report-alleging-politicization-of-the-doj-and-the-fbi/
 ---
 
 On Friday, the Republicans on the House Judiciary Committee released [1,050 page report](https://republicans-judiciary.house.gov/wp-content/uploads/2022/11/HJC_STAFF_FBI_REPORT.pdf) detailing the claims made by myriad whistleblowers at the Federal Bureau of Investigation about the abuse of power and politicization of the nation’s foremost law enforcement authority.
@@ -20,13 +16,9 @@ The whistleblowers describe the FBI’s D.C. leadership as “rotted at its core
 
 The whistleblowers allege that “the FBI prioritizes investigations and uses differing tactics based on political considerations—using aggressive tactics against political opponents of the Biden Administration while going softer on, or outright ignoring, allegations against the Administration’s political allies.”
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The Federal Bureau of Investigation, under the stewardship of Director Christopher Wray and Attorney General Merrick Garland, is broken.   
->   
-> Read our 1,000 page report on just how bad it is. <https://t.co/fKmSYWBdLb>
-> 
-> — Rep. Jim Jordan (@Jim\_Jordan) [November 4, 2022](https://twitter.com/Jim_Jordan/status/1588491175178403842?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Federal Bureau of Investigation, under the stewardship of Director Christopher Wray and Attorney General Merrick Garland, is broken. <br><br>Read our 1,000 page report on just how bad it is. <a href="https://t.co/fKmSYWBdLb">https://t.co/fKmSYWBdLb</a></p>&mdash; Rep. Jim Jordan (@Jim_Jordan) <a href="https://twitter.com/Jim_Jordan/status/1588491175178403842?ref_src=twsrc%5Etfw">November 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>The reports reveal that investigations into the Trump campaign and its associates were based on information from left-wing organizations. However, the nature of the sources was diluted in an official memo seeking probes, and the probe was approved by the FBI leadership.
+The reports reveal that investigations into the Trump campaign and its associates were based on information from left-wing organizations. However, the nature of the sources was diluted in an official memo seeking probes, and the probe was approved by the FBI leadership.
 
 The report slams the FBI for abusing its authority under the Foreign Intelligence Surveillance Act to spy on US citizens associated with Donald Trump’s 2016 campaign.
 
@@ -65,7 +57,7 @@ There are other revelations that the FBI seems less focused on serious crime. On
 How did the FBI react? The FBI appeared to dismiss the report in the following statement released on Friday night:
 
 > “The FBI has testified to Congress and responded to letters from legislators on numerous occasions to provide an accurate accounting of how we do our work. The men and women of the FBI devote themselves to protecting the American people from terrorism, violent crime, cyber threats, and other dangers.
-> 
+>
 > “We follow the facts without regard for politics. While outside opinions and criticism often come with the job, we will continue to follow the facts wherever they lead, do things by the book, and speak through our work.”
 
 So what do we make of all this?

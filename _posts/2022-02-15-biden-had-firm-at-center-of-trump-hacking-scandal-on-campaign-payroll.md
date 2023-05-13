@@ -1,11 +1,7 @@
 ---
-id: 1159
 title: 'Biden had firm at center of Trump hacking scandal on campaign payroll'
 date: '2022-02-15T05:52:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1159'
-permalink: /2022/02/15/biden-had-firm-at-center-of-trump-hacking-scandal-on-campaign-payroll/
 ---
 
 - Neustar Information Services executive allegedly wanted Clinton administration post

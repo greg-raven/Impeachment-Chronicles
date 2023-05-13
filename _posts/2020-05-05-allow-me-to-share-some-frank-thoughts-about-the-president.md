@@ -1,11 +1,7 @@
 ---
-id: 1121
 title: 'Allow me to share some frank thoughts about the ‘president’'
 date: '2020-05-05T15:44:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1121'
-permalink: /2020/05/05/allow-me-to-share-some-frank-thoughts-about-the-president/
 ---
 
 The orangutan in the White House is less refined than a savage. He is a fool, an irresolute, vacillating imbecile. He is an idiot, of low intellectual capacity. He is a barbarian, a yahoo, a gorilla — the original gorilla — and an unshapely man. He is horrid-looking, a scoundrel, a creature fit, evidently, for petty treasons.

@@ -1,11 +1,7 @@
 ---
-id: 330
 title: '‘The Typhoid Mary of Disinformation’: Nicolle Wallace. Nobody Spreads it More Relentlessly.'
 date: '2022-05-19T14:24:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=330'
-permalink: /2022/05/19/the-typhoid-mary-of-disinformation-nicolle-wallace-nobody-spreads-it-more-relentlessly/
 ---
 
 - From her days as Bush/Cheney propagandist, to her stint on The View, to her role as beloved-by-Democrats MSNBC host, Wallace has perfected the art of sociopathic lying. Watch our original video.

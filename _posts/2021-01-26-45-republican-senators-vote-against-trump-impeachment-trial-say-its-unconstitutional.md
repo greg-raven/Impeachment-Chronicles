@@ -1,11 +1,7 @@
 ---
-id: 784
 title: '45 Republican Senators vote against Trump impeachment trial, say it’s unconstitutional'
 date: '2021-01-26T12:28:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=784'
-permalink: /2021/01/26/45-republican-senators-vote-against-trump-impeachment-trial-say-its-unconstitutional/
 ---
 
 Forty-five Republican senators voted against holding an impeachment trial of former President Donald Trump over his remarks at the U.S. Capitol, saying it would be unconstitutional to impeach a former president.

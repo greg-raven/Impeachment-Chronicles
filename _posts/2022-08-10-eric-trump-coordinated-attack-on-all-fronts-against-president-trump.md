@@ -1,11 +1,7 @@
 ---
-id: 919
 title: 'Eric Trump: ‘Coordinated attack on all fronts’ against President Trump'
 date: '2022-08-10T22:59:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=919'
-permalink: /2022/08/10/eric-trump-coordinated-attack-on-all-fronts-against-president-trump/
 ---
 
 Eric Trump, Executive Vice President of the Trump Organization, criticized the Biden Administration, claiming the 46th President had knowledge of the FBI raid at Mar-a-Lago Monday evening.

@@ -1,11 +1,7 @@
 ---
-id: 927
 title: 'Mega-thread shows that WaPo didn’t always have an aversion to Nazi comparisons and terms like ‘banana republic’'
 date: '2022-08-15T23:02:00-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=927'
-permalink: /2022/08/15/mega-thread-shows-that-wapo-didnt-always-have-an-aversion-to-nazi-comparisons-and-terms-like-banana-republic/
 ---
 
 This might shock you, but the Washington Post has been spotted having some evolving standards when it comes to hyperbolic rhetoric to describe presidential administrations and government agencies:

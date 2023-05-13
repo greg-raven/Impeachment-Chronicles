@@ -1,25 +1,22 @@
 ---
-id: 1375
 title: 'They’ll never stop going after Trump'
 date: '2023-03-28T09:02:06-07:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1375'
-permalink: /2023/03/28/theyll-never-stop-going-after-trump/
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> First, it was the Steele Dossier.   
->   
-> Then it was the Mueller probe.   
->   
-> Then it was impeachment.   
->   
-> Then it was classified documents.   
->   
-> Now it’s his business records?   
->   
+> First, it was the Steele Dossier.
+>
+> Then it was the Mueller probe.
+>
+> Then it was impeachment.
+>
+> Then it was classified documents.
+>
+> Now it’s his business records?
+>
 > They’ll never stop going after President Trump.
-> 
-> — Rep. Jim Jordan (@Jim\_Jordan) [March 28, 2023](https://twitter.com/Jim_Jordan/status/1640820463420182530?ref_src=twsrc%5Etfw)
+>
+> <cite>Rep. Jim Jordan (@Jim\_Jordan), via Twitter</cite>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First, it was the Steele Dossier. <br><br>Then it was the Mueller probe. <br><br>Then it was impeachment. <br><br>Then it was classified documents. <br><br>Now it’s his business records? <br><br>They’ll never stop going after President Trump.</p>&mdash; Rep. Jim Jordan (@Jim_Jordan) <a href="https://twitter.com/Jim_Jordan/status/1640820463420182530?ref_src=twsrc%5Etfw">March 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

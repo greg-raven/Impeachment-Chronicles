@@ -1,11 +1,7 @@
 ---
-id: 1033
 title: '‘Donald Trump has committed the single worst crime in presidential history’'
 date: '2022-02-17T09:35:00-08:00'
-author: 'Trump 2020'
 layout: post
-guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1033'
-permalink: /2022/02/17/donald-trump-has-committed-the-single-worst-crime-in-presidential-history/
 ---
 
 Rob Reiner, the actor who played “Meathead” on “All in the Family,” sent out a tweet on Wednesday claiming that former President Donald Trump “has committed the single worst crime in presidential history.”
