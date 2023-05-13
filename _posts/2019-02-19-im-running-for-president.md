@@ -5,7 +5,9 @@ layout: post
 ---
 
 > “Donald Trump, the most dangerous president in modern American history \[…\] We are running against a president who is a pathological liar, a fraud, a racist, a sexist, a xenophobe, and someone who is undermining American democracy as he leads us in an authoritarian direction.”
-> 
+>
 > <cite>Bernie Sanders</cite>
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="473" src="https://www.youtube.com/embed/s7DRwz0cAt0?feature=oembed" title="I'm Running For President" width="840"></iframe></div></figure>Source: YouTube
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s7DRwz0cAt0" title="I’m running for president" frameborder="0"></iframe>
+
+Source: YouTube
