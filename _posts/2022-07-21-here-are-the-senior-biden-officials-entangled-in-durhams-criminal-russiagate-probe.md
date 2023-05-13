@@ -166,4 +166,4 @@ Patel warned that too many of the people who “abused their power” in the Rus
 
 “A lot of these Russiagate conspirators are back recycled in the Biden administration,” said Patel, who recently published a book related to the Russiagate scandal, “The Plot Against the King.” “They must be held accountable or they’ll only abuse their power again.”
 
-Source: Paul Sperry, www.realclearinvestigations.com/articles/2022/07/21/here\_are\_the\_senior\_biden\_officials\_entangled\_in\_durhams\_criminal\_russiagate\_probe\_843308.html
+Source: Paul Sperry, realclearinvestigations.com/articles/2022/07/21/here\_are\_the\_senior\_biden\_officials\_entangled\_in\_durhams\_criminal\_russiagate\_probe\_843308.html

@@ -38,4 +38,4 @@ But the American people, Democrats and Republicans alike, do care. The fainthear
 
 Senate Republicans owe us the courage of their private convictions. If they can’t find it, they should at least be wary of assuming that cultlike devotion to the president will allow them to weather the coming storm, or that, in the end, they will be rewarded for a faithless calculation to regard their constituents with contempt.
 
-Source: Will Wilkinson, www.nytimes.com/2019/10/01/opinion/trump-impeachment-2020.html
+Source: Will Wilkinson, nytimes.com/2019/10/01/opinion/trump-impeachment-2020.html

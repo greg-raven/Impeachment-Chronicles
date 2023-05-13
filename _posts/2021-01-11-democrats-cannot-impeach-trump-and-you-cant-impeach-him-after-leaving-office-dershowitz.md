@@ -28,4 +28,4 @@ Housing and Urban Development Secretary Ben Carson, a member of his cabinet, dis
 
 “As a Nation we need to heal. I have not talked to anyone about invoking the 25th Amendment, and I am focused on finishing what I started in uplifting the forgotten women and men of America. It’s time to move toward peace. We are not each other’s enemies!” he wrote.
 
-Source: Jack Phillips, www.theepochtimes.com/democrats-cannot-impeach-trump-and-you-cant-impeach-him-after-leaving-office-dershowitz\_3650853.html
+Source: Jack Phillips, theepochtimes.com/democrats-cannot-impeach-trump-and-you-cant-impeach-him-after-leaving-office-dershowitz\_3650853.html

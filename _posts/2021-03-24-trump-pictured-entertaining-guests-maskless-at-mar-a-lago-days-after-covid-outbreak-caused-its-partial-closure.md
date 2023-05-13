@@ -31,4 +31,4 @@ The Daily Beast reported that the outbreak came after several groups held partie
 
 A 500-person fundraiser for the charity Place of Hope is currently scheduled to go ahead on Sunday, Insider’s Sarah Al-Arshani reported.
 
-Source: Thomas Colson, www.businessinsider.com/donald-trump-guests-mar-a-lago-covid-outbreak-2021-3
+Source: Thomas Colson, businessinsider.com/donald-trump-guests-mar-a-lago-covid-outbreak-2021-3

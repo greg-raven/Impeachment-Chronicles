@@ -38,4 +38,4 @@ During the press conference, Trump was one of the only people in the Rose Garden
 
 Last week, the coronavirus began to break out in the White House as two aides tested positive for the disease.
 
-Source: Mollie Mansfield, www.thesun.co.uk/news/11626416/trump-maskless-factory-tour-pennsylvania/
+Source: Mollie Mansfield, thesun.co.uk/news/11626416/trump-maskless-factory-tour-pennsylvania/

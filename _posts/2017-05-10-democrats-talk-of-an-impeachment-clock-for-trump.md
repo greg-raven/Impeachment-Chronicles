@@ -46,4 +46,4 @@ Asked whether he was declining to support impeachment, Perez demurred.
 
 “I’d like to know what the facts are,” he said. “And the best way to know the facts is to have an independent investigation.”
 
-Source: Alex Roarty, www.mcclatchydc.com/news/politics-government/white-house/article149758184.html
+Source: Alex Roarty, mcclatchydc.com/news/politics-government/white-house/article149758184.html

@@ -68,4 +68,4 @@ As Winer’s connections with Russia and the Steele dossier emerge, Senate Homel
 
 “Among other issues, Mr. Winer’s admitted destruction of his records related to his contacts with Christopher Steele is concerning and deserves an explanation,” Johnson said. “I am looking forward to learning more from Mr. Winer in spite of Democrat attempts to further delay our investigation.”
 
-Source: Eric Felten, www.realclearinvestigations.com/articles/2020/08/25/top\_kerry\_aide\_key\_conduit\_for\_dossier\_worked\_for\_russian\_oligarch\_as\_did\_steele\_124962.html
+Source: Eric Felten, realclearinvestigations.com/articles/2020/08/25/top\_kerry\_aide\_key\_conduit\_for\_dossier\_worked\_for\_russian\_oligarch\_as\_did\_steele\_124962.html

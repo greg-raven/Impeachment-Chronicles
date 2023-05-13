@@ -16,4 +16,4 @@ Rep. Don Beyer (D-8th) announced on Jan. 16 that he would also not attend the in
 
 Connolly and Beyer are the only congressmen from Virginia to publicly boycott Trump’s inauguration so far, but they join at least 50 others from around the country in rebuking the president-elect’s swearing-in ceremony on Jan. 20.
 
-Source: Alex Koma, www.insidenova.com/headlines/rep-gerry-connolly-announces-he-will-not-attend-inauguration/article\_1748dcf0-dd94-11e6-9f1a-0f135a6851ed.html
+Source: Alex Koma, insidenova.com/headlines/rep-gerry-connolly-announces-he-will-not-attend-inauguration/article\_1748dcf0-dd94-11e6-9f1a-0f135a6851ed.html

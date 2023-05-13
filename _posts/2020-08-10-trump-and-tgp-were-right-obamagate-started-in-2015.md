@@ -96,4 +96,4 @@ So we now know that Joseph Mifsud, the same individual that spied on George Papa
 
 Thank you President Trump for retweeting our report. Time proved us right again.
 
-Source: Joe Hoft, www.thegatewaypundit.com/2020/08/trump-tgp-right-obamagate-started-2015-judicial-watch-provides-support-today/
+Source: Joe Hoft, thegatewaypundit.com/2020/08/trump-tgp-right-obamagate-started-2015-judicial-watch-provides-support-today/

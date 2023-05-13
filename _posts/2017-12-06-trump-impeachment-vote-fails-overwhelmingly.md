@@ -30,4 +30,4 @@ Green’s articles of impeachment cite Trump’s remarks in the aftermath of a w
 
 “Friends, whether we like it or not, we now have a bigot in the White House who incites hatred and hostility,” he wrote in a letter to colleagues on Tuesday.
 
-Source: Kyle Cheney, www.politico.com/story/2017/12/06/trump-impeachment-vote-fail-282888
+Source: Kyle Cheney, politico.com/story/2017/12/06/trump-impeachment-vote-fail-282888

@@ -20,4 +20,4 @@ Impeachment requires the support of a majority of members of the House of Repres
 
 CNN’s Andrew Kaczynski contributed to this report.
 
-Source: Miranda Green, www.cnn.com/2017/05/17/politics/al-green-impeachment-call/index.html
+Source: Miranda Green, cnn.com/2017/05/17/politics/al-green-impeachment-call/index.html

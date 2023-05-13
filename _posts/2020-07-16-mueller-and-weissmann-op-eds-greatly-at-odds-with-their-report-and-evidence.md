@@ -54,4 +54,4 @@ Stone’s January 2019 indictment appeared to be the Mueller probe’s final act
 
 Weissmann and Mueller’s new public statements about Stone and the Russia investigation are only the latest in a series of contributions to the collusion narrative. In response, Senate Judiciary Chairman Lindsey Graham has said that he will seek Mueller’s testimony. If Weissmann is summoned as well, this would be a critical opportunity, through sworn testimony under penalty of perjury, to get to the bottom of claims about the Russia investigation – although perhaps not the ones that the prosecutors behind it want the public to focus on.
 
-Source: Aaron Mate, www.realclearinvestigations.com/articles/2020/07/16/mueller\_and\_weissmann\_op-eds\_greatly\_at\_odds\_with\_their\_report\_and\_evidence\_124483.html
+Source: Aaron Mate, realclearinvestigations.com/articles/2020/07/16/mueller\_and\_weissmann\_op-eds\_greatly\_at\_odds\_with\_their\_report\_and\_evidence\_124483.html

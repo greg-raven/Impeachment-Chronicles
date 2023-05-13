@@ -76,4 +76,4 @@ There is no “media virus” inserted into American public life that has done m
 
 Accordingly, if Harding’s story is evidence of anything, it is of the absurdity of a Russiagate narrative that was once treated as gospel when establishment media deemed it politically and financially expedient. The fact that it has now been shunned by the same outlets that would have previously treated it as a “bombshell” suggests that it may have finally outlived its utility.
 
-Source: Aaron Maté, www.realclearinvestigations.com/articles/2021/07/29/opinion\_a\_fresh\_reminder\_of\_russiagates\_fallen\_guardians\_of\_integrity\_787364.html
+Source: Aaron Maté, realclearinvestigations.com/articles/2021/07/29/opinion\_a\_fresh\_reminder\_of\_russiagates\_fallen\_guardians\_of\_integrity\_787364.html

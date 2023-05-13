@@ -18,6 +18,6 @@ In conclusion, should Donald Trump not be stopped, Earth would become inhabitabl
 
 Side note: If you always believed in the end of the world, it would happen sooner than you realise, so at least try to stop it, so your children would be able to see the light of day.
 
-Source: Impeach Trump, www.change.org/p/impeach-donald-j-trump
+Source: Impeach Trump, change.org/p/impeach-donald-j-trump
 
 \[Webmaster note: Date approximate.\]

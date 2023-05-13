@@ -56,4 +56,4 @@ The remedy is to keep speaking up, work for electoral reform to restore free and
 
 In the meantime, typesetters, cue up your asterisks. You might need them.
 
-Source: Virginia Heffernan, www.latimes.com/opinion/op-ed/la-oe-heffernan-trump-illegitimate-20180728-story.html
+Source: Virginia Heffernan, latimes.com/opinion/op-ed/la-oe-heffernan-trump-illegitimate-20180728-story.html

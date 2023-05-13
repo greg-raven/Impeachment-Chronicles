@@ -20,6 +20,6 @@ Tlaib came under swift criticism from Republicans and what the new Democratic pa
 
 \[…\]
 
-Source: Luke O’Neil, www.theguardian.com/us-news/2019/jan/04/democrats-congress-trump-impeach-rashida-tlaib
+Source: Luke O’Neil, theguardian.com/us-news/2019/jan/04/democrats-congress-trump-impeach-rashida-tlaib
 
 See also: www.cnn.com/2019/01/04/politics/rashida-tlaib-trump-impeachment-comments/index.html

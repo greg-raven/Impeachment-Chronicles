@@ -20,4 +20,4 @@ But with the need for buy-in from Vice President Pence even under the Raskin ame
 
 But as the economy cools and the presidential race heats up, the expectation is that Trump will become more unhinged. “2020 is going to be worse on many fronts,” Bandy X. Lee, a forensic psychiatrist and an expert on societal violence at Yale School of Medicine, told me. “We will be paying a lot of attention to other candidates rather than him. Even negative attention is better than no attention because he has shown no ability to hold himself together on his own. He needs the external attention to even have a sense of self.”
 
-Source: Abigail Tracy, www.vanityfair.com/news/2019/09/25th-amendment-donald-trump
+Source: Abigail Tracy, vanityfair.com/news/2019/09/25th-amendment-donald-trump

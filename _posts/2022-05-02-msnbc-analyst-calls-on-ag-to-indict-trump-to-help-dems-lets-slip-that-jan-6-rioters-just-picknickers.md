@@ -42,4 +42,4 @@ Greene says she doesn’t recall the message, which her lawyer has described as 
 
 Although MSNBC is admitting that Dems have an uphill reelection battle, Fox News host Tucker Carlson has separately implied that the helpful authorities could declare a public health emergency this fall to enable the Democrats to distribute more mail-in ballots for the vote.
 
-Source: Robert Jonathan, www.bizpacreview.com/2022/05/02/msnbc-analyst-calls-on-ag-to-indict-trump-to-help-dems-lets-slip-that-jan-6-rioters-just-picknickers-1233099/
+Source: Robert Jonathan, bizpacreview.com/2022/05/02/msnbc-analyst-calls-on-ag-to-indict-trump-to-help-dems-lets-slip-that-jan-6-rioters-just-picknickers-1233099/

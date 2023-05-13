@@ -98,4 +98,4 @@ Page said it’s “chilling” that the nation’s most powerful police force c
 
 Worse, he said, is how the FBI misled the secret FISA court. In a 2020 review of the applications, the powerful court determined that at least two of the surveillance warrants were invalid and therefore illegal. Page is now suing both the FBI and Justice Department for $75 million for violating his constitutional rights.
 
-Source: Paul Sperry, www.realclearinvestigations.com/articles/2022/05/04/to\_spy\_on\_a\_trump\_aide\_the\_fbi\_pursued\_a\_dossier\_rumor\_the\_press\_shot\_down\_as\_bullshit\_830170.html
+Source: Paul Sperry, realclearinvestigations.com/articles/2022/05/04/to\_spy\_on\_a\_trump\_aide\_the\_fbi\_pursued\_a\_dossier\_rumor\_the\_press\_shot\_down\_as\_bullshit\_830170.html

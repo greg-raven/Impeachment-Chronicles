@@ -20,4 +20,4 @@ As Todd told Lewis in the segment, the congressman’s statement is sure to “s
 
 Thousands of people are expected to protest Trump’s inauguration next Friday. Lewis, for his part, said he will not be attending the ceremony: “It will be the first one that I miss since I’ve been in Congress,” he said. “You cannot be at home with something that you feel that is wrong, is not right.”
 
-Source: Kyle Cheney, Josh Dawsey, and Rebecca Morin, www.politico.com/story/2017/01/john-lewis-donald-trump-not-legitimate-president-233607
+Source: Kyle Cheney, Josh Dawsey, and Rebecca Morin, politico.com/story/2017/01/john-lewis-donald-trump-not-legitimate-president-233607

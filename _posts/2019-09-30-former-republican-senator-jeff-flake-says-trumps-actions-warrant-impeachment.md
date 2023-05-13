@@ -32,4 +32,4 @@ But Flake urged Republicans to put “America first” instead of supporting a p
 
 “Trust me when I say that you can go elsewhere for a job. But you cannot go elsewhere for a soul,” Flake wrote.
 
-Source: Alexandra Hutzler, www.newsweek.com/jeff-flake-says-trump-impeachment-warranted-1462081
+Source: Alexandra Hutzler, newsweek.com/jeff-flake-says-trump-impeachment-warranted-1462081

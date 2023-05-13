@@ -38,6 +38,6 @@ Bishop Budde denounced the way the president held up a Bible during his visit, a
 
 The president has been an infrequent visitor to St. John’s, but attended a church service there on the day of his inauguration. Since his election, the church has been dragged into the backdrop of some of Mr. Trump’s most partisan fights. Last spring, Robert S. Mueller III, the special counsel who led the investigation surrounding the Trump campaign’s ties to Russian interference in the 2016 election, drew a gawking crowd outside St. John’s before his report was released.
 
-Source: Katie Rogers, www.nytimes.com/2020/06/01/us/politics/trump-st-johns-church-bible.html
+Source: Katie Rogers, nytimes.com/2020/06/01/us/politics/trump-st-johns-church-bible.html
 
 Maggie Haberman contributed reporting from New York.

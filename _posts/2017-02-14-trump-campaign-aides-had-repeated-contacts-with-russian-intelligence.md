@@ -64,4 +64,4 @@ On Tuesday, top Republican lawmakers said that Mr. Flynn should be one focus of 
 
 Mr. Warner said Mr. Flynn’s resignation would not stop the committee “from continuing to investigate General Flynn, or any other campaign official who may have had inappropriate and improper contacts with Russian officials prior to the election.”
 
-Source: Michael S. Schmidt, Mark, Mazzetti, and Matt Apuzzo, www.nytimes.com/2017/02/14/us/politics/russia-intelligence-communications-trump.html
+Source: Michael S. Schmidt, Mark, Mazzetti, and Matt Apuzzo, nytimes.com/2017/02/14/us/politics/russia-intelligence-communications-trump.html

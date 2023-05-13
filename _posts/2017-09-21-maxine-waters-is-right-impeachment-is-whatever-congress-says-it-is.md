@@ -12,11 +12,7 @@ Well, it sure seems like Rep. Maxine Waters (D-Calif.) is brushing up on her Con
 
 Waters, never a stranger to haters, predictably set Twitter on fire with her statements:
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Maxine Waters is wrong you can't impeach a President because you don't like him. Maxine maybe you should read the constitution.
->
-> — Terry West (@TerryWe33931124) [September 21, 2017](https://twitter.com/TerryWe33931124/status/910995640481714178?ref_src=twsrc%5Etfw)
-
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maxine Waters is wrong you can&#39;t impeach a President because you don&#39;t like him. Maxine maybe you should read the constitution.</p>&mdash; Terry West (@TerryWe33931124) <a href="https://twitter.com/TerryWe33931124/status/910995640481714178?ref_src=twsrc%5Etfw">September 21, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 > \#AskWatters just because mad Maxine Waters is black and a woman, does that give her a right to THINK she can impeach POTUS?
 >
@@ -30,7 +26,7 @@ Professor Feldman’s thesis isn’t the product of Trump-hating interpretative 
 
 The framers, as we all know, were hell-bent on making sure that the American president could not become tyrannical; a key facet to their planning was to give Congress the final word on whether the chief executive was carrying out his responsibilities with the requisite dignity befitting the office. Such an concept of impeachment may provide us significant discomfort in that it varies so profoundly from the criminal justice system, but that’s precisely the point. Impeachment is inherently a political process, not a criminal one. The numbers required for impeachment and conviction ensure that the process isn’t likely to oust a president who is merely unpopular; supermajorities aren’t easy to come by, and are inherent guards against arbitrary or capricious actions.
 
-Let’s remember that elections are not –and were never meant to be – sentences for the American people. We as a democracy should not be forced to endure a presidency that is proving to be malignant simply because an election preceded it. Whether Congress should impeach President Trump is a complex question; while I’m with Maxine, and would vote a resounding “yes,” that’s absolutely something on which reasonable minds could disagree. Impeachment is a painful ordeal for the entire country, and should never be undertaken lightly. However, the question of whether Congress could impeach 45 is far less uncertain. If Congress wishes to hold this president accountable for his approach to government, it can and should do so. Impeachment may well be the only way in which we as a people can reclaim our government. And as we’ve already seen, if anyone knows how to reclaim, it’s Maxine Waters.
+Let’s remember that elections are not – and were never meant to be – sentences for the American people. We as a democracy should not be forced to endure a presidency that is proving to be malignant simply because an election preceded it. Whether Congress should impeach President Trump is a complex question; while I’m with Maxine, and would vote a resounding “yes,” that’s absolutely something on which reasonable minds could disagree. Impeachment is a painful ordeal for the entire country, and should never be undertaken lightly. However, the question of whether Congress could impeach 45 is far less uncertain. If Congress wishes to hold this president accountable for his approach to government, it can and should do so. Impeachment may well be the only way in which we as a people can reclaim our government. And as we’ve already seen, if anyone knows how to reclaim, it’s Maxine Waters.
 
 This is an opinion piece. The views expressed in this article are those of just the author.
 

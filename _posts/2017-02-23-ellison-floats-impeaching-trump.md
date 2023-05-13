@@ -54,4 +54,4 @@ Ellison denied any deal-making, but said affectionately of his opponent, “If I
 
 Perez chimed in saying, “A unified party is not only our best hope, it’s Donald Trump’s worst nightmare.”
 
-Source: David Catanese, www.usnews.com/news/politics/articles/2017-02-23/keith-ellison-floats-impeaching-donald-trump-during-dnc-debate
+Source: David Catanese, usnews.com/news/politics/articles/2017-02-23/keith-ellison-floats-impeaching-donald-trump-during-dnc-debate

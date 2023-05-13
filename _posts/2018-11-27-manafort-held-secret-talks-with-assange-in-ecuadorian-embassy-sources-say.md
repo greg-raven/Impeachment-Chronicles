@@ -70,4 +70,4 @@ However, one source in Quito suggests that Manafort also discreetly raised Assan
 
 Last week a court filing released in error suggested that the U.S. justice department had secretly charged Assange with a criminal offense. Written by the assistant U.S. attorney, Kellen Dwyer, the document did not say what Assange had been charged with or when the alleged offence took place.
 
-Source: Luke Harding and Dan Collyns in Quito, www.theguardian.com/us-news/2018/nov/27/manafort-held-secret-talks-with-assange-in-ecuadorian-embassy
+Source: Luke Harding and Dan Collyns in Quito, theguardian.com/us-news/2018/nov/27/manafort-held-secret-talks-with-assange-in-ecuadorian-embassy

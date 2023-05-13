@@ -36,4 +36,4 @@ Trump, in a statement after Saturday’s vote, said Democrats are “given a fre
 
 He also said he always has, and will, champion “the unwavering rule of law, the heroes of law enforcement, and the right of Americans to peacefully and honorably debate the issues of the day without malice and without hate.”
 
-Source: Zachary Stieber, www.theepochtimes.com/trump-acquitted-in-second-impeachment-trial\_3695836.html
+Source: Zachary Stieber, theepochtimes.com/trump-acquitted-in-second-impeachment-trial\_3695836.html

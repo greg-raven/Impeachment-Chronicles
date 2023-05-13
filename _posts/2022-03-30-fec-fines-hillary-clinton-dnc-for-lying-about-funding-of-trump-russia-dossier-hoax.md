@@ -42,4 +42,4 @@ The FEC noted that neither the Clinton campaign nor the DNC conceded to lying in
 
 “Solely for the purpose of settling this matter expeditiously and to avoid further legal costs, respondent does not concede, but will not further contest the commission’s finding of probable cause to believe,” each said, according to the memo.
 
-Source: Phil Shiver, www.theblaze.com/news/fec-fines-hillary-clinton-dnc-over-steele-dossier-funding
+Source: Phil Shiver, theblaze.com/news/fec-fines-hillary-clinton-dnc-over-steele-dossier-funding

@@ -34,4 +34,4 @@ Several law experts — namely Harvard Law professor Alan Dershowitz — have sa
 
 “It will be unconstitutional, but that probably won’t bother the senators,” Dershowitz told Fox News earlier this month. “The Constitution is very clear. The subject, the object, the purpose of impeachment is to remove a sitting president. And there are two precedents. One is very obvious. When President Nixon resigned in anticipation of being impeached and removed, there was no effort to impeach him after he left office.”
 
-Source: Jack Phillips, www.theepochtimes.com/only-5-gop-senators-vote-saying-trump-impeachment-trial-is-constitutional\_3672649.html
+Source: Jack Phillips, theepochtimes.com/only-5-gop-senators-vote-saying-trump-impeachment-trial-is-constitutional\_3672649.html

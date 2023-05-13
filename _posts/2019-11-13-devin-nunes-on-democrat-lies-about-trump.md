@@ -56,4 +56,4 @@ By undermining the President who they are supposed to be serving, elements of th
 
 This spectacle is doing great damage to our country. It’s nothing more than an impeachment process in search of a crime.
 
-<figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="autoplay; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="472" src="https://player.vimeo.com/video/781507704?h=39a360e6b2&dnt=1&app_id=122963" title="Devin Nunes on Adam Schiff" width="840"></iframe></div></figure>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/781507704?h=39a360e6b2" width="640" height="360"></iframe>

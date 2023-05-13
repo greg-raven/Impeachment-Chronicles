@@ -36,4 +36,4 @@ Former DNI James Clapper told the paper that he stands by the statement “made 
 
 “The letter explicitly stated that we didn’t know if the emails were genuine, but that we were concerned about Russian disinformation efforts,” said Russ Travers, former acting director of the National Counterterrorism Center. “I spent 25 years as a Soviet/Russian analyst. Given the context of what the Russians were doing at the time (and continue to do—Ukraine being just the latest example), I considered the cautionary warning to be prudent.”
 
-Source: Zachary Stieber, www.theepochtimes.com/cia-officer-who-signed-hunter-biden-laptop-letter-claims-credit-for-trump-loss\_4369180.html
+Source: Zachary Stieber, theepochtimes.com/cia-officer-who-signed-hunter-biden-laptop-letter-claims-credit-for-trump-loss\_4369180.html

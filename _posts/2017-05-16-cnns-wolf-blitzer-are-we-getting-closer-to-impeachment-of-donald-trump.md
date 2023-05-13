@@ -12,4 +12,4 @@ The White House denies the report.
 
 “Reluctantly, Wolf, I have to say yes simply because obstruction of justice is such a serious offense,” King responded.
 
-Source: Ian Schwartz, www.realclearpolitics.com/video/2017/05/16/cnn\_wolf\_blitzer\_are\_we\_moving\_toward\_impeachment\_of\_trump.html
+Source: Ian Schwartz, realclearpolitics.com/video/2017/05/16/cnn\_wolf\_blitzer\_are\_we\_moving\_toward\_impeachment\_of\_trump.html

@@ -76,4 +76,4 @@ Tellingly, Lisa Page also personally briefed Mueller about the FBI’s investiga
 
 Page did not return requests for comment through her Washington attorney.
 
-Source: Paul Sperry, www.realclearinvestigations.com/articles/2022/06/09/fbi\_chief\_comey\_misled\_congresss\_gang\_of\_8\_over\_russiagate\_lisa\_page\_memo\_reveals\_836434.html
+Source: Paul Sperry, realclearinvestigations.com/articles/2022/06/09/fbi\_chief\_comey\_misled\_congresss\_gang\_of\_8\_over\_russiagate\_lisa\_page\_memo\_reveals\_836434.html

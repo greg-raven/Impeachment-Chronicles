@@ -30,4 +30,4 @@ The 25th Amendment of the Constitution stipulates presidential succession. Howev
 
 However, according to the Constitution, only Vice President Mike Pence can trigger the involuntary removal of Trump. If the president challenges Pence’s move, then he would have to gain the support of the majority of Trump’s cabinet as well as a supermajority in the House of Representatives and the Senate. Congress can also form a body approved “by law” to agree that “the President is unable to discharge the powers and duties of his office,” according to the Constitution.
 
-Source: Jack Phillips, www.theepochtimes.com/pelosi-democrats-pelosi-introducing-bill-to-create-commission-on-presidential-capacity\_3531906.html
+Source: Jack Phillips, theepochtimes.com/pelosi-democrats-pelosi-introducing-bill-to-create-commission-on-presidential-capacity\_3531906.html

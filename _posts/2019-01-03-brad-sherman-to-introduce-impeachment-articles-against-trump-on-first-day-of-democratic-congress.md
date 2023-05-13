@@ -32,4 +32,4 @@ That statement appears at odds with previous comments made by incoming House Jud
 
 Mueller’s probe has yielded dozens of indictments, seven guilty pleas, and one conviction, including top officials on Trump’s 2016 campaign team.
 
-Source: Griffin Connolly, www.rollcall.com/2019/01/03/brad-sherman-to-introduce-impeachment-articles-against-trump-on-first-day-of-democratic-congress/
+Source: Griffin Connolly, rollcall.com/2019/01/03/brad-sherman-to-introduce-impeachment-articles-against-trump-on-first-day-of-democratic-congress/

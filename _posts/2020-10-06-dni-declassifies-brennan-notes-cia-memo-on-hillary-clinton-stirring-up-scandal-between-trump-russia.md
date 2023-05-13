@@ -84,4 +84,4 @@ Attorney General Bill Barr last year appointed U.S. Attorney of Connecticut John
 
 It is unclear whether this information will be considered part of Durham’s investigation.
 
-Source: Brooke Singman, www.foxnews.com/politics/dni-brennan-notes-cia-memo-clinton
+Source: Brooke Singman, foxnews.com/politics/dni-brennan-notes-cia-memo-clinton

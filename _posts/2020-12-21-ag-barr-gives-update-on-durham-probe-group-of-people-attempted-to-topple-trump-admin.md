@@ -32,4 +32,4 @@ Barr weighed in on his decision to not divulge information that Joe Biden’s so
 
 “Think about the power it would give the federal bureaucracy,” Barr said. “The standard for investigating someone is low. So just gin up an investigation, make it public, affect every election.”
 
-Source: Ryan Saavedra, www.dailywire.com/news/ag-barr-suggests-group-of-people-attempted-to-topple-trump-admin
+Source: Ryan Saavedra, dailywire.com/news/ag-barr-suggests-group-of-people-attempted-to-topple-trump-admin

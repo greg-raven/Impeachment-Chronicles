@@ -16,6 +16,6 @@ Vindman, who has been on a media tour to promote a new book, was an important wi
 
 Vindman was fired by the National Security Council and escorted off the White House grounds on Feb. 7, 2020, only two days after Trump was acquitted.
 
-Source: Brian Flood, www.foxnews.com/media/impeachment-witness-vindman-says-trump-is-to-blame-for-over-600k-covid-deaths
+Source: Brian Flood, foxnews.com/media/impeachment-witness-vindman-says-trump-is-to-blame-for-over-600k-covid-deaths
 
 Fox News’ Brooke Singman contributed to this report.

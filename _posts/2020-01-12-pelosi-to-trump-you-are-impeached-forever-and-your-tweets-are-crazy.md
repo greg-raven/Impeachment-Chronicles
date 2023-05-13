@@ -16,4 +16,4 @@ Additionally, she made an unusual comparison between the Trump impeachment and t
 
 Comparisons with the former head of her own party did not extend far, however. Her concluding remarks about Trump stated that his “crossing the line in Ukraine violated the Constitution in such a way that can’t be ignored.” She also referred to his “crazy tweets” and added that “when he calls someone crazy, he knows that he is.”
 
-Source: Jordan Hoffman, www.vanityfair.com/news/2020/01/pelosi-to-trump-you-are-impeached-forever-and-your-tweets-are-crazy
+Source: Jordan Hoffman, vanityfair.com/news/2020/01/pelosi-to-trump-you-are-impeached-forever-and-your-tweets-are-crazy

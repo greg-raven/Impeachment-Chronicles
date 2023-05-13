@@ -20,4 +20,4 @@ She added that she would “trust the word of public health officials and scient
 
 Senator John Barrasso, Republican of Wyoming, called Harris’s comment “her most irresponsible statement of all” in an appearance on Fox News Channel’s “Sunday Morning Futures.”
 
-Source: Sydney Maki, www.bloomberg.com/news/articles/2020-09-05/harris-says-she-won-t-take-trump-s-word-on-vaccine-efficacy
+Source: Sydney Maki, bloomberg.com/news/articles/2020-09-05/harris-says-she-won-t-take-trump-s-word-on-vaccine-efficacy

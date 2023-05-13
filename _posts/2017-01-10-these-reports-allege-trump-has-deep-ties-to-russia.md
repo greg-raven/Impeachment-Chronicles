@@ -21,7 +21,7 @@ The Trump administration’s transition team did not immediately respond to Buzz
 And Trump shot back against the reports a short time later on Twitter.
 
 > FAKE NEWS — A TOTAL POLITICAL WITCH HUNT! — Donald J. Trump (@realDonaldTrump) January 11, 2017
-> 
+>
 > <cite>twitter.com/realDonaldTrump/status/818990655418617856</cite>
 
 His former campaign manager and current senior White House adviser, Kellyanne Conway, also denied the claims during an appearance on Late Night With Seth Meyers, adding that “nothing has been confirmed.” She also said Trump was “not aware” of any briefing on the matter.
@@ -30,4 +30,4 @@ The documents have circulated for months and acquired a kind of legendary status
 
 Harry Reid spokesman Adam Jentleson tweeted Tuesday that the former Senate Democratic leader had seen the documents before writing a public letter to FBI Director James Comey about Trump’s ties to Russia. And CNN reported Tuesday that Arizona Republican John McCain gave a “full copy” of the memos to Comey on Dec. 9, but that the FBI already had copies of many of the memos.
 
-Source: Ken Bensinger, Miriam Elder, and Mark Schoofs, www.buzzfeednews.com/article/kenbensinger/these-reports-allege-trump-has-deep-ties-to-russia
+Source: Ken Bensinger, Miriam Elder, and Mark Schoofs, buzzfeednews.com/article/kenbensinger/these-reports-allege-trump-has-deep-ties-to-russia

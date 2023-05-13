@@ -34,4 +34,4 @@ Should an impeachment procedure be initiated, Democrats will likely focus on Tru
 
 The Epoch Times has reached out to the White House comment.
 
-Source: Jack Phillips, www.theepochtimes.com/top-house-democrat-resolution-will-be-introduced-to-charge-trump-with-inciting-sedition\_3650716.html
+Source: Jack Phillips, theepochtimes.com/top-house-democrat-resolution-will-be-introduced-to-charge-trump-with-inciting-sedition\_3650716.html

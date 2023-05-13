@@ -58,4 +58,4 @@ The impeachment follows an unprecedented wave of censorship against the presiden
 
 Jordan said: “It’s not about impeachment anymore. It’s about canceling the president and anyone that disagrees with them.”
 
-Source: Ivan Pentchoukov, www.theepochtimes.com/democrats-nine-republicans-impeach-trump-again\_3655278.html
+Source: Ivan Pentchoukov, theepochtimes.com/democrats-nine-republicans-impeach-trump-again\_3655278.html

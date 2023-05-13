@@ -48,4 +48,4 @@ Most groups advising the federal government on a vaccine distribution plan have 
 
 CNN’s Jim Acosta and Matthew Hoye contributed to this report.
 
-Source: Maggie Fox and Nikki Carvajal, www.cnn.com/2020/09/18/health/trump-coronavirus-vaccine-april-promise-bn/index.html
+Source: Maggie Fox and Nikki Carvajal, cnn.com/2020/09/18/health/trump-coronavirus-vaccine-april-promise-bn/index.html

@@ -24,4 +24,4 @@ Meanwhile, the New York Times reported Monday that Barr instructed a federal pro
 
 Biden is one of more than 20 Democrats running to secure the Democratic nomination.
 
-Source: Diana Stancey Correll, www.washingtonexaminer.com/news/biden-agrees-with-woman-who-says-trump-is-an-illegitimate-president
+Source: Diana Stancey Correll, washingtonexaminer.com/news/biden-agrees-with-woman-who-says-trump-is-an-illegitimate-president

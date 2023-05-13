@@ -26,4 +26,4 @@ In September, former Sen. Jeff Flake said that 35 Republican senators would vote
 
 If the anguished Republicans acquit the president, as seems likely, they’ll get the godfather’s (and McConnell’s) invaluable blessing and, with any luck, be re-elected. But the dynamism the party once showed, when it dared to condemn Trump in 2016, is gone. In more courageous days, Republicans started this impeachment. Too bad they won’t see it through.
 
-Source: Virginia Heffernan, www.latimes.com/opinion/story/2020-01-23/impeachment-donald-trump-republican-party-trial
+Source: Virginia Heffernan, latimes.com/opinion/story/2020-01-23/impeachment-donald-trump-republican-party-trial

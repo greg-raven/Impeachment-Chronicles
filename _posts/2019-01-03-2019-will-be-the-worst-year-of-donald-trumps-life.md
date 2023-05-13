@@ -44,4 +44,4 @@ Both Clinton and Nixon faced impeachment proceedings. The House Judiciary Commit
 
 I’m betting that, in the end, Trump resigns and gets an advance pardon for himself and his children. That may not happen until 2020, but in the meantime, 2019 will be the worst year of his life.
 
-Source: Jon Weiner, www.latimes.com/opinion/op-ed/la-oe-wiener-trump-nixon-clinton-20190103-story.html
+Source: Jon Weiner, latimes.com/opinion/op-ed/la-oe-wiener-trump-nixon-clinton-20190103-story.html

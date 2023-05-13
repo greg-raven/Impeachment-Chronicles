@@ -104,4 +104,4 @@ He explained that he and Clapper created two classified versions of the ICA – 
 
 Unless the classification of compartmented findings can be downgraded, access to Brennan’s questionable sourcing will remain highly restricted, leaving the underlying evidence conveniently opaque, the official said.
 
-Source: Paul Sperry, www.realclearinvestigations.com/articles/2020/09/24/secret\_report\_how\_cias\_brennan\_overruled\_dissenting\_analysts\_who\_thought\_russia\_favored\_hillary\_125315.html
+Source: Paul Sperry, realclearinvestigations.com/articles/2020/09/24/secret\_report\_how\_cias\_brennan\_overruled\_dissenting\_analysts\_who\_thought\_russia\_favored\_hillary\_125315.html

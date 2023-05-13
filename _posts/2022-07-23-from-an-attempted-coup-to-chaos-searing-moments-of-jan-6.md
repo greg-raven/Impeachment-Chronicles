@@ -104,4 +104,4 @@ In the video released at 4:17 p.m., as some of the worst of the fighting was sti
 
 The committee showed never-before-seen outtakes of a speech Trump released on Jan. 7 in which he condemned the violence and promised an orderly transition of power. But he bristled at one line in the prepared script, telling his daughter Ivanka Trump and others in the room, “I don’t want to say the election is over.”
 
-Source: Associated Press, www.sbsun.com/2022/07/23/from-an-attempted-coup-to-chaos-searing-moments-of-jan-6/
+Source: Associated Press, sbsun.com/2022/07/23/from-an-attempted-coup-to-chaos-searing-moments-of-jan-6/

@@ -2,10 +2,12 @@
 title: 'Trump made some outrageous claims about German energy'
 date: '2018-09-25T16:18:00-07:00'
 layout: post
+author:
+- NowThis
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Trump made some outrageous claims about German energy at the UN — and the German delegation’s reaction was priceless [pic.twitter.com/izpa2fKC3B](https://t.co/izpa2fKC3B)
-> 
-> — NowThis (@nowthisnews) [September 26, 2018](https://twitter.com/nowthisnews/status/1044740334306058241?ref_src=twsrc%5Etfw)
+> Trump made some outrageous claims about German energy at the UN — and the German delegation’s reaction was priceless
+>
+> NowThis, via twitter
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: NowThis via twitter
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump made some outrageous claims about German energy at the UN — and the German delegation’s reaction was priceless <a href="https://t.co/izpa2fKC3B">pic.twitter.com/izpa2fKC3B</a></p>&mdash; NowThis (@nowthisnews) <a href="https://twitter.com/nowthisnews/status/1044740334306058241?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

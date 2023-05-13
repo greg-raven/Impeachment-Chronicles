@@ -40,4 +40,4 @@ Roger J. Stone Jr., a longtime Trump adviser, exchanged Twitter messages last ye
 
 During the hearing, Mr. Comey said there were inaccuracies in many articles about the FBI’s Russia investigation, a problem he attributed in part to anonymous sources discussing classified information.
 
-Source: Michael S. Schmidt, Mark Mazzetti, and Matt Apuzzo, www.nytimes.com/2017/06/08/us/politics/james-comey-new-york-times-article-russia.html
+Source: Michael S. Schmidt, Mark Mazzetti, and Matt Apuzzo, nytimes.com/2017/06/08/us/politics/james-comey-new-york-times-article-russia.html

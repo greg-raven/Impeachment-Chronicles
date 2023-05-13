@@ -30,4 +30,4 @@ Last month, Green told C-SPAN that there was “no limit” to the number of tim
 
 “There is no limit on the number of times the Senate can vote to convict or not a president, no limit to the number of times the House can vote to impeach or not a president,” Green continued. “So, my belief is that the speaker will probably say we’re going to move forward with what we have now, but we’re not going to end investigations and that there may be possible opportunities to do other things at a later time.”
 
-Source: Ryan Saavedra, www.dailywire.com/news/schiff-admits-in-senate-trial-that-impeachment-about-stopping-trump-re-election/
+Source: Ryan Saavedra, dailywire.com/news/schiff-admits-in-senate-trial-that-impeachment-about-stopping-trump-re-election/

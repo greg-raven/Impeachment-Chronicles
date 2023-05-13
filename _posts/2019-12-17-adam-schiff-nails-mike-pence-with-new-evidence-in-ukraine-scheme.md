@@ -20,4 +20,4 @@ Mike Pence has already contaminated and coated in Trump’s corruption.
 
 Pence isn’t going to come out of this administration clean, and with Adam Schiff investigating, Pence might not make it out of the Trump administration at all.
 
-Source: Jason Easley, www.politicususa.com/2019/12/17/adam-schiff-mike-pence-ukraine.html
+Source: Jason Easley, politicususa.com/2019/12/17/adam-schiff-mike-pence-ukraine.html

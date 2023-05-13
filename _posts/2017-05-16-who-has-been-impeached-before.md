@@ -80,4 +80,4 @@ On the other hand, the election of Trump has been a particularly painful blow to
 
 *Julia Carrie Wong contributed reporting to this story*
 
-Source: Tom McCarthy, www.theguardian.com/us-news/2017/may/16/donald-trump-impeachment-russia-investigation-nixon
+Source: Tom McCarthy, theguardian.com/us-news/2017/may/16/donald-trump-impeachment-russia-investigation-nixon

@@ -50,6 +50,6 @@ Biden raised this idea publicly on Monday as he received his second Covid-19 vac
 
 This story has been updated with additional developments.
 
-Source: Manu Raju, Phil Mattingly, Jeff Zeleny, Jim Acosta and Kaitlan Collins, www.cnn.com/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html
+Source: Manu Raju, Phil Mattingly, Jeff Zeleny, Jim Acosta and Kaitlan Collins, cnn.com/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html
 
 CNN’s Pamela Brown and Devan Cole contributed to this story.

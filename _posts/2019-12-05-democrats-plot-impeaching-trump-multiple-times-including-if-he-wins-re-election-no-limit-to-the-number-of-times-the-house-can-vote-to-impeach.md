@@ -50,4 +50,4 @@ The ad featured words from House Democrats on impeachment:
 > 
 > — Ryan Saavedra (@RealSaavedra) [November 14, 2019](https://twitter.com/RealSaavedra/status/1194817581514801153?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Ryan Saavedra, www.dailywire.com/news/democrats-plot-impeaching-trump-multiple-times-including-if-he-wins-re-election-no-limit-to-the-number-of-times-the-house-can-vote-to-impeach/
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Ryan Saavedra, dailywire.com/news/democrats-plot-impeaching-trump-multiple-times-including-if-he-wins-re-election-no-limit-to-the-number-of-times-the-house-can-vote-to-impeach/

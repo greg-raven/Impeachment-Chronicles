@@ -34,4 +34,4 @@ Mr Trump could be impeached if found guilty of violating the Foreign Emoluments 
 
 No U.S. President has ever been removed from office through such a process. Bill Clinton was the most recent President to be threatened with impeachment in 1999 but he was acquitted by the Senate.
 
-Source: Rachael Revesz, www.independent.co.uk/news/world/americas/donald-trump-impeachment-effort-website-rootsaction-emoluments-clause-conflict-of-interest-ethics-a7538406.html
+Source: Rachael Revesz, independent.co.uk/news/world/americas/donald-trump-impeachment-effort-website-rootsaction-emoluments-clause-conflict-of-interest-ethics-a7538406.html

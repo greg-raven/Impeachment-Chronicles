@@ -2,15 +2,15 @@
 title: 'Why billionaire Tom Steyer wants Donald Trump impeached'
 date: '2017-10-27T13:59:00-07:00'
 layout: post
+author:
+- Katy Steinmetz
 ---
 
 Donald Trump’s latest Twitter dustup is with California megadonor Tom Steyer, who is funding a push to impeach the 45th president. On Friday morning, Trump appeared to have caught wind of the effort, criticizing the progressive activist on Twitter by calling him “wacky and totally unhinged.”
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">> Wacky &amp; totally unhinged Tom Steyer, who has been fighting me and my Make America Great Again agenda from beginning, never wins elections!
-> 
->  — Donald J. Trump (@realDonaldTrump) [October 27, 2017](https://twitter.com/realDonaldTrump/status/923866515358789633?ref_src=twsrc%5Etfw) (twitter.com/realDonaldTrump/status/923866515358789633)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wacky &amp; totally unhinged Tom Steyer, who has been fighting me and my Make America Great Again agenda from beginning, never wins elections!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/923866515358789633?ref_src=twsrc%5Etfw">October 27, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
- </div></figure>In an interview with TIME on Friday afternoon, Steyer doubled down on claims that he makes in an ad that aired during Fox &amp; Friends on Friday morning, which may have brought his campaign to Trump’s attention.
+ In an interview with TIME on Friday afternoon, Steyer doubled down on claims that he makes in an ad that aired during Fox &amp; Friends on Friday morning, which may have brought his campaign to Trump’s attention.
 
 “He really is an immediate danger to the health and safety of America,” says Steyer from Los Angeles. “This administration doesn’t have a clue.”
 

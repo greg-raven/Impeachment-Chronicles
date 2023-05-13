@@ -31,6 +31,6 @@ That lack of information about Trump’s personal calls is a particular challeng
 
 There are several possible explanations for omissions in the records, which do not reflect conversations that Trump had on Jan. 6 with multiple Republican lawmakers, for example. Trump was known to use a personal cell phone or he could have had a phone passed to him by an aide. The committee is also continuing to receive records from the National Archives and other sources, which could produce additional information.
 
-Source: Colleen Long, www.huffpost.com/entry/biden-trump-jan-6\_n\_620cf49ee4b055057aa89db2
+Source: Colleen Long, huffpost.com/entry/biden-trump-jan-6\_n\_620cf49ee4b055057aa89db2
 
 Associated Press writers Mary Clare Jalonick and Jill Colvin contributed to this report.

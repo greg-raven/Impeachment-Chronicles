@@ -64,4 +64,4 @@ Trump announced on Oct. 2 that he had tested positive for the virus. The federal
 > 
 > — Joseph Mallozzi (@BaronDestructo) [October 12, 2020](https://twitter.com/BaronDestructo/status/1315764770738503681?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Josephine Harvey, www.huffpost.com/entry/trump-air-force-one-no-mask\_n\_5f851130c5b6e6d033a6b533
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Josephine Harvey, huffpost.com/entry/trump-air-force-one-no-mask\_n\_5f851130c5b6e6d033a6b533

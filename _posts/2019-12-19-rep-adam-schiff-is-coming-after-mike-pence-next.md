@@ -20,4 +20,4 @@ Rep. Schiff said that he has evidence that Pence knew more about the Ukraine sch
 
 Chairman Schiff has been making it clear that Pence is more involved in the Ukraine plot than he has been admitting. Trump is impeached, but that doesn’t mean that the investigations have to end. Adam Schiff is not about to let Mike Pence off of the hook just because the House has impeached Donald Trump.
 
-Source: Jason Easley, www.politicususa.com/2019/12/19/rep-adam-schiff-is-coming-after-mike-pence-next.html
+Source: Jason Easley, politicususa.com/2019/12/19/rep-adam-schiff-is-coming-after-mike-pence-next.html

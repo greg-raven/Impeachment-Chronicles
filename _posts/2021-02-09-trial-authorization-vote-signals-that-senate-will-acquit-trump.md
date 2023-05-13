@@ -30,4 +30,4 @@ The impeachment managers and Trump’s attorneys spent roughly four hours on Tue
 
 “If my colleagues on this side of the chamber actually think that President Trump committed a criminal offense … after he’s out of office, you go and arrest him. So there is no opportunity where the president of the United States can run rampant in January at the end of his term and just go away scot-free. The Department of Justice does know what to do with such people,” Trump attorney Bruce Castor said.
 
-Source: Ivan Pentchoukov, www.theepochtimes.com/trial-authorization-vote-signals-that-senate-will-acquit-trump\_3691742.html
+Source: Ivan Pentchoukov, theepochtimes.com/trial-authorization-vote-signals-that-senate-will-acquit-trump\_3691742.html

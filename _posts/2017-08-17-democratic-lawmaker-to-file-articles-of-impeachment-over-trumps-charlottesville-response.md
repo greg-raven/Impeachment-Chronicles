@@ -22,4 +22,4 @@ Cohen also said the protests in Charlottesville reminded him of Kristallnacht, t
 
 He noted that at least one white nationalist protester had verbally attacked Jared Kushner, the president’s son-in-law and adviser. Kushner and his wife, Ivanka Trump, are Jewish.
 
-Source: Jessica Estepa, www.usatoday.com/story/news/politics/onpolitics/2017/08/17/democratic-lawmaker-to-file-articles-of-impeachment-over-trump-charlottesville-response/575892001/
+Source: Jessica Estepa, usatoday.com/story/news/politics/onpolitics/2017/08/17/democratic-lawmaker-to-file-articles-of-impeachment-over-trump-charlottesville-response/575892001/

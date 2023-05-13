@@ -24,4 +24,4 @@ Last month, after the release of a redacted version of Mueller’s report, Castr
 
 Fox News’ Alex Pappas contributed to this report.
 
-Source: Paul Steinhauser, www.foxnews.com/politics/julian-castro-impeachment-ex-prosecutors-trump-obstructed-justice
+Source: Paul Steinhauser, foxnews.com/politics/julian-castro-impeachment-ex-prosecutors-trump-obstructed-justice

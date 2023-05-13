@@ -38,4 +38,4 @@ The impeachment is unconstitutional and the ridiculous sideshow perpetuated by t
 
 Jason Miller serves as a senior advisor to President Donald J. Trump. Miller served on the president’s 2016 and 2020 campaigns and is advising on the president’s impeachment defense before the U.S. Senate.
 
-Source: Jason Miller, www.foxnews.com/opinion/trump-impeachment-trial-unconstitutional-jason-miller
+Source: Jason Miller, foxnews.com/opinion/trump-impeachment-trial-unconstitutional-jason-miller

@@ -72,4 +72,4 @@ So, will it happen? Can it? Perhaps the best sign yet as to whether Trump could 
 
 “It’s hugely going to be dependent on if \[Trump\] wins, what was the margin of victory?” Fein said. “And if the margin of victory is high, I don’t care how high the offense is, it’s not going to be debated on by Congress.”
 
-Source: Darren Samuelsohn, www.politico.com/magazine/story/2016/04/donald-trump-2016-impeachment-213817/
+Source: Darren Samuelsohn, politico.com/magazine/story/2016/04/donald-trump-2016-impeachment-213817/

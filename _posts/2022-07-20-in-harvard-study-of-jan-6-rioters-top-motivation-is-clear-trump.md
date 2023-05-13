@@ -58,4 +58,4 @@ Donovan said she hopes her research can help show social media companies and aut
 
 “I do believe that the only way to come at this problem of networked incitement is with a whole of society solution.”
 
-Source: Ben Collins, Ryan J. Reilly, and Jacob Ward, www.nbcnews.com/politics/politics-news/harvard-study-jan-6-rioters-top-motivation-clear-trump-rcna38794
+Source: Ben Collins, Ryan J. Reilly, and Jacob Ward, nbcnews.com/politics/politics-news/harvard-study-jan-6-rioters-top-motivation-clear-trump-rcna38794

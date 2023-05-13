@@ -24,4 +24,4 @@ Donald Trump is a natural-born citizen over the age of 35. Under the rules in pl
 
 There’s a reason we have two different words for legality and legitimacy. Each new wave of information about Russia’s targeted assistance to Trump — and the Trump campaign’s acceptance of that assistance — subtracts from this presidency’s quantum of that second, higher quality. His supporters may not care. But legitimacy is important precisely because it shapes the behavior and beliefs of non-supporters. And in Trump’s case, those non-supporters are the large majority of the American population.
 
-Source: David Frum, www.theatlantic.com/ideas/archive/2018/07/is-trumps-presidency-legitimate/565451/
+Source: David Frum, theatlantic.com/ideas/archive/2018/07/is-trumps-presidency-legitimate/565451/

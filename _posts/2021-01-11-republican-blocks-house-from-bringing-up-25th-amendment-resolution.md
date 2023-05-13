@@ -40,4 +40,4 @@ Harvard Law Professor Emeritus Alan Dershowitz said Democrats in the House have 
 
 “The case cannot come to trial in the Senate. Because the Senate has rules, and the rules would not allow the case to come to trial until, according to the majority leader, until 1 p.m. on January 20th, an hour after President Trump leaves office,” Dershowitz said in a Jan. 10 Fox Business interview.
 
-Source: Jack Phillips, www.theepochtimes.com/republican-blocks-house-from-bringing-up-25th-amendment-bill\_3652031.html
+Source: Jack Phillips, theepochtimes.com/republican-blocks-house-from-bringing-up-25th-amendment-bill\_3652031.html

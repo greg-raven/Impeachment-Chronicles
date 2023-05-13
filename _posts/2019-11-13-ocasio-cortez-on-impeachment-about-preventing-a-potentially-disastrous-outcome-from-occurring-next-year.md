@@ -2,6 +2,8 @@
 title: 'Ocasio-Cortez on impeachment: ‘About preventing a potentially disastrous outcome from occurring next year’'
 date: '2019-11-13T08:01:00-08:00'
 layout: post
+author:
+- Ryan Saavedra
 ---
 
 Socialist Rep. Alexandria Ocasio-Cortez (D-NY) admitted during a Wednesday night interview on CNN that impeachment was about unifying the different factions of the Democrat Party and “preventing a potentially disastrous outcome from occurring next year.”
@@ -12,11 +14,9 @@ Ocasio-Cortez joined CNN’s Wolf Blitzer on “The Situation Room” where she 
 
 “We also need to move quite quickly because we’re talking about the potential compromise of the 2020 elections,” Ocasio-Cortez continued. “And so this is not just about something that has occurred; this is about preventing a potentially disastrous outcome from occurring next year.”
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Ocasio-Cortez says that Democrats' push for impeaching Trump is about uniting the different factions of the Democrat Party, adding: “this is about preventing a potentially disastrous outcome from occurring next year.” [pic.twitter.com/nVU93ug2ZF](https://t.co/nVU93ug2ZF)
-> 
-> — Ryan Saavedra (@RealSaavedra) [November 14, 2019](https://twitter.com/RealSaavedra/status/1194817581514801153?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ocasio-Cortez says that Democrats&#39; push for impeaching Trump is about uniting the different factions of the Democrat Party, adding: “this is about preventing a potentially disastrous outcome from occurring next year.” <a href="https://t.co/nVU93ug2ZF">pic.twitter.com/nVU93ug2ZF</a></p>&mdash; Ryan Saavedra (@RealSaavedra) <a href="https://twitter.com/RealSaavedra/status/1194817581514801153?ref_src=twsrc%5Etfw">November 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Ocasio-Cortez’s stunning admission that the impeachment inquiry is about Democrat partisan politics flies in the face of what she said over the weekend in an interview with ABC News where she said it was the Republicans who were making impeachment a partisan issue.
+Ocasio-Cortez’s stunning admission that the impeachment inquiry is about Democrat partisan politics flies in the face of what she said over the weekend in an interview with ABC News where she said it was the Republicans who were making impeachment a partisan issue.
 
 “Congresswoman, I do want to ask you, we had some news that broke earlier today. Your Republican colleagues announced that they intend to call on Hunter Biden as a witness in this impeachment probe. Is he an appropriate witness?” ABC News asked.
 
@@ -32,4 +32,4 @@ Former independent counsel Ken Starr, whose criminal investigation of former Dem
 
 “And to me, here was something that was very telling: No crime was proven today,” Starr added. “There were a lot terms used, extortion and bribery, but no crime. This is very unlike Nixon and unlike Clinton.”
 
-Source: Ryan Saavedra, www.dailywire.com/news/ocasio-cortez-makes-stunning-admission-about-impeachment-during-cnn-interview
+Source: Ryan Saavedra, dailywire.com/news/ocasio-cortez-makes-stunning-admission-about-impeachment-during-cnn-interview

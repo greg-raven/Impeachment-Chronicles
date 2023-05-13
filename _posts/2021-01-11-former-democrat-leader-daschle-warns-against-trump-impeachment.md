@@ -32,4 +32,4 @@ The practice was discontinued following bribery and ethics scandals in the early
 
 Both Daschle and Lott are now part of Washington’s influence industry, providing strategic advice to clients.
 
-Source: Nancy Ognanovich, www.bloomberg.com/news/articles/2021-01-11/former-democratic-leader-daschle-warns-against-trump-impeachment
+Source: Nancy Ognanovich, bloomberg.com/news/articles/2021-01-11/former-democratic-leader-daschle-warns-against-trump-impeachment

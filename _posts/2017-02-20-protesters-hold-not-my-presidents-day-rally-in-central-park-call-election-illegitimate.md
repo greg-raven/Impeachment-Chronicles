@@ -26,4 +26,4 @@ Alana Ryan, 17, a student from New Jersey, knows she is not old enough to vote, 
 
 A day earlier, hundreds of protesters, including Mayor de Blasio, rallied in Times Square in support of Muslim Americans. The “I Am A Muslim Too” rally was organized by, among others, hip-hop mogul Russell Simmons.
 
-Source: Leonard Greene, www.nydailynews.com/new-york/protesters-hold-not-president-day-rally-central-park-article-1.2977449
+Source: Leonard Greene, nydailynews.com/new-york/protesters-hold-not-president-day-rally-central-park-article-1.2977449

@@ -22,4 +22,4 @@ Dozens of Republicans have voiced opposition to holding an impeachment trial for
 
 The House alleges in its single article of impeachment that Trump incited the Jan. 6 breach of the U.S. Capitol. The Senate expects to start the trial during the week of Feb. 8.
 
-Source: Zachary Stieber, www.theepochtimes.com/sen-leahy-not-supreme-courts-roberts-to-preside-over-trumps-impeachment-trial\_3670746.html
+Source: Zachary Stieber, theepochtimes.com/sen-leahy-not-supreme-courts-roberts-to-preside-over-trumps-impeachment-trial\_3670746.html

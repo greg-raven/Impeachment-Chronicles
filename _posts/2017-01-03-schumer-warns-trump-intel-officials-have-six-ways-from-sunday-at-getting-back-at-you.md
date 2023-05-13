@@ -14,4 +14,4 @@ Trump has repeatedly expressed skepticism about the U.S. intelligence community�
 
 That information was expected to be provided to Trump mid-week via an intelligence briefing. But Tuesday evening, Trump said his briefing was delayed until Friday, and speculated that the spooks might need more time to build their case. “Very strange!” he added.
 
-Source: Daniel Chaitin, www.washingtonexaminer.com/schumer-warns-trump-intel-officials-have-six-ways-from-sunday-at-getting-back-at-you
+Source: Daniel Chaitin, washingtonexaminer.com/schumer-warns-trump-intel-officials-have-six-ways-from-sunday-at-getting-back-at-you

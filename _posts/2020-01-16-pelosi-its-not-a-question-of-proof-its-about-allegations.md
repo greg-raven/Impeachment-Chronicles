@@ -12,4 +12,4 @@ layout: post
 
 Source: GOP War Room
 
-H/T: WND.com, www.wnd.com/2020/01/pelosi-overturns-american-justice-system-new-standard-convictions/
+H/T: WND.com, wnd.com/2020/01/pelosi-overturns-american-justice-system-new-standard-convictions/

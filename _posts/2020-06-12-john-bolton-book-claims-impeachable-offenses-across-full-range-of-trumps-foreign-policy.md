@@ -14,4 +14,4 @@ The White House has reportedly tried to pull out all the stops to keep Bolton’
 
 “In the months leading up to the publication of *The Room Where It Happened,* Bolton worked in cooperation with the National Security Council to incorporate changes to the text that addressed NSC concerns,” Simon &amp; Schuster said, in the release. “The final, published version of this book reflects those changes, and Simon &amp; Schuster is fully supportive of Ambassador Bolton’s First Amendment right to tell the story of his time in the Trump White House.”
 
-Source: Joe DePaolo, www.mediaite.com/trump/breaking-john-bolton-book-claims-impeachable-offenses-across-full-range-of-trumps-foreign-policy/
+Source: Joe DePaolo, mediaite.com/trump/breaking-john-bolton-book-claims-impeachable-offenses-across-full-range-of-trumps-foreign-policy/

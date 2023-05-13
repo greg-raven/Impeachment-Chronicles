@@ -44,6 +44,6 @@ Some Democrats also were sending warnings about proceeding with an impeachment a
 
 It “basically stops us from putting a government together,” he said Sunday on CNN.
 
-Source: Billy House, www.bloomberg.com/news/articles/2021-01-12/house-set-to-give-pence-ultimatum-before-moving-to-impeach-trump
+Source: Billy House, bloomberg.com/news/articles/2021-01-12/house-set-to-give-pence-ultimatum-before-moving-to-impeach-trump
 
 With assistance by Jennifer Jacobs.

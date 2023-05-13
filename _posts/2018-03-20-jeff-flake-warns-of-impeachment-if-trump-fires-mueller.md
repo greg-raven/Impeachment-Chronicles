@@ -28,6 +28,6 @@ In an interview with The Washington Post, Flake compared the potential firing to
 
 “If (Trump) fires (Mueller) without cause, how different is that from what Nixon did with the ‘Saturday Night Massacre’?” Flake asked. “He left before impeachment came, but that was the remedy then and that would be the remedy now.”
 
-Source: Ashley Killough, www.cnn.com/2018/03/20/politics/jeff-flake-impeachment-threat/index.html
+Source: Ashley Killough, cnn.com/2018/03/20/politics/jeff-flake-impeachment-threat/index.html
 
 CNN’s Ted Barrett contributed to this report.

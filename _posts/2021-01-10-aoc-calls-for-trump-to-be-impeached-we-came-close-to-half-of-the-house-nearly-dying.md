@@ -18,4 +18,4 @@ Not stopping there, Ocasio-Cortez doubled down as she talked about supporters of
 
 Democrats are set to officially launch their latest impeachment effort on Monday.
 
-Source: James Samson, www.lifezette.com/2021/01/aoc-calls-for-trump-to-be-impeached-we-came-close-to-half-of-the-house-nearly-dying/
+Source: James Samson, lifezette.com/2021/01/aoc-calls-for-trump-to-be-impeached-we-came-close-to-half-of-the-house-nearly-dying/

@@ -42,4 +42,4 @@ The church visit was praised, however, by a member of Trump’s Evangelical Advi
 
 “I will never forget seeing @POTUS @realDonaldTrump slowly &amp; in-total-command walk from the @WhiteHouse across Lafayette Square to St. John’s Church defying those who aim to derail our national healing by spreading fear, hate &amp; anarchy,” Moore tweeted.
 
-Source: Tom Gjelten, www.npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials
+Source: Tom Gjelten, npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials

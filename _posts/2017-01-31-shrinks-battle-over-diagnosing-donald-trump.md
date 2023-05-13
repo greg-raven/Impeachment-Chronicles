@@ -36,4 +36,4 @@ And that is one of the many criticisms that psychiatrist Allen Frances levels at
 
 There is sickness, Frances contends, but he believes it is in society in general. “We are ignoring real existential threats — of overpopulation, of climate, of inequality.” The cure for this illness, he believes is political activism and electing officials who can be trusted to face “the real problems.” Those most in a position to diagnose are, with the exception of the petitioners and those on the media circuit, sitting out the question of the year.
 
-Source: Hara Estroff Marano, www.psychologytoday.com/us/blog/brainstorm/201701/shrinks-battle-over-diagnosing-donald-trump
+Source: Hara Estroff Marano, psychologytoday.com/us/blog/brainstorm/201701/shrinks-battle-over-diagnosing-donald-trump

@@ -2,11 +2,13 @@
 title: 'The phone call that could get Trump impeached'
 date: '2019-10-07T06:47:00-07:00'
 layout: post
+author:
+- Alvin Chang
 ---
 
 - Trump’s call with Ukraine, explained.
 
-<figure class="wp-block-embed is-type-rich is-provider-embed-handler wp-block-embed-embed-handler wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="473" src="https://www.youtube.com/embed/hyWNFvt9Fck?feature=oembed" title="The phone call that could get Trump impeached" width="840"></iframe></div></figure>The impeachment inquiry into President Donald Trump started with a phone call.
+The impeachment inquiry into President Donald Trump started with a phone call.
 
 There isn’t much dispute over what was said in the phone call, because Trump’s White House released a rough transcript. That document shows that Trump’s transgressions are quite simple.
 
@@ -24,4 +26,6 @@ The very short version of this is: Ukraine’s top prosecutor was fired for not 
 
 Once we get through all the confusion Trump has introduced, we get back to the simple thing Trump did wrong: He asked a foreign leader to investigate his political opponent.
 
-Source: Alvin Chang, www.vox.com/videos/2019/10/7/20901251/trump-ukraine-impeachment-phone-call-video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hyWNFvt9Fck" title="YouTube video player"></iframe>
+
+Source: Alvin Chang, vox.com/videos/2019/10/7/20901251/trump-ukraine-impeachment-phone-call-video

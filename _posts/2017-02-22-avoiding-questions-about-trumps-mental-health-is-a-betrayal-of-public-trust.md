@@ -60,4 +60,4 @@ Op-eds questioning Trump’s sanity would have to be counterbalanced by op-eds a
 
 The manner in which the question of Trump’s mental health has to be handled once it is raised is obvious, of course. The more contentious question has been whether to raise it, and to keep raising it. At this point, not to do so, especially for journalists, is a betrayal of the public trust, a denial of human nature, and an insult to posterity.
 
-Source: Lee Siegel, www.cjr.org/analysis/trump-mental-health.php
+Source: Lee Siegel, cjr.org/analysis/trump-mental-health.php

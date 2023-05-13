@@ -40,6 +40,6 @@ After a group of rioters and a minority of protesters breached the Capitol build
 
 The Epoch Times has reached out to the White House for comment.
 
-Source: Jack Phillips, www.theepochtimes.com/top-house-democrat-resolution-will-be-introduced-to-charge-trump-with-inciting-sedition\_3650716.html
+Source: Jack Phillips, theepochtimes.com/top-house-democrat-resolution-will-be-introduced-to-charge-trump-with-inciting-sedition\_3650716.html
 
 Janita Kan contributed to this report.

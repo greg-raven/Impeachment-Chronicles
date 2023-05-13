@@ -108,4 +108,4 @@ Later, Liz Harrington, his spokesperson, issued a statement on his behalf.
 
 “And the world was a much safer place than it is now with mentally unstable leadership.”
 
-Source: Luke Harding, Julian Borger, and Dan Sabbagh, www.theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house
+Source: Luke Harding, Julian Borger, and Dan Sabbagh, theguardian.com/world/2021/jul/15/kremlin-papers-appear-to-show-putins-plot-to-put-trump-in-white-house

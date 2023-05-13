@@ -44,4 +44,4 @@ For Lee, the concept of obstruction of justice is not simply about what the pres
 
 “If nothing else, \[impeachment\] is our answer,” she said. “Because the answers we’ve been given don’t make you feel any better – I mean that he’s taking money from housing and education and medical to fund a war that we don’t need. I need local answers.”
 
-Source: Tom Dart, www.theguardian.com/us-news/2017/may/20/impeach-trump-al-green-town-hall-texas
+Source: Tom Dart, theguardian.com/us-news/2017/may/20/impeach-trump-al-green-town-hall-texas

@@ -34,4 +34,4 @@ Some on the left have been critical of Sanders and his Democratic ally, Rep. Ale
 
 The 91-year-old author told Brooks, “Sanders has made the tactical decision — which some criticize but I think is correct — to join the Joe Biden campaign and push it to the left. His associates are working on planning commissions, and in fact, if you look at the program that’s emerged, it’s further to the left than anything since FDR (President Franklin Delano Roosevelt). It offers lots of opportunities.”
 
-Source: Alex Henderson, www.alternet.org/2020/06/gangster-in-the-white-house-noam-chomsky-explains-why-trump-is-undeniably-the-worst-criminal-in-history/#.XvI58yJ5H9k.twitter
+Source: Alex Henderson, alternet.org/2020/06/gangster-in-the-white-house-noam-chomsky-explains-why-trump-is-undeniably-the-worst-criminal-in-history/#.XvI58yJ5H9k.twitter

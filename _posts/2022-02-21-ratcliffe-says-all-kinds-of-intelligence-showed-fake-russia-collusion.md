@@ -30,4 +30,4 @@ In his interview with Levin, Ratcliffe said he “shared a lot of intelligence�
 
 Offering insight into what he told Durham when delivering this information, including that investigators in the government were aware of Clinton-linked “fake Russia collusion allegations,” Ratcliffe said the message he imparted to the special counsel was, “look, this just isn’t right, this doesn’t add up, all sorts of people knew about this and didn’t do anything about it.” Ratcliffe, who also served time as a federal prosecutor, added: “I think that’s what he’s looking at. And, you know, sometimes it takes a long time to put conspiracy allegations together over time, and I expect that that’s what he’s doing.”
 
-Source: Deputy News Editor Daniel Chaitin and Justice Department Reporter Jerry Dunleavy, www.washingtonexaminer.com/news/justice/ratcliffe-says-all-kinds-of-intelligence-showed-fake-russia-collusion
+Source: Deputy News Editor Daniel Chaitin and Justice Department Reporter Jerry Dunleavy, washingtonexaminer.com/news/justice/ratcliffe-says-all-kinds-of-intelligence-showed-fake-russia-collusion

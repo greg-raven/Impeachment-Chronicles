@@ -40,4 +40,4 @@ So why are so many mental health professionals — the contributors to *The Dang
 > 
 > “We would argue that the key question is whether professionals are engaging in political collusion with state abuses of power, or in resistance to them. If we are asked to cooperate with state programs that violate human rights, then regardless of the purported justification, any involvement can only corrupt, and the only appropriate ethical stance is to refuse participation of any sort. If, on the other hand, we perceive that state power is being abused by an executive who seems to be mentally unstable, then we may certainly speak out, not only as citizens, but also, we would argue, as professionals who are privy to special information and a responsibility to educate the public. For whatever our wisdom and expertise may be worth, surely we are obligated to share it.”
 
-Source: Rosemary K.M. Sword and Philip Zimbardo Ph.D., www.psychologytoday.com/us/blog/the-time-cure/201709/the-dangerous-case-donald-trump
+Source: Rosemary K.M. Sword and Philip Zimbardo Ph.D., psychologytoday.com/us/blog/the-time-cure/201709/the-dangerous-case-donald-trump

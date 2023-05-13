@@ -30,6 +30,6 @@ In that post-election news conference in 2016, Zakharova, the Foreign Ministry s
 
 “The Ukrainian authorities’ attempt to play the victim is an old trick,” she said, “which usually brings good dividends.”
 
-Source: Natasha Bertrand, www.politico.com/news/2020/01/22/ukraine-russia-disinformation-election-trump-101895
+Source: Natasha Bertrand, politico.com/news/2020/01/22/ukraine-russia-disinformation-election-trump-101895
 
 Daniel Lippman contributed to this report.

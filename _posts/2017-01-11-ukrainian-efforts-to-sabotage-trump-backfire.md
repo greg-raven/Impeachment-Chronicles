@@ -213,4 +213,4 @@ Meanwhile, Poroshenko’s rivals are seeking to capitalize on his dicey relation
 
 The consultant turned down the work, explaining, “It sounded shady, and we don’t want to get in the middle of that kind of stuff.”
 
-Source: Austin Wright and Martin Matishak, www.politico.com/story/2017/01/ukraine-sabotage-trump-backfire-233446
+Source: Austin Wright and Martin Matishak, politico.com/story/2017/01/ukraine-sabotage-trump-backfire-233446

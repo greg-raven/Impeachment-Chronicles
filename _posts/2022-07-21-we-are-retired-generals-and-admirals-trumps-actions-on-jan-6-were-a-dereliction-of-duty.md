@@ -36,4 +36,4 @@ The president’s dereliction of duty on Jan. 6 tested the integrity of this his
 
 The lesson of that day is clear. Our democracy is not a given. To preserve it, Americans must demand nothing less from their leaders than an unassailable commitment to country over party — and to their oaths above all.
 
-Source: Adm. Steve Abbot, Gen. Peter Chiarelli, Gen. John Jumper, Adm. James Loy, Adm. John Nathman, Adm. William Owens and Gen. Johnnie Wilson are retired four-star generals and admirals in the U.S. armed forces, www.nytimes.com/2022/07/21/opinion/january-6-trump-military.html
+Source: Adm. Steve Abbot, Gen. Peter Chiarelli, Gen. John Jumper, Adm. James Loy, Adm. John Nathman, Adm. William Owens and Gen. Johnnie Wilson are retired four-star generals and admirals in the U.S. armed forces, nytimes.com/2022/07/21/opinion/january-6-trump-military.html

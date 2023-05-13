@@ -70,4 +70,4 @@ Another footnote, which was previously redacted in its entirety, further raised 
 
 Horowitz, though, had asserted that Steele’s primary sub-source “used his/her network of sub-sources to gather information that was then passed to Steele.”
 
-Source: Brooke Singman, www.foxnews.com/politics/senate-judiciary-committee-documents-steele-dossier
+Source: Brooke Singman, foxnews.com/politics/senate-judiciary-committee-documents-steele-dossier

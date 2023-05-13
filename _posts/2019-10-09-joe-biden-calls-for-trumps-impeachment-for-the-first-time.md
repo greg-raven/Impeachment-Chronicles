@@ -42,4 +42,4 @@ Responding to Trump’s tweet Wednesday, Biden in part told the president to “
 > 
 > — Joe Biden (@JoeBiden) [October 9, 2019](https://twitter.com/JoeBiden/status/1181997336052080647?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Jacob Pramuk, www.cnbc.com/2019/10/09/joe-biden-calls-for-donald-trump-impeachment-amid-2020-electionhtml
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Jacob Pramuk, cnbc.com/2019/10/09/joe-biden-calls-for-donald-trump-impeachment-amid-2020-electionhtml

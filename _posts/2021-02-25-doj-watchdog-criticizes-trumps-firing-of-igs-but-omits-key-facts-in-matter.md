@@ -56,4 +56,4 @@ Barr issued a longer statement, noting that in his view, “The Inspector Genera
 
 Horowitz did repeat past criticisms of the FBI’s actions, noting that “the FBI failed in numerous ways in its representations to the Justice Department” and to the “FISA Court in seeking FISA applications for Carter Page.” Horowitz also stated that his two primary findings have “stood the test of time.”
 
-Source: Jeff Carlson, www.theepochtimes.com/doj-watchdog-criticizes-trumps-firing-of-igs-but-omits-key-facts-in-matter\_3709653.html
+Source: Jeff Carlson, theepochtimes.com/doj-watchdog-criticizes-trumps-firing-of-igs-but-omits-key-facts-in-matter\_3709653.html

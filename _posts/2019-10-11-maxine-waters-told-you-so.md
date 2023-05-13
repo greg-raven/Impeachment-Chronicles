@@ -30,11 +30,9 @@ And he was dangerous before he was president. Look at the way he treated African
 
 The call connects the dots. I think that it’s helped people to understand that really Trump was asking a foreign power to get involved, to get dirt on what he thought would be his opponent. Then \[Speaker of the House\] Nancy Pelosi, who had been against impeachment, saw that more of the members of Congress were saying, “Oh my goodness, now is the time.” And then of course the public also has continued to come onboard.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Unfortunately, many Members of Congress whisper the President should be impeached but have not supported my call for impeachment. Only a few of us dare to continue to urge both Dems and Repubs to impeach this dangerous president. I will keep trying. The public needs to demand!
-> 
-> — Maxine Waters (@RepMaxineWaters) [March 21, 2019](https://twitter.com/RepMaxineWaters/status/1108747760566714368?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unfortunately, many Members of Congress whisper the President should be impeached but have not supported my call for impeachment. Only a few of us dare to continue to urge both Dems and Repubs to impeach this dangerous president. I will keep trying. The public needs to demand!</p>&mdash; Maxine Waters (@RepMaxineWaters) <a href="https://twitter.com/RepMaxineWaters/status/1108747760566714368?ref_src=twsrc%5Etfw">March 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>It’s all coming together around the call. And now that we know that the Secretary of State \[Mike Pompeo\] and the Attorney General \[William Barr\] were involved in this corruption, I believe that this formal inquiry is going to lead to a resolution of impeachment that will be voted on by the House Judiciary Committee. The six committee chairs, who have been doing an investigation, will be involved in helping to identify what should go into any impeachment resolution.
+It’s all coming together around the call. And now that we know that the Secretary of State \[Mike Pompeo\] and the Attorney General \[William Barr\] were involved in this corruption, I believe that this formal inquiry is going to lead to a resolution of impeachment that will be voted on by the House Judiciary Committee. The six committee chairs, who have been doing an investigation, will be involved in helping to identify what should go into any impeachment resolution.
 
 **Do you think it will be successful?**
 
@@ -84,4 +82,4 @@ I want them to pay attention and I want them to follow it very closely and I wan
 
 This interview has been edited and condensed.
 
-Source: Lyz Lenz, www.glamour.com/story/maxine-waters-impeachment-interview
+Source: Lyz Lenz, glamour.com/story/maxine-waters-impeachment-interview

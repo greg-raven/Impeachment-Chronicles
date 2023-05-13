@@ -24,4 +24,4 @@ Some of the progressive members of Congress have been pushing to get the whole D
 
 In March, Michigan Rep. Rashida Tlaib submitted a formal impeachment resolution along with Rep. Al Green of Texas.
 
-Source: John Gage, www.washingtonexaminer.com/news/pelosi-we-cannot-accept-a-second-term-for-donald-trump
+Source: John Gage, washingtonexaminer.com/news/pelosi-we-cannot-accept-a-second-term-for-donald-trump

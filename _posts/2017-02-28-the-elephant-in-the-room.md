@@ -42,4 +42,4 @@ What can we do? Be observant. Be vigilant. Share this article to spread awarenes
 
 No matter whom you voted for in the election, or if you didn’t vote, we the people did this — at least those of us representing an Electoral Colleges majority. We need to correct this threat to our ecology, our society, and our international relations soon — before it’s too late.
 
-Source: Rosemary K.M. Sword and Philip Zimbardo Ph.D., www.psychologytoday.com/us/blog/the-time-cure/201702/the-elephant-in-the-room
+Source: Rosemary K.M. Sword and Philip Zimbardo Ph.D., psychologytoday.com/us/blog/the-time-cure/201702/the-elephant-in-the-room

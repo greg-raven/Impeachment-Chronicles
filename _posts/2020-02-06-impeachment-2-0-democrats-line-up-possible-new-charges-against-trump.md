@@ -68,4 +68,4 @@ Mr. Mueller brought no conspiracy charges against any Trump ally.
 
 “Just because President Trump has been acquitted by the Senate, paradoxically that doesn’t mean the congressional investigations will end,” J.D. Gordon, a Trump campaign national security adviser, told The Times. “The House committees will keep on pursuing obstruction allegations related to Trump-Russia, and keep digging for new details on Trump-Ukraine. That’s in addition to their wide-ranging probes on his taxes, bank loans and financial history. Plus anything else that might help build a case in the media for a historic second impeachment. There is literally nothing stopping them.”
 
-Source: Rowan Scarborough, www.washingtontimes.com/news/2020/feb/6/second-impeachment-could-be-on-horizon-for-trump/
+Source: Rowan Scarborough, washingtontimes.com/news/2020/feb/6/second-impeachment-could-be-on-horizon-for-trump/

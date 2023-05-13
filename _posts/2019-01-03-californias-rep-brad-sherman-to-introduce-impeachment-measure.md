@@ -22,4 +22,4 @@ Sherman says he’s not worried that introducing the resolution — the first of
 
 “Every member of the House will have to address \[the issue\] whether there are formal articles of impeachment pending,” he said.
 
-Source: Jennifer Haberkort, www.latimes.com/politics/la-na-pol-congress-impeachment-20190103-story.html
+Source: Jennifer Haberkort, latimes.com/politics/la-na-pol-congress-impeachment-20190103-story.html

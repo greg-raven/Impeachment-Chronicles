@@ -80,4 +80,4 @@ When he spoke with Mr. McConnell about the matter, the Senate leader left Mr. Bi
 
 Mr. McConnell, who led the 2016 blockade against confirming Judge Merrick B. Garland when he was President Barack Obama’s nominee for the Supreme Court, told Mr. Biden that he would vote to confirm Judge Garland as attorney general.
 
-Source: Jonathan Martin, Maggie Haberman and Nicholas Fandos, www.nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.html
+Source: Jonathan Martin, Maggie Haberman and Nicholas Fandos, nytimes.com/2021/01/12/us/politics/mcconnell-backs-trump-impeachment.html

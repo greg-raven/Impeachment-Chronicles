@@ -12,4 +12,4 @@ In an interview with “CBS Sunday Morning” host Jane Pauley that aired Sunday
 
 “And I don’t care who you’re for in the Democratic primary or whether you’re a Republican, when the president of the United States, who has taken an oath to protect and defend the Constitution — and by that, defend the American people and their interests — uses his position to in effect extort a foreign government for his own political purposes,” she said. “I think that is very much what the founders worried about in ‘high crimes and misdemeanors.’”
 
-Source: Tim Hains, www.realclearpolitics.com/video/2019/09/29/hillary\_clinton\_trump\_knows\_hes\_an\_illegitimate\_president\_insomuch\_as\_he\_has\_a\_conscience.html
+Source: Tim Hains, realclearpolitics.com/video/2019/09/29/hillary\_clinton\_trump\_knows\_hes\_an\_illegitimate\_president\_insomuch\_as\_he\_has\_a\_conscience.html

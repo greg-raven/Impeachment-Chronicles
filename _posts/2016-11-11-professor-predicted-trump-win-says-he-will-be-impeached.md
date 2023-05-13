@@ -16,4 +16,4 @@ Burnett pushed back at Lichtman’s claim, noting his allegations have not been 
 
 “The Republicans are nervous about Donald Trump,” Lichtman said. “He is a loose cannon. Nobody knows what he really believes or really where he stands. He can’t be controlled. The Republicans would vastly prefer to have Mike Pence, an absolutely predictable down-the-pipe conservative Republican.”
 
-Source: Leinz Vales, www.cnn.com/2016/11/15/politics/allan-lichtman-professor-predicts-trump-impeachment-erin-burnett/index.html
+Source: Leinz Vales, cnn.com/2016/11/15/politics/allan-lichtman-professor-predicts-trump-impeachment-erin-burnett/index.html
