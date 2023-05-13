@@ -8,9 +8,6 @@ author:
 description: >
   Attacks on our 45th President, his vice-president, and our republic.
 
-# gemfile?
-ruby gem "minima"
-
 # Build settings
 
 theme: minima
