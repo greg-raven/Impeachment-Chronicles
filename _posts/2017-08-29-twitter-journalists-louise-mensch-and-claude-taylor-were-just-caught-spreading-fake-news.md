@@ -14,6 +14,6 @@ The initial inkling of this outrageous story, mind you, came from one hoax of a 
 
 Indeed it’s a gnarly web of allegations and outright falsehoods. And, again, it’s another reason why, as I wrote last month, people like Louise Mensch should not have a Twitter checkmark, which grants users validity and adds weight to what they tweet. This is exactly how fake news starts.
 
-[You can read the full Guardian article here](http://greg-raven.github.io/Impeachment-Chronicles/2017/08/28/lurid-trump-allegations-made-by-louise-mensch-and-co-writer-came-from-hoaxer/).
+[You can read the full Guardian article here](/2017/08/28/lurid-trump-allegations-made-by-louise-mensch-and-co-writer-came-from-hoaxer/).
 
 Source: Cale Guthrie Weissman, [Fast Company](https://www.fastcompany.com/40460131/twitter-journalists-louise-mensch-and-claude-taylor-were-just-caught-spreading-fake-news)

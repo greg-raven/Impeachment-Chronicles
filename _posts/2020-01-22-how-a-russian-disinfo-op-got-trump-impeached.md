@@ -22,7 +22,7 @@ As is typical of Russia’s disinformation operations, it hinged on a kernel of 
 
 \[…\]
 
-In January 2017, however, when POLITICO published a story titled “[Ukrainian efforts to sabotage Trump backfire](http://greg-raven.github.io/Impeachment-Chronicles/2017/01/11/ukrainian-efforts-to-sabotage-trump-backfire/),” some of Trump’s allies seized on elements of the reporting — sporadic criticism of the Republican candidate by Ukrainian officials and meetings with a DNC consultant — while ignoring the caveat that the investigation found “little evidence of such a top-down effort by Ukraine.”
+In January 2017, however, when POLITICO published a story titled “[Ukrainian efforts to sabotage Trump backfire](/2017/01/11/ukrainian-efforts-to-sabotage-trump-backfire/),” some of Trump’s allies seized on elements of the reporting — sporadic criticism of the Republican candidate by Ukrainian officials and meetings with a DNC consultant — while ignoring the caveat that the investigation found “little evidence of such a top-down effort by Ukraine.”
 
 \[…\]
 

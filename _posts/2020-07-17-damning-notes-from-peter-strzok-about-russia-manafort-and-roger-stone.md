@@ -16,4 +16,4 @@ layout: post
 
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Twitchy.com, twitchy.com/samj-3930/2020/07/17/wow-techno-fogs-thread-of-damning-notes-from-peter-strzok-about-russia-manafort-and-roger-stone-a-must-read/
 
-See also: [James Comey disputes New York Times article about Russia investigation](http://greg-raven.github.io/Impeachment-Chronicles/2017/06/08/james-comey-disputes-new-york-times-article-about-russia-investigation/)
+See also: [James Comey disputes New York Times article about Russia investigation](/2017/06/08/james-comey-disputes-new-york-times-article-about-russia-investigation/)

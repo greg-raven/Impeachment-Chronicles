@@ -78,6 +78,6 @@ layout: page
 </table>
 
 <figure>
-<img src="/Impeachment-Chronicles/assets/Official-Portraits-of-President-Donald-J-Trump-and-Vice-President-Mike-Pence.jpg" alt="President Donald Trump and Vice-president Mike Pence" height="530" width="820">
+<img src="/assets/Official-Portraits-of-President-Donald-J-Trump-and-Vice-President-Mike-Pence.jpg" alt="President Donald Trump and Vice-president Mike Pence" height="530" width="820">
 <figcaption>President Donald Trump and Vice-president Mike Pence</figcaption>
 </figure>
