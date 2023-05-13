@@ -1,14 +1,10 @@
 ---
-title: "CIA/NSA sources involved with Trump ‘pee tape’"
+title: "CIA/NSA sources involved with Trump ‘pee tape’ and ‘Leftist sh*t’ at The Times"
 date: '2022-03-09T09:23:00-08:00'
 layout: post
 author:
 - Matthew Rosenberg
 ---
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9y-ClpvWnq8" title="The CIA/NSA 'pee tape' and Leftist shit at The Times"></iframe>
-
-New York Times Reporter Discusses CIA / NSA Sources; ‘Ridiculous Pee Tape Didn’t Exist’ … ‘Crazier Leftist Sh\*t’ Influences Reporting
 
 - Rosenberg on infamous pee tape: “It involved CIA and NSA. It involved Trump and involved that ridiculous, like, ‘pee tape’, which of course doesn’t exist.”
 - Rosenberg: “I think there’s like a real internal tug of war \[at NYT\] between, like the reasonable people and some of the crazier leftist sh\*t that’s worked its way in there.”
@@ -33,5 +29,7 @@ Rosenberg, who’s been with the New York Times for over a decade, also spent so
 After going deeper into the internal schism at the New York Times, Rosenberg commented on the Times’ ongoing legal fight with Project Veritas. “James O’Keefe, that was a f\*ck up. We may well lose that one,” said Rosenberg.
 
 When interviewed by James O’Keefe, Rosenberg said he “absolutely” stands by the comments made in the undercover footage.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9y-ClpvWnq8" title="The CIA/NSA 'pee tape' and Leftist shit at The Times"></iframe>
 
 Source: Project Veritas, https://www.youtube.com/watch?v=9y-ClpvWnq8
