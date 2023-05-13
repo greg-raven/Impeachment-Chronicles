@@ -118,7 +118,7 @@ A former Ukrainian investigative journalist and current parliamentarian named Se
 
 Manafort denied receiving any off-books cash from Yanukovych’s Party of Regions, and said that he had never been contacted about the ledger by Ukrainian or American investigators, later telling POLITICO “I was just caught in the crossfire.”
 
-According to a series of memos reportedly compiled for Trump’s opponents by a former British intelligence agent, Yanukovych, in a secret meeting with Putin on the day after the Times published its report, admitted that he had authorized “substantial kickback payments to Manafort.” But according to [the report](/2016/06/20/the-steele-dossier/), which was published Tuesday by BuzzFeed but remains unverified. Yanukovych assured Putin “that there was no documentary trail left behind which could provide clear evidence of this” — an alleged statement that seemed to implicitly question the authenticity of the ledger.
+According to a series of memos reportedly compiled for Trump’s opponents by a former British intelligence agent, Yanukovych, in a secret meeting with Putin on the day after the Times published its report, admitted that he had authorized “substantial kickback payments to Manafort.” But according to [the report](/2016/06/20/the-steele-dossier.html), which was published Tuesday by BuzzFeed but remains unverified. Yanukovych assured Putin “that there was no documentary trail left behind which could provide clear evidence of this” — an alleged statement that seemed to implicitly question the authenticity of the ledger.
 
 The scrutiny around the ledgers — combined with that from other stories about his Ukraine work — proved too much, and he stepped down from the Trump campaign less than a week after the Times story.
 

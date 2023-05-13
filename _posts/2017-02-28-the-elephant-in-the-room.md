@@ -26,7 +26,7 @@ Both Gartner and Dodes agreed that as far as the depth of mental illness, this i
 
 **The Elephant in the Room**
 
-On his next broadcast, O’Donnell interviewed author Lee Siegel, who recently wrote an article for the Columbia Journalism Review titled, “[Avoiding Questions About Donald Trump’s Mental Health Is a Betrayal to Public Trust](/2017/02/22/avoiding-questions-about-trumps-mental-health-is-a-betrayal-of-public-trust/).” (Dodes appeared again as well, and both enlightening segments can be viewed here.)
+On his next broadcast, O’Donnell interviewed author Lee Siegel, who recently wrote an article for the Columbia Journalism Review titled, “[Avoiding Questions About Donald Trump’s Mental Health Is a Betrayal to Public Trust](/2017/02/22/avoiding-questions-about-trumps-mental-health-is-a-betrayal-of-public-trust.html).” (Dodes appeared again as well, and both enlightening segments can be viewed here.)
 
 It’s important to note that Siegel wrote:
 
