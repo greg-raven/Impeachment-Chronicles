@@ -4,7 +4,7 @@ title: 'How the FBI copied parts of the debunked Steele Dossier directly into it
 date: '2022-12-20T15:42:13-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1361'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1361'
 permalink: /2022/12/20/how-the-fbi-copied-parts-of-the-debunked-steele-dossier-directly-into-its-spy-requests/
 categories:
     - Uncategorized

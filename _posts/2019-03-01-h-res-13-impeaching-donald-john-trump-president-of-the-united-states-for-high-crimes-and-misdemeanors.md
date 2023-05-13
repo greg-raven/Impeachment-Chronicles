@@ -4,7 +4,7 @@ title: 'H.Res.13 — Impeaching Donald John Trump, President of the United State
 date: '2019-03-01T15:31:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=532'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=532'
 permalink: /2019/03/01/h-res-13-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors/
 categories:
     - Uncategorized

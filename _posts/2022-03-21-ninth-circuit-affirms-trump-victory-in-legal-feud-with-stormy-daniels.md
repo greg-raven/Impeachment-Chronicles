@@ -4,7 +4,7 @@ title: 'Ninth Circuit affirms Trump victory in legal feud with Stormy Daniels'
 date: '2022-03-21T13:35:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=302'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=302'
 permalink: /2022/03/21/ninth-circuit-affirms-trump-victory-in-legal-feud-with-stormy-daniels/
 categories:
     - Uncategorized

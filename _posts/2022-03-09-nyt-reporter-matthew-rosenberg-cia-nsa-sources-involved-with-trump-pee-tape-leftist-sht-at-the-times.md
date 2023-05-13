@@ -4,7 +4,7 @@ title: 'NYT reporter Matthew Rosenberg: CIA/NSA sources involved with Trump ‘p
 date: '2022-03-09T09:23:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=274'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=274'
 permalink: /2022/03/09/nyt-reporter-matthew-rosenberg-cia-nsa-sources-involved-with-trump-pee-tape-leftist-sht-at-the-times/
 categories:
     - Uncategorized

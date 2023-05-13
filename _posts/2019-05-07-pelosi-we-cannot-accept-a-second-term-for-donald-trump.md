@@ -4,7 +4,7 @@ title: 'Pelosi: ‘We cannot accept a second term for Donald Trump’'
 date: '2019-05-07T15:38:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=544'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=544'
 permalink: /2019/05/07/pelosi-we-cannot-accept-a-second-term-for-donald-trump/
 categories:
     - Uncategorized

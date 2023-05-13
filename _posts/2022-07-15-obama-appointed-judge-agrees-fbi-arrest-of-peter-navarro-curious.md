@@ -4,7 +4,7 @@ title: 'Obama-appointed judge agrees: FBI arrest of Peter Navarro ‘curious’'
 date: '2022-07-15T05:10:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=336'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=336'
 permalink: /2022/07/15/obama-appointed-judge-agrees-fbi-arrest-of-peter-navarro-curious/
 categories:
     - Uncategorized

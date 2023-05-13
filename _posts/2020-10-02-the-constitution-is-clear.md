@@ -4,7 +4,7 @@ title: 'The Constitution is clear'
 date: '2020-10-02T06:46:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=703'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=703'
 permalink: /2020/10/02/the-constitution-is-clear/
 categories:
     - Uncategorized

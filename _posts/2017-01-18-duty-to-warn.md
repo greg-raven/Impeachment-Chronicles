@@ -4,7 +4,7 @@ title: 'Duty to warn'
 date: '2017-01-18T05:36:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=365'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=365'
 permalink: /2017/01/18/duty-to-warn/
 categories:
     - Uncategorized

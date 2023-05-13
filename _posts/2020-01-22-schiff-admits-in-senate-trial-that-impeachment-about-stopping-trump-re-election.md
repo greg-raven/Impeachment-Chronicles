@@ -4,7 +4,7 @@ title: 'Schiff admits in Senate trial that impeachment about stopping Trump re-e
 date: '2020-01-22T04:52:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=646'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=646'
 permalink: /2020/01/22/schiff-admits-in-senate-trial-that-impeachment-about-stopping-trump-re-election/
 categories:
     - Uncategorized
@@ -24,7 +24,7 @@ House Intelligence Committee Chairman Adam Schiff (D-CA), who is serving as a De
 
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Numerous top Democrats have essentially admitted that their pursuit of having Trump removed from office was about stopping him from being re-elected.
 
-[In May, Rep. Al Green (D-TX) said, “I’m concerned that if we don’t impeach this president, he will get re-elected.”](https://www.impeachment.network/2019/05/06/rep-al-green-im-concerned-if-we-dont-impeach-this-president-he-will-get-re-elected/)
+[In May, Rep. Al Green (D-TX) said, “I’m concerned that if we don’t impeach this president, he will get re-elected.”](http://greg-raven.github.io/Impeachment-Chronicles/2019/05/06/rep-al-green-im-concerned-if-we-dont-impeach-this-president-he-will-get-re-elected/)
 
 Also in May, House Speaker Nancy Pelosi said, “We have to make sure — this will sound political but we have to make sure that the Constitution wins the next presidential election. We can’t be worrying about well, how long is this going to take? Well, that will take as long as it does. And we will press the case so that in the court of public opinion. People will know what is — is right. But we cannot accept a second term for Donald Trump if we are going to be faithful to our democracy and to the Constitution of the United States.”
 

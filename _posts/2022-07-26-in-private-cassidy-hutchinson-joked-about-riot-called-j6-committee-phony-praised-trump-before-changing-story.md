@@ -4,7 +4,7 @@ title: 'In private, Cassidy Hutchinson joked about riot, called J6 Committee ‘
 date: '2022-07-26T06:57:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=860'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=860'
 permalink: /2022/07/26/in-private-cassidy-hutchinson-joked-about-riot-called-j6-committee-phony-praised-trump-before-changing-story/
 categories:
     - Uncategorized

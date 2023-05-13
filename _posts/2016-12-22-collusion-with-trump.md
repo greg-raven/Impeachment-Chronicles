@@ -4,7 +4,7 @@ title: 'Collusion with Trump'
 date: '2016-12-22T13:45:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1087'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1087'
 permalink: /2016/12/22/collusion-with-trump/
 categories:
     - Uncategorized

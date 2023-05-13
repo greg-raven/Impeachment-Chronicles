@@ -4,7 +4,7 @@ title: 'New Strzok texts show FBI was investigating Trump before Crossfire Hurri
 date: '2020-12-17T10:10:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=742'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=742'
 permalink: /2020/12/17/new-strzok-texts-show-fbi-was-investigating-trump-before-crossfire-hurricane-was-opened/
 categories:
     - Uncategorized
@@ -12,7 +12,7 @@ categories:
 
 Newly declassified text messages from former FBI agent Peter Strzok suggest that the FBI began investigating then-presidential candidate Donald Trump and his campaign before the Crossfire Hurricane investigation was opened.
 
-While the FBI claims that investigations into Trump’s campaign began with the opening of Crossfire Hurricane on July 31, 2016, communications between Strzok and his alleged mistress, FBI special counsel Lisa Page, show that the agent asked Page to discuss “\[o\]ur open C\[counter-\]I\[ntelligence\] investigations relating to Trump’s Russian connections” with him on [July 28, 2016](https://www.impeachment.network/2016/07/28/text-peter-strzok-to-lisa-page/).
+While the FBI claims that investigations into Trump’s campaign began with the opening of Crossfire Hurricane on July 31, 2016, communications between Strzok and his alleged mistress, FBI special counsel Lisa Page, show that the agent asked Page to discuss “\[o\]ur open C\[counter-\]I\[ntelligence\] investigations relating to Trump’s Russian connections” with him on [July 28, 2016](http://greg-raven.github.io/Impeachment-Chronicles/2016/07/28/text-peter-strzok-to-lisa-page/).
 
 > The timeline here suggests the FBI was not honest when it claimed anti-Trump investigations began on July 31, and only because of alleged information about George Papadopoulos. Strzok’s July 28 text to Page about ongoing anti-Trump probes shows otherwise. https://t.co/D6nLO7ZhZB
 > 

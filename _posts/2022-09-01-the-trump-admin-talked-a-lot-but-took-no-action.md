@@ -4,7 +4,7 @@ title: 'The Trump admin talked a lot but took no action'
 date: '2022-09-01T09:36:18-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=957'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=957'
 permalink: /2022/09/01/the-trump-admin-talked-a-lot-but-took-no-action/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'To spy on a Trump aide, the FBI pursued a dossier rumor the press shot d
 date: '2022-05-04T14:13:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=322'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=322'
 permalink: /2022/05/04/to-spy-on-a-trump-aide-the-fbi-pursued-a-dossier-rumor-the-press-shot-down-as-bullshit/
 categories:
     - Uncategorized

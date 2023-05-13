@@ -4,7 +4,7 @@ title: 'Could Trump be impeached shortly after he takes office?'
 date: '2016-04-17T16:29:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=19'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=19'
 permalink: /2016/04/17/could-trump-be-impeached-shortly-after-he-takes-office/
 categories:
     - Uncategorized

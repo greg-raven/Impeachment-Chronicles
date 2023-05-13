@@ -4,7 +4,7 @@ title: 'Shrinks battle over diagnosing Donald Trump'
 date: '2017-01-31T07:48:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=407'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=407'
 permalink: /2017/01/31/shrinks-battle-over-diagnosing-donald-trump/
 categories:
     - Uncategorized

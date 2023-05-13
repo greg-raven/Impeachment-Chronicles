@@ -4,7 +4,7 @@ title: 'The walls of justice are closing in on Trump'
 date: '2022-09-15T13:58:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=980'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=980'
 permalink: /2022/09/15/the-walls-of-justice-are-closing-in-on-trump/
 categories:
     - Uncategorized

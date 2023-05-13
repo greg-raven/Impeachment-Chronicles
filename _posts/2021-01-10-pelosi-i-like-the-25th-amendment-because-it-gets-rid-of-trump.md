@@ -4,7 +4,7 @@ title: 'Pelosi: ‘I like the 25th Amendment’ because it ‘gets rid’ of Tru
 date: '2021-01-10T12:16:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=756'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=756'
 permalink: /2021/01/10/pelosi-i-like-the-25th-amendment-because-it-gets-rid-of-trump/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Mystery solved: DOJ secretly thwarted release of Russia documents declas
 date: '2022-07-20T04:22:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=631'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=631'
 permalink: /2022/07/20/mystery-solved-doj-secretly-thwarted-release-of-russia-documents-declassified-by-trump/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'The Fifth Estate'
 date: '2022-12-13T05:34:43-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1312'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1312'
 permalink: /2022/12/13/the-fifth-estate/
 categories:
     - Uncategorized

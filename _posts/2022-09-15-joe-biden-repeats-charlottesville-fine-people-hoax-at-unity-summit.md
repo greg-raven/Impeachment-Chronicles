@@ -4,7 +4,7 @@ title: 'Joe Biden repeats Charlottesville ‘fine people hoax’ at ‘Unity Sum
 date: '2022-09-15T06:36:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1132'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1132'
 permalink: /2022/09/15/joe-biden-repeats-charlottesville-fine-people-hoax-at-unity-summit/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Timeline: FBI opens a counterintelligence investigation into Flynn'
 date: '2016-08-16T07:01:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=145'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=145'
 permalink: /2016/08/16/timeline-fbi-opens-a-counterintelligence-investigation-into-flynn/
 categories:
     - Uncategorized

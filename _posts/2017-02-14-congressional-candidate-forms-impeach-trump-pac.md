@@ -4,7 +4,7 @@ title: 'Congressional candidate forms Impeach Trump PAC'
 date: '2017-02-14T09:48:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=448'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=448'
 permalink: /2017/02/14/congressional-candidate-forms-impeach-trump-pac/
 categories:
     - Uncategorized

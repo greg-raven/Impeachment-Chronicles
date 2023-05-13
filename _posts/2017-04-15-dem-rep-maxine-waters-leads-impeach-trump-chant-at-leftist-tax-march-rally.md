@@ -4,7 +4,7 @@ title: 'Dem Rep. Maxine Waters leads ‘impeach’ Trump chant at leftist Tax Ma
 date: '2017-04-15T10:15:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=473'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=473'
 permalink: /2017/04/15/dem-rep-maxine-waters-leads-impeach-trump-chant-at-leftist-tax-march-rally/
 categories:
     - Uncategorized

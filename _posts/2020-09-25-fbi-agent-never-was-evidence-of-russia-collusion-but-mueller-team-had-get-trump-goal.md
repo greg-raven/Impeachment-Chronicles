@@ -4,7 +4,7 @@ title: 'FBI agent: Never was evidence of Russia collusion but Mueller team had â
 date: '2020-09-25T10:05:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=738'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=738'
 permalink: /2020/09/25/fbi-agent-never-was-evidence-of-russia-collusion-but-mueller-team-had-get-trump-goal/
 categories:
     - Uncategorized

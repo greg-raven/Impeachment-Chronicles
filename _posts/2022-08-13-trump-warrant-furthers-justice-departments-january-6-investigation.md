@@ -4,7 +4,7 @@ title: 'Trump warrant furthers Justice Department’s January 6 investigation'
 date: '2022-08-13T10:31:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=950'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=950'
 permalink: /2022/08/13/trump-warrant-furthers-justice-departments-january-6-investigation/
 categories:
     - Uncategorized

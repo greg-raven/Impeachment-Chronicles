@@ -4,7 +4,7 @@ title: '50,000 Americans now dead because of Trump’s incompetence'
 date: '2020-04-25T08:01:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1127'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1127'
 permalink: /2020/04/25/50000-dead-americans-because-of-trumps-incompetence/
 categories:
     - Uncategorized

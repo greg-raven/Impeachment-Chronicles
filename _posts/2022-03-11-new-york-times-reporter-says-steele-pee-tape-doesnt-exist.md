@@ -4,13 +4,13 @@ title: 'New York Times reporter says Steele pee tape doesn’t exist'
 date: '2022-03-11T09:19:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=272'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=272'
 permalink: /2022/03/11/new-york-times-reporter-says-steele-pee-tape-doesnt-exist/
 categories:
     - Uncategorized
 ---
 
-*New York Times* reporter Matthew Rosenberg said the infamous “pee tape” from Christopher Steele’s anti-Trump dossier “doesn’t exist,” according to [the latest video released by Project Veritas](https://www.impeachment.network/2022/03/09/nyt-reporter-matthew-rosenberg-cia-nsa-sources-involved-with-trump-pee-tape-leftist-sht-at-the-times/).
+*New York Times* reporter Matthew Rosenberg said the infamous “pee tape” from Christopher Steele’s anti-Trump dossier “doesn’t exist,” according to [the latest video released by Project Veritas](http://greg-raven.github.io/Impeachment-Chronicles/2022/03/09/nyt-reporter-matthew-rosenberg-cia-nsa-sources-involved-with-trump-pee-tape-leftist-sht-at-the-times/).
 
 Rosenberg mentioned something that “involved CIA and NSA” before saying he believes the pee tape does not exist. “It involved the CIA and NSA. It involved Trump and involved that ridiculous, like, pee tape, which of course doesn’t exist,” Rosenberg allegedly says on the video.
 

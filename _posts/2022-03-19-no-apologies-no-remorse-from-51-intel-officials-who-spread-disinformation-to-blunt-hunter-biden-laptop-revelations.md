@@ -4,7 +4,7 @@ title: 'No apologies, no remorse from 51 intel officials who spread disinformati
 date: '2022-03-19T13:41:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=304'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=304'
 permalink: /2022/03/19/no-apologies-no-remorse-from-51-intel-officials-who-spread-disinformation-to-blunt-hunter-biden-laptop-revelations/
 categories:
     - Uncategorized

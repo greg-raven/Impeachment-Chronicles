@@ -4,7 +4,7 @@ title: 'U.S. media outlets retain Pulitzers for dubious &#8216;Russiagate&#8217;
 date: '2022-07-21T09:59:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=828'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=828'
 permalink: /2022/07/21/u-s-media-outlets-retain-pulitzers-for-dubious-russiagate-stories/
 categories:
     - Uncategorized

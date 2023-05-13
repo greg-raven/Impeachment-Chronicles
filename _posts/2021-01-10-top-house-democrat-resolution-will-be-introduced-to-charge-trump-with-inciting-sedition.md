@@ -4,7 +4,7 @@ title: 'Top House Democrat: Resolution will be introduced to charge Trump with â
 date: '2021-01-10T12:18:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=762'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=762'
 permalink: /2021/01/10/top-house-democrat-resolution-will-be-introduced-to-charge-trump-with-inciting-sedition/
 categories:
     - Uncategorized

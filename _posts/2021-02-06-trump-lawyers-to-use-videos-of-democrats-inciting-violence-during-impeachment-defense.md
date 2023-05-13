@@ -4,7 +4,7 @@ title: 'Trump lawyers to use videos of Democrats inciting violence during impeac
 date: '2021-02-06T07:18:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=612'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=612'
 permalink: /2021/02/06/trump-lawyers-to-use-videos-of-democrats-inciting-violence-during-impeachment-defense/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: '‘One small thing to be thankful for is that DJT is not in the White Ho
 date: '2022-02-21T08:50:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=256'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=256'
 permalink: /2022/02/21/one-small-thing-to-be-thankful-for-is-that-djt-is-not-in-the-white-house-as-the-ukraine-crisis-unfolds-hed-side-with-russia/
 categories:
     - Uncategorized

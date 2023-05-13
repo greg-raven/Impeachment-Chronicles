@@ -4,7 +4,7 @@ title: 'Official Statement of Stormy Daniels'
 date: '2018-01-30T06:25:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1371'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1371'
 permalink: /2018/01/30/official-statement-of-stormy-daniels/
 categories:
     - Uncategorized
@@ -24,4 +24,4 @@ Thank you,
 
 Stormy Daniels
 
-<figure class="wp-block-image size-full">![](https://www.impeachment.network/wp-content/uploads/2023/03/20180130-Stormy-Daniels.jpg)</figure>
+<figure class="wp-block-image size-full">![](http://greg-raven.github.io/Impeachment-Chronicles/wp-content/uploads/2023/03/20180130-Stormy-Daniels.jpg)</figure>

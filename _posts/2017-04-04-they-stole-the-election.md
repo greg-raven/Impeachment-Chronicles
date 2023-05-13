@@ -4,7 +4,7 @@ title: 'They stole the election'
 date: '2017-04-04T13:47:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1091'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1091'
 permalink: /2017/04/04/they-stole-the-election/
 categories:
     - Uncategorized

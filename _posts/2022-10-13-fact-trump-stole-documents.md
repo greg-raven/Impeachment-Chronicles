@@ -4,7 +4,7 @@ title: 'Fact: Trump stole documents'
 date: '2022-10-13T09:22:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1013'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1013'
 permalink: /2022/10/13/fact-trump-stole-documents/
 categories:
     - Uncategorized

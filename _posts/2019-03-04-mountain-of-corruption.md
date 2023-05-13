@@ -4,7 +4,7 @@ title: 'Mountain of corruption'
 date: '2019-03-04T13:44:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1081'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1081'
 permalink: /2019/03/04/mountain-of-corruption/
 categories:
     - Uncategorized

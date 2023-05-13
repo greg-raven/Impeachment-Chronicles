@@ -4,7 +4,7 @@ title: 'Pelosi: Democrats will move to impeach Trump'
 date: '2021-01-10T12:16:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=754'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=754'
 permalink: /2021/01/10/pelosi-democrats-will-move-to-impeach-trump/
 categories:
     - Uncategorized

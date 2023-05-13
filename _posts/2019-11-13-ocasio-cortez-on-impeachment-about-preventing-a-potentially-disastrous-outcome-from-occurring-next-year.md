@@ -4,7 +4,7 @@ title: 'Ocasio-Cortez on impeachment: ‘About preventing a potentially disastro
 date: '2019-11-13T08:01:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=429'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=429'
 permalink: /2019/11/13/ocasio-cortez-on-impeachment-about-preventing-a-potentially-disastrous-outcome-from-occurring-next-year/
 categories:
     - Uncategorized

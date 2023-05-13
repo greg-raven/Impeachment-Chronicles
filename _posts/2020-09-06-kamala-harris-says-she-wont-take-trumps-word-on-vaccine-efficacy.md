@@ -4,7 +4,7 @@ title: 'Kamala Harris says she won’t take Trump’s word on vaccine efficacy'
 date: '2020-09-06T06:43:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=699'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=699'
 permalink: /2020/09/06/kamala-harris-says-she-wont-take-trumps-word-on-vaccine-efficacy/
 categories:
     - Uncategorized

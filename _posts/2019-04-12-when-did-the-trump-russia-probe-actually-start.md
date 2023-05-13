@@ -4,7 +4,7 @@ title: 'When did the Trump-Russia probe actually start?'
 date: '2019-04-12T05:16:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=657'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=657'
 permalink: /2019/04/12/when-did-the-trump-russia-probe-actually-start/
 categories:
     - Uncategorized

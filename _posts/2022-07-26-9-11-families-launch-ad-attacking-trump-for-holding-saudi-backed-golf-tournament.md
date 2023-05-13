@@ -4,7 +4,7 @@ title: '9/11 families launch ad attacking Trump for holding Saudi-backed golf to
 date: '2022-07-26T06:53:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=874'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=874'
 permalink: /2022/07/26/9-11-families-launch-ad-attacking-trump-for-holding-saudi-backed-golf-tournament/
 categories:
     - Uncategorized

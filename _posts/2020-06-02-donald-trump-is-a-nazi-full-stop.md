@@ -4,7 +4,7 @@ title: 'Donald Trump is a Nazi. Full stop.'
 date: '2020-06-02T06:42:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1322'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1322'
 permalink: /2020/06/02/donald-trump-is-a-nazi-full-stop/
 categories:
     - Uncategorized

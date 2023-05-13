@@ -4,7 +4,7 @@ title: '176 members of the House now co-sponsoring the article of impeachment'
 date: '2021-01-09T10:17:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=748'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=748'
 permalink: /2021/01/09/176-members-of-the-house-now-co-sponsoring-the-article-of-impeachment/
 categories:
     - Uncategorized

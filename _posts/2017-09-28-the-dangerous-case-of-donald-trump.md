@@ -4,7 +4,7 @@ title: '‘The Dangerous Case of Donald Trump’'
 date: '2017-09-28T10:29:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=491'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=491'
 permalink: /2017/09/28/the-dangerous-case-of-donald-trump/
 categories:
     - Uncategorized
@@ -12,7 +12,7 @@ categories:
 
 - A new book delves into the president’s mental health.
 
-Our previous post, “[The Elephant in the Room: It’s time we talked openly about Donald Trump’s mental health](https://www.impeachment.network/2017/02/28/the-elephant-in-the-room/),” went viral with close to a million reads. People on both sides of the political spectrum — as well as mental health professionals — weighed in with hundreds of comments.
+Our previous post, “[The Elephant in the Room: It’s time we talked openly about Donald Trump’s mental health](http://greg-raven.github.io/Impeachment-Chronicles/2017/02/28/the-elephant-in-the-room/),” went viral with close to a million reads. People on both sides of the political spectrum — as well as mental health professionals — weighed in with hundreds of comments.
 
 One comment was from Hal Brown, MSW, a colleague of John Gartner, Ph.D., whom we mentioned in the post. John is the founder of Duty to Warn, an organization intent on warning our country that we are in dire trouble due to our president’s mental instability. More than 60,000 mental health professionals have signed John’s petition, which states:
 

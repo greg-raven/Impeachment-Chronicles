@@ -4,7 +4,7 @@ title: 'Maxine Waters: ‘Eventually’ we have to impeach President Trump'
 date: '2017-02-06T09:47:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=444'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=444'
 permalink: /2017/02/06/maxine-waters-eventually-we-have-to-impeach-president-trump/
 categories:
     - Uncategorized

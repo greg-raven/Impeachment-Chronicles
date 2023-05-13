@@ -4,7 +4,7 @@ title: 'Why billionaire Tom Steyer wants Donald Trump impeached'
 date: '2017-10-27T13:59:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=498'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=498'
 permalink: /2017/10/27/why-billionaire-tom-steyer-wants-donald-trump-impeached/
 categories:
     - Uncategorized

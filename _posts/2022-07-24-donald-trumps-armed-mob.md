@@ -4,7 +4,7 @@ title: 'Donald Trump’s armed mob'
 date: '2022-07-24T08:22:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=849'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=849'
 permalink: /2022/07/24/donald-trumps-armed-mob/
 categories:
     - Uncategorized

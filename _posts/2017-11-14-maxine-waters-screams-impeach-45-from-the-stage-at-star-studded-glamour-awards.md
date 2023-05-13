@@ -4,7 +4,7 @@ title: 'Maxine Waters screams ‘impeach 45’ from the stage at star-studded Gl
 date: '2017-11-14T07:54:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=417'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=417'
 permalink: /2017/11/14/maxine-waters-screams-impeach-45-from-the-stage-at-star-studded-glamour-awards/
 categories:
     - Uncategorized

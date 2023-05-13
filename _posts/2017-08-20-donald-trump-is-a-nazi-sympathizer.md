@@ -4,7 +4,7 @@ title: 'Donald Trump is a Nazi sympathizer'
 date: '2017-08-20T06:38:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1320'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1320'
 permalink: /2017/08/20/donald-trump-is-a-nazi-sympathizer/
 categories:
     - Uncategorized

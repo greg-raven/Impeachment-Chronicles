@@ -4,7 +4,7 @@ title: 'Impeachment witness Vindman: If Trump had been removed, 600,000 American
 date: '2021-08-03T15:30:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=8'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=8'
 permalink: /2021/08/03/impeachment-witness-vindman-if-trump-had-been-removed-600000-americans-wouldnt-have-died-of-covid/
 categories:
     - Uncategorized

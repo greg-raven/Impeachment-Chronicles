@@ -4,7 +4,7 @@ title: 'Obama activated Stefan Halper as a government contractor at start of pri
 date: '2018-05-24T10:22:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=839'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=839'
 permalink: /2018/05/24/obama-activated-stefan-halper-as-a-government-contractor-at-start-of-primaries/
 categories:
     - Uncategorized

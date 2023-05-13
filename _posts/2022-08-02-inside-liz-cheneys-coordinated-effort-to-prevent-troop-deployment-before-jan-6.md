@@ -4,7 +4,7 @@ title: 'Inside Liz Cheney’s Coordinated Effort To Prevent Troop Deployment Bef
 date: '2022-08-02T06:31:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=868'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=868'
 permalink: /2022/08/02/inside-liz-cheneys-coordinated-effort-to-prevent-troop-deployment-before-jan-6/
 categories:
     - Uncategorized

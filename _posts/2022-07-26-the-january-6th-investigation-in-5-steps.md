@@ -4,7 +4,7 @@ title: 'The January 6th ‘investigation’ in 5 steps'
 date: '2022-07-26T06:50:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=858'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=858'
 permalink: /2022/07/26/the-january-6th-investigation-in-5-steps/
 categories:
     - Uncategorized

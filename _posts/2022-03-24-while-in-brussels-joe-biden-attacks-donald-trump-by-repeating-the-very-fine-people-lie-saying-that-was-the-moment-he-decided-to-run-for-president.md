@@ -4,7 +4,7 @@ title: 'While in Brussels, Joe Biden attacks Donald Trump by repeating the ‘ve
 date: '2022-03-24T09:45:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=285'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=285'
 permalink: /2022/03/24/while-in-brussels-joe-biden-attacks-donald-trump-by-repeating-the-very-fine-people-lie-saying-that-was-the-moment-he-decided-to-run-for-president/
 categories:
     - Uncategorized

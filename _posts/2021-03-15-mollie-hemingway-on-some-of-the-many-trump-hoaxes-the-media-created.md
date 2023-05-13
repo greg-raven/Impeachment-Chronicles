@@ -4,7 +4,7 @@ title: 'Mollie Hemingway on some of the many Trump hoaxes the media â€˜createdâ€
 date: '2021-03-15T08:02:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=431'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=431'
 permalink: /2021/03/15/mollie-hemingway-on-some-of-the-many-trump-hoaxes-the-media-created/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'John Brennan buried evidence that Putin actually favored Hillary in 2016
 date: '2020-04-23T06:52:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1327'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1327'
 permalink: /2020/04/23/john-brennan-buried-evidence-that-putin-actually-favored-hillary-in-2016/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'The GOP needs to impeach Trump'
 date: '2016-10-01T13:19:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=162'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=162'
 permalink: /2016/10/01/the-gop-needs-to-impeach-trump/
 categories:
     - Uncategorized

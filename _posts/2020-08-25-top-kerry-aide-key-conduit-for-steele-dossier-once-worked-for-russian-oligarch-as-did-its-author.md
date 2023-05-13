@@ -4,7 +4,7 @@ title: 'Top Kerry Aide, key conduit for Steele Dossier, once worked for Russian 
 date: '2020-08-25T06:42:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=697'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=697'
 permalink: /2020/08/25/top-kerry-aide-key-conduit-for-steele-dossier-once-worked-for-russian-oligarch-as-did-its-author/
 categories:
     - Uncategorized

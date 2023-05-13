@@ -4,7 +4,7 @@ title: 'Timeline for impeaching Donald Trump: Inauguration Day 2017 to start of 
 date: '2019-12-18T07:07:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=590'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=590'
 permalink: /2019/12/18/timeline-for-impeaching-donald-trump-inauguration-day-2017-to-start-of-hearings-november-2019/
 categories:
     - Uncategorized

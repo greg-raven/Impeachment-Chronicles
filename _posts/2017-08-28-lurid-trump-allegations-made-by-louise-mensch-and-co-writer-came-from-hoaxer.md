@@ -4,7 +4,7 @@ title: 'Lurid Trump allegations made by Louise Mensch and co-writer came from ho
 date: '2017-08-28T05:36:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1156'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1156'
 permalink: /2017/08/28/lurid-trump-allegations-made-by-louise-mensch-and-co-writer-came-from-hoaxer/
 categories:
     - Uncategorized

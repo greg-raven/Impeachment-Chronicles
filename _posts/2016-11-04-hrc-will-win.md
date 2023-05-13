@@ -4,7 +4,7 @@ title: 'HRC will win'
 date: '2016-11-04T13:38:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1067'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1067'
 permalink: /2016/11/04/hrc-will-win/
 categories:
     - Uncategorized

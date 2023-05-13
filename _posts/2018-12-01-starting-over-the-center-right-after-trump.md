@@ -4,7 +4,7 @@ title: 'Starting over: The center right after Trump'
 date: '2018-12-01T07:58:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=423'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=423'
 permalink: /2018/12/01/starting-over-the-center-right-after-trump/
 categories:
     - Uncategorized

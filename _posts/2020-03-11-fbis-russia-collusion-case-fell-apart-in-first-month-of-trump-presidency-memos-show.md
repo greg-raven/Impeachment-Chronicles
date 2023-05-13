@@ -4,13 +4,13 @@ title: 'FBI’s Russia collusion case fell apart in first month of Trump preside
 date: '2020-03-11T05:46:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=664'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=664'
 permalink: /2020/03/11/fbis-russia-collusion-case-fell-apart-in-first-month-of-trump-presidency-memos-show/
 categories:
     - Uncategorized
 ---
 
-- Flynn collusion ruled out, [Steele dossier](https://www.impeachment.network/2016/06/20/the-steele-dossier/) debunked in January 2017, more than two years before Mueller announced it.
+- Flynn collusion ruled out, [Steele dossier](http://greg-raven.github.io/Impeachment-Chronicles/2016/06/20/the-steele-dossier/) debunked in January 2017, more than two years before Mueller announced it.
 
 The piecemeal release of FBI files in the Russia collusion investigation has masked an essential fact: James Comey’s G-men had substantially debunked the theory that Donald Trump’s campaign conspired with Moscow by the time the 45th president was settling into the Oval Office, according to declassified memos, court filings and interviews.
 

@@ -4,7 +4,7 @@ title: '‘They spied on Trump’: New filing by John Durham alleges that Presid
 date: '2022-02-12T08:48:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=254'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=254'
 permalink: /2022/02/12/they-spied-on-trump-new-filing-by-john-durham-alleges-that-president-trumps-internet-traffic-was-being-monitored/
 categories:
     - Uncategorized

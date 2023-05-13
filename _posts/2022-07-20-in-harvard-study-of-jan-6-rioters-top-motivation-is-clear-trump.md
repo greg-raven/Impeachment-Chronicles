@@ -4,7 +4,7 @@ title: 'In Harvard study of Jan. 6 rioters, top motivation is clear: Trump'
 date: '2022-07-20T04:25:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=633'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=633'
 permalink: /2022/07/20/in-harvard-study-of-jan-6-rioters-top-motivation-is-clear-trump/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Trump: The Kremlin Candidate?'
 date: '2017-01-16T05:34:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=363'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=363'
 permalink: /2017/01/16/trump-the-kremlin-candidate/
 categories:
     - Uncategorized

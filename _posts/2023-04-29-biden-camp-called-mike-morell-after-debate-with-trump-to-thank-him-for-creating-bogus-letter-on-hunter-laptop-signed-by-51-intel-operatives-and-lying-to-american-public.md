@@ -4,7 +4,7 @@ title: 'Biden camp called Mike Morell after debate with Trump to thank him for c
 date: '2023-04-29T06:49:51-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1403'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1403'
 permalink: /2023/04/29/biden-camp-called-mike-morell-after-debate-with-trump-to-thank-him-for-creating-bogus-letter-on-hunter-laptop-signed-by-51-intel-operatives-and-lying-to-american-public/
 categories:
     - Uncategorized

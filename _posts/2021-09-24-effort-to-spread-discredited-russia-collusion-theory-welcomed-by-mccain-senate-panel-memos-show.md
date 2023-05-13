@@ -4,7 +4,7 @@ title: 'Effort to spread discredited Russia collusion theory welcomed by McCain 
 date: '2021-09-24T09:44:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1355'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1355'
 permalink: /2021/09/24/effort-to-spread-discredited-russia-collusion-theory-welcomed-by-mccain-senate-panel-memos-show/
 categories:
     - Uncategorized

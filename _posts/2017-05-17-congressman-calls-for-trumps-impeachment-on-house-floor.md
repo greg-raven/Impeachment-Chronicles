@@ -4,7 +4,7 @@ title: 'Congressman calls for Trump’s impeachment on House floor'
 date: '2017-05-17T14:06:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=506'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=506'
 permalink: /2017/05/17/congressman-calls-for-trumps-impeachment-on-house-floor/
 categories:
     - Uncategorized

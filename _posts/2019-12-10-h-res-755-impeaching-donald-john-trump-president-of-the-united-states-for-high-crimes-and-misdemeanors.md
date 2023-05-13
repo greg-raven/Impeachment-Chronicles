@@ -4,7 +4,7 @@ title: 'H.Res.755 — Impeaching Donald John Trump, President of the United Stat
 date: '2019-12-10T07:01:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=579'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=579'
 permalink: /2019/12/10/h-res-755-impeaching-donald-john-trump-president-of-the-united-states-for-high-crimes-and-misdemeanors/
 categories:
     - Uncategorized

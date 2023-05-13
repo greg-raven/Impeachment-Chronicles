@@ -4,7 +4,7 @@ title: 'In case I wasn’t clear enough'
 date: '2016-11-08T13:39:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1405'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1405'
 permalink: /2016/11/08/in-case-i-wasnt-clear-enough/
 categories:
     - Uncategorized

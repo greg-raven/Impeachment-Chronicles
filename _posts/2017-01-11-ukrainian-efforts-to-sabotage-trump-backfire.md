@@ -4,7 +4,7 @@ title: 'Ukrainian efforts to sabotage Trump backfire'
 date: '2017-01-11T15:30:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=250'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=250'
 permalink: /2017/01/11/ukrainian-efforts-to-sabotage-trump-backfire/
 categories:
     - Uncategorized

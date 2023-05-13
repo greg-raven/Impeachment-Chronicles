@@ -4,7 +4,7 @@ title: '‘It’s time to stop comparing Trump to Hitler’'
 date: '2021-07-21T09:34:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1031'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1031'
 permalink: /2021/07/21/its-time-to-stop-comparing-trump-to-hitler/
 categories:
     - Uncategorized

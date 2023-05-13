@@ -4,7 +4,7 @@ title: 'Surest sign that a recession is coming'
 date: '2018-11-20T08:18:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=847'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=847'
 permalink: /2018/11/20/surest-sign-that-a-recession-is-coming/
 categories:
     - Uncategorized

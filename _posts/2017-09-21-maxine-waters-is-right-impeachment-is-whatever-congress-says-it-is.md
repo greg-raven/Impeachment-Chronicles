@@ -4,7 +4,7 @@ title: 'Maxine Waters is right, impeachment IS whatever Congress says it is'
 date: '2017-09-21T10:27:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=489'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=489'
 permalink: /2017/09/21/maxine-waters-is-right-impeachment-is-whatever-congress-says-it-is/
 categories:
     - Uncategorized
@@ -12,7 +12,7 @@ categories:
 
 Well, it sure seems like Rep. Maxine Waters (D-Calif.) is brushing up on her Constitutional law. Yesterday, Waters spoke at a Congressional Black Caucus Town Hall on Civil Rights, and she used her time to full-on demand help with impeaching Donald Trump. Specifically, she said:
 
-“[Impeachment is about whatever the Congress says it is. There is no law that dictates impeachment. What the Constitution says is ‘high crimes and misdemeanors,’ and we define that.](https://www.impeachment.network/2017/09/19/rep-maxine-waters-impeachment-is-about-whatever-the-congress-says-it-is/)”
+“[Impeachment is about whatever the Congress says it is. There is no law that dictates impeachment. What the Constitution says is ‘high crimes and misdemeanors,’ and we define that.](http://greg-raven.github.io/Impeachment-Chronicles/2017/09/19/rep-maxine-waters-impeachment-is-about-whatever-the-congress-says-it-is/)”
 
 Waters, never a stranger to haters, predictably set Twitter on fire with her statements:
 

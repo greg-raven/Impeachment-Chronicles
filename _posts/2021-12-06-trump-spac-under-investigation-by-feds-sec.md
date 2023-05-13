@@ -4,7 +4,7 @@ title: 'Trump SPAC under investigation by feds, SEC'
 date: '2021-12-06T13:48:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1095'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1095'
 permalink: /2021/12/06/trump-spac-under-investigation-by-feds-sec/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Trump ignores the experts'
 date: '2020-04-16T07:56:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1125'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1125'
 permalink: /2020/04/16/trump-ignores-the-experts/
 categories:
     - Uncategorized

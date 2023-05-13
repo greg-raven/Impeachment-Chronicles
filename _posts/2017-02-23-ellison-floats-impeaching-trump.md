@@ -4,7 +4,7 @@ title: 'Ellison floats impeaching Trump'
 date: '2017-02-23T10:07:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=462'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=462'
 permalink: /2017/02/23/ellison-floats-impeaching-trump/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Donald Trump’s full statement on impeachment trial acquittal'
 date: '2021-02-13T12:32:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=790'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=790'
 permalink: /2021/02/13/donald-trumps-full-statement-on-impeachment-trial-acquittal/
 categories:
     - Uncategorized

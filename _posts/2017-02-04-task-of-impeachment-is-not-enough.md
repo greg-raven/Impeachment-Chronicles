@@ -4,12 +4,12 @@ title: 'Task of impeachment is not enough'
 date: '2017-02-04T08:16:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1276'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1276'
 permalink: /2017/02/04/task-of-impeachment-is-not-enough/
 categories:
     - Uncategorized
 ---
 
-<figure class="wp-block-image size-full">![](https://www.impeachment.network/wp-content/uploads/2022/12/20170204-bdd.jpg)</figure>> BrooklynDad\_Defiant! @ @mmpadellan Talk of impeachment is NOT enough. This election was STOLEN. That means Pence would ALSO be illegitimate 2 succeed trump. #VoidTheElection
+<figure class="wp-block-image size-full">![](http://greg-raven.github.io/Impeachment-Chronicles/wp-content/uploads/2022/12/20170204-bdd.jpg)</figure>> BrooklynDad\_Defiant! @ @mmpadellan Talk of impeachment is NOT enough. This election was STOLEN. That means Pence would ALSO be illegitimate 2 succeed trump. #VoidTheElection
 
 Source: Twitter (via ifunny.co/picture/brooklyndad-defiant-mmpadellan-talk-of-impeachment-is-not-enough-this-IoWpmijD9)

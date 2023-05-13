@@ -4,7 +4,7 @@ title: 'Trump made some outrageous claims about German energy'
 date: '2018-09-25T16:18:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=806'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=806'
 permalink: /2018/09/25/trump-made-some-outrageous-claims-about-german-energy/
 categories:
     - Uncategorized

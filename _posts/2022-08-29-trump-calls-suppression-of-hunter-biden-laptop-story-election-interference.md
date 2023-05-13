@@ -4,7 +4,7 @@ title: 'Trump calls suppression of Hunter Biden laptop story ‘election interfe
 date: '2022-08-29T10:12:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=942'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=942'
 permalink: /2022/08/29/trump-calls-suppression-of-hunter-biden-laptop-story-election-interference/
 categories:
     - Uncategorized

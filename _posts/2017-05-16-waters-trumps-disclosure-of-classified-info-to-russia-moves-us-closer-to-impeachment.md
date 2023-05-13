@@ -4,7 +4,7 @@ title: 'Waters — Trump’s disclosure of classified info to Russia moves us cl
 date: '2017-05-16T05:26:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1152'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1152'
 permalink: /2017/05/16/waters-trumps-disclosure-of-classified-info-to-russia-moves-us-closer-to-impeachment/
 categories:
     - Uncategorized

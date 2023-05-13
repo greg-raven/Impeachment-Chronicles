@@ -4,7 +4,7 @@ title: 'Computer scientists have apparently uncovered a covert server linking th
 date: '2016-10-31T14:21:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=328'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=328'
 permalink: /2016/10/31/computer-scientists-have-apparently-uncovered-a-covert-server-linking-the-trump-organization-to-a-russian-based-bank/
 categories:
     - Uncategorized

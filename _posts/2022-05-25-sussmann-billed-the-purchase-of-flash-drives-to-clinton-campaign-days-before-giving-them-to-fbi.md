@@ -4,7 +4,7 @@ title: 'Sussmann billed the purchase of flash drives to Clinton campaign days be
 date: '2022-05-25T10:30:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=291'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=291'
 permalink: /2022/05/25/sussmann-billed-the-purchase-of-flash-drives-to-clinton-campaign-days-before-giving-them-to-fbi/
 categories:
     - Uncategorized

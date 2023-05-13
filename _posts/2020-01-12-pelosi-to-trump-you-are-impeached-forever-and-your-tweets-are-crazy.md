@@ -4,7 +4,7 @@ title: 'Pelosi to Trump: You are impeached forever (and your tweets are crazy)'
 date: '2020-01-12T12:24:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=620'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=620'
 permalink: /2020/01/12/pelosi-to-trump-you-are-impeached-forever-and-your-tweets-are-crazy/
 categories:
     - Uncategorized

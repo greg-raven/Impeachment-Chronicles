@@ -4,7 +4,7 @@ title: 'Nancy Pelosi on Trump: ‘He’ll be impeached for ever’ — as it hap
 date: '2019-12-20T07:09:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=594'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=594'
 permalink: /2019/12/20/nancy-pelosi-on-trump-hell-be-impeached-for-ever-as-it-happened/
 categories:
     - Uncategorized

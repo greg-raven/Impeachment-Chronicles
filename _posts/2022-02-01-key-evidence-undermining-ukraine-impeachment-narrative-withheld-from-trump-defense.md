@@ -4,7 +4,7 @@ title: 'Key evidence undermining Ukraine impeachment narrative withheld from Tru
 date: '2022-02-01T06:42:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1161'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1161'
 permalink: /2022/02/01/key-evidence-undermining-ukraine-impeachment-narrative-withheld-from-trump-defense/
 categories:
     - Uncategorized

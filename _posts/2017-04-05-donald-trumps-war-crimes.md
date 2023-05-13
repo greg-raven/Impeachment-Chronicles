@@ -4,7 +4,7 @@ title: 'Donald Trump’s war crimes'
 date: '2017-04-05T10:13:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=469'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=469'
 permalink: /2017/04/05/donald-trumps-war-crimes/
 categories:
     - Uncategorized

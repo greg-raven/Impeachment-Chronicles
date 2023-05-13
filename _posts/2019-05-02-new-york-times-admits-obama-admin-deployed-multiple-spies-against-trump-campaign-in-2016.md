@@ -4,7 +4,7 @@ title: 'New York Times admits Obama Admin deployed multiple spies against Trump 
 date: '2019-05-02T15:35:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=540'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=540'
 permalink: /2019/05/02/new-york-times-admits-obama-admin-deployed-multiple-spies-against-trump-campaign-in-2016/
 categories:
     - Uncategorized

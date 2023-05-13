@@ -4,7 +4,7 @@ title: '2016 election was illegitimate'
 date: '2018-02-16T07:52:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1269'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1269'
 permalink: /2018/02/16/2016-election-was-illegitimate/
 categories:
     - Uncategorized

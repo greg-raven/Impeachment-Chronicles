@@ -4,7 +4,7 @@ title: 'California’s Rep. Brad Sherman to introduce impeachment measure'
 date: '2019-01-03T06:23:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=523'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=523'
 permalink: /2019/01/03/californias-rep-brad-sherman-to-introduce-impeachment-measure/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Kill as many Americans as possible'
 date: '2020-10-27T09:33:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1029'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1029'
 permalink: /2020/10/27/kill-as-many-americans-as-possible/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Ex-FBI lawyer admits to false statement during Russia probe'
 date: '2020-08-19T09:59:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=734'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=734'
 permalink: /2020/08/19/ex-fbi-lawyer-admits-to-false-statement-during-russia-probe/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Protesters dispersed with tear gas so Trump could pose at church'
 date: '2020-06-01T06:21:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=672'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=672'
 permalink: /2020/06/01/protesters-dispersed-with-tear-gas-so-trump-could-pose-at-church/
 categories:
     - Uncategorized

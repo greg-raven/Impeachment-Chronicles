@@ -4,7 +4,7 @@ title: 'Ratcliffe says ‘all kinds of intelligence’ showed ‘fake Russia col
 date: '2022-02-21T09:00:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=267'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=267'
 permalink: /2022/02/21/ratcliffe-says-all-kinds-of-intelligence-showed-fake-russia-collusion/
 categories:
     - Uncategorized

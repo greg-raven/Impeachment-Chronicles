@@ -4,7 +4,7 @@ title: 'Deep State: Inside Donald Trump’s paranoid conspiracy theory'
 date: '2017-03-09T05:35:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1201'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1201'
 permalink: /2017/03/09/deep-state-inside-donald-trumps-paranoid-conspiracy-theory/
 categories:
     - Uncategorized

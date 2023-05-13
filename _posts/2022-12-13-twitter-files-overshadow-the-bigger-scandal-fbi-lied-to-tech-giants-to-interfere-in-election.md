@@ -4,7 +4,7 @@ title: 'Twitter files overshadow the bigger scandal: FBI lied to tech giants to 
 date: '2022-12-13T05:28:57-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1314'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1314'
 permalink: /2022/12/13/twitter-files-overshadow-the-bigger-scandal-fbi-lied-to-tech-giants-to-interfere-in-election/
 categories:
     - Uncategorized

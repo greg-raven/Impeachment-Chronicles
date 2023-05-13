@@ -4,7 +4,7 @@ title: 'Senate releases unredacted Strzok-Page texts showing FBI initiated MULTI
 date: '2018-06-04T10:06:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=830'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=830'
 permalink: /2018/06/04/senate-releases-unredacted-strzok-page-texts-showing-fbi-initiated-multiple-spies-in-trump-campaign-in-december-2015/
 categories:
     - Uncategorized

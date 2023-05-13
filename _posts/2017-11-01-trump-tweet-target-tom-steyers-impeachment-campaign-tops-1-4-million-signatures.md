@@ -4,7 +4,7 @@ title: 'Trump-tweet target Tom Steyer’s impeachment campaign tops 1.4 million 
 date: '2017-11-01T06:59:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1331'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1331'
 permalink: /2017/11/01/trump-tweet-target-tom-steyers-impeachment-campaign-tops-1-4-million-signatures/
 categories:
     - Uncategorized

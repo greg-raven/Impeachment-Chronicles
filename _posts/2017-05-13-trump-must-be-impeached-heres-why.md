@@ -4,7 +4,7 @@ title: 'Trump must be impeached. Here’s why.'
 date: '2017-05-13T10:22:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=483'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=483'
 permalink: /2017/05/13/trump-must-be-impeached-heres-why/
 categories:
     - Uncategorized

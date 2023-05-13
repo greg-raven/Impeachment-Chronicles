@@ -4,7 +4,7 @@ title: 'Never been frightened?'
 date: '2022-10-20T07:58:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1274'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1274'
 permalink: /2022/10/20/never-been-frightened/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Trump accused Germany of becoming ‘totally dependent’ on Russian ene
 date: '2018-09-25T16:17:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=808'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=808'
 permalink: /2018/09/25/trump-accused-germany-of-becoming-totally-dependent-on-russian-energy-at-the-u-n-the-germans-just-smirked/
 categories:
     - Uncategorized

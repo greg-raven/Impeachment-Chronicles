@@ -4,7 +4,7 @@ title: 'Pathological liar'
 date: '2016-08-12T09:27:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1017'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1017'
 permalink: /2016/08/12/pathological-liar/
 categories:
     - Uncategorized

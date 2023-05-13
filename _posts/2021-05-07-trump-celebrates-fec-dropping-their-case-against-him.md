@@ -4,7 +4,7 @@ title: 'Trump celebrates FEC dropping their case against him'
 date: '2021-05-07T08:07:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=438'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=438'
 permalink: /2021/05/07/trump-celebrates-fec-dropping-their-case-against-him/
 categories:
     - Uncategorized

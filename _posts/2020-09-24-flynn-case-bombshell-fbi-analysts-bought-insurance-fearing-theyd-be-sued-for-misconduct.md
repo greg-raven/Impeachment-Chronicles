@@ -4,7 +4,7 @@ title: 'Flynn case bombshell: FBI analysts bought insurance fearing they’d be 
 date: '2020-09-24T09:49:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=726'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=726'
 permalink: /2020/09/24/flynn-case-bombshell-fbi-analysts-bought-insurance-fearing-theyd-be-sued-for-misconduct/
 categories:
     - Uncategorized

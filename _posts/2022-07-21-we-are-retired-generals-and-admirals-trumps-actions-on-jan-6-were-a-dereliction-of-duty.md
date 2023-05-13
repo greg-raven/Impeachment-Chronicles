@@ -4,7 +4,7 @@ title: 'We are retired generals and admirals. Trump’s actions on Jan. 6 were a
 date: '2022-07-21T16:23:09-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=810'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=810'
 permalink: /2022/07/21/we-are-retired-generals-and-admirals-trumps-actions-on-jan-6-were-a-dereliction-of-duty/
 categories:
     - Uncategorized

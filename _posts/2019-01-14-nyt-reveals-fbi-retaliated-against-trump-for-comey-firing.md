@@ -4,7 +4,7 @@ title: 'NYT reveals FBI retaliated against Trump for Comey firing'
 date: '2019-01-14T06:26:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=529'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=529'
 permalink: /2019/01/14/nyt-reveals-fbi-retaliated-against-trump-for-comey-firing/
 categories:
     - Uncategorized

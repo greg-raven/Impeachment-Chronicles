@@ -4,7 +4,7 @@ title: 'Time for media to dig in hard'
 date: '2017-02-24T09:29:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1021'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1021'
 permalink: /2017/02/24/time-for-media-to-dig-in-hard/
 categories:
     - Uncategorized

@@ -4,13 +4,13 @@ title: 'Atlantic’s Anne Applebaum explains why ‘even if every single word in
 date: '2021-11-17T07:31:09-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=95'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=95'
 permalink: /2021/11/17/atlantics-anne-applebaum-explains-why-even-if-every-single-word-in-the-steele-dossier-was-wrong-the-fbi-and-media-were-right-to-treat-it-as-legit/
 categories:
     - Uncategorized
 ---
 
-Even if every single word in [The Steele Dossier](https://www.impeachment.network/2016/06/20/the-steele-dossier/) was wrong, that would not change the fact that the Russians sought to manipulate the US election using hacked material and a disinformation campaign. Nor would it change the fact that the Trump family welcomed this intervention.
+Even if every single word in [The Steele Dossier](http://greg-raven.github.io/Impeachment-Chronicles/2016/06/20/the-steele-dossier/) was wrong, that would not change the fact that the Russians sought to manipulate the US election using hacked material and a disinformation campaign. Nor would it change the fact that the Trump family welcomed this intervention.
 
 Also, given the fact that the Russians sought to manipulate the US election campaign using hacked material and a disinformation campaign, it was not stupid for the FBI to take the Steele dossier seriously. Was a mistake to publish it, but that wasn’t the FBI’s fault.
 

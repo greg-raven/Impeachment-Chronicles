@@ -4,7 +4,7 @@ title: 'Which Republicans oppose Trump and why?'
 date: '2016-08-10T07:06:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=865'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=865'
 permalink: /2016/08/10/which-republicans-oppose-trump-and-why/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Adam Schiff, Cyberbully'
 date: '2023-04-30T08:01:47-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1387'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1387'
 permalink: /2023/04/30/adam-schiff-cyberbully/
 categories:
     - Uncategorized

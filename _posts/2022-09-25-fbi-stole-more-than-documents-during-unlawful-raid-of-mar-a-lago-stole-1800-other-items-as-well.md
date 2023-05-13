@@ -4,7 +4,7 @@ title: 'FBI stole more than documents during unlawful raid of Mar-a-Lago – sto
 date: '2022-09-25T10:16:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1045'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1045'
 permalink: /2022/09/25/fbi-stole-more-than-documents-during-unlawful-raid-of-mar-a-lago-stole-1800-other-items-as-well/
 categories:
     - Uncategorized

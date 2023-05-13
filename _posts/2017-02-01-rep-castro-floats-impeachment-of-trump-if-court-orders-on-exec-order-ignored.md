@@ -4,7 +4,7 @@ title: 'Rep. Castro floats impeachment of Trump if court orders on exec order ig
 date: '2017-02-01T07:49:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=409'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=409'
 permalink: /2017/02/01/rep-castro-floats-impeachment-of-trump-if-court-orders-on-exec-order-ignored/
 categories:
     - Uncategorized

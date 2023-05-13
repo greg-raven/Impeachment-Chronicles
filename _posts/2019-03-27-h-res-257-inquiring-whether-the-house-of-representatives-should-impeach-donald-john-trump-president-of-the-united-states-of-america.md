@@ -4,7 +4,7 @@ title: 'H.Res.257 — Inquiring whether the House of Representatives should impe
 date: '2019-03-27T15:32:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=534'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=534'
 permalink: /2019/03/27/h-res-257-inquiring-whether-the-house-of-representatives-should-impeach-donald-john-trump-president-of-the-united-states-of-america/
 categories:
     - Uncategorized

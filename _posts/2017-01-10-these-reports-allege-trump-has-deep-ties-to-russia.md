@@ -4,7 +4,7 @@ title: 'These reports allege Trump has deep ties to Russia'
 date: '2017-01-10T14:14:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=222'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=222'
 permalink: /2017/01/10/these-reports-allege-trump-has-deep-ties-to-russia/
 categories:
     - Uncategorized

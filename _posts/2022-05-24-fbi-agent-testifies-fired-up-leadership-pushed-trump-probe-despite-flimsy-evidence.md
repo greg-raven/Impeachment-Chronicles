@@ -4,7 +4,7 @@ title: 'FBI agent testifies ‘fired up’ leadership pushed Trump probe despite
 date: '2022-05-24T14:26:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=332'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=332'
 permalink: /2022/05/24/fbi-agent-testifies-fired-up-leadership-pushed-trump-probe-despite-flimsy-evidence/
 categories:
     - Uncategorized

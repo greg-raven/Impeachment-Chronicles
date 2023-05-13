@@ -4,7 +4,7 @@ title: '45 Republican Senators vote against Trump impeachment trial, say it’s 
 date: '2021-01-26T12:28:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=784'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=784'
 permalink: /2021/01/26/45-republican-senators-vote-against-trump-impeachment-trial-say-its-unconstitutional/
 categories:
     - Uncategorized

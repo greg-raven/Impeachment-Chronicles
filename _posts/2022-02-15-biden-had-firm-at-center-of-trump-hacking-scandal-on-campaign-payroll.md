@@ -4,7 +4,7 @@ title: 'Biden had firm at center of Trump hacking scandal on campaign payroll'
 date: '2022-02-15T05:52:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1159'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1159'
 permalink: /2022/02/15/biden-had-firm-at-center-of-trump-hacking-scandal-on-campaign-payroll/
 categories:
     - Uncategorized

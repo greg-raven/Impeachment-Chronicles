@@ -4,7 +4,7 @@ title: 'Johnson and May ignored claims Russia had ‘likely hold’ over Trump, 
 date: '2020-06-22T09:49:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1357'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1357'
 permalink: /2020/06/22/johnson-and-may-ignored-claims-russia-had-likely-hold-over-trump-ex-spy-alleges/
 categories:
     - Uncategorized

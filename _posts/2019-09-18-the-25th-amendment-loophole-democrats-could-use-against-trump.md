@@ -4,7 +4,7 @@ title: 'The 25th Amendment loophole Democrats could use against Trump'
 date: '2019-09-18T15:42:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=550'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=550'
 permalink: /2019/09/18/the-25th-amendment-loophole-democrats-could-use-against-trump/
 categories:
     - Uncategorized

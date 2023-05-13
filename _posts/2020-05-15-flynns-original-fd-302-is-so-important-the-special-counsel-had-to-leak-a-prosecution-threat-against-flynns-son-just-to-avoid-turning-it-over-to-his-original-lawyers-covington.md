@@ -4,7 +4,7 @@ title: 'Flynn’s original FD-302 is so important, the Special Counsel had to le
 date: '2020-05-15T06:51:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1165'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1165'
 permalink: /2020/05/15/flynns-original-fd-302-is-so-important-the-special-counsel-had-to-leak-a-prosecution-threat-against-flynns-son-just-to-avoid-turning-it-over-to-his-original-lawyers-covington/
 categories:
     - Uncategorized

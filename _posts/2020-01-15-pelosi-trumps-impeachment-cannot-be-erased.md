@@ -4,7 +4,7 @@ title: 'Pelosi: Trump’s impeachment ‘cannot be erased’'
 date: '2020-01-15T12:25:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=622'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=622'
 permalink: /2020/01/15/pelosi-trumps-impeachment-cannot-be-erased/
 categories:
     - Uncategorized

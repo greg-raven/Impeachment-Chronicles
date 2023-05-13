@@ -4,7 +4,7 @@ title: 'This is the single best argument for why Trump should be impeached and r
 date: '2019-12-02T06:54:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=573'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=573'
 permalink: /2019/12/02/this-is-the-single-best-argument-for-why-trump-should-be-impeached-and-removed/
 categories:
     - Uncategorized

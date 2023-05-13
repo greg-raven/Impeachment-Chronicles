@@ -4,7 +4,7 @@ title: 'Absolute proof'
 date: '2021-02-05T07:19:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=614'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=614'
 permalink: /2021/02/05/absolute-proof/
 categories:
     - Uncategorized

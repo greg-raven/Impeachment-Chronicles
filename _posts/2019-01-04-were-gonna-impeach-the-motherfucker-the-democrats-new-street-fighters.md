@@ -4,7 +4,7 @@ title: '‘We’re gonna impeach the motherfucker’: the Democrats’ new stree
 date: '2019-01-04T06:25:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=527'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=527'
 permalink: /2019/01/04/were-gonna-impeach-the-motherfucker-the-democrats-new-street-fighters/
 categories:
     - Uncategorized

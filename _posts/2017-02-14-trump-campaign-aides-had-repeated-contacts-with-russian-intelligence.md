@@ -4,7 +4,7 @@ title: 'Trump campaign aides had repeated contacts with Russian intelligence'
 date: '2017-02-14T09:49:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=450'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=450'
 permalink: /2017/02/14/trump-campaign-aides-had-repeated-contacts-with-russian-intelligence/
 categories:
     - Uncategorized

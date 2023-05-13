@@ -4,7 +4,7 @@ title: 'How Russiagate became a story of old friends in high places'
 date: '2021-09-21T09:36:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1351'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1351'
 permalink: /2021/09/21/how-russiagate-became-a-story-of-old-friends-in-high-places/
 categories:
     - Uncategorized

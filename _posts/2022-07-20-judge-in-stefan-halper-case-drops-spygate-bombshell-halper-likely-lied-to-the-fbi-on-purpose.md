@@ -4,7 +4,7 @@ title: 'Judge in Stefan Halper case drops SpyGate bombshell: Halper likely lied 
 date: '2022-07-20T09:37:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=713'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=713'
 permalink: /2022/07/20/judge-in-stefan-halper-case-drops-spygate-bombshell-halper-likely-lied-to-the-fbi-on-purpose/
 categories:
     - Uncategorized

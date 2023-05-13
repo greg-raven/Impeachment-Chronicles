@@ -4,7 +4,7 @@ title: 'Impeaching Trump isn’t enough'
 date: '2021-01-12T07:29:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1337'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1337'
 permalink: /2021/01/12/impeaching-trump-isnt-enough/
 categories:
     - Uncategorized

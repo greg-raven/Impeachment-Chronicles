@@ -4,7 +4,7 @@ title: Accomplishments
 date: '2021-08-06T05:41:55-07:00'
 author: 'Trump 2020'
 layout: page
-guid: 'https://www.impeachment.network/?page_id=25'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?page_id=25'
 ---
 
 <iframe class="scribd_iframe_embed" data-aspect-ratio="0.7729220222793488" data-auto-height="true" height="600" loading="lazy" src="https://www.scribd.com/embeds/493046695/content?start_page=1&view_mode=scroll&access_key=key-ZduaW3Kwa4lhO6prhjsF" tabindex="0" title="Trump’s Accomplishments as of August 2020"></iframe>

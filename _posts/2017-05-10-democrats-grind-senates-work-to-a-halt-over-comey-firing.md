@@ -4,7 +4,7 @@ title: 'Democrats grind Senate’s work to a halt over Comey firing'
 date: '2017-05-10T10:19:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=479'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=479'
 permalink: /2017/05/10/democrats-grind-senates-work-to-a-halt-over-comey-firing/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'FBI analyst who helped shutter Hunter Biden probe referred for disciplin
 date: '2022-07-27T16:23:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=854'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=854'
 permalink: /2022/07/27/fbi-analyst-who-helped-shutter-hunter-biden-probe-referred-for-disciplinary-action-over-trump-dossier/
 categories:
     - Uncategorized

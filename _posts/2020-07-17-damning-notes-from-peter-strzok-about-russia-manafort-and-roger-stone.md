@@ -4,7 +4,7 @@ title: 'Damning notes from Peter Strzok about Russia, Manafort, and Roger Stone'
 date: '2020-07-17T09:40:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=715'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=715'
 permalink: /2020/07/17/damning-notes-from-peter-strzok-about-russia-manafort-and-roger-stone/
 categories:
     - Uncategorized
@@ -22,4 +22,4 @@ categories:
 
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Twitchy.com, twitchy.com/samj-3930/2020/07/17/wow-techno-fogs-thread-of-damning-notes-from-peter-strzok-about-russia-manafort-and-roger-stone-a-must-read/
 
-See also: [James Comey disputes New York Times article about Russia investigation](https://www.impeachment.network/2017/06/08/james-comey-disputes-new-york-times-article-about-russia-investigation/)
+See also: [James Comey disputes New York Times article about Russia investigation](http://greg-raven.github.io/Impeachment-Chronicles/2017/06/08/james-comey-disputes-new-york-times-article-about-russia-investigation/)

@@ -4,7 +4,7 @@ title: 'FBI recorded Trump questions on Russia during first counterintelligence 
 date: '2020-07-24T06:37:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=691'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=691'
 permalink: /2020/07/24/fbi-recorded-trump-questions-on-russia-during-first-counterintelligence-briefing/
 categories:
     - Uncategorized

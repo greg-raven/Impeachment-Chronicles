@@ -4,7 +4,7 @@ title: 'Durham unmasks alliance between media, Democrat dirt diggers that trigge
 date: '2022-04-30T14:00:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=316'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=316'
 permalink: /2022/04/30/durham-unmasks-alliance-between-media-democrat-dirt-diggers-that-triggered-false-russia-story/
 categories:
     - Uncategorized

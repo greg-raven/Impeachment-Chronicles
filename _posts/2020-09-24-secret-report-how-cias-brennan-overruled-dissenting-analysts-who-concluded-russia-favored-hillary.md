@@ -4,7 +4,7 @@ title: 'Secret Report: How CIA’s Brennan overruled dissenting analysts who con
 date: '2020-09-24T09:50:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=728'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=728'
 permalink: /2020/09/24/secret-report-how-cias-brennan-overruled-dissenting-analysts-who-concluded-russia-favored-hillary/
 categories:
     - Uncategorized

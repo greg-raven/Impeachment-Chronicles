@@ -4,7 +4,7 @@ title: 'All of Trump’s Russia ties, in 7 charts'
 date: '2017-04-01T09:16:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1009'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1009'
 permalink: /2017/04/01/all-of-trumps-russia-ties-in-7-charts/
 categories:
     - Uncategorized

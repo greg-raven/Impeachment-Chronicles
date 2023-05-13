@@ -4,7 +4,7 @@ title: 'McConnell lauded Dems for launching&nbsp;Trump impeachment trial'
 date: '2022-04-21T13:57:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=314'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=314'
 permalink: /2022/04/21/mcconnell-lauded-dems-for-launching-trump-impeachment-trial/
 categories:
     - Uncategorized

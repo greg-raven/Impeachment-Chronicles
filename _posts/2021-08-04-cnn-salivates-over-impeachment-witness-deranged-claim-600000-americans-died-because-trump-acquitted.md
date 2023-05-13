@@ -4,7 +4,7 @@ title: 'CNN salivates over impeachment witness’ deranged claim 600,000 America
 date: '2021-08-04T15:37:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=10'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=10'
 permalink: /2021/08/04/cnn-salivates-over-impeachment-witness-deranged-claim-600000-americans-died-because-trump-acquitted/
 categories:
     - Uncategorized

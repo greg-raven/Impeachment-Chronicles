@@ -4,7 +4,7 @@ title: 'I’m running for president'
 date: '2019-02-19T07:59:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=425'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=425'
 permalink: /2019/02/19/im-running-for-president/
 categories:
     - Uncategorized

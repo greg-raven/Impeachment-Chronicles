@@ -4,7 +4,7 @@ title: 'Anticipating Trump’s return to Twitter'
 date: '2022-10-28T08:35:38-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1141'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1141'
 permalink: /2022/10/28/anticipating-trumps-return-to-twitter/
 categories:
     - Uncategorized

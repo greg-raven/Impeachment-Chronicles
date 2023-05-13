@@ -4,7 +4,7 @@ title: 'Active CIA employee recruited signatories for Hunter Biden laptop letter
 date: '2023-05-09T06:42:37-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1397'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1397'
 permalink: /2023/05/09/active-cia-employee-recruited-signatories-for-hunter-biden-laptop-letter-report-shows/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Original sin'
 date: '2020-08-23T13:44:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1083'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1083'
 permalink: /2020/08/23/original-sin/
 categories:
     - Uncategorized

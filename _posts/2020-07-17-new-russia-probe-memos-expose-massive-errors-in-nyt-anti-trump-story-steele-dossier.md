@@ -4,7 +4,7 @@ title: 'New Russia probe memos expose massive errors in NYT anti-Trump story, St
 date: '2020-07-17T09:42:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=718'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=718'
 permalink: /2020/07/17/new-russia-probe-memos-expose-massive-errors-in-nyt-anti-trump-story-steele-dossier/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: '‘Trump will never criticize Putin’'
 date: '2017-04-14T10:14:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=471'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=471'
 permalink: /2017/04/14/trump-will-never-criticize-putin/
 categories:
     - Uncategorized

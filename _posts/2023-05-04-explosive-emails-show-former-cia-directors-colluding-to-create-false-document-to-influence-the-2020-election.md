@@ -4,7 +4,7 @@ title: 'Explosive emails show former CIA directors colluding to create false doc
 date: '2023-05-04T06:46:43-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1401'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1401'
 permalink: /2023/05/04/explosive-emails-show-former-cia-directors-colluding-to-create-false-document-to-influence-the-2020-election/
 categories:
     - Uncategorized

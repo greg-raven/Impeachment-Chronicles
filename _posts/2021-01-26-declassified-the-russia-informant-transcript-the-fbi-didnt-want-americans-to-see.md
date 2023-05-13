@@ -4,7 +4,7 @@ title: 'Declassified! The Russia informant transcript the FBI didn’t want Amer
 date: '2021-01-26T12:30:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=786'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=786'
 permalink: /2021/01/26/declassified-the-russia-informant-transcript-the-fbi-didnt-want-americans-to-see/
 categories:
     - Uncategorized

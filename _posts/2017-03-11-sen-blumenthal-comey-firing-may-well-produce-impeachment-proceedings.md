@@ -4,7 +4,7 @@ title: 'Sen. Blumenthal: Comey firing ‘may well produce impeachment proceeding
 date: '2017-03-11T06:55:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1329'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1329'
 permalink: /2017/03/11/sen-blumenthal-comey-firing-may-well-produce-impeachment-proceedings/
 categories:
     - Uncategorized

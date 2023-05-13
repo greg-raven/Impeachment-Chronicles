@@ -4,7 +4,7 @@ title: 'Text: Peter Strzok to Lisa Page'
 date: '2016-07-28T09:59:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=111'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=111'
 permalink: /2016/07/28/text-peter-strzok-to-lisa-page/
 categories:
     - Uncategorized

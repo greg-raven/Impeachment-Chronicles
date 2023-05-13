@@ -4,7 +4,7 @@ title: 'Pushing hydroxychlocoquine'
 date: '2020-04-05T05:55:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=668'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=668'
 permalink: /2020/04/05/pushing-hydroxychlocoquine/
 categories:
     - Uncategorized

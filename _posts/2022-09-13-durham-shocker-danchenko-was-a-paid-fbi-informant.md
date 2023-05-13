@@ -4,7 +4,7 @@ title: 'Durham shocker: Danchenko was a paid FBI informant'
 date: '2022-09-13T13:56:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=976'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=976'
 permalink: /2022/09/13/durham-shocker-danchenko-was-a-paid-fbi-informant/
 categories:
     - Uncategorized

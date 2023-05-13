@@ -4,7 +4,7 @@ title: 'Remove Donald Trump from his presidency'
 date: '2017-01-30T07:47:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=404'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=404'
 permalink: /2017/01/30/remove-donald-trump-from-his-presidency/
 categories:
     - Uncategorized

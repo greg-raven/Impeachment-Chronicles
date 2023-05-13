@@ -4,7 +4,7 @@ title: 'Rep. Maxine Waters: ‘Impeachment is about whatever the Congress says i
 date: '2017-09-19T10:27:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=487'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=487'
 permalink: /2017/09/19/rep-maxine-waters-impeachment-is-about-whatever-the-congress-says-it-is/
 categories:
     - Uncategorized

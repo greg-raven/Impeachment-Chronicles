@@ -4,7 +4,7 @@ title: 'Sick of DT crying hoax'
 date: '2017-09-22T13:46:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1089'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1089'
 permalink: /2017/09/22/sick-of-dt-crying-hoax/
 categories:
     - Uncategorized

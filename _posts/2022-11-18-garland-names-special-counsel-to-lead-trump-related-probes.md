@@ -4,7 +4,7 @@ title: 'Garland names special counsel to lead Trump-related probes'
 date: '2022-11-18T05:42:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1206'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1206'
 permalink: /2022/11/18/garland-names-special-counsel-to-lead-trump-related-probes/
 categories:
     - Uncategorized

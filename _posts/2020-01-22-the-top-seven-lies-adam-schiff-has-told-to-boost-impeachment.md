@@ -4,7 +4,7 @@ title: 'The top seven lies Adam Schiff has told to boost impeachment'
 date: '2020-01-22T07:25:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1307'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1307'
 permalink: /2020/01/22/the-top-seven-lies-adam-schiff-has-told-to-boost-impeachment/
 categories:
     - Uncategorized

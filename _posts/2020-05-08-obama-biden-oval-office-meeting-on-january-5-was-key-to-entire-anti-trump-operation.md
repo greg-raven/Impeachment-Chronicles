@@ -4,7 +4,7 @@ title: 'Obama, Biden Oval Office meeting on January 5 was key to entire anti-Tru
 date: '2020-05-08T14:32:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=228'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=228'
 permalink: /2020/05/08/obama-biden-oval-office-meeting-on-january-5-was-key-to-entire-anti-trump-operation/
 categories:
     - Uncategorized

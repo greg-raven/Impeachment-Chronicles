@@ -4,7 +4,7 @@ title: 'Trump gave order to ‘make sure’ Jan. 6 rally was ‘safe event,’ P
 date: '2022-07-22T14:08:39-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=821'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=821'
 permalink: /2022/07/22/trump-gave-order-to-make-sure-jan-6-rally-was-safe-event-pentagon-memo-shows/
 categories:
     - Uncategorized

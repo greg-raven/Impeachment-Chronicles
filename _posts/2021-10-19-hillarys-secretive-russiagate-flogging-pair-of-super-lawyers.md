@@ -4,7 +4,7 @@ title: 'Hillary’s secretive, Russiagate-flogging pair of super-lawyers'
 date: '2021-10-19T06:21:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1316'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1316'
 permalink: /2021/10/19/hillarys-secretive-russiagate-flogging-pair-of-super-lawyers/
 categories:
     - Uncategorized

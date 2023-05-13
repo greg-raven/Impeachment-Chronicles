@@ -4,7 +4,7 @@ title: '10 disturbing revelations from FBI Special Agent William Barnett on the 
 date: '2020-09-25T09:55:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=732'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=732'
 permalink: /2020/09/25/10-disturbing-revelations-from-fbi-special-agent-william-barnett-on-the-fbis-michael-flynn-probe/
 categories:
     - Uncategorized
@@ -32,7 +32,7 @@ The summary, known as a “302,” reveals that the special agent, William Barne
     - Barnett had requested to be removed from the Flynn investigation in or about early February 2017, citing the DOJ Inspector General looking at the FBI’s handling of the investigation into the Hillary Clinton email server case and believing that the Flynn investigation could also result in an IG investigation. 
         - By then, he still did not see any evidence of collusion between the Trump campaign and the Russian government, or that the Flynn investigation was leading or headed toward prosecution.
 6. **The same FBI lawyer who falsified evidence on a surveillance warrant application on Carter Page also signed off on predication for national security letters on the Flynn investigation.**
-    - Barnett said he sent his national security letters for the Flynn investigation for FBI lawyer Kevin Clinesmith to review and approve. [Clinesmith is the same lawyer](https://www.impeachment.network/2020/08/19/ex-fbi-lawyer-admits-to-false-statement-during-russia-probe/) who doctored an email to say that former Trump campaign adviser Carter Page was “not” a source for the CIA, when the original email said that Page in fact had been a source. (The information could have made it more difficult for the FBI to obtain another surveillance warrant on Page). Clinesmith recently plead guilty to one count of making a false statement.
+    - Barnett said he sent his national security letters for the Flynn investigation for FBI lawyer Kevin Clinesmith to review and approve. [Clinesmith is the same lawyer](http://greg-raven.github.io/Impeachment-Chronicles/2020/08/19/ex-fbi-lawyer-admits-to-false-statement-during-russia-probe/) who doctored an email to say that former Trump campaign adviser Carter Page was “not” a source for the CIA, when the original email said that Page in fact had been a source. (The information could have made it more difficult for the FBI to obtain another surveillance warrant on Page). Clinesmith recently plead guilty to one count of making a false statement.
     - When Barnett was asked specific questions concerning the predication for investigation information provided in the request for a national security letter, Barnett said he sent an email to Clinesmith asking whether the predication was acceptable. Clinesmith said that it was and could be used for additional national security letters.
     - Barnett said that the information received through the national security letters did not change his mind that Flynn was not working with the Russian government.
 7. **Barnett thought Clinton campaign-donor and Special Counsel Office (SCO) attorney Jeannie Rhee was “obsessed” with Flynn and Russia, and that she had an “agenda.”**

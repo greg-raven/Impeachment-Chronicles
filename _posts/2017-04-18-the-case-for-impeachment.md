@@ -4,7 +4,7 @@ title: 'The Case for Impeachment'
 date: '2017-04-18T10:16:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=475'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=475'
 permalink: /2017/04/18/the-case-for-impeachment/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: '‘I want to say this about Donald Trump …’'
 date: '2017-01-15T15:48:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=347'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=347'
 permalink: /2017/01/15/i-want-to-say-this-about-donald-trump/
 categories:
     - Uncategorized

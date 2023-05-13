@@ -4,7 +4,7 @@ title: 'Julián Castro: Trump should be impeached for trying to obstruct justice
 date: '2019-04-23T15:34:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=538'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=538'
 permalink: /2019/04/23/julian-castro-trump-should-be-impeached-for-trying-to-obstruct-justice-in-very-concrete-ways/
 categories:
     - Uncategorized

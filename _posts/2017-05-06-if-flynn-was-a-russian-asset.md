@@ -4,7 +4,7 @@ title: 'If Flynn was a Russian asset'
 date: '2017-05-06T13:39:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1069'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1069'
 permalink: /2017/05/06/if-flynn-was-a-russian-asset/
 categories:
     - Uncategorized

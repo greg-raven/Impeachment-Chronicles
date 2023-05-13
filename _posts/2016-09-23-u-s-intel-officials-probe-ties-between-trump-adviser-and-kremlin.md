@@ -4,7 +4,7 @@ title: 'U.S. intel officials probe ties between Trump adviser and Kremlin'
 date: '2016-09-23T07:04:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=148'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=148'
 permalink: /2016/09/23/u-s-intel-officials-probe-ties-between-trump-adviser-and-kremlin/
 categories:
     - Uncategorized

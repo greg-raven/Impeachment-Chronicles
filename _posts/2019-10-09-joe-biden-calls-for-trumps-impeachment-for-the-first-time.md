@@ -4,7 +4,7 @@ title: 'Joe Biden calls for Trump’s impeachment for the first time'
 date: '2019-10-09T06:48:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=565'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=565'
 permalink: /2019/10/09/joe-biden-calls-for-trumps-impeachment-for-the-first-time/
 categories:
     - Uncategorized

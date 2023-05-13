@@ -4,7 +4,7 @@ title: 'James Comey disputes New York Times article about Russia investigation'
 date: '2017-06-08T07:51:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=411'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=411'
 permalink: /2017/06/08/james-comey-disputes-new-york-times-article-about-russia-investigation/
 categories:
     - Uncategorized

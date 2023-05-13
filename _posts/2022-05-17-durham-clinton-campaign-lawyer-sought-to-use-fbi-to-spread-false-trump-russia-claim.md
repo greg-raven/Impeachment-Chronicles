@@ -4,7 +4,7 @@ title: 'Durham: Clinton campaign lawyer sought to ‘use FBI’ to spread false 
 date: '2022-05-17T14:16:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=324'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=324'
 permalink: /2022/05/17/durham-clinton-campaign-lawyer-sought-to-use-fbi-to-spread-false-trump-russia-claim/
 categories:
     - Uncategorized

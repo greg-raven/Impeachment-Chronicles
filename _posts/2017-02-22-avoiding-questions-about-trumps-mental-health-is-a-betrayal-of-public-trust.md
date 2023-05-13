@@ -4,7 +4,7 @@ title: 'Avoiding questions about Trump’s mental health is a betrayal of public
 date: '2017-02-22T10:06:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=460'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=460'
 permalink: /2017/02/22/avoiding-questions-about-trumps-mental-health-is-a-betrayal-of-public-trust/
 categories:
     - Uncategorized

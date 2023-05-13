@@ -4,7 +4,7 @@ title: 'January 6 Committee ‘Is violating the Constitution’'
 date: '2022-05-02T14:10:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=320'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=320'
 permalink: /2022/05/02/january-6-committee-is-violating-the-constitution/
 categories:
     - Uncategorized

@@ -4,7 +4,7 @@ title: 'Timeline: Guidance from Obama'
 date: '2017-01-05T14:11:00-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=217'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=217'
 permalink: /2017/01/05/timeline-guidance-from-obama/
 categories:
     - Uncategorized
@@ -14,6 +14,6 @@ Yates, Comey, CIA Director John Brennan, and Director of National Intelligence J
 
 It was this meeting that Rice memorialized in a bizarre inauguration-day email to herself that claimed Obama told the gathered to do everything “by the book.” But Rice also noted in her email that the key point of discussion in that meeting was whether and how to withhold national security information, likely including details of the investigation into Trump himself, from the incoming Trump national security team.
 
-See: [Obama, Biden Oval Office meeting on January 5 was key to entire anti-Trump operation](https://www.impeachment.network/2020/05/09/obama-biden-oval-office-meeting-on-january-5-was-key-to-entire-anti-trump-operation/)
+See: [Obama, Biden Oval Office meeting on January 5 was key to entire anti-Trump operation](http://greg-raven.github.io/Impeachment-Chronicles/2020/05/09/obama-biden-oval-office-meeting-on-january-5-was-key-to-entire-anti-trump-operation/)
 
 Source: Mollie Ziegler Hemingway, thefederalist.com/2020/05/08/obama-biden-oval-office-meeting-on-january-5-was-key-to-entire-anti-trump-operation/

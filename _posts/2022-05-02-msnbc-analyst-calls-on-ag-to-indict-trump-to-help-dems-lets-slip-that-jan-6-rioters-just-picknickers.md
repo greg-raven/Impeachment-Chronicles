@@ -4,7 +4,7 @@ title: 'MSNBC analyst calls on AG to indict Trump to ‘help’ Dems, lets slip 
 date: '2022-05-02T14:08:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=318'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=318'
 permalink: /2022/05/02/msnbc-analyst-calls-on-ag-to-indict-trump-to-help-dems-lets-slip-that-jan-6-rioters-just-picknickers/
 categories:
     - Uncategorized

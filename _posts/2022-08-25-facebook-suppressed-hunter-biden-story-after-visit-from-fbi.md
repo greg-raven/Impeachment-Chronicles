@@ -4,7 +4,7 @@ title: 'Facebook suppressed Hunter Biden story after visit from FBI'
 date: '2022-08-25T13:58:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=982'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=982'
 permalink: /2022/08/25/facebook-suppressed-hunter-biden-story-after-visit-from-fbi/
 categories:
     - Uncategorized

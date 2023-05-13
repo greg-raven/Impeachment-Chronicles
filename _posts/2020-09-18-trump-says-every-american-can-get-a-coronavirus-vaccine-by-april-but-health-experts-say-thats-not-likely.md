@@ -4,7 +4,7 @@ title: 'Trump says every American can get a coronavirus vaccine by April, but he
 date: '2020-09-18T09:45:00-07:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=722'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=722'
 permalink: /2020/09/18/trump-says-every-american-can-get-a-coronavirus-vaccine-by-april-but-health-experts-say-thats-not-likely/
 categories:
     - Uncategorized

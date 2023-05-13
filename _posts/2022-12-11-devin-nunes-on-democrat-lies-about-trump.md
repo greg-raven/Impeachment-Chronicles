@@ -4,7 +4,7 @@ title: 'Devin Nunes on Democrat lies and hypocrisy'
 date: '2022-12-11T12:44:16-08:00'
 author: 'Trump 2020'
 layout: post
-guid: 'https://www.impeachment.network/?p=1264'
+guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1264'
 permalink: /2022/12/11/devin-nunes-on-democrat-lies-about-trump/
 categories:
     - Uncategorized
