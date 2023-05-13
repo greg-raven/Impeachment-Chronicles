@@ -1,12 +1,12 @@
 ---
-title: "CIA/NSA sources involved with Trump ‘pee tape"
+title: "CIA/NSA sources involved with Trump ‘pee tape’"
 date: '2022-03-09T09:23:00-08:00'
 layout: post
 author:
 - Matthew Rosenberg
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9y-ClpvWnq8" title="Leftist shit at The Times"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9y-ClpvWnq8" title="The CIA/NSA 'pee tape' and Leftist shit at The Times"></iframe>
 
 New York Times Reporter Discusses CIA / NSA Sources; ‘Ridiculous Pee Tape Didn’t Exist’ … ‘Crazier Leftist Sh\*t’ Influences Reporting
 
