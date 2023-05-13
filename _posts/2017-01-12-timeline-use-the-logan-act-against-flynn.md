@@ -3,7 +3,7 @@ id: 338
 title: 'Timeline: Use the Logan Act against Flynn'
 date: '2017-01-12T15:34:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=338'
 permalink: /2017/01/12/timeline-use-the-logan-act-against-flynn/
 categories:

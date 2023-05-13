@@ -3,7 +3,7 @@ id: 1035
 title: 'Self rule will be over'
 date: '2021-08-06T09:36:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1035'
 permalink: /2021/08/06/self-rule-will-be-over/
 categories:

@@ -3,7 +3,7 @@ id: 125
 title: 'The Washington Post corrects, removes parts of two stories regarding the Steele dossier'
 date: '2021-11-12T13:26:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=125'
 permalink: /2021/11/12/the-washington-post-corrects-removes-parts-of-two-stories-regarding-the-steele-dossier/
 categories:

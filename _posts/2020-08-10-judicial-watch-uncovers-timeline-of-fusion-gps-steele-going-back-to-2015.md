@@ -3,7 +3,7 @@ id: 659
 title: 'Judicial watch uncovers timeline of Fusion GPS/Steele going back to 2015'
 date: '2020-08-10T05:21:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=659'
 permalink: /2020/08/10/judicial-watch-uncovers-timeline-of-fusion-gps-steele-going-back-to-2015/
 categories:

@@ -3,7 +3,7 @@ id: 427
 title: 'H.Res.498 — Impeaching Donald John Trump, President of the United States, of high misdemeanors'
 date: '2019-07-17T08:00:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=427'
 permalink: /2019/07/17/h-res-498-impeaching-donald-john-trump-president-of-the-united-states-of-high-misdemeanors/
 categories:

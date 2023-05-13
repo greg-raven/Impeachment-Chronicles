@@ -3,7 +3,7 @@ id: 724
 title: 'Trump says, without evidence, every American will get coronavirus vaccine by April'
 date: '2020-09-18T09:47:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=724'
 permalink: /2020/09/18/trump-says-without-evidence-every-american-will-get-coronavirus-vaccine-by-april/
 categories:

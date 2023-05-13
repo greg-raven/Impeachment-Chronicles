@@ -3,7 +3,7 @@ id: 670
 title: 'Peaceful protesters tear-gassed to clear way for Trump church photo-op'
 date: '2020-06-01T06:20:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=670'
 permalink: /2020/06/01/peaceful-protesters-tear-gassed-to-clear-way-for-trump-church-photo-op/
 categories:

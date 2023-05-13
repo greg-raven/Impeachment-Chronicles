@@ -3,7 +3,7 @@ id: 819
 title: 'President unmasked: Trump goes maskless AGAIN on tour of factory despite being surrounded by staff in face coverings'
 date: '2020-05-14T13:37:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=819'
 permalink: /2020/05/14/president-unmasked-trump-goes-maskless-again-on-tour-of-factory-despite-being-surrounded-by-staff-in-face-coverings/
 categories:

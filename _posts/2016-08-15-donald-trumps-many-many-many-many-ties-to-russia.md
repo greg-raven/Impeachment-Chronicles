@@ -3,7 +3,7 @@ id: 1011
 title: 'Donald Trump’s many, many, many, many ties to Russia'
 date: '2016-08-15T09:21:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1011'
 permalink: /2016/08/15/donald-trumps-many-many-many-many-ties-to-russia/
 categories:

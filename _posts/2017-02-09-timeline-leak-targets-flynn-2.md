@@ -3,7 +3,7 @@ id: 446
 title: 'Timeline: Leak targets Flynn'
 date: '2017-02-09T09:48:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=446'
 permalink: /2017/02/09/timeline-leak-targets-flynn-2/
 categories:

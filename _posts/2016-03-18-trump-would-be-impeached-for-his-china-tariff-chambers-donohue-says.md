@@ -3,7 +3,7 @@ id: 17
 title: 'Trump would be ‘impeached’ for his China tariff, Chamber’s Donohue says'
 date: '2016-03-18T16:19:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=17'
 permalink: /2016/03/18/trump-would-be-impeached-for-his-china-tariff-chambers-donohue-says/
 categories:

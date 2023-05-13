@@ -3,7 +3,7 @@ id: 1371
 title: 'Official Statement of Stormy Daniels'
 date: '2018-01-30T06:25:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1371'
 permalink: /2018/01/30/official-statement-of-stormy-daniels/
 categories:

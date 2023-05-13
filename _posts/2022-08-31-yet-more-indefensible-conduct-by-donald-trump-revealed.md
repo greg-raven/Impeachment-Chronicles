@@ -3,7 +3,7 @@ id: 952
 title: 'Yet more indefensible conduct by Donald Trump'
 date: '2022-08-31T10:41:40-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=952'
 permalink: /2022/08/31/yet-more-indefensible-conduct-by-donald-trump-revealed/
 categories:

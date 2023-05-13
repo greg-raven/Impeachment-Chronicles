@@ -3,7 +3,7 @@ id: 581
 title: 'The first Democrat to call for impeachment says if the Senate won’t remove Trump from office, Democrats can try again'
 date: '2019-12-10T07:02:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=581'
 permalink: /2019/12/10/the-first-democrat-to-call-for-impeachment-says-if-the-senate-wont-remove-trump-from-office-democrats-can-try-again/
 categories:

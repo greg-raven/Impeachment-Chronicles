@@ -3,7 +3,7 @@ id: 1043
 title: 'Putin controlled Trump through blackmail'
 date: '2022-10-04T10:13:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1043'
 permalink: /2022/10/04/putin-controlled-trump-through-blackmail/
 categories:

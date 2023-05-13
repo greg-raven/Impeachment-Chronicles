@@ -3,7 +3,7 @@ id: 689
 title: 'Mueller and Weissmann op-eds greatly at odds with their report and evidence'
 date: '2020-07-16T06:36:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=689'
 permalink: /2020/07/16/mueller-and-weissmann-op-eds-greatly-at-odds-with-their-report-and-evidence/
 categories:

@@ -3,7 +3,7 @@ id: 1201
 title: 'Deep State: Inside Donald Trump’s paranoid conspiracy theory'
 date: '2017-03-09T05:35:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1201'
 permalink: /2017/03/09/deep-state-inside-donald-trumps-paranoid-conspiracy-theory/
 categories:

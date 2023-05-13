@@ -3,7 +3,7 @@ id: 917
 title: 'Search warrant or not, Americans have no reason to believe the FBI raid on Trump’s Florida home was justified'
 date: '2022-08-09T22:58:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=917'
 permalink: /2022/08/09/search-warrant-or-not-americans-have-no-reason-to-believe-the-fbi-raid-on-trumps-florida-home-was-justified/
 categories:

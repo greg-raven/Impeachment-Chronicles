@@ -3,7 +3,7 @@ id: 954
 title: 'Top FBI official ousted amid charges of bias in Hunter Biden investigation'
 date: '2022-08-30T10:49:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=954'
 permalink: /2022/08/30/top-fbi-official-ousted-amid-charges-of-bias-in-hunter-biden-investigation/
 categories:

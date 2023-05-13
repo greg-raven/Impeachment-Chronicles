@@ -3,7 +3,7 @@ id: 1015
 title: 'Trump has violated so many laws'
 date: '2022-09-23T09:23:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1015'
 permalink: /2022/09/23/trump-has-violated-so-many-laws/
 categories:

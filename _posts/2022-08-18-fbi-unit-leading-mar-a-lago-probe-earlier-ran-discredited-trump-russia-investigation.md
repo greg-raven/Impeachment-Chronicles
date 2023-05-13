@@ -3,7 +3,7 @@ id: 931
 title: 'FBI unit leading Mar-a-Lago probe earlier ran discredited Trump-Russia investigation'
 date: '2022-08-18T23:03:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=931'
 permalink: /2022/08/18/fbi-unit-leading-mar-a-lago-probe-earlier-ran-discredited-trump-russia-investigation/
 categories:

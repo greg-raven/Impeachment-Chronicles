@@ -3,7 +3,7 @@ id: 1123
 title: 'DOMINION: Eric Coomer allegedly bragged he ‘made f**king sure’ that ‘Trump’s not gonna win’'
 date: '2020-11-29T06:27:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1123'
 permalink: /2020/11/29/dominion-eric-coomer-allegedly-bragged-he-made-fking-sure-that-trumps-not-gonna-win/
 categories:

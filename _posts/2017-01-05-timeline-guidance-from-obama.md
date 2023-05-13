@@ -3,7 +3,7 @@ id: 217
 title: 'Timeline: Guidance from Obama'
 date: '2017-01-05T14:11:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=217'
 permalink: /2017/01/05/timeline-guidance-from-obama/
 categories:

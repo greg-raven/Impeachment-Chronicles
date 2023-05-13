@@ -3,7 +3,7 @@ id: 715
 title: 'Damning notes from Peter Strzok about Russia, Manafort, and Roger Stone'
 date: '2020-07-17T09:40:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=715'
 permalink: /2020/07/17/damning-notes-from-peter-strzok-about-russia-manafort-and-roger-stone/
 categories:

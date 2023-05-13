@@ -3,7 +3,7 @@ id: 1039
 title: 'Exactly like Nazi propaganda'
 date: '2016-11-19T09:39:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1039'
 permalink: /2016/11/19/exactly-like-nazi-propaganda/
 categories:

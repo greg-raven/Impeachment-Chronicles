@@ -3,7 +3,7 @@ id: 552
 title: 'Hillary Clinton: ‘Trump knows he’s an illegitimate president,’ ‘Insomuch as he has a conscience’'
 date: '2019-09-29T15:43:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=552'
 permalink: /2019/09/29/hillary-clinton-trump-knows-hes-an-illegitimate-president-insomuch-as-he-has-a-conscience/
 categories:

@@ -3,7 +3,7 @@ id: 872
 title: 'San Antonio Spurs coach Gregg Popovich praises second impeachment: ‘Good move’'
 date: '2021-01-14T06:48:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=872'
 permalink: /2021/01/14/san-antonio-spurs-coach-gregg-popovich-praises-second-impeachment-good-move/
 categories:

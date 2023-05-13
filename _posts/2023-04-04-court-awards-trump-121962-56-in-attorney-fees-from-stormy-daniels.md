@@ -3,7 +3,7 @@ id: 1381
 title: 'Court awards Trump $121,962.56 in attorney fees from Stormy Daniels'
 date: '2023-04-04T13:30:52-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1381'
 permalink: /2023/04/04/court-awards-trump-121962-56-in-attorney-fees-from-stormy-daniels/
 categories:

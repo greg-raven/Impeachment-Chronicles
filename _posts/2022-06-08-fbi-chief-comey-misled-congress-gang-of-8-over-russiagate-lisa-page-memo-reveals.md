@@ -3,7 +3,7 @@ id: 289
 title: 'FBI Chief Comey misled Congress’ ‘Gang of 8’ over Russiagate, Lisa Page memo reveals'
 date: '2022-06-08T10:08:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=289'
 permalink: /2022/06/08/fbi-chief-comey-misled-congress-gang-of-8-over-russiagate-lisa-page-memo-reveals/
 categories:

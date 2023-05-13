@@ -3,7 +3,7 @@ id: 1150
 title: 'Ayanna Pressley: Trump guilty of ‘war crimes’ in handling of coronavirus crisis'
 date: '2020-04-21T05:23:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1150'
 permalink: /2020/04/21/ayanna-pressley-trump-guilty-of-war-crimes-in-handling-of-coronavirus-crisis/
 categories:

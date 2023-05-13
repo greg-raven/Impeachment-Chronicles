@@ -3,7 +3,7 @@ id: 707
 title: 'Pelosi, Democrats introducing bill to create commission on ‘presidential capacity’'
 date: '2020-10-08T06:52:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=707'
 permalink: /2020/10/08/pelosi-democrats-introducing-bill-to-create-commission-on-presidential-capacity/
 categories:

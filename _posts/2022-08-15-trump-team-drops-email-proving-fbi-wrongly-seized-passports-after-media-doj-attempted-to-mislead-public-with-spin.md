@@ -3,7 +3,7 @@ id: 929
 title: 'Trump Team drops email proving FBI wrongly seized passports after media, DOJ attempted to mislead public with spin'
 date: '2022-08-15T23:02:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=929'
 permalink: /2022/08/15/trump-team-drops-email-proving-fbi-wrongly-seized-passports-after-media-doj-attempted-to-mislead-public-with-spin/
 categories:

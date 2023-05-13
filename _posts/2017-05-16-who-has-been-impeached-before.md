@@ -3,7 +3,7 @@ id: 504
 title: 'Who has been impeached before?'
 date: '2017-05-16T14:04:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=504'
 permalink: /2017/05/16/who-has-been-impeached-before/
 categories:

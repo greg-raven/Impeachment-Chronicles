@@ -3,7 +3,7 @@ id: 1085
 title: 'Pathological liar exposed again'
 date: '2017-03-16T13:45:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1085'
 permalink: /2017/03/16/pathological-liar-exposed-again/
 categories:

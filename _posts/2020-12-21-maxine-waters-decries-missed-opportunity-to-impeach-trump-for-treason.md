@@ -3,7 +3,7 @@ id: 746
 title: 'Maxine Waters decries ‘missed opportunity’ to impeach Trump for ‘treason’'
 date: '2020-12-21T10:13:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=746'
 permalink: /2020/12/21/maxine-waters-decries-missed-opportunity-to-impeach-trump-for-treason/
 categories:

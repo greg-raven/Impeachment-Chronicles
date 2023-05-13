@@ -3,7 +3,7 @@ id: 173
 title: 'Republicans wanted to impeach Trump from the start'
 date: '2020-01-23T13:29:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=173'
 permalink: /2020/01/23/republicans-wanted-to-impeach-trump-from-the-start/
 categories:

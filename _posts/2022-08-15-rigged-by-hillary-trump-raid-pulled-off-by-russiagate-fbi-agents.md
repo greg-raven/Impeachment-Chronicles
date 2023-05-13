@@ -3,7 +3,7 @@ id: 923
 title: 'Rigged by Hillary? Trump raid pulled off by ‘Russiagate’ FBI agents'
 date: '2022-08-15T23:00:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=923'
 permalink: /2022/08/15/rigged-by-hillary-trump-raid-pulled-off-by-russiagate-fbi-agents/
 categories:

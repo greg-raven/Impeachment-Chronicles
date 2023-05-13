@@ -3,7 +3,7 @@ id: 1208
 title: 'Trump is going to break your heart'
 date: '2015-12-15T06:38:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1208'
 permalink: /2015/12/15/trump-is-going-to-break-your-heart/
 categories:

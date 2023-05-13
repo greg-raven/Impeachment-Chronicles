@@ -3,7 +3,7 @@ id: 1121
 title: 'Allow me to share some frank thoughts about the ‘president’'
 date: '2020-05-05T15:44:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1121'
 permalink: /2020/05/05/allow-me-to-share-some-frank-thoughts-about-the-president/
 categories:

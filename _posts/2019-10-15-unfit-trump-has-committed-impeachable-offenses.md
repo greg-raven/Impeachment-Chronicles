@@ -3,7 +3,7 @@ id: 1005
 title: 'Unfit Trump has committed impeachable offenses'
 date: '2019-10-15T08:56:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1005'
 permalink: /2019/10/15/unfit-trump-has-committed-impeachable-offenses/
 categories:

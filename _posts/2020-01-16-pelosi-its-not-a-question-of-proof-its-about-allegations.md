@@ -3,7 +3,7 @@ id: 626
 title: 'Pelosi: ‘It’s not a question’ of ‘proof’ it’s about ‘allegations’'
 date: '2020-01-16T15:13:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=626'
 permalink: /2020/01/16/pelosi-its-not-a-question-of-proof-its-about-allegations/
 categories:

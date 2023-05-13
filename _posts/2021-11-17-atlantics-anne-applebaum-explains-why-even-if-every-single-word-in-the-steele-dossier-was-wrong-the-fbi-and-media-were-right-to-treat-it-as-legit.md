@@ -3,7 +3,7 @@ id: 95
 title: 'Atlantic’s Anne Applebaum explains why ‘even if every single word in the Steele dossier was wrong,’ the FBI and media were right to treat it as legit'
 date: '2021-11-17T07:31:09-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=95'
 permalink: /2021/11/17/atlantics-anne-applebaum-explains-why-even-if-every-single-word-in-the-steele-dossier-was-wrong-the-fbi-and-media-were-right-to-treat-it-as-legit/
 categories:

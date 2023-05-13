@@ -3,7 +3,7 @@ id: 683
 title: 'FBI knew Steele’s Russia research connected to Clinton, Dems from earliest interactions'
 date: '2020-06-10T06:31:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=683'
 permalink: /2020/06/10/fbi-knew-steeles-russia-research-connected-to-clinton-dems-from-earliest-interactions/
 categories:

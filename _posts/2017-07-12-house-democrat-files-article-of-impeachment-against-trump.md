@@ -3,7 +3,7 @@ id: 413
 title: 'House Democrat files article of impeachment against Trump'
 date: '2017-07-12T07:52:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=413'
 permalink: /2017/07/12/house-democrat-files-article-of-impeachment-against-trump/
 categories:

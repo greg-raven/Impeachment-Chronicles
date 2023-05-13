@@ -3,7 +3,7 @@ id: 164
 title: 'Professor predicted Trump win, says he will be impeached'
 date: '2016-11-11T13:20:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=164'
 permalink: /2016/11/11/professor-predicted-trump-win-says-he-will-be-impeached/
 categories:

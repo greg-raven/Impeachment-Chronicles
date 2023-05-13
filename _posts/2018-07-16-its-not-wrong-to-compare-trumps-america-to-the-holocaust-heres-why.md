@@ -3,7 +3,7 @@ id: 1053
 title: 'It’s not wrong to compare Trump’s America to the Holocaust. Here’s why'
 date: '2018-07-16T10:19:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1053'
 permalink: /2018/07/16/its-not-wrong-to-compare-trumps-america-to-the-holocaust-heres-why/
 categories:

@@ -3,7 +3,7 @@ id: 326
 title: 'Hillary Clinton OK’d sharing Trump-Russia ‘data’: campaign manager'
 date: '2022-05-20T14:19:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=326'
 permalink: /2022/05/20/hillary-clinton-okd-sharing-trump-russia-data-campaign-manager/
 categories:

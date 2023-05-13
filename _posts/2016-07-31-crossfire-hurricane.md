@@ -3,7 +3,7 @@ id: 115
 title: 'Crossfire Hurricane'
 date: '2016-07-31T10:03:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=115'
 permalink: /2016/07/31/crossfire-hurricane/
 categories:

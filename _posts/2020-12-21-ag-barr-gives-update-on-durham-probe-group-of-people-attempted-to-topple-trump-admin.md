@@ -3,7 +3,7 @@ id: 744
 title: 'AG Barr gives update on Durham Probe: ‘Group of people’ attempted to ‘topple’ Trump admin'
 date: '2020-12-21T10:11:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=744'
 permalink: /2020/12/21/ag-barr-gives-update-on-durham-probe-group-of-people-attempted-to-topple-trump-admin/
 categories:

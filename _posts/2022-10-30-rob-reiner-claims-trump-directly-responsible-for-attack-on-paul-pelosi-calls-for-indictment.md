@@ -3,7 +3,7 @@ id: 1144
 title: 'Rob Reiner claims Trump ‘directly’ responsible for attack on Paul Pelosi, calls for indictment'
 date: '2022-10-30T05:14:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1144'
 permalink: /2022/10/30/rob-reiner-claims-trump-directly-responsible-for-attack-on-paul-pelosi-calls-for-indictment/
 categories:

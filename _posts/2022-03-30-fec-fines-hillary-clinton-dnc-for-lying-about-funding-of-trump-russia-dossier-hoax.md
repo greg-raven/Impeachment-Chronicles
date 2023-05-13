@@ -3,7 +3,7 @@ id: 293
 title: 'FEC fines Hillary Clinton, DNC for lying about funding of Trump-Russia dossier hoax'
 date: '2022-03-30T10:33:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=293'
 permalink: /2022/03/30/fec-fines-hillary-clinton-dnc-for-lying-about-funding-of-trump-russia-dossier-hoax/
 categories:

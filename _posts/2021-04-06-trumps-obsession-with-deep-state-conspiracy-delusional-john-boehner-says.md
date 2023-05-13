@@ -3,7 +3,7 @@ id: 1203
 title: 'Trump’s obsession with Deep State conspiracy ‘delusional,’ John Boehner says'
 date: '2021-04-06T05:38:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1203'
 permalink: /2021/04/06/trumps-obsession-with-deep-state-conspiracy-delusional-john-boehner-says/
 categories:

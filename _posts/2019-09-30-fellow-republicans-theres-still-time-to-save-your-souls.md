@@ -3,7 +3,7 @@ id: 554
 title: 'Fellow Republicans, there’s still time to save your souls'
 date: '2019-09-30T15:44:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=554'
 permalink: /2019/09/30/fellow-republicans-theres-still-time-to-save-your-souls/
 categories:

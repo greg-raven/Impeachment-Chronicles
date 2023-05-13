@@ -3,7 +3,7 @@ id: 695
 title: '‘Trump will killl us all!!’'
 date: '2020-08-24T06:42:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=695'
 permalink: /2020/08/24/trump-will-killl-us-all/
 categories:

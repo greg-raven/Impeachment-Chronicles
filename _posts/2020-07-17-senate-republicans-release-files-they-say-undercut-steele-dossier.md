@@ -3,7 +3,7 @@ id: 720
 title: 'Senate Republicans release files they say ‘undercut’ Steele dossier'
 date: '2020-07-17T09:43:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=720'
 permalink: /2020/07/17/senate-republicans-release-files-they-say-undercut-steele-dossier/
 categories:

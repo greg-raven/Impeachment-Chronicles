@@ -3,7 +3,7 @@ id: 369
 title: 'Schakowsky statement on Donald Trump’s inauguration'
 date: '2017-01-18T05:38:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=369'
 permalink: /2017/01/18/schakowsky-statement-on-donald-trumps-inauguration/
 categories:

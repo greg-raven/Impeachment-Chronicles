@@ -3,7 +3,7 @@ id: 388
 title: 'Why Trump supporters believe the election of Joe Biden was fraudulent'
 date: '2021-07-08T07:22:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=388'
 permalink: /2021/07/08/why-trump-supporters-believe-the-election-of-joe-biden-was-fraudulent/
 categories:

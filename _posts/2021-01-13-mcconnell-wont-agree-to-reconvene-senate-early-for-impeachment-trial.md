@@ -3,7 +3,7 @@ id: 778
 title: 'McConnell won’t agree to reconvene Senate early for impeachment trial'
 date: '2021-01-13T12:25:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=778'
 permalink: /2021/01/13/mcconnell-wont-agree-to-reconvene-senate-early-for-impeachment-trial/
 categories:

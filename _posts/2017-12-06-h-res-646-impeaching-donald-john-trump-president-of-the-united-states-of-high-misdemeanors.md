@@ -3,7 +3,7 @@ id: 510
 title: 'H.Res.646 — Impeaching Donald John Trump, President of the United States, of high misdemeanors'
 date: '2017-12-06T14:09:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=510'
 permalink: /2017/12/06/h-res-646-impeaching-donald-john-trump-president-of-the-united-states-of-high-misdemeanors/
 categories:

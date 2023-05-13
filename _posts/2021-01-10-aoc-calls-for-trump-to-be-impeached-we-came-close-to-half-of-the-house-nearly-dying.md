@@ -3,7 +3,7 @@ id: 752
 title: 'AOC calls for Trump to be impeached — ‘We came close to half of the House nearly dying’'
 date: '2021-01-10T12:15:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=752'
 permalink: /2021/01/10/aoc-calls-for-trump-to-be-impeached-we-came-close-to-half-of-the-house-nearly-dying/
 categories:

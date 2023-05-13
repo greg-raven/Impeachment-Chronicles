@@ -3,7 +3,7 @@ id: 1061
 title: 'The conspiracy heats up'
 date: '2019-01-08T13:36:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1061'
 permalink: /2019/01/08/the-conspiracy-heats-up/
 categories:

@@ -3,7 +3,7 @@ id: 182
 title: 'The campaign to impeach President Trump has begun'
 date: '2017-01-01T14:09:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=182'
 permalink: /2017/01/01/the-campaign-to-impeach-president-trump-has-begun/
 categories:

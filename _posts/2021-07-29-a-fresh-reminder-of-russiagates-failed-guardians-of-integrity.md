@@ -3,7 +3,7 @@ id: 386
 title: 'A fresh reminder of Russiagate’s failed guardian(s) of integrity'
 date: '2021-07-29T07:20:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=386'
 permalink: /2021/07/29/a-fresh-reminder-of-russiagates-failed-guardians-of-integrity/
 categories:

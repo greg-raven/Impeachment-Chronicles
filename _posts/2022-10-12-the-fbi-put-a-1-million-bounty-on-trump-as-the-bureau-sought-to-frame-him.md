@@ -3,7 +3,7 @@ id: 1148
 title: 'The FBI put a $1 million bounty on Trump as the Bureau sought to frame him'
 date: '2022-10-12T05:19:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1148'
 permalink: /2022/10/12/the-fbi-put-a-1-million-bounty-on-trump-as-the-bureau-sought-to-frame-him/
 categories:

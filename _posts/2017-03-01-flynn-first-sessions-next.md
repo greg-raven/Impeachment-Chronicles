@@ -3,7 +3,7 @@ id: 180
 title: 'Timeline: Flynn was first, Sessions was next'
 date: '2017-03-01T14:06:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=180'
 permalink: /2017/03/01/flynn-first-sessions-next/
 categories:

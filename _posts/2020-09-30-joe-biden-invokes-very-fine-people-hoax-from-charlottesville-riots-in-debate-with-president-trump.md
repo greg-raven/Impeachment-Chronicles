@@ -3,7 +3,7 @@ id: 1134
 title: 'Joe Biden invokes ‘very fine people’ hoax from Charlottesville riots in debate with President Trump'
 date: '2020-09-30T06:40:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1134'
 permalink: /2020/09/30/joe-biden-invokes-very-fine-people-hoax-from-charlottesville-riots-in-debate-with-president-trump/
 categories:

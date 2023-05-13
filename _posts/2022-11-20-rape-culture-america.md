@@ -3,7 +3,7 @@ id: 1170
 title: 'Rape culture America'
 date: '2022-11-20T06:38:17-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1170'
 permalink: /2022/11/20/rape-culture-america/
 categories:

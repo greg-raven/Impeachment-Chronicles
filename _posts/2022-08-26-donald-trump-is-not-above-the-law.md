@@ -3,7 +3,7 @@ id: 925
 title: 'Donald Trump is not above the law'
 date: '2022-08-26T23:01:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=925'
 permalink: /2022/08/26/donald-trump-is-not-above-the-law/
 categories:

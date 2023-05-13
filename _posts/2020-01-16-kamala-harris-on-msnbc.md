@@ -3,7 +3,7 @@ id: 624
 title: 'Kamala Harris on MSNBC'
 date: '2020-01-16T15:11:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=624'
 permalink: /2020/01/16/kamala-harris-on-msnbc/
 categories:

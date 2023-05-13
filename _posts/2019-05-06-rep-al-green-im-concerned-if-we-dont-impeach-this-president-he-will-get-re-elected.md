@@ -3,7 +3,7 @@ id: 542
 title: 'Rep. Al Green: ‘I’m concerned if we don’t impeach this president, he will get re-elected’'
 date: '2019-05-06T15:37:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=542'
 permalink: /2019/05/06/rep-al-green-im-concerned-if-we-dont-impeach-this-president-he-will-get-re-elected/
 categories:

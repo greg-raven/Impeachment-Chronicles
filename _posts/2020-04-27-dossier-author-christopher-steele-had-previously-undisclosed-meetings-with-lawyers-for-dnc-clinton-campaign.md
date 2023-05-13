@@ -3,7 +3,7 @@ id: 1333
 title: 'Dossier author Christopher Steele had previously undisclosed meetings with lawyers for DNC, Clinton Campaign'
 date: '2020-04-27T07:04:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1333'
 permalink: /2020/04/27/dossier-author-christopher-steele-had-previously-undisclosed-meetings-with-lawyers-for-dnc-clinton-campaign/
 categories:

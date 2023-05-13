@@ -3,7 +3,7 @@ id: 915
 title: 'Judge who signed off on FBI Mar-a-Lago raid warrant once quit his job to represent Jeffrey Epstein’s associates'
 date: '2022-08-09T22:57:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=915'
 permalink: /2022/08/09/judge-who-signed-off-on-fbi-mar-a-lago-raid-warrant-once-quit-his-job-to-represent-jeffrey-epsteins-associates/
 categories:

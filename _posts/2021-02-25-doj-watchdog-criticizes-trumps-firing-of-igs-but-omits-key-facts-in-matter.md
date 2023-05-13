@@ -3,7 +3,7 @@ id: 608
 title: 'DOJ watchdog criticizes Trump’s firing of IGs, but omits key facts in matter'
 date: '2021-02-25T07:15:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=608'
 permalink: /2021/02/25/doj-watchdog-criticizes-trumps-firing-of-igs-but-omits-key-facts-in-matter/
 categories:

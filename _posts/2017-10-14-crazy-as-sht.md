@@ -3,7 +3,7 @@ id: 972
 title: 'Crazy as sh*t'
 date: '2017-10-14T13:55:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=972'
 permalink: /2017/10/14/crazy-as-sht/
 categories:

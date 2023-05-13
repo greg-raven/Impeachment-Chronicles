@@ -3,7 +3,7 @@ id: 941
 title: 'FBI warned Facebook about a ‘dump’ of ‘Russian disinfo’ just before the Hunter Biden laptop story broke, Zuckerberg says'
 date: '2022-08-26T23:06:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'https://1b74de16-563d-4bef-af59-14ce4448beea.static.getshifter.net/?p=941'
 permalink: /2022/08/26/fbi-warned-facebook-about-a-dump-of-russian-disinfo-just-before-the-hunter-biden-laptop-story-broke-zuckerberg-says/
 categories:

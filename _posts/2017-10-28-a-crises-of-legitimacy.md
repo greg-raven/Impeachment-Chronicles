@@ -3,7 +3,7 @@ id: 500
 title: 'A crises of legitimacy'
 date: '2017-10-28T14:01:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=500'
 permalink: /2017/10/28/a-crises-of-legitimacy/
 categories:

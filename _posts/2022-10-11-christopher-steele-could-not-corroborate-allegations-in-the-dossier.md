@@ -3,7 +3,7 @@ id: 1195
 title: 'Christopher Steele could not corroborate allegations in the Dossier'
 date: '2022-10-11T08:23:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1195'
 permalink: /2022/10/11/christopher-steele-could-not-corroborate-allegations-in-the-dossier/
 categories:

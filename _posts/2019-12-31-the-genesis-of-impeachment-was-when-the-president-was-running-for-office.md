@@ -3,7 +3,7 @@ id: 596
 title: 'The genesis of impeachment was when the president was running for office'
 date: '2019-12-31T07:10:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=596'
 permalink: /2019/12/31/the-genesis-of-impeachment-was-when-the-president-was-running-for-office/
 categories:

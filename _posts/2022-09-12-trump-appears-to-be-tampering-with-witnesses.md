@@ -3,7 +3,7 @@ id: 974
 title: 'Trump appears to be tampering with witnesses'
 date: '2022-09-12T13:56:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=974'
 permalink: /2022/09/12/trump-appears-to-be-tampering-with-witnesses/
 categories:

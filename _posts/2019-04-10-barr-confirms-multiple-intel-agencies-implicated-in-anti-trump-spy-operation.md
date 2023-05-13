@@ -3,7 +3,7 @@ id: 536
 title: 'Barr confirms multiple intel agencies implicated in anti-Trump spy operation'
 date: '2019-04-10T15:33:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=536'
 permalink: /2019/04/10/barr-confirms-multiple-intel-agencies-implicated-in-anti-trump-spy-operation/
 categories:

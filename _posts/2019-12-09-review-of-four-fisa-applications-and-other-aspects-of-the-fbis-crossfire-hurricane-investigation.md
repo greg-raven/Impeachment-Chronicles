@@ -3,7 +3,7 @@ id: 978
 title: 'Review of four FISA applications and other aspects of the FBI’s Crossfire Hurricane Investigation'
 date: '2019-12-09T13:57:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=978'
 permalink: /2019/12/09/review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation/
 categories:

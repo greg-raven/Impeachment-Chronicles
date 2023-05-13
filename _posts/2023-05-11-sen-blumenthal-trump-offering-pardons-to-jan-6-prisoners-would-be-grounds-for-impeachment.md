@@ -3,7 +3,7 @@ id: 1395
 title: 'Sen. Blumenthal: Trump offering pardons to Jan. 6 prisoners would be grounds for impeachment'
 date: '2023-05-11T06:40:39-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1395'
 permalink: /2023/05/11/sen-blumenthal-trump-offering-pardons-to-jan-6-prisoners-would-be-grounds-for-impeachment/
 categories:

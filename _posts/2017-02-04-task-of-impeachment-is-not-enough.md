@@ -3,7 +3,7 @@ id: 1276
 title: 'Task of impeachment is not enough'
 date: '2017-02-04T08:16:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=1276'
 permalink: /2017/02/04/task-of-impeachment-is-not-enough/
 categories:

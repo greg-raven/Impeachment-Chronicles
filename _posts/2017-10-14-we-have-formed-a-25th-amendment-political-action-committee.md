@@ -3,7 +3,7 @@ id: 969
 title: 'We have formed a 25th Amendment Political Action Committee'
 date: '2017-10-14T13:53:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=969'
 permalink: /2017/10/14/we-have-formed-a-25th-amendment-political-action-committee/
 categories:

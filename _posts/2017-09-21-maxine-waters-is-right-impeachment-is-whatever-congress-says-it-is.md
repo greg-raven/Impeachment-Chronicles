@@ -3,7 +3,7 @@ id: 489
 title: 'Maxine Waters is right, impeachment IS whatever Congress says it is'
 date: '2017-09-21T10:27:00-07:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=489'
 permalink: /2017/09/21/maxine-waters-is-right-impeachment-is-whatever-congress-says-it-is/
 categories:

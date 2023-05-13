@@ -3,7 +3,7 @@ id: 643
 title: 'How a Russian disinfo op got Trump impeached'
 date: '2020-01-22T04:49:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=643'
 permalink: /2020/01/22/how-a-russian-disinfo-op-got-trump-impeached/
 categories:

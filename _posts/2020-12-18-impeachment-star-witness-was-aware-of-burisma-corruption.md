@@ -3,7 +3,7 @@ id: 711
 title: 'Impeachment star witness was aware of Burisma corruption'
 date: '2020-12-18T06:54:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=711'
 permalink: /2020/12/18/impeachment-star-witness-was-aware-of-burisma-corruption/
 categories:

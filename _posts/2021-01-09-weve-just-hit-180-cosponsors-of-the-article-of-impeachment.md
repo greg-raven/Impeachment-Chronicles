@@ -3,7 +3,7 @@ id: 750
 title: 'We’ve just hit 180 cosponsors of the Article of Impeachment'
 date: '2021-01-09T10:18:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=750'
 permalink: /2021/01/09/weve-just-hit-180-cosponsors-of-the-article-of-impeachment/
 categories:

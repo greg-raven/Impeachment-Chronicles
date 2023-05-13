@@ -3,7 +3,7 @@ id: 272
 title: 'New York Times reporter says Steele pee tape doesn’t exist'
 date: '2022-03-11T09:19:00-08:00'
 author: 'Trump 2020'
-layout: post
+layout: base
 guid: 'http://greg-raven.github.io/Impeachment-Chronicles/?p=272'
 permalink: /2022/03/11/new-york-times-reporter-says-steele-pee-tape-doesnt-exist/
 categories:
