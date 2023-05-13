@@ -2,6 +2,8 @@
 title: 'Durham shocker: Danchenko was a paid FBI informant'
 date: '2022-09-13T13:56:00-07:00'
 layout: post
+author:
+- Techno Fog
 ---
 
 Today, Special Counsel John Durham moved to unseal this motion in limine in the false statements case against Igor Danchenko.
@@ -88,15 +90,9 @@ The FBI’s prior counterintelligence investigation of Danchenko.
 
 When reports surfaced of Danchenko’s imminent indictment, we made an educated guess that he would be charged for giving false statements relating to his prior contacts with Russian intelligence.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> NYT: Special Counsel Durham is focusing (in part) on Steele Dossier primary sub-source Igor Danchenko.  
->   
-> We suspect potential false statement charges against Danchenko for lying to the FBI about his contacts w/ Russian intel.  
->   
-> Good reporting by [@charlie\_savage](https://twitter.com/charlie_savage?ref_src=twsrc%5Etfw) and [@adamgoldmanNYT](https://twitter.com/adamgoldmanNYT?ref_src=twsrc%5Etfw) <https://t.co/Y0GG85Vwv9> [pic.twitter.com/XOwTGeqiVa](https://t.co/XOwTGeqiVa)
-> 
-> — Techno Fog (@Techno\_Fog) [April 12, 2021](https://twitter.com/Techno_Fog/status/1381710906728546304?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NYT: Special Counsel Durham is focusing (in part) on Steele Dossier primary sub-source Igor Danchenko.<br><br>We suspect potential false statement charges against Danchenko for lying to the FBI about his contacts w/ Russian intel.<br><br>Good reporting by <a href="https://twitter.com/charlie_savage?ref_src=twsrc%5Etfw">@charlie_savage</a> and <a href="https://twitter.com/adamgoldmanNYT?ref_src=twsrc%5Etfw">@adamgoldmanNYT</a> <a href="https://t.co/Y0GG85Vwv9">https://t.co/Y0GG85Vwv9</a> <a href="https://t.co/XOwTGeqiVa">pic.twitter.com/XOwTGeqiVa</a></p>&mdash; Techno Fog (@Techno_Fog) <a href="https://twitter.com/Techno_Fog/status/1381710906728546304?ref_src=twsrc%5Etfw">April 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Back in 2008, while Danchenko was employed with the Brookings Institute, he had approached “two fellow employees about whether one of the employees might be willing or able in the future to provide classified information in exchange for money.” The conducted a full investigation into Danchenko after learning he “had been identified as an associate of two FBI counterintelligence subjects and (2) had previous contact with the Russian Embassy and known Russian intelligence officers.”
+Back in 2008, while Danchenko was employed with the Brookings Institute, he had approached “two fellow employees about whether one of the employees might be willing or able in the future to provide classified information in exchange for money.” The conducted a full investigation into Danchenko after learning he “had been identified as an associate of two FBI counterintelligence subjects and (2) had previous contact with the Russian Embassy and known Russian intelligence officers.”
 
 While we were perhaps too optimistic about those false statement charges (not without good reason – Durham points out Dancheno’s denials about contacts with Russian intelligence), Durham is seeking to introduce evidence of those lies *to establish that Danchenko’s lies were material.*
 

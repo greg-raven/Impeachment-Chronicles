@@ -2,6 +2,8 @@
 title: 'Peaceful protesters tear-gassed to clear way for Trump church photo-op'
 date: '2020-06-01T06:20:00-07:00'
 layout: post
+author:
+- Tom Gjelten
 ---
 
 The plaza between St. John’s Church and Lafayette Park was full of people nonviolently protesting police brutality late Monday afternoon when U.S. Park Police and National Guard troops, with the use of tear gas, suddenly started pushing them away for no apparent reason.
@@ -26,11 +28,9 @@ When the president held up the Bible, without praying or quoting a verse appropr
 
 The church has long been known for its support of social justice causes, and in the hours before the president showed up, clergy and lay volunteers had been ministering to the protesters in the plaza. Protests, some of them violent, had occurred around the church on previous nights, and the church was briefly in danger on Sunday after a fire started in the church basement.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The Bible teaches us to love God and our neighbor; that all people are beloved children of God; that we are to do justice and love kindness. The President used our sacred text as a symbol of division.
-> 
-> — Mariann Budde (@Mebudde) [June 2, 2020](https://twitter.com/Mebudde/status/1267651569010573312?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Bible teaches us to love God and our neighbor; that all people are beloved children of God; that we are to do justice and love kindness. The President used our sacred text as a symbol of division.</p>&mdash; Mariann Budde (@Mebudde) <a href="https://twitter.com/Mebudde/status/1267651569010573312?ref_src=twsrc%5Etfw">June 2, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>A former St. John’s minister, Gini Gerbasi, was among those attending to the protesters in front of the church when the police moved in.
+A former St. John’s minister, Gini Gerbasi, was among those attending to the protesters in front of the church when the police moved in.
 
 “We were literally DRIVEN OFF of the St. John’s, Lafayette Square patio with tear gas and concussion grenades and police in full riot gear,” she wrote in a Facebook post. “PEOPLE WERE HURT SO THAT \[President Trump\] COULD HAVE A PHOTO OPPORTUNITY IN FRONT OF THE CHURCH!!! HE WOULD HAVE HAD TO STEP OVER THE MEDICAL SUPPLIES WE LEFT BEHIND BECAUSE WE WERE BEING TEAR GASSED!!!!”
 

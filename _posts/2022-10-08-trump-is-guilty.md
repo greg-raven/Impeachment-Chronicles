@@ -2,12 +2,12 @@
 title: 'Trump is guilty'
 date: '2022-10-08T10:12:00-07:00'
 layout: post
+author:
+- Luke Zaleski
 ---
 
-Trump is guilty
+> Trump is guilty
+>
+> <cite>Luke Zaleski, via Twitter</cite>
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Trump is guilty
-> 
-> — Luke Zaleski (@ZaleskiLuke) [October 8, 2022](https://twitter.com/ZaleskiLuke/status/1578721862041112576?ref_src=twsrc%5Etfw)
-
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Luke Zaleski, Twitter
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump is guilty</p>&mdash; Luke Zaleski (@ZaleskiLuke) <a href="https://twitter.com/ZaleskiLuke/status/1578721862041112576?ref_src=twsrc%5Etfw">October 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -2,6 +2,8 @@
 title: 'Joe Biden calls for Trump’s impeachment for the first time'
 date: '2019-10-09T06:48:00-07:00'
 layout: post
+author:
+- Jacob Pramuk
 ---
 
 Former Vice President Joe Biden called for President Donald Trump’s impeachment Wednesday in a speech marked by some of his sharpest criticism yet of the president.
@@ -22,11 +24,9 @@ The president responded to the Democrat’s speech almost immediately in a tweet
 
 “Joe’s Failing Campaign gave him no other choice!” the president wrote.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter"><div class="wp-block-embed__wrapper">> So pathetic to see Sleepy Joe Biden, who with his son, Hunter, and to the detriment of the American Taxpayer, has ripped off at least two countries for millions of dollars, calling for my impeachment — and I did nothing wrong. Joe’s Failing Campaign gave him no other choice!
-> 
->  — Donald J. Trump (@realDonaldTrump) [October 9, 2019](https://twitter.com/realDonaldTrump/status/1181991604493656064?ref_src=twsrc%5Etfw) (twitter.com/realDonaldTrump/status/1181991604493656064)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So pathetic to see Sleepy Joe Biden, who with his son, Hunter, and to the detriment of the American Taxpayer, has ripped off at least two countries for millions of dollars, calling for my impeachment - and I did nothing wrong. Joe’s Failing Campaign gave him no other choice!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1181991604493656064?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
- </div></figure>Biden on Wednesday argued that Trump dredged up the allegations because he feared Biden as an opponent in 2020. Many early polls show Biden, one of the leading contenders for the Democratic nomination, beating Trump in key electoral states.
+Biden on Wednesday argued that Trump dredged up the allegations because he feared Biden as an opponent in 2020. Many early polls show Biden, one of the leading contenders for the Democratic nomination, beating Trump in key electoral states.
 
 The former vice president said Trump is “afraid of just how badly I will beat him next November.”
 
@@ -36,10 +36,6 @@ In a letter to House Speaker Nancy Pelosi on Tuesday, White House counsel Pat Ci
 
 Responding to Trump’s tweet Wednesday, Biden in part told the president to “stop stonewalling the Congress.”
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Thanks for watching. Stop stonewalling the Congress. Honor your oath. Respect the Constitution.  
->   
-> And speaking of taxpayers, I’ve released 21 years of my tax returns. You? <https://t.co/CrqOQG8YXb>
-> 
-> — Joe Biden (@JoeBiden) [October 9, 2019](https://twitter.com/JoeBiden/status/1181997336052080647?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks for watching. Stop stonewalling the Congress. Honor your oath. Respect the Constitution.<br><br>And speaking of taxpayers, I’ve released 21 years of my tax returns. You? <a href="https://t.co/CrqOQG8YXb">https://t.co/CrqOQG8YXb</a></p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1181997336052080647?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Jacob Pramuk, cnbc.com/2019/10/09/joe-biden-calls-for-donald-trump-impeachment-amid-2020-electionhtml
+Source: Jacob Pramuk, cnbc.com/2019/10/09/joe-biden-calls-for-donald-trump-impeachment-amid-2020-electionhtml

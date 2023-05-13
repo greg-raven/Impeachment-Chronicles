@@ -13,7 +13,7 @@ This tale was so pervasive in the media landscape that it would be impossible fo
 ABC News anchor George Stephanopoulos “reported” that “the administration asked police to clear peaceful protesters from the park across the White House so that the President could stage a photo op.” The Intercept published an article stating that “federal police used tear gas and rubber bullets to clear protesters from Lafayette Square in front of the White House,” all to feature a video where the first interviewee said: “to me, the way our military and police have behaved toward the protesters at the instruction of President Trump has almost been Nazi-like.”Nazi-like.” This was repeated by virtually every major corporate outlet:
 
 <figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> This was the scene outside of the White House on Monday as police used tear gas and flash grenades to clear out peaceful protesters so President Trump could visit the nearby St. John’s Church, where there was a parish house basement fire Sunday night <https://t.co/nFrCqYpqZR> [pic.twitter.com/DVP11iiVIh](https://t.co/DVP11iiVIh)
-> 
+>
 > — The New York Times (@nytimes) [June 2, 2020](https://twitter.com/nytimes/status/1267638330654625794?ref_src=twsrc%5Etfw)
 
 <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>At a June 2 Press Conference, then-Sen. Kamala Harris (D-CA) proclaimed with anger: “last night I watched as President Trump, having gassed peaceful protesters just so he could do this photo op, then he went on to teargas priests who were helping protesters in Lafayette Park.” Speaking on MSNBC’s Morning Joe, House Speaker Nancy Pelosi exclaimed: “What is this, a banana republic?,” when asked about NBC News’ report that “security forces used tear gas and flash-bangs against a crowd of peaceful demonstrators to clear the area for the president.”
@@ -43,7 +43,7 @@ Plans for the fence were finalized at least the day prior to Trump’s walk: “
 Indeed, none of the key decision-makers had any idea Trump was coming when they implemented plans to clear the Park:
 
 > The USPP operations commander, the USPP incident commander, and the USPP acting chief of police told us they did not know the President planned to make a speech in the Rose Garden that evening. The USPP incident commander told us he was never informed of the President’s specific plans or when the President planned to come out of the White House. He said, “It was just a, ‘Hey, here he comes.’ And all of a sudden I turn around and there’s the entourage.”
-> 
+>
 > The USPP acting chief of police also told us he did not know about the President’s plans to visit St. John’s Church and that the USPP incident commander told him the President might come to the park to assess the damage at an unspecified time. The USPP acting chief of police and the USPP incident commander told us this information had no impact on their operational plan, and both denied that the President’s potential visit to the park influenced the USPP’s decision to clear Lafayette Park and the surrounding areas. Numerous other USPP captains and lieutenants and the ACPD civil disturbance unit commanders also told us they received no information suggesting that the USPP cleared the area to facilitate the President’s visit to St. John’s Church. The DCNG major we interviewed told us that his USPP liaison appeared as surprised as he was when the President visited Lafayette Park, stating, “We \[were\] both kind of equally shocked.”
 
 Of the dozens of people who participated in the investigation, “no one we interviewed stated that the USPP cleared the park because of a potential visit by the President or that the USPP altered the timeline to accommodate the President’s movement.”
@@ -56,6 +56,6 @@ Over and over we see the central truth: the corporate outlets that most loudly a
 
 Source: Glenn Greenwald, greenwald.substack.com/p/yet-another-media-tale-trump-tear
 
-- - - - - -
+---
 
 **Webmaster note:** The original article has many links not included here.

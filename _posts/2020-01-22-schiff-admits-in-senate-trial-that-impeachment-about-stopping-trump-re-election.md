@@ -2,6 +2,8 @@
 title: 'Schiff admits in Senate trial that impeachment about stopping Trump re-election'
 date: '2020-01-22T04:52:00-08:00'
 layout: post
+author:
+- Ryan Saavedra
 ---
 
 House Intelligence Committee Chairman Adam Schiff (D-CA), who is serving as a Democratic impeachment manager during President Donald Trump’s Senate impeachment trial, admitted on Wednesday that Democrats’ partisan impeachment was about stopping the president from being re-elected.
@@ -10,13 +12,9 @@ House Intelligence Committee Chairman Adam Schiff (D-CA), who is serving as a De
 
 “Instead, we are here today to consider a much more grave matter and that is an attempt to use the powers of the presidency to cheat in an election,” Schiff continued. “For precisely this reason, the president’s misconduct cannot be decided at the ballot box, for we cannot be assured that the vote will be fairly won.”
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> "The president's misconduct cannot be decided at the ballot box, for we cannot be assured that the vote will be fairly won."  
->   
-> — Rep. Adam Schiff, the lead House impeachment manager, during his opening statement to the U.S. Senate [\#ImpeachmentPBS](https://twitter.com/hashtag/ImpeachmentPBS?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/LaJux1Bh9I](https://t.co/LaJux1Bh9I)
-> 
-> — PBS NewsHour (@NewsHour) [January 22, 2020](https://twitter.com/NewsHour/status/1220056517510156298?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;The president&#39;s misconduct cannot be decided at the ballot box, for we cannot be assured that the vote will be fairly won.&quot;<br><br>— Rep. Adam Schiff, the lead House impeachment manager, during his opening statement to the U.S. Senate <a href="https://twitter.com/hashtag/ImpeachmentPBS?src=hash&amp;ref_src=twsrc%5Etfw">#ImpeachmentPBS</a> <a href="https://t.co/LaJux1Bh9I">pic.twitter.com/LaJux1Bh9I</a></p>&mdash; PBS NewsHour (@NewsHour) <a href="https://twitter.com/NewsHour/status/1220056517510156298?ref_src=twsrc%5Etfw">January 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Numerous top Democrats have essentially admitted that their pursuit of having Trump removed from office was about stopping him from being re-elected.
+Numerous top Democrats have essentially admitted that their pursuit of having Trump removed from office was about stopping him from being re-elected.
 
 [In May, Rep. Al Green (D-TX) said, “I’m concerned that if we don’t impeach this president, he will get re-elected.”](/2019/05/06/rep-al-green-im-concerned-if-we-dont-impeach-this-president-he-will-get-re-elected.html)
 

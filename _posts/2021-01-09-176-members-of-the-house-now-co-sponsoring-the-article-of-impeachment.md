@@ -2,10 +2,12 @@
 title: '176 members of the House now co-sponsoring the article of impeachment'
 date: '2021-01-09T10:17:00-08:00'
 layout: post
+author:
+- David Cicilline
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> UPDATE: 176 members of the House now co-sponsoring the article of impeachment [@RepTedLieu](https://twitter.com/RepTedLieu?ref_src=twsrc%5Etfw), [@RepRaskin](https://twitter.com/RepRaskin?ref_src=twsrc%5Etfw) and I wrote to remove Donald Trump for inciting an insurrection at the Capitol.
-> 
-> — David Cicilline (@davidcicilline) [January 9, 2021](https://twitter.com/davidcicilline/status/1347949303185203201?ref_src=twsrc%5Etfw)
+> UPDATE: 176 members of the House now co-sponsoring the article of impeachment @RepTedLieu, @RepRaskin and I wrote to remove Donald Trump for inciting an insurrection at the Capitol.
+>
+> <cite>David Cicilline, via Twitter</cite>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: David Cicilline via Twitter
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">UPDATE: 176 members of the House now co-sponsoring the article of impeachment <a href="https://twitter.com/RepTedLieu?ref_src=twsrc%5Etfw">@RepTedLieu</a>, <a href="https://twitter.com/RepRaskin?ref_src=twsrc%5Etfw">@RepRaskin</a> and I wrote to remove Donald Trump for inciting an insurrection at the Capitol.</p>&mdash; David Cicilline (@davidcicilline) <a href="https://twitter.com/davidcicilline/status/1347949303185203201?ref_src=twsrc%5Etfw">January 9, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

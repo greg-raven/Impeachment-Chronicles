@@ -2,6 +2,10 @@
 title: 'Trump owes tens of millions to Bank of China'
 date: '2020-04-24T08:12:00-07:00'
 layout: post
+author:
+- Marc Caputo
+- Meridith Mcgraw
+- Anita Kumar
 ---
 
 - The president’s financial dealings with the state-owned bank complicate his attacks on Biden.
@@ -18,7 +22,7 @@ Trump’s ownership of the building received a smattering of attention before an
 
 “On November 7, 2012 several financial institutions including the Bank of China participated in a commercial mortgage loan of $950 million to Vornado Realty Trust,” said Peter Reisman, managing director and chief communications officer of Bank of China U.S.A. “Within 22 days, the loan was securitized and sold into the \[commercial mortgage-backed securities\] market, as is a common practice in the industry. Bank of China has not had any ownership interest in that loan since late November 2012.”
 
-Another public document, however, lists Bank of China as a creditor on 1290 Avenue of the Americas even after the bank said it was no longer involved in the property. Filed in2017 with the New York City Department of Finance Office of the Register, it lists the Bank of China as a secured party having a financial interest in the building’s fixtures — such as air conditioning systems and toilets — in case of default on the loan.
+Another public document, however, lists Bank of China as a creditor on 1290 Avenue of the Americas even after the bank said it was no longer involved in the property. Filed in 2017 with the New York City Department of Finance Office of the Register, it lists the Bank of China as a secured party having a financial interest in the building’s fixtures — such as air conditioning systems and toilets — in case of default on the loan.
 
 The Bank of China said it was listed because of a “technical error,” a statement that on Monday was confirmed by Wells Fargo, which services the mortgage and which had the document in question filed on its behalf.\]
 
@@ -28,8 +32,4 @@ Source: Marc Caputo, Meridith Mcgraw, and Anita Kumar, politico.com/news/2020/04
 
 Related:
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Whoa, whoa!!! This is why there is an emoluments clause. Presidents cannot have financial interests dependent on foreign govts. <https://t.co/1RNItpAQ26> via [@politico](https://twitter.com/politico?ref_src=twsrc%5Etfw)
-> 
-> — Jennifer "Pro-privacy" Rubin (@JRubinBlogger) [April 24, 2020](https://twitter.com/JRubinBlogger/status/1253657439418941441?ref_src=twsrc%5Etfw)
-
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Whoa, whoa!!! This is why there is an emoluments clause. Presidents cannot have financial interests dependent on foreign govts. <a href="https://t.co/1RNItpAQ26">https://t.co/1RNItpAQ26</a> via <a href="https://twitter.com/politico?ref_src=twsrc%5Etfw">@politico</a></p>&mdash; Jennifer &quot;Pro-privacy&quot; Rubin (@JRubinBlogger) <a href="https://twitter.com/JRubinBlogger/status/1253657439418941441?ref_src=twsrc%5Etfw">April 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
