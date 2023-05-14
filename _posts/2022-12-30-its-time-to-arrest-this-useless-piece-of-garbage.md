@@ -1,0 +1,13 @@
+---
+title: It’s time to arrest this Lying Piece of Garbage
+date: '2022-12-30'
+layout: post
+author:
+- Rob Reiner
+---
+
+> We’re learning nothing that we didn’t already know about Trump’s taxes. It’s time to arrest this Lying Piece of Garbage.
+>
+> <cite>Rob Reiner, via Twitter</cite>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re learning nothing that we didn’t already know about Trump’s taxes. It’s time to arrest this Lying Piece of Garbage.</p>&mdash; Rob Reiner (@robreiner) <a href="https://twitter.com/robreiner/status/1608889561425543169?ref_src=twsrc%5Etfw">December 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
