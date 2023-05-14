@@ -2,6 +2,8 @@
 title: 'Facebook suppressed Hunter Biden story after visit from FBI'
 date: '2022-08-25T13:58:00-07:00'
 layout: post
+author:
+- Todd Starnes
 ---
 
 There is growing evidence that the FBI ordered a crackdown of any investigation and any coverage of Hunter Biden’s laptop computer leading up to the 2020 presidential election. Click here to join Todd’s private Facebook group for Conservatives.
@@ -30,4 +32,4 @@ Meanwhile, FBI whistleblowers have told Republican lawmakers that they were give
 
 A government agency that tries to intimidate a private American company needs to be completely defunded and dismantled.
 
-Source: Todd Starnes, https://www.toddstarnes.com/crime/facebook-suppressed-hunter-biden-story-after-visit-from-fbi/
+Source: Todd Starnes, toddstarnes.com/crime/facebook-suppressed-hunter-biden-story-after-visit-from-fbi/

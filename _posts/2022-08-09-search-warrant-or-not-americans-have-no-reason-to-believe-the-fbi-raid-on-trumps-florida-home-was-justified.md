@@ -46,4 +46,4 @@ So, no, Americans do not need to wait for Garland or Wray to explain the basis f
 
 The lesson has been learned. The question now is what to do, besides dismantling FBI Headquarters.
 
-Source: Margot Cleveland, https://thefederalist.com/2022/08/09/search-warrant-or-not-americans-wont-believe-the-fbi-raid-on-trumps-florida-home-was-justified/
+Source: Margot Cleveland, thefederalist.com/2022/08/09/search-warrant-or-not-americans-wont-believe-the-fbi-raid-on-trumps-florida-home-was-justified/

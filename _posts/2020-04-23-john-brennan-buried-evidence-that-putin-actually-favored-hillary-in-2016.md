@@ -2,6 +2,8 @@
 title: 'John Brennan buried evidence that Putin actually favored Hillary in 2016'
 date: '2020-04-23T06:52:00-07:00'
 layout: post
+author:
+- David Krayden
 ---
 
 Former CIA officer and National Security Council Chief of Staff Fred Fleitz said Wednesday that former CIA Director John Brennan ignored intelligence that Russian President Vladimir Putin actually wanted Hillary Clinton to win the the 2016 presidential election.
@@ -22,4 +24,4 @@ The former NSC chief of staff further stated that “Brennan suppressed high-qua
 
 Fleitz suggested that Brennan relied upon “low-quality intelligence that failed to meet intelligence community standards to support the political claim that Russian officials wanted Trump to win … ”
 
-Source: David Krayden, https://dailycaller.com/2020/04/23/fred-fleitz-john-brennan-buried-evidence-putin-favored-hillary/
+Source: David Krayden, dailycaller.com/2020/04/23/fred-fleitz-john-brennan-buried-evidence-putin-favored-hillary/

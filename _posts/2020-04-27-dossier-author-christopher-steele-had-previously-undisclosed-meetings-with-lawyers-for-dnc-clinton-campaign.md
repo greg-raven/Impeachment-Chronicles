@@ -2,6 +2,8 @@
 title: 'Dossier author Christopher Steele had previously undisclosed meetings with lawyers for DNC, Clinton Campaign'
 date: '2020-04-27T07:04:00-07:00'
 layout: post
+author:
+- Chuck Ross
 ---
 
 - Christopher Steele shed new light on his work for the Clinton campaign and DNC, revealing in testimony last month that he met with two lawyers for the Democrats as part of his investigation into Donald Trump.
@@ -32,7 +34,7 @@ The IG report also dealt a fatal blow to the Alfa Bank theory peddled by Sussman
 
 It said the FBI investigated whether there were “cyber links” between Alfa Bank and the Trump Organization, the company owned by Donald Trump, “but had concluded by early February 2017 that there were no such links.”
 
-Marc Elias in 2016 as general counsel for Hillary Clinton campaign. (DAVID JOLKOVSKI/WASHINGTON POST/GETTY IMAGES)  
+Marc Elias in 2016 as general counsel for Hillary Clinton campaign. (DAVID JOLKOVSKI/WASHINGTON POST/GETTY IMAGES)
 The three owners of Alfa Bank have sued Steele in the U.S. and U.K. over the Sept. 14, 2016 memo, which is referred to as “Company Intelligence Report 112” in the dossier.
 
 Steele testified under oath in London on March 17 and 18.
@@ -99,4 +101,4 @@ A cyber firm that Alfa Bank hired to investigate the server allegations determin
 
 “If true, this would constitute a potential violation of various US federal laws,” Ankura, the cyber firm, wrote in a report released Friday.
 
-Source: Chuck Ross, https://dailycaller.com/2020/04/27/christopher-steele-dossier-alfa-bank-perkins-coie/
+Source: Chuck Ross, dailycaller.com/2020/04/27/christopher-steele-dossier-alfa-bank-perkins-coie/

@@ -84,4 +84,4 @@ Former FBI counterintelligence official and lawyer Mark Wauck said he is trouble
 
 “If these people, who were part of a major hoax that involved criminal activity and displays of bias and seriously flawed judgment, are still involved, then that’s a major scandal,” he said in an interview.
 
-Source: Paul Sperry, https://www.realclearinvestigations.com/articles/2022/08/18/fbi\_unit\_leading\_mar-a-lago\_probe\_previously\_led\_russiagate\_hoax\_848582.html
+Source: Paul Sperry, realclearinvestigations.com/articles/2022/08/18/fbi\_unit\_leading\_mar-a-lago\_probe\_previously\_led\_russiagate\_hoax\_848582.html

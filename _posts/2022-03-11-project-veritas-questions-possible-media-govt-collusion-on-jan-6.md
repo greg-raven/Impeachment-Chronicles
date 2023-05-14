@@ -2,6 +2,8 @@
 title: 'Project Veritas questions possible media-govt. collusion on Jan. 6'
 date: '2022-03-11T13:48:00-08:00'
 layout: post
+author:
+- OAN
 ---
 
 The latest report by Project Veritas is raising questions about possible collusion between the mainstream media and government agencies to discredit Donald Trump and Republican voters. A new investigation by the non-profit journalism enterprise revealed mainstream media knew that FBI informants were inside the capitol during the January 6 protest.
@@ -16,4 +18,4 @@ Meanwhile, Rosenberg appeared to suggest the New York Times editorial stance on 
 
 Rosenberg’s confessions suggest mainstream media is presenting wishful thinking of its writers as factual news, which it is not. Meanwhile, potential efforts by federal agencies to manipulate public opinion may pose a greater concern moving forward..
 
-Source: OAN, https://web.archive.org/web/20220404112358/https://www.oann.com/project-veritas-questions-possible-media-govt-collusion-on-jan-6/
+Source: OAN, web.archive.org/web/20220404112358/https://www.oann.com/project-veritas-questions-possible-media-govt-collusion-on-jan-6/

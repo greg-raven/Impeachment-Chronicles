@@ -2,6 +2,8 @@
 title: 'FBI analyst who helped shutter Hunter Biden probe referred for disciplinary action over Trump dossier'
 date: '2022-07-27T16:23:00-07:00'
 layout: post
+author:
+- Todd Jaquith
 ---
 
 It turns out that the FBI analyst who falsely labeled accurate intelligence on Hunter Biden’s activities “disinformation” had a less-than-spotless record at the bureau, according to new claims from whistleblowers at the Bureau.
@@ -24,4 +26,4 @@ With such a stellar record, perhaps the DOJ can find a new use for their star �
 
 Don’t count on it.
 
-Source: Todd Jaquith, BFR, https://www.bizpacreview.com/2022/07/27/fbi-analyst-who-helped-shutter-hunter-biden-probe-referred-for-disciplinary-action-over-trump-dossier-1266710/
+Source: Todd Jaquith, bizpacreview.com/2022/07/27/fbi-analyst-who-helped-shutter-hunter-biden-probe-referred-for-disciplinary-action-over-trump-dossier-1266710/

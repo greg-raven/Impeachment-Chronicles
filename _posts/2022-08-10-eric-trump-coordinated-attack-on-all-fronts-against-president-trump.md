@@ -2,6 +2,8 @@
 title: 'Eric Trump: ‘Coordinated attack on all fronts’ against President Trump'
 date: '2022-08-10T22:59:00-07:00'
 layout: post
+author:
+- Daniel Baldwin
 ---
 
 Eric Trump, Executive Vice President of the Trump Organization, criticized the Biden Administration, claiming the 46th President had knowledge of the FBI raid at Mar-a-Lago Monday evening.
@@ -28,4 +30,4 @@ Eric Trump believes the raid has caused the American people to lose faith in the
 
 “Everybody’s lost trust in the system,” Eric Trump said. “They’ve lost trust in the legal system, in this country. They’ve lost trust in not the men and women of the FBI.”
 
-Source: Daniel Baldwin, https://www.oann.com/eric-trump-coordinated-attack-on-all-fronts-against-president-trump/
+Source: Daniel Baldwin, oann.com/eric-trump-coordinated-attack-on-all-fronts-against-president-trump/

@@ -60,4 +60,4 @@ There is, however, one problem that likely will develop for Democrats, he said.
 
 Further, Sperry reported, “Former FBI counterintelligence agent and attorney Mark Wauck calls ‘logical’ the possibility the FBI was really trying to cover its own tracks in the Mar-a-Lago raid by searching for damaging #Spygate #Russiagate documents Trump may possess.”
 
-Source: Bob Unruh, https://www.wnd.com/2022/08/paul-sperry-mar-lago-raid-done-russiagate-fbi-agents/
+Source: Bob Unruh, wnd.com/2022/08/paul-sperry-mar-lago-raid-done-russiagate-fbi-agents/

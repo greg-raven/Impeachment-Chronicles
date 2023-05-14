@@ -50,4 +50,4 @@ While such an approach would be entertaining and informative, Brinkema made clea
 
 Given that after discovery, Halper will have a second opportunity to request that the court toss the case before Lokhova gets to a jury, this litigation strategy could well be Halper’s undoing, which would be quite the turnabout given that for more than five years he has avoided indictment for lying to the FBI and also sidestepped a congressional subpoena.
 
-Source: Margot Cleveland, https://thefederalist.com/2022/08/24/if-this-fbi-spys-scorched-earth-legal-strategy-backfires-hell-finally-pay-for-russia-hoaxing/
+Source: Margot Cleveland, thefederalist.com/2022/08/24/if-this-fbi-spys-scorched-earth-legal-strategy-backfires-hell-finally-pay-for-russia-hoaxing/

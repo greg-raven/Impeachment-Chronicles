@@ -32,4 +32,4 @@ When interviewed by James O’Keefe, Rosenberg said he “absolutely” stands b
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9y-ClpvWnq8" title="The CIA/NSA 'pee tape' and Leftist shit at The Times"></iframe>
 
-Source: Project Veritas, https://www.youtube.com/watch?v=9y-ClpvWnq8
+Source: Project Veritas, youtube.com/watch?v=9y-ClpvWnq8

@@ -2,6 +2,8 @@
 title: 'Trump warrant furthers Justice Department’s January 6 investigation'
 date: '2022-08-13T10:31:00-07:00'
 layout: post
+author:
+- Andrew C. McCarthy
 ---
 
 The Mar-a-Lago search warrant has been unsealed. Turns out it is what I told you it was going to be: an open-ended license to grab any item that might be relevant to the Justice Department’s Capitol-riot investigation.
@@ -32,4 +34,4 @@ The Justice Department is hoping the Trump trove will yield proof that he did no
 
 Whether they will find the needles in the haystack remains to be seen. But they made sure to get control of the haystack.
 
-Source: Andrew C. McCarthy, https://www.nationalreview.com/2022/08/trump-warrant-furthers-justice-departments-january-6-investigation/
+Source: Andrew C. McCarthy, nationalreview.com/2022/08/trump-warrant-furthers-justice-departments-january-6-investigation/

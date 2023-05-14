@@ -2,6 +2,8 @@
 title: 'Donald Trump is not above the law'
 date: '2022-08-26T23:01:00-07:00'
 layout: post
+author:
+- The New York Times
 ---
 
 Over the course of this summer, the nation has been transfixed by the House select committee’s hearings on the events of Jan. 6, 2021, and how or whether Donald Trump might face accountability for what happened that day. The Justice Department remained largely silent about its investigations of the former president until this month, when the F.B.I. searched his home in Palm Beach, Fla., in a case related to his handling of classified documents. The spectacle of a former president facing criminal investigation raises profound questions about American democracy, and these questions demand answers.
@@ -48,4 +50,4 @@ If Mr. Garland decides to pursue prosecution, a message that the Justice Departm
 
 No one should revel in the prospect of this or any former president facing criminal prosecution. Mr. Trump’s actions have brought shame on one of the world’s oldest democracies and destabilized its future. Even justice before the law will not erase that stain. Nor will prosecuting Mr. Trump fix the structural problems that led to the greatest crisis in American democracy since the Civil War. But it is a necessary first step toward doing so.
 
-Source: The Editorial Board, https://www.nytimes.com/2022/08/26/opinion/trump-documents-jan-6-prosecute.html
+Source: The Editorial Board, nytimes.com/2022/08/26/opinion/trump-documents-jan-6-prosecute.html

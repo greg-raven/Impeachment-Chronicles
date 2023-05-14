@@ -2,6 +2,8 @@
 title: 'Former FBI official says Russian, Chinese, and Iranian spies could have tried to infiltrate Trump’s Mar-a-Lago residence'
 date: '2022-08-29T10:21:00-07:00'
 layout: post
+author:
+- Cheryl Teh
 ---
 
 - Former FBI official Peter Strzok says “any competent foreign intelligence service” would have tried to enter Mar-a-Lago.
@@ -37,4 +39,4 @@ During the search of Mar-a-Lago, the FBI seized 11 sets of classified documents,
 
 According to the warrant, the Justice Department is looking into whether Trump broke three federal laws, including the Espionage Act, by taking the documents to Mar-a-Lago.
 
-Source: Cheryl Teh, https://www.msn.com/en-in/news/world/former-fbi-official-says-russian-chinese-and-iranian-spies-could-have-tried-to-infiltrate-trump-s-mar-a-lago-residence/ar-AA11d4Pr
+Source: Cheryl Teh, msn.com/en-in/news/world/former-fbi-official-says-russian-chinese-and-iranian-spies-could-have-tried-to-infiltrate-trump-s-mar-a-lago-residence/ar-AA11d4Pr

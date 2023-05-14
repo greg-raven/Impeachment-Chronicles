@@ -253,4 +253,4 @@ At a press conference last week, Garland admitted to personally signing off on t
 
 The FBI also attempted to dispel claims that federal officials stripped the president of his passports, telling CBS News that the agency was not in possession of the documents after Trump blasted that they had been confiscated. An email made public by Trump spokesman Taylor Budowich, however, exposed the FBI’s lie. The email from Jay Bratt, the chief of the counterintelligence and export control section in the DOJ’s National Security Division, confirms that “the filter agents seized three passports belonging to President Trump, two expired and one being his active diplomatic passport.”
 
-Source: Tristan Justice, https://thefederalist.com/2022/08/19/think-the-fbi-deserves-the-benefit-of-the-doubt-this-laundry-list-of-corruption-should-make-you-think-again/
+Source: Tristan Justice, thefederalist.com/2022/08/19/think-the-fbi-deserves-the-benefit-of-the-doubt-this-laundry-list-of-corruption-should-make-you-think-again/

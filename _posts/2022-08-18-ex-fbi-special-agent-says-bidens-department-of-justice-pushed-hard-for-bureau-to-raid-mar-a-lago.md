@@ -2,6 +2,8 @@
 title: 'Ex-FBI special agent says Biden’s Department of Justice pushed hard for Bureau to raid Mar-a-Lago'
 date: '2022-08-18T10:29:00-07:00'
 layout: post
+author:
+- Alastair Talbot
 ---
 
 - ‘My guess would be the Bureau was the one going against the DOJ in this particular situation, because when you consider which entity has more to lose — FBI clearly has much more to lose from this situation,’ the LA ex-FBI agent said
@@ -74,4 +76,4 @@ It is unclear what transpired between June and this month to make the federal in
 
 DailyMail.com has contacted the FBI and the Department of Justice for comment.
 
-Source: Alastair Talbot, https://www.dailymail.co.uk/news/article-11126003/Ex-FBI-special-agent-says-Bidens-Department-Justice-pushed-hard-Bureau-raid-Mar-Lago.html
+Source: Alastair Talbot, dailymail.co.uk/news/article-11126003/Ex-FBI-special-agent-says-Bidens-Department-Justice-pushed-hard-Bureau-raid-Mar-Lago.html

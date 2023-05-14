@@ -2,6 +2,8 @@
 title: 'FBI warned Facebook about a ‘dump’ of ‘Russian disinfo’ just before the Hunter Biden laptop story broke, Zuckerberg says'
 date: '2022-08-26T23:06:00-07:00'
 layout: post
+author:
+- Cindy Harper
 ---
 
 - Zuckerberg appeared this week on the Joe Rogan Experience podcast.
@@ -38,4 +40,4 @@ Asked about the aftermath of limiting the spread of the story, Zuckerberg said: 
 
 “I don’t know if the answer would’ve been don’t do anything or don’t have any process. I think the process was pretty reasonable. We still let people share it, but obviously you don’t want situations like that.”
 
-Source: Cindy Harper, https://reclaimthenet.org/mark-zuckerberg-joe-rogan-fbi-hunter-biden/
+Source: Cindy Harper, reclaimthenet.org/mark-zuckerberg-joe-rogan-fbi-hunter-biden/

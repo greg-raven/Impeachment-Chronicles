@@ -2,6 +2,8 @@
 title: 'The top seven lies Adam Schiff has told to boost impeachment'
 date: '2020-01-22T07:25:00-08:00'
 layout: post
+author:
+- Matt Margolis
 ---
 
 Adam Schiff is a liar.
@@ -62,4 +64,4 @@ Criticism over the deception caused him to backpedal and claim that his reading 
 
 “If the conversation were as damning as Schiff et al would like, he would have simply read directly from it, instead of making up dialogue,” Fox News’s Brit Hume wisely observed it a tweet. “Probably not surprising in light of the extravagant collusion claims he made for 2 years.”
 
-Source: Matt Margolis, https://pjmedia.com/news-and-politics/matt-margolis/2020/01/22/the-top-six-lies-adam-schiff-has-told-to-boost-impeachment-n72423
+Source: Matt Margolis, pjmedia.com/news-and-politics/matt-margolis/2020/01/22/the-top-six-lies-adam-schiff-has-told-to-boost-impeachment-n72423

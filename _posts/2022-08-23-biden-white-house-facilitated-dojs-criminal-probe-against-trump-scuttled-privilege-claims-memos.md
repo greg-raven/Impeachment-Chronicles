@@ -64,4 +64,4 @@ Within a couple of weeks of Wall’s letter to Corocoran, the DOJ sent a grand j
 
 Two months later, the FBI escalated again, seeking a search warrant to raid the Trump estate on Aug. 8.
 
-Source: John Solomon, https://justthenews.com/politics-policy/all-things-trump/biden-white-house-facilitated-dojs-criminal-probe-against-trump
+Source: John Solomon, justthenews.com/politics-policy/all-things-trump/biden-white-house-facilitated-dojs-criminal-probe-against-trump
