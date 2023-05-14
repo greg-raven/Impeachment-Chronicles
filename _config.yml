@@ -46,4 +46,4 @@ header_pages:
 #
 show_excerpts: true
 
-paginate: 10
+paginate: 20
