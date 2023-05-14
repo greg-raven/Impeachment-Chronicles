@@ -5,6 +5,11 @@ layout: page
 ---
 
 <table class="table">
+<thead>
+<tr>
+<th>Date</th><th>Event</th>
+</tr>
+</thead>
 	<tbody>
 		<tr>
 			<td>June 16, 2015 </td>
@@ -23,8 +28,32 @@ layout: page
 			<td>First suggestion that Trump could or should be impeached.</td>
 		</tr>
 		<tr>
+			<td>March 25, 2016 </td>
+			<td>Ukrainian-American operative for the Democratic National Committee (DNC) Alexandra Chalupa meets with top Ukrainian officials at Ukrainian Embassy in Washington D.C. to “expose ties between Trump, top campaign aide Paul Manafort and Russia.”</td>
+		</tr>
+		<tr>
+			<td>March 30, 2016 </td>
+			<td>Ukrainian-American operative for the Democratic National Committee (DNC) Alexandra Chalupa briefs DNC staff on Russia ties to Manafort and Trump.</td>
+		</tr>
+		<tr>
+			<td>April 26, 2016 </td>
+			<td>Reporter Michael Isikoff publishes story on Yahoo News about Manafort’s business dealings with a Russian oligarch.</td>
+		</tr>
+		<tr>
+			<td>April 27, 2016 </td>
+			<td>The BBC publishes an article titled, “Why Russians Love Donald Trump.”</td>
+		</tr>
+		<tr>
+			<td>May 3, 2016 </td>
+			<td>Ukrainian-American operative for the Democratic National Committee (DNC) Alexandra Chalupa emails DNC that she’ll share sensitive info about Paul Manafort “offline” including “a big Trump component that will hit in next few weeks.”</td>
+		</tr>
+		<tr>
 			<td>May 4, 2016 </td>
 			<td>Trump becomes the presumptive nominee of the Republican Party.</td>
+		</tr>
+		<tr>
+			<td>June 17, 2016 </td>
+			<td>Washington Post publishes front page story linking Trump to Russia: “Inside Trump’s Financial Ties to Russia and His Unusual Flattery of Vladimir Putin.”</td>
 		</tr>
 		<tr>
 			<td>July 15, 2016 </td>
@@ -33,6 +62,22 @@ layout: page
 		<tr>
 			<td>July 19, 2016 </td>
 			<td>Trump becomes the nominee of the Republican Party.</td>
+		</tr>
+		<tr>
+			<td>August 4, 2016 </td>
+			<td>Ukrainian ambassador to U.S. writes op-ed against Trump.</td>
+		</tr>
+		<tr>
+			<td>September 2, 2016 </td>
+			<td>FBI officials Lisa Page and Peter Strzok text that “[President Obama] wants to know everything we’re doing.”</td>
+		</tr>
+		<tr>
+			<td>September 23, 2016 </td>
+			<td>Yahoo News publishes article by Michael Isikoff about Carter Page’s July 2016 trip to Moscow.</td>
+		</tr>
+		<tr>
+			<td>September 23, 2016 </td>
+			<td>Michael Isikoff and Yahoo News report “U.S. intel officials probe ties between Trump adviser [Carter Page] and Kremlin.” It is later revealed that the FBI improperly wiretapped Page for a year.</td>
 		</tr>
 		<tr>
 			<td>November 9, 2016 </td>
