@@ -2,6 +2,8 @@
 title: 'Twitter files overshadow the bigger scandal: FBI lied to tech giants to interfere in election'
 date: '2022-12-13T05:28:57-08:00'
 layout: post
+author:
+- Margot Cleveland
 ---
 
 - Not only did the FBI prompt Twitter and Facebook to censor the Hunter Biden laptop story, the bureau did so by deceiving the companies.

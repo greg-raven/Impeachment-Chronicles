@@ -2,6 +2,8 @@
 title: 'Search warrant or not, Americans have no reason to believe the FBI raid on Trump’s Florida home was justified'
 date: '2022-08-09T22:58:00-07:00'
 layout: post
+author:
+- Margot Cleveland
 ---
 
 - Americans do not need to defer to the court that already issued multiple falsified warrants against the former president.
@@ -12,17 +14,15 @@ The left, for its contribution, highlighted the federal statute that provides th
 
 Beyond the constitutional problem with that theory — the U.S. constitution establishes the minimal qualifications to serve as president and Congress cannot expand on those — that theory of the raid merely confirms conservatives’ outrage over the DOJ’s continued interference in American’s electoral preferences.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> The media is missing the really, really big reason why the raid today is a potential blockbuster in American politics.? [pic.twitter.com/3BdI9NA9Az](https://t.co/3BdI9NA9Az)
-> 
-> — Marc E. Elias (@marceelias) [August 9, 2022](https://twitter.com/marceelias/status/1556794749377454080?ref_src=twsrc%5Etfw)
+> The media is missing the really, really big reason why the raid today is a potential blockbuster in American politics.? [pic.twitter.com/3BdI9NA9Az](https://t.co/3BdI9NA9Az)
+>
+> <cite>Marc E. Elias (@marceelias), August 9, 2022, twitter.com/marceelias/status/1556794749377454080?ref_src=twsrc%5Etfw</cite>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Another theme soon emerged, bandied by those feigning a more balanced tone, that the raid was clearly justified because “a judge had to sign a warrant.” In a similar vein, another segment of politicians and pundits played the news as disconcerting but withheld judgment pending further details from Attorney General Merrick Garland and FBI Director Christopher Wray, calling on both to promptly provide the American public an explanation of the circumstances that could justify the raid of a former president’s home.
+Another theme soon emerged, bandied by those feigning a more balanced tone, that the raid was clearly justified because “a judge had to sign a warrant.” In a similar vein, another segment of politicians and pundits played the news as disconcerting but withheld judgment pending further details from Attorney General Merrick Garland and FBI Director Christopher Wray, calling on both to promptly provide the American public an explanation of the circumstances that could justify the raid of a former president’s home.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> This is huge. A judge had to sign a warrant <https://t.co/bwcXDrxaMm>
-> 
-> — Andrea Mitchell (@mitchellreports) [August 8, 2022](https://twitter.com/mitchellreports/status/1556784132759453697?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is huge. A judge had to sign a warrant <a href="https://t.co/bwcXDrxaMm">https://t.co/bwcXDrxaMm</a></p>&mdash; Andrea Mitchell (@mitchellreports) <a href="https://twitter.com/mitchellreports/status/1556784132759453697?ref_src=twsrc%5Etfw">August 8, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>As of publication, no explanation has been offered. But it doesn’t matter. No matter what Garland or Wray say, no matter what the FBI attested to in a search warrant application, no matter what cause a federal judge found, Americans won’t trust them and they shouldn’t.
+As of publication, no explanation has been offered. But it doesn’t matter. No matter what Garland or Wray say, no matter what the FBI attested to in a search warrant application, no matter what cause a federal judge found, Americans won’t trust them and they shouldn’t.
 
 Four fake FISA applications and the ensuing surveillance orders authorized by the secret Foreign Intelligence Surveillance Act court are the first reason why.
 

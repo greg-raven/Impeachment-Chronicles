@@ -2,6 +2,8 @@
 title: 'If this FBI spy’s scorched-earth legal strategy backfires, he’ll finally pay for Russia hoaxing'
 date: '2022-08-24T23:06:00-07:00'
 layout: post
+author:
+- Margot Cleveland
 ---
 
 - This would be quite the turnabout given that for more than five years Halper has avoided indictment for lying to the FBI.

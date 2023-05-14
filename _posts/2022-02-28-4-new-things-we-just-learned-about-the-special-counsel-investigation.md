@@ -2,6 +2,8 @@
 title: '4 new things we just learned about the Special Counsel Investigation'
 date: '2022-02-28T09:14:00-08:00'
 layout: post
+author:
+- Margot Cleveland
 ---
 
 - When will the corrupt media begin reporting on this biggest political scandal of the last century?

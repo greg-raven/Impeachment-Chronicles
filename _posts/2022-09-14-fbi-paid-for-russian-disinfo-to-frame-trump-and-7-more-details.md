@@ -2,6 +2,8 @@
 title: 'FBI paid for Russian disinfo to frame Trump — and 7 more details'
 date: '2022-09-14T14:03:00-07:00'
 layout: post
+author:
+- Margot Cleveland
 ---
 
 - Our federal government paid for Russian disinformation to frame the president of the United States for colluding with Russia.
