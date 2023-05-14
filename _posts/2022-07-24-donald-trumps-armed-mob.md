@@ -4,8 +4,8 @@ date: '2022-07-24T08:22:00-07:00'
 layout: post
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Cheney on Fox to colleague Bret Baier: What we aren't going do, Bret, is blame the Capitol Police, blame those in law enforcement, for Donald Trump's armed mob that he sent to the Capitol
-> 
-> — Chad Pergram (@ChadPergram) [July 24, 2022](https://twitter.com/ChadPergram/status/1551213707056881671?ref_src=twsrc%5Etfw)
+> Cheney on Fox to colleague Bret Baier: What we aren't going do, Bret, is blame the Capitol Police, blame those in law enforcement, for Donald Trump's armed mob that he sent to the Capitol
+>
+> <cite>Chad Program via Twitter, quoting Liz Cheney</cite>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Chad Program via Twitter, quoting Liz Cheney.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Cheney on Fox to colleague Bret Baier: What we aren&#39;t going do, Bret, is blame the Capitol Police, blame those in law enforcement, for Donald Trump&#39;s armed mob that he sent to the Capitol</p>&mdash; Chad Pergram (@ChadPergram) <a href="https://twitter.com/ChadPergram/status/1551213707056881671?ref_src=twsrc%5Etfw">July 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

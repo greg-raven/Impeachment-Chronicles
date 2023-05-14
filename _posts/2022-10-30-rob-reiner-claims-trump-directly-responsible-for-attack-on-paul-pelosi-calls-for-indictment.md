@@ -16,21 +16,13 @@ Trump’s questioning of the election results, Reiner argued, “directly” ins
 
 As a result, Reiner claimed, “Donald Trump is 100% responsible for this and Jan.6” and “must be indicted and never be allowed to hold office.”
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Donald Trump has been spreading The Big Lie for 2 years. The violent assault on Paul Pelosi and the attempt to murder Speaker Pelosi is directly related to that Lie. Donald Trump is 100% responsible for this and Jan.6. He must be indicted and never be allowed to hold office.
->
-> — Rob Reiner (@robreiner) [October 28, 2022](https://twitter.com/robreiner/status/1586092301285146624?ref_src=twsrc%5Etfw)
-
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump has been spreading The Big Lie for 2 years. The violent assault on Paul Pelosi and the attempt to murder Speaker Pelosi is directly related to that Lie. Donald Trump is 100% responsible for this and Jan.6. He must be indicted and never be allowed to hold office.</p>&mdash; Rob Reiner (@robreiner) <a href="https://twitter.com/robreiner/status/1586092301285146624?ref_src=twsrc%5Etfw">October 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 In response, many ridiculed the left-wing filmmaker over his comments.
 
 “It is impossible to imagine someone this dim-witted. You are truly bewildering with all due respect of course,” wrote professor Gad Saad.
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> It is impossible to imagine someone this dim-witted. You are truly bewildering with all due respect of course.
->
-> — Gad Saad (@GadSaad) [October 30, 2022](https://twitter.com/GadSaad/status/1586549652433911808?ref_src=twsrc%5Etfw)
-
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It is impossible to imagine someone this dim-witted. You are truly bewildering with all due respect of course.</p>&mdash; Gad Saad (@GadSaad) <a href="https://twitter.com/GadSaad/status/1586549652433911808?ref_src=twsrc%5Etfw">October 30, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 “The only lie I’ve seen is Russian collusion, that you’ve been spreading for 6 years now,” wrote conservative commentator Tim Young.
 

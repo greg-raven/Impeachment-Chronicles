@@ -2,10 +2,12 @@
 title: 'While in Brussels, Joe Biden attacks Donald Trump by repeating the ‘very fine people’ lie, saying that was the moment he decided to run for president.'
 date: '2022-03-24T09:45:00-07:00'
 layout: post
+author:
+- Townhall.com
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> While in Brussels, Joe Biden attacks Donald Trump by repeating the "very fine people" lie, saying that was the moment he decided to run for president. [pic.twitter.com/MjmYuqisUs](https://t.co/MjmYuqisUs)
-> 
-> — Townhall.com (@townhallcom) [March 24, 2022](https://twitter.com/townhallcom/status/1507052971976273921?ref_src=twsrc%5Etfw)
+> While in Brussels, Joe Biden attacks Donald Trump by repeating the "very fine people" lie, saying that was the moment he decided to run for president.
+>
+> Townhall.com, via Twitter
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Townhall.com, twitter.com/townhallcom/status/1507052971976273921
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">While in Brussels, Joe Biden attacks Donald Trump by repeating the &quot;very fine people&quot; lie, saying that was the moment he decided to run for president. <a href="https://t.co/MjmYuqisUs">pic.twitter.com/MjmYuqisUs</a></p>&mdash; Townhall.com (@townhallcom) <a href="https://twitter.com/townhallcom/status/1507052971976273921?ref_src=twsrc%5Etfw">March 24, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

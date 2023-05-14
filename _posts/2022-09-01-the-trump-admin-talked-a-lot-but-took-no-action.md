@@ -2,12 +2,12 @@
 title: 'The Trump admin talked a lot but took no action'
 date: '2022-09-01T09:36:18-07:00'
 layout: post
+author:
+- Miguel Cardona
 ---
 
-When [@POTUS](https://twitter.com/POTUS?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1565338637629173760%7Ctwgr%5E509870e33bb5c1816f0fd9befd9d669ebb4b0fb9%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.impeachment.network%2Fwp-admin%2Fpost.php%3Fpost%3D957action%3Dedit) took office, schools were closed. The former admin talked a lot but took no action. We had a plan to get teachers vaccinated, pass the American Rescue Plan, and focus on safely getting back to in-person learning.
+> When @POTUS took office, schools were closed. The former admin talked a lot but took no action. We had a plan to get teachers vaccinated, pass the American Rescue Plan, and focus on safely getting back to in-person learning.
+>
+> <cite>Miguel Cardona, via Twitter</cite>
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> When [@POTUS](https://twitter.com/POTUS?ref_src=twsrc%5Etfw) took office, schools were closed. The former admin talked a lot but took no action. We had a plan to get teachers vaccinated, pass the American Rescue Plan, and focus on safely getting back to in-person learning. <https://t.co/rc9ntU507T>
-> 
-> — Secretary Miguel Cardona (@SecCardona) [September 1, 2022](https://twitter.com/SecCardona/status/1565338637629173760?ref_src=twsrc%5Etfw)
-
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Miguel Cardona, Twitter
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When <a href="https://twitter.com/POTUS?ref_src=twsrc%5Etfw">@POTUS</a> took office, schools were closed. The former admin talked a lot but took no action. We had a plan to get teachers vaccinated, pass the American Rescue Plan, and focus on safely getting back to in-person learning. <a href="https://t.co/rc9ntU507T">https://t.co/rc9ntU507T</a></p>&mdash; Secretary Miguel Cardona (@SecCardona) <a href="https://twitter.com/SecCardona/status/1565338637629173760?ref_src=twsrc%5Etfw">September 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
