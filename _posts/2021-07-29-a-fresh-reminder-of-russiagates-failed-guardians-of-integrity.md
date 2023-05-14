@@ -2,6 +2,8 @@
 title: 'A fresh reminder of Russiagate’s failed guardian(s) of integrity'
 date: '2021-07-29T07:20:00-07:00'
 layout: post
+author:
+- Aaron Maté
 ---
 
 For more than four years, Western media outlets have exhaustively claimed that President Vladimir Putin of Russia waged a sweeping influence campaign to install Donald Trump in the White House and undermine U.S. democracy.
