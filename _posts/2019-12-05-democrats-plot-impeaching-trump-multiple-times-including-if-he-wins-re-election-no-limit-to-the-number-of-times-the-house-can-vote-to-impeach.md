@@ -22,7 +22,7 @@ Katyal tweeted: “\[Important\] note on future: If the Senate doesn’t vote to
 
 The Washington Free Beacon added, “Katyal’s tweets came the same day that he argued in a Washington Post op-ed that House Judiciary Democrats were getting too caught up with procedure and evidence and that Trump should be impeached based only on the transcript of his July phone call with Ukrainian president Volodymyr Zelensky.”
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Impt note on future: If the Senate doesn’t vote to convict Trump, or tries to monkey w his trial, he could of course be retried in the new Senate should he win re-election. Double jeopardy protections do not apply. And Senators voting on impeachment in the next months know this.</p>&mdash; Neal Katyal (@neal_katyal) <a href="https://twitter.com/neal_katyal/status/1202594066942353409?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Impt note on future: If the Senate doesn’t vote to convict Trump, or tries to monkey w his trial, he could of course be retried in the new Senate should he win re-election. Double jeopardy protections do not apply. And Senators voting on impeachment in the next months know this.</p>&mdash; Neal Katyal (@neal_katyal) <a href="https://twitter.com/neal_katyal/status/1202594066942353409?ref_src=twsrc%5Etfw">December 5, 2019</a></blockquote>
 
 A recent digital advertisement from the Republican National Committee highlighted the hyper-partisan remarks from Democrats over impeachment; many of the Democrats suggested that they were proceeding with impeachment because they did not want Trump to win re-election.
 

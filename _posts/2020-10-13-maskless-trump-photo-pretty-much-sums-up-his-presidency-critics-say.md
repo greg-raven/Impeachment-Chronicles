@@ -34,13 +34,13 @@ Critics were outraged that Trump ― who was protecting himself from the rain wi
 >
 > <cite>Katherine Fugate, via Twitter</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even if you have never read a single tweet or heard a single one of his Tinkerbell magical thinking lies - this photo alone tells you he cares about no one or nothing but himself. <a href="https://t.co/rAm5MTPAnp">https://t.co/rAm5MTPAnp</a></p>&mdash; Katherine Fugate (@katherinefugate) <a href="https://twitter.com/katherinefugate/status/1315760314755903488?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even if you have never read a single tweet or heard a single one of his Tinkerbell magical thinking lies - this photo alone tells you he cares about no one or nothing but himself. <a href="https://t.co/rAm5MTPAnp">https://t.co/rAm5MTPAnp</a></p>&mdash; Katherine Fugate (@katherinefugate) <a href="https://twitter.com/katherinefugate/status/1315760314755903488?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
 
 > siri show me a picture of everyone secretly hating someone
 >
 > <cite>Skoog, via Twitter</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">siri show me a picture of everyone secretly hating someone <a href="https://t.co/8SNdOJZFiy">https://t.co/8SNdOJZFiy</a></p>&mdash; Skoog (@Skoog) <a href="https://twitter.com/Skoog/status/1315756485096419328?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">siri show me a picture of everyone secretly hating someone <a href="https://t.co/8SNdOJZFiy">https://t.co/8SNdOJZFiy</a></p>&mdash; Skoog (@Skoog) <a href="https://twitter.com/Skoog/status/1315756485096419328?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
 
 > Still no mask.  We don't know if he has tested negative yet, when he first tested positive, or if he is still contagious.  Hard to fathom.
 >
@@ -56,13 +56,13 @@ Critics were outraged that Trump ― who was protecting himself from the rain wi
 >
 > <cite>David Waldman, via Twitter</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everyone can SUCK MY GERMS, but if you think I’ll let MY FUCKING HAIR get wet, you’ve got another thing coming! <a href="https://t.co/oUYjixQvSD">https://t.co/oUYjixQvSD</a></p>&mdash; David Waldman - @KagroX@mstdn.party (@KagroX) <a href="https://twitter.com/KagroX/status/1315760690322444291?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everyone can SUCK MY GERMS, but if you think I’ll let MY FUCKING HAIR get wet, you’ve got another thing coming! <a href="https://t.co/oUYjixQvSD">https://t.co/oUYjixQvSD</a></p>&mdash; David Waldman - @KagroX@mstdn.party (@KagroX) <a href="https://twitter.com/KagroX/status/1315760690322444291?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
 
 > Trump just boarded Air Force One without a mask while sick with a disease that has infected nearly 8 million Americans and killed 215,000
 >
 > <cite>Don Beyer, via Twitter</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump just boarded Air Force One without a mask while sick with a disease that has infected nearly 8 million Americans and killed 215,000 <a href="https://t.co/Dh5gQJGy6G">https://t.co/Dh5gQJGy6G</a></p>&mdash; Rep. Don Beyer (@RepDonBeyer) <a href="https://twitter.com/RepDonBeyer/status/1315755905988915202?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump just boarded Air Force One without a mask while sick with a disease that has infected nearly 8 million Americans and killed 215,000 <a href="https://t.co/Dh5gQJGy6G">https://t.co/Dh5gQJGy6G</a></p>&mdash; Rep. Don Beyer (@RepDonBeyer) <a href="https://twitter.com/RepDonBeyer/status/1315755905988915202?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
 
 > No one is getting paid enough to be on a plane with this man.
 >
