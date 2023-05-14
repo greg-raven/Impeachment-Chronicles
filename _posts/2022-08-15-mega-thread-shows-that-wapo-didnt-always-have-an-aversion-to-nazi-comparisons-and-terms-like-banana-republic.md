@@ -20,7 +20,10 @@ This might shock you, but the Washington Post has been spotted having some evolv
 > 
 > — Jeff Charles (@JeffOnTheRight) [August 14, 2022](https://twitter.com/JeffOnTheRight/status/1558883795704709120?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Here's another linking Trump to Nazis because of the phrase "America First."<https://t.co/QWWBaLYGng>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Here's another linking Trump to Nazis because of the phrase "America First."<https://t.co/QWWBaLYGng>
 > 
 > — Jeff Charles (@JeffOnTheRight) [August 14, 2022](https://twitter.com/JeffOnTheRight/status/1558883796757499904?ref_src=twsrc%5Etfw)
 
@@ -30,11 +33,17 @@ This might shock you, but the Washington Post has been spotted having some evolv
 > 
 > — Jeff Charles (@JeffOnTheRight) [August 14, 2022](https://twitter.com/JeffOnTheRight/status/1558883798196035586?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> This one intimates that Trump is a fascist.<https://t.co/FXwsNLRwmp>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> This one intimates that Trump is a fascist.<https://t.co/FXwsNLRwmp>
 > 
 > — Jeff Charles (@JeffOnTheRight) [August 14, 2022](https://twitter.com/JeffOnTheRight/status/1558883799387234304?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Another one comparing Trump to Hitler:<https://t.co/5FfT0PSUOJ>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Another one comparing Trump to Hitler:<https://t.co/5FfT0PSUOJ>
 > 
 > — Jeff Charles (@JeffOnTheRight) [August 14, 2022](https://twitter.com/JeffOnTheRight/status/1558883800804900867?ref_src=twsrc%5Etfw)
 
@@ -44,11 +53,17 @@ This might shock you, but the Washington Post has been spotted having some evolv
 > 
 > — Jeff Charles (@JeffOnTheRight) [August 14, 2022](https://twitter.com/JeffOnTheRight/status/1558883802251927552?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> More fascism!<https://t.co/oId8uUmuDj>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> More fascism!<https://t.co/oId8uUmuDj>
 > 
 > — Jeff Charles (@JeffOnTheRight) [August 14, 2022](https://twitter.com/JeffOnTheRight/status/1558883803384479745?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> This one refers to conservatives as fascists as well.
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> This one refers to conservatives as fascists as well.
 > 
 > — Jeff Charles (@JeffOnTheRight) [August 14, 2022](https://twitter.com/JeffOnTheRight/status/1558883804734971904?ref_src=twsrc%5Etfw)
 
@@ -58,7 +73,10 @@ This might shock you, but the Washington Post has been spotted having some evolv
 > 
 > — Jeff Charles (@JeffOnTheRight) [August 14, 2022](https://twitter.com/JeffOnTheRight/status/1558883806190469120?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> But the fact remains…WaPo has no problem with incendiary language when it involves people they don't like. I didn't even do a search to find more hyperbolic language hurled at Trump supporters.  
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> But the fact remains…WaPo has no problem with incendiary language when it involves people they don't like. I didn't even do a search to find more hyperbolic language hurled at Trump supporters.  
 >   
 > This is why we can't — and shouldn't — take them seriously.
 > 
@@ -72,7 +90,10 @@ This might shock you, but the Washington Post has been spotted having some evolv
 > 
 > — Kyle Becker (@kylenabecker) [August 15, 2022](https://twitter.com/kylenabecker/status/1559195677820862464?ref_src=twsrc%5Etfw)
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Exposed for their completely biased and unfair reporting in this thread. Shoe is on the other foot and they cry. Prayers for them in November. <https://t.co/paaztCmGuq>
+<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>
+
+
+<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> Exposed for their completely biased and unfair reporting in this thread. Shoe is on the other foot and they cry. Prayers for them in November. <https://t.co/paaztCmGuq>
 > 
 > — Connor Hennessey (@ConnorHennes) [August 15, 2022](https://twitter.com/ConnorHennes/status/1559199792672215040?ref_src=twsrc%5Etfw)
 

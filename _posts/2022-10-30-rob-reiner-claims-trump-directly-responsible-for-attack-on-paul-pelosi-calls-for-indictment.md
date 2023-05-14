@@ -16,7 +16,7 @@ Trump’s questioning of the election results, Reiner argued, “directly” ins
 
 As a result, Reiner claimed, “Donald Trump is 100% responsible for this and Jan.6” and “must be indicted and never be allowed to hold office.”
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump has been spreading The Big Lie for 2 years. The violent assault on Paul Pelosi and the attempt to murder Speaker Pelosi is directly related to that Lie. Donald Trump is 100% responsible for this and Jan.6. He must be indicted and never be allowed to hold office.</p>&mdash; Rob Reiner (@robreiner) <a href="https://twitter.com/robreiner/status/1586092301285146624?ref_src=twsrc%5Etfw">October 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump has been spreading The Big Lie for 2 years. The violent assault on Paul Pelosi and the attempt to murder Speaker Pelosi is directly related to that Lie. Donald Trump is 100% responsible for this and Jan.6. He must be indicted and never be allowed to hold office.</p>&mdash; Rob Reiner (@robreiner) <a href="https://twitter.com/robreiner/status/1586092301285146624?ref_src=twsrc%5Etfw">October 28, 2022</a></blockquote>
 
 In response, many ridiculed the left-wing filmmaker over his comments.
 

@@ -4,12 +4,14 @@ date: '2020-04-05T05:55:00-07:00'
 layout: post
 ---
 
-<figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> So is the BLOTUS pushing this drug HYDROXYCHLOROQUIN in the hopes that IF it works, he will get nominated for the Nobel Peace Prize? [pic.twitter.com/sVElPc4bUg](https://t.co/sVElPc4bUg)
-> 
-> — KatMcButterfly (@DetHippieChick) [April 6, 2020](https://twitter.com/DetHippieChick/status/1246966635753345024?ref_src=twsrc%5Etfw)
+> So is the BLOTUS pushing this drug HYDROXYCHLOROQUIN in the hopes that IF it works, he will get nominated for the Nobel Peace Prize?
+>
+> <cite>KatMcButterfly, via Twitter</cite>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure><figure class="wp-block-embed is-type-rich is-provider-twitter wp-block-embed-twitter"><div class="wp-block-embed__wrapper">> I can’t take it anymore. I’ve been to The Hague. I’m making a referral for crimes against humanity tomorrow. Today’s press conference was the last straw. I know the need for a prosecution referral when I see one. <https://t.co/XQin24gqY4>
-> 
-> — Rep. Tavia Galonski (@RepGalonski) [April 6, 2020](https://twitter.com/RepGalonski/status/1246981735876870144?ref_src=twsrc%5Etfw)
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So is the BLOTUS pushing this drug HYDROXYCHLOROQUIN in the hopes that IF it works, he will get nominated for the Nobel Peace Prize? <a href="https://t.co/sVElPc4bUg">pic.twitter.com/sVElPc4bUg</a></p>&mdash; KatMcButterfly (@DetHippieChick) <a href="https://twitter.com/DetHippieChick/status/1246966635753345024?ref_src=twsrc%5Etfw">April 6, 2020</a></blockquote>
 
-<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script></div></figure>Source: Twitter
+> I can’t take it anymore. I’ve been to The Hague. I’m making a referral for crimes against humanity tomorrow. Today’s press conference was the last straw. I know the need for a prosecution referral when I see one. https://t.co/XQin24gqY4
+>
+> <cite>Tavia Galonski, via Twitter</cite>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I can’t take it anymore. I’ve been to The Hague. I’m making a referral for crimes against humanity tomorrow. Today’s press conference was the last straw. I know the need for a prosecution referral when I see one. <a href="https://t.co/XQin24gqY4">https://t.co/XQin24gqY4</a></p>&mdash; Blue Check Marked Rep Tavia Galonski (@RepGalonski) <a href="https://twitter.com/RepGalonski/status/1246981735876870144?ref_src=twsrc%5Etfw">April 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

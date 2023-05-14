@@ -2,6 +2,8 @@
 title: 'NYT reveals FBI retaliated against Trump for Comey firing'
 date: '2019-01-14T06:26:00-08:00'
 layout: post
+author:
+- Mollie Ziegler Hemingway
 ---
 
 - A Friday expose from the New York Times reveals that the FBI investigation of Trump for alleged treason was little more than retaliation against the president for lawfully firing an incompetent and ethically-challenged FBI director.
@@ -57,7 +59,7 @@ According to the New York Times, by not going along with the FBI’s game — pr
 Their other justification for targeting their political foe was that Trump publicly flat-out said he didn’t like the game Comey was playing with the Russia investigation. They decided, we’re told, to interpret, or pretend to interpret, this as obstruction.
 
 > ‘I was going to fire Comey knowing there was no good time to do it,’ he said. ‘And in fact, when I decided to just do it, I said to myself — I said, you know, this Russia thing with Trump and Russia is a made-up story. It’s an excuse by the Democrats for having lost an election that they should’ve won.’
-> 
+>
 > Mr. Trump’s aides have said that a fuller examination of his comments demonstrates that he did not fire Mr. Comey to end the Russia inquiry. ‘I might even lengthen out the investigation, but I have to do the right thing for the American people,’ Mr. Trump added. ‘He’s the wrong man for that position.’
 
 Angered by Trump’s critique of Comey’s double-dealing regarding the Russia probe, the FBI retaliated with an investigation.

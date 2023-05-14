@@ -2,6 +2,8 @@
 title: 'Barr confirms multiple intel agencies implicated in anti-Trump spy operation'
 date: '2019-04-10T15:33:00-07:00'
 layout: post
+author:
+- Mollie Ziegler Hemingway
 ---
 
 - ‘I’m not talking about the FBI necessarily, but intelligence agencies more broadly,’ Barr said.
@@ -31,7 +33,7 @@ The Times headline about the use of government agents to secretly gather evidenc
 It’s also false to pretend that the surveillance only occurred against Carter Page and only after he left the campaign, referring to the year-long FISA warrant the FBI and DOJ used against the innocent American citizen using discredited Clinton-campaign research as a basis. That’s wrong on multiple counts. According to The New York Times’ government leakers:
 
 > The FBI investigated four unidentified Trump campaign aides in those early months, congressional investigators revealed in February. The four men were Michael T. Flynn, Paul Manafort, Carter Page and Mr. Papadopoulos, current and former officials said …
-> 
+>
 > The FBI obtained phone records and other documents using national security letters — a secret type of subpoena — officials said. And at least one government informant met several times with Mr. Page and Mr. Papadopoulos, current and former officials said.
 
 Furthermore, even Page’s FISA surveillance allowed U.S. authorities to surveil not just Page but those he was in contact with, including campaign officials, and to search electronic communications sent and received long before the FISA warrant application was initially approved.
