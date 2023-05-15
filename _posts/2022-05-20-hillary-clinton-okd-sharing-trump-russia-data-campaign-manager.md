@@ -2,6 +2,9 @@
 title: 'Hillary Clinton OK’d sharing Trump-Russia ‘data’: campaign manager'
 date: '2022-05-20T14:19:00-07:00'
 layout: post
+author:
+- Ben Feuerherd
+- Bruce Golding
 ---
 
 WASHINGTON, DC — Hillary Clinton personally authorized her campaign to share since-debunked computer data linking Donald Trump with a Russian bank, according to bombshell testimony from her 2016 campaign manager Friday.
@@ -68,4 +71,4 @@ On Wednesday, Laura Seago, a former analyst at the Fusion GPS firm — which com
 
 Seago recalled that she, Fusion co-founder Peter Fritsch and another Fusion worker went to Foer’s house to pitch the data, telling him it had been vetted by “highly credible computer scientists” who “seemed to think these allegations were credible.”
 
-Source: nypost.com/2022/05/20/hillary-clinton-okd-sharing-trump-russia-data-campaign-manager/
+Source: Ben Feuerherd and Bruce Golding, nypost.com/2022/05/20/hillary-clinton-okd-sharing-trump-russia-data-campaign-manager/

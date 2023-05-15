@@ -2,6 +2,8 @@
 title: 'Durham: Clinton campaign lawyer sought to ‘use FBI’ to spread false ‘Trump-Russia’ claim'
 date: '2022-05-17T14:16:00-07:00'
 layout: post
+author:
+- Jon Dougherty
 ---
 
 Michael Sussmann, a one-time campaign lawyer for Hillary Clinton’s failed 2016 presidential bid against Donald Trump, attempted to “use” the FBI to set up the then-GOP nominee in a fake plot tying him to Russia in an “October surprise” operation with the objective of sandbagging the billionaire real estate developer’s chances of victory.

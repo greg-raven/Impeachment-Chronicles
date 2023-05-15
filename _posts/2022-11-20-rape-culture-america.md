@@ -2,6 +2,8 @@
 title: 'Rape culture America'
 date: '2022-11-20T06:38:17-08:00'
 layout: post
+author:
+- Lindsey Boylan
 ---
 
 > Rape culture America. Brought to you by the billionaire owner of this site and a former President.

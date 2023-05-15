@@ -3,7 +3,7 @@ title: '‘Trump was right’: Explosive new FBI texts detail internal furor ove
 date: '2020-09-24T09:53:00-07:00'
 layout: post
 author:
-- Mollie Ziegler Hemingway
+- Mollie Hemingway
 ---
 
 - Newly disclosed internal FBI notes and text messages detail the extent of the FBI’s desire to take down Trump and his associates at any cost.

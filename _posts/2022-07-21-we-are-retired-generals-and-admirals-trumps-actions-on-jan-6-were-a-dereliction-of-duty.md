@@ -2,6 +2,14 @@
 title: 'We are retired generals and admirals. Trump’s actions on Jan. 6 were a dereliction of duty.'
 date: '2022-07-21T16:23:09-07:00'
 layout: post
+author:
+- Steve Abbot
+- Peter Chiarelli
+- John Jumper
+- James Loy
+- John Nathman
+- William Owens
+- Johnnie Wilson
 ---
 
 The inquiry by the House’s Jan. 6 committee has produced many startling findings, but none to us more alarming than the fact that while rioters tried to thwart the peaceful transfer of power and ransacked the Capitol on Jan. 6, 2021, the president and commander in chief, Donald Trump, abdicated his duty to preserve, protect, and defend the Constitution.

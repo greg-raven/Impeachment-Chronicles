@@ -2,6 +2,8 @@
 title: 'Inside Liz Cheney’s Coordinated Effort To Prevent Troop Deployment Before Jan. 6'
 date: '2022-08-02T06:31:00-07:00'
 layout: post
+author:
+- Tristan Justice
 ---
 
 - Before Liz Cheney claimed President Donald Trump took no action on the National Guard, she coordinated a campaign to prevent deployment.

@@ -3,7 +3,7 @@ title: 'Barr confirms multiple intel agencies implicated in anti-Trump spy opera
 date: '2019-04-10T15:33:00-07:00'
 layout: post
 author:
-- Mollie Ziegler Hemingway
+- Mollie Hemingway
 ---
 
 - ‘I’m not talking about the FBI necessarily, but intelligence agencies more broadly,’ Barr said.
@@ -44,6 +44,6 @@ This is a scandal of epic proportions. It is one that threatens the foundations 
 
 If it is true, as the Washington Post asserts, that democracy dies in darkness, then every single improper deed done under the cloak of secrecy must be fully brought to light. The only way to restore the definitively lost credibility of the FBI and other intelligence agencies is through a thorough investigation of what happened, who was involved, and how they will be held accountable.
 
-Mollie Ziegler Hemingway, thefederalist.com/2019/04/10/barr-confirms-multiple-intel-agencies-implicated-in-anti-trump-spy-operation/
+Mollie Hemingway, thefederalist.com/2019/04/10/barr-confirms-multiple-intel-agencies-implicated-in-anti-trump-spy-operation/
 
 Sean Davis contributed to this report.

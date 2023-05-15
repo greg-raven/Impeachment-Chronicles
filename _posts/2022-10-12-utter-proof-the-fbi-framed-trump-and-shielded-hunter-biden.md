@@ -2,6 +2,8 @@
 title: 'Utter proof the FBI framed Trump and shielded Hunter Biden'
 date: '2022-10-12T09:29:00-07:00'
 layout: post
+author:
+- Andrew C. McCarthy
 ---
 
 Igor Danchenko is on trial, but so is the FBI.
@@ -26,7 +28,7 @@ That is key. The rules of the Foreign Intelligence Surveillance Court and the Ju
 
 It gets worse. The FBI obtained FISC surveillance warrants to monitor former Trump campaign adviser Carter Page in October 2016 and mid-January 2017, representing to the court that Trump appeared to be in a corrupt conspiracy with the Kremlin. Finally, in late January, the FBI interviewed Danchenko, who debunked Steele’s reporting. Nevertheless, even after speaking with Danchenko, the bureau continued relying on Steele’s allegations when — again under oath — it persuaded the court to extend the surveillance in April and June 2017.
 
-The same analyst who made the claim of a $1 million offer also provided a report for the FBI that pooh-poohed Hunter Biden’s laptop as Russian disinformation.  
+The same analyst who made the claim of a $1 million offer also provided a report for the FBI that pooh-poohed Hunter Biden’s laptop as Russian disinformation.
 Indeed, not only did the FBI fail to disclose to the Justice Department and the court that Danchenko had contradicted Steele’s claims. The bureau told the court it had interviewed Danchenko to “further corroborate” Steele’s reporting (which actually had not been corroborated). In so doing, the bureau elaborated, it found Danchenko to be “truthful and cooperative.”
 
 Of course, what the FBI didn’t mention was that what Danchenko had been “truthful and cooperative” about was the fact that Steele’s claims were sheer nonsense. Thus, FISC judges were led to believe Danchenko had verified Steele’s reporting when the truth was just the opposite.

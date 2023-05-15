@@ -2,6 +2,8 @@
 title: 'Trump calls suppression of Hunter Biden laptop story ‘election interference’'
 date: '2022-08-29T10:12:00-07:00'
 layout: post
+author:
+- Joshua Young
 ---
 
 - 79 percent of Americans say that they the 2020 election results would have been different had the Hunter Biden story not been suppressed.
@@ -15,7 +17,7 @@ In the lead up to the 2020 election, the story of Hunter Biden’s now infamous 
 Trump wrote,
 
 > “So now it comes out, conclusively, that the FBI BURIED THE HUNTER BIDEN LAPTOP STORY BEFORE THE ELECTION knowing that, if they didn’t, ‘Trump would have easily won the 2020 Presidential Election,’ This is massive FRAUD &amp; ELECTION INTERFERENCE at level never seen before in our Country. REMEDY: Declare the rightful winner or, and this would be the minimal solution, declare the 2020 Election irreparably compromised and have a new Election, immediately!”
-> 
+>
 > <cite>President Donald Trump via [TruthSocial.com](https://truthsocial.com/@realDonaldTrump/posts/108910239289415166)</cite>
 
 In an interview on the Joe Rogan Experience released Thursday, Mark Zuckerberg admitted that Facebook, while not going as far as Twitter, still worked to decrease the story’s reach on his platform.

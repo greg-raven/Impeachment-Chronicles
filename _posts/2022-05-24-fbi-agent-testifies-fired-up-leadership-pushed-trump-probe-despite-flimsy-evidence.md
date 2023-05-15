@@ -2,6 +2,8 @@
 title: 'FBI agent testifies ‘fired up’ leadership pushed Trump probe despite flimsy evidence'
 date: '2022-05-24T14:26:00-07:00'
 layout: post
+author:
+- Natalia Mittelstadt
 ---
 
 - FBI agent Curtis Heide testified Tuesday in the Michael Sussmann trial that he learned the Trump-Russia allegation was false within a couple of weeks.

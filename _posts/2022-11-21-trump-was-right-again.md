@@ -2,6 +2,8 @@
 title: 'Trump was right. Again.'
 date: '2022-11-21T06:40:11-08:00'
 layout: post
+author:
+- Clay Travis
 ---
 
 > Two years ago Donald Trump told CBS’s Lesley Stahl on 60 Minutes the Hunter Biden laptop was real and should be covered by the media. Stahl said it couldn’t be verified. Two years later @cbsnews has finally verified it. Trump was right. Again.

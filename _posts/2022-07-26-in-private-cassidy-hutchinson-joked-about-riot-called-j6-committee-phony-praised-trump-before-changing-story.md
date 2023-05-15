@@ -2,6 +2,9 @@
 title: 'In private, Cassidy Hutchinson joked about riot, called J6 Committee ‘phony,’ praised Trump before changing story'
 date: '2022-07-26T06:57:00-07:00'
 layout: post
+author:
+- Mollie Hemingway
+- Tristan Justice
 ---
 
 - Hutchinson commiserated with other targets of the probe about how little information she had about any wrongdoing on Jan. 6.

@@ -2,6 +2,8 @@
 title: 'The Fifth Estate'
 date: '2022-12-13T05:34:43-08:00'
 layout: post
+author:
+- Mike Solana
 ---
 
 Dangerous alliance. In 1787, Edmund Burke said there were “Three Estates in Parliament; but, in the Reporters’ Gallery yonder, there \[sits\] a Fourth Estate more important than they all.” The notion of some vital power beyond our government was imported to the New World, and today constitutes a core belief of the American liberal: there is no free people, we’re often told, without a free press independent of congress, the courts, and our president. But throughout the 20th Century thousands of media outlets gradually consolidated, and by the dawn of our internet era only a few giants remained. These giants largely shared a single perspective, and in rough agreement with the ruling class the Fourth Estate naturally came to serve, rather than critique, power. This relationship metastasized into something very close to authoritarianism during the Covid-19 pandemic, when a single state narrative was written by the press, and ruthlessly enforced by a fifth and final fount of power in the newly-dominant technology industry.

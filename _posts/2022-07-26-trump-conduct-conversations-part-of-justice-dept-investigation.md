@@ -2,6 +2,11 @@
 title: 'Trump conduct, conversations part of Justice Dept. investigation'
 date: '2022-07-26T06:37:00-07:00'
 layout: post
+author:
+- Carol D. Leonnig
+- Devlin Barrett
+- Josh Dawsey
+- Spencer S. Hsu
 ---
 
 - People familiar with the probe said investigators are examining the former president’s conversations and have seized phone records of top aides

@@ -2,6 +2,8 @@
 title: '9/11 families launch ad attacking Trump for holding Saudi-backed golf tournament'
 date: '2022-07-26T06:53:00-07:00'
 layout: post
+author:
+- Nikki Schwab
 ---
 
 - ‘How much money to turn your back on your own country?’

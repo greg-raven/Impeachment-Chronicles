@@ -2,6 +2,9 @@
 title: 'Donald Trump’s armed mob'
 date: '2022-07-24T08:22:00-07:00'
 layout: post
+author:
+- Chad Program
+- Liz Cheney
 ---
 
 > Cheney on Fox to colleague Bret Baier: What we aren't going do, Bret, is blame the Capitol Police, blame those in law enforcement, for Donald Trump's armed mob that he sent to the Capitol

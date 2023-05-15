@@ -2,6 +2,8 @@
 title: 'Biden camp called Mike Morell after debate with Trump to thank him for creating bogus letter on Hunter laptop signed by 51 intel operatives and lying to American public'
 date: '2023-04-29T06:49:51-07:00'
 layout: post
+author:
+- Jim Hoft
 ---
 
 This weekend Jim Jordan and Kash discuss how Mike Morrell confessed under oath that the Biden campaign was behind the letter signed by 51 IC agents to suppress the laptop story.

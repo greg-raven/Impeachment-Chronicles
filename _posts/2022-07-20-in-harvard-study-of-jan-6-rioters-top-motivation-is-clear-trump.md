@@ -2,6 +2,10 @@
 title: 'In Harvard study of Jan. 6 rioters, top motivation is clear: Trump'
 date: '2022-07-20T04:25:00-07:00'
 layout: post
+author:
+- Ben Collins
+- Ryan J. Reilly
+- Jacob Ward
 ---
 
 - The study, which was shared with NBC News ahead of its publication, logged and analyzed the motives of 417 Capitol rioters, all of whom have been charged in relation to Jan. 6.

@@ -2,6 +2,8 @@
 title: 'House Republicans release a scathing report alleging politicization of the DOJ and the FBI'
 date: '2022-11-06T08:07:39-08:00'
 layout: post
+author:
+- Rajan Laad
 ---
 
 On Friday, the Republicans on the House Judiciary Committee released [1,050 page report](https://republicans-judiciary.house.gov/wp-content/uploads/2022/11/HJC_STAFF_FBI_REPORT.pdf) detailing the claims made by myriad whistleblowers at the Federal Bureau of Investigation about the abuse of power and politicization of the nation’s foremost law enforcement authority.

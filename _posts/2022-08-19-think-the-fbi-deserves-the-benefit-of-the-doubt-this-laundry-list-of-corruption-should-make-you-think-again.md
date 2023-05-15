@@ -7,7 +7,6 @@ author:
 ---
 
 - A look at the FBI’s last six years shows a pattern of irredeemable corruption.
-- Author Tristan Justice profile
 
 Can the FBI be trusted? A Federalist analysis of agency lies over the last decade is an unequivocal no.
 

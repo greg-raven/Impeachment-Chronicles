@@ -3,7 +3,7 @@ title: 'NYT reveals FBI retaliated against Trump for Comey firing'
 date: '2019-01-14T06:26:00-08:00'
 layout: post
 author:
-- Mollie Ziegler Hemingway
+- Mollie Hemingway
 ---
 
 - A Friday expose from the New York Times reveals that the FBI investigation of Trump for alleged treason was little more than retaliation against the president for lawfully firing an incompetent and ethically-challenged FBI director.
@@ -76,4 +76,4 @@ In sum, the framing of this New York Times article is either poorly conceived or
 
 For one of the nation’s largest newspapers to suggest that this makes the president — and not the FBI — look bad actually validates two of Trump’s biggest complaints: the media are hopelessly biased, and there really is a “deep state” out to to overturn the 2016 election.
 
-Source: Mollie Ziegler Hemingway, thefederalist.com/2019/01/14/nyt-reveals-fbi-retaliated-against-trump-for-comey-firing/
+Source: Mollie Hemingway, thefederalist.com/2019/01/14/nyt-reveals-fbi-retaliated-against-trump-for-comey-firing/

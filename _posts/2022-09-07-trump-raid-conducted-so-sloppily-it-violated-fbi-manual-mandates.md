@@ -2,6 +2,8 @@
 title: 'Trump raid conducted ‘so sloppily,’ it violated FBI-manual mandates'
 date: '2022-09-07T13:52:00-07:00'
 layout: post
+author:
+- Bob Unruh
 ---
 
 - Many items and papers taken that FBI lack authority to confiscate

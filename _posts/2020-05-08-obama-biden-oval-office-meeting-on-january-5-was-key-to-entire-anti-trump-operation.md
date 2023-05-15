@@ -3,7 +3,7 @@ title: 'Obama, Biden Oval Office meeting on January 5 was key to entire anti-Tru
 date: '2020-05-08T14:32:00-07:00'
 layout: post
 author:
-- Mollie Ziegler Hemingway
+- Mollie Hemingway
 ---
 
 - Susan Rice’s bizarre Inauguration Day email about that meeting helps explain the campaign of leaks, lies, and obstruction that followed.
@@ -46,4 +46,4 @@ March 2: Sessions recused himself from oversight of the FBI’s anti-Trump opera
 
 This stunning operation was not just a typical battle between political foes, nor merely an example of media bias against political enemies. Instead, this entire operation was a deliberate and direct attack on the foundation of American governance. In light of the newly declassified documents released in recent days, it is clear that understanding what happened in that January 5 Oval Office meeting is essential to understanding the full scope and breadth of the corrupt operation against the Trump administration. It is long past time for lawmakers in Congress who are actually interested in oversight of the federal government and the media to demand answers about what really happened in that meeting from every single participant, including Obama and Biden.
 
-Source: Mollie Ziegler Hemingway, thefederalist.com/2020/05/08/obama-biden-oval-office-meeting-on-january-5-was-key-to-entire-anti-trump-operation/
+Source: Mollie Hemingway, thefederalist.com/2020/05/08/obama-biden-oval-office-meeting-on-january-5-was-key-to-entire-anti-trump-operation/

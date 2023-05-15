@@ -2,6 +2,8 @@
 title: 'Sussmann billed the purchase of flash drives to Clinton campaign days before giving them to FBI'
 date: '2022-05-25T10:30:00-07:00'
 layout: post
+author:
+- Natalia Mittelstadt
 ---
 
 Just days before 2016 Clinton campaign attorney Michael Sussmann met with the FBI over alleged Trump-Russia collusion – inspired by what he described as his desire to be a concerned citizen – Sussmann bought and billed the campaign for two flash drives on which he stored data that he presented to the bureau, a prosecution witness testified Wednesday.

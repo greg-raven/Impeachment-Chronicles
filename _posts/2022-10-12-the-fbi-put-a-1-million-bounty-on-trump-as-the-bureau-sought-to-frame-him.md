@@ -2,6 +2,8 @@
 title: 'The FBI put a $1 million bounty on Trump as the Bureau sought to frame him'
 date: '2022-10-12T05:19:00-07:00'
 layout: post
+author:
+- Gregg Jarrett
 ---
 
 - James Comey and his crooked cronies at the bureau were so desperate to topple Trump that they put the equivalent of a a taxpayer-funded bounty on the president’s head to frame him.

@@ -2,6 +2,9 @@
 title: 'FBI wrongly told its agents Trump-Russia collusion claims had come from DOJ, bombshell document reveals'
 date: '2022-05-23T05:13:00-07:00'
 layout: post
+author:
+- Ben Feuerherd
+- Mark Moore
 ---
 
 WASHINGTON — FBI agents probing since-debunked claims of a secret back channel between Donald Trump and a Russian bank believed that the allegations had originated with the Department of Justice — when in fact they came from Hillary Clinton campaign attorney Michael Sussmann, who had shopped them to the bureau’s then-general counsel days earlier.

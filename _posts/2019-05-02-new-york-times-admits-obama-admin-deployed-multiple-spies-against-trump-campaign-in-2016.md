@@ -3,7 +3,7 @@ title: 'New York Times admits Obama Admin deployed multiple spies against Trump 
 date: '2019-05-02T15:35:00-07:00'
 layout: post
 author:
-- Mollie Ziegler Hemingway
+- Mollie Hemingway
 ---
 
 - *The New York Times* admitted on Thursday that the Obama administration deployed multiple spies against the Trump campaign in 2016, confirming recent comments by Attorney General William Barr that ‘spying did occur’ during the campaign.
@@ -54,6 +54,6 @@ When William Barr took over as attorney general, it was the first time in years 
 
 While Barr was adamant that Mueller’s special counsel probe be unimpeded and his report fully published, he scared the anti-Trump forces in and out of government when he said spying on opposing political campaigns is inappropriate. His public vow to examine whether the widespread spying operation against Trump and his affiliates was lawful and appropriate sent shockwaves through an organized anti-Trump political operation that had completely controlled the narrative until recently.
 
-Source: Mollie Ziegler Hemingway, thefederalist.com/2019/05/02/new-york-times-admits-multiple-spies-deployed-against-trump-campaign/
+Source: Mollie Hemingway, thefederalist.com/2019/05/02/new-york-times-admits-multiple-spies-deployed-against-trump-campaign/
 
 Sean Davis contributed to this report.

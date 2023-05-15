@@ -3,7 +3,7 @@ title: 'Incoming Democrat chairman: Dems will go ‘all-in’ on Russia, impeach
 date: '2018-11-07T14:23:00-08:00'
 layout: post
 author:
-- Mollie Ziegler Hemingway
+- Mollie Hemingway
 ---
 
 - Also laments that elite Republicans are joining Democrats.
@@ -20,4 +20,4 @@ Nadler said Russia investigations would be under a broad umbrella of holding Tru
 
 \[…\]
 
-Source: Mollie Ziegler Hemingway, thefederalist.com/2018/11/07/incoming-democrat-chairman-dems-will-go-all-in-on-russia-impeach-kavanaugh-for-perjury/
+Source: Mollie Hemingway, thefederalist.com/2018/11/07/incoming-democrat-chairman-dems-will-go-all-in-on-russia-impeach-kavanaugh-for-perjury/
