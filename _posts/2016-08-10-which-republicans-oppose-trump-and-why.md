@@ -2,6 +2,8 @@
 title: 'Which Republicans oppose Trump and why?'
 date: '2016-08-10T07:06:00-07:00'
 layout: post
+author:
+- Rachel Chason
 ---
 
 Here’s a semi-comprehensive list we’ll be updating of the many notable Republicans who have said they won’t support GOP presidential nominee Donald Trump, why they’re opposing him and who they’ll back instead:
@@ -12,7 +14,7 @@ Susan Collins: The Maine senator wrote an op-ed in The Washington Post on August
 
 Mark Kirk: The Illinois senator said June 8 that he “cannot and will not support” Trump – who he said “does not have the temperament” to be commander in chief. Kirk faces a tough challenge in November from Illinois Democratic Rep. Tammy Duckworth.
 
-Sen. Ben Sasse (R-NE) (3L) arrives at the Capitol for a cloture vote on the Keystone XL Pipeline January 26, 2015 on Capitol Hill in Washington, DC.  
+Sen. Ben Sasse (R-NE) (3L) arrives at the Capitol for a cloture vote on the Keystone XL Pipeline January 26, 2015 on Capitol Hill in Washington, DC.
 Lindsey Graham: The South Carolina senator told CNN May 6 that he won’t vote for Trump or Clinton. Saying he thinks the Republican Party has been “conned,” Graham added that he doesn’t think Trump is “a reliable Republican conservative.”
 
 Ted Cruz: The Texas senator and former Trump rival hasn’t explicitly said he won’t vote for Trump, but he pointedly refused to endorse the nominee during a prime-time speech at the Republican National Convention. He defended his decision the next day, saying he’s not “in the habit” of backing politicians who attack his family.

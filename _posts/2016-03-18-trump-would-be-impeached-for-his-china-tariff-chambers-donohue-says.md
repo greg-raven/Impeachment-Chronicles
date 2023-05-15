@@ -2,6 +2,8 @@
 title: 'Trump would be ‘impeached’ for his China tariff, Chamber’s Donohue says'
 date: '2016-03-18T16:19:00-07:00'
 layout: post
+author:
+- Bloomberg News
 ---
 
 - U.S. Chamber‘s Donohue uses a bit of hyperbole to make his point: It‘s American consumers and businesses that would pay the price.
@@ -14,4 +16,4 @@ Trump, the leading candidate for the Republican Party’s presidential nominatio
 
 \[…\]
 
-Source: www.bloomberg.com/news/articles/2016-03-18/trump-china-tariff-bad-for-business-consumers-chamber-s-donohue
+Source: bloomberg.com/news/articles/2016-03-18/trump-china-tariff-bad-for-business-consumers-chamber-s-donohue

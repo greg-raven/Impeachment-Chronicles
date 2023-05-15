@@ -2,6 +2,8 @@
 title: 'We salute Muhammad Ali as a great American'
 date: '2016-06-05T06:58:00-07:00'
 layout: post
+author:
+- Steve Dettelbach
 ---
 
 > We salute #MuhammadAli as a great American. Sadly, we need to acknowledge that Donald Trump wouldn't even allow him to come into America.

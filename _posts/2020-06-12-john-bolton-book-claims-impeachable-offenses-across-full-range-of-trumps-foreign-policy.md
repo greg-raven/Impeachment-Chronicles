@@ -2,6 +2,8 @@
 title: 'John Bolton book claims impeachable offenses across ‘full range’ of Trump’s foreign policy'
 date: '2020-06-12T06:33:00-07:00'
 layout: post
+author:
+- Joe DePaolo
 ---
 
 According to a press release put out by publishing giant Simon &amp; Schuster, Bolton’s soon-to-be-released book — *The Room Where It Happened: A White House Memoir* — contains a thorough accounting of Trump’s transgressions.

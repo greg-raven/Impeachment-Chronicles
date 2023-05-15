@@ -2,6 +2,8 @@
 title: 'Donald Trump’s new favorite slogan was invented for Nazi sympathizers'
 date: '2016-06-14T08:22:00-07:00'
 layout: post
+author:
+- Eric Rauchway
 ---
 
 - ‘America First’ was Charles Lindbergh’s motto in the 1930s
@@ -34,4 +36,4 @@ As with the Trump campaign, not all America First Committee supporters in 1940 w
 
 The subsidiary labels may have shifted, but the general idea of “America First” remains the same: The United States should arm itself against foreign threats and stay within carefully defined borders, using the might of the state only to defend a very specific, rather white idea of “America” that excludes certain racial and religious minorities. Then, as now, the phrase offered strength through cowardice. Defeating this defeatism was essential to victory over dictatorships in the 20th century, and it is essential to preserving the institutions of democracy today.
 
-Source: The Washington Post, washingtonpost.com/posteverything/wp/2016/06/14/donald-trumps-new-favorite-slogan-has-a-nazi-friendly-history/
+Source: Eric Rauchway, washingtonpost.com/posteverything/wp/2016/06/14/donald-trumps-new-favorite-slogan-has-a-nazi-friendly-history/
