@@ -57,11 +57,6 @@ Bruce Ohr- Guilty
 
 Nellie Ohr- Guilty
 
-<img>
+![Durham Report Verdicts according to Donald Trump](/assets/2023-05-15-durham-report-verdicts.png)
 
 Source: Donald Trump, gab.com/realdonaldtrump/posts/110375186729018492
-
-
-<iframe src="https://gab.com/realdonaldtrump/posts/110375186729018492">
-
-</iframe>
