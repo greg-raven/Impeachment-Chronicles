@@ -1,6 +1,5 @@
 ---
 title: 'Monday Article of Impeachment'
-date: '2021-01-22T13:43:00-08:00'
 layout: post
 author:
 - Rob Reiner

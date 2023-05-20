@@ -1,6 +1,5 @@
 ---
 title: 'Trump under fire for claim of ‘large scale killing’ of white farmers in South Africa'
-date: '2018-08-23T07:31:00-07:00'
 layout: post
 ---
 

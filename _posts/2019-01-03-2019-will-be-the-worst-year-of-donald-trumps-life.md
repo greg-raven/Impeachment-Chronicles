@@ -1,6 +1,5 @@
 ---
 title: '2019 will be the worst year of Donald Trump’s life'
-date: '2019-01-03T06:24:00-08:00'
 layout: post
 ---
 

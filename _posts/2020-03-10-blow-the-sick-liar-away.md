@@ -1,6 +1,5 @@
 ---
 title: 'Blow the sick liar away'
-date: '2020-03-10T09:32:00-07:00'
 layout: post
 author:
 - Rob Reiner

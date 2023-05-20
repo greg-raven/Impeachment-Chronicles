@@ -1,6 +1,5 @@
 ---
 title: '‘They spied on Trump’: New filing by John Durham alleges that President Trump’s internet traffic was being monitored'
-date: '2022-02-12T08:48:00-08:00'
 layout: post
 ---
 

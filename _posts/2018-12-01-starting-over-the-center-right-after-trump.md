@@ -1,6 +1,5 @@
 ---
 title: 'Starting over: The center right after Trump'
-date: '2018-12-01T07:58:00-08:00'
 layout: post
 ---
 

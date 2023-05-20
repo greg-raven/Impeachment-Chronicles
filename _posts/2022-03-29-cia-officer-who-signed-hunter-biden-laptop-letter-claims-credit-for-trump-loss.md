@@ -1,6 +1,5 @@
 ---
 title: 'CIA officer who signed Hunter Biden laptop letter claims credit for Trump loss'
-date: '2022-03-29T09:41:00-07:00'
 layout: post
 ---
 

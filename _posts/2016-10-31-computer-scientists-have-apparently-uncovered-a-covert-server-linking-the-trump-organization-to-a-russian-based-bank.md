@@ -1,6 +1,5 @@
 ---
 title: 'Computer scientists have apparently uncovered a covert server linking the Trump Organization to a Russian-based bank.'
-date: '2016-10-31T14:21:00-07:00'
 layout: post
 ---
 

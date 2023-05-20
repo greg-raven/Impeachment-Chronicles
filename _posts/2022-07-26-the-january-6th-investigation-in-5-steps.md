@@ -1,6 +1,5 @@
 ---
 title: 'The January 6th ‘investigation’ in 5 steps'
-date: '2022-07-26T06:50:00-07:00'
 layout: post
 author:
 - Scott Adams

@@ -1,6 +1,5 @@
 ---
 title: 'Trump-tweet target Tom Steyer’s impeachment campaign tops 1.4 million signatures'
-date: '2017-11-01T06:59:00-07:00'
 layout: post
 ---
 

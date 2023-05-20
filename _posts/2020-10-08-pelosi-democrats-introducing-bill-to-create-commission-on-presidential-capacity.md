@@ -1,6 +1,5 @@
 ---
 title: 'Pelosi, Democrats introducing bill to create commission on ‘presidential capacity’'
-date: '2020-10-08T06:52:00-07:00'
 layout: post
 ---
 

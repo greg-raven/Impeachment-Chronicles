@@ -1,6 +1,5 @@
 ---
 title: 'Here’s everything the FBI deliberately ignored to get Trump in Russian collusion hoax, according to Durham'
-date: '2023-05-15T06:42:37-07:04'
 layout: post
 author:
 - Jonathan Boyd

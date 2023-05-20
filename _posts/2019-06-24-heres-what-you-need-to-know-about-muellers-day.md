@@ -1,6 +1,5 @@
 ---
 title: 'Here’s what you need to know about Mueller’s day'
-date: '2019-06-24T08:17:00-07:00'
 layout: post
 ---
 

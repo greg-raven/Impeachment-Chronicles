@@ -1,6 +1,5 @@
 ---
 title: 'Why Trump supporters believe the election of Joe Biden was fraudulent'
-date: '2021-07-08T07:22:00-07:00'
 layout: post
 ---
 

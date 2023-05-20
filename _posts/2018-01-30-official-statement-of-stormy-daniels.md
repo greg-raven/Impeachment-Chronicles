@@ -1,6 +1,5 @@
 ---
 title: 'Official Statement of Stormy Daniels'
-date: '2018-01-30T06:25:00-08:00'
 layout: post
 ---
 

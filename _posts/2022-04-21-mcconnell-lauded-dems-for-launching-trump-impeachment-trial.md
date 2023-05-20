@@ -1,6 +1,5 @@
 ---
 title: 'McConnell lauded Dems for launching&nbsp;Trump impeachment trial'
-date: '2022-04-21T13:57:00-07:00'
 layout: post
 ---
 

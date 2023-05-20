@@ -1,6 +1,5 @@
 ---
 title: 'Today we delivered over 850,000 signatures to Congress calling for an impeachment investigation'
-date: '2017-02-16T09:58:00-08:00'
 layout: post
 ---
 

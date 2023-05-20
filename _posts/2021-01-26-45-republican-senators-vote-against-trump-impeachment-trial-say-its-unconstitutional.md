@@ -1,6 +1,5 @@
 ---
 title: '45 Republican Senators vote against Trump impeachment trial, say it’s unconstitutional'
-date: '2021-01-26T12:28:00-08:00'
 layout: post
 ---
 

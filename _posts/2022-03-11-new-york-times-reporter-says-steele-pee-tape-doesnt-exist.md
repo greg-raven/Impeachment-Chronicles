@@ -1,6 +1,5 @@
 ---
 title: 'New York Times reporter says Steele pee tape doesn’t exist'
-date: '2022-03-11T09:19:00-08:00'
 layout: post
 ---
 

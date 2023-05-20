@@ -1,6 +1,5 @@
 ---
 title: 'House Foreign Affairs Committee Democrats support impeaching Trump'
-date: '2021-01-08T07:22:00-08:00'
 layout: post
 ---
 

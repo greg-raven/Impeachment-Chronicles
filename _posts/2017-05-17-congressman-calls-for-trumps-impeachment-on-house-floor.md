@@ -1,6 +1,5 @@
 ---
 title: 'Congressman calls for Trump’s impeachment on House floor'
-date: '2017-05-17T14:06:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: '10 disturbing revelations from FBI Special Agent William Barnett on the FBI’s Michael Flynn Probe'
-date: '2020-09-25T09:55:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Timeline: FBI targets Flynn'
-date: '2017-01-24T07:45:00-08:00'
 layout: post
 author:
 - Mollie Hemingway

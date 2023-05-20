@@ -1,6 +1,5 @@
 ---
 title: 'War crimes'
-date: '2020-04-21T06:42:00-07:00'
 layout: post
 author:
 - RNC Research

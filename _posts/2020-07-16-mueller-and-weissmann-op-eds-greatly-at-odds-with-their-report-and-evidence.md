@@ -1,6 +1,5 @@
 ---
 title: 'Mueller and Weissmann op-eds greatly at odds with their report and evidence'
-date: '2020-07-16T06:36:00-07:00'
 layout: post
 author:
 - Aaron Maté

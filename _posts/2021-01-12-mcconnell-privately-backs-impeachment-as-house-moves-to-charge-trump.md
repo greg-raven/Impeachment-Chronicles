@@ -1,6 +1,5 @@
 ---
 title: 'McConnell privately backs impeachment as House moves to charge Trump'
-date: '2021-01-12T12:23:00-08:00'
 layout: post
 ---
 

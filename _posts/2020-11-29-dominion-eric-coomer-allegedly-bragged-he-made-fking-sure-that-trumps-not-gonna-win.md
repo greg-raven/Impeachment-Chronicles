@@ -1,6 +1,5 @@
 ---
 title: 'DOMINION: Eric Coomer allegedly bragged he ‘made f**king sure’ that ‘Trump’s not gonna win’'
-date: '2020-11-29T06:27:00-08:00'
 layout: post
 ---
 

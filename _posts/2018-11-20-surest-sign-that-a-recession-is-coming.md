@@ -1,6 +1,5 @@
 ---
 title: 'Surest sign that a recession is coming'
-date: '2018-11-20T08:18:00-08:00'
 layout: post
 author:
 - Ron Klain

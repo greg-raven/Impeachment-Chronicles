@@ -1,6 +1,5 @@
 ---
 title: 'Senate Republicans release files they say ‘undercut’ Steele dossier'
-date: '2020-07-17T09:43:00-07:00'
 layout: post
 ---
 

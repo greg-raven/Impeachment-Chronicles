@@ -1,6 +1,5 @@
 ---
 title: 'Donald Trump’s many, many, many, many ties to Russia'
-date: '2016-08-15T09:21:00-07:00'
 layout: post
 ---
 

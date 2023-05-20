@@ -1,6 +1,5 @@
 ---
 title: 'Never been frightened?'
-date: '2022-10-20T07:58:00-07:00'
 layout: post
 author:
 - CasuallyGreg

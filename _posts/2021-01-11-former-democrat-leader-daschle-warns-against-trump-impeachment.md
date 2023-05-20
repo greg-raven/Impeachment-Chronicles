@@ -1,6 +1,5 @@
 ---
 title: 'Former Democrat leader Daschle warns against Trump impeachment'
-date: '2021-01-11T12:19:00-08:00'
 layout: post
 ---
 

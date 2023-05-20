@@ -1,6 +1,5 @@
 ---
 title: 'Trump should be arrested for attempted murder'
-date: '2021-12-02T07:52:00-08:00'
 layout: post
 author:
 - Bette Midler

@@ -1,6 +1,5 @@
 ---
 title: 'Here are the senior Biden officials entangled in Durham’s criminal Russiagate probe'
-date: '2022-07-21T14:07:51-07:00'
 layout: post
 author:
 - Paul Sperry

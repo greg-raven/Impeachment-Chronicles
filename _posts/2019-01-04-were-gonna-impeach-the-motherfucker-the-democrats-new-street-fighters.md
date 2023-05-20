@@ -1,6 +1,5 @@
 ---
 title: '‘We’re gonna impeach the motherfucker’: the Democrats’ new street fighters'
-date: '2019-01-04T06:25:00-08:00'
 layout: post
 ---
 

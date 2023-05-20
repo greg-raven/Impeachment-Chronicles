@@ -1,6 +1,5 @@
 ---
 title: 'Trump is guilty'
-date: '2022-10-08T10:12:00-07:00'
 layout: post
 author:
 - Luke Zaleski

@@ -1,6 +1,5 @@
 ---
 title: 'Pelosi: ‘It’s not a question’ of ‘proof’ it’s about ‘allegations’'
-date: '2020-01-16T15:13:00-08:00'
 layout: post
 ---
 

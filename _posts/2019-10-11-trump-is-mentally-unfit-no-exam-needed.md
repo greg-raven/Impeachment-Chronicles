@@ -1,6 +1,5 @@
 ---
 title: 'Trump is mentally unfit, no exam needed'
-date: '2019-10-11T06:52:00-07:00'
 layout: post
 author:
 - Leonard L. Glass

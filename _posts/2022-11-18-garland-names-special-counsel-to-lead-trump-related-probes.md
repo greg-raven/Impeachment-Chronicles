@@ -1,6 +1,5 @@
 ---
 title: 'Garland names special counsel to lead Trump-related probes'
-date: '2022-11-18T05:42:00-08:00'
 layout: post
 author:
 - Eric Tucker

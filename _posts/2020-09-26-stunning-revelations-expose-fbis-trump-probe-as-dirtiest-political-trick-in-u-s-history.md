@@ -1,6 +1,5 @@
 ---
 title: 'Stunning revelations expose FBI’s Trump probe as dirtiest political trick in U.S. history'
-date: '2020-09-26T06:45:00-07:00'
 layout: post
 ---
 

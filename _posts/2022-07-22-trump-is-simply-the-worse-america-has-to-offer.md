@@ -1,6 +1,5 @@
 ---
 title: 'Trump is simply the worse America has to offer'
-date: '2022-07-22T08:29:00-07:00'
 layout: post
 author:
 - The Lincoln Project

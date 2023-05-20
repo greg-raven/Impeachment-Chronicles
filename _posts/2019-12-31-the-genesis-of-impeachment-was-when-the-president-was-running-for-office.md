@@ -1,6 +1,5 @@
 ---
 title: 'The genesis of impeachment was when the president was running for office'
-date: '2019-12-31T07:10:00-08:00'
 layout: post
 ---
 

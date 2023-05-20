@@ -1,6 +1,5 @@
 ---
 title: 'AG Barr gives update on Durham Probe: ‘Group of people’ attempted to ‘topple’ Trump admin'
-date: '2020-12-21T10:11:00-08:00'
 layout: post
 ---
 

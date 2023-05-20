@@ -1,6 +1,5 @@
 ---
 title: '2016 election was illegitimate'
-date: '2018-02-16T07:52:00-08:00'
 layout: post
 author:
 - Hakeen Jeffries

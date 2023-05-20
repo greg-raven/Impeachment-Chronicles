@@ -1,6 +1,5 @@
 ---
 title: 'The Constitution is clear'
-date: '2020-10-02T06:46:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Anticipating Trump’s return to Twitter'
-date: '2022-10-28T08:35:38-07:00'
 layout: post
 author:
 - Rick Wilson

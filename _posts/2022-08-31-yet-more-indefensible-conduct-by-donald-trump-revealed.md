@@ -1,6 +1,5 @@
 ---
 title: 'Yet more indefensible conduct by Donald Trump'
-date: '2022-08-31T10:41:40-07:00'
 layout: post
 author:
 - Liz Cheney

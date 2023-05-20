@@ -1,6 +1,5 @@
 ---
 title: 'Trump impeachment trial is unconstitutional – here’s why Senate must dismiss it'
-date: '2021-02-04T07:21:00-08:00'
 layout: post
 ---
 

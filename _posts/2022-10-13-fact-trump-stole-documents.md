@@ -1,6 +1,5 @@
 ---
 title: 'Fact: Trump stole documents'
-date: '2022-10-13T09:22:00-07:00'
 layout: post
 author:
 - Rob Reiner

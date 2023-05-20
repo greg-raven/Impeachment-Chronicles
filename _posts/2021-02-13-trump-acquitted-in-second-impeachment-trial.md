@@ -1,6 +1,5 @@
 ---
 title: 'Trump acquitted in second impeachment trial'
-date: '2021-02-13T12:29:00-08:00'
 layout: post
 ---
 

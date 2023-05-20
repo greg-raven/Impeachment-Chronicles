@@ -1,6 +1,5 @@
 ---
 title: 'Trump owes tens of millions to Bank of China'
-date: '2020-04-24T08:12:00-07:00'
 layout: post
 author:
 - Marc Caputo

@@ -1,6 +1,5 @@
 ---
 title: 'Republican blocks House from bringing up 25th Amendment resolution'
-date: '2021-01-11T12:21:00-08:00'
 layout: post
 ---
 

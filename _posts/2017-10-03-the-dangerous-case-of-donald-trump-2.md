@@ -1,6 +1,5 @@
 ---
 title: 'The Dangerous Case of Donald Trump'
-date: '2017-10-03T13:57:00-07:00'
 layout: post
 ---
 

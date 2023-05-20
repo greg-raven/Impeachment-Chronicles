@@ -1,6 +1,5 @@
 ---
 title: 'New Strzok texts show FBI was investigating Trump before Crossfire Hurricane was opened'
-date: '2020-12-17T10:10:00-08:00'
 layout: post
 ---
 

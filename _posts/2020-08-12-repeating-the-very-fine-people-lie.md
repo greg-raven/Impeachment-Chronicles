@@ -1,6 +1,5 @@
 ---
 title: 'Repeating the ‘very fine people’ lie'
-date: '2020-08-12T06:33:00-07:00'
 layout: post
 author:
 - Joe Biden

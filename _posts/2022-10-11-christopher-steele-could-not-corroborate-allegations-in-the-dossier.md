@@ -1,6 +1,5 @@
 ---
 title: 'Christopher Steele could not corroborate allegations in the Dossier'
-date: '2022-10-11T08:23:00-07:00'
 layout: post
 author:
 - Sean Langille

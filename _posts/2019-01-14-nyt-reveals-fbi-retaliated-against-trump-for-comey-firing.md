@@ -1,6 +1,5 @@
 ---
 title: 'NYT reveals FBI retaliated against Trump for Comey firing'
-date: '2019-01-14T06:26:00-08:00'
 layout: post
 author:
 - Mollie Hemingway

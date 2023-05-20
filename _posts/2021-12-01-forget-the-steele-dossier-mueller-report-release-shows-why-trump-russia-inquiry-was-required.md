@@ -1,6 +1,5 @@
 ---
 title: 'Forget the Steele dossier: Mueller report release shows why Trump-Russia inquiry was required'
-date: '2021-12-01T07:25:00-08:00'
 layout: post
 ---
 

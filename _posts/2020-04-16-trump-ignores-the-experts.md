@@ -1,6 +1,5 @@
 ---
 title: 'Trump ignores the experts'
-date: '2020-04-16T07:56:00-07:00'
 layout: post
 author:
 - Adam Schiff

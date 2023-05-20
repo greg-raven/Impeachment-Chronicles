@@ -1,6 +1,5 @@
 ---
 title: 'Pelosi says House to move forward with impeachment attempt if Pence doesn’t respond'
-date: '2021-01-10T12:17:00-08:00'
 layout: post
 ---
 

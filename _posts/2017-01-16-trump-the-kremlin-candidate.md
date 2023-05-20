@@ -1,6 +1,5 @@
 ---
 title: 'Trump: The Kremlin Candidate?'
-date: '2017-01-16T05:34:00-08:00'
 layout: post
 ---
 

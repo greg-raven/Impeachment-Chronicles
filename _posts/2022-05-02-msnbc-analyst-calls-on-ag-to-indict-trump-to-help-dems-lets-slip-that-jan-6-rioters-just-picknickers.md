@@ -1,6 +1,5 @@
 ---
 title: 'MSNBC analyst calls on AG to indict Trump to ‘help’ Dems, lets slip that Jan 6 rioters just ‘picknickers’'
-date: '2022-05-02T14:08:00-07:00'
 layout: post
 ---
 

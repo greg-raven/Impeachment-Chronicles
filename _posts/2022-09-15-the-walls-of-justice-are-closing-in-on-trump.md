@@ -1,6 +1,5 @@
 ---
 title: 'The walls of justice are closing in on Trump'
-date: '2022-09-15T13:58:00-07:00'
 layout: post
 author:
 - Andrew Weissmann

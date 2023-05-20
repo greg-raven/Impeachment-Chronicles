@@ -1,6 +1,5 @@
 ---
 title: 'Rosenstein agrees that by August of 2017 there was no evidence of Trump-Russia collusion'
-date: '2020-06-03T06:23:00-07:00'
 layout: post
 ---
 

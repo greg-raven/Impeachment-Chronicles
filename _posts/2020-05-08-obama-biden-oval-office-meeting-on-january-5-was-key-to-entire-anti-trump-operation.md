@@ -1,6 +1,5 @@
 ---
 title: 'Obama, Biden Oval Office meeting on January 5 was key to entire anti-Trump operation'
-date: '2020-05-08T14:32:00-07:00'
 layout: post
 author:
 - Mollie Hemingway

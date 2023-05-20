@@ -1,6 +1,5 @@
 ---
 title: 'Timeline: Leak targets Flynn'
-date: '2017-01-23T07:44:00-08:00'
 layout: post
 author:
 - Mollie Hemingway

@@ -1,6 +1,5 @@
 ---
 title: 'Ex-FBI lawyer admits to false statement during Russia probe'
-date: '2020-08-19T09:59:00-07:00'
 layout: post
 ---
 

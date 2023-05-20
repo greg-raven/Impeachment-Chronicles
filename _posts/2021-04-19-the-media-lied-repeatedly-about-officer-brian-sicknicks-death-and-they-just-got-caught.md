@@ -1,6 +1,5 @@
 ---
 title: 'The media lied repeatedly about Officer Brian Sicknick’s Death. And they just got caught.'
-date: '2021-04-19T08:06:00-07:00'
 layout: post
 author:
 - Glenn Greenwald

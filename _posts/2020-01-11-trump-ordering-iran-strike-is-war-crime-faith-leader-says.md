@@ -1,6 +1,5 @@
 ---
 title: 'Trump ordering Iran strike is war crime, faith leader says'
-date: '2020-01-11T07:11:00-08:00'
 layout: post
 ---
 

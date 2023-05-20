@@ -1,6 +1,5 @@
 ---
 title: 'Ayanna Pressley: Trump guilty of ‘war crimes’ in handling of coronavirus crisis'
-date: '2020-04-21T05:23:00-07:00'
 layout: post
 ---
 

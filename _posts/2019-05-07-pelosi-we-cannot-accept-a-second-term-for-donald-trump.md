@@ -1,6 +1,5 @@
 ---
 title: 'Pelosi: ‘We cannot accept a second term for Donald Trump’'
-date: '2019-05-07T15:38:00-07:00'
 layout: post
 ---
 

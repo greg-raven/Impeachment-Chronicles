@@ -1,6 +1,5 @@
 ---
 title: 'Hillary’s secretive, Russiagate-flogging pair of super-lawyers'
-date: '2021-10-19T06:21:00-07:00'
 layout: post
 author:
 - Aaron Maté

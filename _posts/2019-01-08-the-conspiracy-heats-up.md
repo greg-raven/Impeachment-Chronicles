@@ -1,6 +1,5 @@
 ---
 title: 'The conspiracy heats up'
-date: '2019-01-08T13:36:00-08:00'
 layout: post
 author:
 - Rob Reiner

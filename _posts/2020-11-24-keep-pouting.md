@@ -1,6 +1,5 @@
 ---
 title: 'Keep pouting'
-date: '2020-11-24T07:51:00-08:00'
 layout: post
 author:
 - Hakeem Jeffries

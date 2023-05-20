@@ -1,6 +1,5 @@
 ---
 title: 'Trump impeachment vote fails overwhelmingly'
-date: '2017-12-06T14:09:00-08:00'
 layout: post
 ---
 

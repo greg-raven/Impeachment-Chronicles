@@ -1,6 +1,5 @@
 ---
 title: 'Biden had firm at center of Trump hacking scandal on campaign payroll'
-date: '2022-02-15T05:52:00-08:00'
 layout: post
 ---
 

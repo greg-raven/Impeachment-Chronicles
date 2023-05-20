@@ -1,6 +1,5 @@
 ---
 title: '‘Donald Trump has committed the single worst crime in presidential history’'
-date: '2022-02-17T09:35:00-08:00'
 layout: post
 ---
 

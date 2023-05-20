@@ -1,6 +1,5 @@
 ---
 title: 'President unmasked: Trump goes maskless AGAIN on tour of factory despite being surrounded by staff in face coverings'
-date: '2020-05-14T13:37:00-07:00'
 layout: post
 ---
 

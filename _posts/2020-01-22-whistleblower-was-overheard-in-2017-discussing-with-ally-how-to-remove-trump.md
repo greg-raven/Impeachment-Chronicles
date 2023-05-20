@@ -1,6 +1,5 @@
 ---
 title: 'Whistleblower was overheard in 2017 discussing with ally how to remove Trump'
-date: '2020-01-22T13:52:00-08:00'
 layout: post
 author:
 - Paul Sperry

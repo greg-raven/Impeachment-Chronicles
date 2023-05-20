@@ -1,6 +1,5 @@
 ---
 title: 'Key evidence undermining Ukraine impeachment narrative withheld from Trump defense'
-date: '2022-02-01T06:42:00-08:00'
 layout: post
 ---
 

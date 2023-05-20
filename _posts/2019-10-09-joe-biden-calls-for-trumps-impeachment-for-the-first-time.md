@@ -1,6 +1,5 @@
 ---
 title: 'Joe Biden calls for Trump’s impeachment for the first time'
-date: '2019-10-09T06:48:00-07:00'
 layout: post
 author:
 - Jacob Pramuk

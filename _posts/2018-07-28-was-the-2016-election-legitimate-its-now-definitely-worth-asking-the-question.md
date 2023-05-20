@@ -1,6 +1,5 @@
 ---
 title: 'Was the 2016 election legitimate? It’s now definitely worth asking the question'
-date: '2018-07-28T14:18:00-07:00'
 layout: post
 ---
 

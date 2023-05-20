@@ -1,6 +1,5 @@
 ---
 title: 'Donald Trump is not above the law'
-date: '2022-08-26T23:01:00-07:00'
 layout: post
 author:
 - The New York Times

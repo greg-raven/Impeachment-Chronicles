@@ -1,6 +1,5 @@
 ---
 title: 'Time for media to dig in hard'
-date: '2017-02-24T09:29:00-08:00'
 layout: post
 author:
 - Rob Reiner

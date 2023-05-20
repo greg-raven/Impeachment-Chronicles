@@ -1,6 +1,5 @@
 ---
 title: 'Ellison floats impeaching Trump'
-date: '2017-02-23T10:07:00-08:00'
 layout: post
 ---
 

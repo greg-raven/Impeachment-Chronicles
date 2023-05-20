@@ -1,6 +1,5 @@
 ---
 title: 'The campaign to impeach President Trump has begun'
-date: '2017-01-01T14:09:00-08:00'
 layout: post
 ---
 

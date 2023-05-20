@@ -1,6 +1,5 @@
 ---
 title: 'U.S. intel officials probe ties between Trump adviser and Kremlin'
-date: '2016-09-23T07:04:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'FBI paid for Russian disinfo to frame Trump — and 7 more details'
-date: '2022-09-14T14:03:00-07:00'
 layout: post
 author:
 - Margot Cleveland

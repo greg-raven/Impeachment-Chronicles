@@ -1,6 +1,5 @@
 ---
 title: 'Rape culture America'
-date: '2022-11-20T06:38:17-08:00'
 layout: post
 author:
 - Lindsey Boylan

@@ -1,6 +1,5 @@
 ---
 title: 'Maskless Trump photo pretty much sums up his presidency, critics say'
-date: '2020-10-13T13:24:00-07:00'
 layout: post
 author:
 - Josephine Harvey

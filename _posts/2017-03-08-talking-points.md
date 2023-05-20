@@ -1,6 +1,5 @@
 ---
 title: 'Talking Points'
-date: '2017-03-08T14:01:00-08:00'
 layout: post
 ---
 

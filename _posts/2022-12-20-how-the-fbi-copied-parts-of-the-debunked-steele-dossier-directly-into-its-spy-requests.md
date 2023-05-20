@@ -1,6 +1,5 @@
 ---
 title: 'How the FBI copied parts of the debunked Steele Dossier directly into its spy requests'
-date: '2022-12-20T15:42:13-08:00'
 layout: post
 author:
 - Paul Sperry

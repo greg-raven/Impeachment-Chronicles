@@ -1,6 +1,5 @@
 ---
 title: 'H.Res.13 — Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors'
-date: '2019-03-01T15:31:00-08:00'
 layout: post
 ---
 

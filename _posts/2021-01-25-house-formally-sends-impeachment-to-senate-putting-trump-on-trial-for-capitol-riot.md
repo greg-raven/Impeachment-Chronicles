@@ -1,6 +1,5 @@
 ---
 title: 'House formally sends impeachment to Senate, putting Trump on trial for Capitol riot'
-date: '2021-01-25T12:26:00-08:00'
 layout: post
 ---
 

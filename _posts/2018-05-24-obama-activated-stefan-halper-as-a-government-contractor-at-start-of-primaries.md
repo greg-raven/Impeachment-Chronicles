@@ -1,6 +1,5 @@
 ---
 title: 'Obama activated Stefan Halper as a government contractor at start of primaries'
-date: '2018-05-24T10:22:00-07:00'
 layout: post
 ---
 

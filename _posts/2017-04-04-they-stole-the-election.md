@@ -1,6 +1,5 @@
 ---
 title: 'They stole the election'
-date: '2017-04-04T13:47:00-07:00'
 layout: post
 author:
 - Rob Reiner

@@ -1,6 +1,5 @@
 ---
 title: 'MSNBC host pushes 3 debunked claims about Trump in single segment'
-date: '2021-12-29T06:34:00-08:00'
 layout: post
 ---
 

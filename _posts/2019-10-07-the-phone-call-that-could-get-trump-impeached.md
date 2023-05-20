@@ -1,6 +1,5 @@
 ---
 title: 'The phone call that could get Trump impeached'
-date: '2019-10-07T06:47:00-07:00'
 layout: post
 author:
 - Alvin Chang

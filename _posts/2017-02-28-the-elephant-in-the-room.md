@@ -1,6 +1,5 @@
 ---
 title: 'The elephant in the room'
-date: '2017-02-28T10:08:00-08:00'
 layout: post
 ---
 

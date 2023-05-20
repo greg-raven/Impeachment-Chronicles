@@ -1,6 +1,5 @@
 ---
 title: 'San Antonio Spurs coach Gregg Popovich praises second impeachment: ‘Good move’'
-date: '2021-01-14T06:48:00-08:00'
 layout: post
 ---
 

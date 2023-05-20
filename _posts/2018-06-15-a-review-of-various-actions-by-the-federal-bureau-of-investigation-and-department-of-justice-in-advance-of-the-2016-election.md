@@ -1,6 +1,5 @@
 ---
 title: 'A review of various actions by the Federal Bureau of Investigation and Department of Justice in advance of the 2016 election'
-date: '2018-06-15T14:01:00-07:00'
 layout: post
 ---
 

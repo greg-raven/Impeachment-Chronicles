@@ -1,6 +1,5 @@
 ---
 title: 'Julian Castro renews call for president’s impeachment after ex-prosecutors claim Trump obstructed justice'
-date: '2017-05-06T10:17:00-07:00'
 layout: post
 ---
 

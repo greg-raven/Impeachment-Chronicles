@@ -1,6 +1,5 @@
 ---
 title: 'Timeline: FBI opens a counterintelligence investigation into Flynn'
-date: '2016-08-16T07:01:00-07:00'
 layout: post
 ---
 

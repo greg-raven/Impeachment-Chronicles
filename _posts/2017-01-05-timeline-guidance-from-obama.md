@@ -1,6 +1,5 @@
 ---
 title: 'Timeline: Guidance from Obama'
-date: '2017-01-05T14:11:00-08:00'
 layout: post
 author:
 - Mollie Hemingway

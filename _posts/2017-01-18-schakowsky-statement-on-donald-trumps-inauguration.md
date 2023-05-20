@@ -1,6 +1,5 @@
 ---
 title: 'Schakowsky statement on Donald Trump’s inauguration'
-date: '2017-01-18T05:38:00-08:00'
 layout: post
 ---
 

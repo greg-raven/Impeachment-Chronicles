@@ -1,6 +1,5 @@
 ---
 title: 'Hillary Clinton: ‘Trump knows he’s an illegitimate president,’ ‘Insomuch as he has a conscience’'
-date: '2019-09-29T15:43:00-07:00'
 layout: post
 ---
 

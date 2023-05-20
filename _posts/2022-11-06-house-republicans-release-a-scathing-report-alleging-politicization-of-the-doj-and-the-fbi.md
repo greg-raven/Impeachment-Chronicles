@@ -1,6 +1,5 @@
 ---
 title: 'House Republicans release a scathing report alleging politicization of the DOJ and the FBI'
-date: '2022-11-06T08:07:39-08:00'
 layout: post
 author:
 - Rajan Laad

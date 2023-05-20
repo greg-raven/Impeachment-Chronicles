@@ -1,6 +1,5 @@
 ---
 title: 'Deep State: Inside Donald Trump’s paranoid conspiracy theory'
-date: '2017-03-09T05:35:00-08:00'
 layout: post
 ---
 

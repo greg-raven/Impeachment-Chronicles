@@ -1,6 +1,5 @@
 ---
 title: 'In Harvard study of Jan. 6 rioters, top motivation is clear: Trump'
-date: '2022-07-20T04:25:00-07:00'
 layout: post
 author:
 - Ben Collins

@@ -1,6 +1,5 @@
 ---
 title: 'Project Veritas questions possible media-govt. collusion on Jan. 6'
-date: '2022-03-11T13:48:00-08:00'
 layout: post
 author:
 - OAN

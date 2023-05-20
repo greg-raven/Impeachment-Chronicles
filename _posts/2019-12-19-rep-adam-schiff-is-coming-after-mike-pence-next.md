@@ -1,6 +1,5 @@
 ---
 title: 'Rep. Adam Schiff is coming after Mike Pence next'
-date: '2019-12-19T07:08:00-08:00'
 layout: post
 author:
 - Jason Easley

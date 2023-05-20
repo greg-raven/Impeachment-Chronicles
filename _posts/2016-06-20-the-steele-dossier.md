@@ -1,6 +1,5 @@
 ---
 title: 'The Steele Dossier'
-date: '2016-06-20T13:01:00-07:00'
 layout: post
 ---
 

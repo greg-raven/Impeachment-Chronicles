@@ -1,6 +1,5 @@
 ---
 title: 'FBI agent: Never was evidence of Russia collusion but Mueller team had ‘get Trump’ goal'
-date: '2020-09-25T10:05:00-07:00'
 layout: post
 author:
 - John Solomon

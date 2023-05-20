@@ -1,6 +1,5 @@
 ---
 title: 'Trump appears to be tampering with witnesses'
-date: '2022-09-12T13:56:00-07:00'
 layout: post
 author:
 - Duty To Warn

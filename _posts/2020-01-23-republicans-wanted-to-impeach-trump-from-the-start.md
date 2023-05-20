@@ -1,6 +1,5 @@
 ---
 title: 'Republicans wanted to impeach Trump from the start'
-date: '2020-01-23T13:29:00-08:00'
 layout: post
 ---
 

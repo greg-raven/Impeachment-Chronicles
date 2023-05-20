@@ -1,6 +1,5 @@
 ---
 title: 'Duty to warn'
-date: '2017-01-18T05:36:00-08:00'
 layout: post
 ---
 

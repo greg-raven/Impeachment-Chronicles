@@ -1,6 +1,5 @@
 ---
 title: 'FBI unit leading Mar-a-Lago probe earlier ran discredited Trump-Russia investigation'
-date: '2022-08-18T23:03:00-07:00'
 layout: post
 author:
 - Paul Sperry

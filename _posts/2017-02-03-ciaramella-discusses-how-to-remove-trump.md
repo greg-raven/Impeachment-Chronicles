@@ -1,6 +1,5 @@
 ---
 title: 'Ciaramella discusses how to remove Trump'
-date: '2017-02-03T09:42:00-08:00'
 layout: post
 ---
 

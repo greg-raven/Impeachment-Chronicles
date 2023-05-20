@@ -1,6 +1,5 @@
 ---
 title: 'FBI wrongly told its agents Trump-Russia collusion claims had come from DOJ, bombshell document reveals'
-date: '2022-05-23T05:13:00-07:00'
 layout: post
 author:
 - Ben Feuerherd

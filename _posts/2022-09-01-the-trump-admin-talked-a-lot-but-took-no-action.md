@@ -1,6 +1,5 @@
 ---
 title: 'The Trump admin talked a lot but took no action'
-date: '2022-09-01T09:36:18-07:00'
 layout: post
 author:
 - Miguel Cardona

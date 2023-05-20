@@ -1,6 +1,5 @@
 ---
 title: 'Fellow Republicans, there’s still time to save your souls'
-date: '2019-09-30T15:44:00-07:00'
 layout: post
 ---
 

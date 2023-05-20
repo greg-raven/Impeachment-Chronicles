@@ -1,6 +1,5 @@
 ---
 title: 'Trump and TGP were right: Obamagate started in 2015'
-date: '2020-08-10T10:15:00-07:00'
 layout: post
 ---
 

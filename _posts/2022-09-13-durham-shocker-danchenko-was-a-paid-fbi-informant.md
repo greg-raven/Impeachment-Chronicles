@@ -1,6 +1,5 @@
 ---
 title: 'Durham shocker: Danchenko was a paid FBI informant'
-date: '2022-09-13T13:56:00-07:00'
 layout: post
 author:
 - Techno Fog

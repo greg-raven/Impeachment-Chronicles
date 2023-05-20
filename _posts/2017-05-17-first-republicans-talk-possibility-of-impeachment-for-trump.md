@@ -1,6 +1,5 @@
 ---
 title: 'First Republicans talk possibility of impeachment for Trump'
-date: '2017-05-17T14:07:00-07:00'
 layout: post
 ---
 

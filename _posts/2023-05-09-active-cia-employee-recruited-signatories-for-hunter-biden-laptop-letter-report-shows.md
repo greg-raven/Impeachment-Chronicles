@@ -1,6 +1,5 @@
 ---
 title: 'Active CIA employee recruited signatories for Hunter Biden laptop letter, report shows'
-date: '2023-05-09T06:42:37-07:00'
 layout: post
 author:
 - John Solomon

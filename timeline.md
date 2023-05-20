@@ -1,6 +1,5 @@
 ---
 title: Timeline
-date: '2021-08-06T05:41:43-07:00'
 layout: page
 ---
 

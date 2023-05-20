@@ -1,6 +1,5 @@
 ---
 title: 'Biden White House facilitated DOJ’s criminal probe against Trump, scuttled privilege claims: Memos'
-date: '2022-08-23T23:05:00-07:00'
 layout: post
 author:
 - John Solomon

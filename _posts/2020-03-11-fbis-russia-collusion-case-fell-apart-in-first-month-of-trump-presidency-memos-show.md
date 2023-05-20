@@ -1,6 +1,5 @@
 ---
 title: 'FBI’s Russia collusion case fell apart in first month of Trump presidency, memos show'
-date: '2020-03-11T05:46:00-07:00'
 layout: post
 author:
 - John Solomon

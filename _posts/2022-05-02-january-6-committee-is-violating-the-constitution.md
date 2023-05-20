@@ -1,6 +1,5 @@
 ---
 title: 'January 6 Committee ‘Is violating the Constitution’'
-date: '2022-05-02T14:10:00-07:00'
 layout: post
 ---
 

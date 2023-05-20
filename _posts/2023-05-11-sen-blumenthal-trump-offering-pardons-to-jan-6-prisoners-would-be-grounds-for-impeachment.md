@@ -1,6 +1,5 @@
 ---
 title: 'Sen. Blumenthal: Trump offering pardons to Jan. 6 prisoners would be grounds for impeachment'
-date: '2023-05-11T06:40:39-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'John Lewis on Trump: ‘I don’t see this president-elect as a legitimate president’'
-date: '2017-01-13T15:47:00-08:00'
 layout: post
 ---
 

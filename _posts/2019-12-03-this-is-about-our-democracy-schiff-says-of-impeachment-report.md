@@ -1,6 +1,5 @@
 ---
 title: '‘This is about our democracy,’ Schiff says of impeachment report'
-date: '2019-12-03T06:57:00-08:00'
 layout: post
 ---
 

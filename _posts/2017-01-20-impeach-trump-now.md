@@ -1,6 +1,5 @@
 ---
 title: 'Impeach Trump Now'
-date: '2017-01-20T15:30:00-08:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'I’m running for president'
-date: '2019-02-19T07:59:00-08:00'
 layout: post
 ---
 

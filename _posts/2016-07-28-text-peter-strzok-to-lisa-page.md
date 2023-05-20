@@ -1,6 +1,5 @@
 ---
 title: 'Text: Peter Strzok to Lisa Page'
-date: '2016-07-28T09:59:00-07:00'
 layout: post
 author:
 - Peter Strzok

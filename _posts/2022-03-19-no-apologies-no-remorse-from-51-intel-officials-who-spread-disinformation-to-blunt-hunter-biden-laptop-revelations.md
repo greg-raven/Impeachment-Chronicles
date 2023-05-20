@@ -1,6 +1,5 @@
 ---
 title: 'No apologies, no remorse from 51 intel officials who spread disinformation to blunt Hunter Biden laptop revelations'
-date: '2022-03-19T13:41:00-07:00'
 layout: post
 author:
 - Fuzzy Slippers

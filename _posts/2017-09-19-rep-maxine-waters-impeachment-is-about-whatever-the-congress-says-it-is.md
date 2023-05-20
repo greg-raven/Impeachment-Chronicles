@@ -1,6 +1,5 @@
 ---
 title: 'Rep. Maxine Waters: ‘Impeachment is about whatever the Congress says it is’'
-date: '2017-09-19T10:27:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Ninth Circuit affirms Trump victory in legal feud with Stormy Daniels'
-date: '2022-03-21T13:35:00-07:00'
 layout: post
 ---
 

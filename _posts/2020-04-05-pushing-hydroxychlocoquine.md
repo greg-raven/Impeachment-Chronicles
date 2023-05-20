@@ -1,6 +1,5 @@
 ---
 title: 'Pushing hydroxychlocoquine'
-date: '2020-04-05T05:55:00-07:00'
 layout: post
 ---
 

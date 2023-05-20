@@ -1,6 +1,5 @@
 ---
 title: 'Killing democracy'
-date: '2019-04-17T13:42:00-07:00'
 layout: post
 author:
 - Rob Reiner

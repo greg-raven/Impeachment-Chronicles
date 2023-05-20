@@ -1,6 +1,5 @@
 ---
 title: 'Adam Schiff, Cyberbully'
-date: '2023-04-30T08:01:47-07:00'
 layout: post
 author:
 - Paul Sperry

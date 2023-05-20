@@ -1,6 +1,5 @@
 ---
 title: 'Trump says every American can get a coronavirus vaccine by April, but health experts say that’s not likely'
-date: '2020-09-18T09:45:00-07:00'
 layout: post
 ---
 

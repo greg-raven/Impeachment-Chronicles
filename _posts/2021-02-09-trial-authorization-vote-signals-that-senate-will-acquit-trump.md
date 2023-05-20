@@ -1,6 +1,5 @@
 ---
 title: 'Trial authorization vote signals that Senate will acquit Trump'
-date: '2021-02-09T07:17:00-08:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Crossfire Hurricane'
-date: '2016-07-31T10:03:00-07:00'
 layout: post
 ---
 

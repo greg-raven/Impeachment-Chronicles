@@ -1,6 +1,5 @@
 ---
 title: 'Democrats talk of an ‘impeachment clock’ for Trump'
-date: '2017-05-10T10:20:00-07:00'
 layout: post
 ---
 

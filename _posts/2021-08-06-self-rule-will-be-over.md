@@ -1,6 +1,5 @@
 ---
 title: 'Self rule will be over'
-date: '2021-08-06T09:36:00-07:00'
 layout: post
 author:
 - Rob Reiner

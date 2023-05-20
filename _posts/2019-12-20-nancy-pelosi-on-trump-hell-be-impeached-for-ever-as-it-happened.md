@@ -1,6 +1,5 @@
 ---
 title: 'Nancy Pelosi on Trump: ‘He’ll be impeached for ever’ — as it happened'
-date: '2019-12-20T07:09:00-08:00'
 layout: post
 ---
 

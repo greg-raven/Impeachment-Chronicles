@@ -1,6 +1,5 @@
 ---
 title: 'Sussmann billed the purchase of flash drives to Clinton campaign days before giving them to FBI'
-date: '2022-05-25T10:30:00-07:00'
 layout: post
 author:
 - Natalia Mittelstadt

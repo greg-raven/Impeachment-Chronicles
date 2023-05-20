@@ -1,6 +1,5 @@
 ---
 title: 'Trump’s latest travel ban is an attack on Africans'
-date: '2020-02-05T06:47:00-08:00'
 layout: post
 ---
 

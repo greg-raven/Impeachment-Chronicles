@@ -1,6 +1,5 @@
 ---
 title: 'Kamala Harris on MSNBC'
-date: '2020-01-16T15:11:00-08:00'
 layout: post
 ---
 

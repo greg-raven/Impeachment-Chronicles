@@ -1,6 +1,5 @@
 ---
 title: '‘I want to say this about Donald Trump …’'
-date: '2017-01-15T15:48:00-08:00'
 layout: post
 ---
 

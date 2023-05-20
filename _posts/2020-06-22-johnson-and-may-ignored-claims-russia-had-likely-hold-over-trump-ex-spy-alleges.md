@@ -1,6 +1,5 @@
 ---
 title: 'Johnson and May ignored claims Russia had ‘likely hold’ over Trump, ex-spy alleges'
-date: '2020-06-22T09:49:00-07:00'
 layout: post
 ---
 

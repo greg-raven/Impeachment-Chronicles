@@ -1,6 +1,5 @@
 ---
 title: 'Review of four FISA applications and other aspects of the FBI’s Crossfire Hurricane Investigation'
-date: '2019-12-09T13:57:00-08:00'
 layout: post
 ---
 

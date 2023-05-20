@@ -1,6 +1,5 @@
 ---
 title: 'Donald Trump is a Nazi. Full stop.'
-date: '2020-06-02T06:42:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Original sin'
-date: '2020-08-23T13:44:00-07:00'
 layout: post
 author:
 - Rob Reiner

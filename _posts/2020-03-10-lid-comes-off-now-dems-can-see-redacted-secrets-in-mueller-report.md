@@ -1,6 +1,5 @@
 ---
 title: 'Lid comes off! Now Dems can see redacted secrets in Mueller report'
-date: '2020-03-10T05:45:00-07:00'
 layout: post
 ---
 

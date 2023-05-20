@@ -1,6 +1,5 @@
 ---
 title: 'Donald Trump is a Nazi sympathizer'
-date: '2017-08-20T06:38:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Trump conduct, conversations part of Justice Dept. investigation'
-date: '2022-07-26T06:37:00-07:00'
 layout: post
 author:
 - Carol D. Leonnig

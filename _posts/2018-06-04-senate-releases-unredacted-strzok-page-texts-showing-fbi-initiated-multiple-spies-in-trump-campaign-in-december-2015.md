@@ -1,6 +1,5 @@
 ---
 title: 'Senate releases unredacted Strzok-Page texts showing FBI initiated MULTIPLE SPIES in Trump campaign in December 2015'
-date: '2018-06-04T10:06:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Trump gave order to ‘make sure’ Jan. 6 rally was ‘safe event,’ Pentagon memo shows'
-date: '2022-07-22T14:08:39-07:00'
 layout: post
 author:
 - John Solomon

@@ -1,6 +1,5 @@
 ---
 title: 'Fact Check: Joe Biden Repeats the Charlottesville ‘Very Fine People Hoax’; Lester Holt Does Not Correct'
-date: '2020-10-05T06:46:00-07:00'
 layout: post
 ---
 

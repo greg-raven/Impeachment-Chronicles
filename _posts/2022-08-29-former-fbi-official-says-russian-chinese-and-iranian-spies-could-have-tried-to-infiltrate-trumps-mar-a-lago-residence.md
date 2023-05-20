@@ -1,6 +1,5 @@
 ---
 title: 'Former FBI official says Russian, Chinese, and Iranian spies could have tried to infiltrate Trump’s Mar-a-Lago residence'
-date: '2022-08-29T10:21:00-07:00'
 layout: post
 author:
 - Cheryl Teh

@@ -1,6 +1,5 @@
 ---
 title: It’s time to arrest this Lying Piece of Garbage
-date: '2022-12-30'
 layout: post
 author:
 - Rob Reiner

@@ -1,6 +1,5 @@
 ---
 title: 'Democrat’s ‘stolen election’ claims'
-date: '2022-09-29T13:38:06-07:00'
 layout: post
 author:
 - Peter Doocy

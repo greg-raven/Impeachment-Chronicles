@@ -1,6 +1,5 @@
 ---
 title: 'New Russia probe memos expose massive errors in NYT anti-Trump story, Steele dossier'
-date: '2020-07-17T09:42:00-07:00'
 layout: post
 ---
 

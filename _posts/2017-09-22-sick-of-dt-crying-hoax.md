@@ -1,6 +1,5 @@
 ---
 title: 'Sick of DT crying hoax'
-date: '2017-09-22T13:46:00-07:00'
 layout: post
 author:
 - Rob Reiner

@@ -1,6 +1,5 @@
 ---
 title: '‘Strong evidence’ of ‘clear’ Russian collusion'
-date: '2018-03-16'
 layout: post
 author:
 - Eric Swalwell

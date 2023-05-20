@@ -1,6 +1,5 @@
 ---
 title: 'In case I wasn’t clear enough'
-date: '2016-11-08T13:39:00-08:00'
 layout: post
 ---
 

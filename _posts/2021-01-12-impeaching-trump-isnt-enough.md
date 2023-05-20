@@ -1,6 +1,5 @@
 ---
 title: 'Impeaching Trump isn’t enough'
-date: '2021-01-12T07:29:00-08:00'
 layout: post
 ---
 

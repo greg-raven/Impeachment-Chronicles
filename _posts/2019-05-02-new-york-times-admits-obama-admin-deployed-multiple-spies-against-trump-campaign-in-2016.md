@@ -1,6 +1,5 @@
 ---
 title: 'New York Times admits Obama Admin deployed multiple spies against Trump campaign in 2016'
-date: '2019-05-02T15:35:00-07:00'
 layout: post
 author:
 - Mollie Hemingway

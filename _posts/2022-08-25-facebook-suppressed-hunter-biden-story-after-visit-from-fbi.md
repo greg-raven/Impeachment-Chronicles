@@ -1,6 +1,5 @@
 ---
 title: 'Facebook suppressed Hunter Biden story after visit from FBI'
-date: '2022-08-25T13:58:00-07:00'
 layout: post
 author:
 - Todd Starnes

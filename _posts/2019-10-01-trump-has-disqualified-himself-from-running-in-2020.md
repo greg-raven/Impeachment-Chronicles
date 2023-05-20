@@ -1,6 +1,5 @@
 ---
 title: 'Trump has disqualified himself from running in 2020'
-date: '2019-10-01T06:45:00-07:00'
 layout: post
 ---
 

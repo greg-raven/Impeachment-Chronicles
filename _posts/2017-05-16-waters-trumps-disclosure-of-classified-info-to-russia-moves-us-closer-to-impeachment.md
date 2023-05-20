@@ -1,6 +1,5 @@
 ---
 title: 'Waters — Trump’s disclosure of classified info to Russia moves us closer to ‘impeachment’'
-date: '2017-05-16T05:26:00-07:00'
 layout: post
 ---
 

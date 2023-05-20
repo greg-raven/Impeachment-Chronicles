@@ -1,6 +1,5 @@
 ---
 title: 'Donald Trump impeachment effort already underway'
-date: '2017-01-20T07:07:00-08:00'
 layout: post
 ---
 

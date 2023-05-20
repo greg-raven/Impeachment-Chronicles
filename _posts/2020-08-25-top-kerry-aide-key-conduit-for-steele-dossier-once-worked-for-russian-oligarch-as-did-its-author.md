@@ -1,6 +1,5 @@
 ---
 title: 'Top Kerry Aide, key conduit for Steele Dossier, once worked for Russian oligarch, as did its author'
-date: '2020-08-25T06:42:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'DNI declassifies Brennan notes, CIA memo on Hillary Clinton ‘stirring up’ scandal between Trump, Russia'
-date: '2020-10-06T06:51:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Putin must be asking: Where’s Trump when I need him?'
-date: '2022-02-21T08:52:00-08:00'
 layout: post
 ---
 

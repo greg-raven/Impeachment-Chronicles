@@ -1,6 +1,5 @@
 ---
 title: 'Declassified! The Russia informant transcript the FBI didn’t want Americans to see'
-date: '2021-01-26T12:30:00-08:00'
 layout: post
 author:
 - John Solomon

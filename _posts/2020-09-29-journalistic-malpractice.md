@@ -1,6 +1,5 @@
 ---
 title: 'Journalistic malpractice'
-date: '2020-09-29T06:43:00-07:00'
 layout: post
 ---
 

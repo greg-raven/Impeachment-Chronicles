@@ -1,6 +1,5 @@
 ---
 title: '176 members of the House now co-sponsoring the article of impeachment'
-date: '2021-01-09T10:17:00-08:00'
 layout: post
 author:
 - David Cicilline

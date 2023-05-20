@@ -1,6 +1,5 @@
 ---
 title: 'Donald Trump’s armed mob'
-date: '2022-07-24T08:22:00-07:00'
 layout: post
 author:
 - Chad Program

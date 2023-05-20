@@ -1,6 +1,5 @@
 ---
 title: 'Sen. Leahy to preside over Trump’s impeachment trial'
-date: '2021-01-25T12:27:00-08:00'
 layout: post
 ---
 

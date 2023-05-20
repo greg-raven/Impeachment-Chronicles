@@ -1,6 +1,5 @@
 ---
 title: 'Trump was right. Again.'
-date: '2022-11-21T06:40:11-08:00'
 layout: post
 author:
 - Clay Travis

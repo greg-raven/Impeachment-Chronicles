@@ -1,6 +1,5 @@
 ---
 title: 'Trump is an illegitimate president whose election is tainted by fraud'
-date: '2018-08-22T05:16:00-07:00'
 layout: post
 ---
 

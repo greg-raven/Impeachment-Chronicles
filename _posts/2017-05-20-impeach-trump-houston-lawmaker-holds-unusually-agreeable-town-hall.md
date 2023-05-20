@@ -1,6 +1,5 @@
 ---
 title: 'Impeach Trump? Houston lawmaker holds unusually agreeable town hall'
-date: '2017-05-20T10:25:00-07:00'
 layout: post
 ---
 

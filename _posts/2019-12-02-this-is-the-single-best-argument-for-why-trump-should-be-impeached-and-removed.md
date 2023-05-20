@@ -1,6 +1,5 @@
 ---
 title: 'This is the single best argument for why Trump should be impeached and removed'
-date: '2019-12-02T06:54:00-08:00'
 layout: post
 ---
 

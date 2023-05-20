@@ -1,6 +1,5 @@
 ---
 title: 'Schumer warns Trump: Intel officials ‘have six ways from Sunday at getting back at you’'
-date: '2017-01-03T07:27:00-08:00'
 layout: post
 ---
 

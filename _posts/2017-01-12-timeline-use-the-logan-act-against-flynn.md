@@ -1,6 +1,5 @@
 ---
 title: 'Timeline: Use the Logan Act against Flynn'
-date: '2017-01-12T15:34:00-08:00'
 layout: post
 author:
 - Mollie Hemingway

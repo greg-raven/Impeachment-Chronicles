@@ -1,6 +1,5 @@
 ---
 title: 'We have formed a 25th Amendment Political Action Committee'
-date: '2017-10-14T13:53:00-07:00'
 layout: post
 author:
 - Alex Plaxen

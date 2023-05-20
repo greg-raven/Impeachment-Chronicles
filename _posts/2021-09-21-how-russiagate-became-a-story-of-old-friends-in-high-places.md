@@ -1,6 +1,5 @@
 ---
 title: 'How Russiagate became a story of old friends in high places'
-date: '2021-09-21T09:36:00-07:00'
 layout: post
 ---
 

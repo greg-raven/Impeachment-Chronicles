@@ -1,6 +1,5 @@
 ---
 title: 'Kamala Harris says she won’t take Trump’s word on vaccine efficacy'
-date: '2020-09-06T06:43:00-07:00'
 layout: post
 ---
 

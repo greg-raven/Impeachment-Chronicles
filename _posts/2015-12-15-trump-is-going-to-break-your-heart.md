@@ -1,6 +1,5 @@
 ---
 title: 'Trump is going to break your heart'
-date: '2015-12-15T06:38:00-08:00'
 layout: post
 author:
 - Kurt Schlichter

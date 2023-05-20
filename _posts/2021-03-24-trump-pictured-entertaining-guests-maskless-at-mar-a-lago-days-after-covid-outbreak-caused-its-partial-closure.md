@@ -1,6 +1,5 @@
 ---
 title: 'Trump pictured entertaining guests maskless at Mar-a-Lago days after COVID outbreak caused its partial closure'
-date: '2021-03-24T13:32:00-07:00'
 layout: post
 ---
 

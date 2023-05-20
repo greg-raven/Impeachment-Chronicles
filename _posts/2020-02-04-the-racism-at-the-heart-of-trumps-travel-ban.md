@@ -1,6 +1,5 @@
 ---
 title: 'The racism at the heart of Trump’s ‘travel ban’'
-date: '2020-02-04T08:26:00-08:00'
 layout: post
 ---
 

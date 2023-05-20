@@ -1,6 +1,5 @@
 ---
 title: 'Kremlin papers appear to show Putin’s plot to put Trump in White House'
-date: '2021-07-15T07:19:00-07:00'
 layout: post
 ---
 

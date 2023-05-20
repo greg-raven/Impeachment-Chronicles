@@ -1,6 +1,5 @@
 ---
 title: 'Allow me to share some frank thoughts about the ‘president’'
-date: '2020-05-05T15:44:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: '99 things Democrats have said Trump could be impeached for'
-date: '2019-12-18T07:04:00-08:00'
 layout: post
 ---
 

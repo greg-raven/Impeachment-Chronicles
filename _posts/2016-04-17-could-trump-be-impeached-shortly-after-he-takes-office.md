@@ -1,6 +1,5 @@
 ---
 title: 'Could Trump be impeached shortly after he takes office?'
-date: '2016-04-17T16:29:00-07:00'
 layout: post
 author:
 - Darren Samuelsohn

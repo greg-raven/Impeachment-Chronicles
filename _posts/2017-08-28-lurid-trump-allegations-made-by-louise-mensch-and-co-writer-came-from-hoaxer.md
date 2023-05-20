@@ -1,6 +1,5 @@
 ---
 title: 'Lurid Trump allegations made by Louise Mensch and co-writer came from hoaxer'
-date: '2017-08-28T05:36:00-07:00'
 layout: post
 ---
 

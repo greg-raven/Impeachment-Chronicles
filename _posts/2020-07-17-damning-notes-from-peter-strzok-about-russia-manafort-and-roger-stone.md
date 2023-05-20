@@ -1,6 +1,5 @@
 ---
 title: 'Damning notes from Peter Strzok about Russia, Manafort, and Roger Stone'
-date: '2020-07-17T09:40:00-07:00'
 layout: post
 author:
 - Techno Fog

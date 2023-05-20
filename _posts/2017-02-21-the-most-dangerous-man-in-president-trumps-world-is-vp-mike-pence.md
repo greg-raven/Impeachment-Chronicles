@@ -1,6 +1,5 @@
 ---
 title: 'The most dangerous man in President Trump’s world is VP Mike Pence'
-date: '2017-02-21T10:04:00-08:00'
 layout: post
 author:
 - Lawrence O’Donnell

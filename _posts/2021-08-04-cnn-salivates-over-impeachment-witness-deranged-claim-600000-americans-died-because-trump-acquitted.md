@@ -1,6 +1,5 @@
 ---
 title: 'CNN salivates over impeachment witness’ deranged claim 600,000 Americans died because Trump acquitted'
-date: '2021-08-04T15:37:00-07:00'
 layout: post
 ---
 

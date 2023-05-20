@@ -1,6 +1,5 @@
 ---
 title: 'Lewis: DT illegitimate'
-date: '2017-01-16T13:42:00-08:00'
 layout: post
 author:
 - Rob Reiner

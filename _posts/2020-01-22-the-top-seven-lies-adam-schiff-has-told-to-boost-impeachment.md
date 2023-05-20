@@ -1,6 +1,5 @@
 ---
 title: 'The top seven lies Adam Schiff has told to boost impeachment'
-date: '2020-01-22T07:25:00-08:00'
 layout: post
 author:
 - Matt Margolis

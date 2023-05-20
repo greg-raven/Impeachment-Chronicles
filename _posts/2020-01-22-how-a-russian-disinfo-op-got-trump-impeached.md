@@ -1,6 +1,5 @@
 ---
 title: 'How a Russian disinfo op got Trump impeached'
-date: '2020-01-22T04:49:00-08:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'CNN’s Wolf Blitzer: ‘Are we getting closer’ to impeachment of Donald Trump?'
-date: '2017-05-16T14:02:00-07:00'
 layout: post
 ---
 

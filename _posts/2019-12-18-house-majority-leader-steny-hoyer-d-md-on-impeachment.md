@@ -1,6 +1,5 @@
 ---
 title: 'House Majority Leader Steny Hoyer (D-MD) on Impeachment'
-date: '2019-12-18T07:06:00-08:00'
 layout: post
 author:
 - Steny Hoyer

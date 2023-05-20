@@ -1,6 +1,5 @@
 ---
 title: 'Who has been impeached before?'
-date: '2017-05-16T14:04:00-07:00'
 layout: post
 ---
 

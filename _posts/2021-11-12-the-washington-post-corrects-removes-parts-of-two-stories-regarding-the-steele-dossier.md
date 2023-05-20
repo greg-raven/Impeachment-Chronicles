@@ -1,6 +1,5 @@
 ---
 title: 'The Washington Post corrects, removes parts of two stories regarding the Steele dossier'
-date: '2021-11-12T13:26:00-08:00'
 layout: post
 ---
 

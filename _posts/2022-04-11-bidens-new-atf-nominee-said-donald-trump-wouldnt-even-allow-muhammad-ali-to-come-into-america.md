@@ -1,6 +1,5 @@
 ---
 title: 'Biden’s new ATF nominee said Donald Trump wouldn’t even allow Muhammad Ali ‘to come into America’'
-date: '2022-04-11T10:35:00-07:00'
 layout: post
 author:
 - Twitchy

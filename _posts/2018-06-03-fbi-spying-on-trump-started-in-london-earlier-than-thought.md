@@ -1,6 +1,5 @@
 ---
 title: 'FBI spying on Trump started in London, earlier than thought'
-date: '2018-06-03T10:18:00-07:00'
 layout: post
 ---
 

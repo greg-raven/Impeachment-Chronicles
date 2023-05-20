@@ -1,6 +1,5 @@
 ---
 title: 'The 25th Amendment loophole Democrats could use against Trump'
-date: '2019-09-18T15:42:00-07:00'
 layout: post
 ---
 

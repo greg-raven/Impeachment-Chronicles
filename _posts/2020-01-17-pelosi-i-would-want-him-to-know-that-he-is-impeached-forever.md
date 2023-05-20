@@ -1,6 +1,5 @@
 ---
 title: 'Pelosi: ‘I would want him to know that he is impeached forever.’'
-date: '2020-01-17T04:40:00-08:00'
 layout: post
 ---
 

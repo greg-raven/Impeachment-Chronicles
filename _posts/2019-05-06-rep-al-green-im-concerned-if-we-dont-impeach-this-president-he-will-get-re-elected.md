@@ -1,6 +1,5 @@
 ---
 title: 'Rep. Al Green: ‘I’m concerned if we don’t impeach this president, he will get re-elected’'
-date: '2019-05-06T15:37:00-07:00'
 layout: post
 ---
 

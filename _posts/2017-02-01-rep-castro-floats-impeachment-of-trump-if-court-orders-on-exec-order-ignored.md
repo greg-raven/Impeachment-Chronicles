@@ -1,6 +1,5 @@
 ---
 title: 'Rep. Castro floats impeachment of Trump if court orders on exec order ignored'
-date: '2017-02-01T07:49:00-08:00'
 layout: post
 ---
 

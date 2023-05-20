@@ -1,6 +1,5 @@
 ---
 title: 'Text messages show Cassidy Hutchinson referring to January 6 Committee as ‘BS’'
-date: '2022-07-03T09:50:00-07:00'
 layout: post
 ---
 

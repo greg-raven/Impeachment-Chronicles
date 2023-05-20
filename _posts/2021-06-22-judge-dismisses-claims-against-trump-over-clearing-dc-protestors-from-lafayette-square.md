@@ -1,6 +1,5 @@
 ---
 title: 'Judge dismisses claims against Trump over clearing DC protestors from Lafayette Square'
-date: '2021-06-22T07:14:00-07:00'
 layout: post
 ---
 

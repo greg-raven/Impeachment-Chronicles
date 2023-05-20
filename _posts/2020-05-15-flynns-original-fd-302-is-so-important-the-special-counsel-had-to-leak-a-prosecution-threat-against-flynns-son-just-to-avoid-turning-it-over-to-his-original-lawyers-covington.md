@@ -1,6 +1,5 @@
 ---
 title: 'Flynn’s original FD-302 is so important, the Special Counsel had to leak a prosecution threat against Flynn’s son just to avoid turning it over to his original lawyers Covington'
-date: '2020-05-15T06:51:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Why billionaire Tom Steyer wants Donald Trump impeached'
-date: '2017-10-27T13:59:00-07:00'
 layout: post
 author:
 - Katy Steinmetz

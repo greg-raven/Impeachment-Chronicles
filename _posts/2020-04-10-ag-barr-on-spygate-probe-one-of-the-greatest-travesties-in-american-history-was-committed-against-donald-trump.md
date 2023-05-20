@@ -1,6 +1,5 @@
 ---
 title: 'AG Barr on Spygate probe: ‘One of the greatest travesties in American history’ was committed against Donald Trump'
-date: '2020-04-10T05:47:00-07:00'
 layout: post
 ---
 

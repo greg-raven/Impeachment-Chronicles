@@ -1,6 +1,5 @@
 ---
 title: 'FBI warned Facebook about a ‘dump’ of ‘Russian disinfo’ just before the Hunter Biden laptop story broke, Zuckerberg says'
-date: '2022-08-26T23:06:00-07:00'
 layout: post
 author:
 - Cindy Harper

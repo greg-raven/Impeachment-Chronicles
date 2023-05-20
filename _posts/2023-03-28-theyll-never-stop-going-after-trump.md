@@ -1,6 +1,5 @@
 ---
 title: 'They’ll never stop going after Trump'
-date: '2023-03-28T09:02:06-07:00'
 layout: post
 author:
 - Jim Jordan

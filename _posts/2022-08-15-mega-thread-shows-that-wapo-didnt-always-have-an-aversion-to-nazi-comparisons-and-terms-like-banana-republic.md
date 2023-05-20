@@ -1,6 +1,5 @@
 ---
 title: 'Mega-thread shows that WaPo didn’t always have an aversion to Nazi comparisons and terms like ‘banana republic’'
-date: '2022-08-15T23:02:00-07:00'
 layout: post
 author:
 - Doug P.

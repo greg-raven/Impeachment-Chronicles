@@ -1,6 +1,5 @@
 ---
 title: 'We’ll stop Trump from becoming president'
-date: '2016-08-08T14:02:00-07:00'
 layout: post
 author:
 - Lisa Page

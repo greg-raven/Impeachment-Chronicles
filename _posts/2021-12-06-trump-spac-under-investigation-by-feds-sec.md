@@ -1,6 +1,5 @@
 ---
 title: 'Trump SPAC under investigation by feds, SEC'
-date: '2021-12-06T13:48:00-08:00'
 layout: post
 ---
 

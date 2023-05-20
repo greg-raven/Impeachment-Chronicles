@@ -1,6 +1,5 @@
 ---
 title: 'Join Tom Steyer to impeach Donald Trump'
-date: '2017-10-19T13:58:00-07:00'
 layout: post
 author:
 - Tom Steyer

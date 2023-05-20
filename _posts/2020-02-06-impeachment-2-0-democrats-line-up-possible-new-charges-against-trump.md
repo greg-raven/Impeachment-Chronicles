@@ -1,6 +1,5 @@
 ---
 title: 'Impeachment 2.0? Democrats line up possible new charges against Trump'
-date: '2020-02-06T05:03:00-08:00'
 layout: post
 ---
 

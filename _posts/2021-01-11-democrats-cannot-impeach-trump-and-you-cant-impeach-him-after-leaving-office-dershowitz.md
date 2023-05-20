@@ -1,6 +1,5 @@
 ---
 title: 'Democrats cannot impeach Trump, and you can’t impeach him after leaving office: Dershowitz'
-date: '2021-01-11T12:19:00-08:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'The GOP needs to impeach Trump'
-date: '2016-10-01T13:19:00-07:00'
 layout: post
 ---
 

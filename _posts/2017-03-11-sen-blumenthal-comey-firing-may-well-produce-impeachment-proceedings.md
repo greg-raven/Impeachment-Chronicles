@@ -1,6 +1,5 @@
 ---
 title: 'Sen. Blumenthal: Comey firing ‘may well produce impeachment proceedings’'
-date: '2017-03-11T06:55:00-08:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Devin Nunes: Opening Statement for Kent and Taylor Hearing on Impeachment'
-date: '2019-11-13T12:44:16-08:00'
 layout: post
 ---
 

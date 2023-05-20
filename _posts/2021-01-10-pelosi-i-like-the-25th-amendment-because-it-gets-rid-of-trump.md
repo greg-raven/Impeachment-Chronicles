@@ -1,6 +1,5 @@
 ---
 title: 'Pelosi: ‘I like the 25th Amendment’ because it ‘gets rid’ of Trump'
-date: '2021-01-10T12:16:00-08:00'
 layout: post
 ---
 

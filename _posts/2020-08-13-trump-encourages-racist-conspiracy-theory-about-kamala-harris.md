@@ -1,6 +1,5 @@
 ---
 title: 'Trump encourages racist conspiracy theory about Kamala Harris'
-date: '2020-08-13T10:18:00-07:00'
 layout: post
 ---
 

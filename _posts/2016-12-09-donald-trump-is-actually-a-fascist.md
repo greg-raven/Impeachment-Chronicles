@@ -1,6 +1,5 @@
 ---
 title: 'Donald Trump is actually a fascist'
-date: '2016-12-09T06:45:00-08:00'
 layout: post
 ---
 

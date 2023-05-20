@@ -1,6 +1,5 @@
 ---
 title: 'Protesters hold ‘Not My President’s Day’ rally in Central Park, call election ‘illegitimate’'
-date: '2017-02-20T10:03:00-08:00'
 layout: post
 ---
 

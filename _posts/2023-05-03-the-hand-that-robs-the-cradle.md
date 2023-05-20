@@ -1,6 +1,5 @@
 ---
 title: 'The hand that robs the cradle'
-date: '2023-05-03T05:22:03-07:00'
 layout: post
 author:
 - Greg Price

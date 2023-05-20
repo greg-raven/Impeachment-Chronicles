@@ -1,6 +1,5 @@
 ---
 title: 'Get the fuck out of our society'
-date: '2017-08-13'
 layout: post
 author:
 - Keith Olbermann

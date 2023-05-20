@@ -1,6 +1,5 @@
 ---
 title: 'Exactly like Nazi propaganda'
-date: '2016-11-19T09:39:00-08:00'
 layout: post
 ---
 

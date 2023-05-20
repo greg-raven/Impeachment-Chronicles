@@ -1,6 +1,5 @@
 ---
 title: 'A fresh reminder of Russiagate’s failed guardian(s) of integrity'
-date: '2021-07-29T07:20:00-07:00'
 layout: post
 author:
 - Aaron Maté

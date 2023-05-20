@@ -1,6 +1,5 @@
 ---
 title: 'Mollie Hemingway on some of the many Trump hoaxes the media ‘created’'
-date: '2021-03-15T08:02:00-07:00'
 layout: post
 author:
 - Mollie Hemingway

@@ -1,6 +1,5 @@
 ---
 title: 'Pelosi: Trump’s impeachment ‘cannot be erased’'
-date: '2020-01-15T12:25:00-08:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Donald Trump’s new favorite slogan was invented for Nazi sympathizers'
-date: '2016-06-14T08:22:00-07:00'
 layout: post
 author:
 - Eric Rauchway

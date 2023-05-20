@@ -1,6 +1,5 @@
 ---
 title: 'James Comey disputes New York Times article about Russia investigation'
-date: '2017-06-08T07:51:00-07:00'
 layout: post
 ---
 

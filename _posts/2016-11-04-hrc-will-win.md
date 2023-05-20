@@ -1,6 +1,5 @@
 ---
 title: 'HRC will win'
-date: '2016-11-04T13:38:00-07:00'
 layout: post
 author:
 - Rob Reiner

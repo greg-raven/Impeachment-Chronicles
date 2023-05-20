@@ -1,6 +1,5 @@
 ---
 title: 'Trump impeachment? Texas Democrat forces vote against party’s wishes'
-date: '2017-12-06T06:47:00-08:00'
 layout: post
 ---
 

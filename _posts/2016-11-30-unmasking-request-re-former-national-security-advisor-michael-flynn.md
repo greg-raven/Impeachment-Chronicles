@@ -1,6 +1,5 @@
 ---
 title: 'Unmasking request re former National Security Advisor [Michael Flynn]'
-date: '2016-11-30T13:22:00-08:00'
 layout: post
 ---
 

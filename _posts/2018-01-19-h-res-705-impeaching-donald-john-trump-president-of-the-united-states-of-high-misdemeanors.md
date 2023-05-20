@@ -1,6 +1,5 @@
 ---
 title: 'H.Res.705 — Impeaching Donald John Trump, President of the United States, of high misdemeanors'
-date: '2018-01-19T07:56:00-08:00'
 layout: post
 ---
 

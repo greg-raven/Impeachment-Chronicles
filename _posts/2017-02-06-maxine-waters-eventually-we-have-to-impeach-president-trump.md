@@ -1,6 +1,5 @@
 ---
 title: 'Maxine Waters: ‘Eventually’ we have to impeach President Trump'
-date: '2017-02-06T09:47:00-08:00'
 layout: post
 ---
 

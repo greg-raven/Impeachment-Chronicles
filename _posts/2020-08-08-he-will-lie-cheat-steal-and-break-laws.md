@@ -1,6 +1,5 @@
 ---
 title: 'He will lie, cheat, steal, and break laws'
-date: '2020-08-08T09:30:00-07:00'
 layout: post
 author:
 - Rob Reiner

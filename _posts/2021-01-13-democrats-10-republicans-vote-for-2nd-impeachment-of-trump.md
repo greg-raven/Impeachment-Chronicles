@@ -1,6 +1,5 @@
 ---
 title: 'Democrats, 10 Republicans vote for 2nd impeachment of Trump'
-date: '2021-01-13T12:25:00-08:00'
 layout: post
 ---
 

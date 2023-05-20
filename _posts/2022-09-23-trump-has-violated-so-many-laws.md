@@ -1,6 +1,5 @@
 ---
 title: 'Trump has violated so many laws'
-date: '2022-09-23T09:23:00-07:00'
 layout: post
 author:
 - Rob Reiner

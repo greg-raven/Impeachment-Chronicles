@@ -1,6 +1,5 @@
 ---
 title: 'Top House Democrat: Resolution will be introduced to charge Trump with ‘inciting sedition’'
-date: '2021-01-10T12:18:00-08:00'
 layout: post
 ---
 

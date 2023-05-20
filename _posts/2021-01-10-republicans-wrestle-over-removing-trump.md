@@ -1,6 +1,5 @@
 ---
 title: 'Republicans wrestle over removing Trump'
-date: '2021-01-10T12:17:00-08:00'
 layout: post
 ---
 

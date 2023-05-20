@@ -1,6 +1,5 @@
 ---
 title: '‘It’s time to stop comparing Trump to Hitler’'
-date: '2021-07-21T09:34:00-07:00'
 layout: post
 ---
 

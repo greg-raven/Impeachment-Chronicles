@@ -1,6 +1,5 @@
 ---
 title: 'Avoiding questions about Trump’s mental health is a betrayal of public trust'
-date: '2017-02-22T10:06:00-08:00'
 layout: post
 ---
 

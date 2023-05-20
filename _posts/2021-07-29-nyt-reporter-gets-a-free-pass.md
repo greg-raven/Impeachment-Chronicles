@@ -1,6 +1,5 @@
 ---
 title: 'NYT journalist gets a free pass'
-date: '2021-07-29'
 layout: post
 author:
 - Djcalligraphy

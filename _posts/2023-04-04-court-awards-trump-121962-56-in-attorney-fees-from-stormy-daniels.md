@@ -1,6 +1,5 @@
 ---
 title: 'Court awards Trump $121,962.56 in attorney fees from Stormy Daniels'
-date: '2023-04-04T13:30:52-07:00'
 layout: post
 author:
 - Martin Walsh

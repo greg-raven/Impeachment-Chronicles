@@ -1,6 +1,5 @@
 ---
 title: 'Pelosi: Democrats will move to impeach Trump'
-date: '2021-01-10T12:16:00-08:00'
 layout: post
 ---
 

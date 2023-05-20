@@ -1,6 +1,5 @@
 ---
 title: 'Biden agrees with woman who says Trump is ‘an illegitimate president’'
-date: '2019-05-14T15:39:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'If Flynn was a Russian asset'
-date: '2017-05-06T13:39:00-07:00'
 layout: post
 author:
 - Rob Reiner

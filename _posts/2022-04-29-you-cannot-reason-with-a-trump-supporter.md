@@ -1,6 +1,5 @@
 ---
 title: 'You cannot reason with a Trump supporter'
-date: '2022-04-29T09:31:00-07:00'
 layout: post
 author:
 - Rob Reiner

@@ -1,6 +1,5 @@
 ---
 title: 'Kill as many Americans as possible'
-date: '2020-10-27T09:33:00-07:00'
 layout: post
 author:
 - Rob Reiner

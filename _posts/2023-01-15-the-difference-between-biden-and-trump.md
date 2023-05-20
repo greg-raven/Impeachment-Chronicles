@@ -1,6 +1,5 @@
 ---
 title: 'The difference between Biden and Trump'
-date: '2023-01-15'
 layout: post
 author:
 - Rob Reiner

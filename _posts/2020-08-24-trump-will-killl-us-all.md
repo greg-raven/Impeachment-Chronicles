@@ -1,6 +1,5 @@
 ---
 title: '‘Trump will killl us all!!’'
-date: '2020-08-24T06:42:00-07:00'
 layout: post
 author:
 - Amy Siskin

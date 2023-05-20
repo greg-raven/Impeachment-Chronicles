@@ -1,6 +1,5 @@
 ---
 title: 'Donald Trump’s war crimes'
-date: '2017-04-05T10:13:00-07:00'
 layout: post
 ---
 

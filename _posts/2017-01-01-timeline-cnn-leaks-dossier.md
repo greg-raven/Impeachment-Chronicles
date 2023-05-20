@@ -1,6 +1,5 @@
 ---
 title: 'Timeline: CNN leaks dossier'
-date: '2017-01-01T15:01:00-08:00'
 layout: post
 author:
 - Mollie Hemingway

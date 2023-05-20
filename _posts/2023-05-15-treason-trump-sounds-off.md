@@ -1,6 +1,5 @@
 ---
 title: '‘Treason’: Trump sounds off after Durham Report reveals FBI malfeasance'
-date: '2023-05-15T06:42:37-07:05'
 layout: post
 author:
 - Paul Bois

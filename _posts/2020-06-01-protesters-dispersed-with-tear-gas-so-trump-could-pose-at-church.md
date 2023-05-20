@@ -1,6 +1,5 @@
 ---
 title: 'Protesters dispersed with tear gas so Trump could pose at church'
-date: '2020-06-01T06:21:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Trump calls suppression of Hunter Biden laptop story ‘election interference’'
-date: '2022-08-29T10:12:00-07:00'
 layout: post
 author:
 - Joshua Young

@@ -1,6 +1,5 @@
 ---
 title: '‘One small thing to be thankful for is that DJT is not in the White House as the Ukraine crisis unfolds. He’d side with Russia.’'
-date: '2022-02-21T08:50:00-08:00'
 layout: post
 author:
 - Francis Fukuyama

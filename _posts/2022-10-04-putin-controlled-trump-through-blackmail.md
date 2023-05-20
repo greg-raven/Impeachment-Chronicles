@@ -1,6 +1,5 @@
 ---
 title: 'Putin controlled Trump through blackmail'
-date: '2022-10-04T10:13:00-07:00'
 layout: post
 author:
 - Glenn Greenwald

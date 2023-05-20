@@ -1,6 +1,5 @@
 ---
 title: '‘The Typhoid Mary of Disinformation’: Nicolle Wallace. Nobody Spreads it More Relentlessly.'
-date: '2022-05-19T14:24:00-07:00'
 layout: post
 author:
 - Glenn Greenwald

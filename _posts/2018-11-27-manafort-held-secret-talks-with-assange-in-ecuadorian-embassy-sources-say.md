@@ -1,6 +1,5 @@
 ---
 title: 'Manafort held secret talks with Assange in Ecuadorian embassy, sources say'
-date: '2018-11-27T14:26:00-08:00'
 layout: post
 ---
 

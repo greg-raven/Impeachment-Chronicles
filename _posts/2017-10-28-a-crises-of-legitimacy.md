@@ -1,6 +1,5 @@
 ---
 title: 'A crises of legitimacy'
-date: '2017-10-28T14:01:00-07:00'
 layout: post
 ---
 

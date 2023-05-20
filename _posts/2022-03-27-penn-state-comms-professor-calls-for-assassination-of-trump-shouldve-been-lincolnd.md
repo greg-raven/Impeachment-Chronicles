@@ -1,6 +1,5 @@
 ---
 title: 'Penn State comms professor calls for assassination of Trump: ‘Should’ve been Lincoln’d’'
-date: '2022-03-27T13:44:00-07:00'
 layout: post
 author:
 - Hannah Nightingale

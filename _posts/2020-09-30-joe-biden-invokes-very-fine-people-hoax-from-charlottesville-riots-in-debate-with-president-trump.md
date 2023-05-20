@@ -1,6 +1,5 @@
 ---
 title: 'Joe Biden invokes ‘very fine people’ hoax from Charlottesville riots in debate with President Trump'
-date: '2020-09-30T06:40:00-07:00'
 layout: post
 ---
 

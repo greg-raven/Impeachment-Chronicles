@@ -1,6 +1,5 @@
 ---
 title: 'After impeachment farce ends, next comes 14th Amendment'
-date: '2021-02-13T12:31:00-08:00'
 layout: post
 ---
 

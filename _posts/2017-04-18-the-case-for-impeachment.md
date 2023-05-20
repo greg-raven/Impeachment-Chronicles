@@ -1,6 +1,5 @@
 ---
 title: 'The Case for Impeachment'
-date: '2017-04-18T10:16:00-07:00'
 layout: post
 ---
 

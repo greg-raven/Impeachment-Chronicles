@@ -1,6 +1,5 @@
 ---
 title: '50,000 Americans now dead because of Trump’s incompetence'
-date: '2020-04-25T08:01:00-07:00'
 layout: post
 author:
 - Benny Johnson

@@ -1,6 +1,5 @@
 ---
 title: 'Illegitimate POTUS'
-date: '2018-06-27T13:41:00-07:00'
 layout: post
 author:
 - Rob Reiner

@@ -1,6 +1,5 @@
 ---
 title: 'Ratcliffe says ‘all kinds of intelligence’ showed ‘fake Russia collusion’'
-date: '2022-02-21T09:00:00-08:00'
 layout: post
 ---
 

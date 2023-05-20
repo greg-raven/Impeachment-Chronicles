@@ -1,6 +1,5 @@
 ---
 title: 'All of Trump’s Russia ties, in 7 charts'
-date: '2017-04-01T09:16:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Democrats grind Senate’s work to a halt over Comey firing'
-date: '2017-05-10T10:19:00-07:00'
 layout: post
 ---
 

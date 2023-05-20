@@ -1,6 +1,5 @@
 ---
 title: 'Mountain of corruption'
-date: '2019-03-04T13:44:00-08:00'
 layout: post
 author:
 - Rob Reiner

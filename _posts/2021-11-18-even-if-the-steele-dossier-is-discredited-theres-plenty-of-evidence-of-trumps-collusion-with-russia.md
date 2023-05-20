@@ -1,6 +1,5 @@
 ---
 title: 'Even if the Steele dossier is discredited, there’s plenty of evidence of Trump’s collusion with Russia'
-date: '2021-11-18T16:12:31-08:00'
 layout: post
 ---
 

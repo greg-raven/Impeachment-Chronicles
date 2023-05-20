@@ -1,6 +1,5 @@
 ---
 title: '‘Gangster in the White House’: Noam Chomsky explains why Trump is undeniably ‘the worst criminal in history’'
-date: '2020-06-23T06:34:00-07:00'
 layout: post
 ---
 

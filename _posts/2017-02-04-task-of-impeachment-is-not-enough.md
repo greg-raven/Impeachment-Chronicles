@@ -1,6 +1,5 @@
 ---
 title: 'Task of impeachment is not enough'
-date: '2017-02-04T08:16:00-08:00'
 layout: post
 author:
 - BrooklynDad Defiant!

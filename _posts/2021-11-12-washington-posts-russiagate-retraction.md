@@ -1,6 +1,5 @@
 ---
 title: 'Washington Post’s Russiagate retraction'
-date: '2021-11-12T10:19:00-08:00'
 layout: post
 author:
 - Glenn Greenwald

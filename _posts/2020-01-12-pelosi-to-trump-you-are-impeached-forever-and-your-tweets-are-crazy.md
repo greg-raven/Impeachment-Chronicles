@@ -1,6 +1,5 @@
 ---
 title: 'Pelosi to Trump: You are impeached forever (and your tweets are crazy)'
-date: '2020-01-12T12:24:00-08:00'
 layout: post
 ---
 

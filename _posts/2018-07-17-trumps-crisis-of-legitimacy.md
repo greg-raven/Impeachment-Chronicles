@@ -1,6 +1,5 @@
 ---
 title: 'Trump’s crisis of legitimacy'
-date: '2018-07-17T14:15:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Donald Trump’s full statement on impeachment trial acquittal'
-date: '2021-02-13T12:32:00-08:00'
 layout: post
 ---
 

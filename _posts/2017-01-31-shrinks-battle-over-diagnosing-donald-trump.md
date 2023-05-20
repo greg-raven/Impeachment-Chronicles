@@ -1,6 +1,5 @@
 ---
 title: 'Shrinks battle over diagnosing Donald Trump'
-date: '2017-01-31T07:48:00-08:00'
 layout: post
 ---
 

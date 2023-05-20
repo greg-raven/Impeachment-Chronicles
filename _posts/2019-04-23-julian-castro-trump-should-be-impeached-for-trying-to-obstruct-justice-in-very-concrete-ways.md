@@ -1,6 +1,5 @@
 ---
 title: 'Julián Castro: Trump should be impeached for trying to obstruct justice ‘in very concrete ways’'
-date: '2019-04-23T15:34:00-07:00'
 layout: post
 ---
 

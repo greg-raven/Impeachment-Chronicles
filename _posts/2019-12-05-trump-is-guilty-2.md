@@ -1,6 +1,5 @@
 ---
 title: 'Trump is guilty'
-date: '2019-12-05T13:47:00-08:00'
 layout: post
 author:
 - Rob Reiner

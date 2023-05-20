@@ -1,6 +1,5 @@
 ---
 title: 'Need To Impeach'
-date: '2017-10-21T15:34:00-07:00'
 layout: post
 ---
 

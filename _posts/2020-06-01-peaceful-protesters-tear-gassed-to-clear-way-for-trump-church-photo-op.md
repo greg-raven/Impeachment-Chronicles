@@ -1,6 +1,5 @@
 ---
 title: 'Peaceful protesters tear-gassed to clear way for Trump church photo-op'
-date: '2020-06-01T06:20:00-07:00'
 layout: post
 author:
 - Tom Gjelten

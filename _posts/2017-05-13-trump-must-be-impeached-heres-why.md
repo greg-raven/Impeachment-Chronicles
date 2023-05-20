@@ -1,6 +1,5 @@
 ---
 title: 'Trump must be impeached. Here’s why.'
-date: '2017-05-13T10:22:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'FBI knew MI6 spook Steele was briefing media on Trump dossier but failed to act'
-date: '2020-12-17T10:07:00-08:00'
 layout: post
 ---
 

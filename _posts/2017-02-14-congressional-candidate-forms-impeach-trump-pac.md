@@ -1,6 +1,5 @@
 ---
 title: 'Congressional candidate forms Impeach Trump PAC'
-date: '2017-02-14T09:48:00-08:00'
 layout: post
 ---
 

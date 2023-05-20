@@ -1,6 +1,5 @@
 ---
 title: 'President Trump is a Russian ‘asset’ and ‘We are in dire trouble’'
-date: '2018-07-20T08:59:00-07:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Absolute proof'
-date: '2021-02-05T07:19:00-08:00'
 layout: post
 ---
 

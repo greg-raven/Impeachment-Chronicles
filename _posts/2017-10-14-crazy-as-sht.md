@@ -1,6 +1,5 @@
 ---
 title: 'Crazy as sh*t'
-date: '2017-10-14T13:55:00-07:00'
 layout: post
 author:
 - Dan Riehl

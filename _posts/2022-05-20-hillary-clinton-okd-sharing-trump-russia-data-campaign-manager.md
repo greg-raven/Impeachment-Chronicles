@@ -1,6 +1,5 @@
 ---
 title: 'Hillary Clinton OK’d sharing Trump-Russia ‘data’: campaign manager'
-date: '2022-05-20T14:19:00-07:00'
 layout: post
 author:
 - Ben Feuerherd

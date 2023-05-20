@@ -1,6 +1,5 @@
 ---
 title: 'Eric Trump: ‘Coordinated attack on all fronts’ against President Trump'
-date: '2022-08-10T22:59:00-07:00'
 layout: post
 author:
 - Daniel Baldwin

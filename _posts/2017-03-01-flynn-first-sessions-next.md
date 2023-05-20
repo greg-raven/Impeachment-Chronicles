@@ -1,6 +1,5 @@
 ---
 title: 'Timeline: Flynn was first, Sessions was next'
-date: '2017-03-01T14:06:00-08:00'
 layout: post
 author:
 - Mollie Hemingway

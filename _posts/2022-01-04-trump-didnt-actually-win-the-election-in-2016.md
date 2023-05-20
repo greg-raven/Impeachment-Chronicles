@@ -1,6 +1,5 @@
 ---
 title: 'Trump didn’t actually win the election in 2016'
-date: '2022-01-04T10:17:00-08:00'
 layout: post
 ---
 

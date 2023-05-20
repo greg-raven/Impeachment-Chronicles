@@ -1,6 +1,5 @@
 ---
 title: 'Pathological liar exposed again'
-date: '2017-03-16T13:45:00-07:00'
 layout: post
 author:
 - Rob Reiner

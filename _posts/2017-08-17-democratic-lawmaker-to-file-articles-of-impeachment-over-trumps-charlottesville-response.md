@@ -1,6 +1,5 @@
 ---
 title: 'Democratic lawmaker to file articles of impeachment over Trump’s Charlottesville response'
-date: '2017-08-17T07:53:00-07:00'
 layout: post
 ---
 

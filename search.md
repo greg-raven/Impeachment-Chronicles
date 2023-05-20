@@ -1,6 +1,5 @@
 ---
 title: Search
-date: '2023-05-10T09:49:34-07:00'
 layout: page
 ---
 

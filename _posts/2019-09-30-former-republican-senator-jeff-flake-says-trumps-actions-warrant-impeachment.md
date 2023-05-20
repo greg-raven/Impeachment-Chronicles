@@ -1,6 +1,5 @@
 ---
 title: 'Former Republican Senator Jeff Flake says Trump’s actions ‘warrant impeachment’'
-date: '2019-09-30T15:47:00-07:00'
 layout: post
 ---
 

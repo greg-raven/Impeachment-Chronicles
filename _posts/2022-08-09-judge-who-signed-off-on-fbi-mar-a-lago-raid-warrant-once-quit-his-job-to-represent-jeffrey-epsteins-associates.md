@@ -1,6 +1,5 @@
 ---
 title: 'Judge who signed off on FBI Mar-a-Lago raid warrant once quit his job to represent Jeffrey Epstein’s associates'
-date: '2022-08-09T22:57:00-07:00'
 layout: post
 author:
 - Matt Palumbo

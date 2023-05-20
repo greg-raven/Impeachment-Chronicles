@@ -1,6 +1,5 @@
 ---
 title: 'Trump’s obsession with Deep State conspiracy ‘delusional,’ John Boehner says'
-date: '2021-04-06T05:38:00-07:00'
 layout: post
 ---
 

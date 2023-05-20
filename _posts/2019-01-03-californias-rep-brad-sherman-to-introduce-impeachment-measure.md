@@ -1,6 +1,5 @@
 ---
 title: 'California’s Rep. Brad Sherman to introduce impeachment measure'
-date: '2019-01-03T06:23:00-08:00'
 layout: post
 ---
 

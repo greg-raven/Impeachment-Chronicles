@@ -1,6 +1,5 @@
 ---
 title: 'H.Res.646 — Impeaching Donald John Trump, President of the United States, of high misdemeanors'
-date: '2017-12-06T14:09:00-08:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'McConnell won’t agree to reconvene Senate early for impeachment trial'
-date: '2021-01-13T12:25:00-08:00'
 layout: post
 ---
 

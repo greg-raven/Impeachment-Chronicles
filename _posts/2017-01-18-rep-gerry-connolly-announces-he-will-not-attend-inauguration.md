@@ -1,6 +1,5 @@
 ---
 title: 'Rep. Gerry Connolly announces he will not attend inauguration'
-date: '2017-01-18T05:37:00-08:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'AOC calls for Trump to be impeached — ‘We came close to half of the House nearly dying’'
-date: '2021-01-10T12:15:00-08:00'
 layout: post
 ---
 

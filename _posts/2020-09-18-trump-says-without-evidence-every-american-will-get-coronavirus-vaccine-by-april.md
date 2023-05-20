@@ -1,6 +1,5 @@
 ---
 title: 'Trump says, without evidence, every American will get coronavirus vaccine by April'
-date: '2020-09-18T09:47:00-07:00'
 layout: post
 ---
 

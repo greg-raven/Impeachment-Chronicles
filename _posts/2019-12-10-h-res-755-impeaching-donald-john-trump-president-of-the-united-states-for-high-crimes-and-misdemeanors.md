@@ -1,6 +1,5 @@
 ---
 title: 'H.Res.755 — Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors'
-date: '2019-12-10T07:01:00-08:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Adam Schiff nails Mike Pence with new evidence in Ukraine scheme'
-date: '2019-12-17T07:03:00-08:00'
 layout: post
 author:
 - Jason Easley

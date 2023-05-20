@@ -1,6 +1,5 @@
 ---
 title: 'The Fifth Estate'
-date: '2022-12-13T05:34:43-08:00'
 layout: post
 author:
 - Mike Solana

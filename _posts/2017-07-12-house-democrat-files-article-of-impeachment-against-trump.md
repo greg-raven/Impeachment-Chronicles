@@ -1,6 +1,5 @@
 ---
 title: 'House Democrat files article of impeachment against Trump'
-date: '2017-07-12T07:52:00-07:00'
 layout: post
 ---
 

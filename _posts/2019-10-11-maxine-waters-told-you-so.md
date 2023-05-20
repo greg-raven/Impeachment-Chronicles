@@ -1,6 +1,5 @@
 ---
 title: 'Maxine Waters told you so'
-date: '2019-10-11T06:51:00-07:00'
 layout: post
 ---
 

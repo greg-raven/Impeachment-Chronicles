@@ -1,6 +1,5 @@
 ---
 title: 'Trump warrant furthers Justice Department’s January 6 investigation'
-date: '2022-08-13T10:31:00-07:00'
 layout: post
 author:
 - Andrew C. McCarthy

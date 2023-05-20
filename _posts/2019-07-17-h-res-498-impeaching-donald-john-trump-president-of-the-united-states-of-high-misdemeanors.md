@@ -1,6 +1,5 @@
 ---
 title: 'H.Res.498 — Impeaching Donald John Trump, President of the United States, of high misdemeanors'
-date: '2019-07-17T08:00:00-07:00'
 layout: post
 ---
 

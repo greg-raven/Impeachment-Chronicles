@@ -1,6 +1,5 @@
 ---
 title: 'Ukrainian efforts to sabotage Trump backfire'
-date: '2017-01-11T15:30:00-08:00'
 layout: post
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: 'Trump celebrates FEC dropping their case against him'
-date: '2021-05-07T08:07:00-07:00'
 layout: post
 ---
 

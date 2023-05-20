@@ -1,6 +1,5 @@
 ---
 title: 'Trump Super PAC releases ‘Witch Hunt’ timeline'
-date: '2020-01-22T04:56:00-08:00'
 layout: post
 ---
 

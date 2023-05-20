@@ -1,6 +1,5 @@
 ---
 title: 'FBI agent testifies ‘fired up’ leadership pushed Trump probe despite flimsy evidence'
-date: '2022-05-24T14:26:00-07:00'
 layout: post
 author:
 - Natalia Mittelstadt

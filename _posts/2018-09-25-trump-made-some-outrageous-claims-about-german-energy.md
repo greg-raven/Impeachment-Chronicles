@@ -1,6 +1,5 @@
 ---
 title: 'Trump made some outrageous claims about German energy'
-date: '2018-09-25T16:18:00-07:00'
 layout: post
 author:
 - NowThis

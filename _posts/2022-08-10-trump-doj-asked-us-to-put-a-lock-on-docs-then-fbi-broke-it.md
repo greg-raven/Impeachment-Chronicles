@@ -1,6 +1,5 @@
 ---
 title: 'Trump: DOJ asked us to put a lock on docs, then FBI broke it'
-date: '2022-08-10T22:59:00-07:00'
 layout: post
 author:
 - Eric Mack

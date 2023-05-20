@@ -1,6 +1,5 @@
 ---
 title: 'These reports allege Trump has deep ties to Russia'
-date: '2017-01-10T14:14:00-08:00'
 layout: post
 ---
 

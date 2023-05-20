@@ -1,6 +1,5 @@
 ---
 title: 'Professor predicted Trump win, says he will be impeached'
-date: '2016-11-11T13:20:00-08:00'
 layout: post
 ---
 

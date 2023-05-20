@@ -1,6 +1,5 @@
 ---
 title: 'House set to give Pence ultimatum before moving to impeach Trump'
-date: '2021-01-11T12:20:00-08:00'
 layout: post
 ---
 

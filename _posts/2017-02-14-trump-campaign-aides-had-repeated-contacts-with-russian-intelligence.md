@@ -1,6 +1,5 @@
 ---
 title: 'Trump campaign aides had repeated contacts with Russian intelligence'
-date: '2017-02-14T09:49:00-08:00'
 layout: post
 ---
 

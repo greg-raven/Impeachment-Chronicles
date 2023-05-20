@@ -1,6 +1,5 @@
 ---
 title: 'Jeff Flake warns of impeachment if Trump fires Mueller'
-date: '2018-03-20T07:57:00-07:00'
 layout: post
 ---
 

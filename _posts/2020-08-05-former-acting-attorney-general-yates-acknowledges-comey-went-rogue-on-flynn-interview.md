@@ -1,6 +1,5 @@
 ---
 title: 'Former acting Attorney General Yates acknowledges Comey ‘went rogue’ on Flynn interview'
-date: '2020-08-05T07:55:00-07:00'
 layout: post
 ---
 

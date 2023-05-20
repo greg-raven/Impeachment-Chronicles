@@ -1,6 +1,5 @@
 ---
 title: 'Biden orders release of Trump White House Visitor Logs'
-date: '2022-02-16T09:39:00-08:00'
 layout: post
 ---
 

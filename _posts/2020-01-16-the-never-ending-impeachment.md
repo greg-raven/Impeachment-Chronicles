@@ -1,6 +1,5 @@
 ---
 title: 'The never-ending impeachment'
-date: '2020-01-16T15:14:00-08:00'
 layout: post
 ---
 

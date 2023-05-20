@@ -1,6 +1,5 @@
 ---
 title: 'Remove Donald Trump from his presidency'
-date: '2017-01-30T07:47:00-08:00'
 layout: post
 ---
 

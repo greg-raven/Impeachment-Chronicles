@@ -1,6 +1,5 @@
 ---
 title: 'U.S. media outlets retain Pulitzers for dubious &#8216;Russiagate&#8217; stories'
-date: '2022-07-21T09:59:00-07:00'
 layout: post
 author:
 - Russia Times
