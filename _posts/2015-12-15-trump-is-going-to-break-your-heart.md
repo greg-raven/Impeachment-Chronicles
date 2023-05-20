@@ -36,6 +36,6 @@ Don’t give Donald Trump your heart. He’s only going to break it.
 Source: Kurt Schlichter, townhall.com/columnists/kurtschlichter/2015/12/14/trump-is-going-to-break-your-heart-n2092525
 
 <hr>
-[The Steele Dossier]{% post_url 2016-06-20-the-steele-dossier %}
+[The Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %})
 <hr>
 [The Steele Dossier](/2016/06/20/the-steele-dossier.html)
