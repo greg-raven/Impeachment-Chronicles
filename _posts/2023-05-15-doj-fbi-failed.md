@@ -1,6 +1,6 @@
 ---
 title: 'Durham finds DOJ, FBI 'failed to uphold' mission of 'strict fidelity to the law' in Trump-Russia probe'
-date: '2023-05-15'
+date: '2023-05-15T06:42:37-07:02'
 layout: post
 author:
 - Brooke Singman

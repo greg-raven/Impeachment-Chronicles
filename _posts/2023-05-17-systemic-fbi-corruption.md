@@ -1,6 +1,6 @@
 ---
 title: '6 freshly documented instances of systemic pro-Democrat FBI Corruption'
-date: '2023-05-17'
+date: '2023-05-17T06:42:37-07:00'
 layout: post
 author:
 - Joy Pullman

@@ -1,6 +1,6 @@
 ---
 title: 'Report on Matters Related to Intelligence Activities and Investigations Arising Out of the 2016 Presidential Campaigns'
-date: '2023-05-12'
+date: '2023-05-12T06:42:37-07:00'
 layout: post
 author:
 - John Durham

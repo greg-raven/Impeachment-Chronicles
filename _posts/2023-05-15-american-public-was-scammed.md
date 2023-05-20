@@ -1,6 +1,6 @@
 ---
 title: 'The American public was scammed'
-date: '2023-05-15'
+date: '2023-05-15T06:42:37-07:00'
 layout: post
 author:
 - Donald Trump
