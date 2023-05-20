@@ -45,7 +45,7 @@ Critics were outraged that Trump ― who was protecting himself from the rain wi
 >
 > <cite>Amy Siskind, via Twitter</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Still no mask. We don&#39;t know if he has tested negative yet, when he first tested positive, or if he is still contagious. Hard to fathom. <a href="https://t.co/xYywfmTNQb">https://t.co/xYywfmTNQb</a></p>&mdash; Amy Siskind 🏳️‍🌈 (@Amy_Siskind) <a href="https://twitter.com/Amy_Siskind/status/1315757887239716864?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Still no mask. We don’t know if he has tested negative yet, when he first tested positive, or if he is still contagious. Hard to fathom. <a href="https://t.co/xYywfmTNQb">https://t.co/xYywfmTNQb</a></p>&mdash; Amy Siskind 🏳️‍🌈 (@Amy_Siskind) <a href="https://twitter.com/Amy_Siskind/status/1315757887239716864?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
 
 > How is it possible that he is not wearing a mask???
 >

@@ -23,7 +23,7 @@ Waters has been one of Trump’s fiercest critics in Congress.
 
 On Friday, she issued a series of messages on Twitter suggesting Trump is guilty of colluding with Russia to win the 2016 election against Hillary Clinton.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump worked so hard this week to make people believe he was fighting w/ Putin. Trump will never criticize Putin b/c he&#39;s in bed w/ him.</p>&mdash; Maxine Waters (@RepMaxineWaters) <a href="https://twitter.com/RepMaxineWaters/status/852855692990062592?ref_src=twsrc%5Etfw">April 14, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump worked so hard this week to make people believe he was fighting w/ Putin. Trump will never criticize Putin b/c he’s in bed w/ him.</p>&mdash; Maxine Waters (@RepMaxineWaters) <a href="https://twitter.com/RepMaxineWaters/status/852855692990062592?ref_src=twsrc%5Etfw">April 14, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 “Putin &amp; Trump have both criticized U.S. intelligence, denied campaign collusion, &amp; engaged in misinformation campaigns, lies,” Waters added.
 

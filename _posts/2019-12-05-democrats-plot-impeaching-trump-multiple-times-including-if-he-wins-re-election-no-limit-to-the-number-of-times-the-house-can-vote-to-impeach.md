@@ -35,12 +35,12 @@ The ad featured words from House Democrats on impeachment:
 - Rashida Tlaib (MI): “We’re gonna impeach the mother\*\*ker.”
 - Al Green (TX): “If we don’t impeach this president, he will get reelected.”
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New RNC ad uses Democrats&#39; own words on impeachment against them <a href="https://t.co/GDm8xgJ0wR">pic.twitter.com/GDm8xgJ0wR</a></p>&mdash; Ryan Saavedra (@RealSaavedra) <a href="https://twitter.com/RealSaavedra/status/1197305095970418688?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">New RNC ad uses Democrats’ own words on impeachment against them <a href="https://t.co/GDm8xgJ0wR">pic.twitter.com/GDm8xgJ0wR</a></p>&mdash; Ryan Saavedra (@RealSaavedra) <a href="https://twitter.com/RealSaavedra/status/1197305095970418688?ref_src=twsrc%5Etfw">November 21, 2019</a></blockquote>
 
 Expanding on Ocasio-Cortez’s remarks on CNN that were featured in the RNC’s ad, the socialist lawmaker admitted that impeachment was about unifying the fractured Democrat party.
 
 “At the end of the day, we have to be able to come together as a caucus and if it is this Ukrainian allegation that is what brings the caucus together, um, then I think we have to run with however we unify the House,” Ocasio-Cortez said. “We also need to move quite quickly because we’re talking about the potential compromise of the 2020 elections. And so this is not just about something that has occurred; this is about preventing a potentially disastrous outcome from occurring next year.”
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ocasio-Cortez says that Democrats&#39; push for impeaching Trump is about uniting the different factions of the Democrat Party, adding: “this is about preventing a potentially disastrous outcome from occurring next year.” <a href="https://t.co/nVU93ug2ZF">pic.twitter.com/nVU93ug2ZF</a></p>&mdash; Ryan Saavedra (@RealSaavedra) <a href="https://twitter.com/RealSaavedra/status/1194817581514801153?ref_src=twsrc%5Etfw">November 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Ocasio-Cortez says that Democrats’ push for impeaching Trump is about uniting the different factions of the Democrat Party, adding: “this is about preventing a potentially disastrous outcome from occurring next year.” <a href="https://t.co/nVU93ug2ZF">pic.twitter.com/nVU93ug2ZF</a></p>&mdash; Ryan Saavedra (@RealSaavedra) <a href="https://twitter.com/RealSaavedra/status/1194817581514801153?ref_src=twsrc%5Etfw">November 14, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Ryan Saavedra, dailywire.com/news/democrats-plot-impeaching-trump-multiple-times-including-if-he-wins-re-election-no-limit-to-the-number-of-times-the-house-can-vote-to-impeach/

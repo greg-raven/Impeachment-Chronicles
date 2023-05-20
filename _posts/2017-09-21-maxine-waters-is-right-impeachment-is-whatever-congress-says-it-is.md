@@ -11,7 +11,7 @@ Well, it sure seems like Rep. Maxine Waters (D-Calif.) is brushing up on her Con
 
 Waters, never a stranger to haters, predictably set Twitter on fire with her statements:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maxine Waters is wrong you can&#39;t impeach a President because you don&#39;t like him. Maxine maybe you should read the constitution.</p>&mdash; Terry West (@TerryWe33931124) <a href="https://twitter.com/TerryWe33931124/status/910995640481714178?ref_src=twsrc%5Etfw">September 21, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Maxine Waters is wrong you can’t impeach a President because you don’t like him. Maxine maybe you should read the constitution.</p>&mdash; Terry West (@TerryWe33931124) <a href="https://twitter.com/TerryWe33931124/status/910995640481714178?ref_src=twsrc%5Etfw">September 21, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 > \#AskWatters just because mad Maxine Waters is black and a woman, does that give her a right to THINK she can impeach POTUS?
 >
