@@ -22,3 +22,20 @@ layout: base
   <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found. Perhaps try a search?</p>
 </div>
+
+<script async src="https://cse.google.com/cse.js?cx=004234720413995998423:vyup6kxwuhp"></script>
+<div class="gcse-search"></div>
+
+Files on this site:
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+<hr>
+[The Steele Dossier]{% post_url 2016-06-20-the-steele-dossier %}
+<hr>
+[The Steele Dossier](/2016/06/20/the-steele-dossier.html)
