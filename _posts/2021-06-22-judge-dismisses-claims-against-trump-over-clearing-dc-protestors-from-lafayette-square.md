@@ -15,7 +15,7 @@ In June 2020, Black Lives Matter DC sued Trump, Barr, and Esper after officers�
 
 Friedrich found the claims against former President Trump and other federal officials to have failed on the merits of several different aspects. Friedrich said of the allegations that there wasn’t enough evidence that the Trump administration committed conspiracy against the protesters, stating that evidence failed to find an “agreement or meeting of the minds” which violated the rights of protesters.
 
-“Here, the management of possible violence, enforcement of the impending curfew, and policing of demonstrators in Lafayette Square in advance of the President’s travel across the Square generate ‘obvious alternative explanation\[s\]’… for the defendants’ communications and activities other than having formed an agreement to violate the plaintiffs’ civil rights,” Friedrich wrote.
+“Here, the management of possible violence, enforcement of the impending curfew, and policing of demonstrators in Lafayette Square in advance of the President’s travel across the Square generate ‘obvious alternative explanation[s]’… for the defendants’ communications and activities other than having formed an agreement to violate the plaintiffs’ civil rights,” Friedrich wrote.
 
 Under the rule of law, federal officials cannot be sued over official actions; however, there is an exception to that rule if actions resulted in constitutional violations. This exception is called a “Bivens action.”
 

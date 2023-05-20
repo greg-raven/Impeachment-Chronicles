@@ -33,7 +33,7 @@ In Thursday’s hearing, Judge Cannon delayed her decision on Trump’s request 
 
 Trump’s legal team argued any documents seized from Mar-a-Lago were similar to an “overdue-library-book scenario” on Thursday.
 
-“We’ve characterized it at times as an overdue-library-book scenario where there’s a dispute — not even a dispute — but ongoing negotiations with \[the National Archives\] that has suddenly been transformed into a criminal investigation,” Trump lawyer James Trusty said.
+“We’ve characterized it at times as an overdue-library-book scenario where there’s a dispute — not even a dispute — but ongoing negotiations with [the National Archives] that has suddenly been transformed into a criminal investigation,” Trump lawyer James Trusty said.
 
 Trump’s attorneys also argued Judge Cannon was in a “unique position” to “help restore public confidence” in the DOJ.
 

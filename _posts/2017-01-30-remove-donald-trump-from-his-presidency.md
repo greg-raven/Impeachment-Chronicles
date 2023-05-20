@@ -19,4 +19,4 @@ Side note: If you always believed in the end of the world, it would happen soone
 
 Source: Impeach Trump, change.org/p/impeach-donald-j-trump
 
-\[Webmaster note: Date approximate.\]
+[Webmaster note: Date approximate.]

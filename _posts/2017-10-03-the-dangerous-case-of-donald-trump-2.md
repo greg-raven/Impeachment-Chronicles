@@ -13,7 +13,7 @@ The book was an instant New York Times Best Seller, and high demand led to a sec
 
 According to Jeannie Suk Gersen in The New Yorker, “A strange consensus does appear to be forming around Trump’s mental state,” including Democrats and Republicans who doubt Trump’s fitness for office.
 
-In a blog post republished on Salon in September 2017, journalist Bill Moyers wrote that “\[t\]here will not be a book published this fall more urgent, important, or controversial than *The Dangerous Case of Donald Trump.*” In an interview with Robert Jay Lifton, Moyers said that Trump “makes increasingly bizarre statements that are contradicted by irrefutable evidence to the contrary.” Lifton said, “He doesn’t have clear contact with reality, though I’m not sure it qualifies as a bona fide delusion.” As an example, Lifton said, when Trump claimed that former president Barack Obama was born in Kenya, “he was manipulating that lie as well as undoubtedly believing it in part.”
+In a blog post republished on Salon in September 2017, journalist Bill Moyers wrote that “[t]here will not be a book published this fall more urgent, important, or controversial than *The Dangerous Case of Donald Trump.*” In an interview with Robert Jay Lifton, Moyers said that Trump “makes increasingly bizarre statements that are contradicted by irrefutable evidence to the contrary.” Lifton said, “He doesn’t have clear contact with reality, though I’m not sure it qualifies as a bona fide delusion.” As an example, Lifton said, when Trump claimed that former president Barack Obama was born in Kenya, “he was manipulating that lie as well as undoubtedly believing it in part.”
 
 Carlos Lozada in *The Washington Post* wrote that many politicians and commentators referred to Trump as “crazy” or doubted his mental health. In this book, mental health professionals examine that claim. They conclude that “anyone as mentally unstable as Mr. Trump simply should not be entrusted with the life-and-death powers of the presidency.” Lozada wrote that these conclusions are “compelling,” but presidents with mental illness, like depression, can be effective, and presidents without mental illness can still be dangerous.
 
@@ -23,6 +23,6 @@ Estelle Freedman, the Robinson Professor in U.S. History at Stanford University,
 
 > This insightful collection is grounded in historical consciousness of the ways professionals have responded to fascist leaders and unstable politicians in the past. It is a valuable primary source documenting the critical turning point when American psychiatry reassessed the ethics of restraining commentary on the mental health of public officials in light of the “duty to warn’ of imminent danger. Medical and legal experts thoughtfully assess diagnoses of Trump’s behavior and astutely explore how to scrutinize political candidates, address client fears, and assess the ‘Trump Effect’ on our social fabric.
 
-\[…\]
+[…]
 
 Source: en.wikipedia.org/wiki/The\_Dangerous\_Case\_of\_Donald\_Trump

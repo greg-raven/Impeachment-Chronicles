@@ -17,11 +17,11 @@ And the impeachment drumbeat did start before Trump took office — during that 
 
 Ashbach enjoined the Republicans to impeach Trump off the blocks, as soon as he took his presidential oath. He admitted this was a “desperate measure,” but the times, he wrote, called for such Hail Marys. He went on: “If Republicans take the lead in removing Trump from office, the party might regain some of its lost credibility in parts of the electorate that it is anxious to attract.”
 
-\[…\]
+[…]
 
 In September, former Sen. Jeff Flake said that 35 Republican senators would vote to remove the president in an impeachment trial, if they could do so under cover of secret ballot and thus vote on principle and not for political optics.
 
-\[…\]
+[…]
 
 If the anguished Republicans acquit the president, as seems likely, they’ll get the godfather’s (and McConnell’s) invaluable blessing and, with any luck, be re-elected. But the dynamism the party once showed, when it dared to condemn Trump in 2016, is gone. In more courageous days, Republicans started this impeachment. Too bad they won’t see it through.
 

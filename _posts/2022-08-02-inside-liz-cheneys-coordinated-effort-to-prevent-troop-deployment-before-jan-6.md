@@ -33,7 +33,7 @@ The campaign to fight any use of troops to restore order during the left’s wid
 
 Bowser’s use of guard troops on Jan. 6 extended to unarmed troops restricted to traffic control and removed from protests.
 
-“\[N\]o DCNG personnel shall be armed during this mission, and at no time, will DCNG personnel or assets be engaged in domestic surveillance, searches, or seizures of \[U.S.\] persons,” she directed to law enforcement.
+“[N]o DCNG personnel shall be armed during this mission, and at no time, will DCNG personnel or assets be engaged in domestic surveillance, searches, or seizures of [U.S.] persons,” she directed to law enforcement.
 
 Although Cheney and her colleagues with the Select Committee have sought to indict Trump as responsible for a slow response from the National Guard on Jan. 6, the panel’s own findings have undermined the probe’s point. In December, the committee released a trove of private communications from former White House Chief of Staff Mark Meadows, who pledged the National Guard would be ready to maintain order.
 

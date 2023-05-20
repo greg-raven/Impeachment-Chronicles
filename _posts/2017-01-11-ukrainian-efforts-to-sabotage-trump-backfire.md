@@ -5,17 +5,17 @@ layout: post
 
 - Kiev officials are scrambling to make amends with the president-elect after quietly working to boost Clinton.
 
-\[…\]
+[…]
 
 Ukrainian government officials tried to help Hillary Clinton and undermine Trump by publicly questioning his fitness for office. They also disseminated documents implicating a top Trump aide in corruption and suggested they were investigating the matter, only to back away after the election. And they helped Clinton’s allies research damaging information on Trump and his advisers, a Politico investigation found.
 
 A Ukrainian-American operative who was consulting for the Democratic National Committee met with top officials in the Ukrainian Embassy in Washington in an effort to expose ties between Trump, top campaign aide Paul Manafort and Russia, according to people with direct knowledge of the situation.
 
-\[…\]
+[…]
 
 Yet Politico’s investigation found evidence of Ukrainian government involvement in the race that appears to strain diplomatic protocol dictating that governments refrain from engaging in one another’s elections.
 
-\[…\]
+[…]
 
 “Now, it seems that a U.S. election may have been seen as a surrogate battle by those in Kiev and Moscow,” Merkel said.
 
@@ -45,7 +45,7 @@ While the embassy declined that request, officials there became “helpful” in
 
 Chalupa said the embassy also worked directly with reporters researching Trump, Manafort and Russia to point them in the right directions. She added, though, “they were being very protective and not speaking to the press as much as they should have. I think they were being careful because their situation was that they had to be very, very careful because they could not pick sides. It’s a political issue, and they didn’t want to get involved politically because they couldn’t.”
 
-Shulyar vehemently denied working with reporters or with Chalupa on anything related to Trump or Manafort, explaining “we were stormed by many reporters to comment on this subject, but our clear and adamant position was not to give any comment \[and\] not to interfere into the campaign affairs.”
+Shulyar vehemently denied working with reporters or with Chalupa on anything related to Trump or Manafort, explaining “we were stormed by many reporters to comment on this subject, but our clear and adamant position was not to give any comment [and] not to interfere into the campaign affairs.”
 
 Both Shulyar and Chalupa said the purpose of their initial meeting was to organize a June reception at the embassy to promote Ukraine. According to the embassy’s website, the event highlighted female Ukrainian leaders, featuring speeches by Ukrainian parliamentarian Hanna Hopko, who discussed “Ukraine’s fight against the Russian aggression in Donbas,” and longtime Hillary Clinton confidante Melanne Verveer, who worked for Clinton in the State Department and was a vocal surrogate during the presidential campaign.
 
@@ -55,7 +55,7 @@ But Andrii Telizhenko, who worked as a political officer in the Ukrainian Embass
 
 In fact, sources familiar with the effort say that Shulyar specifically called Telizhenko into a meeting with Chalupa to provide an update on an American media outlet’s ongoing investigation into Manafort.
 
-Telizhenko recalled that Chalupa told him and Shulyar that, “If we can get enough information on Paul \[Manafort\] or Trump’s involvement with Russia, she can get a hearing in Congress by September.”
+Telizhenko recalled that Chalupa told him and Shulyar that, “If we can get enough information on Paul [Manafort] or Trump’s involvement with Russia, she can get a hearing in Congress by September.”
 
 Chalupa confirmed that, a week after Manafort’s hiring was announced, she discussed the possibility of a congressional investigation with a foreign policy legislative assistant in the office of Rep. Marcy Kaptur (D-Ohio), who co-chairs the Congressional Ukrainian Caucus. But, Chalupa said, “It didn’t go anywhere.”
 
@@ -121,13 +121,13 @@ According to a series of memos reportedly compiled for Trump’s opponents by a 
 
 The scrutiny around the ledgers — combined with that from other stories about his Ukraine work — proved too much, and he stepped down from the Trump campaign less than a week after the Times story.
 
-At the time, Leshchenko suggested that his motivation was partly to undermine Trump. “For me, it was important to show not only the corruption aspect, but that he is \[a\] pro-Russian candidate who can break the geopolitical balance in the world,” Leshchenko told the Financial Times about two weeks after his news conference. The newspaper noted that Trump’s candidacy had spurred “Kiev’s wider political leadership to do something they would never have attempted before: intervene, however indirectly, in a U.S. election,” and the story quoted Leshchenko asserting that the majority of Ukraine’s politicians are “on Hillary Clinton’s side.”
+At the time, Leshchenko suggested that his motivation was partly to undermine Trump. “For me, it was important to show not only the corruption aspect, but that he is [a] pro-Russian candidate who can break the geopolitical balance in the world,” Leshchenko told the Financial Times about two weeks after his news conference. The newspaper noted that Trump’s candidacy had spurred “Kiev’s wider political leadership to do something they would never have attempted before: intervene, however indirectly, in a U.S. election,” and the story quoted Leshchenko asserting that the majority of Ukraine’s politicians are “on Hillary Clinton’s side.”
 
 But by this month, Leshchenko was seeking to recast his motivation, telling Politico, “I didn’t care who won the U.S. elections. This was a decision for the American voters to decide.” His goal in highlighting the ledgers, he said was “to raise these issues on a political level and emphasize the importance of the investigation.”
 
 In a series of answers provided to Politico, a spokesman for Poroshenko distanced his administration from both Leshchenko’s efforts and those of the agency that reLeshchenko Leshchenko leased the ledgers, The National Anti-Corruption Bureau of Ukraine. It was created in 2014 as a condition for Ukraine to receive aid from the U.S. and the European Union, and it signed an evidence-sharing agreement with the FBI in late June — less than a month and a half before it released the ledgers.
 
-The bureau is “fully independent,” the Poroshenko spokesman said, adding that when it came to the presidential administration there was “no targeted action against Manafort.” He added “as to Serhiy Leshchenko, he positions himself as a representative of internal opposition in the Bloc of Petro Poroshenko’s faction, despite \[the fact that\] he belongs to the faction,” the spokesman said, adding, “it was about him personally who pushed \[the anti-corruption bureau\] to proceed with investigation on Manafort.”
+The bureau is “fully independent,” the Poroshenko spokesman said, adding that when it came to the presidential administration there was “no targeted action against Manafort.” He added “as to Serhiy Leshchenko, he positions himself as a representative of internal opposition in the Bloc of Petro Poroshenko’s faction, despite [the fact that] he belongs to the faction,” the spokesman said, adding, “it was about him personally who pushed [the anti-corruption bureau] to proceed with investigation on Manafort.”
 
 But an operative who has worked extensively in Ukraine, including as an adviser to Poroshenko, said it was highly unlikely that either Leshchenko or the anti-corruption bureau would have pushed the issue without at least tacit approval from Poroshenko or his closest allies.
 
@@ -137,11 +137,11 @@ And, almost immediately after Trump’s stunning victory over Clinton, questions
 
 An official with the anti-corruption bureau told a Ukrainian newspaper, “Mr. Manafort does not have a role in this case.”
 
-And, while the anti-corruption bureau told Politico late last month that a “general investigation \[is\] still ongoing” of the ledger, it said Manafort is not a target of the investigation. “As he is not the Ukrainian citizen, \[the anti-corruption bureau\] by the law couldn’t investigate him personally,” the bureau said in a statement.
+And, while the anti-corruption bureau told Politico late last month that a “general investigation [is] still ongoing” of the ledger, it said Manafort is not a target of the investigation. “As he is not the Ukrainian citizen, [the anti-corruption bureau] by the law couldn’t investigate him personally,” the bureau said in a statement.
 
 Some Poroshenko critics have gone further, suggesting that the bureau is backing away from investigating because the ledgers might have been doctored or even forged.
 
-Valentyn Nalyvaichenko, a Ukrainian former diplomat who served as the country’s head of security under Poroshenko but is now affiliated with a leading opponent of Poroshenko, said it was fishy that “only one part of the black ledger appeared.” He asked, “Where is the handwriting analysis?” and said it was “crazy” to announce an investigation based on the ledgers. He met last month in Washington with Trump allies, and said, “of course they all recognize that our \[anti-corruption bureau\] intervened in the presidential campaign.”
+Valentyn Nalyvaichenko, a Ukrainian former diplomat who served as the country’s head of security under Poroshenko but is now affiliated with a leading opponent of Poroshenko, said it was fishy that “only one part of the black ledger appeared.” He asked, “Where is the handwriting analysis?” and said it was “crazy” to announce an investigation based on the ledgers. He met last month in Washington with Trump allies, and said, “of course they all recognize that our [anti-corruption bureau] intervened in the presidential campaign.”
 
 And in an interview this week, Manafort, who re-emerged as an informal advisor to Trump after Election Day, suggested that the ledgers were inauthentic and called their publication “a politically motivated false attack on me. My role as a paid consultant was public. There was nothing off the books, but the way that this was presented tried to make it look shady.”
 
@@ -192,7 +192,7 @@ The outreach ramped up after Trump’s victory. Shulyar pointed out that Poroshe
 
 Many Ukrainian officials and operatives and their American allies see Trump’s inauguration this month as an existential threat to the country, made worse, they admit, by the dissemination of the secret ledger, the antagonistic social media posts and the perception that the embassy meddled against — or at least shut out — Trump.
 
-“It’s really bad. The \[Poroshenko\] administration right now is trying to re-coordinate communications,” said Telizhenko, adding, “The Trump organization doesn’t want to talk to our administration at all.”
+“It’s really bad. The [Poroshenko] administration right now is trying to re-coordinate communications,” said Telizhenko, adding, “The Trump organization doesn’t want to talk to our administration at all.”
 
 During Nalyvaichenko’s trip to Washington last month, he detected lingering ill will toward Ukraine from some, and lack of interest from others, he recalled. “Ukraine is not on the top of the list, not even the middle,” he said.
 

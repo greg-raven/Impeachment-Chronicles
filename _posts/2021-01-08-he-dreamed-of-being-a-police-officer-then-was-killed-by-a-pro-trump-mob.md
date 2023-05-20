@@ -11,6 +11,6 @@ Then on Wednesday, pro-Trump rioters attacked that citadel of democracy and over
 
 Law enforcement officials initially said Mr. Sicknick was struck with a fire extinguisher, but weeks later, police sources and investigators were at odds over whether he was hit. Medical experts have said he did not die of blunt force trauma, according to one law enforcement official.
 
-\[…\]
+[…]
 
 Source: Zolan Kanno-Youngs and Tracey Tully, [The New York Times](https://www.nytimes.com/2021/01/08/us/politics/police-officer-killed-capitol.html)

@@ -19,7 +19,7 @@ The interview emerged just one day after the Justice Department released text me
 
 In the hypothetical game, investigators were able to choose any character conducting any activity in any location and pair this individual with another character and interpret it as evidence of collusion.
 
-Barnett added: “With respect to Flynn’s \[phone call\] with the Russian ambassador in December 2016 BARNETT did not believe Flynn was being directed by TRUMP. BARNETT did not believe FLYNN had any additional information to provide SCO. Barnett believed the prosecution of Flynn by SCO was used as a means to ‘get TRUMP.’”
+Barnett added: “With respect to Flynn’s [phone call] with the Russian ambassador in December 2016 BARNETT did not believe Flynn was being directed by TRUMP. BARNETT did not believe FLYNN had any additional information to provide SCO. Barnett believed the prosecution of Flynn by SCO was used as a means to ‘get TRUMP.’”
 
 [You can read the document here](https://justthenews.com/sites/default/files/2020-09/04518073623.pdf).
 

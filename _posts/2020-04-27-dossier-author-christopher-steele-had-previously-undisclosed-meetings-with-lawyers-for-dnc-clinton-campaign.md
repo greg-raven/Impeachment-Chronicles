@@ -42,7 +42,7 @@ He revealed that Sussmann, a former Justice Department official, told him during
 
 He also said that the theory about the computer server traffic was the catalyst for the dossier memo he would write six weeks later about Alfa Bank, the transcript shows. (RELATED: EXCLUSIVE: Dossier Author Testified His Records Were ‘Wiped’)
 
-“I’m very clear is that the first person that ever mentioned the Trump server issue, Alfa server issue, was Mr. Sussman \[sic\],” Steele told Hugh Tomlinson, a lawyer for the Alfa Bank owners, on March 17, the transcript shows.
+“I’m very clear is that the first person that ever mentioned the Trump server issue, Alfa server issue, was Mr. Sussman [sic],” Steele told Hugh Tomlinson, a lawyer for the Alfa Bank owners, on March 17, the transcript shows.
 
 Steele went on to say that Fusion GPS founder Glenn Simpson instructed him at some point after the Sussmann meeting to write a report about Alfa Bank, according to the transcript.
 

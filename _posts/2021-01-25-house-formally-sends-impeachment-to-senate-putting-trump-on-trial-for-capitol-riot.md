@@ -23,7 +23,7 @@ The single article charges Trump with “willfully inciting violence against the
 
 The trial phase puts Senate Republicans in a jam, forced to choose between defending their party’s standard-bearer or sending a message to future presidents that encouraging mobs to nullify state-certified elections won’t go unpunished. Adding to the pressure on GOP senators has been the long list of Republican figures outside Congress voicing outrage at Trump’s actions.
 
-“What we had was an incitement to riot at the United States Capitol. We had people killed, and to me there’s not a whole lot of question here,” former New Jersey Gov. Chris Christie, one of Trump’s earliest GOP backers, said just after the riot. “If inciting to insurrection isn’t \[impeachable\], I don’t really know what it is.”
+“What we had was an incitement to riot at the United States Capitol. We had people killed, and to me there’s not a whole lot of question here,” former New Jersey Gov. Chris Christie, one of Trump’s earliest GOP backers, said just after the riot. “If inciting to insurrection isn’t [impeachable], I don’t really know what it is.”
 
 Still, the former president retains enormous sway over base voters in the GOP, the majority of whom blame Biden for the Capitol siege.
 

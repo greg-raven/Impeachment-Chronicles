@@ -11,9 +11,9 @@ The Coolidge-Reagan Foundation first filed a complaint with the elections commis
 
 In a memo sent Tuesday, the FEC informed the foundation that following a review, it agreed with the allegations. The Washington Examiner was the first to report on the news.
 
-“After conducting an investigation in this matter, the Commission found probable cause to believe that the DNC Services Corp./Democratic National Committee and Virginia McGregor in her official capacity as treasurer violated \[52 U.S. Code § 30104\] and \[11 Code of Federal Regulations 104.3\],” the memo stated.
+“After conducting an investigation in this matter, the Commission found probable cause to believe that the DNC Services Corp./Democratic National Committee and Virginia McGregor in her official capacity as treasurer violated [52 U.S. Code § 30104] and [11 Code of Federal Regulations 104.3],” the memo stated.
 
-“The Commission further found probable cause to believe that Hillary for America and Elizabeth Jones in her official capacity as treasurer violated \[52 U.S. Code § 30104\] and \[11 Code of Federal Regulations 104.3\],” it continued.
+“The Commission further found probable cause to believe that Hillary for America and Elizabeth Jones in her official capacity as treasurer violated [52 U.S. Code § 30104] and [11 Code of Federal Regulations 104.3],” it continued.
 
 The reported violations had to do with various provisions of federal law regarding reporting requirements. In response to the violations, the FEC levied fines against Clinton’s treasurer and the DNC’s treasurer of $8,000 and $105,000, respectively.
 

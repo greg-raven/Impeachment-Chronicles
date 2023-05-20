@@ -6,7 +6,7 @@ layout: post
 XXXXXXXXXXXXXX
 DELIBERATIVE FROCESS PRIVILEGED DOCUMENT
 
-\[…\]
+[…]
 
 information regarding Russian activities directed at the Trump campaign was collected by CROWN on behalf of private clients.
 

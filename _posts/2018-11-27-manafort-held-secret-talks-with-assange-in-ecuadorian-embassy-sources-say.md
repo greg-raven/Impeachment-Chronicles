@@ -23,7 +23,7 @@ His defence team says he believes what he has told Mueller to be truthful and ha
 
 Manafort’s first visit to the embassy took place a year after Assange sought asylum inside, two sources said.
 
-A separate internal document written by Ecuador’s Senain intelligence agency and seen by the Guardian lists “Paul Manaford \[sic\]” as one of several well-known guests. It also mentions “Russians.”
+A separate internal document written by Ecuador’s Senain intelligence agency and seen by the Guardian lists “Paul Manaford [sic]” as one of several well-known guests. It also mentions “Russians.”
 
 According to the sources, Manafort returned to the embassy in 2015. He paid another visit in spring 2016, turning up alone, around the time Trump named him as his convention manager. The visit is tentatively dated to March.
 
@@ -57,7 +57,7 @@ One person familiar with WikiLeaks said Assange was motivated to damage the Demo
 
 According to the dossier written by the former MI6 officer Christopher Steele, Manafort was at the centre of a “well-developed conspiracy of cooperation” between the Trump campaign and Russia’s leadership. The two sides had a mutual interest in defeating Clinton, Steele wrote, whom Putin “hated and feared.”
 
-In a memo written soon after the DNC emails were published, Steele said: “The \[hacking\] operation had been conducted with the full knowledge and support of Trump and senior members of his campaign team.”
+In a memo written soon after the DNC emails were published, Steele said: “The [hacking] operation had been conducted with the full knowledge and support of Trump and senior members of his campaign team.”
 
 As a candidate Trump warmly welcomed the dump of DNC emails by Assange. In October 2016 he declared: “I love WikiLeaks.” Trump’s comments came after WikiLeaks released a second tranche of emails seized from the email account of John Podesta, Clinton’s campaign chairman.
 

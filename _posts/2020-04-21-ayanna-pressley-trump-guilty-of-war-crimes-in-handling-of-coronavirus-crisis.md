@@ -38,6 +38,6 @@ Meanwhile, “get back to work” protesters have been storming state capitols i
 
 “We just have to reject any calls for a return to normal,” Pressley said in the video.
 
-\[…\]
+[…]
 
 Source: Dominick Mastrangelo, [Washington Examiner](https://www.washingtonexaminer.com/news/pressley-trump-guilty-of-war-crimes-in-handling-of-coronavirus-crisis)

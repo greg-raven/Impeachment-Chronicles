@@ -27,7 +27,7 @@ A hearing is scheduled for next Tuesday.
 
 The new FBI evidence was turned over late Wednesday and included a stunning revelation that FBI agents originally planned to close Flynn’s probe, known as Crossfire Razor, on Nov. 8, 2016, nearly a year before he was charged with lying to the FBI.
 
-“He said shut down Razor” and “so glad they’re closing Razor,” an FBI official texted that day. “However \[redacted\] was silent though, so who knows what he will want.”
+“He said shut down Razor” and “so glad they’re closing Razor,” an FBI official texted that day. “However [redacted] was silent though, so who knows what he will want.”
 
 By January, the FBI analysts were alarmed that their agency was engaged in misconduct that could be discovered by President Trump’s new attorney general.
 
@@ -35,6 +35,6 @@ By January, the FBI analysts were alarmed that their agency was engaged in misco
 
 A follow-up string of messages suggested the bureau would be exposed for “rabbit holes and conspiracy theories” if the Russia casework was ever exposed because of its lack of evidence.
 
-“I’m tellying \[sic\] man, if this thing ever gets FOIA’d, there are going to be some tough questions asked,” one official wrote.
+“I’m tellying [sic] man, if this thing ever gets FOIA’d, there are going to be some tough questions asked,” one official wrote.
 
 Source: John Solomon, justthenews.com/accountability/russia-and-ukraine-scandals/flynn-case-bombshell-fbi-analysts-bought-insurance

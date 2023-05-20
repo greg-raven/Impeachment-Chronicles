@@ -47,7 +47,7 @@ But later that day, Solomon reported back that “Page is neither confirming nor
 
 Three days later, Fusion’s attempts to plant their rumor in influential media outlets hit more resistance. Another Journal alumnus, Tom Hamburger, said he was “getting kick back” while trying to confirm the rumor for the Washington Post, where he worked on the paper’s national desk.
 
-“That Page met with Sechin or Ivanov. ‘Its \[sic\] bullshit. Impossible,’ said one of our Moscow sources,” Hamburger reported back to Fusion co-founder Glenn Simpson, who also previously worked for the Journal. (The rumor included Sergei Ivanov, a top Putin aide.) The Post’s Moscow bureau chief at the time was David Filipov. Hamburger added that another reporter he knew “doesn’t like this story” and was passing on it.
+“That Page met with Sechin or Ivanov. ‘Its [sic] bullshit. Impossible,’ said one of our Moscow sources,” Hamburger reported back to Fusion co-founder Glenn Simpson, who also previously worked for the Journal. (The rumor included Sergei Ivanov, a top Putin aide.) The Post’s Moscow bureau chief at the time was David Filipov. Hamburger added that another reporter he knew “doesn’t like this story” and was passing on it.
 
 “No worries, I don’t expect lots of people to believe it,” Simpson replied. “It is, indeed, hard to believe.”
 
@@ -55,13 +55,13 @@ As Fusion was pushing the rumors to reporters that July, its subcontractor Steel
 
 For his part, Hamburger still pursued the story, asking for documents on Page later that month; and Fusion recycled the false rumor in an internal report, separate from [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), which it emailed to Hamburger and another Post reporter in September.
 
-The report, which Fritsch claimed that “one of our \[research\] associates wrote,” went beyond even the dossier. It asserted that Page’s July 8 speech at the New Economic School in Moscow (where President Obama had also once spoken) was “concocted to give Page a public explanation for his trip to Moscow, which sources say included secret meetings with top Kremlin officials, where the American presidential campaign and U.S. sanctions against Russia were both discussed.”
+The report, which Fritsch claimed that “one of our [research] associates wrote,” went beyond even the dossier. It asserted that Page’s July 8 speech at the New Economic School in Moscow (where President Obama had also once spoken) was “concocted to give Page a public explanation for his trip to Moscow, which sources say included secret meetings with top Kremlin officials, where the American presidential campaign and U.S. sanctions against Russia were both discussed.”
 
 Fritsch did not say who the Fusion “sources” were. But around the same time, he and Simpson brought Steele to Washington to brief journalists from the Post, the New York Times, CNN, and Yahoo News on Page in a private room at the Tabard Inn, a hotel-bar long a favorite of Washington scribes.
 
 Fusion had finally found a media outlet to take the bait it had been chumming out to reporters for months. After meeting with Steele for about an hour, Yahoo News’ Michael Isikoff ran with the rumors in a September 23 online article, which the FBI then used to corroborate the dossier in its initial October 2016 FISA application, even though the supposed corroboration was redundant: Steele and his dossier were Isikoff’s source for the story. (Isikoff, who did not respond to requests for comment, would later write in a 2018 book he co-authored, “Russian Roulette,” that the rumors about Page were just “pillow talk.”)
 
-The Clinton campaign jumped on what it called Isikoff’s “bombshell report” and heavily promoted it on social media. Clinton campaign official Glen Caplin issued a statement republishing the Yahoo piece in full and proclaiming: “It’s chilling to learn that U.S. intelligence officials are conducting a probe into suspected meetings between Trump’s foreign policy adviser Carter Page and members of Putin’s inner circle while in Moscow … \[T\]his report suggests Page met with a sanctioned top Russian official to discuss the possibility of ending U.S. sanctions against Russia under a Trump presidency – an action that could directly enrich both Trump and Page while undermining American interests.”
+The Clinton campaign jumped on what it called Isikoff’s “bombshell report” and heavily promoted it on social media. Clinton campaign official Glen Caplin issued a statement republishing the Yahoo piece in full and proclaiming: “It’s chilling to learn that U.S. intelligence officials are conducting a probe into suspected meetings between Trump’s foreign policy adviser Carter Page and members of Putin’s inner circle while in Moscow … [T]his report suggests Page met with a sanctioned top Russian official to discuss the possibility of ending U.S. sanctions against Russia under a Trump presidency – an action that could directly enrich both Trump and Page while undermining American interests.”
 
 Added Caplin: “This is serious business and voters deserve the facts before election day.”
 
@@ -81,7 +81,7 @@ Carter Page, who is suing the former corporate parent of Yahoo News for defamati
 
 On Sept. 19, 2016, the FBI’s Crossfire Hurricane team formally received Steele’s dossier Report 94 alleging Page’s secret Kremlin meetings, according to Justice Department Inspector General Michael Horowitz, who detailed the FBI’s handling of the rumors in a 2019 report. That same day, the team began discussions with department lawyers “to consider Steele’s reporting as part of a FISA application targeting Carter Page.”
 
-In an email to attorneys, FBI Supervisory Intelligence Analyst Brian Auten forwarded an excerpt from Steele’s report and asked, “Does this put us at least *that* much closer to a full FISA on \[Carter Page\]?” The FBI agent handling the case said the rumors from Steele “supplied missing information in terms of what Page may have been doing during his July 2016 visit to Moscow.”
+In an email to attorneys, FBI Supervisory Intelligence Analyst Brian Auten forwarded an excerpt from Steele’s report and asked, “Does this put us at least *that* much closer to a full FISA on [Carter Page]?” The FBI agent handling the case said the rumors from Steele “supplied missing information in terms of what Page may have been doing during his July 2016 visit to Moscow.”
 
 The attorneys thought it was a “close call” when they first discussed a FISA targeting Page in early August, Horowitz relayed in his report, but the Steele reporting in September “pushed it over” the line in terms of establishing probable cause.
 

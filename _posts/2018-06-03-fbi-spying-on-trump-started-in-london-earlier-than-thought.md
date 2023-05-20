@@ -5,7 +5,7 @@ layout: post
 
 - New texts implicate Obama White House
 
-\[\[behind paywall\]\]
+[[behind paywall]]
 
 Source: Tyler Durden, zerohedge.com/news/2018-06-02/fbi-spying-trump-started-london-earlier-thought-new-texts-implicate-obama-white
 

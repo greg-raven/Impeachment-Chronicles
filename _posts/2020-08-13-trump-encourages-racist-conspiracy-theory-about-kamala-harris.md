@@ -7,6 +7,6 @@ layout: post
 
 WASHINGTON — President Trump on Thursday encouraged a racist conspiracy theory that is rampant among some of his followers: that Senator Kamala Harris, the presumptive Democratic vice-presidential nominee born in California, was not eligible for the vice presidency or presidency because her parents were immigrants.
 
-\[…\]
+[…]
 
 Source: Katie Rogers, [The New York Times](https://www.nytimes.com/2020/08/13/us/politics/trump-kamala-harris.html)

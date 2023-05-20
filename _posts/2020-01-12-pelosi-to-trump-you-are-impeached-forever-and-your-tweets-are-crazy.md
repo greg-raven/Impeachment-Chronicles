@@ -9,7 +9,7 @@ Whoever wins, we win, Speaker Nancy Pelosi said on *This Week with George Stepha
 
 “This president is impeached for life, regardless of any gamesmanship on the part of Mitch McConnell,” the California Representative said, firming up Rep. Adam Schiff’s suggestion from a month ago that a failed Senate trial, by its very nature of existing, would not be a failure. “He will be impeached forever,” Pelosi continued, twisting the knife a bit into President Donald Trump’s ego.
 
-In addition to the rhetorical (though 100 percent accurate) fireworks, the Speaker responded to George Stephanopoulos asking if the House had exhausted the alternatives to the White House’s blocking of witnesses. She said that they are “in court” on the issue and has not “eliminated the possibility of ever subpoenaing and going forward with \[former National Security Advisor John\] Bolton”.
+In addition to the rhetorical (though 100 percent accurate) fireworks, the Speaker responded to George Stephanopoulos asking if the House had exhausted the alternatives to the White House’s blocking of witnesses. She said that they are “in court” on the issue and has not “eliminated the possibility of ever subpoenaing and going forward with [former National Security Advisor John] Bolton”.
 
 Additionally, she made an unusual comparison between the Trump impeachment and the impeachment of former President Bill Clinton. “President Clinton allowed witnesses to come forward. President Trump has prevented that from happening.”
 

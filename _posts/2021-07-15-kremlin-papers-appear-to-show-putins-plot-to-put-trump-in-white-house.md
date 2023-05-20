@@ -29,7 +29,7 @@ There is also apparent confirmation that the Kremlin possesses kompromat, or pot
 
 The paper refers to “certain events” that happened during Trump’s trips to Moscow. Security council members are invited to find details in appendix five, at paragraph five, the document states. It is unclear what the appendix contains.
 
-“It is acutely necessary to use all possible force to facilitate his \[Trump’s\] election to the post of U.S. president,” the paper says.
+“It is acutely necessary to use all possible force to facilitate his [Trump’s] election to the post of U.S. president,” the paper says.
 
 This would help bring about Russia’s favoured “theoretical political scenario”. A Trump win “will definitely lead to the destabilisation of the US’s sociopolitical system” and see hidden discontent burst into the open, it predicts.
 
@@ -93,7 +93,7 @@ Andrei Soldatov, an expert on Russia’s spy agencies and author of The Red Web,
 
 He added: “The Kremlin micromanages most of these operations. Putin has made it clear to his spies since at least 2015 that nothing can be done independently from him. There is no room for independent action.” Putin decided to release stolen DNC emails following a security council meeting in April 2016, Soldatov said, citing his own sources.
 
-Sir Andrew Wood, the UK’s former ambassador in Moscow and an associate fellow at the Chatham House thinktank, described the documents as “spell-binding”. “They reflect the sort of discussion and recommendations you would expect. There is a complete misunderstanding of the U.S. and China. They are written for a person \[Putin\] who can’t believe he got anything wrong.”
+Sir Andrew Wood, the UK’s former ambassador in Moscow and an associate fellow at the Chatham House thinktank, described the documents as “spell-binding”. “They reflect the sort of discussion and recommendations you would expect. There is a complete misunderstanding of the U.S. and China. They are written for a person [Putin] who can’t believe he got anything wrong.”
 
 Wood added: “There is no sense Russia might have made a mistake by invading Ukraine. The report is fully in line with the sort of thing I would expect in 2016, and even more so now. There is a good deal of paranoia. They believe the U.S. is responsible for everything. This view is deeply dug into the soul of Russia’s leaders.”
 

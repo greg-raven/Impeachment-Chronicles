@@ -35,7 +35,7 @@ Rep. Rashida Tlaib, a progressive first-year member, has pushed for the same.
 
 “The words ‘racist abuse of power’ should be part of the articles of impeachment. Not including this type of abuse based on racism will be unjust to the children caged at the border &amp; all the communities who have faced violence b/c of his actions,” [Tlaib tweeted](https://twitter.com/rashidatlaib/status/1191718292567842821?s=21) last month, responding to a story about Trump’s decision to proclaim November “National American History and Founders Month” instead of Native American Heritage Month.
 
-“I think for many of my residents, it is some of the most un-American, racist policies that he’s also \[enacted\] that we think is an impeachable offense,” Tlaib told reporters Tuesday, though she added that impeaching Trump on abuse of power and obstruction of Congress charges is also important.
+“I think for many of my residents, it is some of the most un-American, racist policies that he’s also [enacted] that we think is an impeachable offense,” Tlaib told reporters Tuesday, though she added that impeaching Trump on abuse of power and obstruction of Congress charges is also important.
 
 While the House has already passed a resolution [condemning racist comments](https://www.buzzfeednews.com/article/addybaird/house-vote-condemn-trump-racist-tweets-squad) Trump made about Tlaib and other women of color in the House, Green said it wasn’t enough.
 
@@ -43,8 +43,8 @@ While the House has already passed a resolution [condemning racist comments](htt
 
 And despite his yearslong conviction that Trump should be impeached and removed from office, Green said Tuesday that he won’t hold it against any of his colleagues who may choose to vote against articles or — [as Politico reported](https://www.politico.com/news/2019/12/10/democrats-censure-impeachment-080311) — potentially push for a censure resolution, which would merely reprimand the president, instead.
 
-“I think this is a question of conscience, and if we all do \[what our\] conscience dictates \[we should do\], we will be able to live with ourselves,” he said. But, he added, “My personal opinion is that my conscience would not allow me to conclude that that is sufficient given the President’s behavior.”
+“I think this is a question of conscience, and if we all do [what our] conscience dictates [we should do], we will be able to live with ourselves,” he said. But, he added, “My personal opinion is that my conscience would not allow me to conclude that that is sufficient given the President’s behavior.”
 
-“You don’t hear a lot of talk about the country being torn apart for the questions related to Ukraine. \[But\] the people who suffer every day are being torn apart in their daily lives,” Green said in a separate interview. “And I don’t know how I could, as a member of Congress, decide that because I might not get reelected that I would not do what I know to be the right thing. And to be very honest with you, if this would cause me to lose a seat in Congress, I just say send me home.”
+“You don’t hear a lot of talk about the country being torn apart for the questions related to Ukraine. [But] the people who suffer every day are being torn apart in their daily lives,” Green said in a separate interview. “And I don’t know how I could, as a member of Congress, decide that because I might not get reelected that I would not do what I know to be the right thing. And to be very honest with you, if this would cause me to lose a seat in Congress, I just say send me home.”
 
 Source: Addy Baird and Kadia Goba and Darren Sands, buzzfeednews.com/article/addybaird/al-green-first-democrat-impeachment-donald-trump

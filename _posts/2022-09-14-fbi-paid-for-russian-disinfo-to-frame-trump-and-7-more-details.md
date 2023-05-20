@@ -37,7 +37,7 @@ In its motion in limine, Durham’s team argues this evidence is important to it
 
 That line of inquiry would have revealed the possibility that Danchenko was a Russian asset, the special counsel’s motion argues, noting that “Dolan, on two separate occasions, stated in emails dated June 10, 2016, and January 13, 2017, that he believed the defendant was ‘former FSB’ and a Russian ‘agent.’”
 
-Had the FBI learned from Dolan that Danchenko was connected to the Russian intelligence services, “this naturally would have (or should have) caused investigators to revisit the prior counterintelligence investigation,” Durham argues, and “raise\[d\] the prospect that the defendant might have in fact been under the control or guidance of the Russian intelligence services.”
+Had the FBI learned from Dolan that Danchenko was connected to the Russian intelligence services, “this naturally would have (or should have) caused investigators to revisit the prior counterintelligence investigation,” Durham argues, and “raise[d] the prospect that the defendant might have in fact been under the control or guidance of the Russian intelligence services.”
 
 While this revelation is spicy, Danchenko’s attorneys will quickly dispatch this argument by pointing out that if the FBI’s own counterintelligence investigation into Danchenko that included the details noted above didn’t “raise the prospect” that Danchenko was “under the control or guidance of the Russian intelligence services,” surely Dolan’s beliefs would not alter the trajectory of the investigation.
 
@@ -109,11 +109,11 @@ The government presents a persuasive argument that these emails should be admitt
 
 A final takeaway from yesterday’s filing stems from the special counsel’s mention of Cyprus.
 
-“On June 10, 2016, Dolan, while in Cyprus meeting with Olga Galkina (another source for the defendant), emailed a U.S.-based acquaintance regarding efforts to assist the defendant in obtaining a U.S. visa,” the motion says. It quotes the email: “Monday night I fly to Moscow and will meet with a Russian guy who is working with me on a couple of projects. He also works for a group of former MI 6 guys in London who do intelligence for business …. \[H\]e owes me as his Visa is being held up and I am having a word with the Ambassador.”
+“On June 10, 2016, Dolan, while in Cyprus meeting with Olga Galkina (another source for the defendant), emailed a U.S.-based acquaintance regarding efforts to assist the defendant in obtaining a U.S. visa,” the motion says. It quotes the email: “Monday night I fly to Moscow and will meet with a Russian guy who is working with me on a couple of projects. He also works for a group of former MI 6 guys in London who do intelligence for business …. [H]e owes me as his Visa is being held up and I am having a word with the Ambassador.”
 
 The special counsel’s office included these details to establish that Danchenko had lied to the FBI about facts beyond those contained in the indictment. This helps Durham’s case by showing Danchenko’s allegedly false statements were not mere mistakes. The reference to Cyprus, however, also raises an entirely new set of questions.
 
-In addition to Dolan’s presence in Cyprus on June 10, 2016, where he met with another of Danchenko’s sources, we have a June 1, 2016 email to President Obama’s undersecretary for State Victoria Nuland noting that “Kathleen \[Kavalec\] is recommending \[she\] look at the first 10 days of July for a Cyprus trip.” Nuland made the trip on July 12, 2016.
+In addition to Dolan’s presence in Cyprus on June 10, 2016, where he met with another of Danchenko’s sources, we have a June 1, 2016 email to President Obama’s undersecretary for State Victoria Nuland noting that “Kathleen [Kavalec] is recommending [she] look at the first 10 days of July for a Cyprus trip.” Nuland made the trip on July 12, 2016.
 
 On July 1, 2016, Steele emailed the DOJ’s Bruce Ohr, noting that Steele was traveling to Cyprus with his family on holiday from July 9 to 16, 2016.
 

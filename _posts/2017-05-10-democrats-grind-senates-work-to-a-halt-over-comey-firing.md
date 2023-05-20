@@ -3,7 +3,7 @@ title: 'Democrats grind Senate’s work to a halt over Comey firing'
 layout: post
 ---
 
-> \[…\] At this point we arguably do not have a legitimate president or administration. \[…\]
+> […] At this point we arguably do not have a legitimate president or administration. […]
 >
 > <cite>Paul Krugman, via Twitter</cite>
 

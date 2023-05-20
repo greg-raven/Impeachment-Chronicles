@@ -57,9 +57,9 @@ The “all hands” meeting, held about two weeks into the new administration, w
 
 A military staffer detailed to the NSC, who was seated directly in front of Ciaramella and Misko during the meeting, confirmed hearing them talk about toppling Trump during their private conversation, which the source said lasted about one minute. The crowd was preparing to get up to leave the room at the time.
 
-“After Flynn briefed \[the staff\] about what ‘America First’ foreign policy means, Ciaramella turned to Misko and commented, ‘We need to take him out,’” the staffer recalled. “And Misko replied, ‘Yeah, we need to do everything we can to take out the president.’”
+“After Flynn briefed [the staff] about what ‘America First’ foreign policy means, Ciaramella turned to Misko and commented, ‘We need to take him out,’” the staffer recalled. “And Misko replied, ‘Yeah, we need to do everything we can to take out the president.’”
 
-Added the military detailee, who spoke on condition of anonymity: “By ‘taking him out,’ they meant removing him from office by any means necessary. They were triggered by Trump’s and Flynn’s vision for the world. This was the first ‘all hands’ \[staff meeting\] where they got to see Trump’s national security team, and they were huffing and puffing throughout the briefing any time Flynn said something they didn’t like about ‘America First.’”
+Added the military detailee, who spoke on condition of anonymity: “By ‘taking him out,’ they meant removing him from office by any means necessary. They were triggered by Trump’s and Flynn’s vision for the world. This was the first ‘all hands’ [staff meeting] where they got to see Trump’s national security team, and they were huffing and puffing throughout the briefing any time Flynn said something they didn’t like about ‘America First.’”
 
 He said he also overheard Ciaramella telling Misko, referring to Trump, “We can’t let him enact this foreign policy.”
 
@@ -91,7 +91,7 @@ NSC co-workers said that Vindman, like Ciaramella, openly expressed his disdain 
 
 Before he was detailed to the White House, Vindman served in the U.S. Army, where he once received a reprimand from a superior officer for badmouthing and ridiculing America in front of Russian soldiers his unit was training with during a joint 2012 exercise in Germany.
 
-His commanding officer, Army Lt. Col. Jim Hickman, complained that Vindman, then a major, “was apologetic of American culture, laughed about Americans not being educated or worldly and really talked up Obama and globalism to the point of \[it being\] uncomfortable.”
+His commanding officer, Army Lt. Col. Jim Hickman, complained that Vindman, then a major, “was apologetic of American culture, laughed about Americans not being educated or worldly and really talked up Obama and globalism to the point of [it being] uncomfortable.”
 
 “Vindman was a partisan Democrat at least as far back as 2012,” Hickman, now retired, asserted. “Do not let the uniform fool you. He is a political activist in uniform.”
 

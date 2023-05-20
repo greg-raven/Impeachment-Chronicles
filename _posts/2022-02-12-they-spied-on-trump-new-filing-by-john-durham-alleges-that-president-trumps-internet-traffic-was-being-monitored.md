@@ -7,6 +7,6 @@ The investigation by special counsel John Durham hasn’t been moving quickly by
 
 Durham has a new court filing in the United States’ case against Sussman, and people are zooming in on an allegation that “Tech Executive-1” had tasked researchers affiliated with a U.S. university to mine Internet data to establish “an inference” and “narrative” tying then-candidate Trump to Russia.
 
-\[…\]
+[…]
 
 Source: twitchy.com/brettt-3136/2022/02/12/they-spied-on-trump-new-filing-by-john-durham-alleges-that-president-trumps-internet-traffic-was-being-monitored/

@@ -2,7 +2,7 @@
 title: '‘Treason’: Trump sounds off after Durham Report reveals FBI malfeasance'
 layout: post
 author:
-- Paul Bois
+- Paul Roland Bois
 ---
 
 Former President Donald Trump sounded off on Monday in response to the long-awaited report from Special Counsel John Durham showing that the FBI should have never launched its investigation into the 2016 Trump presidential campaign.

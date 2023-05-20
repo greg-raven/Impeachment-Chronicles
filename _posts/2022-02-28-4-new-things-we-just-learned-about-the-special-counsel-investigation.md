@@ -13,7 +13,7 @@ Here’s what we learned and what investigative trails require further probing.
 
 **1. Rodney Joffe Pled the Fifth Twice**
 
-Earlier this month, the Russian-connected Alfa Bank filed a motion in a Florida state court seeking an extension of time to serve the numerous “John Doe” defendants it had sued there in June 2020. Alfa Bank had sued “John Doe, et al.” as stand-ins for the defendants it claimed were responsible for executing “a highly sophisticated cyberattacking scheme to fabricate apparent communications between \[Alfa Bank\] and the Trump Organization” in the months leading up to the 2016 presidential election.
+Earlier this month, the Russian-connected Alfa Bank filed a motion in a Florida state court seeking an extension of time to serve the numerous “John Doe” defendants it had sued there in June 2020. Alfa Bank had sued “John Doe, et al.” as stand-ins for the defendants it claimed were responsible for executing “a highly sophisticated cyberattacking scheme to fabricate apparent communications between [Alfa Bank] and the Trump Organization” in the months leading up to the 2016 presidential election.
 
 After filing suit, Alfa Bank began discovery in an attempt to learn the identity of the individuals responsible for what the large, privately owned Russian bank alleged was the creation of a fake computer trail connecting it to the Trump Organization. Among others Alfa Bank sought information from was Joffe, the man identified as Tech Executive-1 in Special Counsel John Durham’s indictment against former Hillary Clinton campaign attorney Michael Sussmann.
 

@@ -17,7 +17,7 @@ While recognizing that “the political establishment and anti-Trump journalists
 
 Fleitz says House Intelligence Committee staff members discovered exactly the opposite and told him that there is ample evidence that Russia may have interfered in the 2016 election, but not necessarily on behalf of Trump.
 
-“More gravely, they said that \[then-\] CIA Director John Brennan suppressed facts or analysis that showed why it was not in Russia’s interests to support Trump and why Putin stood to benefit from Hillary Clinton’s election. They also told me that Brennan suppressed that intelligence over the objections of CIA analysts.”
+“More gravely, they said that [then-] CIA Director John Brennan suppressed facts or analysis that showed why it was not in Russia’s interests to support Trump and why Putin stood to benefit from Hillary Clinton’s election. They also told me that Brennan suppressed that intelligence over the objections of CIA analysts.”
 
 The former NSC chief of staff further stated that “Brennan suppressed high-quality intelligence suggesting that Putin actually wanted the more predictable and malleable Clinton to win the 2016 election.”
 

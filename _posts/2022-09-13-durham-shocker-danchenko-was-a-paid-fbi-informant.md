@@ -27,15 +27,15 @@ Context helps – here’s a brief timeline of the Danchenko interviews and othe
 - January 12, 2017: The application for the second FISA warrant is submitted to the FISC.
 - January 24-25, 2017: Danchenko is first interviewed by the FBI. At those meetings, he made false statements that he spoke to Sergei Millian by phone and that Millian agreed to meet him in New York. Both those claims were false.
 - March 2017: Danchenko is hired by the FBI as a CHS.
-- March 16, 2017: Danchenko lies to FBI agents that “he received a late July 2016 telephone call from an individual who Danchenko believed was ‘probably’ \[Millian”\], when in truth and in fact, and as the defendant well knew, \[Millian\] never called Danchenko.”
+- March 16, 2017: Danchenko lies to FBI agents that “he received a late July 2016 telephone call from an individual who Danchenko believed was ‘probably’ [Millian”], when in truth and in fact, and as the defendant well knew, [Millian] never called Danchenko.”
 - April 7, 2017: The application for the third FISA warrant is submitted to the FISC.
 - May 9, 2017: President Trump fires FBI Director James Comey.
 - May 17, 2017: Robert Mueller is appointed Special Counsel.
-- May 18, 2017: Danchenko falsely states to FBI agents that he “‘was under the impression’ that a late July 2016 telephone call he received was from \[Millian’\]” when in fact Millian never called Danchenko.
+- May 18, 2017: Danchenko falsely states to FBI agents that he “‘was under the impression’ that a late July 2016 telephone call he received was from [Millian’]” when in fact Millian never called Danchenko.
 - June 15, 2017: Danchenko lies to FBI agents that he had never “spoken with PR Executive-1” (Dolan) about the dossier allegations.
 - June 29, 2017: The application for the fourth FISA warrant is submitted to the FISC.
 - October 24, 2017: Danchenko lies to FBI agents, stating that he had spoken to Millian “on the telephone on more than one occasion.”
-- November 16, 2017: Danchenko lies to the FBI against, stating “he had spoken to \[Millian\] on the telephone” when he knew he never did.
+- November 16, 2017: Danchenko lies to the FBI against, stating “he had spoken to [Millian] on the telephone” when he knew he never did.
 - December 9, 2019: The Horowitz report is released, detailing the DOJ/FBI/Mueller FISA abuse.
 - October 19, 2020: John Durham is appointed Special Counsel.
 - October 2020: Danchenko is terminated as a CHS.
@@ -50,26 +50,26 @@ The allegation came from Danchenko, who attributed it to his sources – one fro
 
 As to Sergei Millian (more on him later), Durham will show that Danchenko falsely stated to the FBI that this information from Millian “came from a single ten, or fifteen minute anonymous phone call that allegedly took place in late-July 2016.” That timing is of particular importance, as explained by Durham:
 
-\[…\]
+[…]
 
 Then there are Danchenko’s false statements about Charles Dolan, an influential Democrat executive with ties to the Clintons. Interestingly, it was Dolan who was given a tour of the Ritz-Carlton Presidential Suite, which was the supposed location of “Trump’s alleged lurid sexual activities.”
 
 In fact, Dolan is expected to testify at trial. According to Durham:
 
-> the Government anticipates that Mr. Dolan will testify that (1) it was he and Mr. Kupka who attended a lunch with the Ritz-Carlton general manager and other hotel staff during the June 2016 Moscow trip and that \[Danchenko\] was not present, and (2) neither Donald Trump nor his purported sexual practices were ever discussed at that lunch. Further, the Government also anticipates that Mr. Dolan will testify that Ritz-Carlton hotel staff did, in fact, provide the aforementioned tour of the presidential suite as part of the June 2016 trip and that, again, Donald Trump and his purported sexual practices were not discussed during that tour.
+> the Government anticipates that Mr. Dolan will testify that (1) it was he and Mr. Kupka who attended a lunch with the Ritz-Carlton general manager and other hotel staff during the June 2016 Moscow trip and that [Danchenko] was not present, and (2) neither Donald Trump nor his purported sexual practices were ever discussed at that lunch. Further, the Government also anticipates that Mr. Dolan will testify that Ritz-Carlton hotel staff did, in fact, provide the aforementioned tour of the presidential suite as part of the June 2016 trip and that, again, Donald Trump and his purported sexual practices were not discussed during that tour.
 
 What is Durham’s theory on Danchenko’s motive for lying about the Ritz-Carlton allegations? Because it reflects “a **deliberate effort to conceal from the FBI Charles Dolan’s role as a source for the Steele Reports and to deceive the FBI regarding Millian’s role (or lack thereof)**.”
 
 In support of the theory that Danchenko engaged in an “over-arching ‘plan’ to deceive the FBI” about his work for Orbis (the company who collected the information contained in the Steele Reports), Durham also plans to introduce:
 
 - Evidence that Danchenko “on multiple occasions communicated and emailed with, among others, Charles Dolan regarding his work for Steele and Orbis.”
-- “Evidence that proves Dolan was aware of \[Danchenko’s\] reporting was part of a ‘related project against Trump’ and that this work was being done on behalf of Steele and Orbis.”
+- “Evidence that proves Dolan was aware of [Danchenko’s] reporting was part of a ‘related project against Trump’ and that this work was being done on behalf of Steele and Orbis.”
 
 There’s more. Back in February 2016, nearly a year before his FBI interview and months before he started collecting information for Christopher Steele, Danchenko told a former employer how to fabricate sources:
 
-\[…\]
+[…]
 
-The relevance of that e-mail? Danchenko’s advice to “attach multiple sources to information and obscure one’s own role as a source for information is consistent with \[Danchenko’s\] alleged false statements in which he denied or fabricated the roles of these individuals.”
+The relevance of that e-mail? Danchenko’s advice to “attach multiple sources to information and obscure one’s own role as a source for information is consistent with [Danchenko’s] alleged false statements in which he denied or fabricated the roles of these individuals.”
 
 **The E-Mails and Steele’s Representations to the FBI**
 

@@ -17,7 +17,7 @@ Zuckerberg was asked about Facebook’s suppression of the New York Post’s rep
 
 Twitter completely banned users from sharing the New York Post story about the laptop.
 
-Zuckerberg said Facebook users were “still allowed to share” the Post’s reporting on the Hunter Biden laptop even as their “third-party fact-checking program” was looking into whether it was misinformation, but acknowledged that the “ranking in \[the\] news feed was a little bit less” and that “fewer people saw it than would’ve otherwise.”
+Zuckerberg said Facebook users were “still allowed to share” the Post’s reporting on the Hunter Biden laptop even as their “third-party fact-checking program” was looking into whether it was misinformation, but acknowledged that the “ranking in [the] news feed was a little bit less” and that “fewer people saw it than would’ve otherwise.”
 
 “By what percentage?” Rogan asked.
 

@@ -27,7 +27,7 @@ Though on opposite sides of the political spectrum, Tony Podesta, Manafort and G
 
 “Last Friday APAC had a meeting at DNC organized by their ethnic outreach office, presenting Democratic Party strategies for presidential elections,” Gates emailed Tony Podesta on May 17, 2016. “One of the subjects was a smear campaign against Paul Manafort, which will be launched in a couple of days. The head of the ethnic outreach is of Ukrainian descent and has connections in Ukraine.
 
-“She was able to produce documents linking Manafort to Moscow during his time as adviser to Victor Yanukowych (cq), ousted former Ukrainian president. They will try to link Donald Trump to Putin through Manafort’s engagement and money trail of over \[a\] billion dollars. This was a formal presentation on the part of DNC — I am trying to obtain an audio tape from the meeting. I just wanted to share this with you to make you aware before they start.”
+“She was able to produce documents linking Manafort to Moscow during his time as adviser to Victor Yanukowych (cq), ousted former Ukrainian president. They will try to link Donald Trump to Putin through Manafort’s engagement and money trail of over [a] billion dollars. This was a formal presentation on the part of DNC — I am trying to obtain an audio tape from the meeting. I just wanted to share this with you to make you aware before they start.”
 
 Tony Podesta responded by asking what APAC was and Gates wrote back: “You will love this one … the American Polish Advisory Council.”
 

@@ -17,7 +17,7 @@ Rep. Al Green (D-TX), who has long pushed for impeaching the president, told C-S
 
 At approximately the same time, Neal Katyal, an acting solicitor general under former Democrat President Barack Obama, said that Trump could be retried if he wins reelection.
 
-Katyal tweeted: “\[Important\] note on future: If the Senate doesn’t vote to convict Trump, or tries to monkey w his trial, he could of course be retried in the new Senate should he win re-election. Double jeopardy protections do not apply. And Senators voting on impeachment in the next months know this.”
+Katyal tweeted: “[Important] note on future: If the Senate doesn’t vote to convict Trump, or tries to monkey w his trial, he could of course be retried in the new Senate should he win re-election. Double jeopardy protections do not apply. And Senators voting on impeachment in the next months know this.”
 
 The Washington Free Beacon added, “Katyal’s tweets came the same day that he argued in a Washington Post op-ed that House Judiciary Democrats were getting too caught up with procedure and evidence and that Trump should be impeached based only on the transcript of his July phone call with Ukrainian president Volodymyr Zelensky.”
 

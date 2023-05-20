@@ -11,7 +11,7 @@ Once again Internet sleuths unearthed damning evidence that the FBI was engaged 
 
 As we reported previously, according to far left Politico, Comey stated in March of 2017 under oath that the FBI investigation into the Trump – Russia scandal started in July 2016:
 
-> FBI Director James Comey told lawmakers Monday that his agency has been investigating possible coordination between the Trump campaign and Russian officials since last July \[2016\].
+> FBI Director James Comey told lawmakers Monday that his agency has been investigating possible coordination between the Trump campaign and Russian officials since last July [2016].
 > 
 > The newly revealed timeline — which Comey detailed in a much-anticipated House Intelligence Committee hearing — means the FBI probe was occurring during the peak of an alleged Russian campaign to destabilize the presidential race and eventually help elect President Donald Trump.
 

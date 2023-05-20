@@ -21,7 +21,7 @@ Those, of course, are just a sampling. See below for the comprehensive list. And
 
 <figure class="wp-block-table">| \# | Summary | Date | Source | Accuser |
 |---|---|---|---|---|
-| 1 | For potentially ignoring court orders on his travel ban | 02/01/2017 | [MSNBC](https://news.grabien.com/story-rep-castro-floats-impeachment-trump-if-court-orders-exec-ord) | Joaquin \[*sic*\] Castro |
+| 1 | For potentially ignoring court orders on his travel ban | 02/01/2017 | [MSNBC](https://news.grabien.com/story-rep-castro-floats-impeachment-trump-if-court-orders-exec-ord) | Joaquin [*sic*] Castro |
 | 2 | Because “we have to” | 02/06/2017 | [Grabien](https://news.grabien.com/story-maxine-waters-eventually-we-have-impeach-president-trump) | Maxine Waters |
 | 3 | For “creating chaos and division” | 02/06/2017 | [CNN](https://news.grabien.com/story-maxine-waters-doubles-down-impeachment-claims) | Maxine Waters |
 | 4 | For potentially supplying damaging information | 02/20/2017 | [MSNBC](https://grabien.com/story.php?id=90203) | Jerry Nadler |

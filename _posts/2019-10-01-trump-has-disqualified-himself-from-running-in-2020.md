@@ -13,7 +13,7 @@ Impeachment is therefore imperative, not only to protect the integrity of next y
 
 Mike Murphy, a Republican election consultant, recently remarked that “one Republican senator told me if it was a secret vote, 30 Republican senators would vote to impeach Trump.” Everyone understands that Mr. Trump is wildly popular with conservative voters, and that Senate Republicans would rather not invite primary challengers by alienating them. But when the legitimacy and preservation of our democracy are at stake, striving to keep a Senate seat safe through craven betrayal of the American people could come at a catastrophic price to the country.
 
-\[The big debates, distilled. This guide will put in context what people are saying about the pressing issues of the week. Sign up for our new newsletter, Debatable.\]
+[The big debates, distilled. This guide will put in context what people are saying about the pressing issues of the week. Sign up for our new newsletter, Debatable.]
 
 It is now impossible to deny that Mr. Trump pressed Ukraine’s president, Volodymyr Zelensky, to dig up dirt on Joe Biden while holding up congressionally appropriated military assistance intended to help Ukraine stave off Russian aggression. Mr. Trump loudly admitted it, and the summary of his July phone conversation with Mr. Zelensky and the whistle-blower report cast it in the worst possible light. If Mr. Trump’s willing to cop to this, all while promoting an Infowars-level conspiracy theory to justify it, the American public can reasonably suspect that he’s abusing the powers of his office in other ways to fix the election in his favor.
 

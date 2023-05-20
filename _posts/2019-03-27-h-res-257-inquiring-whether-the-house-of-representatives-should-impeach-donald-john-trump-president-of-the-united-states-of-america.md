@@ -5,6 +5,6 @@ layout: post
 
 Introduced by Rep. Rashida Tlaib (D-MI)
 
-This resolution directs the House Committee on the Judiciary to inquire whether or not the House of Representatives should impeach President Donald John Trump \[no specific accusation\].
+This resolution directs the House Committee on the Judiciary to inquire whether or not the House of Representatives should impeach President Donald John Trump [no specific accusation].
 
 Source: www.congress.gov/bill/116th-congress/house-resolution/257

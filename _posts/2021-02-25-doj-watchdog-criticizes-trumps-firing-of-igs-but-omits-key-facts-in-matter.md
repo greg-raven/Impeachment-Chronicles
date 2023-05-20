@@ -27,7 +27,7 @@ Zelensky publicly denied that he was pressured by Trump, stating that “There w
 
 Paul Sperry of Real Clear Investigations alleged that the whistleblower was a then-33-year-old CIA employee named Eric Ciaramella, “a registered Democrat held over from the Obama White House” who had “previously worked with former Vice President Joe Biden and former CIA Director John Brennan, a vocal critic of Trump who helped initiate the Russia “collusion” investigation of the Trump campaign during the 2016 election.”
 
-Ciaramella also allegedly “met with \[House Intelligence Committee Chairman Adam\] Schiff’s Democratic staff for ‘guidance’” prior to filing his complaint, according to Sperry’s article.
+Ciaramella also allegedly “met with [House Intelligence Committee Chairman Adam] Schiff’s Democratic staff for ‘guidance’” prior to filing his complaint, according to Sperry’s article.
 
 Ciaramella reportedly “had no direct knowledge of the phone call” but instead had received leaked details of the call from one of the “American officials who were on the call with the president.” Later reports indicated that it was Alexander Vindman who was the source of the information.
 
@@ -41,7 +41,7 @@ The OLC’s opinion noted that the matter was being addressed through the approp
 
 Rather than accepting the opinion from the OLC, Atkinson sent the complaint to Schiff, who responded with a public letter to Maguire on Sept. 10, 2019, demanding that the complaint be sent to his committee immediately. Schiff also falsely accused Maguire of “withholding from the Committee an authorized and protected whistleblower disclosure.”
 
-In addition to the OLC opinion, there was also an even more fundamental disclosure issue at play. As Maguire stated in his testimony, “many of the allegations in the complaint are based on a conversation between the President and another foreign leader” and as such, were subject to executive privilege. As Maguire noted, “because of \[the Executive Privilege\], we were unable to share the details of the complaint with the committee.”
+In addition to the OLC opinion, there was also an even more fundamental disclosure issue at play. As Maguire stated in his testimony, “many of the allegations in the complaint are based on a conversation between the President and another foreign leader” and as such, were subject to executive privilege. As Maguire noted, “because of [the Executive Privilege], we were unable to share the details of the complaint with the committee.”
 
 Notably, Atkinson admitted in his letter that he “did not request access to records of the President’s July 25, 2019, call with the Ukrainian President.”
 

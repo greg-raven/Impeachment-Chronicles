@@ -9,11 +9,11 @@ Rosenberg mentioned something that “involved CIA and NSA” before saying he b
 
 Rosenberg also criticized his coworkers at *The New York Times* during the second video released by Project Veritas. Similar to his quotes from the first video released by Project Veritas, Rosenberg again criticized his coworkers at *The New York Times,* this time drawing attention to their “terrible” writing skills.
 
-“They’re not the clearest thinkers, some of them \[*NYT* Writers\],” Rosenberg said. “You’d be amazed. There’s some people who just can’t write very well.”
+“They’re not the clearest thinkers, some of them [*NYT* Writers],” Rosenberg said. “You’d be amazed. There’s some people who just can’t write very well.”
 
 The undercover Project Veritas asked Rosenberg which *The New York Times* writers cannot write well, to which he responded, “Like a lot of my colleagues.”
 
-After the reporter asked for specific names, Rosenberg called out *Times* reporter Adam Goldman. “\[Adam\] Goldman. Goldman’s a terrible writer, no, he’s a really good reporter and editors do a lot of the writing for him — he’s a terrible writer,” he said. Rosenberg also said Goldman is “just not good at conceptualizing things” and added that he is “not good with words.”
+After the reporter asked for specific names, Rosenberg called out *Times* reporter Adam Goldman. “[Adam] Goldman. Goldman’s a terrible writer, no, he’s a really good reporter and editors do a lot of the writing for him — he’s a terrible writer,” he said. Rosenberg also said Goldman is “just not good at conceptualizing things” and added that he is “not good with words.”
 
 Rosenberg also touched on the ongoing lawsuit between *The New York Times* and Project Veritas founder James O’Keefe, noting that it was a “fuck up” for *The Times.* “That was a fuck up. We may well lose that one,” Rosenberg said.
 

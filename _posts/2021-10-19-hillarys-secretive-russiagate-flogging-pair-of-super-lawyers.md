@@ -19,6 +19,6 @@ CrowdStrike, reporting to Sussmann, also proved critical to the FBI’s work. Ra
 
 The FBI’s odd relationship with the two Democratic Party contractors gave Sussmann and Elias unprecedented influence over a high-stakes national security scandal that upended U.S. politics and ensnared their political opponents. By hiring CrowdStrike and Fusion GPS, the Perkins Coie lawyers helped define the Trump-Russia narrative and impact the flow of information to the highest reaches of U.S. intelligence agencies.
 
-\[…\]
+[…]
 
 Source: Aaron Maté, [RealClearInvestigations](https://www.realclearinvestigations.com/articles/2021/10/19/coming_into_focus_hillarys_secretive_russiagate-flogging_pair_of_super-lawyers_799168.html)

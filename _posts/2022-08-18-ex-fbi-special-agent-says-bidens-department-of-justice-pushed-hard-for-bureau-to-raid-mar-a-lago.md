@@ -15,7 +15,7 @@ On Thursday, ex-special agent Maureen O’Connell, who specialized in forensics,
 
 ‘But when I look at the totality of the situation here, I really think when we talk about spirited conversations going on for a couple of weeks, and DOJ — it seems to me the DOJ is the heavy in this situation.
 
-‘That they were trying to push the \[FBI\] to do this warrant. They were trying to push the Bureau to really, really hit this situation hard.’
+‘That they were trying to push the [FBI] to do this warrant. They were trying to push the Bureau to really, really hit this situation hard.’
 
 ‘And my guess would be that the Bureau was the one going against the DOJ in this particular situation, because when you consider which entity has more to lose — the FBI clearly has much more to lose from this situation,’ she added.
 

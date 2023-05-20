@@ -11,7 +11,7 @@ Just days after Hillary Clinton emissaries Christopher Steele and Michael Sussma
 
 “Gents good to see you yesterday,” a Fusion GPS executive wrote the reporters. “Sounded like you might be interested in some of the attached russia-related material. these are internal, open source research drafts, as agreed, pls treat this as background/not for attribution. as you’ll see it’s all easily replicated anyway.”
 
-The invitation to further dirty up Donald Trump continued: “Can also send you a \[name\]/Toronto memo once i dig it out. I’m skipping over \[name\] and \[company name\]. believe your guys have done that up … leave it to you to distribute internally, or not, as you see fit. don’t believe sunny isles/hollywood or panama or toronto have been touched by brands xy or z. amazingly, don’t think anyone has done up the trump tower poker ring story either. pretty vivid color there.”
+The invitation to further dirty up Donald Trump continued: “Can also send you a [name]/Toronto memo once i dig it out. I’m skipping over [name] and [company name]. believe your guys have done that up … leave it to you to distribute internally, or not, as you see fit. don’t believe sunny isles/hollywood or panama or toronto have been touched by brands xy or z. amazingly, don’t think anyone has done up the trump tower poker ring story either. pretty vivid color there.”
 
 The missive is one of hundreds of emails that Special Counsel John Durham has obtained between Clinton campaign operatives and journalists that spread “unverified derogatory information” about Donald Trump, spawning the false Russia collusion narrative shortly before Election Day 2016. They’ve now been made public in court filings.
 
@@ -51,7 +51,7 @@ By July, the campaign research team expanded its contacts, including to the Wall
 
 Some of Durham’s newly released information shows how the Clinton campaign pointed reporters to elected officials who would confirm or react to the Russia information.
 
-For instance, the prosecutor noted that a Fusion GPS executive urged a reporter at the Wall Street Journal to “call \[a named U.S. Representative\] or \[a named U.S. Senator\],” stating, “I bet they are concerned about what \[Trump Advisor-1\] was doing other than giving a speech over 3 days in Moscow.”
+For instance, the prosecutor noted that a Fusion GPS executive urged a reporter at the Wall Street Journal to “call [a named U.S. Representative] or [a named U.S. Senator],” stating, “I bet they are concerned about what [Trump Advisor-1] was doing other than giving a speech over 3 days in Moscow.”
 
 Rep. Jim Jordan of Ohio, the ranking Republican on the House Judiciary Committee, told Just the News on Friday that Durham is showing just how closely the media, the Democratic establishment and some rogue elements in U.S intelligence worked together to perpetrate the false Russia story in 2016 — a pattern he said was repeated when the same forces falsely portrayed the Hunter Biden laptop as disinformation in 2020.
 
