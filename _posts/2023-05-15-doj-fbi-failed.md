@@ -1,5 +1,5 @@
 ---
-title: 'Durham finds DOJ, FBI 'failed to uphold' mission of 'strict fidelity to the law' in Trump-Russia probe'
+title: 'Durham finds DOJ, FBI ‘failed to uphold’ mission of ‘strict fidelity to the law’ in Trump-Russia probe'
 layout: post
 author:
 - Brooke Singman
