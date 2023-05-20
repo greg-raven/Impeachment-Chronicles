@@ -1,6 +1,6 @@
 ---
 title: 'Durham Report Verdicts'
-date: ''
+date: '2023-05-15'
 layout: post
 author:
 - Donald Trump
