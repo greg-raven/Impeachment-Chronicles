@@ -39,7 +39,7 @@ For his part, Sussmann told congressional investigators that when he met with Ba
 
 Sussmann wasn’t the only old friend feeding Russia conspiracy stories to James Baker. In the fall of 2016, another Washingtonian with the general counsel’s ear was David Corn, the Washington bureau chief of the left-wing magazine Mother Jones.
 
-“David had part of what is now referred to as the Steele dossier and he talked to me about that and wanted to provide that to the FBI,” Baker told lawmakers. “And so, even though he was my friend, I was also an FBI official. He knew that. And so he wanted to somehow get that into the hands of the FBI.”
+“David had part of what is now referred to as [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) and he talked to me about that and wanted to provide that to the FBI,” Baker told lawmakers. “And so, even though he was my friend, I was also an FBI official. He knew that. And so he wanted to somehow get that into the hands of the FBI.”
 
 How did a Mother Jones reporter/columnist get chosen to drop a dime on Trump with the FBI?
 
@@ -65,7 +65,7 @@ When it came time for Steele to tap Ohr in launching a counterintelligence inves
 
 Not long before the 2016 election, Christopher Steele had a falling out with the FBI, which had discovered he was not honoring the “confidential” part of his agreement to be a confidential human source. But thanks to Steele and Simpson’s relationships with Bruce Ohr, Steele’s ability to influence the FBI was not lost. He began to funnel his spurious tales through Bruce Ohr to the bureau. Lawmakers asked James Baker why the FBI — having shut down Steele as an official source — turned to Bruce Ohr as a way to continue gathering information from Steele. Baker saw Ohr’s friendship with Steele as an asset, not a liability: “Bruce,” Baker said, “had some type of preexisting relationship with the source.”
 
-Jonathan Winer of the State Department: Steele is “a trusted friend of mine.”  
+Jonathan Winer of the State Department: Steele is “a trusted friend of mine.”
 Ohr wasn’t the only official Steele cultivated; he had also become pals with Jonathan Winer sometime around 2000. During the Obama administration, Winer was a top State Department officer. And while at Foggy Bottom, Winer didn’t forget his old friend from London. For years, Winer encouraged colleagues at State to read the research reports produced by Steele’s private intel company, Orbis. Winer distributed well over 100 of Steele’s intel memos to Victoria Nuland’s State Department Eurasia team.
 
 He also promoted Steele himself: “Toria and Paul, Three reports from Orbis,” Winer wrote in a November 2014 email, showing his nickname and first-name basis with “Toria” Nuland and Paul W. Jones, her deputy. He added, “The man behind them and Orbis, Chris Steele (as previously mentioned, former MI6 Russia expert, and a trusted friend of mine) is in DC next couple of days. If you’d like to meet with him, let me know and I can put it together.” Winer promoted Steele’s dossier with no less vigor and enthusiasm, distributing it among his friends at State.

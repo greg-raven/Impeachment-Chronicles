@@ -10,7 +10,7 @@ After the spectacular implosion of their Russia hoax on July 24, in which they s
 In the blink of an eye, we’re asked to simply:
 
 - forget about Democrats on this committee falsely claiming they had “more than circumstantial evidence” of collusion between President Trump and the Russians;
-- forget about them reading fabrications of Trump-Russia collusion from the Steele dossier into the congressional record;
+- forget about them reading fabrications of Trump-Russia collusion from [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) into the congressional record;
 - forget about them trying to obtain nude pictures of Trump from Russian pranksters who pretended to be Ukrainian officials;
 - forget about them leaking a false story to CNN, while he was testifying to our committee, claiming Donald Trump Jr. had colluded with Wikileaks;
 - and forget about countless other deceptions, large and small, that make them the last people on earth with the credibility to hurl more preposterous accusations at their political opponents.
@@ -28,7 +28,7 @@ And most egregiously, the staff of Democrats on this committee had direct discus
 
 I’ve noted before that the Democrats have a long habit of accusing Republicans of offences they themselves are committing. Recall that:
 
-- For years they accused the Trump campaign of colluding with Russia when they themselves were colluding with Russia by funding and spreading the Steele dossier, which relied on Russian sources.
+- For years they accused the Trump campaign of colluding with Russia when they themselves were colluding with Russia by funding and spreading [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), which relied on Russian sources.
 - And now they accuse President Trump of malfeasance in Ukraine when they themselves are culpable. The Democrats cooperated in Ukrainian election meddling, and they defend Hunter Biden’s securing of a lavishly paid position with a corrupt Ukrainian company, all while his father served as vice president.
 
 Despite this hypocrisy, the Democrats are advancing their impeachment sham. But we should not hold any hearings at all until we get answers to three crucial questions the Democrats are determined to avoid asking:

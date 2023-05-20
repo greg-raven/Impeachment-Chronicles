@@ -149,7 +149,7 @@ Biden nominated the longtime Clinton operative to head the Securities and Exchan
 
 Notably, the SEC press release announcing his appointment and detailing his personal biography omitted his prior role as chief financial officer for Hillary Clinton’s 2016 election team, where he managed the campaign budget, including expenditures that weren’t properly reported.
 
-In March of this year, the Federal Election Commission fined both the Clinton campaign and the Democratic National Committee for violating campaign finance laws by falsely claiming that more than $1 million used for the Steele dossier and other opposition research against candidate Trump was for “legal advice and services.”
+In March of this year, the Federal Election Commission fined both the Clinton campaign and the Democratic National Committee for violating campaign finance laws by falsely claiming that more than $1 million used for [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) and other opposition research against candidate Trump was for “legal advice and services.”
 
 Durham has sought these and other financial records as part of his investigation and has interviewed several former Clinton campaign officials including Mook, who handled opposition-researching spending and other budget matters and consulted with Gensler’s office during the campaign.
 

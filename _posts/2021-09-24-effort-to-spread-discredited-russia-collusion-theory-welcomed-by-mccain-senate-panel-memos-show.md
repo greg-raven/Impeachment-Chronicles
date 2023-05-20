@@ -36,7 +36,7 @@ Taylor, representing Jones, declined comment Thursday evening.
 
 The revelation that a committee led by the Republican McCain and Democratic Sen. Jack Reed of Rhode Island engaged a nonprofit with significant partisan ties is certain to reverberate in Washington and further the GOP narrative that the Russia collusion allegations were more a political dirty trick than a legitimate counterintelligence concern. Mueller concluded there was no evidence Trump and Russia colluded to hijack the 2016 election.
 
-Before his death in 2018, McCain was an ardent opponent of Trump, his own party’s president, and famously gave a copy of the Steele dossier to the FBI in late 2016, an act the 45th president long has condemned as a betrayal.
+Before his death in 2018, McCain was an ardent opponent of Trump, his own party’s president, and famously gave a copy of [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) to the FBI in late 2016, an act the 45th president long has condemned as a betrayal.
 
 Republicans on the Senate Armed Services Committee on Thursday deferred questions to the panel’s Democratic press secretary, Cole Stevens, who did not respond to a call seeking comment Thursday. Reed took over as committee chairman earlier this year.
 

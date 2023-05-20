@@ -35,7 +35,7 @@ Adding to the deception, Comey referred to the unnamed informant by the codename
 
 Meanwhile, FBI headquarters officials were duping the Foreign Intelligence Surveillance Act (FISA) court in similar fashion in order to continue to obtain warrants to spy on Carter Page. They led judges on the secret surveillance court to believe Danchenko was “Russian-based” – and therefore presumably more credible.
 
-The official in charge of vetting the Steele dossier at the time – and interviewing him and his primary source Danchenko to corroborate their allegations – was FBI Supervisory Intelligence Analyst Brian Auten. By March 2017, Auten knew the “Russian-based” claim was untrue, and yet he let case agents slip it into two FISA renewal requests targeting Page.
+The official in charge of vetting [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) at the time – and interviewing him and his primary source Danchenko to corroborate their allegations – was FBI Supervisory Intelligence Analyst Brian Auten. By March 2017, Auten knew the “Russian-based” claim was untrue, and yet he let case agents slip it into two FISA renewal requests targeting Page.
 
 Auten seemed to become concerned about the falsehood only when the Senate Judiciary Committee asked to see the Page spy warrants. He then reviewed the FISA applications in advance of Comey briefing the panel on March 15 and raised concerns with then-FBI attorney Kevin Clinesmith, who was assisting with redactions to the documents before sharing them with Congress. Auten wondered in text messages whether a correction should be reported to the court. But no amendment was ever made.
 

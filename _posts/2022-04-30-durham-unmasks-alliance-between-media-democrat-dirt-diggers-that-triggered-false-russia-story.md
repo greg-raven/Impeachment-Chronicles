@@ -43,7 +43,7 @@ Durham said the flooding of the news media was so egregious that it obliterated 
 
 The most recent Durham filing lays out several contacts Fusion GPS and the Clinton team had with news media, including The New York Times, ABC News and Slate magazine.
 
-The first media contact noted by Durham dates to May 2016, well before the Steele dossier was crafted or the FBI contacted.
+The first media contact noted by Durham dates to May 2016, well before [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was crafted or the FBI contacted.
 
 “On May 14, 2016, a Fusion GPS employee emailed a Slate reporter who would publish an article about the Russian Bank-1 allegations several months later,” the court fling noted. “In the exchange and subsequent emails, the employee shared portions of research that Fusion GPS was conducting regarding a Trump advisor.”
 

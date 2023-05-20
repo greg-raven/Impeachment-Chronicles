@@ -33,7 +33,7 @@ As eager as journalists may have been to make Trump appear to be a Kremlin opera
 
 “Everyone wants shit on this,” insisted Fusion co-founder Peter Fritsch, a former Journal reporter himself, in an attempt to coax his old colleague Solomon into covering the story.
 
-Fritsch then outlined the rumors Fusion had just received from Christopher Steele, a former British intelligence officer his firm had hired to help tie Trump to Russia as part of its contract with the Clinton campaign. Those rumors, contained in a series of memos known as the Steele dossier, were shared with the FBI, including “Intelligence Report 94” dated July 19, 2016. It claimed that during a July 2016 trip to Moscow, Page attended a “secret meeting” with Putin crony Igor Sechin to discuss lifting Ukraine-related sanctions against Russia. The dossier also alleged that Page met with Kremlin official Igor Divyekin to share compromising information about Clinton with the Trump campaign.
+Fritsch then outlined the rumors Fusion had just received from Christopher Steele, a former British intelligence officer his firm had hired to help tie Trump to Russia as part of its contract with the Clinton campaign. Those rumors, contained in a series of memos known as [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), were shared with the FBI, including “Intelligence Report 94” dated July 19, 2016. It claimed that during a July 2016 trip to Moscow, Page attended a “secret meeting” with Putin crony Igor Sechin to discuss lifting Ukraine-related sanctions against Russia. The dossier also alleged that Page met with Kremlin official Igor Divyekin to share compromising information about Clinton with the Trump campaign.
 
 **An ‘Easy Scoop,’ Said GPS**
 
@@ -53,7 +53,7 @@ Three days later, Fusion’s attempts to plant their rumor in influential media 
 
 As Fusion was pushing the rumors to reporters that July, its subcontractor Steele was pushing them to FBI agents, who received copies of his dossier earlier in the month. Steele also briefed a top Justice Department official, Bruce Ohr, on the Carter Page rumors on July 30 during a breakfast at the Mayflower Hotel in D.C., and asked Ohr to relay them to FBI brass. The next day, the FBI officially opened its Crossfire Hurricane investigation targeting Trump advisers – though the bureau says this decision was based on a tip it had received from an Australian diplomat.
 
-For his part, Hamburger still pursued the story, asking for documents on Page later that month; and Fusion recycled the false rumor in an internal report, separate from the Steele dossier, which it emailed to Hamburger and another Post reporter in September.
+For his part, Hamburger still pursued the story, asking for documents on Page later that month; and Fusion recycled the false rumor in an internal report, separate from [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), which it emailed to Hamburger and another Post reporter in September.
 
 The report, which Fritsch claimed that “one of our \[research\] associates wrote,” went beyond even the dossier. It asserted that Page’s July 8 speech at the New Economic School in Moscow (where President Obama had also once spoken) was “concocted to give Page a public explanation for his trip to Moscow, which sources say included secret meetings with top Kremlin officials, where the American presidential campaign and U.S. sanctions against Russia were both discussed.”
 

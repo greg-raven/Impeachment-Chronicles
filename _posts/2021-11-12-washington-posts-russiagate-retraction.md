@@ -25,3 +25,7 @@ author:
 > <cite>Glenn Greenwald via Twitter</cite>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I think they&#39;ll just quietly add notes like this and then move on. The advantage they have is that they&#39;re all guilty outside of right-wing media, so they all have a common interest in memory-holing it as soon as possible, and they will.</p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1459250962674196480?ref_src=twsrc%5Etfw">November 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+**Note:** See [The Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) here.

@@ -21,7 +21,7 @@ According to the Durham report, top FBI, DOJ, and CIA officials, as well as Pres
 
 CIA Director John Brennan briefed President Obama, Biden, FBI Director James Comey, and Attorney General Loretta Lynch on this intelligence on Aug. 3, 2016, a few days after Clinton’s campaign developed the plan. The CIA reportedly got this info about Clinton’s smear plan from its surveillance of Russian intelligence.
 
-This means that, in the summer of 2016, the FBI and DOJ, and the head of the Democrat Party, knew that the Steele dossier, Alfa Bank allegations, and other claims of Donald Trump being a traitorous Russian stooge “were part of a political effort to smear a political opponent and to use the resources of the federal government’s law enforcement and intelligence agencies in support of a political objective.”
+This means that, in the summer of 2016, the FBI and DOJ, and the head of the Democrat Party, knew that [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), Alfa Bank allegations, and other claims of Donald Trump being a traitorous Russian stooge “were part of a political effort to smear a political opponent and to use the resources of the federal government’s law enforcement and intelligence agencies in support of a political objective.”
 
 This should have gotten the FBI to question its Crossfire Hurricane operation, Durham’s report says. Instead, however, the FBI raced ahead, with FBI headquarters demanding faster pursuit of Trump under what they knew were false pretenses.
 
@@ -69,7 +69,7 @@ Besides the disparate treatment outlined above and many other such instances, Du
 
 ## 5. Refusing Interviews With the Special Counsel
 
-Key FBI figures refused interviews with Durham’s team, including Comey, Strzok, the Clinton campaign’s Marc Elias, McCabe, Page, and Glenn Simpson of the opposition research firm that cooked up the Steele dossier for Clinton’s campaign.
+Key FBI figures refused interviews with Durham’s team, including Comey, Strzok, the Clinton campaign’s Marc Elias, McCabe, Page, and Glenn Simpson of the opposition research firm that cooked up [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) for Clinton’s campaign.
 
 Add that to the many instances of “former” FBI and CIA figures being employed in social media companies to assist with government censorship demands, and going on TV to fuel the Russiagate hoax and other lies to Americans about crucial public issues. It adds up to yet another indication of an intelligence state using its vast — and unconstitutional — powers on behalf of the Democrat Party.
 

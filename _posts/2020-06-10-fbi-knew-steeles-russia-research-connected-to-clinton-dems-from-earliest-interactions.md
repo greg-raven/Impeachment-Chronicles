@@ -21,7 +21,7 @@ While the headlines since that report have mostly focused on FISA abuses, Senate
 
 It wasn’t until late October 2017 that the public and Congress first learned that the law firm Perkins Coie, on behalf of the Democratic National Committee and Hillary Clinton’s campaign, hired Glenn Simpson’s Fusion GPS research firm to have Steele delve into Trump’s Russia connections.
 
-And FBI officials have been vague in their explanations about when they knew Steele’s research was tied to Clinton and the DNC and why they did not explicitly inform the FISA court that the Steele dossier used to secure the warrant was funded by Trump’s election opponent.
+And FBI officials have been vague in their explanations about when they knew Steele’s research was tied to Clinton and the DNC and why they did not explicitly inform the FISA court that [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) used to secure the warrant was funded by Trump’s election opponent.
 
 But one passage and two footnotes in Horowitz’s report that have largely escaped public attention suggest the FBI agent who first interviewed Steele about his anti-Trump research in London on July 5, 2016, was aware immediately of a connection to Clinton and that a separate office of the FBI passed along information from an informant by Aug. 2, 2016, that Simpson’s Fusion GPS was connected to the DNC.
 

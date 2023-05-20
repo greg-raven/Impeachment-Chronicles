@@ -117,7 +117,7 @@ A former Ukrainian investigative journalist and current parliamentarian named Se
 
 Manafort denied receiving any off-books cash from Yanukovych’s Party of Regions, and said that he had never been contacted about the ledger by Ukrainian or American investigators, later telling POLITICO “I was just caught in the crossfire.”
 
-According to a series of memos reportedly compiled for Trump’s opponents by a former British intelligence agent, Yanukovych, in a secret meeting with Putin on the day after the Times published its report, admitted that he had authorized “substantial kickback payments to Manafort.” But according to [the report](/2016/06/20/the-steele-dossier.html), which was published Tuesday by BuzzFeed but remains unverified. Yanukovych assured Putin “that there was no documentary trail left behind which could provide clear evidence of this” — an alleged statement that seemed to implicitly question the authenticity of the ledger.
+According to a series of memos reportedly compiled for Trump’s opponents by a former British intelligence agent, Yanukovych, in a secret meeting with Putin on the day after the Times published its report, admitted that he had authorized “substantial kickback payments to Manafort.” But according to [the report]({% post_url 2016-06-20-the-steele-dossier %}), which was published Tuesday by BuzzFeed but remains unverified. Yanukovych assured Putin “that there was no documentary trail left behind which could provide clear evidence of this” — an alleged statement that seemed to implicitly question the authenticity of the ledger.
 
 The scrutiny around the ledgers — combined with that from other stories about his Ukraine work — proved too much, and he stepped down from the Trump campaign less than a week after the Times story.
 
@@ -181,7 +181,7 @@ Shulyar rejected the characterizations that the embassy had a ban on interacting
 
 And she pointed out that Chaly traveled to the GOP convention in Cleveland in late July and met with members of Trump’s foreign policy team “to highlight the importance of Ukraine and the support of it by the U.S.”
 
-20170111\_Valeriy\_Chaly\_Getty.jpg  
+20170111\_Valeriy\_Chaly\_Getty.jpg
 Ukraine’s ambassador to the U.S. Valeriy Chaly publically critcized Donald Trump during the 2016 elections. | Getty
 
 Despite the outreach, Trump’s campaign in Cleveland gutted a proposed amendment to the Republican Party platform that called for the U.S. to provide “lethal defensive weapons” for Ukraine to defend itself against Russian incursion, backers of the measure charged.

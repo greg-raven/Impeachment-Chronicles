@@ -5,7 +5,7 @@ author:
 - John Solomon
 ---
 
-- Flynn collusion ruled out, [Steele dossier](/2016/06/20/the-steele-dossier.html) debunked in January 2017, more than two years before Mueller announced it.
+- Flynn collusion ruled out, [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) debunked in January 2017, more than two years before Mueller announced it.
 
 The piecemeal release of FBI files in the Russia collusion investigation has masked an essential fact: James Comey’s G-men had substantially debunked the theory that Donald Trump’s campaign conspired with Moscow by the time the 45th president was settling into the Oval Office, according to declassified memos, court filings and interviews.
 

@@ -37,7 +37,7 @@ Similarly, Page steadfastly denied he knew anything about the Trump campaign wor
 
 “You know I’ve made clear in a lot of, you know, subsequent discussions interviews that I’ve been part of … I know nothing about that on a personal level,” Page stated. “You know no one’s ever said one word to me.”
 
-But perhaps most significant is Page’s flat denial that he never met in July 2016 in Russia with two key sanctioned officials — oil executive Igor Sechin and Russian Federation official Igor Diveykin. Page’s contact with the two men was alleged in both the Steele dossier and the FBI’s FISA warrant application dated Oct. 21, 2016, just four days after Halper’s interactions.
+But perhaps most significant is Page’s flat denial that he never met in July 2016 in Russia with two key sanctioned officials — oil executive Igor Sechin and Russian Federation official Igor Diveykin. Page’s contact with the two men was alleged in both [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) and the FBI’s FISA warrant application dated Oct. 21, 2016, just four days after Halper’s interactions.
 
 [Carter Page FISA.pdf](https://justthenews.com/sites/default/files/2020-12/CarterPageFISA.pdf)
 
@@ -57,7 +57,7 @@ It has been known since December 2019 that Halper recorded conversations with Pa
 
 But the exact details of Halper’s conversations with Page have remained shrouded from public view until well after the Nov. 3, 2020 election, much to the consternation of conservatives and Republicans who wanted to make more of the Russia collusion false narrative during last year’s election.
 
-Contacted Monday night about the newly declassified transcripts, Page said he believed they exonerated him and that it was unfortunate that the memos were kept hidden for four years after the Steele dossier was leaked and impugned his name unfairly as a traitor.
+Contacted Monday night about the newly declassified transcripts, Page said he believed they exonerated him and that it was unfortunate that the memos were kept hidden for four years after [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was leaked and impugned his name unfairly as a traitor.
 
 “It is truly extraordinary that over four years since the worldwide release of the deadly dodgy dossier smear document in early January 2017 we still continued to learn more about the full extent of this historic disinformation campaign,” he told Just the News. “Yet nonetheless, this latest declassification stands among the most shocking revelations yet.”
 

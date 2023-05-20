@@ -15,7 +15,7 @@ The FBI had previously targeted Danchenko, Christopher Steele’s primary source
 
 **Trial for Lying to the FBI to Take Down a President**
 
-Danchenko faces trial next month on five counts of lying to the FBI related to his role as Steele’s primary sub-source. One count of the indictment concerned Danchenko’s denial during an FBI interview on June 15, 2017, of having spoken with “PR Executive-1” about any material contained in the Steele dossier. “PR Executive-1” has since been identified as the Clinton and Democratic National Committee-connected Charles Dolan, Jr. Also according to the special counsel’s office, Danchenko fed Steele at least two false claims about Trump that originated in part from Dolan.
+Danchenko faces trial next month on five counts of lying to the FBI related to his role as Steele’s primary sub-source. One count of the indictment concerned Danchenko’s denial during an FBI interview on June 15, 2017, of having spoken with “PR Executive-1” about any material contained in [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}). “PR Executive-1” has since been identified as the Clinton and Democratic National Committee-connected Charles Dolan, Jr. Also according to the special counsel’s office, Danchenko fed Steele at least two false claims about Trump that originated in part from Dolan.
 
 The four other counts of the indictment concerned Danchenko’s allegedly false claims that he had spoken with a source whom he believed was the then-president of the Russian-American Chamber of Commerce, Sergei Millian. Danchenko repeated that assertion during several different FBI interviews.
 
@@ -53,7 +53,7 @@ Simply put: Our federal government paid for Russian disinformation to frame the 
 
 The FBI did this knowing that Danchenko “was associate of two FBI counterintelligence subjects”; “had previous contact with the Russian Embassy and known Russian intelligence officers”; “had also informed one Russian intelligence officer that he had interest in entering the Russian diplomatic service”; and, according to a think-tank employee, suggested he had contacts willing to purchase classified information.
 
-Also, the FBI and Special Counsel Robert Mueller’s team continued to use Danchenko as a paid CHS even knowing his stories were fabrications. In fact, Mueller’s team was so focused on getting Trump, it completely ignored whether the Steele dossier included Russian disinformation.
+Also, the FBI and Special Counsel Robert Mueller’s team continued to use Danchenko as a paid CHS even knowing his stories were fabrications. In fact, Mueller’s team was so focused on getting Trump, it completely ignored whether [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) included Russian disinformation.
 
 **Hillary Paid for Russian Disinformation, Too**
 
@@ -61,7 +61,7 @@ Not only did the FBI pay for Russian disinformation, so did Clinton, and she did
 
 That trial also revealed that Clinton personally approved pushing a smaller aspect of the Russia-collusion hoax, namely the Alfa-Bank secret communications hoax.
 
-From yesterday’s filing we now know the primary sub-source for the Steele dossier paid for by Clinton was not merely a Russian national who fabricated the “intel,” but also a suspected Russian agent. Tuesday’s motion also highlighted the fact that longtime Clinton backer “Dolan maintained a relationship with several high-ranking Russian government officials who appear in the Steele Reports.”
+From yesterday’s filing we now know the primary sub-source for [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) paid for by Clinton was not merely a Russian national who fabricated the “intel,” but also a suspected Russian agent. Tuesday’s motion also highlighted the fact that longtime Clinton backer “Dolan maintained a relationship with several high-ranking Russian government officials who appear in the Steele Reports.”
 
 So, for all her vapors over Trump’s connections with Russia and his supposed collusion with Russia to interfere in the election, the evidence shows Clinton holds that dishonor.
 
@@ -81,7 +81,7 @@ For example, as the motion highlights, Danchenko claimed to agents that Millian 
 
 “Put bluntly,” the special counsel wrote, “these facts demonstrate that the defendant could not keep his lies straight, and that the defendant engaged in a concerted effort to deceive the FBI about the sourcing (or lack thereof) of the Steele Reports.” Unless they were corrupt, this indicates the FBI agents investigating Trump were a bunch of incompetent boobs.
 
-The special counsel’s team further exposed the incompetence (or corruption) of the FBI when it introduced the public to Bemd Kuhlen, a German citizen who served as the general manager of the Ritz-Carlton Moscow in June 2016, when the pee-tape tale was purportedly sourced. The Steele dossier described the source as “a senior (western) member of staff at the hotel.”
+The special counsel’s team further exposed the incompetence (or corruption) of the FBI when it introduced the public to Bemd Kuhlen, a German citizen who served as the general manager of the Ritz-Carlton Moscow in June 2016, when the pee-tape tale was purportedly sourced. [The Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) described the source as “a senior (western) member of staff at the hotel.”
 
 According to Durham, Kuhlen is prepared to testify at Danchenko’s trial that at the time he was the only “western” member of management at the hotel. Kuhlen will also testify that he never heard any story resembling Steele’s reporting until it became public and never discussed those claims with Danchenko.
 
