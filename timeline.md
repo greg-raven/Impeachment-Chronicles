@@ -108,7 +108,7 @@ layout: page
 		</tr>
 		<tr>
 			<td>December 9, 2019</td>
-			<td>The [Horowitz report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) is released, detailing the DOJ/FBI/Mueller FISA abuse.</td>
+			<td>The [Horowitz report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}) is released, detailing the DOJ/FBI/Mueller FISA abuse.</td>
 		</tr>
 		<tr>
 			<td>December 18, 2019 </td>

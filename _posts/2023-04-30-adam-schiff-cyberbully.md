@@ -19,7 +19,7 @@ Schiff knew better. He knew that “QAnon” was a trigger for Twitter censors, 
 
 Schiff knows something about promoting false conspiracies. In 2017, he took to the microphone in a televised House Intelligence Committee hearing and read into the congressional record a screed of wild conspiracy theories about Trump and Russia from the Hillary Clinton campaign-funded dossier.
 
-He trumpeted them as if they were fact. But they were false — every one of them — as Special Counsel John Durham has proved in court documents, expanding on what Justice Department watchdog Michael Horowitz found in his earlier [report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}).
+He trumpeted them as if they were fact. But they were false — every one of them — as Special Counsel John Durham has proved in court documents, expanding on what Justice Department watchdog Michael Horowitz found in his earlier [report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}).
 
 We now know that most of the preposterous rumors that Schiff dramatically read into the public record came from a source who was invented by the dossier’s authors. In his hyping of the dossier, Schiff smeared and defamed not only Trump but also Carter Page, a low-level Trump campaign adviser, whom Schiff falsely painted as a Russian agent.
 

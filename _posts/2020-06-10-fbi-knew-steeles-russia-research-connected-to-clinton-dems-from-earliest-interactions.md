@@ -15,7 +15,7 @@ The information, so far mentioned only glancingly and in footnotes of a Justice 
 
 Chairman Lindsay Graham (R-S.C.) is seeking a vote later this week to authorize subpoenas that would compel the Christopher Wray-led FBI to produce witnesses and outstanding documents for the committee’s investigation of the Russia investigators.
 
-The effort to acquire the original source materials began last December after DOJ Inspector General Michael Horowitz released [his explosive report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) blaming the FBI for 17 mistakes, omissions, and acts of misconduct in seeking a FISA warrant against Trump campaign adviser Carter Page.
+The effort to acquire the original source materials began last December after DOJ Inspector General Michael Horowitz released [his explosive report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}) blaming the FBI for 17 mistakes, omissions, and acts of misconduct in seeking a FISA warrant against Trump campaign adviser Carter Page.
 
 While the headlines since that report have mostly focused on FISA abuses, Senate investigators have also zeroed in on a handful of little-noticed passages in Horowitz’s narrative that reference original FBI source documents showing what agents and supervisors knew about Steele, the former MI6 agent, and the firm that hired him, Fusion GPS.
 
@@ -23,9 +23,9 @@ It wasn’t until late October 2017 that the public and Congress first learned t
 
 And FBI officials have been vague in their explanations about when they knew Steele’s research was tied to Clinton and the DNC and why they did not explicitly inform the FISA court that [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) used to secure the warrant was funded by Trump’s election opponent.
 
-But one passage and two footnotes in [Horowitz’s report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) that have largely escaped public attention suggest the FBI agent who first interviewed Steele about his anti-Trump research in London on July 5, 2016, was aware immediately of a connection to Clinton and that a separate office of the FBI passed along information from an informant by Aug. 2, 2016, that Simpson’s Fusion GPS was connected to the DNC.
+But one passage and two footnotes in [Horowitz’s report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}) that have largely escaped public attention suggest the FBI agent who first interviewed Steele about his anti-Trump research in London on July 5, 2016, was aware immediately of a connection to Clinton and that a separate office of the FBI passed along information from an informant by Aug. 2, 2016, that Simpson’s Fusion GPS was connected to the DNC.
 
-For instance, the agent in London contacted an Assistant Special Agent in Charge (ASAC) in the New York field office (NYFO) shortly after interviewing Steele and obtaining one of the anti-Trump memos that made up his dossier, according to information in [Horowitz’s  report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}).
+For instance, the agent in London contacted an Assistant Special Agent in Charge (ASAC) in the New York field office (NYFO) shortly after interviewing Steele and obtaining one of the anti-Trump memos that made up his dossier, according to information in [Horowitz’s  report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}).
 
 The agent sought advice on July 13, 2016, on how to handle the sensitive election-year allegations from the supervisor in New York, where the FBI had already opened a probe of Page that would eventually be assumed by Washington headquarters.
 
