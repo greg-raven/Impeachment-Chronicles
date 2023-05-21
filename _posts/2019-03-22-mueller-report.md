@@ -8,7 +8,9 @@ author:
 
 > […] investigation did not establish that members of the Trump Campaign conspired or coordinated with the Russian government in its election interference activities.
 
-<iframe src="https://cdn.cnn.com/cnn/2019/images/04/18/mueller-report-searchable.pdf" class="pdf"></iframe>
+<iframe src="https://www.justice.gov/storage/report_volume1.pdf" class="pdf"></iframe>
+
+<iframe src="https://www.justice.gov/storage/report_volume2.pdf" class="pdf"></iframe>
 
 Source: U.S. Department of Justice, [Volume I](https://www.justice.gov/storage/report_volume1.pdf), [Volume II](https://www.justice.gov/storage/report_volume2.pdf)
 
