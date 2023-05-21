@@ -7,7 +7,7 @@ Former Housing and Urban Development Secretary Julián Castro (D) on Monday beca
 
 In a radio interview, Castro said that he thinks actions to impeach the president would be “perfectly reasonable” following the release of special counsel Robert Mueller’s report.
 
-“What’s clear from the Mueller Report is that Bob Mueller and his team left the decision about whether to move forward on this obstruction of justice issue with Congress,” Castro told SiriusXM host Michelangelo Signorile.
+“What’s clear from the [Mueller Report]({% post_url 2019-03-22-mueller-report %}) is that Bob Mueller and his team left the decision about whether to move forward on this obstruction of justice issue with Congress,” Castro told SiriusXM host Michelangelo Signorile.
 
 “So, what I said the other day is that I was asked, ‘Well, do you think that it, that they should move forward with an impeachment proceeding?’ And I think, yeah, that it would be perfectly reasonable for Congress to do that, that they should do that.”
 

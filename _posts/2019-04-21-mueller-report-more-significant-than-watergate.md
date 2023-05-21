@@ -10,7 +10,7 @@ House Intelligence Committee Chairman Adam Schiff said on Sunday the findings in
 
 Schiff, D-Calif., was pressed by "This Week" host Martha Raddatz to answer for his past assertions that there was “ample and abundant” evidence of collusion between President Trump and Russia. She pointed out that Schiff said on the show previously the alleged scandal was “of a size and scope probably beyond Watergate.”
 
-“I think it’s clear from the Mueller report that that’s exactly right. The obstruction of justice in particular in this case is far worse than anything that Richard Nixon did,” Schiff said.
+“I think it’s clear from the [Mueller report]({% post_url 2019-03-22-mueller-report %}) that that’s exactly right. The obstruction of justice in particular in this case is far worse than anything that Richard Nixon did,” Schiff said.
 
 Schiff compared the report, which found Trump's campaign did not conspire with Russia, to the 1972 break-in at the Democratic National Committee's headquarters at the Watergate building in Washington, D.C.
 

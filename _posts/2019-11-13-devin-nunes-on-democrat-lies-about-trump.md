@@ -3,7 +3,7 @@ title: 'Devin Nunes: Opening Statement for Kent and Taylor Hearing on Impeachmen
 layout: post
 ---
 
-In a July open hearing of this committee following publication of the Mueller report, the Democrats engaged in a last-ditch effort to convince the American people that President Trump is a Russian agent. That hearing was the pitiful finale of a three-year-long operation by the Democrats, the corrupt media, and partisan bureaucrats to overturn the results of the 2016 presidential election.
+In a July open hearing of this committee following publication of the [Mueller report]({% post_url 2019-03-22-mueller-report %}), the Democrats engaged in a last-ditch effort to convince the American people that President Trump is a Russian agent. That hearing was the pitiful finale of a three-year-long operation by the Democrats, the corrupt media, and partisan bureaucrats to overturn the results of the 2016 presidential election.
 
 After the spectacular implosion of their Russia hoax on July 24, in which they spent years denouncing any Republican who ever shook hands with a Russian, on July 25 they turned on a dime and now claim the real malfeasance is Republicans’ dealings with Ukraine.
 

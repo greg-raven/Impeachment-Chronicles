@@ -33,7 +33,7 @@ Mr. Schiff’s allegations, which remain under investigation:
 
 **• Money laundering.** Mr. Schiff said: “During the prior Congress, the Committee began to pursue credible reports of money laundering and financial compromise related to the business interests of President Trump, his family, and his associates. The President’s actions and posture towards Russia during the campaign, transition, and administration have only heightened fears of foreign financial or other leverage over President Trump and underscore the need to determine whether he or those in his Administration have acted in service of foreign interests since taking office.”
 
-The Mueller report didn’t mention any financial ties between Mr. Trump and the Kremlin. Mr. Trump’s former attorney, Michael Cohen, told the committee he knew of no Russia money flowing into the Trump Organization, the president’s real estate development firm.
+The [Mueller report]({% post_url 2019-03-22-mueller-report %}) didn’t mention any financial ties between Mr. Trump and the Kremlin. Mr. Trump’s former attorney, Michael Cohen, told the committee he knew of no Russia money flowing into the Trump Organization, the president’s real estate development firm.
 
 **• Russia conspiracy.** Mr. Schiff said: “The extent of any links and/or coordination between the Russian government, or related foreign actors, and individuals associated with Donald Trump’s campaign, transition, administration, or business interests, in furtherance of the Russian government’s interests.”
 
@@ -45,7 +45,7 @@ In the year since Mr. Schiff released this road map, there have been no leaks to
 
 Mr. Schiff’s spokesman didn’t respond to message seeking comment.
 
-None of these allegations surfaced in the Mueller report nor during the Schiff-led impeachment drive.
+None of these allegations surfaced in the [Mueller report]({% post_url 2019-03-22-mueller-report %}) nor during the Schiff-led impeachment drive.
 
 **‘Nothing stopping them’**
 

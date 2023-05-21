@@ -3,7 +3,7 @@ title: 'Lid comes off! Now Dems can see redacted secrets in Mueller report'
 layout: post
 ---
 
-A three-judge appeals court panel has ruled that House Democrats can obtain grand-jury material that was redacted in Robert Mueller’s special counsel report.
+A three-judge appeals court panel has ruled that House Democrats can obtain grand-jury material that was redacted in [Robert Mueller’s special counsel report]({% post_url 2019-03-22-mueller-report %}).
 
 Mueller spent an estimated $45 million over more than two years to investigate Democrats’ claims that the Trump campaign in 2016 colluded with Russia. The former FBI director found he could make no case for collusion. The Democrats’ claims were fueled in part by the use of a bogus, anti-Trump “dossier” funded by Hillary Clinton’s campaign to obtain permission to spy on the Trump campaign.
 

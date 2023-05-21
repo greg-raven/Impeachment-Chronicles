@@ -23,7 +23,7 @@ Back then Democrats were hoping for collusion to be true so they could justify i
 
 On several occasions, Adam Schiff declared there was “ample evidence” of collusion between the Trump campaign and Russia and that he had seen it. “There is already, in my view, ample evidence in the public domain on the issue of collusion if you’re willing to see it,” Schiff said back in February 2018. “If you want to blind yourself, then you can look the other way.”
 
-Of course, we all know that the Mueller report found no evidence of collusion, so Schiff was lying every time he claimed to have seen evidence of collusion. Schiff’s goal of impeaching Trump would have to wait for another lie.
+Of course, we all know that the [Mueller report]({% post_url 2019-03-22-mueller-report %}) found no evidence of collusion, so Schiff was lying every time he claimed to have seen evidence of collusion. Schiff’s goal of impeaching Trump would have to wait for another lie.
 
 **5. Denying FISA abuse even though he knew it happened**
 

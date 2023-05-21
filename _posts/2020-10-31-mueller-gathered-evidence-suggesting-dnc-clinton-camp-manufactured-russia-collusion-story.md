@@ -11,7 +11,7 @@ Special Counsel Robert Mueller’s office gathered evidence suggesting that Hill
 
 The evidence, reviewed by Just the News, includes information obtained by State Department officials from a trusted Ukrainian source, a private investigator’s report, and an email exchange suggesting Tony Podesta — a Manafort business associate and brother of Clinton campaign chairman John Podesta — tried at one point to slow down the opposition research project.
 
-The evidence — which is additional to records showing the law firm for the Clinton campaign and the DNC funded the infamous “Steele dossier” given to the FBI — was never mentioned in last year’s vast, two-volume Mueller Report, which concluded that no Americans colluded with Russia to influence the 2016 election.
+The evidence — which is additional to records showing the law firm for the Clinton campaign and the DNC funded the infamous “Steele dossier” given to the FBI — was never mentioned in last year’s vast, two-volume [Mueller Report]({% post_url 2019-03-22-mueller-report %}), which concluded that no Americans colluded with Russia to influence the 2016 election.
 
 The newly surfaced evidence bolsters separate intelligence reporting that Director of National Intelligence John Ratcliffe made public recently showing the Obama CIA also believed Clinton’s campaign had launched a political dirty trick to “vilify” Trump on Russia in an effort to distract from her own controversies.
 
@@ -19,7 +19,7 @@ The newly surfaced evidence bolsters separate intelligence reporting that Direct
 
 The person spoke only on condition of anonymity because the person did not have permission to speak to the news media.
 
-Asked why the Mueller report did not mention the Clinton campaign tactics, the source answered: “Our job was to report on and prosecute crimes, not write an essay on how political opposition research was conducted by the two parties.”
+Asked why the [Mueller report]({% post_url 2019-03-22-mueller-report %}) did not mention the Clinton campaign tactics, the source answered: “Our job was to report on and prosecute crimes, not write an essay on how political opposition research was conducted by the two parties.”
 
 Unredacted emails and other documents gathered by Mueller’s team suggest the earliest hint of the Democrats’ Russia collusion smear campaign emerged in a May 2016 email exchange between Democratic super-lobbyist Tony Podesta and Manafort’s lead business manager in Ukraine, Rick Gates, who also worked as a deputy campaign manager for the Trump campaign. The thread appeared under the subject line: “DNC and Paul Manafort.”
 

@@ -19,7 +19,7 @@ And that investigation of Flynn should never have been opened in the first place
 
 We also now know that the Dec 29 Flynn-Kislyak call changed nothing with regards to any Collusion. And the FBI never opened a Logan Act criminal probe (which would also have been ridiculous)
 
-And in the Mueller report, the SCO itself admits Flynn merely asked Russia not to “escalate” in response to Obama’s sanctions or only respond “reciprocally”. There’s nothing wrong with that. What should he have said, go ahead nuclear armed Russia, please escalate?
+And in the [Mueller report]({% post_url 2019-03-22-mueller-report %}), the SCO itself admits Flynn merely asked Russia not to “escalate” in response to Obama’s sanctions or only respond “reciprocally”. There’s nothing wrong with that. What should he have said, go ahead nuclear armed Russia, please escalate?
 
 So the SCO wouldn’t be “revealing” anything legitimate about its Russian interference investigation by turning over Flynn’s FD-302 — any of them, even the heavily edited versions filed weeks after the interview
 

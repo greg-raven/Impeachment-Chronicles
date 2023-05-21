@@ -118,6 +118,10 @@ layout: page
 			<td>February 13, 2021 </td>
 			<td>The Senate votes to acquit President Trump forever on the lone charge.</td>
 		</tr>
+		<tr>
+			<td>May 12, 2023</td>
+			<td>Special counsel John Durham concludes FBI never should have launched full Trump-Russia probe</td>
+		</tr>
 	</tbody>
 </table>
 
