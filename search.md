@@ -8,12 +8,12 @@ layout: page
 <script async src="https://cse.google.com/cse.js?cx=004234720413995998423:vyup6kxwuhp"></script>
 <div class="gcse-search"></div>
 
-Files on this site:
+Files on this site (newest at the top):
 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date }})
     </li>
   {% endfor %}
 </ul>
