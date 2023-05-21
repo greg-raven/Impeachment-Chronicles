@@ -8,13 +8,19 @@ layout: page
 <script async src="https://cse.google.com/cse.js?cx=004234720413995998423:vyup6kxwuhp"></script>
 <div class="gcse-search"></div>
 
-Files on this site (newest at the top):
+Files on this site:
 
+{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
+{% for year in postsByYear %}
+<h2 style="text-align: center;">{{ year.name }}</h2>
+{% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
+{% for month in postsByMonth %}
+<h3>{{ month.name }}</h3>
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string: "ordinal", "US" }})
-    </li>
-  {% endfor %}
+{% for post in month.items %}
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
 </ul>
-
+{% endfor %}
+<hr>
+{% endfor %}
