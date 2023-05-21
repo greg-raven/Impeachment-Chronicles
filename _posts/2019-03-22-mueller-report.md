@@ -10,7 +10,7 @@ author:
 
 <iframe src="https://cdn.cnn.com/cnn/2019/images/04/18/mueller-report-searchable.pdf" class="pdf"></iframe>
 
-Source: U.S. Department of Justice, cdn.cnn.com/cnn/2019/images/04/18/mueller-report-searchable.pdf
+Source: U.S. Department of Justice, [Volume I](https://www.justice.gov/storage/report_volume1.pdf), [Volume II](https://www.justice.gov/storage/report_volume2.pdf)
 
 ---
 
