@@ -10,7 +10,7 @@ layout: page
 Quick page:
 </summary>
 <ul>
-<li>[Page 1](/index.md)</li>
-<li>[Page 2]({% link /page2/ %})</li>
+<li>[Page 1](/index.html)</li>
+<li>[Page 2]({/page2/)</li>
 </ul>
 </details>
