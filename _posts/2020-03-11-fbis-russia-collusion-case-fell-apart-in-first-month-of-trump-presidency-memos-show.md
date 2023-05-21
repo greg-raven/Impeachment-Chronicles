@@ -48,7 +48,7 @@ Her account confirms information that Rep. Mark Meadows (R-N.C.) provided for a 
 
 Other significant red flags also emerged in January 2017 that the Russia collusion theory used by the FBI to open a Trump campaign-focused probe in July 2016 was simply wrong. So too was the evidence the FBI submitted to secure an October 2016 FISA warrant targeting Trump campaign adviser Carter Page.
 
-According to information made public by Justice Department Inspector General Michael Horowitz and the Foreign Intelligence Surveillance Court, the FBI interviewed Steele’s primary sub-source around Jan. 7, 2017. That source disavowed much of the Russia collusion evidence attributed to him in the dossier, a fact the bureau hid from the court.
+[According to information made public by Justice Department Inspector General Michael Horowitz and the Foreign Intelligence Surveillance Court]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}), the FBI interviewed Steele’s primary sub-source around Jan. 7, 2017. That source disavowed much of the Russia collusion evidence attributed to him in the dossier, a fact the bureau hid from the court.
 
 A recent order by FISC Chief Judge James Boasberg lays bare how devastating the revelation from Steele’s source was to the entire Russia collusion theory.
 
@@ -62,7 +62,7 @@ Boasberg’s ruling also slammed the FBI for hiding these statements from his co
 
 “The government also omitted Page’s statements to a confidential human source that he intentionally had ‘stayed clear’ of efforts to change the Republican platform, as well as evidence tending to show that two other Trump campaign officials were responsible for the change,” the judge wrote. “Both pieces of information were inconsistent with the government’s suggestion that, at the behest of the Russian government, Page may have facilitated a change to the Republican platform regarding Russia’s annexation of part of Ukraine.”
 
-The Horowitz report confirms the court’s finding in much greater detail.
+The [Horowitz report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) confirms the court’s finding in much greater detail.
 
 Flynn was cleared of being a Russian agent in January 2017. That same month Steele’s dossier was both discredited by the British government and repudiated by his own confidential sources. And the FBI had evidence its two main Trump targets were innocent. All as President Trump was starting his first two weeks in office.
 

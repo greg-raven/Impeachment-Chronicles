@@ -5,9 +5,9 @@ author:
 - Jim Jordan
 ---
 
-> First, it was the Steele Dossier.
+> First, it was the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}).
 >
-> Then it was the Mueller probe.
+> Then it was the [Mueller probe]({% post_url 2019-03-22-mueller-report %}).
 >
 > Then it was impeachment.
 >

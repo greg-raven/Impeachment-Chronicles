@@ -73,7 +73,7 @@ He noted that Trump in October 2020 authorized the declassification of all the i
 
 “Tragically, the same FBI characters that were involved in Russiagate are the same counterintel guys running this ‘national security investigation’ against Trump,” said Patel, who deposed Crossfire Hurricane team members as a former House Intelligence Committee investigator.
 
-Patel noted that the Horowitz report indicated FBI analyst Auten hid exculpatory information about Trump’s adviser Page from other investigators and the FISA court, which should be more than enough to keep him at arm’s length from other investigations involving Trump.
+Patel noted that the [Horowitz report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) indicated FBI analyst Auten hid exculpatory information about Trump’s adviser Page from other investigators and the FISA court, which should be more than enough to keep him at arm’s length from other investigations involving Trump.
 
 “And to top it all off, this guy admits [to Horowitz’s investigators] he’s unrepentant about his role in making up the biggest hoax in election history, and Wray still lets him be a supervisor at the FBI,” he said. “It’s just insane.”
 

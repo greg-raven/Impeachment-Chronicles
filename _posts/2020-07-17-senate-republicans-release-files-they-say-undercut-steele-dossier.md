@@ -45,7 +45,7 @@ Committee Chairman Lindsey Graham, R-S.C., said he was “very pleased the inves
 
 He added: “Moreover, the statements by Strzok raise troubling questions as to whether the FBI was impermissibly unmasking and analyzing intelligence gathered on U.S. persons.”
 
-Justice Department Inspector General Michael Horowitz revealed last year in its review of alleged abuses of the FISA system that there were at least 17 “significant inaccuracies and omissions” in the Page FISA applications. Horowitz also found that the applications also omitted information regarding the reliability of one of Steele’s key “sub-sources.”
+[Justice Department Inspector General Michael Horowitz revealed]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) last year in its review of alleged abuses of the FISA system that there were at least 17 “significant inaccuracies and omissions” in the Page FISA applications. Horowitz also found that the applications also omitted information regarding the reliability of one of Steele’s key “sub-sources.”
 
 Horowitz also noted in his report that the key Steele “sub-source” raised questions about the reliability of Steele’s reporting, which was omitted.
 

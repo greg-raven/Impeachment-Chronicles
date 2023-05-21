@@ -19,7 +19,7 @@ Realizing its own misconduct, the FBI made Danchenko a paid CHS in March 2017 �
 
 Danchenko being a CHS also served another purpose: it protected the Bureau and the Mueller Special Counsel from revealing their “sources and methods.” How do you hide misconduct? Bury the witness.
 
-(Read again Inspector General Horowitz’s report concerning the Carter Page FISA warrants. Did Horowitz know that Danchenko was a CHS?)
+(Read again Inspector General [Horowitz’s report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) concerning the Carter Page FISA warrants. Did Horowitz know that Danchenko was a CHS?)
 
 Context helps – here’s a brief timeline of the Danchenko interviews and other important events:
 

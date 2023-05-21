@@ -79,12 +79,36 @@ layout: page
 			<td>Michael Isikoff and Yahoo News report “U.S. intel officials probe ties between Trump adviser [Carter Page] and Kremlin.” It is later revealed that the FBI improperly wiretapped Page for a year.</td>
 		</tr>
 		<tr>
+			<td>October 1, 2016</td>
+			<td>The first Carter Page FISA warrant is submitted to the FISC</td>
+		</tr>
+		<tr>
 			<td>November 9, 2016 </td>
 			<td>Trump is elected President of the United States.</td>
 		</tr>
 		<tr>
+			<td>January 12, 2017</td>
+			<td>The application for the second FISA warrant is submitted to the FISC.</td>
+		</tr>
+		<tr>
 			<td>January 20, 2017 </td>
 			<td>Trump is inaugurated as the 45th President of the United States.</td>
+		</tr>
+		<tr>
+			<td>March 2017</td>
+			<td>Igor Danchenko is hired by the FBI as a Confidential Human Source (CHS).</td>
+		</tr>
+		<tr>
+			<td>April 7, 2017</td>
+			<td>The application for the third FISA warrant is submitted to the FISC.</td>
+		</tr>
+		<tr>
+			<td>June 29, 2017</td>
+			<td>The application for the fourth FISA warrant is submitted to the FISC.</td>
+		</tr>
+		<tr>
+			<td>December 9, 2019</td>
+			<td>The [Horowitz report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) is released, detailing the DOJ/FBI/Mueller FISA abuse.</td>
 		</tr>
 		<tr>
 			<td>December 18, 2019 </td>

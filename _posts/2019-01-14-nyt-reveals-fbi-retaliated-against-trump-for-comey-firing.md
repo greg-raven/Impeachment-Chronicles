@@ -5,23 +5,23 @@ author:
 - Mollie Hemingway
 ---
 
-- A Friday expose from the New York Times reveals that the FBI investigation of Trump for alleged treason was little more than retaliation against the president for lawfully firing an incompetent and ethically-challenged FBI director.
+- A Friday expose from *The New York Times* reveals that the FBI investigation of Trump for alleged treason was little more than retaliation against the president for lawfully firing an incompetent and ethically-challenged FBI director.
 
-In a Friday night news dump, the New York Times revealed the FBI’s surprisingly flimsy justification for launching a retaliatory investigation into President Donald Trump, their chief adversary during their recent troubled era.
+In a Friday night news dump, *The New York Times* revealed the FBI’s surprisingly flimsy justification for launching a retaliatory investigation into President Donald Trump, their chief adversary during their recent troubled era.
 
 Admitting there is no actual evidence for their probe into whether Trump “worked for the Russians,” FBI officials instead cited their foreign policy differences with him, his lawful firing of bungling FBI Director James Comey, and alarm that he accurately revealed to the American public that he was told he wasn’t under investigation by the FBI, when they preferred to hide that fact.
 
 The news was treated as a bombshell, and it was, but not for the reasons many thought. It wasn’t news that the FBI had launched the investigation. Just last month, CNN reported that top FBI officials opened an investigation into Trump after the lawful firing of Comey because Trump “needed to be reined in,” a shocking admission of abuse of power by our nation’s top law enforcement agency.
 
-The Washington Post reported Mueller was looking into whether Trump obstructed the Russia investigation by insisting he was innocent of the outlandish charges selectively leaked by government officials to compliant media. Perhaps because such an obstruction investigation was immediately condemned as scandalous political overreach, that aspect was downplayed while Mueller engaged in a limitless “Russia” probe that has rung up countless Trump affiliates for process crimes unrelated to treasonous collusion with Russia to steal the 2016 election, and spun off various investigations having nothing to do with Russia in any way.
+The *Washington Post* reported Mueller was looking into whether Trump obstructed the Russia investigation by insisting he was innocent of the outlandish charges selectively leaked by government officials to compliant media. Perhaps because such an obstruction investigation was immediately condemned as scandalous political overreach, that aspect was downplayed while Mueller engaged in a limitless “Russia” probe that has rung up countless Trump affiliates for process crimes unrelated to treasonous collusion with Russia to steal the 2016 election, and spun off various investigations having nothing to do with Russia in any way.
 
-The latest Times report does provide more detail than these earlier reports, however, and none of it makes the FBI look good. In fact, it provides evidence of a usurpation of constitutional authority to determine foreign policy that belongs not with a politically unaccountable FBI but with the citizens’ elected president. More on that in a bit.
+The latest *Times* report does provide more detail than these earlier reports, however, and none of it makes the FBI look good. In fact, it provides evidence of a usurpation of constitutional authority to determine foreign policy that belongs not with a politically unaccountable FBI but with the citizens’ elected president. More on that in a bit.
 
 **Criminalizing Foreign Policy Differences**
 
 Using leaked information and testimony from various former governmental officials, we learn that the FBI opened its aggressive, norm-breaking, and unconstitutional investigation, supposedly into whether Trump “worked for the Russians,” after he fired Comey and revealed how the agency was playing games with their spurious “Russia” probe.
 
-The Saturday New York Times article appeared on page one, above the fold, with the almost laughable headline “FBI Investigated if Trump Worked for the Russians.” The online version of the story was headlined “FBI Opened Inquiry Into Whether Trump Was Secretly Working on Behalf of Russia.” Nine paragraphs into the story, the reporters admit that there is and was literally “no evidence” to support the idea Trump worked for Russia.
+The Saturday *New York Times* article appeared on page one, above the fold, with the almost laughable headline “FBI Investigated if Trump Worked for the Russians.” The online version of the story was headlined “FBI Opened Inquiry Into Whether Trump Was Secretly Working on Behalf of Russia.” Nine paragraphs into the story, the reporters admit that there is and was literally “no evidence” to support the idea Trump worked for Russia.
 
 The top of the article, however, immediately presented the FBI-friendly interpretation of the agency’s motivations as fact — without evidence and despite strong evidence to the contrary — saying the FBI began its investigation because they were “so concerned by the president’s behavior” rather than saying it was because they were “so concerned he’d continue to expose their behavior” or “so concerned he’d hold them accountable for their political investigations.”
 
@@ -51,9 +51,9 @@ The FBI ultimately decided to act when Trump told the truth and revealed some of
 
 Rosenstein, it’s worth remembering, wrote the memo explaining why Comey was so bad at his job, a view that was completely confirmed by the inspector general’s report on the Clinton email probe. When Trump fired Comey, in part for his incompetent handling of political investigations such as those mentioned in Rosenstein’s memo, Rosenstein used that as the predicate to launch what became the special counsel investigation against Trump.
 
-In any case, Trump told Rosenstein to tell the truth even if he wanted to keep it hidden. Rosenstein refused, irritating Trump, according to the New York Times. Trump told the truth to the American public — which Comey was later forced to admit under oath — that Comey had told him three times he was not under investigation.
+In any case, Trump told Rosenstein to tell the truth even if he wanted to keep it hidden. Rosenstein refused, irritating Trump, according to *The New York Times.* Trump told the truth to the American public — which Comey was later forced to admit under oath — that Comey had told him three times he was not under investigation.
 
-According to the New York Times, by not going along with the FBI’s game — privately admitting to Trump that he wasn’t under investigation while publicly suggesting otherwise or leaking numerous snippets of information, selectively curated and framed to suggest he was — the FBI grew concerned that he was a Russian agent. Readers would be forgiven for thinking that makes no sense whatsoever and that it’s more plausible they were concerned their behavior against Trump would be exposed.
+According to *The New York Times,* by not going along with the FBI’s game — privately admitting to Trump that he wasn’t under investigation while publicly suggesting otherwise or leaking numerous snippets of information, selectively curated and framed to suggest he was — the FBI grew concerned that he was a Russian agent. Readers would be forgiven for thinking that makes no sense whatsoever and that it’s more plausible they were concerned their behavior against Trump would be exposed.
 
 Their other justification for targeting their political foe was that Trump publicly flat-out said he didn’t like the game Comey was playing with the Russia investigation. They decided, we’re told, to interpret, or pretend to interpret, this as obstruction.
 
@@ -71,7 +71,7 @@ It was important for this group to launch the official investigation into Trump 
 
 Government officials leaked the fact of that briefing to CNN almost immediately, one of the key moments that got the outlandish Russia conspiracy story started. Even Comey admitted that his behavior looked a lot like a blackmail or extortion attempt, which he strenuously denied it was. The move backfired because Trump immediately realized the FBI was playing games. McCabe also launched an investigation of former attorney general Jeff Sessions, before Sessions recused himself from holding the FBI accountable for their handling of the Russia probe.
 
-In sum, the framing of this New York Times article is either poorly conceived or outright disingenuous at every turn. Using the completely lawful and constitutional firing of the bumbling Comey as pretext for opening a criminal investigation into the president is a grand abuse of power by the FBI. Attempting to overtake the authority to determine U.S. foreign policy from the lawfully determined president of the United States is a violation of the U.S. Constitution.
+In sum, the framing of this *New York Times* article is either poorly conceived or outright disingenuous at every turn. Using the completely lawful and constitutional firing of the bumbling Comey as pretext for opening a criminal investigation into the president is a grand abuse of power by the FBI. Attempting to overtake the authority to determine U.S. foreign policy from the lawfully determined president of the United States is a violation of the U.S. Constitution.
 
 For one of the nation’s largest newspapers to suggest that this makes the president — and not the FBI — look bad actually validates two of Trump’s biggest complaints: the media are hopelessly biased, and there really is a “deep state” out to to overturn the 2016 election.
 

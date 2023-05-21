@@ -11,7 +11,7 @@ Castro, a Democrat who served as mayor of San Antonio, Texas, before joining the
 
 “I called several weeks ago now for impeachment proceedings to begin because it’s clear that this president obstructed justice,” he emphasized. “Congress needs to act. They should act.”
 
-Attorney General William Barr didn’t push for obstruction charges against the president after Mueller submitted his report on his investigation into Russian interference in the 2016 presidential election. Mueller didn’t recommend obstruction charges against Trump, but also didn’t exonerate him.
+Attorney General William Barr didn’t push for obstruction charges against the president after Mueller submitted his [report]({% post_url 2019-03-22-mueller-report %}) on his investigation into Russian interference in the 2016 presidential election. Mueller didn’t recommend obstruction charges against Trump, but also didn’t exonerate him.
 
 Barr stood by his decision not to pursue obstruction charges during a contentious Senate Judiciary Committee hearing last week. Barr cancelled an apperance to testify in front of a House Judiciary hearing.
 

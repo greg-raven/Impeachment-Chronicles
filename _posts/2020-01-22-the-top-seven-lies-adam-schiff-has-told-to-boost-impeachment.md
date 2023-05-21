@@ -15,7 +15,7 @@ It’s already been proven that Democrats have plotted the impeachment of Donald
 
 Any idiot could have read the Clinton-funded Steele dossier and known it wasn’t credible. Schiff also had to know the information in it was uncorroborated and full of inaccuracies, embellishments, and lies. Nevertheless, he promoted the dossier as a legitimate piece of anti-Trump intelligence.
 
-Except it never was. According to Inspector General Michael Horowitz’s report on FISA abuse, the FBI had “corroborated limited information in Steele’s election reporting” and that the CIA “viewed it as ‘internet rumor.’” Rolling Stone even noted that the report “is especially hostile to Schiff’s claim that the FBI ‘provided additional information obtained through multiple independent sources that corroborated Steele’s reporting.’”
+Except it never was. According to [Inspector General Michael Horowitz’s report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) on FISA abuse, the FBI had “corroborated limited information in Steele’s election reporting” and that the CIA “viewed it as ‘internet rumor.’” Rolling Stone even noted that the report “is especially hostile to Schiff’s claim that the FBI ‘provided additional information obtained through multiple independent sources that corroborated Steele’s reporting.’”
 
 Back then Democrats were hoping for collusion to be true so they could justify impeachment. Anything, even blatant lies, was on the table to make impeachment happen.
 
@@ -31,7 +31,7 @@ Back in 2017, then-House Intelligence Committee Chairman Devin Nunes (R-Calif.) 
 
 A couple of months later, the House Intelligence Committee released a memo on surveillance abuses by the Obama administration. For Schiff, any abuse of the FISA court system might undermine any impeachment narrative that might present itself with regard to the 2016 election and Russian collusion. So, Schiff had to mock the Nunes memo relentlessly to keep the message on track. Schiff denied that any abuses had occurred in his own memo released shortly thereafter. As the ranking Democrat on the committee at the time, Schiff had access to the same information as Nunes, so he knew the Nunes memo was accurate.
 
-When the Horowitz report ultimately proved Nunes was right and that Schiff lied, Schiff conceded there were abuses but claimed not to have seen evidence of this before, even though he had. He just lied about it. “Anyone who would still defend the FISA warrants of Carter Page after the Horowitz report is deceiving themselves or you. There’s no defending it. Nunes was right about that. Schiff was wrong,” said Bloomberg columnist Eli Lake.
+When the [Horowitz report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) ultimately proved Nunes was right and that Schiff lied, Schiff conceded there were abuses but claimed not to have seen evidence of this before, even though he had. He just lied about it. “Anyone who would still defend the FISA warrants of Carter Page after the [Horowitz report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation.md %}) is deceiving themselves or you. There’s no defending it. Nunes was right about that. Schiff was wrong,” said Bloomberg columnist Eli Lake.
 
 **4. Lying about having contact with the whistleblower**
 
