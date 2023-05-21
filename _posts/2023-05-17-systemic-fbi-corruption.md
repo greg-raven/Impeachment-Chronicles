@@ -5,7 +5,7 @@ author:
 - Joy Pullman
 ---
 
-- The Durham report contains more evidence that high-level federal intelligence officials see it as routine to put powerful Democrats above the law.
+- The [Durham Report]({% post_url 2023-05-12-durham-report %}) contains more evidence that high-level federal intelligence officials see it as routine to put powerful Democrats above the law.
 
 Former FBI General Counsel Andrew Weissmann and others lied to the nation about the special counsel report released Monday that deeply documents years of systemic FBI corruption in favor of the Democratic Party. That report reveals and adds detail to multiple instances in which FBI employees used high-level intelligence and law-enforcement positions to promote misinformation that affected at least two presidential elections, always on behalf of Democrats.
 
@@ -17,7 +17,7 @@ It just so happens that the false information the FBI used to immediately open a
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Danchenko is the guy who may be a Russian spy. Your tax dollars at work funding disinformation that helps the Democrat Party. <a href="https://t.co/dFMyHnnC2m">https://t.co/dFMyHnnC2m</a></p>&mdash; Joy Pullmann (@JoyPullmann) <a href="https://twitter.com/JoyPullmann/status/1658218561972609034?ref_src=twsrc%5Etfw">May 15, 2023</a></blockquote>
 
-According to the Durham report, top FBI, DOJ, and CIA officials, as well as President Obama and Vice President Joe Biden, were told “within days of its receipt” that the Hillary Clinton campaign had developed a “plan to vilify Trump by tying him to Vladimir Putin so as to divert attention from her own concerns relating to her use of a private email server.”
+According to the [Durham Report]({% post_url 2023-05-12-durham-report %}), top FBI, DOJ, and CIA officials, as well as President Obama and Vice President Joe Biden, were told “within days of its receipt” that the Hillary Clinton campaign had developed a “plan to vilify Trump by tying him to Vladimir Putin so as to divert attention from her own concerns relating to her use of a private email server.”
 
 CIA Director John Brennan briefed President Obama, Biden, FBI Director James Comey, and Attorney General Loretta Lynch on this intelligence on Aug. 3, 2016, a few days after Clinton’s campaign developed the plan. The CIA reportedly got this info about Clinton’s smear plan from its surveillance of Russian intelligence.
 
@@ -25,7 +25,7 @@ This means that, in the summer of 2016, the FBI and DOJ, and the head of the Dem
 
 This should have gotten the FBI to question its Crossfire Hurricane operation, Durham’s report says. Instead, however, the FBI raced ahead, with FBI headquarters demanding faster pursuit of Trump under what they knew were false pretenses.
 
-The FBI’s actions indicated a clear double standard for Republicans and Democrats, the report shows. “Unlike the FBI’s opening of a full investigation of unknown members of the Trump campaign based on raw, uncorroborated information, in this separate matter involving a purported Clinton campaign plan, the FBI never opened any type of inquiry, issued any taskings, employed any analytical personnel, or produced any analytical products in connection with the information,” notes the Durham report.
+The FBI’s actions indicated a clear double standard for Republicans and Democrats, the report shows. “Unlike the FBI’s opening of a full investigation of unknown members of the Trump campaign based on raw, uncorroborated information, in this separate matter involving a purported Clinton campaign plan, the FBI never opened any type of inquiry, issued any taskings, employed any analytical personnel, or produced any analytical products in connection with the information,” notes the [Durham Report]({% post_url 2023-05-12-durham-report %}).
 
 The report says if the Clinton campaign knowingly supplied this false information to the government, that’s a criminal offense. Durham claims his team was unable to establish this criminal intent, but it’s obvious it existed even if it can’t be established with emails and voice recordings.
 
@@ -39,7 +39,7 @@ It is the systematic weaponization of the U.S. national security apparatus again
 
 ## 2. Protecting Democrats’ POTUS Pick While Slandering Republicans’ POTUS Pick
 
-Several times, the Durham report notes that FBI and Department of Justice officials treated the Clinton and Trump campaigns completely differently. Another notable way was in regard to potential contacts with agents from foreign governments.
+Several times, the [Durham Report]({% post_url 2023-05-12-durham-report %}) notes that FBI and Department of Justice officials treated the Clinton and Trump campaigns completely differently. Another notable way was in regard to potential contacts with agents from foreign governments.
 
 When the feds learned of a foreign influence operation seeking to target Hillary Clinton, they gave her campaign what is called a “defensive briefing.” That means they warned the campaign about the potential for undue foreign influence.
 
@@ -61,7 +61,7 @@ Another double standard was revealed in this contrasting FBI treatment of differ
 
 We already knew from the years The Federalist has spent unraveling Spygate that former FBI Counterintelligence Division Deputy Assistant Director Peter Strzok and his mistress, former FBI Deputy Director Andrew McCabe’s staff lawyer Lisa Page, weaponized their government positions to interfere in the U.S. presidential election. These are the two who infamously texted that they’d “stop” Trump from becoming president.
 
-Durham’s report shows multiple instances of McCabe, Strzok, Page, and their superiors wielding federal law enforcement positions as weapons against Republicans. The Durham report contains more evidence that high-level federal intelligence officials see it as routine to put powerful Democrats above the law.
+Durham’s report shows multiple instances of McCabe, Strzok, Page, and their superiors wielding federal law enforcement positions as weapons against Republicans. The [Durham Report]({% post_url 2023-05-12-durham-report %}) contains more evidence that high-level federal intelligence officials see it as routine to put powerful Democrats above the law.
 
 Besides the disparate treatment outlined above and many other such instances, Durham’s report includes a telling text exchange between Strzok and Page. It shows them deciding not to apply the law to Hillary Clinton because of her powerful position. It seems that the powerful are indeed above the law in the United States — provided they’re affiliated with the Democratic Party.
 
@@ -95,6 +95,6 @@ Congressional subpoenas have the force of law. Federal agencies operate at the d
 
 It’s been publicly known for decades that the FBI uses its surveillance, investigatory, and other law enforcement powers to manipulate American politics. Recall its surveillance of Martin Luther King Jr. and infamous FBI head J. Edgar Hoover’s spying on the Supreme Court, Congress, and presidents.
 
-The Durham report is, in that respect, nothing new. What would be new would be punishing the FBI’s use of blackmail, smear operations, threats, censorship, illegal spying, and election rigging. If that doesn’t happen, the United States is quite simply not a free country anymore.
+The [Durham Report]({% post_url 2023-05-12-durham-report %}) is, in that respect, nothing new. What would be new would be punishing the FBI’s use of blackmail, smear operations, threats, censorship, illegal spying, and election rigging. If that doesn’t happen, the United States is quite simply not a free country anymore.
 
 Source: Joy Pullman, thefederalist.com/2023/05/17/6-freshly-documented-instances-of-systemic-pro-democrat-fbi-corruption/

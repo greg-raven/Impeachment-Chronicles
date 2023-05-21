@@ -1,6 +1,9 @@
 ---
 title: 'Starting over: The center right after Trump'
 layout: post
+author:
+- Niskanen Center
+- Whit Ayres
 ---
 
 Panel 3: Political Prospects for a New Center-Right
@@ -15,4 +18,4 @@ Whit Ayres: Individuals are really important. And we saw that with Donald Trump.
 
 […]
 
-Source: www.niskanencenter.org/starting-over-the-center-right-after-trump-conference-transcript/
+Source: niskanencenter.org/starting-over-the-center-right-after-trump-conference-transcript/

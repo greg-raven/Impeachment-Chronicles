@@ -5,7 +5,7 @@ author:
 - Donald Trump
 ---
 
-> Durham Report Verdicts:
+> [Durham Report]({% post_url 2023-05-12-durham-report %}) Verdicts:
 >
 > ---
 >

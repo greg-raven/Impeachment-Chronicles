@@ -11,7 +11,7 @@ In a series of posts on the former president’s Truth Social account Monday, Tr
 
 “After extensive research, Special Counsel John Durham concludes the FBI never should have launched the Trump-Russia Probe! In other words, the American Public was scammed, just as it is being scammed right now by those who don’t want to see GREATNESS for AMERICA!” he wrote
 
-“The Durham Report spells out in great detail the Democrat Hoax that was perpetrated upon me and the American people. This is 2020 Presidential Election Fraud, just like ‘stuffing’ the ballot boxes, only more so. This totally illegal act had a huge impact on the Election. With an honest Media, we are looking at the Crime of the Century!” he later added.
+“The [Durham Report]({% post_url 2023-05-12-durham-report %}) spells out in great detail the Democrat Hoax that was perpetrated upon me and the American people. This is 2020 Presidential Election Fraud, just like ‘stuffing’ the ballot boxes, only more so. This totally illegal act had a huge impact on the Election. With an honest Media, we are looking at the Crime of the Century!” he later added.
 
 In subsequent posts, the former president expressed gratitude for firing former FBI Director James Comey and called upon Congress to enact measures to ensure it never happens again.
 
