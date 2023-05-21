@@ -21,4 +21,4 @@ Source: Office of the Inspector General, justice.gov/storage/120919-examination.
 
 ---
 
-**Note:** AKA the Horowitz Report, after Inspector General Michael Horowitz.
+**Note:** AKA the Horowitz Report, after U.S. Department of Justice Inspector General Michael Horowitz.
