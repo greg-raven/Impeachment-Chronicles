@@ -11,6 +11,4 @@ author:
 
 ![<# Rob Reiner being frightened #>](/assets/2022-10-20-CasuallyGreg.jpg)
 
-<a href="/2021/08/06/self-rule-will-be-over.html">See Rob Reiner’s post here</a>.
-
-[See Rob Reiner’s post here]{% post_url 2021-08-06-self-rule-will-be-over %}.
+[See Rob Reiner’s post here]({% post_url 2021-08-06-self-rule-will-be-over %}).
