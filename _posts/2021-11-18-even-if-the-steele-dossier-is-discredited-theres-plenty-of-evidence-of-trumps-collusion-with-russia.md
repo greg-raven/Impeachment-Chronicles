@@ -1,6 +1,8 @@
 ---
 title: 'Even if the Steele dossier is discredited, there’s plenty of evidence of Trump’s collusion with Russia'
 layout: post
+author:
+- Max Boot
 ---
 
 Ever since then, Trump and his right-wing media chorus have been loudly proclaiming that the entire “Trump-Russia collusion narrative” was “phony” and that he was the victim of a “hoax” perpetrated by the Democrats, the media and the FBI.

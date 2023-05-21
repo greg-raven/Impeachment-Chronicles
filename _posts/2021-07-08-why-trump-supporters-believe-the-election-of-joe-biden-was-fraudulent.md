@@ -1,6 +1,8 @@
 ---
 title: 'Why Trump supporters believe the election of Joe Biden was fraudulent'
 layout: post
+author:
+- Martyr Made
 ---
 
 I think I’ve had discussions w/enough Boomer-tier Trump supporters who believe the 2020 election was fraudulent to extract a general theory about their perspective. It is also the perspective of most of the people at the Capitol on 1/6, and probably even Trump himself. 1/x

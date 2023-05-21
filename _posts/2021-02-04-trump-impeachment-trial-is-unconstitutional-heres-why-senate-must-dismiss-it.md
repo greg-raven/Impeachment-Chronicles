@@ -1,6 +1,8 @@
 ---
 title: 'Trump impeachment trial is unconstitutional – here’s why Senate must dismiss it'
 layout: post
+author:
+- Jason Miller
 ---
 
 - Because the 45th president is now a private citizen, impeachment proceedings are rendered null and void

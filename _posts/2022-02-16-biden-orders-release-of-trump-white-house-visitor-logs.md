@@ -1,6 +1,10 @@
 ---
 title: 'Biden orders release of Trump White House Visitor Logs'
 layout: post
+author:
+- Colleen Long
+- Mary Clare Jalonick
+- Jill Colvin
 ---
 
 - Trump has repeatedly fought for the privacy of documents being sought by the committee investigating the Capitol riot.
@@ -15,7 +19,7 @@ She also noted that as a matter of policy, the Biden administration “voluntari
 
 A Trump spokesman did not immediately respond to a request for comment on the decision.
 
-The Presidential Records Act mandates that records made by a sitting president and his staff be preserved in the National Archives, and an outgoing president is responsible for turning over documents to the agency when leaving office. Trump tried but failed to withhold White House documents from the House committee in a dispute that was decided by the Supreme Court.  
+The Presidential Records Act mandates that records made by a sitting president and his staff be preserved in the National Archives, and an outgoing president is responsible for turning over documents to the agency when leaving office. Trump tried but failed to withhold White House documents from the House committee in a dispute that was decided by the Supreme Court.
 Then-President Donald Trump gestures as he arrives to speak at a rally in Washington, on Jan. 6, 2021.
 
 Biden has already made clear that he is not invoking executive privilege concerning the congressional investigation unless he absolutely must. Biden has waived that privilege for much other information requested by the committee, which is going through the material and obtaining documents and testimony from witnesses, including some uncooperative ones.

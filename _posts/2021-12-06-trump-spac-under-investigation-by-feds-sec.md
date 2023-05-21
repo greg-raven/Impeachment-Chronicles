@@ -1,6 +1,8 @@
 ---
 title: 'Trump SPAC under investigation by feds, SEC'
 layout: post
+author:
+- Will Feuer
 ---
 
 The special purpose acquisition company, or SPAC, that announced plans to merge with former President Donald Trump’s new social media company is under investigation by federal regulators, the company disclosed on Monday.

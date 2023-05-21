@@ -1,6 +1,10 @@
 ---
 title: 'Kremlin papers appear to show Putin’s plot to put Trump in White House'
 layout: post
+author:
+- Luke Harding
+- Julian Borger
+- Dan Sabbagh
 ---
 
 - Exclusive: Documents suggest Russia launched secret multi-agency effort to interfere in U.S. democracy

@@ -1,6 +1,8 @@
 ---
 title: 'Trump celebrates FEC dropping their case against him'
 layout: post
+author:
+- Katie Pavlich
 ---
 
 The Federal Election Commission has dropped its investigation into former President Donald Trump. He was accused of sending hush money payments to a number of women, including porn star Stormy Daniels.

@@ -1,6 +1,8 @@
 ---
 title: 'MSNBC analyst calls on AG to indict Trump to ‘help’ Dems, lets slip that Jan 6 rioters just ‘picknickers’'
 layout: post
+author:
+- Robert Jonathan
 ---
 
 Democrats need a little help from their friends in the U.S. Justice Department to avoid electoral disaster in the November elections because the outcome could be no picnic for the radical left.

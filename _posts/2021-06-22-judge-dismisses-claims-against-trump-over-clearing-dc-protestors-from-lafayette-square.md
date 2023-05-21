@@ -1,6 +1,8 @@
 ---
 title: 'Judge dismisses claims against Trump over clearing DC protestors from Lafayette Square'
 layout: post
+author:
+- Katie Daviscourt
 ---
 
 US District Judge Dabney Friedrich ruled against Black Lives Matter on Monday, dismissing claims that Trump, Barr, and Esper directed a conspiracy targeting black protesters.

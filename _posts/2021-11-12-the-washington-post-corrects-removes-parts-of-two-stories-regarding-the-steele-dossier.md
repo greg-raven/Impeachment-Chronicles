@@ -1,6 +1,8 @@
 ---
 title: 'The Washington Post corrects, removes parts of two stories regarding the Steele dossier'
 layout: post
+author:
+- Paul Farhi
 ---
 
 The *Washington Post* on Friday took the unusual step of correcting and removing large portions of two articles, published in March 2017 and February 2019, that had identified a Belarusian American businessman as a key source of the “[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}),” a collection of largely unverified reports that claimed the Russian government had compromising information about then-candidate Donald Trump.

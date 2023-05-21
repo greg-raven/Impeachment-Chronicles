@@ -1,6 +1,8 @@
 ---
 title: 'Trump pictured entertaining guests maskless at Mar-a-Lago days after COVID outbreak caused its partial closure'
 layout: post
+author:
+- Thomas Colson
 ---
 
 - Trump was spotted entertaining guests at his Mar-A-Lago club on Tuesday.
@@ -18,11 +20,11 @@ The former president was also photographed on Sunday at Mar-A-Lago with GOP Rep.
 
 It comes just after the resort was forced to close some of its facilities due to an outbreak of coronavirus among “some staff.
 
-People magazine reported that an email sent to Trump Organization employees said: “As some of our staff have recently tested positive for COVID-19, we will be temporarily suspending service at the Beach Club and à la carte Dining Room.”
+*People* magazine reported that an email sent to Trump Organization employees said: “As some of our staff have recently tested positive for COVID-19, we will be temporarily suspending service at the Beach Club and à la carte Dining Room.”
 
 A representative for the Trump Organization earlier this week confirmed to Insider that the closure had taken place.
 
-The email seen by People said: “We have already undertaken all appropriate response measures in accordance with CDC guidance, including activating a thorough sanitization and cleaning of any affected areas and all club facilities, and we will continue our heightened environmental cleaning regimen.”
+The email seen by *People* said: “We have already undertaken all appropriate response measures in accordance with CDC guidance, including activating a thorough sanitization and cleaning of any affected areas and all club facilities, and we will continue our heightened environmental cleaning regimen.”
 
 “We reiterate our commitment to the health and safety of all those who visit the Club.”
 

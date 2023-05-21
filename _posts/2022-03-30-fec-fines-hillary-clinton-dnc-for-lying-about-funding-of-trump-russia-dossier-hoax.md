@@ -1,6 +1,8 @@
 ---
 title: 'FEC fines Hillary Clinton, DNC for lying about funding of Trump-Russia dossier hoax'
 layout: post
+author:
+- Phil Shiver
 ---
 
 The Federal Election Commission has fined Hillary Clinton’s 2016 presidential campaign and the Democratic National Committee for violating federal law by lying in reports about its funding of the since-discredited Steele Dossier, a newly issued memo showed.

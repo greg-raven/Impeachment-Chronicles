@@ -1,6 +1,8 @@
 ---
 title: 'Text messages show Cassidy Hutchinson referring to January 6 Committee as ‘BS’'
 layout: post
+author:
+- Henry Rodgers
 ---
 
 The January 6 committee’s key witness, Cassidy Hutchinson, called the committee “bs” in a text message obtained exclusively by the Daily Caller.

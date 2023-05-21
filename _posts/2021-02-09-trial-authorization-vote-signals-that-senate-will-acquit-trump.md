@@ -1,6 +1,8 @@
 ---
 title: 'Trial authorization vote signals that Senate will acquit Trump'
 layout: post
+author:
+- Ivan Pentchoukov
 ---
 
 Forty-four Republicans voted against proceeding with the trial against former President Donald Trump, the clearest signal yet that the Senate will ultimately acquit the president of the impeachment charge against him for a second time.

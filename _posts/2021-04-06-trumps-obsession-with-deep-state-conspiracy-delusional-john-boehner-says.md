@@ -1,6 +1,8 @@
 ---
 title: 'Trump’s obsession with Deep State conspiracy ‘delusional,’ John Boehner says'
 layout: post
+author:
+- Martin Pengelly
 ---
 
 - Former House speaker writes in memoir: ‘That’s horseshit’

@@ -1,6 +1,8 @@
 ---
 title: 'New York Times reporter says Steele pee tape doesn’t exist'
 layout: post
+author:
+- Jordan Dixon-Hamilton
 ---
 
 *New York Times* reporter Matthew Rosenberg said the infamous “pee tape” from Christopher Steele’s anti-Trump dossier “doesn’t exist,” according to [the latest video released by Project Veritas](/2022/03/09/nyt-reporter-matthew-rosenberg-cia-nsa-sources-involved-with-trump-pee-tape-leftist-sht-at-the-times.html).

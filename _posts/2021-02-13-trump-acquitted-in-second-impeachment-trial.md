@@ -1,6 +1,8 @@
 ---
 title: 'Trump acquitted in second impeachment trial'
 layout: post
+author:
+- Zachary Stieber
 ---
 
 Former President Donald Trump was acquitted of an insurrection incitement charge by the Senate on Saturday.

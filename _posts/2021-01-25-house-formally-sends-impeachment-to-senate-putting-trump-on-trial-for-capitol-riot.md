@@ -1,6 +1,9 @@
 ---
 title: 'House formally sends impeachment to Senate, putting Trump on trial for Capitol riot'
 layout: post
+author:
+- Mike Lillis
+- Scott Wong
 ---
 
 House Democrats on Monday sent to the Senate their single impeachment article against former President Trump, officially putting the former president on trial for his role in the deadly mob attack on the Capitol earlier in the month.

@@ -1,13 +1,15 @@
 ---
 title: 'CIA officer who signed Hunter Biden laptop letter claims credit for Trump loss'
 layout: post
+author:
+- Zachary Stieber
 ---
 
 One of the former CIA officers who signed a letter claiming stories about a laptop allegedly belonging to Hunter Biden were disinformation says he helped swing the 2020 election away from President Donald Trump.
 
 “I take special pride in personally swinging the election away from Trump,” John Sipher, who served for decades as a senior operations officer at the CIA, wrote in a recent post on Twitter.
 
-“I lost the election for Trump? Well then I fell [sic] pretty good about my influence.”
+> “I lost the election for Trump? Well then I fell [sic] pretty good about my influence.”
 
 Sipher and 50 other former U.S. intelligence officials signed the letter on Oct. 19, 2020, alleging that the effort to distribute the laptop’s contents “has all the classic earmarks of a Russian information operation,” despite not knowing whether the laptop was legitimate.
 

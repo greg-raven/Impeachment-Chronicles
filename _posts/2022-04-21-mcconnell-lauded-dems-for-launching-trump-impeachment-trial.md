@@ -1,6 +1,8 @@
 ---
 title: 'McConnell lauded Dems for launching&nbsp;Trump impeachment trial'
 layout: post
+author:
+- Wendell Huseb0
 ---
 
 Establishment Sen. Mitch McConnell (R-KY) reportedly lauded the Democrats for launching Donald Trump’s impeachment trial after January 6.

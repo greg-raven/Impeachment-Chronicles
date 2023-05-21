@@ -1,6 +1,8 @@
 ---
 title: 'U.S. intel officials probe ties between Trump adviser and Kremlin'
 layout: post
+author:
+- Michael Isikoff
 ---
 
 U.S. intelligence officials are seeking to determine whether an American businessman identified by Donald Trump as one of his foreign policy advisers has opened up private communications with senior Russian officials — including talks about the possible lifting of economic sanctions if the Republican nominee becomes president, according to multiple sources who have been briefed on the issue.

@@ -1,6 +1,8 @@
 ---
 title: 'Biden had firm at center of Trump hacking scandal on campaign payroll'
 layout: post
+author:
+- Chuck Ross
 ---
 
 - Neustar Information Services executive allegedly wanted Clinton administration post

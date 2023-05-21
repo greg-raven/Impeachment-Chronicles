@@ -1,6 +1,8 @@
 ---
 title: 'Trump has disqualified himself from running in 2020'
 layout: post
+author:
+- Will Wilkinson
 ---
 
 - The president’s brazen attempt at cheating has taken “decide it at the ballot box” off the menu. Impeachment is imperative.

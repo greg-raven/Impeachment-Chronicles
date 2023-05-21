@@ -1,6 +1,8 @@
 ---
 title: 'Impeachment witness Vindman: If Trump had been removed, 600,000 Americans wouldn’t have died of COVID'
 layout: post
+author:
+- Brian Flood
 ---
 
 - Vindman: ‘Direct logic link’ to Trump being acquitted during first impeachment and the coronavirus pandemic

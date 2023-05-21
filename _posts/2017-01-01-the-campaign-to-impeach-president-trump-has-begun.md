@@ -1,6 +1,8 @@
 ---
 title: 'The campaign to impeach President Trump has begun'
 layout: post
+author:
+- Matea Gold
 ---
 
 The effort to impeach President Donald John Trump is already underway.

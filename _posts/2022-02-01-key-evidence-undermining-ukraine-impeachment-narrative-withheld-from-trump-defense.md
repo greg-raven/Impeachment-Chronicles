@@ -1,6 +1,8 @@
 ---
 title: 'Key evidence undermining Ukraine impeachment narrative withheld from Trump defense'
 layout: post
+author:
+- Matt Margolis
 ---
 
 In 2016, Burisma Holdings was being investigated by Ukraine’s then-Prosecutor General Viktor Shokin while then-Vice President Joe Biden’s Hunter sat on the company’s board making $83,000. So Joe Biden threatened to withhold $1 billion in aid to Ukraine unless they fired Shokin.

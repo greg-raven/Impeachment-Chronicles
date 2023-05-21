@@ -1,6 +1,8 @@
 ---
 title: 'Trump lawyers to use videos of Democrats inciting violence during impeachment defense'
 layout: post
+author:
+- Allen Zhong
 ---
 
 Former President Donald Trump’s lead impeachment defense attorney Bruce Castor said he will use video clips of top Democrats inciting violence during the coming impeachment trial.
@@ -27,4 +29,4 @@ Amid the Black Lives Matter protests, Rep. Ayanna Pressley (D-Mass.) said there 
 
 “Make the phone calls, send the emails, show up,” she said in an interview with MSNBC’s “AM Joy.” “There needs to be unrest in the streets for as long as there’s unrest in our lives. And unfortunately, there’s plenty to go around.”
 
-Source: Allen, Zhong, theepochtimes.com/trump-lawyers-to-use-videos-of-democrats-inciting-violence-during-impeachment-defense\_3687744.html
+Source: Allen Zhong, theepochtimes.com/trump-lawyers-to-use-videos-of-democrats-inciting-violence-during-impeachment-defense\_3687744.html

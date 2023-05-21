@@ -1,6 +1,8 @@
 ---
 title: 'McConnell won’t agree to reconvene Senate early for impeachment trial'
 layout: post
+author:
+- Alexander Bolton
 ---
 
 Senate Majority Leader Mitch McConnell’s (R-Ky.) office told Senate Minority Leader Charles Schumer’s (D-N.Y.) staff on Wednesday that the GOP will not agree to reconvene the Senate before Jan. 19 to allow an impeachment trial while President Trump is still in office.

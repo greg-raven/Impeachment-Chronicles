@@ -1,6 +1,8 @@
 ---
 title: 'After impeachment farce ends, next comes 14th Amendment'
 layout: post
+author:
+- Charles Hurt
 ---
 
 With the result of the second impeachment charade a forgone conclusion in Washington, let us now turn to the final partisan tool remaining in Democrats’ torture closet: The 14th Amendment.

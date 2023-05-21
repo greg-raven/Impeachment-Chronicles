@@ -1,6 +1,8 @@
 ---
 title: 'Forget the Steele dossier: Mueller report release shows why Trump-Russia inquiry was required'
 layout: post
+author:
+- Heather Digby Parton
 ---
 
 - A federal appeals court ruled on Tuesday that parts of the redacted [Mueller report]({% post_url 2019-03-22-mueller-report %}) be made public
