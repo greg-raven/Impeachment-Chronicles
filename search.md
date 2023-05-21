@@ -13,7 +13,7 @@ Files on this site (newest at the top):
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date }})
+      <a href="{{ post.url }}">{{ post.title }}</a> ({{ post.date | date_to_string: "ordinal", "US" }})
     </li>
   {% endfor %}
 </ul>
