@@ -40,7 +40,7 @@ minima:
 header_pages:
   - accomplishments.md
   - timeline.md
-  - search.md
+  - search.html
 
 # Set to `true` to show excerpts on the homepage.
 #
