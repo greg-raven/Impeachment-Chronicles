@@ -23,7 +23,7 @@ site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 <h2>{{ year.name }}</h2>
 <ul>
 {% for post in year.items %}
-<li><a href="{{ post.url }}">{{ post.title }}-{{ post.date }}</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 {% endfor %}
@@ -33,14 +33,11 @@ site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for post in site.posts  %}
 {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
 {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-
 {% if forloop.first %}
 <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
 <ul>
 {% endif %}
-
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-
 {% if forloop.last %}
 </ul>
 {% else %}
@@ -58,35 +55,12 @@ site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
 {% for year in postsByYear %}
 <h2>{{ year.name }}</h2>
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-
 {% for month in postsByMonth %}
 <h3>{{ month.name }}</h3>
 <ul>
 {% for post in month.items %}
-<li><a href="{{ post.url }}">{{ post.title }}-{{ post.date }}</a></li>
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-{% endfor %}
-{% endfor %}
-
----
-
-{% assign postsByYear = site.posts | group_by_exp:"post", "post.date | date: '%Y'" %}
-{% for year in postsByYear %}
-<h2>{{ year.name }}</h2>
-{% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
-
-{% for month in postsByMonth %}
-<h3>{{ month.name }}</h3>
-<ul>
-{% for post in month.items %}
-<li>
-<a href="{{ post.url }}">{{ post.title }}</a>
-<br>{{ post.excerpt }}
-</li>
-{% endfor %}
-</ul>
-
 {% endfor %}
 {% endfor %}
