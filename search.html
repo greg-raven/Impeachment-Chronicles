@@ -3,7 +3,7 @@ title: Search
 layout: page
 ---
 
-**Note:** Our search page is still trying to get caught up with the new changes we implemented. Sorry for any inconvenience.
+<b>Note:</b> Our search page is still trying to get caught up with the improvements we implemented recently. Sorry for any inconvenience.
 
 <script async src="https://cse.google.com/cse.js?cx=004234720413995998423:vyup6kxwuhp"></script>
 <div class="gcse-search"></div>
@@ -16,11 +16,11 @@ Files on this site:
 {% assign postsByMonth = year.items | group_by_exp:"post", "post.date | date: '%B'" %}
 {% for month in postsByMonth %}
 <h3>{{ month.name }}</h3>
-<ul>
-{% for post in month.items %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-</ul>
+	<ul>
+	{% for post in month.items %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+	</ul>
 {% endfor %}
 <hr>
 {% endfor %}
