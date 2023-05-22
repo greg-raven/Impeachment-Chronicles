@@ -63,6 +63,10 @@ layout: page
 			<td>Trump becomes the nominee of the Republican Party.</td>
 		</tr>
 		<tr>
+		    <td>July 31, 2016</td>
+		    <td>FBI Deputy Assistant Director for Counterintelligence Peter Strzok opens Crossfire Hurricane, as instructed by FBI Deputy Director Andrew McCabe.</td>
+		</tr>
+		<tr>
 			<td>August 4, 2016 </td>
 			<td>Ukrainian ambassador to U.S. writes op-ed against Trump.</td>
 		</tr>

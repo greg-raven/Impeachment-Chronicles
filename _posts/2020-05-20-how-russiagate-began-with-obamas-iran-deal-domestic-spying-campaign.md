@@ -1,6 +1,8 @@
 ---
 title: 'How Russiagate began with Obama’s Iran Deal domestic spying campaign'
 layout: post
+author:
+- Lee Smith
 ---
 
 - Michael Flynn posed a threat to the former president’s legacy and was made to pay for it
@@ -83,7 +85,7 @@ Jewish community leaders complained about how the debate over the deal was being
 
 Nonetheless, Obama kept hammering away at his chosen messaging. In a speech at American University he argued there are only two choices: The Iran Deal or war. The one government that did not think this is “such a strong deal” was Israel.
 
-If the smear campaign targeting Iran Deal opponents as rich, dual-loyalist, right-wing warmongers was the public face of Obama’s push for the deal, there was an even less savory component hidden within the advanced technology of the U.S. Intelligence Community: The administration was spying on its domestic opponents, American legislators, and pro-Israel activists. Noah Pollak—formerly head of the Emergency Committee for Israel, a nonprofit organization that opposed the nuclear agreement with Iran—says, “I was warned that my conversations with senior Israeli officials were possibly being monitored.”
+If the smear campaign targeting Iran Deal opponents as rich, dual-loyalist, right-wing warmongers was the public face of Obama’s push for the deal, there was an even less savory component hidden within the advanced technology of the U.S. Intelligence Community: The administration was spying on its domestic opponents, American legislators, and pro-Israel activists. Noah Pollak — formerly head of the Emergency Committee for Israel, a nonprofit organization that opposed the nuclear agreement with Iran — says, “I was warned that my conversations with senior Israeli officials were possibly being monitored.”
 
 Speaking to me for my 2019 book The Plot Against the President, Pollak said that “the administration did things that seemed incontrovertibly to be responses to information gathered by listening to those conversations.” He continued: “At first we thought these were coincidences and we were being paranoid. Surely none of us are that important. Eventually it simply became our working assumption that we were being spied on via the Israeli officials we were in contact with.”
 
