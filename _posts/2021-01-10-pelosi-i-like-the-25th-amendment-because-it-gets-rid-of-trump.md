@@ -1,6 +1,6 @@
 ---
 title: 'Pelosi: ‘I like the 25th Amendment’ because it ‘gets rid’ of Trump'
-layout: post
+layout: default
 ---
 
 Speaker Nancy Pelosi (D-Calif.) said in an interview to be broadcast Sunday night that she supports invoking the 25th Amendment to remove President Trump from office before his term expires next week.

@@ -1,6 +1,6 @@
 ---
 title: 'Trump and TGP were right: Obamagate started in 2015'
-layout: post
+layout: default
 ---
 
 - Judicial Watch Provides More Support for this Today

@@ -1,6 +1,6 @@
 ---
 title: 'Maskless Trump photo pretty much sums up his presidency, critics say'
-layout: post
+layout: default
 author:
 - Josephine Harvey
 ---

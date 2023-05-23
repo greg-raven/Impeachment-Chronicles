@@ -1,6 +1,6 @@
 ---
 title: 'Judicial watch uncovers timeline of Fusion GPS/Steele going back to 2015'
-layout: post
+layout: default
 ---
 
 Strzok and Page’s names are connected to meetings and phone calls in the UK and DC

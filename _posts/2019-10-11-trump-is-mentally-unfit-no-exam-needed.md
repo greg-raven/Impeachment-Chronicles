@@ -1,6 +1,6 @@
 ---
 title: 'Trump is mentally unfit, no exam needed'
-layout: post
+layout: default
 author:
 - Leonard L. Glass
 - Bandy X. Lee

@@ -1,6 +1,6 @@
 ---
 title: 'Dem Rep. Maxine Waters leads ‘impeach’ Trump chant at leftist Tax March rally'
-layout: post
+layout: default
 author:
 - Justin Haskins
 ---

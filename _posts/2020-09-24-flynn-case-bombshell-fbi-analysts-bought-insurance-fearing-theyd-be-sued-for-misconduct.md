@@ -1,6 +1,6 @@
 ---
 title: 'Flynn case bombshell: FBI analysts bought insurance fearing they’d be sued for misconduct'
-layout: post
+layout: default
 author:
 - John Solomon
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Timeline: Use the Logan Act against Flynn'
-layout: post
+layout: default
 author:
 - Mollie Hemingway
 ---

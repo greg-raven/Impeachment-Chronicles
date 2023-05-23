@@ -1,6 +1,6 @@
 ---
 title: 'A fresh reminder of Russiagate’s failed guardian(s) of integrity'
-layout: post
+layout: default
 author:
 - Aaron Maté
 ---

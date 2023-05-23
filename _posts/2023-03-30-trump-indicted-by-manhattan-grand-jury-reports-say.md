@@ -1,6 +1,6 @@
 ---
 title: 'Trump indicted by Manhattan Grand Jury, reports say'
-layout: post
+layout: default
 author:
 - Nicholas Reimann
 ---

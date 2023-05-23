@@ -1,6 +1,6 @@
 ---
 title: 'Trump is simply the worse America has to offer'
-layout: post
+layout: default
 author:
 - The Lincoln Project
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Deep State: Inside Donald Trump’s paranoid conspiracy theory'
-layout: post
+layout: default
 ---
 
 - Everything you need to know about the supposed forces within the federal government that the President believes are out to get him

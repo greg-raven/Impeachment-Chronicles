@@ -1,6 +1,6 @@
 ---
 title: 'The phone call that could get Trump impeached'
-layout: post
+layout: default
 author:
 - Alvin Chang
 ---

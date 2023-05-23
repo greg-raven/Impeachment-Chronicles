@@ -1,6 +1,6 @@
 ---
 title: 'Kamala Harris on MSNBC'
-layout: post
+layout: default
 ---
 
 > “This is a solemn, serious moment. These are the most serious charges ever brought in the history of our country against a president.”

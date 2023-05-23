@@ -1,6 +1,6 @@
 ---
 title: '10 disturbing revelations from FBI Special Agent William Barnett on the FBI’s Michael Flynn Probe'
-layout: post
+layout: default
 ---
 
 The Justice Department on Thursday released a summary of its interview of a former FBI special agent who revealed damaging information on the initial FBI counterintelligence and Special Counsel Robert Mueller’s investigations into Lt. Gen. (Ret.) Michael Flynn.

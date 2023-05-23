@@ -1,6 +1,6 @@
 ---
 title: 'Sick of DT crying hoax'
-layout: post
+layout: default
 author:
 - Rob Reiner
 ---

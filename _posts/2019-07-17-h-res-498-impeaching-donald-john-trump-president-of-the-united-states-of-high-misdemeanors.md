@@ -1,6 +1,6 @@
 ---
 title: 'H.Res.498 — Impeaching Donald John Trump, President of the United States, of high misdemeanors'
-layout: post
+layout: default
 ---
 
 Introduced by Rep. Al Green (D-TX-9)

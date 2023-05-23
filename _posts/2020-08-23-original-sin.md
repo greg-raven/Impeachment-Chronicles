@@ -1,6 +1,6 @@
 ---
 title: 'Original sin'
-layout: post
+layout: default
 author:
 - Rob Reiner
 ---

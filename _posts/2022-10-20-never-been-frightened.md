@@ -1,6 +1,6 @@
 ---
 title: 'Never been frightened?'
-layout: post
+layout: default
 author:
 - CasuallyGreg
 ---

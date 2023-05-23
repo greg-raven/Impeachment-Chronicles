@@ -1,6 +1,6 @@
 ---
 title: 'Time for media to dig in hard'
-layout: post
+layout: default
 author:
 - Rob Reiner
 ---

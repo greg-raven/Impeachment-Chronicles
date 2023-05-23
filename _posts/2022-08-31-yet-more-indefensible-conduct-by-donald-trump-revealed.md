@@ -1,6 +1,6 @@
 ---
 title: 'Yet more indefensible conduct by Donald Trump'
-layout: post
+layout: default
 author:
 - Liz Cheney
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Crazy as sh*t'
-layout: post
+layout: default
 author:
 - Dan Riehl
 ---

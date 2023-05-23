@@ -1,6 +1,6 @@
 ---
 title: '‘It’s time to stop comparing Trump to Hitler’'
-layout: post
+layout: default
 ---
 
 Rob Reiner, who played the son-in-law of Archie Bunker on “All in the Family,” sent out a pair of tweets last week expressing his dismay with former President Donald Trump.

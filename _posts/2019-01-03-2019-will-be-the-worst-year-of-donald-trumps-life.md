@@ -1,6 +1,6 @@
 ---
 title: '2019 will be the worst year of Donald Trump’s life'
-layout: post
+layout: default
 ---
 
 Some presidents have really bad years.

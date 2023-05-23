@@ -1,6 +1,6 @@
 ---
 title: 'The Washington Post corrects, removes parts of two stories regarding the Steele dossier'
-layout: post
+layout: default
 author:
 - Paul Farhi
 ---

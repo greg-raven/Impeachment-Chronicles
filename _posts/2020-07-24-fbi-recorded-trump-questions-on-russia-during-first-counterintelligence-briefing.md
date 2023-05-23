@@ -1,6 +1,6 @@
 ---
 title: 'FBI recorded Trump questions on Russia during first counterintelligence briefing'
-layout: post
+layout: default
 author:
 - John Solomon
 ---

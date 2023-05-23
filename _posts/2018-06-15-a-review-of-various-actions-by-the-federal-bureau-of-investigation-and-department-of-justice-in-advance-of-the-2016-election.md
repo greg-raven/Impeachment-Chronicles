@@ -1,6 +1,6 @@
 ---
 title: 'A review of various actions by the Federal Bureau of Investigation and Department of Justice in advance of the 2016 election'
-layout: post
+layout: default
 ---
 
 **Conclusions**

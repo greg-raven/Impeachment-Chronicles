@@ -1,6 +1,6 @@
 ---
 title: 'Duty to warn'
-layout: post
+layout: default
 ---
 
 **What Is Duty To Warn?**

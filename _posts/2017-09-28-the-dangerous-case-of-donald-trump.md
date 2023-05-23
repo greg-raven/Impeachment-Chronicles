@@ -1,6 +1,6 @@
 ---
 title: '‘The Dangerous Case of Donald Trump’'
-layout: post
+layout: default
 ---
 
 - A new book delves into the president’s mental health.

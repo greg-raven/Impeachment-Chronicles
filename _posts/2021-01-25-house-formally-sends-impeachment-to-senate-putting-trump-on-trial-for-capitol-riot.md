@@ -1,6 +1,6 @@
 ---
 title: 'House formally sends impeachment to Senate, putting Trump on trial for Capitol riot'
-layout: post
+layout: default
 author:
 - Mike Lillis
 - Scott Wong

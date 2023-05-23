@@ -1,6 +1,6 @@
 ---
 title: 'Senate Republicans release files they say ‘undercut’ Steele dossier'
-layout: post
+layout: default
 ---
 
 - The Senate Judiciary Committee on Friday released newly declassified documents

@@ -1,6 +1,6 @@
 ---
 title: 'Biden camp called Mike Morell after debate with Trump to thank him for creating bogus letter on Hunter laptop signed by 51 intel operatives and lying to American public'
-layout: post
+layout: default
 author:
 - Jim Hoft
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Task of impeachment is not enough'
-layout: post
+layout: default
 author:
 - BrooklynDad Defiant!
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Trump says every American can get a coronavirus vaccine by April, but health experts say that’s not likely'
-layout: post
+layout: default
 ---
 
 (CNN) — President Donald Trump claimed Friday there will be enough coronavirus vaccines for every American by April — a claim that doesn’t match any timeline given by the federal government’s health agencies, private researchers or even the companies making the vaccines.

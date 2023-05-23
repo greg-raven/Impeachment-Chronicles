@@ -1,6 +1,6 @@
 ---
 title: 'CIA solicited signatures for ‘Russian disinformation’ letter'
-layout: post
+layout: default
 author:
 - Brett T.
 ---

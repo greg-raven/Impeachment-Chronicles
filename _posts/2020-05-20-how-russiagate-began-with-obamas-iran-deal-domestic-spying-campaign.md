@@ -1,6 +1,6 @@
 ---
 title: 'How Russiagate began with Obama’s Iran Deal domestic spying campaign'
-layout: post
+layout: default
 author:
 - Lee Smith
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Ukrainian efforts to sabotage Trump backfire'
-layout: post
+layout: default
 ---
 
 - Kiev officials are scrambling to make amends with the president-elect after quietly working to boost Clinton.

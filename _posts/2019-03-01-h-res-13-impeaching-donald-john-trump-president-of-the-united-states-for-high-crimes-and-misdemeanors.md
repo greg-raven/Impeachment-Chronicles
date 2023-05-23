@@ -1,6 +1,6 @@
 ---
 title: 'H.Res.13 — Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors'
-layout: post
+layout: default
 author:
 - Brad Sherman
 ---

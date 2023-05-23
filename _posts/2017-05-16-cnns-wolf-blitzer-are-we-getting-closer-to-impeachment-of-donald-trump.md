@@ -1,6 +1,6 @@
 ---
 title: 'CNN’s Wolf Blitzer: ‘Are we getting closer’ to impeachment of Donald Trump?'
-layout: post
+layout: default
 ---
 
 CNN host Wolf Blitzer brought up the possibility of impeaching President Trump in an interview with Senator Angus King (I-Maine) Tuesday evening after a New York Times article alleged the president asked then-FBI Director Comey to end the FBI investigation of former National Security Adviser Michael Flynn.

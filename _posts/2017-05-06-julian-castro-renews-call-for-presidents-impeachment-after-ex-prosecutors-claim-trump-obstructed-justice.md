@@ -1,6 +1,6 @@
 ---
 title: 'Julian Castro renews call for president’s impeachment after ex-prosecutors claim Trump obstructed justice'
-layout: post
+layout: default
 ---
 
 NEWMARKET, N.H. – 2020 presidential candidate Julian Castro once again urged the House of Representatives on Monday to move forward with impeachment proceedings against President Trump.

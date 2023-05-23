@@ -1,6 +1,6 @@
 ---
 title: 'Donald Trump’s full statement on impeachment trial acquittal'
-layout: post
+layout: default
 author:
 - Donald Trump
 ---

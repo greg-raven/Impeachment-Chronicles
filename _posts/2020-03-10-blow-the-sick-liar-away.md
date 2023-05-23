@@ -1,6 +1,6 @@
 ---
 title: 'Blow the sick liar away'
-layout: post
+layout: default
 author:
 - Rob Reiner
 ---

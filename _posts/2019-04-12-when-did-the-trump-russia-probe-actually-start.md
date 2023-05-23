@@ -1,6 +1,6 @@
 ---
 title: 'When did the Trump-Russia probe actually start?'
-layout: post
+layout: default
 ---
 
 The FBI’s investigation into the Trump campaign formally began in late July 2016, after the Australian government sent in a tip about George Papadopoulos.

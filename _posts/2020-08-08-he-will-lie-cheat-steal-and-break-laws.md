@@ -1,6 +1,6 @@
 ---
 title: 'He will lie, cheat, steal, and break laws'
-layout: post
+layout: default
 author:
 - Rob Reiner
 ---

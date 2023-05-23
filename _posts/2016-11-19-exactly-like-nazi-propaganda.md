@@ -1,6 +1,6 @@
 ---
 title: 'Exactly like Nazi propaganda'
-layout: post
+layout: default
 author:
 - Dean Obeidallah
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Impeachment 2.0? Democrats line up possible new charges against Trump'
-layout: post
+layout: default
 ---
 
 Democrats already have lined up possible charges if they choose to pursue impeachment 2.0.

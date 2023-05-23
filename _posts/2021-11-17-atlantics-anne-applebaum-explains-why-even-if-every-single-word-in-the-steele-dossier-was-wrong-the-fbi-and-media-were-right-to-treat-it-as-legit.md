@@ -1,6 +1,6 @@
 ---
 title: 'Atlantic’s Anne Applebaum explains why ‘even if every single word in the Steele dossier was wrong,’ the FBI and media were right to treat it as legit'
-layout: post
+layout: default
 author:
 - Anne Applebaum
 ---

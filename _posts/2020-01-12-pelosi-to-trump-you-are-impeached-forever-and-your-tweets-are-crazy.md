@@ -1,6 +1,6 @@
 ---
 title: 'Pelosi to Trump: You are impeached forever (and your tweets are crazy)'
-layout: post
+layout: default
 ---
 
 - The Speaker of the House did not hold back on *This Week with George Stephanopoulos.*

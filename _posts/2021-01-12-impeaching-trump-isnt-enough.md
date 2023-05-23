@@ -1,6 +1,6 @@
 ---
 title: 'Impeaching Trump isn’t enough'
-layout: post
+layout: default
 ---
 
 Impeachment of President Donald Trump is necessary but not enough. Conviction, too, is amply warranted but still insufficient. Congress must take that final step and use its rarely invoked constitutional power to disqualify Trump from ever again holding federal office.

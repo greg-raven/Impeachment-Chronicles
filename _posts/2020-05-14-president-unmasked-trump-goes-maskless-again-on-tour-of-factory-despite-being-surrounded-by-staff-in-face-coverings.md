@@ -1,6 +1,6 @@
 ---
 title: 'President unmasked: Trump goes maskless AGAIN on tour of factory despite being surrounded by staff in face coverings'
-layout: post
+layout: default
 ---
 
 PRESIDENT Donald Trump has been seen not wearing a mask again on a tour of a factory despite being surrounded by staff in face coverings.

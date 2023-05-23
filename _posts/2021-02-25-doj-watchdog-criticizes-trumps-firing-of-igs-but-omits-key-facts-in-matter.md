@@ -1,6 +1,6 @@
 ---
 title: 'DOJ watchdog criticizes Trump’s firing of IGs, but omits key facts in matter'
-layout: post
+layout: default
 author:
 - Jeff Carlson
 ---

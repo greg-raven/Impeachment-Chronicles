@@ -1,6 +1,6 @@
 ---
 title: 'We’ve just hit 180 cosponsors of the Article of Impeachment'
-layout: post
+layout: default
 author:
 - Ted Lieu
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Timeline: FBI targets Flynn'
-layout: post
+layout: default
 author:
 - Mollie Hemingway
 ---

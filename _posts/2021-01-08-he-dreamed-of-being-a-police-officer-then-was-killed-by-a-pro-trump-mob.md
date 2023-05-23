@@ -1,6 +1,6 @@
 ---
 title: 'He dreamed of being a police officer, then was killed by a pro-Trump mob'
-layout: post
+layout: default
 ---
 
 - The death of Brian Sicknick, a military veteran and experienced Capitol Police officer, amplified the tragedy of Wednesday’s riots and undermined President Trump’s pro-law-enforcement claims.

@@ -1,6 +1,6 @@
 ---
 title: 'AG Barr gives update on Durham Probe: ‘Group of people’ attempted to ‘topple’ Trump admin'
-layout: post
+layout: default
 ---
 
 During an interview last week, Attorney General William Barr gave an update on the criminal investigation into the origin of the Obama-era FBI counterintelligence investigation into the Trump campaign, saying that a “willful if small group of people” were involved in an attempt to “topple” the Trump administration.

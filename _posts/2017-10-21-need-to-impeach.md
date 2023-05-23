@@ -1,6 +1,6 @@
 ---
 title: 'Need To Impeach'
-layout: post
+layout: default
 ---
 
 On October 21, 2017, Tom Steyer launched Need to Impeach in order to pressure Congress to hold the most corrupt president in U.S. history accountable.

@@ -1,6 +1,6 @@
 ---
 title: 'Senate releases unredacted Strzok-Page texts showing FBI initiated MULTIPLE SPIES in Trump campaign in December 2015'
-layout: post
+layout: default
 ---
 
 The US Senate today released over [500 pages of information related to the Spygate scandal](https://www.hsgac.senate.gov/imo/media/doc/Appendix%20C%20-%20Documents.pdf).

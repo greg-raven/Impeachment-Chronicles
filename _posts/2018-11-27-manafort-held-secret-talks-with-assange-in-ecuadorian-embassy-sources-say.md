@@ -1,6 +1,6 @@
 ---
 title: 'Manafort held secret talks with Assange in Ecuadorian embassy, sources say'
-layout: post
+layout: default
 ---
 
 Donald Trump’s former campaign manager Paul Manafort held secret talks withJulian Assange inside the Ecuadorian embassy in London, and visited around the time he joined Trump’s campaign, the Guardian has been told.

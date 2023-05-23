@@ -1,6 +1,6 @@
 ---
 title: 'Top FBI official ousted amid charges of bias in Hunter Biden investigation'
-layout: post
+layout: default
 author:
 - Peter Roff
 ---

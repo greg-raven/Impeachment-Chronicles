@@ -1,6 +1,6 @@
 ---
 title: '6 freshly documented instances of systemic pro-Democrat FBI Corruption'
-layout: post
+layout: default
 author:
 - Joy Pullman
 ---

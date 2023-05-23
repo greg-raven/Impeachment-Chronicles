@@ -1,6 +1,6 @@
 ---
 title: 'Putin controlled Trump through blackmail'
-layout: post
+layout: default
 author:
 - Glenn Greenwald
 ---

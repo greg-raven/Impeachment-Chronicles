@@ -1,6 +1,6 @@
 ---
 title: 'Trump impeachment? Texas Democrat forces vote against party’s wishes'
-layout: post
+layout: default
 ---
 
 - Democrat Pushes Vote On Trump Impeachment. It Didn’t Succeed

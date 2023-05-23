@@ -1,6 +1,6 @@
 ---
 title: '4 new things we just learned about the Special Counsel Investigation'
-layout: post
+layout: default
 author:
 - Margot Cleveland
 ---

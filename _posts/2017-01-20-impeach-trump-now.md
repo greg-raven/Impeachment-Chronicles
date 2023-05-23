@@ -1,6 +1,6 @@
 ---
 title: 'Impeach Trump Now'
-layout: post
+layout: default
 ---
 
 On January 20, 2017, Free Speech For People and RootsAction launched the campaign to Impeach Donald Trump Now to call for an impeachment investigation of President Trump for violations of the Domestic and Foreign Emoluments Clauses of the U.S. Constitution. The campaign expanded the grounds for impeachment following Trump’s continued and repeated abuses of power.

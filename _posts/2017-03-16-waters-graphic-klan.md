@@ -1,6 +1,6 @@
 ---
 title: 'Meet Donald Trump’s KremLINKlan'
-layout: post
+layout: default
 author:
 - Maxine Waters
 ---

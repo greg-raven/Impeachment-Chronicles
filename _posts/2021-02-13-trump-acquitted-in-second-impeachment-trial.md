@@ -1,6 +1,6 @@
 ---
 title: 'Trump acquitted in second impeachment trial'
-layout: post
+layout: default
 author:
 - Zachary Stieber
 ---

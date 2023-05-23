@@ -1,6 +1,6 @@
 ---
 title: 'Trump owes tens of millions to Bank of China'
-layout: post
+layout: default
 author:
 - Marc Caputo
 - Meridith Mcgraw

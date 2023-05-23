@@ -1,6 +1,6 @@
 ---
 title: 'Luke Zaleski: Trump is guilty'
-layout: post
+layout: default
 author:
 - Luke Zaleski
 ---

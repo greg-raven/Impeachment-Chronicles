@@ -1,6 +1,6 @@
 ---
 title: 'FBI spying on Trump started in London, earlier than thought'
-layout: post
+layout: default
 ---
 
 - New texts implicate Obama White House

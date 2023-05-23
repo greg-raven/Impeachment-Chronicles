@@ -1,6 +1,6 @@
 ---
 title: 'Timeline: Guidance from Obama'
-layout: post
+layout: default
 author:
 - Mollie Hemingway
 ---

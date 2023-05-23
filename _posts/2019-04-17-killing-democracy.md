@@ -1,6 +1,6 @@
 ---
 title: 'Killing democracy'
-layout: post
+layout: default
 author:
 - Rob Reiner
 ---

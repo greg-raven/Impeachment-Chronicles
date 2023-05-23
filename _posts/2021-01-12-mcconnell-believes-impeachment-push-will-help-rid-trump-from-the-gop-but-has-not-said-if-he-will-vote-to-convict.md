@@ -1,6 +1,6 @@
 ---
 title: 'McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict'
-layout: post
+layout: default
 ---
 
 Washington (CNN) — Senate Majority Leader Mitch McConnell has indicated that he believes that impeaching President Donald Trump will make it easier to get rid of the President and Trumpism from the Republican Party, according to a source with knowledge of the matter.

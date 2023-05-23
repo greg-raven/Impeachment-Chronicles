@@ -1,6 +1,6 @@
 ---
 title: 'Over 50 ‘classified’ folders seized by FBI from Mar-a-Lago were empty'
-layout: post
+layout: default
 author:
 - Jordan Dixon-Hamilton
 ---

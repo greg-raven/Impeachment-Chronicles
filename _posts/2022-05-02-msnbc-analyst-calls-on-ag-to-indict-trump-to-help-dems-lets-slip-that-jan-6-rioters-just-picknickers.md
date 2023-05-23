@@ -1,6 +1,6 @@
 ---
 title: 'MSNBC analyst calls on AG to indict Trump to ‘help’ Dems, lets slip that Jan 6 rioters just ‘picknickers’'
-layout: post
+layout: default
 author:
 - Robert Jonathan
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Explosive emails show former CIA directors colluding to create false document to influence the 2020 election'
-layout: post
+layout: default
 author:
 - Chris
 ---

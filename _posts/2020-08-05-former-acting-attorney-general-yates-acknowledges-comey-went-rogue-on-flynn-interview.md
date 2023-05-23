@@ -1,6 +1,6 @@
 ---
 title: 'Former acting Attorney General Yates acknowledges Comey ‘went rogue’ on Flynn interview'
-layout: post
+layout: default
 ---
 
 - Yates is testifying before the Senate Judiciary Committee

@@ -1,6 +1,6 @@
 ---
 title: 'Rep. Maxine Waters: ‘Impeachment is about whatever the Congress says it is’'
-layout: post
+layout: default
 ---
 
 (CNSNews.com) — Rep. Maxine Waters (D-Calif.), who previously has called for the impeachment of Donald Trump, on Thursday told a Congressional Black Caucus Town Hall on Civil Rights that she expects other members of the black community to back her up:

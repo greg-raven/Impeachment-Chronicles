@@ -1,6 +1,6 @@
 ---
 title: 'Anticipating Trump’s return to Twitter'
-layout: post
+layout: default
 author:
 - Rick Wilson
 ---

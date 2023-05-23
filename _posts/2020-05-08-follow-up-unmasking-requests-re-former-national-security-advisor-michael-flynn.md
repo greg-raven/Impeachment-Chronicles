@@ -1,6 +1,6 @@
 ---
 title: 'Follow-up unmasking requests re former National Security Advisor [Michael Flynn]'
-layout: post
+layout: default
 author:
 - Paul M. Nakasone
 ---

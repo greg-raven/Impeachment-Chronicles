@@ -1,6 +1,6 @@
 ---
 title: 'You cannot reason with a Trump supporter'
-layout: post
+layout: default
 author:
 - Rob Reiner
 ---

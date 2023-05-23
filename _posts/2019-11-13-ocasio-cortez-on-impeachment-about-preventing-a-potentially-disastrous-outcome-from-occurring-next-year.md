@@ -1,6 +1,6 @@
 ---
 title: 'Ocasio-Cortez on impeachment: ‘About preventing a potentially disastrous outcome from occurring next year’'
-layout: post
+layout: default
 author:
 - Ryan Saavedra
 ---

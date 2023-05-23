@@ -1,6 +1,6 @@
 ---
 title: 'Federal judge allows Capitol Police officers’ lawsuit against Trump for Jan 6 riot to proceed'
-layout: post
+layout: default
 author:
 - The Postmillennial
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Key evidence undermining Ukraine impeachment narrative withheld from Trump defense'
-layout: post
+layout: default
 author:
 - Matt Margolis
 ---

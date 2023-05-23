@@ -1,6 +1,6 @@
 ---
 title: 'Text: Our open investigations relating to Trump’s Russian connections'
-layout: post
+layout: default
 author:
 - Peter Strzok
 ---

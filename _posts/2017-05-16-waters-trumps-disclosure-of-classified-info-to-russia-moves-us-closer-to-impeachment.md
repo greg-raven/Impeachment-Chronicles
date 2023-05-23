@@ -1,6 +1,6 @@
 ---
 title: 'Waters — Trump’s disclosure of classified info to Russia moves us closer to ‘impeachment’'
-layout: post
+layout: default
 ---
 
 Rep. Maxine Waters (D., Calif.) on Tuesday spoke at the Center for American Progress Ideas Conference in Washington, where she claimed that Monday’s Washington Post report on President Trump sharing classified intelligence with Russian diplomats moves Congress closer to impeaching him.

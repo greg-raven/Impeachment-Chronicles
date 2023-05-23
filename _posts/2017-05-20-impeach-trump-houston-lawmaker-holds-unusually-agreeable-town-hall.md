@@ -1,6 +1,6 @@
 ---
 title: 'Impeach Trump? Houston lawmaker holds unusually agreeable town hall'
-layout: post
+layout: default
 ---
 
 - Democrat Al Green, who thrilled liberals with his call for the impeachment of the president this week, found a receptive audience at home on Saturday

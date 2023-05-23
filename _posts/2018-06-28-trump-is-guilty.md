@@ -1,6 +1,6 @@
 ---
 title: 'Karine Jean-Pierre: Trump is guilty'
-layout: post
+layout: default
 author:
 - Chris Matthews
 - Karine Jean-Pierre

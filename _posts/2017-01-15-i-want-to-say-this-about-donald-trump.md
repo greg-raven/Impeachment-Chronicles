@@ -1,6 +1,6 @@
 ---
 title: '‘I want to say this about Donald Trump …’'
-layout: post
+layout: default
 ---
 
 > Rep. Jamie Raskin: &ldquo;I want to say this for Donald Trump, who I may well be voting to impeach…&rdquo; He’s drowned out by applause.

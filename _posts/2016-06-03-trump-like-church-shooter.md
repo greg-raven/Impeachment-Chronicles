@@ -1,6 +1,6 @@
 ---
 title: 'Haley compares Trump’s divisive rhetoric to that of Charleston church shooter'
-layout: post
+layout: default
 author:
 - Seanna Adcox
 ---

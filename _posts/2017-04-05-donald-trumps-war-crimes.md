@@ -1,6 +1,6 @@
 ---
 title: 'Donald Trump’s war crimes'
-layout: post
+layout: default
 ---
 
 - His administration is killing unusually large numbers of civilians, in violation of U.S. and international law.

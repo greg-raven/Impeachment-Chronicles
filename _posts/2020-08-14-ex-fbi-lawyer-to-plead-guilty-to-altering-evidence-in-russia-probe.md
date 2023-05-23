@@ -1,6 +1,6 @@
 ---
 title: 'Ex-FBI lawyer to plead guilty to altering evidence in Russia probe'
-layout: post
+layout: default
 author:
 - John Solomon
 ---

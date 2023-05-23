@@ -1,6 +1,6 @@
 ---
 title: 'Unfit Trump has committed impeachable offenses'
-layout: post
+layout: default
 author:
 - Rob Reiner
 ---

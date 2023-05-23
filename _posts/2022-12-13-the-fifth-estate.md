@@ -1,6 +1,6 @@
 ---
 title: 'The Fifth Estate'
-layout: post
+layout: default
 author:
 - Mike Solana
 ---

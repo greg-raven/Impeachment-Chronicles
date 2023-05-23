@@ -1,6 +1,6 @@
 ---
 title: 'Trump ‘compromising’ claims: How and why did we get here?'
-layout: post
+layout: default
 author:
 - Paul Wood
 ---

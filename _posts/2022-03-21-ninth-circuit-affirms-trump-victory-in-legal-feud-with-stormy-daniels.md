@@ -1,6 +1,6 @@
 ---
 title: 'Ninth Circuit affirms Trump victory in legal feud with Stormy Daniels'
-layout: post
+layout: default
 author:
 - Jordan Dixon-Hamilton
 ---

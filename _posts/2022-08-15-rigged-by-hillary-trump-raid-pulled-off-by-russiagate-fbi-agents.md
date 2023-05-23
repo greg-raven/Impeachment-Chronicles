@@ -1,6 +1,6 @@
 ---
 title: 'Rigged by Hillary? Trump raid pulled off by ‘Russiagate’ FBI agents'
-layout: post
+layout: default
 author:
 - Bob Unruh
 ---

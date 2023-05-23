@@ -1,6 +1,6 @@
 ---
 title: 'Trump must be impeached. Here’s why.'
-layout: post
+layout: default
 ---
 
 The time has come for Congress to launch an impeachment investigation of President Trump for obstruction of justice.

@@ -1,6 +1,6 @@
 ---
 title: 'Allow me to share some frank thoughts about the ‘president’'
-layout: post
+layout: default
 ---
 
 The orangutan in the White House is less refined than a savage. He is a fool, an irresolute, vacillating imbecile. He is an idiot, of low intellectual capacity. He is a barbarian, a yahoo, a gorilla — the original gorilla — and an unshapely man. He is horrid-looking, a scoundrel, a creature fit, evidently, for petty treasons.

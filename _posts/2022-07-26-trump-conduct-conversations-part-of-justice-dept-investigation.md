@@ -1,6 +1,6 @@
 ---
 title: 'Trump conduct, conversations part of Justice Dept. investigation'
-layout: post
+layout: default
 author:
 - Carol D. Leonnig
 - Devlin Barrett

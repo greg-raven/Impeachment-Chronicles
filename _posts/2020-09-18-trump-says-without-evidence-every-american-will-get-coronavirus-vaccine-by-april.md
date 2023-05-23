@@ -1,6 +1,6 @@
 ---
 title: 'Trump says, without evidence, every American will get coronavirus vaccine by April'
-layout: post
+layout: default
 ---
 
 President Trump said Friday that every American would have access to a coronavirus vaccine by April, contradicting his own statement of two days earlier and sowing deeper confusion about the process and timing of vaccine approval and distribution.

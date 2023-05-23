@@ -1,6 +1,6 @@
 ---
 title: 'Rape culture America'
-layout: post
+layout: default
 author:
 - Lindsey Boylan
 ---

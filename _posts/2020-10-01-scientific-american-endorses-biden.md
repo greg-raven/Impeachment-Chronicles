@@ -1,6 +1,6 @@
 ---
 title: 'Scientific American endorses Joe Biden'
-layout: post
+layout: default
 author:
 - Scientific American
 ---

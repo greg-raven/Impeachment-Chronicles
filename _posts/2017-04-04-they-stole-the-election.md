@@ -1,6 +1,6 @@
 ---
 title: 'They stole the election'
-layout: post
+layout: default
 author:
 - Rob Reiner
 ---

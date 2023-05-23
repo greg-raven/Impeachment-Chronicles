@@ -1,6 +1,6 @@
 ---
 title: 'AOC calls for Trump to be impeached — ‘We came close to half of the House nearly dying’'
-layout: post
+layout: default
 ---
 
 Representative Alexandria Ocasio-Cortez (D-NY) spoke out on Sunday to call for President Donald Trump to be removed from office due to the Capitol riots last week.

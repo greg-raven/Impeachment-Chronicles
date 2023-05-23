@@ -1,6 +1,6 @@
 ---
 title: 'Pelosi: Trump’s impeachment ‘cannot be erased’'
-layout: post
+layout: default
 ---
 
 Speaker Nancy Pelosi (D-Calif.) ahead of a vote on Wednesday to send House-passed articles of impeachment to the Senate for a trial doubled down on comments that impeachment will forever be a part of President Trump’s legacy.

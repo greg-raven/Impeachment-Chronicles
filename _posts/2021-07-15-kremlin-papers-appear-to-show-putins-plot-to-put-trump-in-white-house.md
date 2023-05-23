@@ -1,6 +1,6 @@
 ---
 title: 'Kremlin papers appear to show Putin’s plot to put Trump in White House'
-layout: post
+layout: default
 author:
 - Luke Harding
 - Julian Borger

@@ -1,6 +1,6 @@
 ---
 title: 'Who has been impeached before?'
-layout: post
+layout: default
 ---
 
 Two presidents, Bill Clinton (1998) and Andrew Johnson (1868). (Congress may also impeach judges.) Articles of impeachment were passed against [Richard Nixon](https://www.theguardian.com/us-news/richard-nixon) by a congressional committee, but Nixon resigned before the House of Representatives could vote on the matter, meaning that technically he was not impeached.

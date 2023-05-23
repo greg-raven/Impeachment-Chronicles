@@ -1,6 +1,6 @@
 ---
 title: 'Eric Trump: ‘Coordinated attack on all fronts’ against President Trump'
-layout: post
+layout: default
 author:
 - Daniel Baldwin
 ---

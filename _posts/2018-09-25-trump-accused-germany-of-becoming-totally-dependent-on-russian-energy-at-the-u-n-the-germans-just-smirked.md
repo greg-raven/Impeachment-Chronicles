@@ -1,6 +1,6 @@
 ---
 title: 'Trump accused Germany of becoming ‘totally dependent’ on Russian energy at the U.N.'
-layout: post
+layout: default
 author:
 - Rick Noack
 ---

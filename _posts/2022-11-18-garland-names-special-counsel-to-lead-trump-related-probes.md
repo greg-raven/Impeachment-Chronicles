@@ -1,6 +1,6 @@
 ---
 title: 'Garland names special counsel to lead Trump-related probes'
-layout: post
+layout: default
 author:
 - Eric Tucker
 - Michael Balsamo

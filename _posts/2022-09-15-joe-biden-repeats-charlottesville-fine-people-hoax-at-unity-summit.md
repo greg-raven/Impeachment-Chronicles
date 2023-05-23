@@ -1,6 +1,6 @@
 ---
 title: 'Joe Biden repeats Charlottesville ‘fine people hoax’ at ‘Unity Summit’'
-layout: post
+layout: default
 author:
 - Joel B. Pollack
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Democrats cannot impeach Trump, and you can’t impeach him after leaving office: Dershowitz'
-layout: post
+layout: default
 ---
 
 Harvard Law professor emeritus Alan Dershowitz said Democrats have virtually no chance of successfully impeaching and removing President Donald Trump before Inauguration Day on Jan. 20.

@@ -1,6 +1,6 @@
 ---
 title: 'Shrinks battle over diagnosing Donald Trump'
-layout: post
+layout: default
 ---
 
 - Chaos in the White House fuels discord amongst the experts.

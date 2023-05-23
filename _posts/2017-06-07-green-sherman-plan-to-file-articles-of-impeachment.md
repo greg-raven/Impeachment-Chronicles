@@ -1,6 +1,6 @@
 ---
 title: 'Reps. Green and Sherman announce plan to file articles of impeachment'
-layout: post
+layout: default
 author:
 - Brooke Singman
 ---

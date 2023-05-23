@@ -1,6 +1,6 @@
 ---
 title: 'Today we delivered over 850,000 signatures to Congress calling for an impeachment investigation'
-layout: post
+layout: default
 ---
 
 Wow! This is Amazing!

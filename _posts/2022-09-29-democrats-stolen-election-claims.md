@@ -1,6 +1,6 @@
 ---
 title: 'Democrat’s ‘stolen election’ claims'
-layout: post
+layout: default
 author:
 - Peter Doocy
 ---

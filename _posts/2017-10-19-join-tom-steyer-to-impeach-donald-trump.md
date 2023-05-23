@@ -1,6 +1,6 @@
 ---
 title: 'Join Tom Steyer to impeach Donald Trump'
-layout: post
+layout: default
 author:
 - Tom Steyer
 ---

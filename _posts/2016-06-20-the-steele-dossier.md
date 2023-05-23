@@ -1,6 +1,6 @@
 ---
 title: 'The Steele Dossier'
-layout: post
+layout: default
 ---
 
 ## COMPANY INTELLIGENCE REPORT 2016/080

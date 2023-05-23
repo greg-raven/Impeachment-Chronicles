@@ -1,6 +1,6 @@
 ---
 title: '‘This is about our democracy,’ Schiff says of impeachment report'
-layout: post
+layout: default
 ---
 
 - The House Intelligence Committee, led by Representative Adam B. Schiff, concluded in a 300-page report that President Trump tried to solicit foreign interference in the 2020 election.

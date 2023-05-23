@@ -1,6 +1,6 @@
 ---
 title: 'Democrats plot impeaching Trump multiple times, including if he wins re-election: ‘No limit to the number of times the house can vote to impeach’'
-layout: post
+layout: default
 author:
 - Ryan Saavedra
 ---

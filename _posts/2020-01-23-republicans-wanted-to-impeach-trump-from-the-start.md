@@ -1,6 +1,6 @@
 ---
 title: 'Republicans wanted to impeach Trump from the start'
-layout: post
+layout: default
 author:
 - Virginia Heffernan
 ---

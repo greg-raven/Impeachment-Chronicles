@@ -1,6 +1,6 @@
 ---
 title: 'Congressional candidate forms Impeach Trump PAC'
-layout: post
+layout: default
 ---
 
 A Democratic congressional candidate filed paperwork with the the Federal Election Commission (FEC) to create the Impeach Trump Leadership PAC.

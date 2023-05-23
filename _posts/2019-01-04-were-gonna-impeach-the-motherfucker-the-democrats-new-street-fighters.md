@@ -1,6 +1,6 @@
 ---
 title: '‘We’re gonna impeach the motherfucker’: the Democrats’ new street fighters'
-layout: post
+layout: default
 ---
 
 - Progressives cheer as Congress’s new intake pledge to take the fight to Trump.

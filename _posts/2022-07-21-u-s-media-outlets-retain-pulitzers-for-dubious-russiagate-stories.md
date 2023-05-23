@@ -1,6 +1,6 @@
 ---
 title: 'U.S. media outlets retain Pulitzers for dubious ‘Russiagate’ stories'
-layout: post
+layout: default
 author:
 - Russia Times
 ---

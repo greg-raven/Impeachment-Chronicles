@@ -1,6 +1,6 @@
 ---
 title: 'Mueller and Weissmann op-eds greatly at odds with their report and evidence'
-layout: post
+layout: default
 author:
 - Aaron Maté
 ---

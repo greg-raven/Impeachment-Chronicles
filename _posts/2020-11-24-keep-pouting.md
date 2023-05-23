@@ -1,6 +1,6 @@
 ---
 title: 'Keep pouting'
-layout: post
+layout: default
 author:
 - Hakeem Jeffries
 ---

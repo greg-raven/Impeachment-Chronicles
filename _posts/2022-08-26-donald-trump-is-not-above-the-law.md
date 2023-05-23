@@ -1,6 +1,6 @@
 ---
 title: 'Donald Trump is not above the law'
-layout: post
+layout: default
 author:
 - The New York Times
 ---

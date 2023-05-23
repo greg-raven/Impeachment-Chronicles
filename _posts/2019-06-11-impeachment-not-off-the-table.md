@@ -1,6 +1,6 @@
 ---
 title: 'Impeachment inquiry is ‘not off the table,’ Pelosi says'
-layout: post
+layout: default
 author:
 - Eli Watkins
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Donald Trump led a violent attack'
-layout: post
+layout: default
 author:
 - Rob Reiner
 ---

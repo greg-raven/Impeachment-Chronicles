@@ -1,6 +1,6 @@
 ---
 title: 'Washington Post’s Russiagate retraction'
-layout: post
+layout: default
 author:
 - Glenn Greenwald
 ---

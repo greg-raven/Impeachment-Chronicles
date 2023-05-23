@@ -1,6 +1,6 @@
 ---
 title: '45 Republican Senators vote against Trump impeachment trial, say it’s unconstitutional'
-layout: post
+layout: default
 author:
 - Jack Phillips
 ---

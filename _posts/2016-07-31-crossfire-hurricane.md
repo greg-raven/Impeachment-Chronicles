@@ -1,6 +1,6 @@
 ---
 title: 'Crossfire Hurricane'
-layout: post
+layout: default
 ---
 
 **FEDERAL BUREAU OF INVESTIGATION** Electronic Communication

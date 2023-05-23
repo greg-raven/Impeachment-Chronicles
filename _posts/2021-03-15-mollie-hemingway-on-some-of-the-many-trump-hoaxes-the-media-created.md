@@ -1,6 +1,6 @@
 ---
 title: 'Mollie Hemingway on some of the many Trump hoaxes the media ‘created’'
-layout: post
+layout: default
 author:
 - Mollie Hemingway
 ---

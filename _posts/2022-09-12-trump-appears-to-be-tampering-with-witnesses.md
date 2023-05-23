@@ -1,6 +1,6 @@
 ---
 title: 'Trump appears to be tampering with witnesses'
-layout: post
+layout: default
 author:
 - Duty To Warn
 ---

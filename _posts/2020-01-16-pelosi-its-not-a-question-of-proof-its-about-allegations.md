@@ -1,6 +1,6 @@
 ---
 title: 'Pelosi: ‘It’s not a question’ of ‘proof’ it’s about ‘allegations’'
-layout: post
+layout: default
 ---
 
 > “It’s not a question of proof, it says what allegations have been made and that has to be subjected to scrutiny as to how we go forward, but it should not be ignored in the context of other events that have happened that would substantiate some of that.”

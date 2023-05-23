@@ -1,6 +1,6 @@
 ---
 title: 'They’ll never stop going after Trump'
-layout: post
+layout: default
 author:
 - Jim Jordan
 ---

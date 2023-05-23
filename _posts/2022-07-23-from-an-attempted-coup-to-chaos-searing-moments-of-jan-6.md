@@ -1,6 +1,6 @@
 ---
 title: 'From ‘an attempted coup’ to chaos, searing moments of Jan. 6'
-layout: post
+layout: default
 author:
 - Associated Press
 ---

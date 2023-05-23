@@ -1,6 +1,6 @@
 ---
 title: 'Nazi Nazi RACIST Nazi BIGOT'
-layout: post
+layout: default
 author:
 - Keith Olbermann
 ---

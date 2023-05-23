@@ -1,6 +1,6 @@
 ---
 title: 'The FBI put a $1 million bounty on Trump as the Bureau sought to frame him'
-layout: post
+layout: default
 author:
 - Gregg Jarrett
 ---

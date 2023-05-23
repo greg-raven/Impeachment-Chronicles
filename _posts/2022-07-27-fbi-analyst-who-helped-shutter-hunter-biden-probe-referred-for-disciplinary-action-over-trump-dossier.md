@@ -1,6 +1,6 @@
 ---
 title: 'FBI analyst who helped shutter Hunter Biden probe referred for disciplinary action over Trump dossier'
-layout: post
+layout: default
 author:
 - Todd Jaquith
 ---

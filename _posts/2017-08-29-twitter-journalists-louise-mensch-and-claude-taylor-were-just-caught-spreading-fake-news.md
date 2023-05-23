@@ -1,6 +1,6 @@
 ---
 title: 'Twitter ‘journalists’ Louise Mensch and Claude Taylor were just caught spreading fake news'
-layout: post
+layout: default
 ---
 
 In the words of Mark Twain, “everybody talks about fake news but nobody does anything about it.” Such it is with Twitter “citizen journalists” like Louise Mensch and Claude Taylor, who claim to be uncovering unreported political conspiracies but are more than likely just spreading falsehoods. Which is why, as I’ve argued before, Twitter users like Mensch, who have a track record of disseminating lies, should not be given official verification checkmarks.

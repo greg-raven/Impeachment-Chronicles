@@ -1,6 +1,6 @@
 ---
 title: 'Biden removed President Trump’s executive privilege in order to raid Mar-a-Lago to cover-up his own illegal possession of classified docs'
-layout: post
+layout: default
 author:
 - Joe Hoft
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Flynn’s original FD-302 is so important, the Special Counsel had to leak a prosecution threat against Flynn’s son just to avoid turning it over to his original lawyers Covington'
-layout: post
+layout: default
 ---
 
 Wed Nov 1, 2017: Flynn’s original lawyers Covington ask for a copy of his FD-302: “We don’t think he has committed a felony offense”

@@ -1,6 +1,6 @@
 ---
 title: 'Jeff Flake warns of impeachment if Trump fires Mueller'
-layout: post
+layout: default
 ---
 
 (CNN) — Republican Sen. Jeff Flake, an outspoken critic of President Donald Trump, tweeted Tuesday that if the President were to fire special counsel Robert Mueller, the “only constitutional remedy is after the fact, through impeachment.”

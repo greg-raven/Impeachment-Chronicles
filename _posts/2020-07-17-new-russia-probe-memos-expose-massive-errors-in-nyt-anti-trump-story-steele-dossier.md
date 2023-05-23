@@ -1,6 +1,6 @@
 ---
 title: 'New Russia probe memos expose massive errors in NYT anti-Trump story, Steele dossier'
-layout: post
+layout: default
 ---
 
 Senate Judiciary Committee Chairman Sen. Lindsey Graham (R-S.C.) has released two newly-declassified documents related to government surveillance abuses against the Trump campaign in 2016.

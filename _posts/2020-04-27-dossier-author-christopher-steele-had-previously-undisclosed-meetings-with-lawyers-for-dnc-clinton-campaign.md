@@ -1,6 +1,6 @@
 ---
 title: 'Dossier author Christopher Steele had previously undisclosed meetings with lawyers for DNC, Clinton Campaign'
-layout: post
+layout: default
 author:
 - Chuck Ross
 ---

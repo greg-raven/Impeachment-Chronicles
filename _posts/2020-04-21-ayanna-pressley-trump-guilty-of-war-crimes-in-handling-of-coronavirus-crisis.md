@@ -1,6 +1,6 @@
 ---
 title: 'Ayanna Pressley: Trump guilty of ‘war crimes’ in handling of coronavirus crisis'
-layout: post
+layout: default
 ---
 
 Rep. Ayanna Pressley accused President Trump’s administration of committing “war crimes” for how it responded to the nationwide outbreak of the coronavirus.

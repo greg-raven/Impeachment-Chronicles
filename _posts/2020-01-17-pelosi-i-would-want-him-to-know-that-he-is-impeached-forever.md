@@ -1,6 +1,6 @@
 ---
 title: 'Pelosi: ‘I would want him to know that he is impeached forever.’'
-layout: post
+layout: default
 ---
 
 > “If I knew that he — if the president was listening — I would want him to know that he is impeached forever.”

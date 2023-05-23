@@ -1,6 +1,6 @@
 ---
 title: 'Trump was right. Again.'
-layout: post
+layout: default
 author:
 - Clay Travis
 ---

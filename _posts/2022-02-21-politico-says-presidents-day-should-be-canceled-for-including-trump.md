@@ -1,6 +1,6 @@
 ---
 title: 'Politico says Presidents’ Day should be ‘canceled’ for including Trump'
-layout: post
+layout: default
 author:
 - Wendell Huseb0
 ---

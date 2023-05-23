@@ -1,6 +1,6 @@
 ---
 title: 'Trump Super PAC releases ‘Witch Hunt’ timeline'
-layout: post
+layout: default
 ---
 
 The America First Action PAC released a [timeline of the ongoing “witch hunt” against President Donald Trump](https://web.archive.org/web/20221207223303/http://www.impeachment-hoax.com/) on Wednesday.

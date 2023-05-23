@@ -1,6 +1,6 @@
 ---
 title: 'Effort to spread discredited Russia collusion theory welcomed by McCain Senate panel, memos show'
-layout: post
+layout: default
 author:
 - John Solomon
 - Lee Smith

@@ -1,6 +1,6 @@
 ---
 title: 'Trump made some outrageous claims about German energy'
-layout: post
+layout: default
 author:
 - NowThis
 ---

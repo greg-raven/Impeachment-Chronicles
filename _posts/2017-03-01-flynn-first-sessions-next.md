@@ -1,6 +1,6 @@
 ---
 title: 'Timeline: Flynn was first, Sessions was next'
-layout: post
+layout: default
 author:
 - Mollie Hemingway
 ---

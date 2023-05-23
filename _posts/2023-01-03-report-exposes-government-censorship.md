@@ -1,6 +1,6 @@
 ---
 title: 'Bombshell report exposes U.S. government-run censorship regime'
-layout: post
+layout: default
 author:
 - Seamus Brennan
 ---

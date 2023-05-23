@@ -1,6 +1,6 @@
 ---
 title: 'The elephant in the room'
-layout: post
+layout: default
 ---
 
 It’s time we talked openly about Donald Trump’s mental health.

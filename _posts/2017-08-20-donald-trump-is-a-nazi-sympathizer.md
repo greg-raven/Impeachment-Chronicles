@@ -1,6 +1,6 @@
 ---
 title: 'Donald Trump is a Nazi sympathizer'
-layout: post
+layout: default
 ---
 
 The late U.S. Poet Laureate Dr. Maya Angelou once said, “When someone shows you who they are, believe them!”

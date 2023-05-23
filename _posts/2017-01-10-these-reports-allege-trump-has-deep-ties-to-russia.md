@@ -1,6 +1,6 @@
 ---
 title: 'These reports allege Trump has deep ties to Russia'
-layout: post
+layout: default
 ---
 
 - [The Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), compiled by a person who has claimed to be a former British intelligence official, alleges Russia has compromising information on Trump. The allegations are unverified, and the report contains errors.

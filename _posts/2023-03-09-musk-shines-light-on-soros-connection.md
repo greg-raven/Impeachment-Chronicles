@@ -1,6 +1,6 @@
 ---
 title: 'Elon Musk shines light on Soros connection to Trump indictment'
-layout: post
+layout: default
 author:
 - Carmine Sabia
 ---

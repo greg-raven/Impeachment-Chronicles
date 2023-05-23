@@ -1,6 +1,6 @@
 ---
 title: 'The secret history of the shadow campaign that saved the 2020 election'
-layout: post
+layout: default
 author:
 -
 ---

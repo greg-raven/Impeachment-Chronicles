@@ -1,6 +1,6 @@
 ---
 title: 'Ex-FBI special agent says Biden’s Department of Justice pushed hard for Bureau to raid Mar-a-Lago'
-layout: post
+layout: default
 author:
 - Alastair Talbot
 ---

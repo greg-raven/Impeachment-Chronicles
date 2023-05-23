@@ -1,6 +1,6 @@
 ---
 title: 'Timeline: Leak targets Flynn'
-layout: post
+layout: default
 author:
 - Mollie Hemingway
 ---
