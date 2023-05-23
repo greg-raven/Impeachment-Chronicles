@@ -10,7 +10,8 @@ description: >
 
 # Build settings
 
-theme: minima
+remote_theme: poole/lanyon
+# theme: minima
 
 plugins:
   - jekyll-feed
@@ -47,10 +48,3 @@ header_pages:
 show_excerpts: true
 
 paginate: 20
-
-# Tipue search settings
-tipue_search:
-  include:
-    pages: true
-  exclude:
-    files: [tipue.html]
