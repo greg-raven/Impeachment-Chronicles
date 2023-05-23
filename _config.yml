@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Attacks on the 45th president and our republic.
+  Attacks on our 45th president and republic.
 
 # Build settings
 
@@ -25,6 +25,8 @@ minima:
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
   # date_format: "%b %-d, %Y"
+
+  skin: auto
 
   # Generate social links in footer.
   #
