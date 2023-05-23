@@ -1,3 +1,0 @@
-
-
-James Clapper’s claim that Watergate paled compared to the Russian collusion probe doesn’t quite mat…

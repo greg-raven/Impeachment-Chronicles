@@ -45,7 +45,7 @@ While it would be impossible to correct print editions published long ago, neith
 
 Their publisher, Twelve, an imprint of Hachette Book Group, did not reply to emails seeking comment. On the book’s official website, the New York-based publisher promotes “Russian Roulette” as a “# 1 NEW YORK TIMES BESTSELLER,” but has not posted any updates or corrections to the webpage.
 
-The site quotes “praise” for the authors from Maddow, who gushed, “Two of the best and most accomplished investigative reporters of their generation, two of the best investigative reporters we have in this country. ... [A] superpower reporting team.”
+The site quotes “praise” for the authors from Maddow, who gushed, “Two of the best and most accomplished investigative reporters of their generation, two of the best investigative reporters we have in this country. … [A] superpower reporting team.”
 
 It also includes this blurb from a *New York Times* review: “Russian Roulette is the most thorough and riveting account.”
 

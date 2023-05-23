@@ -1,5 +1,5 @@
 ---
-title: 'Trump is guilty'
+title: 'Luke Zaleski: Trump is guilty'
 layout: post
 author:
 - Luke Zaleski
