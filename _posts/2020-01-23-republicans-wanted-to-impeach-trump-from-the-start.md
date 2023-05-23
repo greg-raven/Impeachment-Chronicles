@@ -1,6 +1,8 @@
 ---
 title: 'Republicans wanted to impeach Trump from the start'
 layout: post
+author:
+- Virginia Heffernan
 ---
 
 Among the most puzzling defenses of President Trump is this particular script, beloved of Republican lawmakers: “The Democrats have been trying to impeach this president since before he was sworn into office.” Trumpites like to deliver it with high ferocity and little variation.

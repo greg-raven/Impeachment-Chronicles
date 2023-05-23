@@ -1,6 +1,8 @@
 ---
 title: 'Professor predicted Trump win, says he will be impeached'
 layout: post
+author:
+- Leinz Vales
 ---
 
 (CNN) — The man dubbed “Prediction Professor” for accurately calling almost every presidential election since 1984, including the 2016 election, now forecasts the impeachment of President-elect Donald Trump.
