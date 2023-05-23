@@ -10,7 +10,8 @@ description: >
 
 # Build settings
 
-theme: minima
+theme: https://github.com/poole/lanyon
+# minima
 
 plugins:
   - jekyll-feed
