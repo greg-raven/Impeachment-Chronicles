@@ -47,3 +47,10 @@ header_pages:
 show_excerpts: true
 
 paginate: 20
+
+# Tipue search settings
+tipue_search:
+  include:
+    pages: true
+  exclude:
+    files: [tipue.html]
