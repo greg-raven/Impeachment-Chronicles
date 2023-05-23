@@ -10,7 +10,7 @@ description: >
 
 # Build settings
 
-theme: https://github.com/poole/lanyon
+theme: lanyon
 # minima
 
 plugins:
