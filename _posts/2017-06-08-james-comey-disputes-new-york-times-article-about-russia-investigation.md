@@ -1,6 +1,6 @@
 ---
 title: 'James Comey disputes New York Times article about Russia investigation'
-layout: default
+layout: post
 ---
 
 James B. Comey, the former FBI director, on Thursday disputed an article that appeared in February in *The New York Times* about contacts between President Trump’s advisers and Russian intelligence officials.

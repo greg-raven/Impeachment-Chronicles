@@ -1,6 +1,6 @@
 ---
 title: 'Incoming Democrat chairman: Dems will go ‘all-in’ on Russia, impeach Kavanaugh for ‘perjury’'
-layout: default
+layout: post
 author:
 - Mollie Hemingway
 ---

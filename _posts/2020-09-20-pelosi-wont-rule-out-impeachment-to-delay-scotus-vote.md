@@ -1,6 +1,6 @@
 ---
 title: 'Pelosi won’t rule out new impeachment to delay SCOTUS vote if Biden wins'
-layout: default
+layout: post
 author:
 - Allan Smith
 ---

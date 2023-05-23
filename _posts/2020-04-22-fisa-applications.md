@@ -1,6 +1,6 @@
 ---
 title: 'Spygate: FBI’s FISA applications deleted claim of no known critiques of Dossier author'
-layout: default
+layout: post
 author:
 - Aaron Klein
 ---

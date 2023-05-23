@@ -1,6 +1,6 @@
 ---
 title: 'Internal memos call into question National Archives narrative to Congress on Trump documents'
-layout: default
+layout: post
 author:
 -
 ---

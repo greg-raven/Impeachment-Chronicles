@@ -1,6 +1,6 @@
 ---
 title: '‘Trump was right’: Explosive new FBI texts detail internal furor over handling of ‘Crossfire Hurricane’ investigation'
-layout: default
+layout: post
 author:
 - Mollie Hemingway
 ---

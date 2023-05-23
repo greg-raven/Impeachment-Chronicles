@@ -1,6 +1,6 @@
 ---
 title: 'Donald Trump has committed a mountain of Federal Crimes'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

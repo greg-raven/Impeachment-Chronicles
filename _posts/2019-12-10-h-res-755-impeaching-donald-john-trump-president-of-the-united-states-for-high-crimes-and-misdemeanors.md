@@ -1,6 +1,6 @@
 ---
 title: 'H.Res.755 — Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors'
-layout: default
+layout: post
 ---
 
 Introduced by Rep. Jerrold Nadler D-NY-10

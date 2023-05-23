@@ -1,6 +1,6 @@
 ---
 title: 'Kill as many Americans as possible'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

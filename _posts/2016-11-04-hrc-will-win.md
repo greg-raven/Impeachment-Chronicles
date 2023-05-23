@@ -1,6 +1,6 @@
 ---
 title: 'HRC will win'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

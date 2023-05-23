@@ -1,6 +1,6 @@
 ---
 title: 'Pelosi: ‘We cannot accept a second term for Donald Trump’'
-layout: default
+layout: post
 ---
 
 Speaker of the House Nancy Pelosi said Tuesday that the nation could not “accept” another term from President Trump if the country wants to remain “faithful” to the Constitution.

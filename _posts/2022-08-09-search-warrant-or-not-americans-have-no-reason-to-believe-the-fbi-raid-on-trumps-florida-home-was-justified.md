@@ -1,6 +1,6 @@
 ---
 title: 'Search warrant or not, Americans have no reason to believe the FBI raid on Trump’s Florida home was justified'
-layout: default
+layout: post
 author:
 - Margot Cleveland
 ---

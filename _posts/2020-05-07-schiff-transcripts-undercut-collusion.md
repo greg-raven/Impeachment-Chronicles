@@ -1,6 +1,6 @@
 ---
 title: 'Schiff releases transcripts undercutting Dem claims of Russia collusion proof'
-layout: default
+layout: post
 author:
 - John Solomon
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'The American public was scammed'
-layout: default
+layout: post
 author:
 - Donald Trump
 ---

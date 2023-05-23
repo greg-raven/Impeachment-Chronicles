@@ -1,6 +1,6 @@
 ---
 title: 'Surest sign that a recession is coming'
-layout: default
+layout: post
 author:
 - Ron Klain
 ---

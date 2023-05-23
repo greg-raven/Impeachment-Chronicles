@@ -1,6 +1,6 @@
 ---
 title: 'Professor predicted Trump win, says he will be impeached'
-layout: default
+layout: post
 author:
 - Leinz Vales
 ---

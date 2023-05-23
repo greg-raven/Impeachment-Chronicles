@@ -1,6 +1,6 @@
 ---
 title: 'Lid comes off! Now Dems can see redacted secrets in Mueller report'
-layout: default
+layout: post
 ---
 
 A three-judge appeals court panel has ruled that House Democrats can obtain grand-jury material that was redacted in [Robert Mueller’s special counsel report]({% post_url 2019-03-22-mueller-report %}).

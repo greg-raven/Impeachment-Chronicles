@@ -1,6 +1,6 @@
 ---
 title: 'Donald Trump is a Nazi. Full stop.'
-layout: default
+layout: post
 ---
 
 - We can stop with all the hedging and qualifying

@@ -1,6 +1,6 @@
 ---
 title: 'Here are the senior Biden officials entangled in Durham’s criminal Russiagate probe'
-layout: default
+layout: post
 author:
 - Paul Sperry
 ---

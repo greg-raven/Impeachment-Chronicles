@@ -1,6 +1,6 @@
 ---
 title: 'Trump celebrates FEC dropping their case against him'
-layout: default
+layout: post
 author:
 - Katie Pavlich
 ---

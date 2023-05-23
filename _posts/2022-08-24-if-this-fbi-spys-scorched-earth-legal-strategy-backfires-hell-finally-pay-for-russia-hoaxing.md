@@ -1,6 +1,6 @@
 ---
 title: 'If this FBI spy’s scorched-earth legal strategy backfires, he’ll finally pay for Russia hoaxing'
-layout: default
+layout: post
 author:
 - Margot Cleveland
 ---

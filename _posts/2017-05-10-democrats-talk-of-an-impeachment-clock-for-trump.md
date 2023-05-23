@@ -1,6 +1,6 @@
 ---
 title: 'Democrats talk of an ‘impeachment clock’ for Trump'
-layout: default
+layout: post
 ---
 
 Democratic leaders aren’t calling for the impeachment of President Donald Trump.

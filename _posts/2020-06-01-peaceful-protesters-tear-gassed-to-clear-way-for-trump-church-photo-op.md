@@ -1,6 +1,6 @@
 ---
 title: 'Peaceful protesters tear-gassed to clear way for Trump church photo-op'
-layout: default
+layout: post
 author:
 - Tom Gjelten
 ---

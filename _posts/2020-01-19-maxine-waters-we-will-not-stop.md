@@ -1,6 +1,6 @@
 ---
 title: 'Maxine Waters: ‘We will not stop’'
-layout: default
+layout: post
 ---
 
 > Maxine Waters: there may be more “impeachment activity,” “we will not stop” [pic.twitter.com/U26T8tqzkf](https://t.co/U26T8tqzkf)

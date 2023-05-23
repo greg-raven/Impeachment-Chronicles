@@ -1,6 +1,6 @@
 ---
 title: 'Judge in Stefan Halper case drops SpyGate bombshell: Halper likely lied to the FBI on purpose'
-layout: default
+layout: post
 author:
 - Margot Cleveland
 ---

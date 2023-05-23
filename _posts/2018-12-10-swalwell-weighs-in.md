@@ -1,6 +1,6 @@
 ---
 title: 'Eric Swalwell weighs in on updates in Special Counsel’s investigation'
-layout: default
+layout: post
 author:
 - Audie Cornish
 - Eric Swalwell

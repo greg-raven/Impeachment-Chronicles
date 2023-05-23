@@ -1,6 +1,6 @@
 ---
 title: 'FEC fines Hillary Clinton, DNC for lying about funding of Trump-Russia dossier hoax'
-layout: default
+layout: post
 author:
 - Phil Shiver
 ---

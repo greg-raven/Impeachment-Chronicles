@@ -1,6 +1,6 @@
 ---
 title: '7 foul anti-Trump tweets from Keith Olbermann, whom Disney promoted while firing Roseanne Barr'
-layout: default
+layout: post
 author:
 -
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Why Trump supporters believe the election of Joe Biden was fraudulent'
-layout: default
+layout: post
 author:
 - Martyr Made
 ---

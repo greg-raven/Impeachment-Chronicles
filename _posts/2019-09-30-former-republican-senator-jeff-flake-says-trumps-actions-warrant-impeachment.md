@@ -1,6 +1,6 @@
 ---
 title: 'Former Republican Senator Jeff Flake says Trump’s actions ‘warrant impeachment’'
-layout: default
+layout: post
 ---
 
 Former Republican Senator Jeff Flake said that with what the American public currently knows about President Donald Trump’s conduct in office, impeachment proceedings against him are warranted.

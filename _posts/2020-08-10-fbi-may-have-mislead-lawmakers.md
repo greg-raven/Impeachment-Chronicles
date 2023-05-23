@@ -1,6 +1,6 @@
 ---
 title: 'Senate panel releases memo showing FBI may have misled lawmakers about Russia probe'
-layout: default
+layout: post
 author:
 - John Solomon
 ---

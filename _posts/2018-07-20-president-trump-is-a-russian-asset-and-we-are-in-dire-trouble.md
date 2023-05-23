@@ -1,6 +1,6 @@
 ---
 title: 'President Trump is a Russian ‘asset’ and ‘We are in dire trouble’'
-layout: default
+layout: post
 ---
 
 - The legendary filmmaker behind ‘When Harry Met Sally’ and ‘The Princess Bride’ discusses his new film ‘Shock and Awe,’ press freedom and our erratic president.

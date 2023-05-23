@@ -1,6 +1,6 @@
 ---
 title: 'A crises of legitimacy'
-layout: default
+layout: post
 ---
 
 It seems to me that people aren’t quite getting how close we are to a crisis of legitimacy 1/

@@ -1,6 +1,6 @@
 ---
 title: 'The Trump admin talked a lot but took no action'
-layout: default
+layout: post
 author:
 - Miguel Cardona
 ---

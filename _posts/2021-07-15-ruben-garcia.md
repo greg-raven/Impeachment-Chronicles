@@ -1,6 +1,6 @@
 ---
 title: 'It was a coup attempt'
-layout: default
+layout: post
 author:
 - Ruben Garcia
 ---

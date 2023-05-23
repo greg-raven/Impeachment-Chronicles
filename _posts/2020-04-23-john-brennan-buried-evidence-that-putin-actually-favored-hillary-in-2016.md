@@ -1,6 +1,6 @@
 ---
 title: 'John Brennan buried evidence that Putin actually favored Hillary in 2016'
-layout: default
+layout: post
 author:
 - David Krayden
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'That Senate ‘Collusion’ Report? It’s Got No Smoking Gun … but It Does Have a Fog Machine'
-layout: default
+layout: post
 author:
 - Aaron Maté
 ---

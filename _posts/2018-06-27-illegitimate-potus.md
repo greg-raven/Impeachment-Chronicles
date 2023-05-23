@@ -1,6 +1,6 @@
 ---
 title: 'Illegitimate POTUS'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

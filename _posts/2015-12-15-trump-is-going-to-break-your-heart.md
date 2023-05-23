@@ -1,6 +1,6 @@
 ---
 title: 'Trump is going to break your heart'
-layout: default
+layout: post
 author:
 - Kurt Schlichter
 category: 2015

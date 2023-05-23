@@ -1,6 +1,6 @@
 ---
 title: 'Durham Report Verdicts'
-layout: default
+layout: post
 author:
 - Donald Trump
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'If Flynn was a Russian asset'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

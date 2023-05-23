@@ -1,6 +1,6 @@
 ---
 title: 'Moby says CIA agents asked him to spread the word about Trump and Russia'
-layout: default
+layout: post
 author:
 - Pitchfork
 ---

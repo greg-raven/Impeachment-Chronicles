@@ -1,6 +1,6 @@
 ---
 title: 'Monday Article of Impeachment'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

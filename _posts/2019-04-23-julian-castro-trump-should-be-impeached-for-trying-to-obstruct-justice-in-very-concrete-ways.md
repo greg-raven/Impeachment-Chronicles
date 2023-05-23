@@ -1,6 +1,6 @@
 ---
 title: 'Julián Castro: Trump should be impeached for trying to obstruct justice ‘in very concrete ways’'
-layout: default
+layout: post
 ---
 
 Former Housing and Urban Development Secretary Julián Castro (D) on Monday became the latest Democratic presidential candidate to say he thinks Congress should take steps to impeach President Trump.

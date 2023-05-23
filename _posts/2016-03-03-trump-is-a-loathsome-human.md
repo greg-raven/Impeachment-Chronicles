@@ -1,6 +1,6 @@
 ---
 title: 'Texts: God [T]rump is a loathsome human.'
-layout: default
+layout: post
 author:
 - Lisa Page
 - Peter Strzok

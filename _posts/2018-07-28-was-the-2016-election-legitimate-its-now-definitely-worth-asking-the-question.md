@@ -1,6 +1,6 @@
 ---
 title: 'Was the 2016 election legitimate? It’s now definitely worth asking the question'
-layout: default
+layout: post
 ---
 
 We need to talk about a forbidden subject: the legitimacy of the current president.

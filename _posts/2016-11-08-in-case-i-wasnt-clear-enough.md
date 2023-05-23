@@ -1,6 +1,6 @@
 ---
 title: 'In case I wasn’t clear enough'
-layout: default
+layout: post
 author:
 - Frank Luntz
 ---

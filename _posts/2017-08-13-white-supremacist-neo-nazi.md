@@ -1,6 +1,6 @@
 ---
 title: 'Get the fuck out of our society'
-layout: default
+layout: post
 author:
 - Keith Olbermann
 ---

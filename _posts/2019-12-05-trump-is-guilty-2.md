@@ -1,6 +1,6 @@
 ---
 title: 'Rob Reiner: Trump is guilty'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

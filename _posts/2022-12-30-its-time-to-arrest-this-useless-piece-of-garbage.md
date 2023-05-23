@@ -1,6 +1,6 @@
 ---
 title: It’s time to arrest this Lying Piece of Garbage
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

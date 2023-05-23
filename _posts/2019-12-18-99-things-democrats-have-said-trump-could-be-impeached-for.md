@@ -1,6 +1,6 @@
 ---
 title: '99 things Democrats have said Trump could be impeached for'
-layout: default
+layout: post
 ---
 
 President Trump was only in office two weeks before a Democratic congressman called for his impeachment.

@@ -1,6 +1,6 @@
 ---
 title: 'Text messages show Cassidy Hutchinson referring to January 6 Committee as ‘BS’'
-layout: default
+layout: post
 author:
 - Henry Rodgers
 ---

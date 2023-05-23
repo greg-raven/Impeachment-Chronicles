@@ -1,6 +1,6 @@
 ---
 title: 'FBI knew MI6 spook Steele was briefing media on Trump dossier but failed to act'
-layout: default
+layout: post
 ---
 
 The FBI knew a former British spy was feeding claims from a ‘sexed-up dossier’ on U.S. President Donald Trump to media but refused to act, declassified files reveal.

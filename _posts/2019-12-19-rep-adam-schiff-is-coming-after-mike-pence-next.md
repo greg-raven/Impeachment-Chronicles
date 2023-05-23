@@ -1,6 +1,6 @@
 ---
 title: 'Rep. Adam Schiff is coming after Mike Pence next'
-layout: default
+layout: post
 author:
 - Jason Easley
 ---

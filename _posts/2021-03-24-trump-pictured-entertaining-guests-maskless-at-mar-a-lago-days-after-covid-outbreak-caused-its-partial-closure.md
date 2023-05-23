@@ -1,6 +1,6 @@
 ---
 title: 'Trump pictured entertaining guests maskless at Mar-a-Lago days after COVID outbreak caused its partial closure'
-layout: default
+layout: post
 author:
 - Thomas Colson
 ---

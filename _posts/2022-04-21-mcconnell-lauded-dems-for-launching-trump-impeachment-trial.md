@@ -1,6 +1,6 @@
 ---
 title: 'McConnell lauded Dems for launching&nbsp;Trump impeachment trial'
-layout: default
+layout: post
 author:
 - Wendell Huseb0
 ---

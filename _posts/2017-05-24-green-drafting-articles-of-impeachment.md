@@ -1,6 +1,6 @@
 ---
 title: 'Rep. Al Green says he is drafting articles of impeachment for President Trump'
-layout: default
+layout: post
 author:
 - Jason Silverstein
 ---

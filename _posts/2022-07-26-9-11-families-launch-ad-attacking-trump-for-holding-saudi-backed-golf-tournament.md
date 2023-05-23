@@ -1,6 +1,6 @@
 ---
 title: '9/11 families launch ad attacking Trump for holding Saudi-backed golf tournament'
-layout: default
+layout: post
 author:
 - Nikki Schwab
 ---

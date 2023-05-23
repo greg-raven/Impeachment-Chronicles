@@ -1,6 +1,6 @@
 ---
 title: 'Trump-tweet target Tom Steyer’s impeachment campaign tops 1.4 million signatures'
-layout: default
+layout: post
 ---
 
 Tom Steyer was sitting on a plane waiting to take off from SFO to LAX last week when he got a text: The president had just tweeted about him.

@@ -1,6 +1,6 @@
 ---
 title: 'DOMINION: Eric Coomer allegedly bragged he ‘made f**king sure’ that ‘Trump’s not gonna win’'
-layout: default
+layout: post
 ---
 
 - A conference call attendee alleges that Dominion’s Eric Coomer made some damning statements about the outcome of the November 3 election

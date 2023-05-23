@@ -1,6 +1,6 @@
 ---
 title: 'Talking Points'
-layout: default
+layout: post
 ---
 
 XXXXXXXXXXXXXX

@@ -1,6 +1,6 @@
 ---
 title: 'Kamala Harris says she won’t take Trump’s word on vaccine efficacy'
-layout: default
+layout: post
 ---
 
 Democratic vice presidential nominee Kamala Harris told CNN that she wouldn’t take President Donald Trump’s word alone on the efficacy of a coronavirus vaccine.

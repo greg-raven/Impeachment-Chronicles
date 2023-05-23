@@ -1,6 +1,6 @@
 ---
 title: 'Top House Democrat: Resolution will be introduced to charge Trump with ‘inciting sedition’'
-layout: default
+layout: post
 ---
 
 Rep. Hakeem Jeffries (D-N.Y.), the No. 3 House Democrat, announced Sunday that a “privileged resolution will be introduced that will charge” President Donald Trump with “inciting sedition.”

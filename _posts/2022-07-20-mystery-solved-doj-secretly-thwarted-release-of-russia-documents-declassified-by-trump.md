@@ -1,6 +1,6 @@
 ---
 title: 'Mystery solved: DOJ secretly thwarted release of Russia documents declassified by Trump'
-layout: default
+layout: post
 author:
 - John Solomon
 ---

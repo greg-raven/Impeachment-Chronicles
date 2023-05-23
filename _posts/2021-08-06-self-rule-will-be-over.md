@@ -1,6 +1,6 @@
 ---
 title: 'Self rule will be over'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

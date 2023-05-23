@@ -1,6 +1,6 @@
 ---
 title: 'Fact: Trump stole documents'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Russiagate Was Not a Hoax'
-layout: default
+layout: post
 author:
 - Franklin Foer
 ---

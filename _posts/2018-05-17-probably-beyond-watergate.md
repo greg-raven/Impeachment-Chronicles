@@ -1,6 +1,6 @@
 ---
 title: '‘Probably beyond Watergate’'
-layout: default
+layout: post
 author:
 - Adam Schiff
 ---

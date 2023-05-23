@@ -1,6 +1,6 @@
 ---
 title: 'Pelosi open to using impeachment to clog up Senate if Trump moves to fill Supreme Court seat'
-layout: default
+layout: post
 author:
 - Lucy Jones
 ---

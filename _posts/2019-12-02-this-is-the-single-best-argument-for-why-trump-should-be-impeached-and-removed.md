@@ -1,6 +1,6 @@
 ---
 title: 'This is the single best argument for why Trump should be impeached and removed'
-layout: default
+layout: post
 ---
 
 - He tried to meddle in the 2020 election. It’s crazy to say that you have to let him participate in the 2020 election in order to render a verdict on his attempt to cheat in it.

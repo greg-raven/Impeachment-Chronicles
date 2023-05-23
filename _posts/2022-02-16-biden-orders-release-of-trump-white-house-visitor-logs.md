@@ -1,6 +1,6 @@
 ---
 title: 'Biden orders release of Trump White House Visitor Logs'
-layout: default
+layout: post
 author:
 - Colleen Long
 - Mary Clare Jalonick

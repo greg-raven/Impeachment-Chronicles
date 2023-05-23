@@ -1,6 +1,6 @@
 ---
 title: 'H.Res.705 — Impeaching Donald John Trump, President of the United States, of high misdemeanors'
-layout: default
+layout: post
 ---
 
 Mr. Al Green of Texas submitted the following resolution; which was laid on the table

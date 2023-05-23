@@ -1,6 +1,6 @@
 ---
 title: 'The Case for Impeachment'
-layout: default
+layout: post
 ---
 
 <figure class="wp-block-image">![The Case for Impeachment](/assets/The_Case_for_Impeachment.jpg)<figcaption>The Case for Impeachment</figcaption></figure>***The Case for Impeachment*** is a non-fiction book by [American University](https://en.wikipedia.org/wiki/American_University) Distinguished Professor of History [Allan Lichtman](https://en.wikipedia.org/wiki/Allan_Lichtman) arguing for the [impeachment of Donald Trump](https://en.wikipedia.org/wiki/Efforts_to_impeach_Donald_Trump). It was published on April 18, 2017, by [Dey Street Books](https://en.wikipedia.org/wiki/Dey_Street_Books), an imprint of [HarperCollins](https://en.wikipedia.org/wiki/HarperCollins). Lichtman predicted to *[The Washington Post](https://en.wikipedia.org/wiki/The_Washington_Post)* that after ascending to the presidency, Trump would later be impeached from office. He developed this thesis into a set of multiple arguments for Trump’s predicted impeachment.

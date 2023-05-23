@@ -1,6 +1,6 @@
 ---
 title: 'Trump told a reporter his biggest secret: That he is a danger to the American people'
-layout: default
+layout: post
 author:
 - Richard Wolffe
 ---

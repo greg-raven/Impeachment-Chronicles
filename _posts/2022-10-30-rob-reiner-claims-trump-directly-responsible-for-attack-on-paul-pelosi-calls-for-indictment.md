@@ -1,6 +1,6 @@
 ---
 title: 'Rob Reiner claims Trump ‘directly’ responsible for attack on Paul Pelosi, calls for indictment'
-layout: default
+layout: post
 author:
 - Joshua Klein
 ---

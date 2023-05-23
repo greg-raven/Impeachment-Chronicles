@@ -1,6 +1,6 @@
 ---
 title: 'Timeline for impeaching Donald Trump: Inauguration Day 2017 to start of hearings November 2019'
-layout: default
+layout: post
 ---
 
 The effort to remove duly elected President Donald Trump dates back to the day he was inaugurated, first announced in a *Washington Post* article [dated](https://www.washingtonpost.com/news/post-politics/wp/2017/01/20/the-campaign-to-impeach-president-trump-has-begun/) January 20, 2017 titled, “The Campaign to Impeach President Trump Has Begun” and it included a video of six protesters at the inauguration hoisting a “Resist” banner.

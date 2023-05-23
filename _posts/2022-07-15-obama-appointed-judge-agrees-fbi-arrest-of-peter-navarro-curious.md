@@ -1,6 +1,6 @@
 ---
 title: 'Obama-appointed judge agrees: FBI arrest of Peter Navarro ‘curious’'
-layout: default
+layout: post
 author:
 - Joel B. Pollak
 ---

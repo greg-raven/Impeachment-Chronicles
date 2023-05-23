@@ -1,6 +1,6 @@
 ---
 title: 'Biden had firm at center of Trump hacking scandal on campaign payroll'
-layout: default
+layout: post
 author:
 - Chuck Ross
 ---

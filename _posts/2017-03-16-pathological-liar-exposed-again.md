@@ -1,6 +1,6 @@
 ---
 title: 'Pathological liar exposed again'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

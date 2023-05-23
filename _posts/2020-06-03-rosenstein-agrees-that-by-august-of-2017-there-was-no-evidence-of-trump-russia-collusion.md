@@ -1,6 +1,6 @@
 ---
 title: 'Rosenstein agrees that by August of 2017 there was no evidence of Trump-Russia collusion'
-layout: default
+layout: post
 ---
 
 - He agreed that there was ‘no “there” there.’

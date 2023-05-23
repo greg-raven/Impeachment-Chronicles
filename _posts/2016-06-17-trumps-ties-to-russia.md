@@ -1,6 +1,6 @@
 ---
 title: 'Inside Trump’s financial ties to Russia and his unusual flattery of Vladimir Putin'
-layout: default
+layout: post
 author:
 - Tom Hamburger
 - Rolalind S. Helderman

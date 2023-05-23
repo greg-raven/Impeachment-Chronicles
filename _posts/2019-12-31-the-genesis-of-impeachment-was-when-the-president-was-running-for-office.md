@@ -1,6 +1,6 @@
 ---
 title: 'The genesis of impeachment was when the president was running for office'
-layout: default
+layout: post
 ---
 
 > “The genesis of impeachment, to be very candid with you, was when the president was running for office …”

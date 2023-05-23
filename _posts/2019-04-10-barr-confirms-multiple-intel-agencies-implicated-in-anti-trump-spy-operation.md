@@ -1,6 +1,6 @@
 ---
 title: 'Barr confirms multiple intel agencies implicated in anti-Trump spy operation'
-layout: default
+layout: post
 author:
 - Mollie Hemingway
 ---

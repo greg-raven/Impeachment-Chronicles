@@ -1,6 +1,6 @@
 ---
 title: 'CNN Exclusive : US investigators corroborate some aspects of Trump Russia Dossier'
-layout: default
+layout: post
 author:
 - Jim Sciutto
 - Evan Perez

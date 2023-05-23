@@ -1,6 +1,6 @@
 ---
 title: 'Trump under fire for claim of ‘large scale killing’ of white farmers in South Africa'
-layout: default
+layout: post
 ---
 
 - The president’s unfounded tweet followed a segment on Fox News on the topic on Wednesday night.

@@ -1,6 +1,6 @@
 ---
 title: 'Trump’s crisis of legitimacy'
-layout: default
+layout: post
 ---
 
 - The president understands the stakes of the Russia story more clearly than most of his followers.

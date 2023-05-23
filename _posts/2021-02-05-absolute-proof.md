@@ -1,6 +1,6 @@
 ---
 title: 'Absolute proof'
-layout: default
+layout: post
 author:
 - Mike Lindell
 ---

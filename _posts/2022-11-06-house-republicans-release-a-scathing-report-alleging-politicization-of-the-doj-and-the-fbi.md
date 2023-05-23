@@ -1,6 +1,6 @@
 ---
 title: 'House Republicans release a scathing report alleging politicization of the DOJ and the FBI'
-layout: default
+layout: post
 author:
 - Rajan Laad
 ---

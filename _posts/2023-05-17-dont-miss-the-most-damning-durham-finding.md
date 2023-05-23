@@ -1,6 +1,6 @@
 ---
 title: 'Don’t miss the most damning Durham finding'
-layout: default
+layout: post
 author:
 - Margot Cleveland
 ---

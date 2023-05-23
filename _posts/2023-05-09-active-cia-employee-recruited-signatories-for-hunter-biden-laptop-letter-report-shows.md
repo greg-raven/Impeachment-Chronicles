@@ -1,6 +1,6 @@
 ---
 title: 'Active CIA employee recruited signatories for Hunter Biden laptop letter, report shows'
-layout: default
+layout: post
 author:
 - John Solomon
 - Ben Whedon

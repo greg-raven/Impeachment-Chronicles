@@ -1,6 +1,6 @@
 ---
 title: 'Trump ignores the experts'
-layout: default
+layout: post
 author:
 - Adam Schiff
 ---

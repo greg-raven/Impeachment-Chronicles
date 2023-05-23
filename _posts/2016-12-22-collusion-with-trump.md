@@ -1,6 +1,6 @@
 ---
 title: 'Collusion with Trump'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

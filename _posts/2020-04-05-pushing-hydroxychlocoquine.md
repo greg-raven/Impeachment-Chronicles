@@ -1,6 +1,6 @@
 ---
 title: 'Pushing hydroxychlocoquine'
-layout: default
+layout: post
 ---
 
 > So is the BLOTUS pushing this drug HYDROXYCHLOROQUIN in the hopes that IF it works, he will get nominated for the Nobel Peace Prize?

@@ -1,6 +1,6 @@
 ---
 title: 'The hand that robs the cradle'
-layout: default
+layout: post
 author:
 - Greg Price
 ---

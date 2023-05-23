@@ -1,6 +1,6 @@
 ---
 title: 'Trump didn’t actually win the election in 2016'
-layout: default
+layout: post
 author:
 - Larry Elder
 ---

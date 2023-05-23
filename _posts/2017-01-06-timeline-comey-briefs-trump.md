@@ -1,6 +1,6 @@
 ---
 title: 'Timeline: Comey briefs Trump'
-layout: default
+layout: post
 author:
 - Mollie Hemingway
 ---

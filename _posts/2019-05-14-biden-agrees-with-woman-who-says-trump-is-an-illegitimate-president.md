@@ -1,6 +1,6 @@
 ---
 title: 'Biden agrees with woman who says Trump is ‘an illegitimate president’'
-layout: default
+layout: post
 ---
 
 Former Vice President Joe Biden quipped that a woman who claimed she had a “very severe case of what’s called Trump Derangement Syndrome” should become his running mate.

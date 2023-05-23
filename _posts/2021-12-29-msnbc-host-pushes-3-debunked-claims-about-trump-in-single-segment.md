@@ -1,6 +1,6 @@
 ---
 title: 'MSNBC host pushes 3 debunked claims about Trump in single segment'
-layout: default
+layout: post
 author:
 - Jay Greenburg
 ---

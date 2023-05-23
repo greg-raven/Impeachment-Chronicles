@@ -1,6 +1,6 @@
 ---
 title: 'Remove Donald Trump from his presidency'
-layout: default
+layout: post
 ---
 
 Quoted from www.whitehouse.gov/america-first-energy: “President Trump is committed to eliminating harmful and unnecessary policies such as the Climate Action Plan and the Waters of the U.S. rule.”

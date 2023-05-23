@@ -1,6 +1,6 @@
 ---
 title: 'Texts: Have we opened on him yet?'
-layout: default
+layout: post
 author:
 - Lisa Page
 - Peter Strzok

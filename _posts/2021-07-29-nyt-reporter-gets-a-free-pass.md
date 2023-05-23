@@ -1,6 +1,6 @@
 ---
 title: 'NYT journalist gets a free pass'
-layout: default
+layout: post
 author:
 - Djcalligraphy
 ---

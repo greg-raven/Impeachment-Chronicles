@@ -1,6 +1,6 @@
 ---
 title: 'How a Russian disinfo op got Trump impeached'
-layout: default
+layout: post
 ---
 
 - The Kremlin may have been laying the groundwork for blaming Ukraine for 2016 as early as 2015.

@@ -1,6 +1,6 @@
 ---
 title: 'Impeachment star witness was aware of Burisma corruption'
-layout: default
+layout: post
 author:
 - Tom Fitton
 ---

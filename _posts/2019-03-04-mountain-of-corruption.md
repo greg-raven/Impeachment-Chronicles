@@ -1,6 +1,6 @@
 ---
 title: 'Mountain of corruption'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

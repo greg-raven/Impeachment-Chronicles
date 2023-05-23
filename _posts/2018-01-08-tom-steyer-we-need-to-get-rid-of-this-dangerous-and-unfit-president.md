@@ -1,6 +1,6 @@
 ---
 title: 'Tom Steyer: ‘We need to get rid of this dangerous and unfit President’'
-layout: default
+layout: post
 ---
 
 ‘We need to get rid of him.’

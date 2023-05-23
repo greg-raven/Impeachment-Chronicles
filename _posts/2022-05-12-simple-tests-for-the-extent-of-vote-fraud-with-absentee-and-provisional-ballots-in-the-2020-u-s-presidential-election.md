@@ -1,6 +1,6 @@
 ---
 title: 'Simple tests for the extent of vote fraud with absentee and provisional ballots in the 2020 U.S. presidential election'
-layout: default
+layout: post
 author:
 - John R. Lott
 ---

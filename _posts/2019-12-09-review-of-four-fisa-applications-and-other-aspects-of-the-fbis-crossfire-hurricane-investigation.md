@@ -1,6 +1,6 @@
 ---
 title: 'Review of four FISA applications and other aspects of the FBI’s Crossfire Hurricane Investigation'
-layout: default
+layout: post
 ---
 
 **Conclusions Concerning All Four FISA Applications**

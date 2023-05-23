@@ -1,6 +1,6 @@
 ---
 title: 'Official Statement of Stormy Daniels'
-layout: default
+layout: post
 ---
 
 To Whom it May Concern:

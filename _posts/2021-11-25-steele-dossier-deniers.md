@@ -1,6 +1,6 @@
 ---
 title: 'It Wasn’t a Hoax: The Steele Dossier and the New Trump-Russia Denialists'
-layout: default
+layout: post
 author:
 - David Frum
 ---

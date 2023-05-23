@@ -1,6 +1,6 @@
 ---
 title: 'Rep. Castro floats impeachment of Trump if court orders on exec order ignored'
-layout: default
+layout: post
 ---
 
 - ‘If you do it repeatedly you’re putting yourself in the impeachment realm.’

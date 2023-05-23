@@ -1,6 +1,6 @@
 ---
 title: 'Trump: DOJ asked us to put a lock on docs, then FBI broke it'
-layout: default
+layout: post
 author:
 - Eric Mack
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'Lurid Trump allegations made by Louise Mensch and co-writer came from hoaxer'
-layout: default
+layout: post
 ---
 
 - Mensch and Claude Taylor tweeted details of criminal inquires that didn’t exist

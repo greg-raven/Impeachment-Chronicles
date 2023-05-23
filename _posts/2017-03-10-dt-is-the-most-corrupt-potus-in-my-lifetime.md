@@ -1,6 +1,6 @@
 ---
 title: 'DT is the most corrupt POTUS in my lifetime'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

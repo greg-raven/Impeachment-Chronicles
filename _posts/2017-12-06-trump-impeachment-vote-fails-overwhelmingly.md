@@ -1,6 +1,6 @@
 ---
 title: 'Trump impeachment vote fails overwhelmingly'
-layout: default
+layout: post
 ---
 
 - The measure drew the support of 58 House Democrats.

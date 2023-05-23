@@ -1,6 +1,6 @@
 ---
 title: 'Adam Schiff, Cyberbully'
-layout: default
+layout: post
 author:
 - Paul Sperry
 ---

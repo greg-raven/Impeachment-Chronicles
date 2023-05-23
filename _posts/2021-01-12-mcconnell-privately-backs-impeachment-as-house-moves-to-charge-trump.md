@@ -1,6 +1,6 @@
 ---
 title: 'McConnell privately backs impeachment as House moves to charge Trump'
-layout: default
+layout: post
 ---
 
 - The House formally called on Vice President Mike Pence to move to wrest power from the president, as Republican support built for impeaching him of inciting violence against the nation.

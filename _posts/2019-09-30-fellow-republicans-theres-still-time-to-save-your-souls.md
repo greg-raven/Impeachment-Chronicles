@@ -1,6 +1,6 @@
 ---
 title: 'Fellow Republicans, there’s still time to save your souls'
-layout: default
+layout: post
 ---
 
 Two years ago I stood in the Senate chamber and said: “There are times when we must risk our careers in favor of our principles.”

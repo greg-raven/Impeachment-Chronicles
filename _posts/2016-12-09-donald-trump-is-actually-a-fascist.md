@@ -1,6 +1,6 @@
 ---
 title: 'Donald Trump is actually a fascist'
-layout: default
+layout: post
 ---
 
 Donald Trump is a fascist.

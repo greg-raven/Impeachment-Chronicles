@@ -1,6 +1,6 @@
 ---
 title: 'Rep. Gerry Connolly announces he will not attend inauguration'
-layout: default
+layout: post
 ---
 
 U.S. Rep. Gerry Connolly (D-11th) is joining a growing list of Democratic members of Congress planning to boycott President-elect Donald Trump’s inauguration on Friday.

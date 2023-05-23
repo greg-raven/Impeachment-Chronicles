@@ -1,6 +1,6 @@
 ---
 title: 'H.Res.257 — Inquiring whether the House of Representatives should impeach Donald John Trump, President of the United States of America'
-layout: default
+layout: post
 ---
 
 Introduced by Rep. Rashida Tlaib (D-MI)

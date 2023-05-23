@@ -1,6 +1,6 @@
 ---
 title: 'Protesters dispersed with tear gas so Trump could pose at church'
-layout: default
+layout: post
 ---
 
 - “He did not pray,” said Mariann E. Budde, the Episcopal bishop of Washington. “He did not mention George Floyd, he did not mention the agony of people who have been subjected to this kind of horrific expression of racism and white supremacy for hundreds of years.”

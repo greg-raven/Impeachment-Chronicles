@@ -1,6 +1,6 @@
 ---
 title: 'Hillary Clinton OK’d sharing Trump-Russia ‘data’: campaign manager'
-layout: default
+layout: post
 author:
 - Ben Feuerherd
 - Bruce Golding

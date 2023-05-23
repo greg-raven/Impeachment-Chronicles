@@ -1,6 +1,6 @@
 ---
 title: 'Here’s what you need to know about Mueller’s day'
-layout: default
+layout: post
 ---
 
 Former special counsel Robert Mueller testified today before the House Judiciary and House Intelligence committees.

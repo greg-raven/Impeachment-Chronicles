@@ -1,6 +1,6 @@
 ---
 title: 'Journalistic malpractice'
-layout: default
+layout: post
 ---
 
 > Tonight, “Moderator” Chris Wallace allowed Joe Biden to repeat the Charlottesville “Very Fine People” Lie unchallenged.

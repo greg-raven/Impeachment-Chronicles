@@ -1,6 +1,6 @@
 ---
 title: 'The top seven lies Adam Schiff has told to boost impeachment'
-layout: default
+layout: post
 author:
 - Matt Margolis
 ---

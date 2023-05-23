@@ -1,6 +1,6 @@
 ---
 title: 'The conspiracy heats up'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

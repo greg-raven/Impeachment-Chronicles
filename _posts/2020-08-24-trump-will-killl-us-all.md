@@ -1,6 +1,6 @@
 ---
 title: '‘Trump will killl us all!!’'
-layout: default
+layout: post
 author:
 - Amy Siskin
 ---

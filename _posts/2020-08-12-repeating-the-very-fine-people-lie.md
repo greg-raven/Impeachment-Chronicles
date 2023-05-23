@@ -1,6 +1,6 @@
 ---
 title: 'Repeating the ‘very fine people’ lie'
-layout: default
+layout: post
 author:
 - Joe Biden
 ---

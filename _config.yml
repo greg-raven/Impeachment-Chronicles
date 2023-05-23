@@ -10,8 +10,7 @@ description: >
 
 # Build settings
 
-remote_theme: poole/lanyon
-# theme: minima
+theme: minima
 
 plugins:
   - jekyll-feed

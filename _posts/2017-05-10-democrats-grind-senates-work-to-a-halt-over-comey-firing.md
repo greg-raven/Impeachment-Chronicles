@@ -1,6 +1,6 @@
 ---
 title: 'Democrats grind Senate’s work to a halt over Comey firing'
-layout: default
+layout: post
 ---
 
 > […] At this point we arguably do not have a legitimate president or administration. […]

@@ -1,6 +1,6 @@
 ---
 title: 'Lewis: DT illegitimate'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

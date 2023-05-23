@@ -1,6 +1,6 @@
 ---
 title: 'H.Res.646 — Impeaching Donald John Trump, President of the United States, of high misdemeanors'
-layout: default
+layout: post
 ---
 
 On December 6, 2017, Rep. Al Green introduced articles of impeachment against President Trump. Green introduced the resolution as a privileged motion and it was voted on the same day. As expected the resolution did not move forward, losing by 364–58 with all Republicans and most Democrats voting against it.

@@ -1,6 +1,6 @@
 ---
 title: 'Democrats, 10 Republicans vote for 2nd impeachment of Trump'
-layout: default
+layout: post
 ---
 
 Democrats in the House of Representatives, joined by ten Republicans, voted to impeach President Donald Trump for a second time, in a 232–197 vote on Jan. 13. The single article of impeachment alleges that the president incited an insurrection that resulted in the breach of the U.S. Capitol on Jan. 6.

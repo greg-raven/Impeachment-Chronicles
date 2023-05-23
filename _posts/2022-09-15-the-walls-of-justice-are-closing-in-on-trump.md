@@ -1,6 +1,6 @@
 ---
 title: 'The walls of justice are closing in on Trump'
-layout: default
+layout: post
 author:
 - Andrew Weissmann
 ---

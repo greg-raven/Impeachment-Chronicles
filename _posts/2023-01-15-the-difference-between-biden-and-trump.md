@@ -1,6 +1,6 @@
 ---
 title: 'The difference between Biden and Trump'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

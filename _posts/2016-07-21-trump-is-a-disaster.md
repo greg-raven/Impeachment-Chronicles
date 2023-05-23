@@ -1,6 +1,6 @@
 ---
 title: 'Text: Wow, Donald Trump is an enormous d*uche'
-layout: default
+layout: post
 author:
 - Peter Strzok
 ---

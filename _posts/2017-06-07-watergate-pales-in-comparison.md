@@ -1,6 +1,6 @@
 ---
 title: 'James Clapper says Watergate ‘pales’ in comparison with Trump Russia scandal'
-layout: default
+layout: post
 author:
 - Katharine Murphy
 ---

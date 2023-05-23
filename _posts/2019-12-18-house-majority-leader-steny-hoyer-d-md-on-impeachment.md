@@ -1,6 +1,6 @@
 ---
 title: 'House Majority Leader Steny Hoyer (D-MD) on Impeachment'
-layout: default
+layout: post
 author:
 - Steny Hoyer
 ---

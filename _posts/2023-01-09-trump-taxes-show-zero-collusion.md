@@ -1,6 +1,6 @@
 ---
 title: 'Sorry Democrats, Trump’s tax returns show zero ‘Russian collusion’'
-layout: default
+layout: post
 author:
 - Liberty Tree
 ---

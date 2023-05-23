@@ -1,6 +1,6 @@
 ---
 title: 'The never-ending impeachment'
-layout: default
+layout: post
 ---
 
 - Efforts to remove Trump didn’t start with Ukraine. And won’t end there.

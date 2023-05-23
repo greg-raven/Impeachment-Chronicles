@@ -1,6 +1,6 @@
 ---
 title: 'It gets worse: Look who worked together to frame Donald Trump with fake Russia hoax'
-layout: default
+layout: post
 author:
 - Victoria Taft
 ---

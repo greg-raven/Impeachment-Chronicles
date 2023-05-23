@@ -1,6 +1,6 @@
 ---
 title: 'Trump should be arrested for attempted murder'
-layout: default
+layout: post
 author:
 - Bette Midler
 ---

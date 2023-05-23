@@ -1,6 +1,6 @@
 ---
 title: 'Trump can be sued for Jan. 6 riot harm, Justice Dept. says'
-layout: default
+layout: post
 author:
 - Eric Tucker
 - Alanna Durkin Richer

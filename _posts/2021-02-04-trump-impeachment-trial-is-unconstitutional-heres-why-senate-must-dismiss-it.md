@@ -1,6 +1,6 @@
 ---
 title: 'Trump impeachment trial is unconstitutional – here’s why Senate must dismiss it'
-layout: default
+layout: post
 author:
 - Jason Miller
 ---

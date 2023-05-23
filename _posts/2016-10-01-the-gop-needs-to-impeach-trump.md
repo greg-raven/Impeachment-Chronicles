@@ -1,6 +1,6 @@
 ---
 title: 'The GOP needs to elect Trump, then impeach him'
-layout: default
+layout: post
 author:
 - Jonathan Ashbach
 ---

@@ -1,6 +1,6 @@
 ---
 title: '‘Strong evidence’ of ‘clear’ Russian collusion'
-layout: default
+layout: post
 author:
 - Eric Swalwell
 ---

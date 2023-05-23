@@ -1,6 +1,6 @@
 ---
 title: 'New Strzok texts show FBI was investigating Trump before Crossfire Hurricane was opened'
-layout: default
+layout: post
 ---
 
 Newly declassified text messages from former FBI agent Peter Strzok suggest that the FBI began investigating then-presidential candidate Donald Trump and his campaign before the Crossfire Hurricane investigation was opened.

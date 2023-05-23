@@ -1,6 +1,6 @@
 ---
 title: 'Russian trolls on Twitter had little influence on 2016 voters'
-layout: default
+layout: post
 author:
 - Tim Starks
 -Aaron Schaffer

@@ -1,6 +1,6 @@
 ---
 title: 'House set to give Pence ultimatum before moving to impeach Trump'
-layout: default
+layout: post
 ---
 
 The House is set to issue a largely futile ultimatum to Vice President Mike Pence on Tuesday, demanding he invoke constitutional authority to remove President Donald Trump from office, as a prelude to an expected vote to impeach the president for the second time in little more than a year.

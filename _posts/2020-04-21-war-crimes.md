@@ -1,6 +1,6 @@
 ---
 title: 'War crimes'
-layout: default
+layout: post
 author:
 - RNC Research
 ---

@@ -1,6 +1,6 @@
 ---
 title: 'FBI wrongly told its agents Trump-Russia collusion claims had come from DOJ, bombshell document reveals'
-layout: default
+layout: post
 author:
 - Ben Feuerherd
 - Mark Moore

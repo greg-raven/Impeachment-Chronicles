@@ -1,6 +1,6 @@
 ---
 title: 'Nancy Pelosi on Trump: ‘He’ll be impeached for ever’ — as it happened'
-layout: default
+layout: post
 ---
 
 - ‘No matter what the Senate does – he’s impeached for ever’

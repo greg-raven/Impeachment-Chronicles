@@ -1,6 +1,6 @@
 ---
 title: 'It’s not wrong to compare Trump’s America to the Holocaust. Here’s why'
-layout: default
+layout: post
 ---
 
 - Parallels lie in authoritarianism, racism, ethnic myths and dehumanizing language, not the Final Solution

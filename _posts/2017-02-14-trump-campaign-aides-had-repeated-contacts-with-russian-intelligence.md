@@ -1,6 +1,6 @@
 ---
 title: 'Trump campaign aides had repeated contacts with Russian intelligence'
-layout: default
+layout: post
 ---
 
 WASHINGTON — Phone records and intercepted calls show that members of Donald J. Trump’s 2016 presidential campaign and other Trump associates had repeated contacts with senior Russian intelligence officials in the year before the election, according to four current and former American officials.

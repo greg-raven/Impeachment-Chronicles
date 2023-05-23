@@ -1,6 +1,6 @@
 ---
 title: 'Donald Trump is an illegitimate president'
-layout: default
+layout: post
 author:
 - Rob Reiner
 ---

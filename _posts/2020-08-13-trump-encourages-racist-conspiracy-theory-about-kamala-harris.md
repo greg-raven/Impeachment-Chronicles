@@ -1,6 +1,6 @@
 ---
 title: 'Trump encourages racist conspiracy theory about Kamala Harris'
-layout: default
+layout: post
 ---
 
 - President Trump said he heard that Ms. Harris, the presumptive Democratic vice-presidential nominee born in California, was not eligible for the ticket, repeating a theory that is rampant among his followers. Constitutional scholars quickly called his words false and irresponsible.

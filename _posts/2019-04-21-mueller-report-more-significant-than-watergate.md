@@ -1,6 +1,6 @@
 ---
 title: 'Mueller report more significant than Watergate ‘in every way’'
-layout: default
+layout: post
 author:
 - Adam Schiff
 - Martha Raddatz

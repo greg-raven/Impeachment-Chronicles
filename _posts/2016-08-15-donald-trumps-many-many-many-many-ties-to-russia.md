@@ -1,6 +1,6 @@
 ---
 title: 'Donald Trump’s many, many, many, many ties to Russia'
-layout: default
+layout: post
 author:
 - Jeff Nesbit
 ---

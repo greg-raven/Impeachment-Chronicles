@@ -1,6 +1,6 @@
 ---
 title: 'Texts: What an utter idiot.'
-layout: default
+layout: post
 author:
 - Lisa Page
 - Peter Strzok

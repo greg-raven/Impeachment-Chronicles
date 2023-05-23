@@ -1,6 +1,6 @@
 ---
 title: 'California’s Rep. Brad Sherman to introduce impeachment measure'
-layout: default
+layout: post
 ---
 
 Rep. Brad Sherman plans to introduce articles of impeachment against President Trump on Thursday, the first day of Democratic control of the House.

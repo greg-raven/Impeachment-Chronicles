@@ -1,6 +1,6 @@
 ---
 title: 'Texts: We’ll stop Trump from becoming president'
-layout: default
+layout: post
 author:
 - Lisa Page
 - Peter Strzok

@@ -1,6 +1,6 @@
 ---
 title: 'San Antonio Spurs coach Gregg Popovich praises second impeachment: ‘Good move’'
-layout: default
+layout: post
 author:
 - Warner Todd Huston
 ---

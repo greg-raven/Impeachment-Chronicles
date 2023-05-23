@@ -1,6 +1,6 @@
 ---
 title: 'Trump warrant furthers Justice Department’s January 6 investigation'
-layout: default
+layout: post
 author:
 - Andrew C. McCarthy
 ---

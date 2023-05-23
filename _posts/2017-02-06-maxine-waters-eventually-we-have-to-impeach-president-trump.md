@@ -1,6 +1,6 @@
 ---
 title: 'Maxine Waters: ‘Eventually’ we have to impeach President Trump'
-layout: default
+layout: post
 ---
 
 - ‘I have not called for the impeachment yet, he is doing it himself.’

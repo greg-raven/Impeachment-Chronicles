@@ -1,6 +1,6 @@
 ---
 title: 'Joe Biden invokes ‘very fine people’ hoax from Charlottesville riots in debate with President Trump'
-layout: default
+layout: post
 ---
 
 - Moderator Chris Wallace didn’t bother correcting Biden’s false statement
