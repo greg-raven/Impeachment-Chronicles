@@ -5,7 +5,7 @@ layout: post
 
 (CNSNews.com) — Rep. Maxine Waters (D-Calif.), who previously has called for the impeachment of Donald Trump, on Thursday told a Congressional Black Caucus Town Hall on Civil Rights that she expects other members of the black community to back her up:
 
-“Don’t come here and tell me, ‘Maxine, you keep on doing what you do.’ But when you gonna give me some support?” she asked. “How many of you in your organizations have said, ‘Impeach 45’ ?”
+“Don’t come here and tell me, ‘Maxine, you keep on doing what you do.’ But when you gonna give me some support?” she asked. “How many of you in your organizations have said, ‘Impeach 45’?”
 
 Waters urged the crowd not to get hung up on what law to invoke in the impeachment process:
 
@@ -21,4 +21,4 @@ Waters received a standing ovation for her impeachment pep talk.
 
 Source: www.cnsnews.com/news/article/cnsnewscom-staff/rep-maxine-waters-impeachment-about-whatever-congress-says-it
 
-<figure class="wp-block-image">![Maxine Waters](/assets/maxine-waters.jpg)</figure>
+![Maxine Waters](/assets/maxine-waters.jpg)

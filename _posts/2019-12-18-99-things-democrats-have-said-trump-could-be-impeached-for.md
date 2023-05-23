@@ -1,6 +1,8 @@
 ---
 title: '99 things Democrats have said Trump could be impeached for'
 layout: post
+author:
+- Tom Elliott
 ---
 
 President Trump was only in office two weeks before a Democratic congressman called for his impeachment.
@@ -19,108 +21,713 @@ A few of the more interesting: Rep. Green suggested impeaching Trump after his s
 
 Those, of course, are just a sampling. See below for the comprehensive list. And if we’re missing any, you can add more by visiting NewsLists.co.
 
-<figure class="wp-block-table">| \# | Summary | Date | Source | Accuser |
-|---|---|---|---|---|
-| 1 | For potentially ignoring court orders on his travel ban | 02/01/2017 | [MSNBC](https://news.grabien.com/story-rep-castro-floats-impeachment-trump-if-court-orders-exec-ord) | Joaquin [*sic*] Castro |
-| 2 | Because “we have to” | 02/06/2017 | [Grabien](https://news.grabien.com/story-maxine-waters-eventually-we-have-impeach-president-trump) | Maxine Waters |
-| 3 | For “creating chaos and division” | 02/06/2017 | [CNN](https://news.grabien.com/story-maxine-waters-doubles-down-impeachment-claims) | Maxine Waters |
-| 4 | For potentially supplying damaging information | 02/20/2017 | [MSNBC](https://grabien.com/story.php?id=90203) | Jerry Nadler |
-| 5 | For trying to “undermine Hillary Clinton and therefore undermine our democracy” | 03/23/2017 | [Grabien](https://grabien.com/file.php?id=178261) | Maxine Waters |
-| 6 | Because his “motives and actions are contemptible” | 04/15/2017 | [NTK Network](https://grabien.com/story.php?id=99857) | Maxine Waters |
-| 7 | For “collusion” | 05/11/2017 | [MSNBC](https://grabien.com/story.php?id=104381) | Maxine Waters |
-| 8 | Because “he regards himself as above the law” | 05/14/2017 | [ABC](https://grabien.com/story.php?id=104757) | Lawrence Tribe |
-| 9 | For firing Comey | 05/15/2017 | [MSNBC](https://grabien.com/story.php?id=104887) | Al Green |
-| 10 | For allegedly disclosing classified info to Russia | 05/16/2017 | [The Washington Free Beacon](https://grabien.com/story.php?id=105137) | Maxine Waters |
-| 11 | For Comey saying Trump asked him to drop Flynn probe | 05/17/2017 | [MSNBC](https://grabien.com/story.php?id=105317) | Jerry Nadler |
-| 12 | For being “mentally unstable” | 05/22/2017 | [MSNBC](https://news.grabien.com/story-ron-reagan-we-have-dangerous-person-wh-who-needs-be-removed) | Ron Reagan |
-| 13 | Because they’ve been able to “connect the dots” | 05/28/2017 | [MSNBC](https://grabien.com/file.php?id=206361) | Maxine Waters |
-| 14 | Because “a plurality of polls” supports it | 06/07/2017 | [ABC News](https://grabien.com/story.php?id=109327) | Al Green |
-| 15 | For being “abnormal” and possibly “crazy” | 07/07/2017 | [NTK Network](https://grabien.com/story.php?id=115183) | Maxine Waters |
-| 16 | For banning transgenders from serving in the military | 10/11/2017 | [Grabien](https://grabien.com/story.php?id=132619) | Al Green |
-| 17 | For “disrespecting and disparaging women” | 10/11/2017 | [CSPAN](https://news.grabien.com/story-dem-rep-files-impeachment-resolution-against-trump-over-nfl) | Al Green |
-| 18 | For saying NFL athletes should stand for the national anthem | 10/19/2017 | [CSPAN](https://grabien.com/story.php?id=132619) | Al Green |
-| 19 | For being “friends” with Putin | 10/24/2017 | [CNN](https://grabien.com/story.php?id=135009) | Maxine Waters |
-| 20 | For being “a clear and present danger” to Americans | 10/25/2017 | [MSNBC](https://grabien.com/story.php?id=135281) | Tom Steyer |
-| 21 | For “putting the health and safety of Americans at risk” | 10/28/2017 | [MSNBC](https://grabien.com/story.php?id=135837) | Tom Steyer |
-| 22 | For being an “inciter” of “ethnocentrism” | 11/08/2017 | [CSPAN](https://grabien.com/story.php?id=138239) | Al Green |
-| 23 | For promoting “xenophobia” | 11/08/2017 | [CSPAN](https://grabien.com/story.php?id=138239) | Al Green |
-| 24 | For inciting “bigotry” | 11/08/2017 | [CSPAN](https://grabien.com/story.php?id=138239) | Al Green |
-| 25 | For being an “inciter” of “hatred” | 11/08/2017 | [CSPAN](https://grabien.com/story.php?id=138239) | Al Green |
-| 26 | For “undermining the federal judiciary” | 11/15/2017 | [Grabien](https://grabien.com/story.php?id=139437) | Steve Cohen |
-| 27 | For mocking a disabled journalist | 11/16/2017 | [Bloomberg](https://grabien.com/story.php?id=139751) | Maxine Waters |
-| 28 | For the “Access Hollywood” tape | 11/16/2017 | [Bloomberg](https://grabien.com/file.php?id=288651) | Maxine Waters |
-| 29 | For “threatening the media” | 11/18/2017 | [MSNBC](https://grabien.com/file.php?id=289723) | John Yarmuth |
-| 30 | For “taking money from foreign governments” | 11/26/2017 | [CNN](https://grabien.com/file.php?id=292337) | Tom Steyer |
-| 31 | For “dereliction of duty” | 12/03/2017 | [MSNBC](https://grabien.com/story.php?id=142559) | Ted Lieu |
-| 32 | For being incompetent | 12/04/2017 | [MSNBC](https://grabien.com/file.php?id=297191) | Ezra Klein |
-| 33 | For bringing “dishonor” upon the United States | 12/06/2017 | [CSPAN](https://grabien.com/file.php?id=298353) | Al Green |
-| 34 | For being “psychologically deranged” | 12/16/2017 | [MSNBC](https://news.grabien.com/story-richard-painter-trumps-psychologically-deranged-he-needs-be) | Richard Painter |
-| 35 | For being “racist, sexist, and Islamaphobic” | 12/30/2017 | [MSNBC](https://grabien.com/file.php?id=308745) | Anushay Hossain |
-| 36 | For not believing in the Constitution | 12/30/2017 | [MSNBC](https://grabien.com/story.php?id=146745) | Karine Jean-Pierre |
-| 37 | For being “unfit” for office | 01/08/2018 | [MSNBC](https://grabien.com/story.php?id=148031) | Tom Steyer |
-| 38 | For saying some countries are “shitholes” | 01/14/2018 | [MSNBC](https://grabien.com/story.php?id=149255) | Al Green |
-| 39 | For his aides talking to Russians | 01/26/2018 | [CNN](https://news.grabien.com/story-cory-booker-trump-clearly-theres-smoke-around-substance-woul) | Cory Booker |
-| 40 | For urging Sessions to investigate Hillary | 02/28/2018 | MSNBC (news.grabien.com/story-chris-hayes-impeachable-offense-trump-order-sessions-open-in) | Chris Hayes |
-| 41 | For not being respectful | 03/04/2018 | [MSNBC](https://news.grabien.com/story-rep-waters-trump-mocking-her-always-demanding-impeachment-he) | Maxine Waters |
-| 42 | For being “the most dangerous president in American history” | 03/05/2018 | [MSNBC](https://news.grabien.com/story-tom-perez-trump-most-dangerous-president-history-america) | Tom Perez |
-| 43 | For name calling | 03/12/2018 | MSNBC (news.grabien.com/story-maxine-waters-im-going-keep-saying-we-need-impeach-trump) | Maxine Waters |
-| 44 | For A.G. Sessions firing Andrew McCabe | 03/16/2018 | [MSNBC](https://news.grabien.com/story-msnbc-panel-sessions-firing-trump-raise-specter-trump-impeac) | Danny Cevallos |
-| 45 | For violating the “emoluments clause” | 03/20/2018 | [MSNBC](https://grabien.com/file.php?id=356037) | Tom Steyer |
-| 46 | For possibly considering “firing” Mueller | 03/23/2018 | [CNN](https://news.grabien.com/story-ted-lieu-trump-firing-mueller-impeachable-offense-people-wou) | Ted Lieu |
-| 47 | For being “unwilling to make it clear” Russians can’t hack America’s “critical infrastructure” | 03/26/2018 | [MSNBC](https://news.grabien.com/story-rep-garamendi-it-may-very-well-be-there-appropriate-action-i) | John Garamendi |
-| 48 | For being “unworthy” and “despicable” | 03/27/2018 | [MSNBC](https://grabien.com/file.php?id=360481) | Maxine Waters |
-| 49 | Because “we have the grounds to do it” | 06/27/2018 | [CNN](https://news.grabien.com/story-alexandria-ocasio-cortez-i-would-support-impeachment-trump-i) | Alexandria Ocasio-Cortez |
-| 50 | For staffing Trump Tower with park rangers | 01/16/2019 | [MSNBC](https://grabien.com/file.php?id=540299) | Rashida Tlaib |
-| 51 | For the BuzzFeed report on Cohen | 01/18/2019 | [MSNBC](https://grabien.com/file.php?id=541491) | Eugene Robinson |
-| 52 | For the “so many things” he has done | 01/20/2019 | [MSNBC](https://grabien.com/file.php?id=542163) | Maxine Waters |
-| 53 | Because Virginia’s governor wore blackface | 02/08/2019 | [CSPAN](https://news.grabien.com/story-rep-al-green-virginias-blackface-incidents-highlight-imperat) | Al Green |
-| 54 | To prevent his re-election | 05/04/2019 | [MSNBC](https://grabien.com/file.php?id=610624) | Al Green |
-| 55 | Because the “system of checks and balances is at risk” | 05/15/2019 | [C-SPAN](https://grabien.com/file.php?id=617517) | Al Green |
-| 56 | To prevent a “monarchy” | 05/15/2019 | [C-SPAN](https://grabien.com/file.php?id=617517) | Al Green |
-| 57 | For not releasing his tax returns | 05/16/2019 | [Campaign Ad](https://grabien.com/file.php?id=618229) | Tom Steyer |
-| 58 | To put a “stain” on his presidency | 05/25/2019 | [MSNBC](https://grabien.com/file.php?id=623085) | Karine Jean-Pierre |
-| 59 | Because it’s “critical to our national security” | 05/27/2019 | [MSNBC](https://grabien.com/file.php?id=623445) | Richard Painter |
-| 60 | Because it would be “crazy not to do it” | 05/30/2019 | [CNN](https://grabien.com/file.php?id=625527) | John Hickenlooper |
-| 61 | In order to “set a precedent” for future presidents | 06/01/2019 | [MSNBC](https://grabien.com/file.php?id=626425) | Karine Jean-Pierre |
-| 62 | Because we have a “moral obligation” | 06/02/2019 | [CNN](https://grabien.com/file.php?id=626545) | Cory Booker |
-| 63 | Because it will help “educate” and “inform” the American public | 06/03/2019 | [MSNBC](https://grabien.com/file.php?id=627313) | Mike Quigley |
-| 64 | Because the president “is leaving us no choice” | 06/04/2019 | [CNN](https://grabien.com/file.php?id=627669) | Dan Kildee |
-| 65 | Because it’s our “constitutional duty” to “have this debate” | 06/08/2019 | [MSNBC](https://grabien.com/file.php?id=630069) | Seth Moulton |
-| 66 | For failing to “produce evidence” | 06/10/2019 | [CNN](https://grabien.com/file.php?id=630933) | Steve Cohen |
-| 67 | For saying the press is the “enemy of the people” | 06/10/2019 | [CNN](https://grabien.com/file.php?id=630933) | Steve Cohen |
-| 68 | For saying he’d take “dirt” on rivals from foreigners | 06/13/2019 | [CNN](https://grabien.com/file.php?id=632899) | Steve Cohen |
-| 69 | For Kellyanne Conway’s alleged Hatch Act violation | 06/14/2019 | [MSNBC](https://grabien.com/file.php?id=633869) | Richard Painter |
-| 70 | To ensure Robert Mueller’s work is continued | 06/19/2019 | [NTK Network](https://grabien.com/file.php?id=636635) | Katie Porter |
-| 71 | For being “above the law” | 07/11/2019 | [C-SPAN](https://grabien.com/file.php?id=651523) | Al Green |
-| 72 | For “inhumane” conditions at the border | 07/15/2019 | [MSNBC](https://grabien.com/file.php?id=654085) | Rashida Tlaib |
-| 73 | For “high crimes and misdemeanors” | 07/15/2019 | [MSNBC](https://grabien.com/file.php?id=654209) | Ilhan Omar |
-| 74 | For administration officials defying congressional subpoenas | 07/16/2019 | [C-SPAN](https://grabien.com/file.php?id=654767) | Ann Kirkpatrick |
-| 75 | For saying fellow Americans should “go back to other countries” | 07/17/2019 | [C-SPAN](https://grabien.com/file.php?id=655871) | Al Green |
-| 76 | For Trump crowd’s “send her back” chant | 07/18/2019 | [CNN](https://grabien.com/file.php?id=656659) | Al Green |
-| 77 | For attacks on the judiciary | 07/19/2019 | [MSNBC](https://grabien.com/file.php?id=658423) | Steve Cohen |
-| 78 | Because we’re in a “constitutional crisis” | 07/25/2019 | [C-SPAN](https://grabien.com/file.php?id=661851) | Al Green |
-| 79 | For offering to host G7 summit at Doral | 08/31/2019 | [MSNBC](https://grabien.com/file.php?id=688277) | House Judiciary Committee |
-| 80 | For influencing the decision of the new FBI building’s location | 08/31/2019 | [MSNBC](https://grabien.com/file.php?id=688277) | Mike Quigley |
-| 81 | For publicising his own assets | 08/31/2019 | [MSNBC](https://grabien.com/file.php?id=688277) | Mike Quigley |
-| 82 | For suggesting a company for Army Corps to award wall production contract | 08/31/2019 | [MSNBC](https://grabien.com/file.php?id=688145) | Richard Painter |
-| 83 | For talking like Hitler | 08/31/2019 | [MSNBC](https://grabien.com/file.php?id=688145) | Richard Painter |
-| 84 | Because every new impeachable offense makes it harder to take action | 08/31/2019 | [MSNBC](https://grabien.com/file.php?id=688083) | David Cicilline |
-| 85 | To ensure “our democracy” is “saved” | 09/10/2019 | [MSNBC](https://www.msnbc.com/hallie-jackson/watch/alexandria-ocasio-cortez-to-protect-our-democracy-we-have-to-impeach-68593733517) | Alexandria Ocasio-Cortez |
-| 86 | For investigating Hunter Biden | 09/22/2019 | [CNN](https://grabien.com/file.php?id=703639) | Adam Schiff |
-| 87 | For “hijacking” American foreign policy | 09/23/2019 | [MSNBC](https://grabien.com/file.php?id=704827) | Chris Hayes |
-| 88 | For betraying his oath of office | 09/24/2019 | [Politico](https://www.politico.com/story/2019/09/24/donald-trump-impeachment-congress-1509360) | Nancy Pelosi |
-| 89 | For “coercing” a foreign government | 09/25/2019 | [MSNBC](https://grabien.com/file.php?id=706657) | Matthew Miller |
-| 90 | For “extorting” a foreign government | 09/25/2019 | [MSNBC](https://grabien.com/file.php?id=706657) | Matthew Miller |
-| 91 | For “intimidating” the whistleblower | 10/01/2019 | [ABC](https://grabien.com/file.php?id=711835) | Jon Karl |
-| 92 | For Kurt Volker’s text messages with Ukraine | 10/04/2019 | [CNN](https://grabien.com/file.php?id=715537) | Jim Himes |
-| 93 | For being a “traitor” | 10/06/2019 | [CNN](https://grabien.com/file.php?id=715861) | Joe Walsh |
-| 94 | For blocking U.S. ambassador to EU from testifying | 10/08/2019 | [Washington Examiner](https://www.washingtonexaminer.com/news/congress/schiff-hints-hell-push-house-to-impeach-trump-for-blocking-witnesses) | Adam Schiff |
-| 95 | For likening impeachment to “lynching” | 10/22/2019 | [CSPAN](https://grabien.com/file.php?id=730625) | Al Green |
-| 96 | For pronouncing November ‘National American History and Founders Month’ | 11/05/2019 | [Twitter](https://twitter.com/RashidaTlaib/status/1191718292567842821) | Rashida Tlaib |
-| 97 | For “intimidation” of witness Yovanovitch with tweets | 11/15/2019 | [CNN](https://grabien.com/file.php?id=753357) | Eric Swalwell |
-| 98 | For ‘trying to use the court system’ | 11/22/2019 | [Washington Free Beacon](https://freebeacon.com/politics/dem-rep-trump-trying-to-use-the-court-system-is-obstruction-of-justice/) | Pramila Jayapal |
-| 99 | For joking about shooting someone on 5th Avenue | 12/17/2019 | [Grabien](https://news.grabien.com/story-california-democrat-argues-impeaching-trump-over-5th-avenue) | Norma Torres |
+<table>
+	<thead>
+		<tr>
+			<td>#</td>
+			<td>Summary</td>
+			<td>Date</td>
+			<td>Source</td>
+			<td>Accuser</td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>1</td>
+			<td>For potentially ignoring court orders on his travel ban</td>
+			<td>02/01/2017</td>
+			<td>[MSNBC](https://news.grabien.com/story-rep-castro-floats-impeachment-trump-if-court-orders-exec-ord)</td>
+			<td>Joaquin [*sic*] Castro</td>
+		</tr>
+		<tr>
+			<td>2</td>
+			<td>Because “we have to”</td>
+			<td>02/06/2017</td>
+			<td>[Grabien](https://news.grabien.com/story-maxine-waters-eventually-we-have-impeach-president-trump)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>3</td>
+			<td>For “creating chaos and division”</td>
+			<td>02/06/2017</td>
+			<td>[CNN](https://news.grabien.com/story-maxine-waters-doubles-down-impeachment-claims)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>4</td>
+			<td>For potentially supplying damaging information</td>
+			<td>02/20/2017</td>
+			<td>[MSNBC](https://grabien.com/story.php?id=90203)</td>
+			<td>Jerry Nadler</td>
+		</tr>
+		<tr>
+			<td>5</td>
+			<td>For trying to “undermine Hillary Clinton and therefore undermine our democracy”</td>
+			<td>03/23/2017</td>
+			<td>[Grabien](https://grabien.com/file.php?id=178261)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>6</td>
+			<td>Because his “motives and actions are contemptible”</td>
+			<td>04/15/2017</td>
+			<td>[NTK Network](https://grabien.com/story.php?id=99857)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>7</td>
+			<td>For “collusion”</td>
+			<td>05/11/2017</td>
+			<td>[MSNBC](https://grabien.com/story.php?id=104381)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>8</td>
+			<td>Because “he regards himself as above the law”</td>
+			<td>05/14/2017</td>
+			<td>[ABC](https://grabien.com/story.php?id=104757)</td>
+			<td>Lawrence Tribe</td>
+		</tr>
+		<tr>
+			<td>9</td>
+			<td>For firing Comey</td>
+			<td>05/15/2017</td>
+			<td>[MSNBC](https://grabien.com/story.php?id=104887)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>10</td>
+			<td>For allegedly disclosing classified info to Russia</td>
+			<td>05/16/2017</td>
+			<td>[The Washington Free Beacon](https://grabien.com/story.php?id=105137)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>11</td>
+			<td>For Comey saying Trump asked him to drop Flynn probe</td>
+			<td>05/17/2017</td>
+			<td>[MSNBC](https://grabien.com/story.php?id=105317)</td>
+			<td>Jerry Nadler</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>For being “mentally unstable”</td>
+			<td>05/22/2017</td>
+			<td>[MSNBC](https://news.grabien.com/story-ron-reagan-we-have-dangerous-person-wh-who-needs-be-removed)</td>
+			<td>Ron Reagan</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>Because they’ve been able to “connect the dots”</td>
+			<td>05/28/2017</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=206361)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>Because “a plurality of polls” supports it</td>
+			<td>06/07/2017</td>
+			<td>[ABC News](https://grabien.com/story.php?id=109327)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>For being “abnormal” and possibly “crazy”</td>
+			<td>07/07/2017</td>
+			<td>[NTK Network](https://grabien.com/story.php?id=115183)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>For banning transgenders from serving in the military</td>
+			<td>10/11/2017</td>
+			<td>[Grabien](https://grabien.com/story.php?id=132619)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>17</td>
+			<td>For “disrespecting and disparaging women”</td>
+			<td>10/11/2017</td>
+			<td>[CSPAN](https://news.grabien.com/story-dem-rep-files-impeachment-resolution-against-trump-over-nfl)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>18</td>
+			<td>For saying NFL athletes should stand for the national anthem</td>
+			<td>10/19/2017</td>
+			<td>[CSPAN](https://grabien.com/story.php?id=132619)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>19</td>
+			<td>For being “friends” with Putin</td>
+			<td>10/24/2017</td>
+			<td>[CNN](https://grabien.com/story.php?id=135009)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>20</td>
+			<td>For being “a clear and present danger” to Americans</td>
+			<td>10/25/2017</td>
+			<td>[MSNBC](https://grabien.com/story.php?id=135281)</td>
+			<td>Tom Steyer</td>
+		</tr>
+		<tr>
+			<td>21</td>
+			<td>For “putting the health and safety of Americans at risk”</td>
+			<td>10/28/2017</td>
+			<td>[MSNBC](https://grabien.com/story.php?id=135837)</td>
+			<td>Tom Steyer</td>
+		</tr>
+		<tr>
+			<td>22</td>
+			<td>For being an “inciter” of “ethnocentrism”</td>
+			<td>11/08/2017</td>
+			<td>[CSPAN](https://grabien.com/story.php?id=138239)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>23</td>
+			<td>For promoting “xenophobia”</td>
+			<td>11/08/2017</td>
+			<td>[CSPAN](https://grabien.com/story.php?id=138239)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>24</td>
+			<td>For inciting “bigotry”</td>
+			<td>11/08/2017</td>
+			<td>[CSPAN](https://grabien.com/story.php?id=138239)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>25</td>
+			<td>For being an “inciter” of “hatred”</td>
+			<td>11/08/2017</td>
+			<td>[CSPAN](https://grabien.com/story.php?id=138239)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>26</td>
+			<td>For “undermining the federal judiciary”</td>
+			<td>11/15/2017</td>
+			<td>[Grabien](https://grabien.com/story.php?id=139437)</td>
+			<td>Steve Cohen</td>
+		</tr>
+		<tr>
+			<td>27</td>
+			<td>For mocking a disabled journalist</td>
+			<td>11/16/2017</td>
+			<td>[Bloomberg](https://grabien.com/story.php?id=139751)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>28</td>
+			<td>For the “Access Hollywood” tape</td>
+			<td>11/16/2017</td>
+			<td>[Bloomberg](https://grabien.com/file.php?id=288651)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>29</td>
+			<td>For “threatening the media”</td>
+			<td>11/18/2017</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=289723)</td>
+			<td>John Yarmuth</td>
+		</tr>
+		<tr>
+			<td>30</td>
+			<td>For “taking money from foreign governments”</td>
+			<td>11/26/2017</td>
+			<td>[CNN](https://grabien.com/file.php?id=292337)</td>
+			<td>Tom Steyer</td>
+		</tr>
+		<tr>
+			<td>31</td>
+			<td>For “dereliction of duty”</td>
+			<td>12/03/2017</td>
+			<td>[MSNBC](https://grabien.com/story.php?id=142559)</td>
+			<td>Ted Lieu</td>
+		</tr>
+		<tr>
+			<td>32</td>
+			<td>For being incompetent</td>
+			<td>12/04/2017</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=297191)</td>
+			<td>Ezra Klein</td>
+		</tr>
+		<tr>
+			<td>33</td>
+			<td>For bringing “dishonor” upon the United States</td>
+			<td>12/06/2017</td>
+			<td>[CSPAN](https://grabien.com/file.php?id=298353)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>34</td>
+			<td>For being “psychologically deranged”</td>
+			<td>12/16/2017</td>
+			<td>[MSNBC](https://news.grabien.com/story-richard-painter-trumps-psychologically-deranged-he-needs-be)</td>
+			<td>Richard Painter</td>
+		</tr>
+		<tr>
+			<td>35</td>
+			<td>For being “racist, sexist, and Islamaphobic”</td>
+			<td>12/30/2017</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=308745)</td>
+			<td>Anushay Hossain</td>
+		</tr>
+		<tr>
+			<td>36</td>
+			<td>For not believing in the Constitution</td>
+			<td>12/30/2017</td>
+			<td>[MSNBC](https://grabien.com/story.php?id=146745)</td>
+			<td>Karine Jean-Pierre</td>
+		</tr>
+		<tr>
+			<td>37</td>
+			<td>For being “unfit” for office</td>
+			<td>01/08/2018</td>
+			<td>[MSNBC](https://grabien.com/story.php?id=148031)</td>
+			<td>Tom Steyer</td>
+		</tr>
+		<tr>
+			<td>38</td>
+			<td>For saying some countries are “shitholes”</td>
+			<td>01/14/2018</td>
+			<td>[MSNBC](https://grabien.com/story.php?id=149255)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>39</td>
+			<td>For his aides talking to Russians</td>
+			<td>01/26/2018</td>
+			<td>[CNN](https://news.grabien.com/story-cory-booker-trump-clearly-theres-smoke-around-substance-woul)</td>
+			<td>Cory Booker</td>
+		</tr>
+		<tr>
+			<td>40</td>
+			<td>For urging Sessions to investigate Hillary</td>
+			<td>02/28/2018</td>
+			<td>MSNBC (news.grabien.com/story-chris-hayes-impeachable-offense-trump-order-sessions-open-in)</td>
+			<td>Chris Hayes</td>
+		</tr>
+		<tr>
+			<td>41</td>
+			<td>For not being respectful</td>
+			<td>03/04/2018</td>
+			<td>[MSNBC](https://news.grabien.com/story-rep-waters-trump-mocking-her-always-demanding-impeachment-he)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>42</td>
+			<td>For being “the most dangerous president in American history”</td>
+			<td>03/05/2018</td>
+			<td>[MSNBC](https://news.grabien.com/story-tom-perez-trump-most-dangerous-president-history-america)</td>
+			<td>Tom Perez</td>
+		</tr>
+		<tr>
+			<td>43</td>
+			<td>For name calling</td>
+			<td>03/12/2018</td>
+			<td>MSNBC (news.grabien.com/story-maxine-waters-im-going-keep-saying-we-need-impeach-trump)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>44</td>
+			<td>For A.G. Sessions firing Andrew McCabe</td>
+			<td>03/16/2018</td>
+			<td>[MSNBC](https://news.grabien.com/story-msnbc-panel-sessions-firing-trump-raise-specter-trump-impeac)</td>
+			<td>Danny Cevallos</td>
+		</tr>
+		<tr>
+			<td>45</td>
+			<td>For violating the “emoluments clause”</td>
+			<td>03/20/2018</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=356037)</td>
+			<td>Tom Steyer</td>
+		</tr>
+		<tr>
+			<td>46</td>
+			<td>For possibly considering “firing” Mueller</td>
+			<td>03/23/2018</td>
+			<td>[CNN](https://news.grabien.com/story-ted-lieu-trump-firing-mueller-impeachable-offense-people-wou)</td>
+			<td>Ted Lieu</td>
+		</tr>
+		<tr>
+			<td>47</td>
+			<td>For being “unwilling to make it clear” Russians can’t hack America’s “critical infrastructure”</td>
+			<td>03/26/2018</td>
+			<td>[MSNBC](https://news.grabien.com/story-rep-garamendi-it-may-very-well-be-there-appropriate-action-i)</td>
+			<td>John Garamendi</td>
+		</tr>
+		<tr>
+			<td>48</td>
+			<td>For being “unworthy” and “despicable”</td>
+			<td>03/27/2018</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=360481)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>49</td>
+			<td>Because “we have the grounds to do it”</td>
+			<td>06/27/2018</td>
+			<td>[CNN](https://news.grabien.com/story-alexandria-ocasio-cortez-i-would-support-impeachment-trump-i)</td>
+			<td>Alexandria Ocasio-Cortez</td>
+		</tr>
+		<tr>
+			<td>50</td>
+			<td>For staffing Trump Tower with park rangers</td>
+			<td>01/16/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=540299)</td>
+			<td>Rashida Tlaib</td>
+		</tr>
+		<tr>
+			<td>51</td>
+			<td>For the BuzzFeed report on Cohen</td>
+			<td>01/18/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=541491)</td>
+			<td>Eugene Robinson</td>
+		</tr>
+		<tr>
+			<td>52</td>
+			<td>For the “so many things” he has done</td>
+			<td>01/20/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=542163)</td>
+			<td>Maxine Waters</td>
+		</tr>
+		<tr>
+			<td>53</td>
+			<td>Because Virginia’s governor wore blackface</td>
+			<td>02/08/2019</td>
+			<td>[CSPAN](https://news.grabien.com/story-rep-al-green-virginias-blackface-incidents-highlight-imperat)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>54</td>
+			<td>To prevent his re-election</td>
+			<td>05/04/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=610624)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>55</td>
+			<td>Because the “system of checks and balances is at risk”</td>
+			<td>05/15/2019</td>
+			<td>[C-SPAN](https://grabien.com/file.php?id=617517)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>56</td>
+			<td>To prevent a “monarchy”</td>
+			<td>05/15/2019</td>
+			<td>[C-SPAN](https://grabien.com/file.php?id=617517)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>57</td>
+			<td>For not releasing his tax returns</td>
+			<td>05/16/2019</td>
+			<td>[Campaign Ad](https://grabien.com/file.php?id=618229)</td>
+			<td>Tom Steyer</td>
+		</tr>
+		<tr>
+			<td>58</td>
+			<td>To put a “stain” on his presidency</td>
+			<td>05/25/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=623085)</td>
+			<td>Karine Jean-Pierre</td>
+		</tr>
+		<tr>
+			<td>59</td>
+			<td>Because it’s “critical to our national security”</td>
+			<td>05/27/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=623445)</td>
+			<td>Richard Painter</td>
+		</tr>
+		<tr>
+			<td>60</td>
+			<td>Because it would be “crazy not to do it”</td>
+			<td>05/30/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=625527)</td>
+			<td>John Hickenlooper</td>
+		</tr>
+		<tr>
+			<td>61</td>
+			<td>In order to “set a precedent” for future presidents</td>
+			<td>06/01/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=626425)</td>
+			<td>Karine Jean-Pierre</td>
+		</tr>
+		<tr>
+			<td>62</td>
+			<td>Because we have a “moral obligation”</td>
+			<td>06/02/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=626545)</td>
+			<td>Cory Booker</td>
+		</tr>
+		<tr>
+			<td>63</td>
+			<td>Because it will help “educate” and “inform” the American public</td>
+			<td>06/03/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=627313)</td>
+			<td>Mike Quigley</td>
+		</tr>
+		<tr>
+			<td>64</td>
+			<td>Because the president “is leaving us no choice”</td>
+			<td>06/04/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=627669)</td>
+			<td>Dan Kildee</td>
+		</tr>
+		<tr>
+			<td>65</td>
+			<td>Because it’s our “constitutional duty” to “have this debate”</td>
+			<td>06/08/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=630069)</td>
+			<td>Seth Moulton</td>
+		</tr>
+		<tr>
+			<td>66</td>
+			<td>For failing to “produce evidence”</td>
+			<td>06/10/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=630933)</td>
+			<td>Steve Cohen</td>
+		</tr>
+		<tr>
+			<td>67</td>
+			<td>For saying the press is the “enemy of the people”</td>
+			<td>06/10/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=630933)</td>
+			<td>Steve Cohen</td>
+		</tr>
+		<tr>
+			<td>68</td>
+			<td>For saying he’d take “dirt” on rivals from foreigners</td>
+			<td>06/13/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=632899)</td>
+			<td>Steve Cohen</td>
+		</tr>
+		<tr>
+			<td>69</td>
+			<td>For Kellyanne Conway’s alleged Hatch Act violation</td>
+			<td>06/14/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=633869)</td>
+			<td>Richard Painter</td>
+		</tr>
+		<tr>
+			<td>70</td>
+			<td>To ensure Robert Mueller’s work is continued</td>
+			<td>06/19/2019</td>
+			<td>[NTK Network](https://grabien.com/file.php?id=636635)</td>
+			<td>Katie Porter</td>
+		</tr>
+		<tr>
+			<td>71</td>
+			<td>For being “above the law”</td>
+			<td>07/11/2019</td>
+			<td>[C-SPAN](https://grabien.com/file.php?id=651523)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>72</td>
+			<td>For “inhumane” conditions at the border</td>
+			<td>07/15/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=654085)</td>
+			<td>Rashida Tlaib</td>
+		</tr>
+		<tr>
+			<td>73</td>
+			<td>For “high crimes and misdemeanors”</td>
+			<td>07/15/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=654209)</td>
+			<td>Ilhan Omar</td>
+		</tr>
+		<tr>
+			<td>74</td>
+			<td>For administration officials defying congressional subpoenas</td>
+			<td>07/16/2019</td>
+			<td>[C-SPAN](https://grabien.com/file.php?id=654767)</td>
+			<td>Ann Kirkpatrick</td>
+		</tr>
+		<tr>
+			<td>75</td>
+			<td>For saying fellow Americans should “go back to other countries”</td>
+			<td>07/17/2019</td>
+			<td>[C-SPAN](https://grabien.com/file.php?id=655871)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>76</td>
+			<td>For Trump crowd’s “send her back” chant</td>
+			<td>07/18/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=656659)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>77</td>
+			<td>For attacks on the judiciary</td>
+			<td>07/19/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=658423)</td>
+			<td>Steve Cohen</td>
+		</tr>
+		<tr>
+			<td>78</td>
+			<td>Because we’re in a “constitutional crisis”</td>
+			<td>07/25/2019</td>
+			<td>[C-SPAN](https://grabien.com/file.php?id=661851)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>79</td>
+			<td>For offering to host G7 summit at Doral</td>
+			<td>08/31/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=688277)</td>
+			<td>House Judiciary Committee</td>
+		</tr>
+		<tr>
+			<td>80</td>
+			<td>For influencing the decision of the new FBI building’s location</td>
+			<td>08/31/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=688277)</td>
+			<td>Mike Quigley</td>
+		</tr>
+		<tr>
+			<td>81</td>
+			<td>For publicising his own assets</td>
+			<td>08/31/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=688277)</td>
+			<td>Mike Quigley</td>
+		</tr>
+		<tr>
+			<td>82</td>
+			<td>For suggesting a company for Army Corps to award wall production contract</td>
+			<td>08/31/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=688145)</td>
+			<td>Richard Painter</td>
+		</tr>
+		<tr>
+			<td>83</td>
+			<td>For talking like Hitler</td>
+			<td>08/31/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=688145)</td>
+			<td>Richard Painter</td>
+		</tr>
+		<tr>
+			<td>84</td>
+			<td>Because every new impeachable offense makes it harder to take action</td>
+			<td>08/31/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=688083)</td>
+			<td>David Cicilline</td>
+		</tr>
+		<tr>
+			<td>85</td>
+			<td>To ensure “our democracy” is “saved”</td>
+			<td>09/10/2019</td>
+			<td>[MSNBC](https://www.msnbc.com/hallie-jackson/watch/alexandria-ocasio-cortez-to-protect-our-democracy-we-have-to-impeach-68593733517)</td>
+			<td>Alexandria Ocasio-Cortez</td>
+		</tr>
+		<tr>
+			<td>86</td>
+			<td>For investigating Hunter Biden</td>
+			<td>09/22/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=703639)</td>
+			<td>Adam Schiff</td>
+		</tr>
+		<tr>
+			<td>87</td>
+			<td>For “hijacking” American foreign policy</td>
+			<td>09/23/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=704827)</td>
+			<td>Chris Hayes</td>
+		</tr>
+		<tr>
+			<td>88</td>
+			<td>For betraying his oath of office</td>
+			<td>09/24/2019</td>
+			<td>[Politico](https://www.politico.com/story/2019/09/24/donald-trump-impeachment-congress-1509360)</td>
+			<td>Nancy Pelosi</td>
+		</tr>
+		<tr>
+			<td>89</td>
+			<td>For “coercing” a foreign government</td>
+			<td>09/25/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=706657)</td>
+			<td>Matthew Miller</td>
+		</tr>
+		<tr>
+			<td>90</td>
+			<td>For “extorting” a foreign government</td>
+			<td>09/25/2019</td>
+			<td>[MSNBC](https://grabien.com/file.php?id=706657)</td>
+			<td>Matthew Miller</td>
+		</tr>
+		<tr>
+			<td>91</td>
+			<td>For “intimidating” the whistleblower</td>
+			<td>10/01/2019</td>
+			<td>[ABC](https://grabien.com/file.php?id=711835)</td>
+			<td>Jon Karl</td>
+		</tr>
+		<tr>
+			<td>92</td>
+			<td>For Kurt Volker’s text messages with Ukraine</td>
+			<td>10/04/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=715537)</td>
+			<td>Jim Himes</td>
+		</tr>
+		<tr>
+			<td>93</td>
+			<td>For being a “traitor”</td>
+			<td>10/06/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=715861)</td>
+			<td>Joe Walsh</td>
+		</tr>
+		<tr>
+			<td>94</td>
+			<td>For blocking U.S. ambassador to EU from testifying</td>
+			<td>10/08/2019</td>
+			<td>[Washington Examiner](https://www.washingtonexaminer.com/news/congress/schiff-hints-hell-push-house-to-impeach-trump-for-blocking-witnesses)</td>
+			<td>Adam Schiff</td>
+		</tr>
+		<tr>
+			<td>95</td>
+			<td>For likening impeachment to “lynching”</td>
+			<td>10/22/2019</td>
+			<td>[CSPAN](https://grabien.com/file.php?id=730625)</td>
+			<td>Al Green</td>
+		</tr>
+		<tr>
+			<td>96</td>
+			<td>For pronouncing November ‘National American History and Founders Month’</td>
+			<td>11/05/2019</td>
+			<td>[Twitter](https://twitter.com/RashidaTlaib/status/1191718292567842821)</td>
+			<td>Rashida Tlaib</td>
+		</tr>
+		<tr>
+			<td>97</td>
+			<td>For “intimidation” of witness Yovanovitch with tweets</td>
+			<td>11/15/2019</td>
+			<td>[CNN](https://grabien.com/file.php?id=753357)</td>
+			<td>Eric Swalwell</td>
+		</tr>
+		<tr>
+			<td>98</td>
+			<td>For ‘trying to use the court system’</td>
+			<td>11/22/2019</td>
+			<td>[Washington Free Beacon](https://freebeacon.com/politics/dem-rep-trump-trying-to-use-the-court-system-is-obstruction-of-justice/)</td>
+			<td>Pramila Jayapal</td>
+		</tr>
+		<tr>
+			<td>99</td>
+			<td>For joking about shooting someone on 5th Avenue</td>
+			<td>12/17/2019</td>
+			<td>[Grabien](https://news.grabien.com/story-california-democrat-argues-impeaching-trump-over-5th-avenue)</td>
+			<td>Norma Torres</td>
+		</tr>
+	</tbody>
+</table>
 
-</figure>List via lists.grabien.com/list-things-democrats-have-said-trump-could-be-impeached
+List via lists.grabien.com/list-things-democrats-have-said-trump-could-be-impeached
 
 Source: Tom Elliott, news.grabien.com/story-things-democrats-have-said-trump-could-be-impeached

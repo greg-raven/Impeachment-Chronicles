@@ -1,13 +1,15 @@
 ---
 title: 'Impeachment 2.0? Democrats line up possible new charges against Trump'
 layout: post
+author:
+- Rowan Scarborough
 ---
 
 Democrats already have lined up possible charges if they choose to pursue impeachment 2.0.
 
 Still pending is a wide-open probe launched by Rep. Adam B. Schiff, California Democrat. Mr. Schiff has been investigating President Trump, his family and businesses, the Trump Organization, over the congressman’s suspicions of blackmail, money laundering, and bribery.
 
-- - - - - -
+---
 
 Republican staffers say the inquiry was put on hold last fall pending the Ukraine impeachment proceedings led by Mr. Schiff. But there is no sign Mr. Schiff has given up trying to prove Mr. Trump is corrupt, and if the president is impeached again, the charges would likely come from this probe, informed sources said.
 

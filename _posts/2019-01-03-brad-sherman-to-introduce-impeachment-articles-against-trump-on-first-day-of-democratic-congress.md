@@ -1,6 +1,8 @@
 ---
 title: 'Brad Sherman to introduce impeachment articles against Trump on first day of Democratic Congress'
 layout: post
+author:
+- Griffin Connolly
 ---
 
 - Pelosi: ‘We shouldn’t be impeaching for a political reason, and we shouldn’t avoid impeachment for a political reason’

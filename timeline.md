@@ -157,7 +157,4 @@ layout: page
 	</tbody>
 </table>
 
-<figure>
-<img src="/assets/Official-Portraits-of-President-Donald-J-Trump-and-Vice-President-Mike-Pence.jpg" alt="President Donald Trump and Vice-president Mike Pence" height="530" width="820" class="img-responsive">
-<figcaption>President Donald Trump and Vice-president Mike Pence</figcaption>
-</figure>
+![President Donald Trump and Vice-president Mike Pence](/assets/Official-Portraits-of-President-Donald-J-Trump-and-Vice-President-Mike-Pence.jpg)

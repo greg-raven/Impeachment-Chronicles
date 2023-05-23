@@ -17,6 +17,4 @@ Thank you,
 
 Stormy Daniels
 
-<figure>
-<img src="/assets/20180130-Stormy-Daniels.jpg">
-</figure>
+![Official statement from Stormy Daniels](/assets/20180130-Stormy-Daniels.jpg)

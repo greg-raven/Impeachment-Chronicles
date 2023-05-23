@@ -1,5 +1,5 @@
 ---
-title: 'Task of impeachment is not enough'
+title: 'Talk of impeachment is not enough'
 layout: post
 author:
 - BrooklynDad Defiant!
@@ -7,8 +7,6 @@ author:
 
 > Talk of impeachment is NOT enough. This election was STOLEN. That means Pence would ALSO be illegitimate 2 succeed trump. #VoidTheElection
 >
-> <cite>BrooklynDad Defiant!, via Twitter (via ifunny.co/picture/brooklyndad-defiant-mmpadellan-talk-of-impeachment-is-not-enough-this-IoWpmijD9)</cite>
+> <cite>BrooklynDad Defiant!, via Twitter (H/T ifunny.co/picture/brooklyndad-defiant-mmpadellan-talk-of-impeachment-is-not-enough-this-IoWpmijD9)</cite>
 
-<figure>
-<img src="/assets/20170204-bdd.jpg">
-</figure>
+![Talk of impeachment is not enough](/assets/20170204-bdd.jpg)
