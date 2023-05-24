@@ -1,6 +1,8 @@
 ---
 title: 'Trump’s latest travel ban is an attack on Africans'
 layout: post
+author:
+- Opal Tometi
 ---
 
 Last Friday, as the nation prepared to usher in the first day of Black History Month, President Donald Trump used his executive powers to issue a ban on visas for six countries, most of which are located in Africa – immigrants from Nigeria, Myanmar, Eritrea and Kyrgyzstan will be banned, while citizens of Tanzania and Sudan will be ineligible to apply for the green card lottery. The Trump administration had been hinting at this latest ban for weeks, yet the President still managed to choose the worst moment imaginable to set it in motion.

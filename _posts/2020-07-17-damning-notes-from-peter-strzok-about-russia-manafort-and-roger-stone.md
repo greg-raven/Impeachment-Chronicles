@@ -21,4 +21,4 @@ See also: [Trump campaign aides had repeated contacts with Russian intelligence]
 
 See also: twitchy.com/samj-3930/2020/07/17/wow-techno-fogs-thread-of-damning-notes-from-peter-strzok-about-russia-manafort-and-roger-stone-a-must-read/
 
-See also: [James Comey disputes New York Times article about Russia investigation]({% 2017-06-08-james-comey-disputes-new-york-times-article-about-russia-investigation %})
+See also: [James Comey disputes New York Times article about Russia investigation]({% post_url 2017-06-08-james-comey-disputes-new-york-times-article-about-russia-investigation %})

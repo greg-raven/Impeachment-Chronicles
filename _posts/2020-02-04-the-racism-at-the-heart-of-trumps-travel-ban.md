@@ -1,6 +1,8 @@
 ---
 title: 'The racism at the heart of Trump’s ‘travel ban’'
 layout: post
+author:
+- Jamelle Bouie
 ---
 
 - Adding Nigeria to the expanded list of excluded countries just makes it more obvious.

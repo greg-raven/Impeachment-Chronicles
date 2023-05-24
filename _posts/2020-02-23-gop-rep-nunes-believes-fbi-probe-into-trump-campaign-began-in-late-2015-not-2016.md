@@ -1,6 +1,8 @@
 ---
 title: 'GOP Rep. Nunes believes FBI probe into Trump campaign began in late 2015, not 2016'
 layout: post
+author:
+- John Solomon
 ---
 
 Rep. Devin Nunes, the top Republican on the House Permanent Select Committee on Intelligence, thinks the FBI’s Trump-Russia probe began before the agency’s publicly stated July 2016 start date.
@@ -17,4 +19,4 @@ Solomon thinks that an earlier start date — and public knowledge of that fact 
 
 “That changes everything on the way the story was told to us from Rod Rosenstein and James Comey and Andrew McCabe,” Solomon said. “It would be a complete rewriting of what really happened, which is extraordinary.”
 
-Source: John Soloman, justthenews.com/government/gop-rep-nunes-believes-fbi-probe-trump-campaign-began-late-2015-not-2016
+Source: John Solomon, justthenews.com/government/gop-rep-nunes-believes-fbi-probe-trump-campaign-began-late-2015-not-2016
