@@ -1,6 +1,8 @@
 ---
-title: 'Judicial watch uncovers timeline of Fusion GPS/Steele going back to 2015'
+title: 'Judicial Watch uncovers timeline of Fusion GPS/Steele going back to 2015'
 layout: post
+author:
+- Judicial Watch
 ---
 
 Strzok and Page’s names are connected to meetings and phone calls in the UK and DC
@@ -11,4 +13,4 @@ The records also include a letter from Congress demanding the investigation into
 
 […]
 
-Source: www.judicialwatch.org/fusion-gps-steele-2015/
+Source: judicialwatch.org/fusion-gps-steele-2015/

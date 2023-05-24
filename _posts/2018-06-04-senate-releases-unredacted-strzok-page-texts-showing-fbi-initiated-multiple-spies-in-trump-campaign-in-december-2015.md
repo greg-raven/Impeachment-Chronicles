@@ -44,3 +44,9 @@ This is only the first day of the 500 pages of documents being released by the U
 Give this a few more days. God only knows what’s here and what tomorrow’s Senate Hearing with corrupt Obama FBI agent Bill Preistap will reveal.
 
 Source: Joe Hoft, thegatewaypundit.com/2018/06/breaking-senate-releases-unredacted-strzok-page-texts-showing-fbi-initiated-multiple-spies-in-trump-campaign-in-december-2015/
+
+---
+
+**Note:** This is the entry under discussion.
+
+[Peter Strzok text, December 28, 2015]({% post_url 2015-12-08-peter-strzok-text %})

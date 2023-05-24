@@ -1,6 +1,8 @@
 ---
 title: 'Donald Trump is a Nazi. Full stop.'
 layout: post
+author:
+- Drew Magary
 ---
 
 - We can stop with all the hedging and qualifying

@@ -1,6 +1,8 @@
 ---
 title: 'Senate Republicans release files they say ‘undercut’ Steele dossier'
 layout: post
+author:
+- Brooke Singman
 ---
 
 - The Senate Judiciary Committee on Friday released newly declassified documents

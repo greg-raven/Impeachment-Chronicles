@@ -1,6 +1,8 @@
 ---
 title: 'AG Barr on Spygate probe: ‘One of the greatest travesties in American history’ was committed against Donald Trump'
 layout: post
+author:
+- Jon Dougherty
 ---
 
 (TNS) Attorney General William Barr gave a wide-ranging interview to Fox News’ Laura Ingraham on Wednesday, in which he discussed a great many things and provided lots of insight into various subjects.

@@ -1,6 +1,8 @@
 ---
 title: 'Trump and TGP were right: Obamagate started in 2015'
 layout: post
+author:
+- Joe Hoft
 ---
 
 - Judicial Watch Provides More Support for this Today
@@ -24,40 +26,42 @@ We knew then without a doubt that Comey lied about this.
 Intelligence expert Tony Shaffer tweeted Falco’s tweet –
 
 > I’d call this evidence of collusion and wrongdoing… https://t.co/CcTrao5bZE
-> 
-> — Tony Shaffer (@T\_S\_P\_O\_O\_K\_Y) June 4, 2018
+>
+> <cite>Tony Shaffer (@T\_S\_P\_O\_O\_K\_Y) June 4, 2018</cite>
 
-Falco’s tweet (soon taken down by Twitter) stated that the texts released from corrupt FBI investigator Peter Strzok to corrupt FBI attorney Lisa Page state the following :
+Falco’s tweet (soon taken down by Twitter) stated that the texts released from corrupt FBI investigator Peter Strzok to corrupt FBI attorney Lisa Page state the following:
 
 > BOMBSHELL- From DECEMBER 2015–The word LURES is redacted by FBI but not OIG; OCONUS LURES; OCONUS= Outside Contiguous US LURES= In this context LURES = SPIES – multiple – Is this an admission that the FBI wanted to run a baited Sting Op using foreign agents against Trump?”
-> 
+>
 > 1\) BOMBSHELL- From DECEMBER 2015–The word LURES is redacted by FBI but not OIG
-> 
+>
 > “OCONUS LURES”
-> 
+>
 > OCONUS= Outside Contiguous US
-> 
+>
 > LURES= In this context LURES = SPIES – multiple
-> 
+>
 > Is this an admission that the FBI wanted to run a baited Sting Op using foreign agents against Trump? pic.twitter.com/OtLxlOEGsV
-> 
-> — Falco (@Nick\_Falco) June 4, 2018
+>
+> <cite>Falco (@Nick\_Falco) June 4, 2018, twitter.com/Nick_Falco/status/1003673455496052736</cite>
 
 We provided additional information showing that Obama’s spy, Stefan Halper, was awarded a contract in September of 2015.
 
 We also pointed out that the problem with Obama spying on Trump before July 2016 is that it was against FBI rules and contradicted public statements:
 
 > Retired assistant FBI director for intelligence Kevin Brock also has questions. Brock supervised an agency update to their longstanding bureau rules governing the use of sources while working under then-director Robert Mueller. These rules prohibit the FBI from directing a human source to perform espionage on an American until a formal investigation has been opened – paperwork and all.
-> 
-> Brock sees oddities in how the Russia case began. “These types of investigations aren’t normally run by assistant directors and deputy directors at headquarters,” he told me. “All that happens normally in a field office, but that isn’t the case here and so it becomes a red flag. Congress would have legitimate oversight interests in the conditions and timing of the targeting of a confidential human source against a U.S. person.” -The Hill
+>
+> Brock sees oddities in how the Russia case began. “These types of investigations aren’t normally run by assistant directors and deputy directors at headquarters,” he told me. “All that happens normally in a field office, but that isn’t the case here and so it becomes a red flag. Congress would have legitimate oversight interests in the conditions and timing of the targeting of a confidential human source against a U.S. person.”
+>
+> <cite>The Hill</cite>
 
 The problem with Comey lying about the start date of the Trump counterintelligence campaign before Congress is that it is against the law.
 
 President Trump tweeted out a follow up to our post the next day undoubtedly referring to our report:
 
 > Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation into the Trump Campaign dating way back to December, 2015. SPYGATE is in full force! Is the Mainstream Media interested yet? Big stuff!
-> 
-> — Donald J. Trump (@realDonaldTrump) June 6, 2018
+>
+> <cite>Donald J. Trump (@realDonaldTrump) June 6, 2018</cite>
 
 The mainstream media was interested. They were interested in accusing President Trump of tweeting a conspiracy story. The fake news media denied the fact that spying on candidate Trump occurred in spite of evidence showing this happened and then slammed the President and the Gateway Pundit for posting the tweets from Nick Falco.
 
@@ -96,3 +100,9 @@ So we now know that Joseph Mifsud, the same individual that spied on George Papa
 Thank you President Trump for retweeting our report. Time proved us right again.
 
 Source: Joe Hoft, thegatewaypundit.com/2020/08/trump-tgp-right-obamagate-started-2015-judicial-watch-provides-support-today/
+
+---
+
+**Note:** This is the entry under discussion.
+
+[Peter Strzok text, December 28, 2015]({% post_url 2015-12-08-peter-strzok-text %})
