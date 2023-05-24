@@ -1,9 +1,11 @@
 ---
 title: 'Top Kerry Aide, key conduit for Steele Dossier, once worked for Russian oligarch, as did its author'
 layout: post
+author:
+- Eric Felten
 ---
 
-Jonathan Winer, a former top aide to Secretary of State John Kerry who was a key conduit for disseminating the discredited Steele dossier in the U.S. government, worked as a lobbyist for Russian oligarch Oleg Deripaska in years preceding the Russiagate affair. This revelation raises new questions about Russian efforts to influence American foreign policy — far afield from any Kremlin efforts to favor Donald Trump.
+Jonathan Winer, a former top aide to Secretary of State John Kerry who was a key conduit for disseminating the discredited [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) in the U.S. government, worked as a lobbyist for Russian oligarch Oleg Deripaska in years preceding the Russiagate affair. This revelation raises new questions about Russian efforts to influence American foreign policy — far afield from any Kremlin efforts to favor Donald Trump.
 
 Winer’s connection to Deripaska came to light through last week’s release of the fifth and final volume of the Senate Select Committee on Intelligence investigation of Russian interference in the 2016 campaign. The Senate report also found that at different times ex-British spy Christopher Steele had worked for the powerful oligarch with ties to President Vladimir Putin, and sent scores of reports from his intelligence firm on to Winer, who admitted to the panel destroying many of them before leaving the State Department. Further, the Senate developed evidence that Glenn Simpson – whose company Fusion GPS contracted with Steele for the dossier – also did work for Deripaska. Simpson denied that, telling senators, “I don’t think I’ve knowingly had any contact with his organization.”
 

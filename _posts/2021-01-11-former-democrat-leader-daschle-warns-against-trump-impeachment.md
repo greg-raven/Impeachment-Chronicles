@@ -1,6 +1,8 @@
 ---
 title: 'Former Democrat leader Daschle warns against Trump impeachment'
 layout: post
+author:
+- Nancy Ognanovich
 ---
 
 Former Senate Democratic leader Tom Daschle warned his party against impeaching President Donald Trump for inciting the mob attack on the Capitol, arguing that even a delayed Senate trial risks impeding urgent action President-elect Joe Biden must take to bolster the economy and combat the Covid-19 pandemic.

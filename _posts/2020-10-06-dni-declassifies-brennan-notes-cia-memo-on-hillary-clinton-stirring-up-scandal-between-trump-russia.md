@@ -1,6 +1,8 @@
 ---
 title: 'DNI declassifies Brennan notes, CIA memo on Hillary Clinton ‘stirring up’ scandal between Trump, Russia'
 layout: post
+author:
+- Brooke Singman
 ---
 
 - A source said Brennan’s handwritten notes were taken after briefing Obama on the matter

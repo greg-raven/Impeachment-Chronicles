@@ -1,11 +1,13 @@
 ---
-title: 'Fact Check: Joe Biden Repeats the Charlottesville ‘Very Fine People Hoax’; Lester Holt Does Not Correct'
+title: 'Fact Check: Joe Biden repeats the Charlottesville ‘Very Fine People Hoax’; Lester Holt does not correct'
 layout: post
+author:
+- Joel B. Pollack
 ---
 
-CLAIM: For the umpteenth time, Joe Biden claimed that President Donald Trump called neo-Nazis in Charlottesville, Virginia, “very fine people.”
+**CLAIM:** For the umpteenth time, Joe Biden claimed that President Donald Trump called neo-Nazis in Charlottesville, Virginia, “very fine people.”
 
-VERDICT: FALSE. This is Biden’s most infamous lie, and NBC’s Lester Holt failed to correct it.
+**VERDICT:** FALSE. This is Biden’s most infamous lie, and NBC’s Lester Holt failed to correct it.
 
 Biden spun the “Charlottesville very fine people hoax” again on Monday night at an NBC town hall:
 

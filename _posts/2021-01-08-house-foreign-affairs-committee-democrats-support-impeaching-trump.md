@@ -1,6 +1,8 @@
 ---
 title: 'House Foreign Affairs Committee Democrats support impeaching Trump'
 layout: post
+author:
+- Laura Kelly
 ---
 
 Democrats on the House Foreign Affairs Committee joined growing calls among their colleagues for Speaker Nancy Pelosi (D-Calif.) to take steps to impeach President Trump for his actions before the U.S. Capitol was attacked by a mob of his supporters.

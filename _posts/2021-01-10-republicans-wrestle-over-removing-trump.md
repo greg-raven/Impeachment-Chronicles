@@ -1,6 +1,8 @@
 ---
 title: 'Republicans wrestle over removing Trump'
 layout: post
+author:
+- Alexander Bolton
 ---
 
 GOP lawmakers are wrestling with whether to stick with President Trump between now and Jan. 20 as members of his Cabinet consider resigning or invoking the 25th Amendment to remove him from office.

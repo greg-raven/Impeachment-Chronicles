@@ -1,6 +1,8 @@
 ---
 title: 'Stunning revelations expose FBI’s Trump probe as dirtiest political trick in U.S. history'
 layout: post
+author:
+- Gregg Jarrett
 ---
 
 - Evidence continues to mount that Trump was been victimized by rogue and lawless government actors throughout his entire presidency

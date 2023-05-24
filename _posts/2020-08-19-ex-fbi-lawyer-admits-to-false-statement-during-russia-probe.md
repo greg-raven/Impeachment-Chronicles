@@ -1,6 +1,8 @@
 ---
 title: 'Ex-FBI lawyer admits to false statement during Russia probe'
 layout: post
+author:
+- Eric Tucker
 ---
 
 A former FBI lawyer has pleaded guilty to altering a document related to the secret surveillance of a former Trump campaign adviser during the Russia investigation

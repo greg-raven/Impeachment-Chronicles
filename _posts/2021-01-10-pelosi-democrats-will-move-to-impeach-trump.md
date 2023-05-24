@@ -1,6 +1,9 @@
 ---
 title: 'Pelosi: Democrats will move to impeach Trump'
 layout: post
+author:
+- Scott Wong
+- Mike Lillis
 ---
 
 House Democrats will stage a vote to impeach President Trump for encouraging mob violence at the Capitol last Wednesday, Speaker Nancy Pelosi (D-Calif.) announced Sunday night.

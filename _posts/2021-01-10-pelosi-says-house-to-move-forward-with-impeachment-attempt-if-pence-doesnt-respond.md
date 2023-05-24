@@ -1,6 +1,8 @@
 ---
 title: 'Pelosi says House to move forward with impeachment attempt if Pence doesn’t respond'
 layout: post
+author:
+- Jack Phillips
 ---
 
 House Speaker Nancy Pelosi (D-Calif.) on Sunday evening said that the House will move forward with a resolution Monday that calls on Vice President Mike Pence to invoke the 25th Amendment in order to impeach the president, just two weeks before his term ends.

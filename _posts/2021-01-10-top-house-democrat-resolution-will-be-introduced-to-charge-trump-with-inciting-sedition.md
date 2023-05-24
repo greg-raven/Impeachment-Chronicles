@@ -1,6 +1,8 @@
 ---
 title: 'Top House Democrat: Resolution will be introduced to charge Trump with ‘inciting sedition’'
 layout: post
+author:
+- Jack Phillips
 ---
 
 Rep. Hakeem Jeffries (D-N.Y.), the No. 3 House Democrat, announced Sunday that a “privileged resolution will be introduced that will charge” President Donald Trump with “inciting sedition.”
@@ -31,6 +33,6 @@ Should an impeachment procedure be initiated, Democrats will likely focus on Tru
 
 “We will never give up. We will never concede,” Trump said. The president, meanwhile, did not tell the protesters to enter the Capitol or use violence—on the contrary, in a twitter video deleted by the platform he told them to be peaceful and to go home, and later denounced the Capitol breach. Critics have claimed that his allegations of voter fraud and irregularities was an incitement to violence.
 
-The Epoch Times has reached out to the White House comment.
+The *Epoch Times* has reached out to the White House comment.
 
 Source: Jack Phillips, theepochtimes.com/top-house-democrat-resolution-will-be-introduced-to-charge-trump-with-inciting-sedition\_3650716.html

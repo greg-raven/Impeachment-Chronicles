@@ -1,6 +1,8 @@
 ---
 title: 'Republican blocks House from bringing up 25th Amendment resolution'
 layout: post
+author:
+- Jack Phillips
 ---
 
 Rep. Alex Mooney (R-W.Va.) on Jan. 11 blocked Democrats from introducing a resolution via unanimous consent to call on Vice President Mike Pence to invoke the 25th Amendment to remove President Donald Trump.

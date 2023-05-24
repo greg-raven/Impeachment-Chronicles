@@ -1,6 +1,8 @@
 ---
 title: '10 disturbing revelations from FBI Special Agent William Barnett on the FBI’s Michael Flynn Probe'
 layout: post
+author:
+- Kristina Wong
 ---
 
 The Justice Department on Thursday released a summary of its interview of a former FBI special agent who revealed damaging information on the initial FBI counterintelligence and Special Counsel Robert Mueller’s investigations into Lt. Gen. (Ret.) Michael Flynn.
@@ -43,7 +45,7 @@ The summary, known as a “302,” reveals that the special agent, William Barne
     - Barnett said SCO attorneys asked witnesses generic questions and did not seem interested in following up to clarify, and when he did so, he was scolded by another attorney for wasting time.
 10. **SCO agents joked about wiping their cell phones — which actually happened to at least several dozen phones, purportedly by accident.**
     1. Barnett said he was issued a cell phone by the SCO which he did not “wipe” like some of his colleagues. He said he heard other agents “comically” talk about wiping their phones, but was not aware of anyone doing it.
-    2. As revealed last month by Judicial Watch, [senior members of SCO repeatedly and “accidentally” wiped](https://www.breitbart.com/politics/2020/09/11/muellers-team-members-accidentally-wiped-phones-clean-of-data/) data off at least 27 phones assigned to them.
+    2. As revealed last month by Judicial Watch, senior members of SCO repeatedly and “accidentally” wiped data off at least 27 phones assigned to them.
 
 Barnett said he and others on the SCO would actually mock the investigation into collusion, calling it “Collusion Clue.”
 

@@ -1,6 +1,9 @@
 ---
 title: 'Trump says every American can get a coronavirus vaccine by April, but health experts say that’s not likely'
 layout: post
+author:
+- Maggie Fox
+- Nikki Carvajal
 ---
 
 (CNN) — President Donald Trump claimed Friday there will be enough coronavirus vaccines for every American by April — a claim that doesn’t match any timeline given by the federal government’s health agencies, private researchers or even the companies making the vaccines.
@@ -45,6 +48,6 @@ Most groups advising the federal government on a vaccine distribution plan have 
 
 “To have the nation vaccinated by the end of 2021 would still be a world land speed record.”
 
-CNN’s Jim Acosta and Matthew Hoye contributed to this report.
-
 Source: Maggie Fox and Nikki Carvajal, cnn.com/2020/09/18/health/trump-coronavirus-vaccine-april-promise-bn/index.html
+
+CNN’s Jim Acosta and Matthew Hoye contributed to this report.
