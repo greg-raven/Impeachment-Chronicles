@@ -25,13 +25,13 @@ Mr. Trump causes severe distress rather than experiencing it and has been richly
 
 Frances concludes his argument that no mental health professional who has not examined Trump should be allowed to publicly say what he thinks Trump’s psychological motivations might be by declaring that Trump’s “psychological motivations are too obvious to be interesting.” A few days later, a Times writer on mental health issues, Richard Friedman, concurred, also citing the Goldwater rule and adding his own new wrinkle: judging Trump mentally ill would let him “off the moral hook.”
 
-- - - - - -
+---
 
 Six and a half years ago, the Times entered this morass, in a Sunday Review piece speculating about the mental state of former president Obama. Drew Westen, a professor of psychology at Emory University, wrote about what he saw as Obama’s passivity, a trait that progressives and some liberals had loudly complained about. Calling it a “character defect,” Westen speculated that Obama suffered from a “deep-seated aversion to conflict,” was caught in a “pattern of presenting inconsistent positions with no apparent recognition of their incoherence,” and displayed “tic-like gestures of compromise.” He finished his essay by stating that Obama did not “know who he is and what he believes in.”
 
 There was indeed an outcry against Westen for presuming to speculate about Obama’s state of mind—though Westen hid the term “psychology” in the folds of the word “character.” It is quaint now, almost surreal, to think of Obama as mentally unfit to be president. But at the time, Westen’s essay, for all the anger and indignation it provoked in some quarters, was accepted as part of the legitimate democratic discourse about a president’s state of mind and motives.
 
-- - - - - -
+---
 
 It was the sociologist Christopher Lasch who made the term and the clinical condition “narcissism” famous when he published his bestselling 1979 book, The Culture of Narcissism: American Life in an Age of Diminishing Expectations. Lasch argued that a host of economic factors, especially rampant consumerism, had converged to make people self-obsessed and self-loathing, hyper-competitive and afraid of competition, cut off from reality, erratic, unempathetic, angry, vindictive. Recent arguments that the stock market’s unprecedented gains are proof of the business community’s faith in Trump, and therefore evidence of his mental fitness, would have made Lasch smile.
 
@@ -39,7 +39,7 @@ There are plenty of flaws in Lasch’s jeremiad, as there are in any set of swee
 
 Lasch’s most prescient insights are about individual character. The narcissistic personality, Lasch wrote, will “display… the prevailing obsession with celebrity and a determination to achieve it even at the cost of rational self-interest and personal safety. The narcissist divides society into two groups: the rich, great, and famous on the one hand, and the common herd on the other. … [Narcissists] worship heroes only to turn against them when their heroes disappoint them. … The narcissist admires and identifies himself with ‘winners’ out of his fear of being labeled a loser. … his admiration often turns to hatred if the object of his attachment does something to remind him of his own insignificance.” Lasch did not allow himself to get lost in pondering the question of whether narcissistic personality disorder should be considered mental illness. For Lasch, a person possessing such traits was able to function on various levels of practical endeavor, but unable to function as a rational or trustworthy member of society; that is to say, as a human being capable of kindness, empathy and attentiveness to others people’s reality. And Lasch was not even talking about presidents.
 
-- - - - - -
+---
 
 Up to now, Trump’s behavior has been analyzed as political inexperience, everyday insecurity, lack of attention span, calculated disruption, autocratic eruptions — even relished as a type of diversion that can be satirized by comedians. Whenever the question of his mental fitness is explicitly raised, the professionals are brought in to declare the issue unethical.
 

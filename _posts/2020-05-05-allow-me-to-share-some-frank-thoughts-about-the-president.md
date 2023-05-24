@@ -1,6 +1,8 @@
 ---
 title: 'Allow me to share some frank thoughts about the ‘president’'
 layout: post
+author:
+- Dana Milbank
 ---
 
 The orangutan in the White House is less refined than a savage. He is a fool, an irresolute, vacillating imbecile. He is an idiot, of low intellectual capacity. He is a barbarian, a yahoo, a gorilla — the original gorilla — and an unshapely man. He is horrid-looking, a scoundrel, a creature fit, evidently, for petty treasons.
@@ -15,7 +17,7 @@ The administration thus far has not met public expectations. He has brought on u
 
 He is ultimately to be classed among the catalog of monsters, of foolish and incompetent kings and emperors. He will go down as the man who could not read the signs of the times, who couldn’t understand the circumstances and interests of his country, who failed without excuses and fell without a friend.
 
-- - - - - -
+---
 
 At this point, I should mention that the president these words refer to is Abraham Lincoln. They are examples of contemporaneous criticism of the Great Emancipator from the newspapers of the day, strung together with minor changes. Lincoln scholar Harold Holzer of Hunter College, author of “Lincoln and the Power of the Press,” provided me with many of the quotes; several others came from Michael Burlingame’s Lincoln biography.
 
@@ -25,4 +27,4 @@ Only a man of Trump’s peculiar sense of victimhood could believe that he has b
 
 But the review produced something unexpected, too: As wrong as Lincoln’s newspaper critics were in judging the 16th president, they were eerily prescient in anticipating the failings of the 45th.
 
-Source: Dana Milbank, [Facebook](https://www.facebook.com/StandWithMueller/posts/2950280695009250)
+Source: Dana Milbank, facebook.com/StandWithMueller/posts/2950280695009250

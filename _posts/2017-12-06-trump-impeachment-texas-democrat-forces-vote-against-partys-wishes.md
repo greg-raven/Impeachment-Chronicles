@@ -1,6 +1,8 @@
 ---
 title: 'Trump impeachment? Texas Democrat forces vote against party’s wishes'
 layout: post
+author:
+- Scott Detrow
 ---
 
 - Democrat Pushes Vote On Trump Impeachment. It Didn’t Succeed
@@ -66,4 +68,4 @@ See below for a summary from Green’s office of the articles he introduced:
 - Donald J. Trump issued a public statement referring to Rep. Frederica Wilson (D-FL-24), a female, African-American Member of Congress as “wacky” a second time.
 - Donald J. Trump issued a public statement referring to Rep. Frederica Wilson (D-FL-24), a female, African-American Member of Congress as “wacky” a third time.
 
-Source: Scott Detrow, [NPR](https://www.npr.org/2017/12/06/568818578/democrat-pushes-vote-on-trump-impeachment-dont-expect-it-to-succeed)
+Source: Scott Detrow, npr.org/2017/12/06/568818578/democrat-pushes-vote-on-trump-impeachment-dont-expect-it-to-succeed

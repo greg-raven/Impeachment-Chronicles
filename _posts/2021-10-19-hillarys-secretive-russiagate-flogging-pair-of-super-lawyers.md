@@ -21,4 +21,4 @@ The FBI’s odd relationship with the two Democratic Party contractors gave Suss
 
 […]
 
-Source: Aaron Maté, [RealClearInvestigations](https://www.realclearinvestigations.com/articles/2021/10/19/coming_into_focus_hillarys_secretive_russiagate-flogging_pair_of_super-lawyers_799168.html)
+Source: Aaron Maté, realclearinvestigations.com/articles/2021/10/19/coming\_into\_focus\_hillarys\_secretive\_russiagate-flogging\_pair\_of\_super-lawyers\_799168.html)

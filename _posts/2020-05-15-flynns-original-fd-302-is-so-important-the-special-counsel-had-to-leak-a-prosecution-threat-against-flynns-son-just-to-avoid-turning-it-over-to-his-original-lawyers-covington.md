@@ -66,4 +66,4 @@ And the media once again played a crucial role in making it happen.
 
 That’s why much of the media can’t cover the Flynn case properly. They were willing and eager participants in his prosecution
 
-Source: John W. Huber via [Twitter](https://threadreaderapp.com/thread/1261447227127599106.html)
+Source: John W. Huber via threadreaderapp.com/thread/1261447227127599106.html

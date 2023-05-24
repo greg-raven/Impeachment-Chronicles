@@ -1,6 +1,9 @@
 ---
 title: 'He dreamed of being a police officer, then was killed by a pro-Trump mob'
 layout: post
+author:
+- Zolan Kanno-Youngs
+- Tracey Tully
 ---
 
 - The death of Brian Sicknick, a military veteran and experienced Capitol Police officer, amplified the tragedy of Wednesday’s riots and undermined President Trump’s pro-law-enforcement claims.
@@ -13,4 +16,4 @@ Law enforcement officials initially said Mr. Sicknick was struck with a fire ext
 
 […]
 
-Source: Zolan Kanno-Youngs and Tracey Tully, [The New York Times](https://www.nytimes.com/2021/01/08/us/politics/police-officer-killed-capitol.html)
+Source: Zolan Kanno-Youngs and Tracey Tully, nytimes.com/2021/01/08/us/politics/police-officer-killed-capitol.html

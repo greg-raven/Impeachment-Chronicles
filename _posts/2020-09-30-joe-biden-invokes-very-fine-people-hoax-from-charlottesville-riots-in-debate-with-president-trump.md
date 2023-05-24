@@ -1,6 +1,8 @@
 ---
 title: 'Joe Biden invokes ‘very fine people’ hoax from Charlottesville riots in debate with President Trump'
 layout: post
+author:
+- Dave Urbanski
 ---
 
 - Moderator Chris Wallace didn’t bother correcting Biden’s false statement
@@ -13,4 +15,4 @@ What was said?
 
 “Close your eyes, remember what those people looked like coming out of the fields, carrying torches, their veins bulging … just spewing anti-Semitic bile and accompanied by the Ku Klux Klan — a young woman got killed — and they asked the president what he thought, he said there were very fine people on both sides,” Biden remarked. “No president has said anything like that.”
 
-Source: Dave Urbanski, [TheBlaze](https://www.theblaze.com/news/joe-biden-very-fine-people-hoax)
+Source: Dave Urbanski, theblaze.com/news/joe-biden-very-fine-people-hoax

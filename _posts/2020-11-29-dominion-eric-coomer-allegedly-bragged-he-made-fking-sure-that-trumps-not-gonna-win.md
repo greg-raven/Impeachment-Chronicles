@@ -1,6 +1,8 @@
 ---
 title: 'DOMINION: Eric Coomer allegedly bragged he ‘made f**king sure’ that ‘Trump’s not gonna win’'
 layout: post
+author:
+- Frank Salvato
 ---
 
 - A conference call attendee alleges that Dominion’s Eric Coomer made some damning statements about the outcome of the November 3 election
@@ -25,4 +27,4 @@ Snopes concedes a critical point. Despite the lack of direct corroborating evide
 
 Several videos and eyewitness accounts have substantiated Coomer’s bias against not only President Trump, but Republican candidates as well.
 
-Source: Frank Salvato, [National File](https://nationalfile.com/dominion-eric-coomer-allegedly-bragged-he-made-fking-sure-that-trumps-not-gonna-win/)
+Source: Frank Salvato, nationalfile.com/dominion-eric-coomer-allegedly-bragged-he-made-fking-sure-that-trumps-not-gonna-win/

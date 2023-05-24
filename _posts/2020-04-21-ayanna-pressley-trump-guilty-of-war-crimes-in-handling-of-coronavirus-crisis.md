@@ -1,6 +1,8 @@
 ---
 title: 'Ayanna Pressley: Trump guilty of ‘war crimes’ in handling of coronavirus crisis'
 layout: post
+author:
+- Dominick Mastrangelo
 ---
 
 Rep. Ayanna Pressley accused President Trump’s administration of committing “war crimes” for how it responded to the nationwide outbreak of the coronavirus.
@@ -40,4 +42,4 @@ Meanwhile, “get back to work” protesters have been storming state capitols i
 
 […]
 
-Source: Dominick Mastrangelo, [Washington Examiner](https://www.washingtonexaminer.com/news/pressley-trump-guilty-of-war-crimes-in-handling-of-coronavirus-crisis)
+Source: Dominick Mastrangelo, washingtonexaminer.com/news/pressley-trump-guilty-of-war-crimes-in-handling-of-coronavirus-crisis
