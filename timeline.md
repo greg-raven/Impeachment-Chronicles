@@ -3,7 +3,7 @@ title: Timeline
 layout: page
 ---
 
-<table class="table">
+<table>
 <thead>
 <tr>
 <th>Date</th><th>Event</th>

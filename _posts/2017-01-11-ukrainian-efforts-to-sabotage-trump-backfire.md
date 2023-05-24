@@ -1,6 +1,9 @@
 ---
 title: 'Ukrainian efforts to sabotage Trump backfire'
 layout: post
+author:
+- Austin Wright
+- Martin Matishak
 ---
 
 - Kiev officials are scrambling to make amends with the president-elect after quietly working to boost Clinton.
@@ -19,7 +22,7 @@ Yet Politico’s investigation found evidence of Ukrainian government involvemen
 
 “Now, it seems that a U.S. election may have been seen as a surrogate battle by those in Kiev and Moscow,” Merkel said.
 
-•••
+---
 
 The Ukrainian antipathy for Trump’s team — and alignment with Clinton’s — can be traced back to late 2013. That’s when the country’s president, Viktor Yanukovych, whom Manafort had been advising, abruptly backed out of a European Union pact linked to anti-corruption reforms. Instead, Yanukovych entered into a multibillion-dollar bailout agreement with Russia, sparking protests across Ukraine and prompting Yanukovych to flee the country to Russia under Putin’s protection.
 
@@ -63,7 +66,7 @@ Asked about the effort, the Kaptur legislative assistant called it a “touchy s
 
 Kaptur’s office later emailed an official statement explaining that the lawmaker is backing a bill to create an independent commission to investigate “possible outside interference in our elections.” The office added “at this time, the evidence related to this matter points to Russia, but Congresswoman Kaptur is concerned with any evidence of foreign entities interfering in our elections.”
 
-•••
+---
 
 Almost as quickly as Chalupa’s efforts attracted the attention of the Ukrainian Embassy and Democrats, she also found herself the subject of some unwanted attention from overseas.
 
@@ -101,7 +104,7 @@ In a Yahoo News story naming Chalupa as one of 16 “ordinary people” who “s
 
 Chalupa this month told Politico that, as her research and role in the election started becoming more public, she began receiving death threats, along with continued alerts of state-sponsored hacking. But she said, “None of this has scared me off.”
 
-•••
+---
 
 While it’s not uncommon for outside operatives to serve as intermediaries between governments and reporters, one of the more damaging Russia-related stories for the Trump campaign — and certainly for Manafort — can be traced more directly to the Ukrainian government.
 
@@ -151,7 +154,7 @@ Yet Russia seemed to come to the defense of Manafort and Trump last month, when 
 
 “Ukraine seriously complicated the work of Trump’s election campaign headquarters by planting information according to which Paul Manafort, Trump’s campaign chairman, allegedly accepted money from Ukrainian oligarchs,” Maria Zakharova said at a news briefing, according to a transcript of her remarks posted on the Foreign Ministry’s website. “All of you have heard this remarkable story,” she told assembled reporters.
 
-•••
+---
 
 Beyond any efforts to sabotage Trump, Ukrainian officials didn’t exactly extend a hand of friendship to the GOP nominee during the campaign.
 
@@ -181,14 +184,11 @@ Shulyar rejected the characterizations that the embassy had a ban on interacting
 
 And she pointed out that Chaly traveled to the GOP convention in Cleveland in late July and met with members of Trump’s foreign policy team “to highlight the importance of Ukraine and the support of it by the U.S.”
 
-20170111\_Valeriy\_Chaly\_Getty.jpg
-Ukraine’s ambassador to the U.S. Valeriy Chaly publically critcized Donald Trump during the 2016 elections. | Getty
-
 Despite the outreach, Trump’s campaign in Cleveland gutted a proposed amendment to the Republican Party platform that called for the U.S. to provide “lethal defensive weapons” for Ukraine to defend itself against Russian incursion, backers of the measure charged.
 
 The outreach ramped up after Trump’s victory. Shulyar pointed out that Poroshenko was among the first foreign leaders to call to congratulate Trump. And she said that, since Election Day, Chaly has met with close Trump allies, including Sens. Jeff Sessions, Trump’s nominee for attorney general, and Bob Corker, the chairman of the Senate Foreign Relations Committee, while the ambassador accompanied Ivanna Klympush-Tsintsadze, Ukraine’s vice prime minister for European and Euro-Atlantic integration, to a round of Washington meetings with Rep. Tom Marino (R-Pa.), an early Trump backer, and Jim DeMint, president of The Heritage Foundation, which played a prominent role in Trump’s transition.
 
-•••
+---
 
 Many Ukrainian officials and operatives and their American allies see Trump’s inauguration this month as an existential threat to the country, made worse, they admit, by the dissemination of the secret ledger, the antagonistic social media posts and the perception that the embassy meddled against — or at least shut out — Trump.
 
