@@ -5,7 +5,7 @@ author:
 - Wikipedia
 ---
 
-![Trump: The Kremlin Candidate?](/_assets/Trump\_-\_The_Kremlin\_Candidate.jpg)
+![Trump: The Kremlin Candidate?](/assets/Trump---The-Kremlin-Candidate.jpg)
 
 ***Trump: The Kremlin Candidate?*** is a [documentary film](https://en.wikipedia.org/wiki/Documentary_film) first broadcast by the program *[Panorama](https://en.wikipedia.org/wiki/Panorama_(TV_series))* on [BBC One](https://en.wikipedia.org/wiki/BBC_One), examining [links between Trump associates and Russian officials](https://en.wikipedia.org/wiki/Links_between_Trump_associates_and_Russian_officials) and the relationship between [Vladimir Putin](https://en.wikipedia.org/wiki/Vladimir_Putin) and [Donald Trump](https://en.wikipedia.org/wiki/Donald_Trump). It features [investigative journalist](https://en.wikipedia.org/wiki/Investigative_journalism) [John Sweeney](https://en.wikipedia.org/wiki/John_Sweeney_(journalist)), who journeyed to [Russia](https://en.wikipedia.org/wiki/Russia), [Ukraine](https://en.wikipedia.org/wiki/Ukraine), [Lithuania](https://en.wikipedia.org/wiki/Lithuania), and the United States during the course of his research. The documentary first aired in the United Kingdom on 16 January 2017, four days before the [Inauguration of Donald Trump](https://en.wikipedia.org/wiki/Inauguration_of_Donald_Trump). Sweeney had prior experience on the subject matter, having interviewed Trump in 2013, and Putin in 2014. The film was directed by Matthew Hill, Tomiko Newson, and Nick Sturdee.
 
