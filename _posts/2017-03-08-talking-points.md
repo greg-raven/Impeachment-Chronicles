@@ -1,6 +1,8 @@
 ---
 title: 'Talking Points'
 layout: post
+author:
+- Lisa Page
 ---
 
 XXXXXXXXXXXXXX

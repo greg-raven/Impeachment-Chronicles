@@ -1,6 +1,8 @@
 ---
 title: 'Trump’s crisis of legitimacy'
 layout: post
+author:
+- David Frum
 ---
 
 - The president understands the stakes of the Russia story more clearly than most of his followers.

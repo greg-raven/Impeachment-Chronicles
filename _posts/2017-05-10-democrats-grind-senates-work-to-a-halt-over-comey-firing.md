@@ -1,6 +1,8 @@
 ---
 title: 'Democrats grind Senate’s work to a halt over Comey firing'
 layout: post
+author:
+- Paul Krugman
 ---
 
 > […] At this point we arguably do not have a legitimate president or administration. […]

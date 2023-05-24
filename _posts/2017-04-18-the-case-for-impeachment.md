@@ -1,6 +1,8 @@
 ---
 title: 'The Case for Impeachment'
 layout: post
+author:
+- wikipedia.org
 ---
 
 ![The Case for Impeachment](/assets/The-Case-for-Impeachment.jpg)

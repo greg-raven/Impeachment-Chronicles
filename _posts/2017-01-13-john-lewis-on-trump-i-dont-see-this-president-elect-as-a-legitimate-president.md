@@ -1,6 +1,10 @@
 ---
 title: 'John Lewis on Trump: ‘I don’t see this president-elect as a legitimate president’'
 layout: post
+author:
+- Kyle Cheney
+- Josh Dawsey
+- Rebecca Morin
 ---
 
 Rep. John Lewis, the Georgia Democrat and civil rights icon, says he does not see Donald Trump as a legitimate president.

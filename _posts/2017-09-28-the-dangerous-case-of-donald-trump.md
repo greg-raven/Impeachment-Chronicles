@@ -1,11 +1,14 @@
 ---
 title: '‘The Dangerous Case of Donald Trump’'
 layout: post
+author:
+- Rosemary K.M. Sword
+- Philip Zimbardo
 ---
 
 - A new book delves into the president’s mental health.
 
-Our previous post, “[The Elephant in the Room: It’s time we talked openly about Donald Trump’s mental health](/2017/02/28/the-elephant-in-the-room.html),” went viral with close to a million reads. People on both sides of the political spectrum — as well as mental health professionals — weighed in with hundreds of comments.
+Our previous post, “[The Elephant in the Room: It’s time we talked openly about Donald Trump’s mental health]({% post_url 2017-02-28-the-elephant-in-the-room %}),” went viral with close to a million reads. People on both sides of the political spectrum — as well as mental health professionals — weighed in with hundreds of comments.
 
 One comment was from Hal Brown, MSW, a colleague of John Gartner, Ph.D., whom we mentioned in the post. John is the founder of Duty to Warn, an organization intent on warning our country that we are in dire trouble due to our president’s mental instability. More than 60,000 mental health professionals have signed John’s petition, which states:
 
@@ -36,7 +39,7 @@ Since Gartner’s organization was already called *Duty to Warn,* Lee’s book w
 So why are so many mental health professionals — the contributors to *The Dangerous Case* and the rest of the 60,000-plus — willing to put their careers on the line? We’ll defer to Lee:
 
 > “We are asking our fellow mental health professionals to get involved in politics not only as citizens, but also, specifically, as professionals and as guardians of special knowledge with which they have been entrusted. How can we be sure that this is permissible? It is all too easy to claim, just as we have done, that an emergency situation requires a departure from our usual practices in the private sphere. How can we judge whether in fact our political involvement is justified?
-> 
+>
 > “We would argue that the key question is whether professionals are engaging in political collusion with state abuses of power, or in resistance to them. If we are asked to cooperate with state programs that violate human rights, then regardless of the purported justification, any involvement can only corrupt, and the only appropriate ethical stance is to refuse participation of any sort. If, on the other hand, we perceive that state power is being abused by an executive who seems to be mentally unstable, then we may certainly speak out, not only as citizens, but also, we would argue, as professionals who are privy to special information and a responsibility to educate the public. For whatever our wisdom and expertise may be worth, surely we are obligated to share it.”
 
 Source: Rosemary K.M. Sword and Philip Zimbardo Ph.D., psychologytoday.com/us/blog/the-time-cure/201709/the-dangerous-case-donald-trump

@@ -1,6 +1,9 @@
 ---
 title: 'The elephant in the room'
 layout: post
+author:
+- Rosemary K.M. Sword
+- Philip Zimbardo
 ---
 
 It’s time we talked openly about Donald Trump’s mental health.

@@ -1,6 +1,9 @@
 ---
 title: '‘I want to say this about Donald Trump …’'
 layout: post
+author:
+- David Weigel
+- Jamie Raskin
 ---
 
 > Rep. Jamie Raskin: &ldquo;I want to say this for Donald Trump, who I may well be voting to impeach…&rdquo; He’s drowned out by applause.

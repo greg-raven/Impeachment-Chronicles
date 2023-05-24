@@ -1,6 +1,8 @@
 ---
 title: 'Was the 2016 election legitimate? It’s now definitely worth asking the question'
 layout: post
+author:
+- Virginia Heffernan
 ---
 
 We need to talk about a forbidden subject: the legitimacy of the current president.

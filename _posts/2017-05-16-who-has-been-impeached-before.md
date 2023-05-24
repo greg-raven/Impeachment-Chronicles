@@ -1,9 +1,11 @@
 ---
 title: 'Who has been impeached before?'
 layout: post
+author:
+- Tom McCarthy
 ---
 
-Two presidents, Bill Clinton (1998) and Andrew Johnson (1868). (Congress may also impeach judges.) Articles of impeachment were passed against [Richard Nixon](https://www.theguardian.com/us-news/richard-nixon) by a congressional committee, but Nixon resigned before the House of Representatives could vote on the matter, meaning that technically he was not impeached.
+Two presidents, Bill Clinton (1998) and Andrew Johnson (1868). (Congress may also impeach judges.) Articles of impeachment were passed against Richard Nixon by a congressional committee, but Nixon resigned before the House of Representatives could vote on the matter, meaning that technically he was not impeached.
 
 Impeachment does not mean expulsion from office. Under the constitution, impeachment happens in the House of Representatives if a majority approves articles of impeachment previously approved in committee. Then impeachment goes to the Senate, where a two-thirds majority vote is required to convict the president, upon which he would be removed from office.
 
@@ -27,7 +29,7 @@ The key players in the second case are the vice-president and the top 15 members
 
 The president may challenge such a decision, at which point a two-thirds majority in both chambers of Congress would be required to stop the president from regaining power.
 
-It’s conceivable that Trump would not go quietly if his cabinet and vice-president [Mike Pence](https://www.theguardian.com/us-news/mike-pence) were to gang up on him.
+It’s conceivable that Trump would not go quietly if his cabinet and vice-president Mike Pence were to gang up on him.
 
 **How long do impeachment proceedings take?**
 
@@ -35,7 +37,7 @@ There isn’t much precedent to say, but the Clinton case proceeded through Cong
 
 **Who’s saying Trump should be impeached?**
 
-About 46% of Americans who responded to a [Public Policy Polling survey](https://www.publicpolicypolling.com/pdf/2017/PPP_Release_National_21017.pdf) in February, for starters. Public opinion matters because for impeachment to happen, Congress must act, and elected officials sometimes hang their principles on opinion polls.
+About 46% of Americans who responded to a Public Policy Polling survey in February, for starters. Public opinion matters because for impeachment to happen, Congress must act, and elected officials sometimes hang their principles on opinion polls.
 
 It’s notable that Nixon, a Republican, faced impeachment in a Congress controlled by Democrats, and Clinton was impeached by a Republican-controlled Congress. For Trump to be impeached, members of his own party would have to turn on him.
 
@@ -51,7 +53,7 @@ Bonifaz, of the Impeach Trump Now group, argues that Trump’s failure to divest
 
 **What would it take in practice to trigger enough Republicans into action?**
 
-Republicans had promised to [impeach Hillary Clinton](https://nymag.com/daily/intelligencer/2016/10/republicans-have-a-plan-to-make-clintons-presidency-hell.html) as soon as she took office. But what they might not have remembered is that two-thirds of the Senate is required to convict a president of impeachable offenses. The Democrats are in the minority, but they do have 48 Senate seats out of 100.
+Republicans had promised to impeach Hillary Clinton as soon as she took office. But what they might not have remembered is that two-thirds of the Senate is required to convict a president of impeachable offenses. The Democrats are in the minority, but they do have 48 Senate seats out of 100.
 
 The most important factor for Republicans in deciding whether to go after Trump would seem to be the disposition of Republican voters. If the people turn on the president, Congress may follow.
 

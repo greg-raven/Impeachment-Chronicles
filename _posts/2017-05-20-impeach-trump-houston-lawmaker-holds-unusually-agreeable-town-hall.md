@@ -1,19 +1,21 @@
 ---
 title: 'Impeach Trump? Houston lawmaker holds unusually agreeable town hall'
 layout: post
+author:
+- Tom Dart
 ---
 
 - Democrat Al Green, who thrilled liberals with his call for the impeachment of the president this week, found a receptive audience at home on Saturday
 
-In a political season marked by [livid constituents railing at their representatives](https://www.theguardian.com/us-news/2017/may/11/republican-healthcare-bill-tom-macarthur-protest) during town hall meetings, an event on Saturday in Houston was positively mellow by comparison. But then, the topic was not a divisive issue such as healthcare. It was the [impeachment of Donald Trump](https://www.theguardian.com/commentisfree/2017/may/18/donald-trump-impeach-special-counsel-robert-mueller-fbi).
+In a political season marked by livid constituents railing at their representatives during town hall meetings, an event on Saturday in Houston was positively mellow by comparison. But then, the topic was not a divisive issue such as healthcare. It was the impeachment of Donald Trump.
 
 The meeting was held by Al Green, a 69-year-old Democratic Houston congressman who took office in 2005 and is typically softly-spoken and understated. Not on Wednesday, though, when he became the first member of Congress to take to the floor and ask for the president’s impeachment.
 
-“I rise today, Mr. Speaker,” [he said](https://time.com/4782373/comey-memo-donald-trump-impeachment-al-green/), “to call for the impeachment of the president of the United States of America for obstruction of justice.”
+“I rise today, Mr. Speaker,” he said, “to call for the impeachment of the president of the United States of America for obstruction of justice.”
 
-It was a move that thrilled many liberal activists, though it was not immediately endorsed by many of Green’s colleagues, [who worry](https://www.cnn.com/2017/05/19/politics/democrats-react-to-impeachment/) that rhetoric is outpacing reality so soon in Trump’s tenure, with Republicans controlling both the House and the Senate and much left to be proven amid the miasma of revelations and accusations.
+It was a move that thrilled many liberal activists, though it was not immediately endorsed by many of Green’s colleagues, who worry that rhetoric is outpacing reality so soon in Trump’s tenure, with Republicans controlling both the House and the Senate and much left to be proven amid the miasma of revelations and accusations.
 
-Green said Trump’s [decision to fire James Comey last week as FBI director](https://www.theguardian.com/us-news/2017/may/09/james-comey-fbi-fired-donald-trump) amid the bureau’s examination of possible collusion between the president’s campaign and Russia justified his decision.
+Green said Trump’s decision to fire James Comey last week as FBI director amid the bureau’s examination of possible collusion between the president’s campaign and Russia justified his decision.
 
 “It’s not too soon,” he told the Guardian on Saturday. “When the act is committed, from that point forward the impeachment can begin at any moment. So the president committed an impeachable act when he fired the FBI director who was investigating him. That’s pretty strong evidence.”
 
@@ -27,7 +29,7 @@ Green denied he is grandstanding: “It surely wasn’t because I expected a big
 
 The law was a pronounced presence on Saturday. In a crowd of 150 to 200 people at a church hall in south-west Houston, there were a dozen police officers, six private security workers to screen everyone at the entrance and a bomb-sniffing dog.
 
-Green, who is black, received threats after his speech in Washington. He began Saturday’s meeting by playing a couple of [racist messages left on his office voicemail](https://www.theguardian.com/us-news/2017/may/09/james-comey-fbi-fired-donald-trump). The callers used racial slurs and made references to lynching. In another, posted online by his assistants, a man says: “You called for the impeachment of our wonderful, loving, United States president. You sound disgusting. God, you are so disgusting.”
+Green, who is black, received threats after his speech in Washington. He began Saturday’s meeting by playing a couple of racist messages left on his office voicemail. The callers used racial slurs and made references to lynching. In another, posted online by his assistants, a man says: “You called for the impeachment of our wonderful, loving, United States president. You sound disgusting. God, you are so disgusting.”
 
 When video of Green’s speech to Congress was shown there was warm applause. One woman asked whether he thought Mike Pence, Trump’s vice-president, should also be a target. Green said the focus must be on Trump. Another attendee expressed concern about what she saw as the politicization of the FBI.
 

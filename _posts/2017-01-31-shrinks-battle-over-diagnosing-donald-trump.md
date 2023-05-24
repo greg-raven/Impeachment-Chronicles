@@ -1,6 +1,8 @@
 ---
 title: 'Shrinks battle over diagnosing Donald Trump'
 layout: post
+author:
+- Hara Estroff Marano
 ---
 
 - Chaos in the White House fuels discord amongst the experts.

@@ -1,6 +1,8 @@
 ---
 title: 'Democratic lawmaker to file articles of impeachment over Trump’s Charlottesville response'
 layout: post
+author:
+- Jessica Estepa
 ---
 
 Rep. Steve Cohen announced Thursday that he would introduce articles of impeachment against President Trump following the president’s comments about the violent attacks in Charlottesville, Va., saying the president had “failed the presidential test of moral leadership.”

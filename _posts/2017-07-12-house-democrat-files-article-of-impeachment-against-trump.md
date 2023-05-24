@@ -1,6 +1,8 @@
 ---
 title: 'House Democrat files article of impeachment against Trump'
 layout: post
+author:
+- Cristina Marcos
 ---
 
 Rep. Brad Sherman (D-Calif.) formally introduced an article of impeachment against President Trump on Wednesday that accuses the president of obstructing justice during the federal investigation of Russia’s 2016 election interference.

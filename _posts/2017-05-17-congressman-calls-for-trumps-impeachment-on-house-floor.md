@@ -1,6 +1,8 @@
 ---
 title: 'Congressman calls for Trump’s impeachment on House floor'
 layout: post
+author:
+- Miranda Green
 ---
 
 Democratic Rep. Al Green of Texas called for the impeachment of President Donald Trump Wednesday morning, the first member of Congress to officially request leveling charges against the President from the House floor.

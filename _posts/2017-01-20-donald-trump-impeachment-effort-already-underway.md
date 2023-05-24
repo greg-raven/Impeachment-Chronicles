@@ -1,6 +1,8 @@
 ---
 title: 'Donald Trump impeachment effort already underway'
 layout: post
+author:
+- Rachael Revesz
 ---
 
 - The campaign hinges on Mr. Trump’s intention to keep his commercial real estate empire intact while in office

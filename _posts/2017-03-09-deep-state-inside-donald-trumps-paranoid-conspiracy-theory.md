@@ -1,6 +1,8 @@
 ---
 title: 'Deep State: Inside Donald Trump’s paranoid conspiracy theory'
 layout: post
+author:
+- Michael Hafford
 ---
 
 - Everything you need to know about the supposed forces within the federal government that the President believes are out to get him
@@ -81,4 +83,4 @@ Given Trump’s slow process of actually nominating people, let alone the Democr
 
 We’re probably not done with leaks, that’s for starters. As Trump gets more and more of his people into administrative roles, things will work more and more smoothly. But if he and his people continue to lie about their day-to-day activities, and especially about their contacts with Russia, don’t expect anything to stay secret.
 
-Source: Michael Hafford, [Rolling Stone](https://www.rollingstone.com/culture/culture-news/deep-state-inside-donald-trumps-paranoid-conspiracy-theory-124236/)
+Source: Michael Hafford, rollingstone.com/culture/culture-news/deep-state-inside-donald-trumps-paranoid-conspiracy-theory-124236/

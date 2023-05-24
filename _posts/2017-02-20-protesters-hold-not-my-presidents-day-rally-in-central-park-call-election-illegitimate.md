@@ -1,6 +1,8 @@
 ---
 title: 'Protesters hold ‘Not My President’s Day’ rally in Central Park, call election ‘illegitimate’'
 layout: post
+author:
+- Leonard Greene
 ---
 
 Instead of celebrating Presidents’ Day, thousands of demonstrators lined Central Park on Monday to protest the presidency of Donald Trump, saying his election win was “illegitimate” and his policies dangerous.

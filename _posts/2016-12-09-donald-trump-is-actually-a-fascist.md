@@ -1,6 +1,8 @@
 ---
 title: 'Donald Trump is actually a fascist'
 layout: post
+author:
+- Michael Kinsley
 ---
 
 Donald Trump is a fascist.
@@ -15,7 +17,7 @@ The game has several names: “Corporate statism” is one. In Europe, they call
 
 But the deal Trump negotiated with Carrier and its parent company, United Technologies, to “save” hundreds of jobs is a prime example of the philosophy. Trump brags about “saving” Midwestern blue-collar jobs through a combination of bribery and arm-twisting. Turns out hundreds more jobs will be lost, and Trump as president can’t possibly negotiate on behalf of millions of workers.
 
-But Trump believes — truly believes, I think — in the title of one of his books: the art of the deal. He thinks he is the world’s greatest negotiator. When he says he won’t reveal his income taxes because he is in the midst of negotiations with the IRS, he may be sincere. He says, believably, that he gets audited every year. That means every year’s tax bill is just the government’s opening move in an annual chess game, and Trump doesn’t want to give away his own opening move. Now he plans to negotiate more “deals” and he thinks — because he can outfox some midlevel IRS auditors — that he can outfox the political and business leaders of the world. “The Art of the Deal” is not “Mein Kampf,” although “not ‘Mein Kampf’ ” isn’t much of an endorsement.
+But Trump believes — truly believes, I think — in the title of one of his books: the art of the deal. He thinks he is the world’s greatest negotiator. When he says he won’t reveal his income taxes because he is in the midst of negotiations with the IRS, he may be sincere. He says, believably, that he gets audited every year. That means every year’s tax bill is just the government’s opening move in an annual chess game, and Trump doesn’t want to give away his own opening move. Now he plans to negotiate more “deals” and he thinks — because he can outfox some midlevel IRS auditors — that he can outfox the political and business leaders of the world. “The Art of the Deal” is not “Mein Kampf,” although “not ‘Mein Kampf’” isn’t much of an endorsement.
 
 Just to be clear: If I’m correct that Trump actually has a governing philosophy, that’s a bad thing, not a good thing. If he actually has principles to guide him through those famous swamps he plans to drain, that’s alarming, not reassuring. Bad principles are not a good substitute for no principles. Four or eight years of bad principles may make no principles look pretty good.
 

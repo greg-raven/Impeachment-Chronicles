@@ -1,6 +1,8 @@
 ---
 title: 'First Republicans talk possibility of impeachment for Trump'
 layout: post
+author:
+- Cristina Marcos
 ---
 
 Republicans are beginning to talk of the possibility that President Trump could face impeachment after reports that he pressed ousted FBI Director James Comey to end an investigation of former national security adviser Michael Flynn.

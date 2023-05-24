@@ -1,6 +1,8 @@
 ---
 title: 'Schumer warns Trump: Intel officials ‘have six ways from Sunday at getting back at you’'
 layout: post
+author:
+- Daniel Chaitin
 ---
 
 The new leader of Democrats in the Senate says Donald Trump is being “really dumb” for picking a fight with intelligence officials, suggesting they have ways to strike back, after the president-elect speculated Tuesday that his “so-called” briefing about Russian cyberattacks had been delayed in order to build a case.

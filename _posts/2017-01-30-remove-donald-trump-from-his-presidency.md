@@ -1,6 +1,8 @@
 ---
 title: 'Remove Donald Trump from his presidency'
 layout: post
+author:
+- change.org
 ---
 
 Quoted from www.whitehouse.gov/america-first-energy: “President Trump is committed to eliminating harmful and unnecessary policies such as the Climate Action Plan and the Waters of the U.S. rule.”
@@ -17,6 +19,6 @@ In conclusion, should Donald Trump not be stopped, Earth would become inhabitabl
 
 Side note: If you always believed in the end of the world, it would happen sooner than you realise, so at least try to stop it, so your children would be able to see the light of day.
 
-Source: Impeach Trump, change.org/p/impeach-donald-j-trump
+Source: change.org
 
 [Webmaster note: Date approximate.]

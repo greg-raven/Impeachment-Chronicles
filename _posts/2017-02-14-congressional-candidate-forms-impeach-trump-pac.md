@@ -1,6 +1,8 @@
 ---
 title: 'Congressional candidate forms Impeach Trump PAC'
 layout: post
+author:
+- Lisa Hagen
 ---
 
 A Democratic congressional candidate filed paperwork with the the Federal Election Commission (FEC) to create the Impeach Trump Leadership PAC.

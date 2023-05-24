@@ -1,13 +1,17 @@
 ---
 title: 'Trump must be impeached. Here’s why.'
 layout: post
+author:
+- Lawrence H. Tribe
 ---
 
 The time has come for Congress to launch an impeachment investigation of President Trump for obstruction of justice.
 
 The remedy of impeachment was designed to create a last-resort mechanism for preserving our constitutional system. It operates by removing executive-branch officials who have so abused power through what the framers called “high crimes and misdemeanors” that they cannot be trusted to continue in office.
 
-<iframe height="290" loading="lazy" src="https://www.washingtonpost.com/video/c/embed/b9d4d7c2-35c7-11e7-ab03-aa29f656f13e" width="480"></iframe>No American president has ever been removed for such abuses, although Andrew Johnson was impeached and came within a single vote of being convicted by the Senate and removed, and Richard Nixon resigned to avoid that fate.
+<iframe height="290" loading="lazy" src="https://www.washingtonpost.com/video/c/embed/b9d4d7c2-35c7-11e7-ab03-aa29f656f13e" width="480"></iframe>
+
+No American president has ever been removed for such abuses, although Andrew Johnson was impeached and came within a single vote of being convicted by the Senate and removed, and Richard Nixon resigned to avoid that fate.
 
 Now the country is faced with a president whose conduct strongly suggests that he poses a danger to our system of government.
 

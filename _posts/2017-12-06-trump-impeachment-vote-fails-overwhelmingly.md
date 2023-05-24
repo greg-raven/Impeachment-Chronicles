@@ -1,6 +1,8 @@
 ---
 title: 'Trump impeachment vote fails overwhelmingly'
 layout: post
+author:
+- Kyle Cheney
 ---
 
 - The measure drew the support of 58 House Democrats.

@@ -1,6 +1,8 @@
 ---
 title: 'H.Res.646 — Impeaching Donald John Trump, President of the United States, of high misdemeanors'
 layout: post
+author:
+- Al Green
 ---
 
 On December 6, 2017, Rep. Al Green introduced articles of impeachment against President Trump. Green introduced the resolution as a privileged motion and it was voted on the same day. As expected the resolution did not move forward, losing by 364–58 with all Republicans and most Democrats voting against it.
@@ -39,4 +41,4 @@ Articles of impeachment against the President and related sorts of resolutions a
 
 Another open question is the definition of what constitutes an impeachable offense. In 2014 and 2015, bills were introduced to define impeachable offenses. Both sponsors were Republicans, but while the 2015 resolution seemed to be tailored to President Obama, the 2014 resolution was tailored to whoever won the 2016 election and appeared to be addressing at least as many actions of the Bush Administration as the Obama Administration. These too never went to committee or received votes.
 
-Source: www.govtrack.us/congress/bills/115/hres646/summary
+Source: govtrack.us/congress/bills/115/hres646/summary

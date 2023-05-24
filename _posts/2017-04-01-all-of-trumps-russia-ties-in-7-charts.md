@@ -1,6 +1,8 @@
 ---
 title: 'All of Trump’s Russia ties, in 7 charts'
 layout: post
+author:
+- Michael Crowley
 ---
 
 What is the real story of Donald Trump and Russia? The answer is still unclear, and Democrats in Congress want to get to the bottom of it with an investigation. But there’s no doubt that a spider web of connections — some public, some private, some clear, some murky — exists between Trump, his associates and Russian President Vladimir Putin.
@@ -11,4 +13,4 @@ There’s nothing inherently damning about most of the ties illustrated below. B
 
 […]
 
-Source Michael Crowley, politico.com/magazine/story/2017/03/connections-trump-putin-russia-ties-chart-flynn-page-manafort-sessions-214868/
+Source: Michael Crowley, politico.com/magazine/story/2017/03/connections-trump-putin-russia-ties-chart-flynn-page-manafort-sessions-214868/

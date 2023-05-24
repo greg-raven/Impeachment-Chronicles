@@ -1,6 +1,8 @@
 ---
 title: 'Duty to warn'
 layout: post
+author:
+- Duty To Warn
 ---
 
 **What Is Duty To Warn?**
@@ -25,4 +27,4 @@ The movement stands in solidarity with those calling for the invocation of the 2
 
 Every donation helps sponsor nationwide October 14, 2017, townhalls, marches and public educational content. Our event organizers depend on funds from donors like you. Please help fund an event today!
 
-Source: www.adutytowarn.org
+Source: adutytowarn.org

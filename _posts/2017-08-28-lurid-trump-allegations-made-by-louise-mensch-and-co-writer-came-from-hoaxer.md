@@ -1,6 +1,8 @@
 ---
 title: 'Lurid Trump allegations made by Louise Mensch and co-writer came from hoaxer'
 layout: post
+author:
+- Jon Swaine
 ---
 
 - Mensch and Claude Taylor tweeted details of criminal inquires that didn’t exist
@@ -65,4 +67,4 @@ A few hours later, Taylor tweeted to claim that he had confirmed Giuliani was �
 
 […]
 
-Source: Jon Swaine, [The Guardian](https://www.theguardian.com/us-news/2017/aug/28/trump-tweets-hoax-louise-mensch-claude-taylor)
+Source: Jon Swaine, theguardian.com/us-news/2017/aug/28/trump-tweets-hoax-louise-mensch-claude-taylor

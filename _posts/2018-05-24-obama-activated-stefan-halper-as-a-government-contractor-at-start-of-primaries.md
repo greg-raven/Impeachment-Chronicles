@@ -1,6 +1,8 @@
 ---
 title: 'Obama activated Stefan Halper as a government contractor at start of primaries'
 layout: post
+author:
+- Patrick Howley
 ---
 
 The Obama administration set up Trump campaign spy Stefan Halper’s government contractor account on October 21, 2015, just as the Iowa caucus campaign was getting underway.

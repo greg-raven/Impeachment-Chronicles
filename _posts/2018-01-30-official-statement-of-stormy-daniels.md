@@ -1,6 +1,8 @@
 ---
 title: 'Official Statement of Stormy Daniels'
 layout: post
+author:
+- Stormy Daniels
 ---
 
 To Whom it May Concern:

@@ -1,6 +1,8 @@
 ---
 title: 'Ellison floats impeaching Trump'
 layout: post
+author:
+- David Catanese
 ---
 
 - The candidates try to move past an election being seen as a proxy war for bitter supporters of Hillary Clinton and Bernie Sanders.

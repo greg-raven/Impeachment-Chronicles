@@ -1,6 +1,8 @@
 ---
 title: 'Maxine Waters screams ‘impeach 45’ from the stage at star-studded Glamour Awards'
 layout: post
+author:
+- Breitbart News
 ---
 
 NEW YORK (AP) — There were movie stars and supermodels, TV hosts and pop stars.
