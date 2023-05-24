@@ -24,7 +24,7 @@ layout: page
 		</tr>
 		<tr>
 			<td>December 17, 2015</td>
-			<td>Peter Strzok asks if the “outside the U.S.” spies have been set up against Trump</td>
+			<td>Peter Strzok asks if the “outside the U.S.” spies have been set up against Trump associates.</td>
 		</tr>
 		<tr>
 			<td>March 18, 2016 </td>
