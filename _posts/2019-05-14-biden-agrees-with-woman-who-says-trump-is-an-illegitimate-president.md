@@ -1,6 +1,8 @@
 ---
 title: 'Biden agrees with woman who says Trump is ‘an illegitimate president’'
 layout: post
+author:
+- Diana Stancey Correll
 ---
 
 Former Vice President Joe Biden quipped that a woman who claimed she had a “very severe case of what’s called Trump Derangement Syndrome” should become his running mate.
@@ -19,7 +21,7 @@ Biden vowed to not trash other Democratic candidates, saying that regardless of 
 
 Special counsel Robert Mueller’s Russia investigation determined that no Americans illegally colluded with the Kremlin during the 2016 election. However, Mueller’s report did not make a determination on whether Trump obstructed justice. Barr has since said there’s insufficient evidence of an obstruction crime, but Democrats in Congress want to investigate further.
 
-Meanwhile, the New York Times reported Monday that Barr instructed a federal prosecutor to investigate the origins of the Trump-Russia probe amid concerns from Republicans that the FBI inappropriately conducted surveillance on members of the Trump campaign.
+Meanwhile, *The New York Times* reported Monday that Barr instructed a federal prosecutor to investigate the origins of the Trump-Russia probe amid concerns from Republicans that the FBI inappropriately conducted surveillance on members of the Trump campaign.
 
 Biden is one of more than 20 Democrats running to secure the Democratic nomination.
 

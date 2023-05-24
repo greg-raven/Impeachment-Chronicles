@@ -5,7 +5,7 @@ author:
 - Jordan Dixon-Hamilton
 ---
 
-*New York Times* reporter Matthew Rosenberg said the infamous “pee tape” from Christopher Steele’s anti-Trump dossier “doesn’t exist,” according to [the latest video released by Project Veritas](/2022/03/09/nyt-reporter-matthew-rosenberg-cia-nsa-sources-involved-with-trump-pee-tape-leftist-sht-at-the-times.html).
+*New York Times* reporter Matthew Rosenberg said the infamous “pee tape” from Christopher Steele’s anti-Trump dossier “doesn’t exist,” according to [the latest video released by Project Veritas]({% post_url 2022-03-09-nyt-reporter-matthew-rosenberg-cia-nsa-sources-involved-with-trump-pee-tape-leftist-sht-at-the-times %}).
 
 Rosenberg mentioned something that “involved CIA and NSA” before saying he believes the pee tape does not exist. “It involved the CIA and NSA. It involved Trump and involved that ridiculous, like, pee tape, which of course doesn’t exist,” Rosenberg allegedly says on the video.
 

@@ -1,6 +1,8 @@
 ---
 title: 'Hillary Clinton: ‘Trump knows he’s an illegitimate president,’ ‘Insomuch as he has a conscience’'
 layout: post
+author:
+- Tim Hains
 ---
 
 In an interview with “CBS Sunday Morning” host Jane Pauley that aired Sunday, former Secretary of State and Democratic presidential candidate Hillary Clinton talks about the recent accusation that President Trump inappropriately pressured the president of Ukraine for information about the Biden family’s deals with an energy country in that country.

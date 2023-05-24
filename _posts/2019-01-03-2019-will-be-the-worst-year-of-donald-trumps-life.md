@@ -1,6 +1,8 @@
 ---
 title: '2019 will be the worst year of Donald Trump’s life'
 layout: post
+author:
+- Jon Weiner
 ---
 
 Some presidents have really bad years.

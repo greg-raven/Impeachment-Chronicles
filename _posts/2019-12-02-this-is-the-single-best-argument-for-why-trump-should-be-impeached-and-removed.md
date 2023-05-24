@@ -1,6 +1,8 @@
 ---
 title: 'This is the single best argument for why Trump should be impeached and removed'
 layout: post
+author:
+- R. J. Lyman
 ---
 
 - He tried to meddle in the 2020 election. It’s crazy to say that you have to let him participate in the 2020 election in order to render a verdict on his attempt to cheat in it.
@@ -33,15 +35,13 @@ When it comes to foreign election interference: Fool America once, shame on Trum
 As so often, the wisdom of our Constitutional Framers is instructive. Spoiler alert: Alexander Hamilton (in Federalist No. 72) knew Trump was coming:
 
 > An avaricious man, who might happen to fill the office, looking forward to … yield[ing] up the emoluments he enjoyed … might not scruple to have recourse to the most corrupt expedients.
-> 
+>
 > An ambitious man, too, when … seated on the summit of his country’s honors, … would be … violently tempted to embrace a favorable conjuncture for attempting the prolongation of his power, at every personal hazard.
 
 Put another way, Donald Trump likes how he can line his and his family’s pockets with emoluments — at his D.C. hotel, his far-flung golf resorts, Mar-a-Lago. Now, with the potential of election loss next year, he makes “recourse to the most corrupt expedients.” He is indeed “violently tempted” to every effort to prolong his power.
 
 Our Framers expected, our Constitution allows, and our national ideals demand that Donald Trump be prevented from cheating in the next election. Other than denying him the Republican party nomination, impeachment by the House and removal and disqualification by the Senate is the only remedy.
 
-Correction, December 2, 2019, 12:47 p.m.: The article originally states that Trump won “majorities in 30 states.” He won majorities in 23 states and pluralities in 7 others. The piece has been updated accordingly.
+[…]
 
-Source: R.J. Lyman, thebulwark.com/this-is-the-single-best-argument-for-why-trump-should-be-impeached-and-removed/
-
-R.J. Lyman is senior fellow at the Niskanen Center and senior advisor to Governor Bill Weld, candidate for the 2020 Republican presidential nomination. These are his personal views only.
+Source: R. J. Lyman, thebulwark.com/this-is-the-single-best-argument-for-why-trump-should-be-impeached-and-removed/

@@ -1,6 +1,8 @@
 ---
 title: '‘We’re gonna impeach the motherfucker’: the Democrats’ new street fighters'
 layout: post
+author:
+- Luke O’Neil
 ---
 
 - Progressives cheer as Congress’s new intake pledge to take the fight to Trump.

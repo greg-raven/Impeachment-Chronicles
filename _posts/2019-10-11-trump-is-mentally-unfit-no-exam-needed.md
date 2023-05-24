@@ -10,7 +10,7 @@ author:
 
 - Three mental health professionals who contributed to “The Dangerous Case of Donald Trump” cite recent actions that confirm their worries.
 
-Gail Collins makes a point that we have been articulating seriously since the publication of our book, “[The Dangerous Case of Donald Trump](/2017/10/03/the-dangerous-case-of-donald-trump-2.html),” two years ago: President Trump is mentally unfit for office. Our publications have been derided as violations of the Goldwater Rule, “armchair psychiatry” and political bias dressed up as professional opinions.
+Gail Collins makes a point that we have been articulating seriously since the publication of our book, “[The Dangerous Case of Donald Trump]({% post_url 2017-10-03-the-dangerous-case-of-donald-trump-2 %}),” two years ago: President Trump is mentally unfit for office. Our publications have been derided as violations of the Goldwater Rule, “armchair psychiatry” and political bias dressed up as professional opinions.
 
 But, as mental health professionals, we have felt a duty to address a public health crisis: a mentally unfit person in charge of the world’s most powerful military and its nuclear weapons. We have found ample evidence of his instability and grandiosity in the president’s own words and public statements, most recently confirmed in his referring to “my great and unmatched wisdom,” coupled with yet another threat to “totally destroy and obliterate” a foreign country.
 

@@ -7,7 +7,7 @@ author:
 
 Well, it sure seems like Rep. Maxine Waters (D-Calif.) is brushing up on her Constitutional law. Yesterday, Waters spoke at a Congressional Black Caucus Town Hall on Civil Rights, and she used her time to full-on demand help with impeaching Donald Trump. Specifically, she said:
 
-“[Impeachment is about whatever the Congress says it is. There is no law that dictates impeachment. What the Constitution says is ‘high crimes and misdemeanors,’ and we define that.](/2017/09/19/rep-maxine-waters-impeachment-is-about-whatever-the-congress-says-it-is.html)”
+“[Impeachment is about whatever the Congress says it is. There is no law that dictates impeachment. What the Constitution says is ‘high crimes and misdemeanors,’ and we define that.]({% post_url 2017-09-19-rep-maxine-waters-impeachment-is-about-whatever-the-congress-says-it-is %})”
 
 Waters, never a stranger to haters, predictably set Twitter on fire with her statements:
 

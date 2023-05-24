@@ -1,6 +1,8 @@
 ---
 title: 'Here’s what you need to know about Mueller’s day'
 layout: post
+author:
+- Adam Levine
 ---
 
 Former special counsel Robert Mueller testified today before the House Judiciary and House Intelligence committees.

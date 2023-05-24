@@ -1,6 +1,8 @@
 ---
 title: 'Maxine Waters told you so'
 layout: post
+author:
+- Lyz Lenz
 ---
 
 - Waters called for impeachment years before President Trump called Ukraine. In an interview with Glamour, she discusses the probe, the election, and her own vindication.

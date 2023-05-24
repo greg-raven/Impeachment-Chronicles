@@ -1,6 +1,8 @@
 ---
 title: 'Fellow Republicans, there’s still time to save your souls'
 layout: post
+author:
+- Jeff Flake
 ---
 
 Two years ago I stood in the Senate chamber and said: “There are times when we must risk our careers in favor of our principles.”

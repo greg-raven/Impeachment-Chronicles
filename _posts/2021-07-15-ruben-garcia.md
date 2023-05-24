@@ -11,4 +11,4 @@ author:
 >
 > <cite>Ruben Garcia, via Twitter</cite>
 
-![<# alt text #>](/assets/2021-07-15-ruben-garcia.jpg "2021-07-15-ruben-garcia.jpg")
+![Ruben Garcia](/assets/2021-07-15-ruben-garcia.jpg)

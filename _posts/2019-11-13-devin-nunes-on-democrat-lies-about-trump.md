@@ -1,6 +1,8 @@
 ---
 title: 'Devin Nunes: Opening Statement for Kent and Taylor Hearing on Impeachment'
 layout: post
+author:
+- Devin Nunes
 ---
 
 In a July open hearing of this committee following publication of the [Mueller report]({% post_url 2019-03-22-mueller-report %}), the Democrats engaged in a last-ditch effort to convince the American people that President Trump is a Russian agent. That hearing was the pitiful finale of a three-year-long operation by the Democrats, the corrupt media, and partisan bureaucrats to overturn the results of the 2016 presidential election.
@@ -56,3 +58,5 @@ By undermining the President who they are supposed to be serving, elements of th
 This spectacle is doing great damage to our country. It’s nothing more than an impeachment process in search of a crime.
 
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/781507704?h=39a360e6b2" width="640" height="360"></iframe>
+
+Source: Devin Nunes

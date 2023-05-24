@@ -1,11 +1,13 @@
 ---
 title: 'When did the Trump-Russia probe actually start?'
 layout: post
+author:
+- Chuck Ross
 ---
 
 The FBI’s investigation into the Trump campaign formally began in late July 2016, after the Australian government sent in a tip about George Papadopoulos.
 
-But there are strong indications that the Trump campaign and Trump associates came under scrutiny much earlier than that.  
+But there are strong indications that the Trump campaign and Trump associates came under scrutiny much earlier than that.
 California GOP Rep. Devin Nunes has recently started claiming that “spying” began against the Trump campaign in late 2015 or early 2016.
 
 The FBI claims that the investigation into the Trump campaign began in late July 2016, when FBI official Peter Strzok opened Crossfire Hurricane, the code name for the counterintelligence investigation into the Trump campaign’s possible ties to Russia.
