@@ -3,7 +3,7 @@ title: 'Russian trolls on Twitter had little influence on 2016 voters'
 layout: post
 author:
 - Tim Starks
--Aaron Schaffer
+- Aaron Schaffer
 ---
 
 - A study finds minimal impact from Russian influence operations on Twitter in the Trump-Clinton presidential race
