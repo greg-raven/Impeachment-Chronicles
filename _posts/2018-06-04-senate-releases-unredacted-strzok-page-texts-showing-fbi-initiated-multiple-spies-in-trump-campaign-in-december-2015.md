@@ -5,7 +5,7 @@ author:
 - Joe Hoft
 ---
 
-The US Senate today released over [500 pages of information related to the Spygate scandal](https://www.hsgac.senate.gov/imo/media/doc/Appendix%20C%20-%20Documents.pdf).
+The US Senate today released over [500 pages of information related to the Spygate scandal](https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/Appendix%20C%20-%20Documents.pdf).
 
 Hidden in the information are unredacted Strzok – Page texts that show the FBI initiated actions to insert multiple spies in the Trump campaign in December 2015.
 

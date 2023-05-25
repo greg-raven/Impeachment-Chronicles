@@ -5,7 +5,7 @@ author:
 - Rajan Laad
 ---
 
-On Friday, the Republicans on the House Judiciary Committee released [1,050 page report](https://republicans-judiciary.house.gov/wp-content/uploads/2022/11/HJC_STAFF_FBI_REPORT.pdf) detailing the claims made by myriad whistleblowers at the Federal Bureau of Investigation about the abuse of power and politicization of the nation’s foremost law enforcement authority.
+On Friday, the Republicans on the House Judiciary Committee released [1,050 page report](https://judiciary.house.gov/sites/evo-subsites/republicans-judiciary.house.gov/files/legacy_files/wp-content/uploads/2022/11/HJC_STAFF_FBI_REPORT.pdf) detailing the claims made by myriad whistleblowers at the Federal Bureau of Investigation about the abuse of power and politicization of the nation’s foremost law enforcement authority.
 
 They called it “the first comprehensive accounting of the FBI’s problems to date, which undermine the FBI’s fundamental law-enforcement mission.”
 
