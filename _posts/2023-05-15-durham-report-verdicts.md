@@ -57,6 +57,6 @@ author:
 >
 > Nellie Ohr- Guilty
 
-![Durham Report Verdicts according to Donald Trump](/assets/2023-05-15-durham-report-verdicts.png)
+![Durham Report Verdicts according to Donald Trump](/assets/2023-05-15-durham-report-verdicts.png "Durham Report Verdicts according to Donald Trump")
 
 Source: Donald Trump, gab.com/realdonaldtrump/posts/110375186729018492

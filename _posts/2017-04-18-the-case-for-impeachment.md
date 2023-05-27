@@ -5,7 +5,7 @@ author:
 - wikipedia.org
 ---
 
-![The Case for Impeachment](/assets/The-Case-for-Impeachment.jpg)
+![The Case for Impeachment](/assets/The-Case-for-Impeachment.jpg "The Case for Impeachment")
 
 ***The Case for Impeachment*** is a non-fiction book by American University Distinguished Professor of History Allan Lichtman arguing for the impeachment of Donald Trump. It was published on April 18, 2017, by Dey Street Books, an imprint of HarperCollins. Lichtman predicted to *The Washington Post* that after ascending to the presidency, Trump would later be impeached from office. He developed this thesis into a set of multiple arguments for Trump’s predicted impeachment.
 

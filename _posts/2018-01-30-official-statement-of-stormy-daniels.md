@@ -19,4 +19,4 @@ Thank you,
 
 Stormy Daniels
 
-![Official statement from Stormy Daniels](/assets/20180130-Stormy-Daniels.jpg)
+![Official statement from Stormy Daniels](/assets/20180130-Stormy-Daniels.jpg "Official statement from Stormy Daniels")

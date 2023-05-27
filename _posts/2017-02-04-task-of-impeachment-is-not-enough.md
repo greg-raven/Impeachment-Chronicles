@@ -9,4 +9,4 @@ author:
 >
 > <cite>BrooklynDad Defiant!, via Twitter (H/T ifunny.co/picture/brooklyndad-defiant-mmpadellan-talk-of-impeachment-is-not-enough-this-IoWpmijD9)</cite>
 
-![Talk of impeachment is not enough](/assets/20170204-bdd.jpg)
+![Talk of impeachment is not enough](/assets/20170204-bdd.jpg "Talk of impeachment is not enough")

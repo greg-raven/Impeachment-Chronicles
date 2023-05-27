@@ -23,4 +23,4 @@ Waters received a standing ovation for her impeachment pep talk.
 
 Source: cnsnews.com/news/article/cnsnewscom-staff/rep-maxine-waters-impeachment-about-whatever-congress-says-it
 
-![Maxine Waters](/assets/maxine-waters.jpg)
+![Maxine Waters](/assets/maxine-waters.jpg "Maxine Waters")

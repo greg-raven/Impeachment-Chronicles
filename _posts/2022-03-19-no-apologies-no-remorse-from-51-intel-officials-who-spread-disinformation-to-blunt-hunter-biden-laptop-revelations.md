@@ -51,7 +51,7 @@ They didn’t lie. Not exactly. In fact, they explicitly stated that they have n
 >
 > <cite>Richard Grenell (@RichardGrenell) March 19, 2022, twitter.com/RichardGrenell/status/1505191764121952263?ref_src=twsrc%5Etfw</cite>
 
-![Richard Grenell](/assets/2022-03-19-Richard-Grenell.jpg)
+![Richard Grenell](/assets/2022-03-19-Richard-Grenell.jpg "Richard Grenell: These people manipulated intelligence for partisan political gain.")
 
 The doubt these “intel officials” cast, though, was enough—as intended—for the partisan hacktavists in media to run with. Personally, I would have stopped taking the letter seriously at this paragraph, as would any thinking person.
 

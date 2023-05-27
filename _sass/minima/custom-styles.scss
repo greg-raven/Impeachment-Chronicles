@@ -12,6 +12,10 @@ blockquote .small:before, blockquote cite:before, blockquote footer:before, bloc
     content: "\2014 \00A0"
 }
 
+iframe {
+	margin-bottom: 1em;
+}
+
 .img-responsive {
     display: block;
     max-width: 100%;

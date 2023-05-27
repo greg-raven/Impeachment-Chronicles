@@ -20,4 +20,4 @@ information regarding Russian activities directed at the Trump campaign was coll
 
 Source: Lisa Page, FBI
 
-![Lisa Page - Talking Points](/assets/20170308-lisa-page-memo.jpg)
+![Lisa Page - Talking Points](/assets/20170308-lisa-page-memo.jpg "Lisa Page - Talking Points")

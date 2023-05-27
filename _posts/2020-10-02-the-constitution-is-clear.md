@@ -9,7 +9,7 @@ author:
 >
 > <cite>Greg Pinelo, via Twitter</cite>
 
-![Greg Pinelo](/assets/2020-10-02-Twitter.jpg)
+![Greg Pinelo](/assets/2020-10-02-Twitter.jpg "Greg Pinelo: The Constitution is clear")
 
 **Note:** Greg Pinelo is a Democratic strategist and a former ad maker for Obama.
 
