@@ -1,6 +1,6 @@
 ---
 title: 2015
-layout: base
+layout: page
 ---
 
 - [Text: [Bernie Sanders is] an idiot like Trump]({% post_url 2015-08-16-an-idiot-like-trump %})
