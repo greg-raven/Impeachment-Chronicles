@@ -1,5 +1,5 @@
 ---
-title: 'Texts: What an utter idiot.'
+title: 'Texts: What an utter idiot'
 layout: post
 author:
 - Lisa Page
