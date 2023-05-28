@@ -6,5 +6,6 @@ author:
 ---
 
 
+May 14, 2020
 
 Source: https://justthenews.com/accountability/media/making-myth-timeline-media-role-selling-trump-russia-collusion-narrative
