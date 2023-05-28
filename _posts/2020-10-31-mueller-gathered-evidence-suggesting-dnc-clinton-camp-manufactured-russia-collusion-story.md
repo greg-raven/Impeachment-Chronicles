@@ -83,7 +83,7 @@ Mueller’s team, however, has since charged Kilimnik with financial crimes rela
 
 A month before Kilimnik’s Aug. 22 message to Schultz, CIA officials obtained almost identical information from Russian sources that Clinton had ordered a campaign “stirring up” false Russia collusion allegations to tar Trump, according to evidence recently declassified by Ratcliffe.
 
-The CIA was concerned enough about the intelligence that it briefed President Obama and then made an investigative referral to the FBI, which was leading the investigation known as Crossfire Hurricane into alleged Trump-Russia collusion.
+The CIA was concerned enough about the intelligence that it briefed President Obama and then made an investigative referral to the FBI, which was leading the investigation known as [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) into alleged Trump-Russia collusion.
 
 [ENCLOSURE\_2\_\_DCIA\_Memo\_09-07-16\_\_U.pdf](https://justthenews.com/sites/default/files/2020-10/ENCLOSURE_2__DCIA_Memo_09-07-16__U.pdf)
 

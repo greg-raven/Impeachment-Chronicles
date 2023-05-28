@@ -49,7 +49,7 @@ Had he done so, he would have discovered numerous discrepancies between the comp
 
 These important details should have been well known to Horowitz—particularly given his status as the DOJ’s inspector general. That Horowitz was either unaware of these crucial details or chose to simply ignore them is alarming.
 
-In addition to his position on Atkinson, Horowitz also stood by an earlier finding that “the FBI complied with its policies in opening the Crossfire Hurricane investigation in July 2016.” This finding had been disputed by both former Attorney General Bill Barr and special counsel John Durham, both of whom felt strongly enough to issue statements on the matter.
+In addition to his position on Atkinson, Horowitz also stood by an earlier finding that “the FBI complied with its policies in opening the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation in July 2016.” This finding had been disputed by both former Attorney General Bill Barr and special counsel John Durham, both of whom felt strongly enough to issue statements on the matter.
 
 Durham’s statement noted that “we advised the Inspector General that we do not agree with some of the report’s conclusions as to predication and how the FBI case was opened.”
 

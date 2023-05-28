@@ -11,9 +11,9 @@ author:
 
 For more than six years now, corrupt corporate media and Democrats have rallied around that allegation as evidence that Trump shouldn’t hold office. But Durham’s latest report, much like previous investigations into the Russian collusion hoax, once again found that there was no evidence of collusion from the beginning.
 
-“Indeed, based on the evidence gathered in the multiple exhaustive and costly federal investigations of these matters, including the instant investigation, neither U.S. law enforcement nor the Intelligence Community appears to have possessed any actual evidence of collusion in their holdings at the commencement of the Crossfire Hurricane investigation,” Durham wrote in the opening pages of his bombshell report concluding three years of investigation.
+“Indeed, based on the evidence gathered in the multiple exhaustive and costly federal investigations of these matters, including the instant investigation, neither U.S. law enforcement nor the Intelligence Community appears to have possessed any actual evidence of collusion in their holdings at the commencement of the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation,” Durham wrote in the opening pages of his bombshell report concluding three years of investigation.
 
-Despite repeated smears and pushback from the ruling class and professional hoaxing outlets like *The New York Times,* Durham uncovered several red flags that should have dissuaded the FBI from opening its “seriously flawed” Crossfire Hurricane investigation into the Trump campaign — but didn’t because the agency was too wrapped up in its hatred for the 2016 Republican presidential candidate.
+Despite repeated smears and pushback from the ruling class and professional hoaxing outlets like *The New York Times,* Durham uncovered several red flags that should have dissuaded the FBI from opening its “seriously flawed” [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation into the Trump campaign — but didn’t because the agency was too wrapped up in its hatred for the 2016 Republican presidential candidate.
 
 […]
 

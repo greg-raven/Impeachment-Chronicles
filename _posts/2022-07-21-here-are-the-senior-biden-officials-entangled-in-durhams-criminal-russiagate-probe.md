@@ -157,7 +157,7 @@ Patel said investigators would be wise to continue following the money trail. He
 
 “They need to keep digging, because there’s at least $10 million and maybe $20 million more that went directly into opposition research,” Patel said, adding that the Clinton effort to frame Trump as a Russian agent was “massive.”
 
-Last year, Gensler named Melissa Hodgman his associate director of enforcement. She happens to be married to disgraced former FBI official Peter Strzok, who’s also implicated in Durham’s probe. Strzok led the investigation of Trump and his campaign, codenamed “Crossfire Hurricane,” before he was fired in 2018 over anti-Trump texts he exchanged with his mistress, former FBI lawyer Lisa Page.
+Last year, Gensler named Melissa Hodgman his associate director of enforcement. She happens to be married to disgraced former FBI official Peter Strzok, who’s also implicated in Durham’s probe. Strzok led the investigation of Trump and his campaign, codenamed “[Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}),” before he was fired in 2018 over anti-Trump texts he exchanged with his mistress, former FBI lawyer Lisa Page.
 
 As adviser to the head of the SEC’s enforcement division, Hodgman currently is helping oversee an investigation into Trump’s social media start-up, Truth Social. According to regulatory filings, the SEC last month served Trump Media &amp; Technology Group with a federal subpoena for records. The company owns Truth Social, Trump’s answer to left-leaning Twitter, which kicked him off its platform last year over remarks he made concerning the Jan. 6 riot.
 

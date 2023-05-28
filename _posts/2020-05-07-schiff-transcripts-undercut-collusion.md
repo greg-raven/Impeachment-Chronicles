@@ -11,7 +11,7 @@ The House Intelligence Committee on Thursday released thousands of pages of decl
 
 The testimony of fired FBI Deputy Director Andrew McCabe typified the testimony that was given back in 2017 to the committee, then under the leadership of Rep. Devin Nunes.
 
-McCabe admitted at one point that while the FBI opened up the entire Crossfire Hurricane investigation based on a tip from Australia that George Papadopoulos may have been told Russia possessed emails of Hillary Clinton, the bureau suspected the former Trump campaign adviser had little or no contact with Moscow.
+McCabe admitted at one point that while the FBI opened up the entire [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation based on a tip from Australia that George Papadopoulos may have been told Russia possessed emails of Hillary Clinton, the bureau suspected the former Trump campaign adviser had little or no contact with Moscow.
 
 So agents pivoted instead to another adviser, Carter Page, who had been the focus of Christopher Steele’s now-discredited dossier, he explained.
 

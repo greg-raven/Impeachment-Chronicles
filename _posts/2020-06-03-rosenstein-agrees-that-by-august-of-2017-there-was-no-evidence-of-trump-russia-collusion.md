@@ -9,7 +9,7 @@ author:
 
 Former Deputy Attorney General Rod Rosenstein conceded on Wednesday that by August of 2017 there was no evidence that the Trump campaign had colluded with Russians to sabotage the 2016 election, even though the investigation into that allegation would persist for another year and a half.
 
-The jaw-dropping admission came during a contentious hearing before the Senate Judiciary Committee, which is actively investigating the FBI’s Crossfire Hurricane investigation that sought to uncover whether Trump campaign officials had colluded with Russian agents to sabotage the 2016 election.
+The jaw-dropping admission came during a contentious hearing before the Senate Judiciary Committee, which is actively investigating the FBI’s [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation that sought to uncover whether Trump campaign officials had colluded with Russian agents to sabotage the 2016 election.
 
 Addressing Rosenstein during the hearing, committee member Sen. Lindsey Graham asked him: “The whole concept, that the campaign was colluding with the Russians, there was no ‘there’ there in August of 2017, do you agree or not?”
 

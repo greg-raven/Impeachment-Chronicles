@@ -11,7 +11,7 @@ This motion provides new information on the details of Danchenko’s lies to the
 
 But we’ll start with the the most damning development: **Danchenko was on the FBI payroll as a confidential human source (CHS) from March 2017 through October 2020.**
 
-The purposes of making Danchenko a CHS should be quite clear. The Crossfire Hurricane investigation was plagued with problems from the outset. The reasons for opening the investigation were bunk. Those problems continued as the investigation went on, with claims of Trump/Russia collusion proven unverified or outright false. (Thus the targeting of Flynn for a Logan Act violation.)
+The purposes of making Danchenko a CHS should be quite clear. The [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation was plagued with problems from the outset. The reasons for opening the investigation were bunk. Those problems continued as the investigation went on, with claims of Trump/Russia collusion proven unverified or outright false. (Thus the targeting of Flynn for a Logan Act violation.)
 
 That developed into the Carter Page FISA applications, first submitted to the Foreign Intelligence Surveillance Court (FISC) in October 2016, and which relied substantially on [the Steele Dossiers]({% post_url 2016-06-20-the-steele-dossier %}) (aka Steele Reports). The FISA applications were renewed three times – more on that later. Each application had its own problems, from FBI lawyers lying about Carter Page to the Court being generally misled.
 

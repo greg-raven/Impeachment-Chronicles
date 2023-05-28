@@ -25,7 +25,7 @@ In some cases, the FBI mixed partial information from one dossier report with pa
 
 In short, the FBI fabricated conclusions from fabrications and turned them into sworn representations before the powerful Foreign Intelligence Surveillance Court.
 
-Veteran FBI investigators who have worked counterintelligence cases and sworn out wiretap warrants say the agents who ran the Russiagate investigation, codenamed Crossfire Hurricane, violated the fundamental principle requiring them to independently verify evidence they present to the court.
+Veteran FBI investigators who have worked counterintelligence cases and sworn out wiretap warrants say the agents who ran the Russiagate investigation, codenamed [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}), violated the fundamental principle requiring them to independently verify evidence they present to the court.
 
 “Their actions – lying and misrepresentations on warrants and affidavits – are antithetical to every instruction at FBI training at Quantico and in the field,” said 27-year FBI veteran Michael Biasello. “Any FBI Academy trainee and agent in the field is aware that search warrants, affidavits and any accompanying documents and information contained therein requiring federal judicial approval is to be vetted and verified to create a pristine document. Their accuracy is vital.”
 
@@ -93,7 +93,7 @@ Though it noted this overseas tip was “unclear,” the application said the �
 
 This appears to be why the FBI drew the conclusion that Divyekin had “received direction by the Russian Government” to share the Clinton dirt with Page, a stretch even for the dossier, which never said Divyekin was operating on orders from the Russian government. But the FBI needed Russian intelligence to be involved to sell the espionage “conspiracy.”
 
-The imagination of Crossfire Hurricane agents was running full throttle, but then they made an even bigger leap. At the top of page 20 of their first FISA request, they stated: “The FBI assesses the information funneled by the Russians to Page may be part of Russia’s intent to influence the 2016 U.S. Presidential election.”
+The imagination of [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) agents was running full throttle, but then they made an even bigger leap. At the top of page 20 of their first FISA request, they stated: “The FBI assesses the information funneled by the Russians to Page may be part of Russia’s intent to influence the 2016 U.S. Presidential election.”
 
 The way the FBI framed it for FISA judges, it was an urgent matter of national security to let agents monitor Page – and also collect any past communications he had with Trump campaign officials – to stop the theft of the White House by the Kremlin.
 

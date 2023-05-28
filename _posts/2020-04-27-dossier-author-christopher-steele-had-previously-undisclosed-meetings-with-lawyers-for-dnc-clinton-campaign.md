@@ -76,7 +76,7 @@ It is now known that Steele was involved in one way or the other in all three of
 
 To further spread the Alfa Bank story, Sussmann contacted James Baker, his former DOJ colleague who then served as general counsel for the FBI. Baker told House investigators on Oct. 18, 2018 that Sussmann contacted him to share the information and that they met on Sept. 19, 2016.
 
-That day was a busy one for the FBI’s Crossfire Hurricane team. The Justice Department IG report said that Steele provided six memos from his dossier to the FBI that same day.
+That day was a busy one for the FBI’s [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) team. The Justice Department IG report said that Steele provided six memos from his dossier to the FBI that same day.
 
 The FBI began almost immediately drafting an application for a Foreign Intelligence Surveillance Act (FISA) warrant against Carter Page. The applications relied heavily on Steele’s dossier, which alleged that Page was a key link between the Trump team and Kremlin.
 

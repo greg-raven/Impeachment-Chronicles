@@ -15,7 +15,7 @@ Danchenko was Steele’s principal source. In essence, Durham accuses him of (a)
 
 It remains to be seen whether Durham can prove these charges: The allegation related to Dolan is not crystal clear (because Danchenko did make a vague reference to discussions with him), and Millian, who is overseas and beyond US subpoena power, has refused to testify.
 
-What is not in doubt, though, is that the trial is highlighting the FBI’s shocking malfeasance in the Trump-Russia “collusion” probe, which it codenamed “Crossfire Hurricane.”
+What is not in doubt, though, is that the trial is highlighting the FBI’s shocking malfeasance in the Trump-Russia “collusion” probe, which it codenamed “[Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}).”
 
 The first witness in the case was FBI supervisory intelligence analyst Brian Auten, of whom Durham himself conducted the prosecution’s questioning. Auten conceded the FBI had offered Steele $1 million if he could prove his sensational allegations that Trump was in cahoots with the regime of Vladimir Putin and that the Kremlin was positioned to blackmail the then-candidate because it supposedly possessed a video recording of Trump engaging in sexual hijinks.
 
@@ -32,7 +32,7 @@ Indeed, not only did the FBI fail to disclose to the Justice Department and the 
 
 Of course, what the FBI didn’t mention was that what Danchenko had been “truthful and cooperative” about was the fact that Steele’s claims were sheer nonsense. Thus, FISC judges were led to believe Danchenko had verified Steele’s reporting when the truth was just the opposite.
 
-Under cross-examination Wednesday, Auten acknowledged Durham told him he was the subject of a criminal investigation. And after the Justice Department’s inspector general blasted the FBI’s performance in the Crossfire Hurricane probe, Director Christopher Wray referred Auten to the bureau’s Office of Professional Responsibility for an internal investigation and possible discipline.
+Under cross-examination Wednesday, Auten acknowledged Durham told him he was the subject of a criminal investigation. And after the Justice Department’s inspector general blasted the FBI’s performance in the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) probe, Director Christopher Wray referred Auten to the bureau’s Office of Professional Responsibility for an internal investigation and possible discipline.
 
 Unbelievably, even with all that going on, the FBI brought Auten in during the run-up to the 2020 election to analyze derogatory information about Hunter Biden’s potentially corrupt overseas business dealings, which enriched the Biden family to the tune of millions of dollars.
 

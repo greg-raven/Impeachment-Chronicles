@@ -10,7 +10,7 @@ The FBI’s investigation into the Trump campaign formally began in late July 20
 But there are strong indications that the Trump campaign and Trump associates came under scrutiny much earlier than that.
 California GOP Rep. Devin Nunes has recently started claiming that “spying” began against the Trump campaign in late 2015 or early 2016.
 
-The FBI claims that the investigation into the Trump campaign began in late July 2016, when FBI official Peter Strzok opened Crossfire Hurricane, the code name for the counterintelligence investigation into the Trump campaign’s possible ties to Russia.
+The FBI claims that the investigation into the Trump campaign began in late July 2016, when FBI official Peter Strzok opened [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}), the code name for the counterintelligence investigation into the Trump campaign’s possible ties to Russia.
 
 According to the FBI’s telling, the probe was opened only after the bureau received a tip from the Australian government in late July 2016 regarding George Papadopoulos, a Trump campaign adviser. An Australian diplomat claimed that Papadopoulos told him in a conversation two months earlier that Russia might release information on Hillary Clinton.
 
@@ -26,9 +26,9 @@ Nunes made similar comments in a Fox News interview on March 25.
 
 Nunes has not explained his rationale for saying the investigation began months earlier than widely believed. That’s likely because the information he is referring to is highly classified.
 
-Three weeks before the start of Crossfire Hurricane, a longtime FBI and CIA informant named Stefan Halper made his first contact with Carter Page, another Trump adviser who would later be the target of Foreign Intelligence Surveillance Act warrants.
+Three weeks before the start of [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}), a longtime FBI and CIA informant named Stefan Halper made his first contact with Carter Page, another Trump adviser who would later be the target of Foreign Intelligence Surveillance Act warrants.
 
-Halper met with Page at a political forum held at Cambridge University, where Halper ran an intelligence think tank with Sir Richard Dearlove, the former chief of MI6. Page was invited to the forum more than a month earlier, on June 7, 2016, by a doctoral student studying under Halper. (RELATED: Report: DOJ Watchdog Scrutinizing FBI Informant Who Made Contact With Trump Campaign)
+Halper met with Page at a political forum held at Cambridge University, where Halper ran an intelligence think tank with Sir Richard Dearlove, the former chief of MI6. Page was invited to the forum more than a month earlier, on June 7, 2016, by a doctoral student studying under Halper.
 
 Page and Halper remained in contact through September 2017, the same month that the FBI’s surveillance warrant against Page expired.
 

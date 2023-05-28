@@ -13,7 +13,7 @@ They also show Strzok thought the dossier was meant to “influence” U.S. poli
 
 The redacted messages, seen by the Daily Caller before publication, were released by Senate Republicans on Thursday, after being declassified by Attorney-General William Barr last week — ahead of the announcement of his resignation, effective on December 23.
 
-The messages show how Strzok and his colleagues discussed the Crossfire Hurricane probe into claims Trump colluded with the Russian government to steal the 2016 presidential election from Democratic Party candidate Hillary Clinton. He was kept constantly updated on FBI interviews with Trump campaign advisers Carter Page and George Papaodpoulos, the main targets of the probe.
+The messages show how Strzok and his colleagues discussed the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) probe into claims Trump colluded with the Russian government to steal the 2016 presidential election from Democratic Party candidate Hillary Clinton. He was kept constantly updated on FBI interviews with Trump campaign advisers Carter Page and George Papaodpoulos, the main targets of the probe.
 
 One message indicates that Strzok saw Steele’s hand behind a Yahoo News story in a July 2016 alleging that Page had secretly met the two Russian officials in Moscow.
 

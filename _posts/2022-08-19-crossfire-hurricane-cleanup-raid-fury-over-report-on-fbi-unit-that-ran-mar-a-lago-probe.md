@@ -5,13 +5,13 @@ author:
 - Melissa Fine
 ---
 
-If you think the FBI division in charge of the raid on former President Donald Trump’s Palm Beach residence should be investigated, don’t worry. Special Counsel John Durham is already investigating the very same unit for allegedly abusing its power in the now totally discredited Russiagate probe, notoriously known as “Crossfire Hurricane.”
+If you think the FBI division in charge of the raid on former President Donald Trump’s Palm Beach residence should be investigated, don’t worry. Special Counsel John Durham is already investigating the very same unit for allegedly abusing its power in the now totally discredited Russiagate probe, notoriously known as “[Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}).”
 
 It turns out that the FBI’s recent stomp through Mar-a-Lago “is part of a counterintelligence case run out of Washington — not Miami, as has been widely reported,” according to Paul Sperry of RealClear Investigations, who cites FBI case documents and sources “with knowledge of the matter.”
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">FBI Unit Leading Mar-a-Lago Probe Earlier Ran Discredited Trump-Russia Investigation | RealClearInvestigations <a href="https://t.co/YuoH4lt11x">https://t.co/YuoH4lt11x</a></p>&mdash; Brett L. Tolman (@tolmanbrett) <a href="https://twitter.com/tolmanbrett/status/1560598564274728960?ref_src=twsrc%5Etfw">August 19, 2022</a></blockquote>
 
-“Although the former head of Crossfire Hurricane, Peter Strzok, was fired after the disclosure of his vitriolic anti-Trump tweets, several members of his team remain working in the counterintelligence unit, the sources say, even though they are under active investigation by both Durham and the bureau’s disciplinary arm, the Office of Professional Responsibility,” Sperry reports.
+“Although the former head of [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}), Peter Strzok, was fired after the disclosure of his vitriolic anti-Trump tweets, several members of his team remain working in the counterintelligence unit, the sources say, even though they are under active investigation by both Durham and the bureau’s disciplinary arm, the Office of Professional Responsibility,” Sperry reports.
 
 What’s more, a “key member” of the credibility-impaired Crossfire team is also involved in investigating the “potentially incriminating” content on Hunter Biden’s laptop from hell.
 

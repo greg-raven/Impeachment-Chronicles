@@ -17,16 +17,16 @@ In subsequent posts, the former president expressed gratitude for firing former 
 
 As Breitbart News reported, Durham concluded in the 300-page report that the FBI should never have investigated Trump for Russian collusion, arguing that they did not apply objective, rigorous standards that were already in place.
 
-“Based on the review of Crossfire Hurricane and related intelligence activities, we conclude that the Department and the FBI failed to uphold their important mission of strict fidelity to the law in connection with certain events and activities described in this report,” the report said.
+“Based on the review of [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) and related intelligence activities, we conclude that the Department and the FBI failed to uphold their important mission of strict fidelity to the law in connection with certain events and activities described in this report,” the report said.
 
 “Our investigation also revealed that senior FBI personnel displayed a serious lack of analytical rigor towards the information that they received, especially information received from politically affiliated persons and entities,” the report went on to say, apparently referencing the Hillary Clinton campaign-funded Fusion GPS “pee dossier.”
 
 The report further said that no evidence had shown the Trump campaign had colluded with Russia before “the allegation from an Australian diplomat that then-Trump campaign adviser George Papadopoulos told him the Trump campaign had dirt on Clinton.”
 
-“In particular, at the direction of Deputy Director Andrew McCabe, Deputy Assistant Director for Counterintelligence Peter Strzok opened Crossfire Hurricane immediately,” the report said. “Strzok, at a minimum, had pronounced hostile feelings toward Trump. The matter was opened as a full investigation without ever having spoken to the persons who provided the information.”
+“In particular, at the direction of Deputy Director Andrew McCabe, Deputy Assistant Director for Counterintelligence Peter Strzok opened [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) immediately,” the report said. “Strzok, at a minimum, had pronounced hostile feelings toward Trump. The matter was opened as a full investigation without ever having spoken to the persons who provided the information.”
 
 Durham said the FBI and Justice Department had acted without “appropriate objectivity or restraint in pursuing allegations of collusion or conspiracy between a U.S. political campaign and a foreign power.”
 
-“The speed and manner in which the FBI opened and investigated Crossfire Hurricane during the presidential election season based on raw, unanalyzed, and uncorroborated intelligence also reflected a noticeable departure from how it approached prior matters involving possible attempted foreign election interference plans aimed at the Clinton campaign,” the report said.
+“The speed and manner in which the FBI opened and investigated [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) during the presidential election season based on raw, unanalyzed, and uncorroborated intelligence also reflected a noticeable departure from how it approached prior matters involving possible attempted foreign election interference plans aimed at the Clinton campaign,” the report said.
 
 Source: Paul Roland Bois, breitbart.com/politics/2023/05/15/treason-trump-durham-report-reveals-fbi-malfeasance/

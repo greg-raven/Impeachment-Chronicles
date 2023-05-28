@@ -85,7 +85,7 @@ The special counsel’s team further exposed the incompetence (or corruption) of
 
 According to Durham, Kuhlen is prepared to testify at Danchenko’s trial that at the time he was the only “western” member of management at the hotel. Kuhlen will also testify that he never heard any story resembling Steele’s reporting until it became public and never discussed those claims with Danchenko.
 
-If six years after the fact prosecutors could locate and question Kuhlen, the Crossfire Hurricane team could have done the same for Steele’s reporting, quickly disproving the dossier. If they wanted to, that is.
+If six years after the fact prosecutors could locate and question Kuhlen, the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) team could have done the same for Steele’s reporting, quickly disproving the dossier. If they wanted to, that is.
 
 **Steele Was Duped — That’s Our Story and We’re Sticking to It**
 

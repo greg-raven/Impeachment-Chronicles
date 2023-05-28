@@ -57,7 +57,7 @@ Around the same time, the FBI similarly misled high-ranking officials at the Jus
 
 In a March 6, 2017 briefing on the Russiagate probe to acting Attorney General Dana Boente, Comey’s deputy Andrew McCabe and counterintelligence official Peter Strzok suggested that Steele’s material came from the British government rather than the Clinton campaign by referring to it as “CROWN source reporting,” according to handwritten notes taken during the meeting.
 
-Strzok falsely suggested to Boente that the probable cause for his opening the Russiagate investigation, codenamed Crossfire Hurricane, included Trump asking Russia during a July 2016 public campaign appearance to find Clinton’s 30,000 missing State Department emails she had deleted from a private server. The electronic communication Strzok personally wrote to officially open the investigation made no mention of this incident. What’s more, Trump made the sarcastic remark after the date when Strzok stated the FBI determined probable cause.
+Strzok falsely suggested to Boente that the probable cause for his opening the Russiagate investigation, codenamed [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}), included Trump asking Russia during a July 2016 public campaign appearance to find Clinton’s 30,000 missing State Department emails she had deleted from a private server. The electronic communication Strzok personally wrote to officially open the investigation made no mention of this incident. What’s more, Trump made the sarcastic remark after the date when Strzok stated the FBI determined probable cause.
 
 Strzok, who did not respond to requests for comment, spread the same false claim in his book. He recently admitted in a Georgetown University forum he got that detail wrong, while blaming a faulty memory. Strzok was fired by Special Counsel Robert Mueller after the Justice inspector general alerted Mueller to virulently anti-Trump texts he had exchanged with Lisa Page, with whom he was having an illicit affair.
 
@@ -65,7 +65,7 @@ During the high-level briefing, Strzok and McCabe shaded other facts to make it 
 
 The next month, Boente approved and signed the third application to surveil the Trump adviser. Carter Page was never charged with a crime. But the year-long surveillance, which didn’t end until Sept. 22, 2017, allowed FBI headquarters to potentially monitor the Trump presidency through what is known as “incidental collections” of emails, texts and phone and Skype conversations.
 
-On March 20, 2017, Comey went to Capitol Hill and publicly announced for the first time the existence of the FBI’s Crossfire Hurricane investigation into Trump and his campaign.
+On March 20, 2017, Comey went to Capitol Hill and publicly announced for the first time the existence of the FBI’s [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation into Trump and his campaign.
 
 “The FBI, as part of our counter-intelligence mission, is investigating the Russian government’s efforts to interfere in the 2016 presidential election, and that includes investigating the nature of any links between individuals associated with the Trump campaign and the Russian government, and whether there was any coordination between the campaign and Russia’s efforts,” Comey testified.
 

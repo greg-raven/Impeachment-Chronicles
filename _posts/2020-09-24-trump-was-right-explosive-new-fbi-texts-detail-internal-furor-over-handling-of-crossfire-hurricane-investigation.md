@@ -53,7 +53,7 @@ The new disclosures made by DOJ also show that the FBI used so-called national s
 
 The explosive new text messages also show agents believed the investigation was being run by FBI officials who were in the tank for Hillary Clinton.
 
-“[D]oing all this election research – I think some of these guys want a [C]linton presidency,” one agent wrote on Aug. 11, shortly after the FBI opened the Crossfire Hurricane investigation against Trump.
+“[D]oing all this election research – I think some of these guys want a [C]linton presidency,” one agent wrote on Aug. 11, shortly after the FBI opened the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation against Trump.
 
 In one series of texts sent the same day as the infamous Jan. 5 Oval Office meeting between Obama, Biden, Comey, Sally Yates, and Susan Rice, one agent admits that “Trump was right” when he tweeted that the FBI was delaying his briefings as incoming president so they could cook up evidence against him. As The Federalist first reported last May, that Jan. 5 meeting was the key to understanding the entire anti-Trump operation run out of Obama’s FBI.
 

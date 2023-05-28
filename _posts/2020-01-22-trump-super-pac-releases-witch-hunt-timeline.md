@@ -15,7 +15,7 @@ They added, it “follows the genesis and development of the deep state’s Witc
 
 Beginning with the FBI’s actions against Carter Page and George Papadopoulos in 2016, the timeline highlights efforts by the Hillary Clinton campaign to obtain the phony dossier from Fusion GPS.
 
-The timeline continues with the currently well-known efforts by FBI Director James Comey and other officials to launch the operation “Crossfire Hurricane” to surveil members of Trump’s campaign.
+The timeline continues with the currently well-known efforts by FBI Director James Comey and other officials to launch the operation “[Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %})” to surveil members of Trump’s campaign.
 
 Each point in the timeline is well documented with stories in the media and from the reports from the Justice Department Inspector General.
 

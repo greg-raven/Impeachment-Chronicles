@@ -35,7 +35,7 @@ That referral was sent to Comey and then-Deputy Assistant Director of Counterint
 
 “This memorandum contains sensitive information that could be source revealing. It should be handled with particular attention to compartmentation and need-to-know. To avoid the possible compromise of the source, any investigative action taken in response to the information below should be coordinated in advance with Chief Counterintelligence Mission Center, Legal,” the memo, which was sent to Comey and Strzok, read. “It may not be used in any legal proceeding — including FISA applications — without prior approval …”
 
-“Per FBI verbal request, CIA provides the below examples of information the CROSSFIRE HURRICANE fusion cell has gleaned to date,” the memo continued. “An exchange [REDACTED] discussing U.S. presidential candidate Hillary Clinton’s approval of a plan concerning U.S. presidential candidate Donald Trump and Russian hackers hampering U.S. elections as a means of distracting the public from her use of a private email server.”
+“Per FBI verbal request, CIA provides the below examples of information the [CROSSFIRE HURRICANE]({% post_url 2016-07-31-crossfire-hurricane %}) fusion cell has gleaned to date,” the memo continued. “An exchange [REDACTED] discussing U.S. presidential candidate Hillary Clinton’s approval of a plan concerning U.S. presidential candidate Donald Trump and Russian hackers hampering U.S. elections as a means of distracting the public from her use of a private email server.”
 
 The memo is heavily redacted.
 

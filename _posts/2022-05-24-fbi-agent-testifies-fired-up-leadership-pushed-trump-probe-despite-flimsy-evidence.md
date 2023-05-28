@@ -11,7 +11,7 @@ In explosive testimony Tuesday in the Michael Sussmann trial, an FBI agent said 
 
 FBI agent Curtis Heide was the co-case agent on the investigation into the allegation that there was a secret communications channel between the Trump Organization and Kremlin-linked Alfa Bank. He testified on Tuesday in the Sussmann trial that the bureau’s top brass pushed for the investigation.
 
-Heide was told in an instant message from FBI Agent Joe Pientka, who was the supervisor leading the Crossfire Hurricane investigation regarding Trump-Russia collusion allegations, that senior leadership was “fired up” about the Alfa Bank and Trump Organization email servers and not opening an investigation was not an option. He received this message two days after Sussmann met with then-FBI General Counsel James Baker to give him the underlying, allegedly pretextual data.
+Heide was told in an instant message from FBI Agent Joe Pientka, who was the supervisor leading the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation regarding Trump-Russia collusion allegations, that senior leadership was “fired up” about the Alfa Bank and Trump Organization email servers and not opening an investigation was not an option. He received this message two days after Sussmann met with then-FBI General Counsel James Baker to give him the underlying, allegedly pretextual data.
 
 Sussmann, a 2016 Clinton campaign lawyer, is on trial for allegedly lying to the FBI in his September 2016 meeting with Baker by saying he was not representing any clients in sharing information purportedly substantiating a Trump Organization back channel to the Kremlin through Alfa Bank.
 
