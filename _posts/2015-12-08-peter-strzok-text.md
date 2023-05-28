@@ -5,11 +5,10 @@ author:
 - Peter Strzok
 ---
 
-> You get all our OCONUS lures approved? ;)
->
-> <cite>Peter Strzok</cite>
+FBI Deputy Assistant Director for Counterintelligence Peter Strzok
+: “You get all our OCONUS lures approved? ;)”
 
-Source:
+Source: [Durham report]({% post_url 2023-05-12-durham-report %})
 
 ![Peter Strzok text, December 28, 2015](/assets/2015-12-28-peter-strzok-text.jpg "Peter Strzok text, December 28, 2015")
 
