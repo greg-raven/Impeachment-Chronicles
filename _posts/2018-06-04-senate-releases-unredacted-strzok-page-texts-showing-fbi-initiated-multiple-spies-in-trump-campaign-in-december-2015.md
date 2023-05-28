@@ -49,4 +49,4 @@ Source: Joe Hoft, thegatewaypundit.com/2018/06/breaking-senate-releases-unredact
 
 **Note:** This is the entry under discussion.
 
-[Peter Strzok text, December 28, 2015]({% post_url 2015-12-08-peter-strzok-text %})
+[Peter Strzok text, December 28, 2015]({% post_url 2015-12-28-peter-strzok-text %})
