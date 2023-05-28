@@ -12,6 +12,15 @@ blockquote .small:before, blockquote cite:before, blockquote footer:before, bloc
     content: "\2014 \00A0"
 }
 
+dt {
+	font-weight: bold;
+}
+
+dd {
+	padding-left: 1em;
+	margin-bottom: 1em;
+}
+
 iframe {
 	margin-bottom: 1em;
 }
