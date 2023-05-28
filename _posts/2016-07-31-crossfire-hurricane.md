@@ -81,7 +81,7 @@ Details:
 
 (S/ [Redacted])
 
-5. Mr. Papadopolous [Redacted] also suggested the Trump team had received some kind of suggestion from Russia that it could assist this process with the anonymous release of information during the campaign that would be damaging to Mrs. Clinton (and President Obama). It was unclear whether he or the Russians were referring to material acquired publicly of through other means. It was also unclear how Mr. Trump’s team reacted to the offer. We note the Trump team’s reaction could, in the end, have little bearing of what Russia decides to do, with or without Mr. Trump’s cooperation.
+5\. Mr. Papadopolous [Redacted] also suggested the Trump team had received some kind of suggestion from Russia that it could assist this process with the anonymous release of information during the campaign that would be damaging to Mrs. Clinton (and President Obama). It was unclear whether he or the Russians were referring to material acquired publicly of through other means. It was also unclear how Mr. Trump’s team reacted to the offer. We note the Trump team’s reaction could, in the end, have little bearing of what Russia decides to do, with or without Mr. Trump’s cooperation.
 
 (End Text)
 
