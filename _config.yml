@@ -39,8 +39,8 @@ minima:
 # order as they should show up.
 #
 header_pages:
-  - accomplishments.md
-  - timeline.md
+  - accomplishments.html
+  - timeline.html
   - search.html
 
 # Set to `true` to show excerpts on the homepage.
