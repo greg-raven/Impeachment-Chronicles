@@ -7,7 +7,7 @@ author:
 ---
 
 - Trump received 10 personal updates from Michael Cohen and encouraged a planned meeting with Vladimir Putin.
--UPDATE April 18, 2019: The Mueller report found that Trump did not direct Michael Cohen to lie.
+- UPDATE April 18, 2019: The Mueller report found that Trump did not direct Michael Cohen to lie.
 
 President Donald Trump directed his longtime attorney Michael Cohen to lie to Congress about negotiations to build a Trump Tower in Moscow, according to two federal law enforcement officials involved in an investigation of the matter.
 
