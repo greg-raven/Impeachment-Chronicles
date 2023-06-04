@@ -18,3 +18,5 @@ Durham’s 300-plus page report also states that the FBI used “raw, unanalyzed
 […]
 
 Source: Zachary Cohen, Devan Cole, Tierney Sneed, Evan Perez, Hannah Rabinowitz, Jeremy Herb, and Marshall Cohen, CNN, cnn.com/2023/05/15/politics/john-durham-report-fbi-trump-released/index.html
+
+![Special counsel John Durham concludes FBI never should have launched Trump-Russia probe](/assets/2023-05-16-fbi-never-should-have-launched-probe.jpg "Special counsel John FBI never should have launched Trump-Russia probe")
