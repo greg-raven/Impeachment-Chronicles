@@ -53,6 +53,30 @@ function lunr_search(term) {
 }
 </script>
 <style>
+	form {text-align: center;}
+	input
+	{
+		-webkit-appearance: none;
+		-moz-appearance: none;
+		appearance: none;
+		background-color: transparent;
+		border: 2px solid #ddd;
+		background-color: white;
+		border-radius: 0.25rem;
+		font-size: 16px;
+		padding: 1em;
+		margin: 0;
+		text-align: center;
+		width: 50%;
+		box-sizing: border-box;
+	}
+
+	input::placeholder
+	{
+		opacity: 1;
+		/* Firefox */
+		color: hsl(213, 73%, 50%);
+	}
     #lunrsearchresults {padding-top: 0.2rem;}
     .lunrsearchresult {padding-bottom: 1rem;}
     .lunrsearchresult .title {color: #d9230f;}

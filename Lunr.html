@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<title>Lunr form modification</title>
+	<meta name="generator" content="BBEdit 14.6" />
+	<style>
+		input
+		{
+			-webkit-appearance: none;
+			-moz-appearance: none;
+			appearance: none;
+			background-color: transparent;
+			border: 2px solid #ddd;
+			background-color: white;
+			border-radius: 0.25rem;
+			font-size: 16px;
+			padding: 1em;
+			margin: 0;
+			box-sizing: border-box;
+		}
+
+		input::placeholder
+		{
+			opacity: 1;
+			/* Firefox */
+			color: hsl(213, 73%, 50%);
+		}
+</style>
+</head>
+<body>
+
+<form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);" style="margin: 1em auto 1em auto;">
+    <p>
+        <input type="text" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Search via Lunr.js" style="margin: 1em auto 1em auto;" />
+    </p>
+</form>
+
+</body>
+</html>
