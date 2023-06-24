@@ -2,7 +2,7 @@
 title: 'Making of a myth: Timeline of media’s role in selling ‘Trump-Russia collusion’ tale'
 layout: post
 author:
--  Sharyl Attkisson
+-  'Sharyl Attkisson'
 ---
 
 - Four years of leaks, misinformation, and manipulation in the construction of a conspiracy theory.
