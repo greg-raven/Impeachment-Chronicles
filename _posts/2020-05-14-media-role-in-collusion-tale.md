@@ -215,4 +215,4 @@ May 4, 2018:
 March 2019:
 : Mueller signs off on his final report stating that there was no collusion or coordination between Trump — or any American — and Russia.
 
-Source: https://justthenews.com/accountability/media/making-myth-timeline-media-role-selling-trump-russia-collusion-narrative
+Source: justthenews.com/accountability/media/making-myth-timeline-media-role-selling-trump-russia-collusion-narrative
