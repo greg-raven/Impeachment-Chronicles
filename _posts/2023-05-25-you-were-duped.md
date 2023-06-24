@@ -52,5 +52,3 @@ You can detest Trump. You can think him an obnoxious egotist, a greedy businessm
 The people you trusted, are.
 
 Source: Laura Hollis, creators.com/read/laura-hollis/05/23/dear-americans-you-were-duped
-
-Photo credit: Michael_Luenen at Pixabay
