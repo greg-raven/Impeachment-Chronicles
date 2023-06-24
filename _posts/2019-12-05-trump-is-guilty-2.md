@@ -1,5 +1,5 @@
 ---
-title: 'Rob Reiner: Trump is guilty'
+title: 'Trump is guilty'
 layout: post
 author:
 - Rob Reiner
