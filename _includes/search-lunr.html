@@ -12,6 +12,7 @@ var documents = [{% for page in site.posts %}{
 var idx = lunr(function () {
     this.ref('id')
     this.field('title')
+    this.field('author')
     this.field('body')
 
     documents.forEach(function (doc) {
