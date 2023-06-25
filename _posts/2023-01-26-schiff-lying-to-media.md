@@ -11,7 +11,11 @@ It’s remarkable to see a group of people who call themselves “journalists”
 
 During the Trump years, Schiff was a favorite guest on both CNN and MSNBC due to his penchant for promising that he had found “damning” evidence that the Trump campaign had colluded with Russians during the 2016 election. For a look back at Schiff’s many lies from that period, watch the video below:
 
-<iframe src="https://www.mrctv.org/embed/577324" title="Supercut of Congressman Adam Schiff lying to the media" allowfullscreen></iframe>
+<div class="embed-responsive embed-responsive-16by9">
+  <iframe class="embed-responsive-item" src="https://www.mrctv.org/embed/577324"></iframe>
+</div>
+
+<iframe src="https://www.mrctv.org/embed/577324" width="640" height="360" title="Supercut of Congressman Adam Schiff lying to the media" allowfullscreen></iframe>
 
 […]
 
