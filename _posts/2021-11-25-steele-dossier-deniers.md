@@ -16,3 +16,7 @@ The usual suspects in the pro-Trump media ecosystem will of course endorse and r
 […]
 
 Source: David Frum, theatlantic.com/ideas/archive/2021/11/trump-russia-senate-intelligence-report/620815/
+
+---
+
+**Note:** Read the [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) here.

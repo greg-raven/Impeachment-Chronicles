@@ -12,7 +12,7 @@ The first document, withheld from public view until now, is a 57-page summary of
 According to the analysis by Sen. Graham’s office:
 
 - The document reveals that the primary “source” of Steele’s election reporting was not some well-connected current or former Russian official, but a non-Russian-based contract employee of Christopher Steele’s firm. Moreover, it demonstrates that the information that Steele’s primary source provided him was second and third hand information and rumor at best.
-- Critically, the document shows that Steele’s “primary sub-source” disagreed with and was surprised by how information he gave Steele was then conveyed by Steele in [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}).
+- Critically, the document shows that Steele’s “primary sub-source” disagreed with and was surprised by how information he gave Steele was then conveyed by Steele in the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}).
 
 Document number two, also withheld from public view until now, takes apart a New York Times article written by Michael Schmidt, Mark Mazzetti, and Matt Apuzzo.
 

@@ -37,7 +37,7 @@ His team investigated for possible criminal misconduct the Russiagate probe that
 
 Like CNN, the New York Times has tried to minimize the agency’s reliance on the dossier. In a recent article on Durham’s inquiry, the Times maintained that the FBI only used “some” claims from the dossier in applying for court permission to wiretap Page.
 
-In fact, the FBI used several claims – and those claims happened to constitute the most critical “evidence” in the wiretap applications. Even former deputy FBI director Andrew McCabe has admitted that if not for [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), no surveillance warrant would have been sought for Page.
+In fact, the FBI used several claims – and those claims happened to constitute the most critical “evidence” in the wiretap applications. Even former deputy FBI director Andrew McCabe has admitted that if not for the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), no surveillance warrant would have been sought for Page.
 
 All told, the FBI used four dossier reports – Report 80, Report 94, Report 95 and Report 102 – in all four of its FISA wiretap warrants targeting Page in 2016 and 2017. And three of the reports were based on a fictitious source.
 

@@ -5,7 +5,7 @@ author:
 - Paul Sperry
 ---
 
-After Special Counsel John Durham last month charged the primary source of the Steele dossier with lying to investigators about a Trump supporter providing its most explosive allegations, some high-profile journalists who made a connection between the supporter, Sergei Millian, and the dossier have retracted their published reporting.
+After Special Counsel John Durham last month charged the primary source of the [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) with lying to investigators about a Trump supporter providing its most explosive allegations, some high-profile journalists who made a connection between the supporter, Sergei Millian, and the dossier have retracted their published reporting.
 
 But others have resisted doing so — including Yahoo News’ Michael Isikoff and *Mother Jones’* David Corn, who co-authored a book erroneously linking Millian to the dossier.
 

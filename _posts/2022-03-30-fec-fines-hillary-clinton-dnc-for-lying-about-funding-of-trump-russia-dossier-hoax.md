@@ -5,7 +5,7 @@ author:
 - Phil Shiver
 ---
 
-The Federal Election Commission has fined Hillary Clinton’s 2016 presidential campaign and the Democratic National Committee for violating federal law by lying in reports about its funding of the since-discredited Steele Dossier, a newly issued memo showed.
+The Federal Election Commission has fined Hillary Clinton’s 2016 presidential campaign and the Democratic National Committee for violating federal law by lying in reports about its funding of the since-discredited [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), a newly issued memo showed.
 
 **What are the details?**
 

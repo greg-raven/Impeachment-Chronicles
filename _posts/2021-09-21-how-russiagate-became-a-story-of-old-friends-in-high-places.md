@@ -41,7 +41,7 @@ For his part, Sussmann told congressional investigators that when he met with Ba
 
 Sussmann wasn’t the only old friend feeding Russia conspiracy stories to James Baker. In the fall of 2016, another Washingtonian with the general counsel’s ear was David Corn, the Washington bureau chief of the left-wing magazine Mother Jones.
 
-“David had part of what is now referred to as [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) and he talked to me about that and wanted to provide that to the FBI,” Baker told lawmakers. “And so, even though he was my friend, I was also an FBI official. He knew that. And so he wanted to somehow get that into the hands of the FBI.”
+“David had part of what is now referred to as the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) and he talked to me about that and wanted to provide that to the FBI,” Baker told lawmakers. “And so, even though he was my friend, I was also an FBI official. He knew that. And so he wanted to somehow get that into the hands of the FBI.”
 
 How did a Mother Jones reporter/columnist get chosen to drop a dime on Trump with the FBI?
 

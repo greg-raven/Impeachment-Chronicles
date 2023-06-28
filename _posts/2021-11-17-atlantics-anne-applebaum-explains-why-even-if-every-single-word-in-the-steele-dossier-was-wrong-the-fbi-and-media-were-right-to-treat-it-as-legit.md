@@ -5,7 +5,7 @@ author:
 - Anne Applebaum
 ---
 
-> Even if every single word in [The Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was wrong, that would not change the fact that the Russians sought to manipulate the US election using hacked material and a disinformation campaign. Nor would it change the fact that the Trump family welcomed this intervention.
+> Even if every single word in The [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was wrong, that would not change the fact that the Russians sought to manipulate the US election using hacked material and a disinformation campaign. Nor would it change the fact that the Trump family welcomed this intervention.
 >
 > Also, given the fact that the Russians sought to manipulate the US election campaign using hacked material and a disinformation campaign, it was not stupid for the FBI to take the Steele dossier seriously. Was a mistake to publish it, but that wasn’t the FBI’s fault.
 >
@@ -15,4 +15,4 @@ author:
 
 ---
 
-**Note:** See [The Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) here.
+**Note:** See The [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) here.

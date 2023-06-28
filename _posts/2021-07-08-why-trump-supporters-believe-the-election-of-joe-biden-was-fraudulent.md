@@ -19,7 +19,7 @@ This was true with everyone, from CIA Dir Brennan &amp; Adam Schiff — who were
 
 At first, many Trump ppl were worried there must be some collusion, because every media &amp; intel agency wouldn’t make it up out of nothing. When it was clear that they had made it up, people expected a reckoning, and shed many illusions about their gov’t when it didn’t happen. 7/x
 
-We know as fact: a) [The Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was the sole evidence used to justify spying on the Trump campaign, b) The FBI knew [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was a DNC op, c) Steele’s source told the FBI the info was unserious, d) they did not inform the court of any of this and kept spying. 8/x
+We know as fact: a) The [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was the sole evidence used to justify spying on the Trump campaign, b) The FBI knew the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was a DNC op, c) Steele’s source told the FBI the info was unserious, d) they did not inform the court of any of this and kept spying. 8/x
 
 Trump supporters know the collusion case front and back. They went from worrying the collusion must be real, to suspecting it might be fake, to realizing it was a scam, then watched as every institution — agencies, the press, Congress, academia — gaslit them for another year. 9/x
 

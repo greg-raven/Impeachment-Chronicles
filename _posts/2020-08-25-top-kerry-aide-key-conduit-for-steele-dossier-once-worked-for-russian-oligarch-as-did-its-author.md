@@ -17,7 +17,7 @@ Winer used his position as a top State Department official to distribute the lur
 
 While at the State Department during President Barack Obama’s second term, Winer disseminated to his colleagues over 100 memos written by Steele’s company, Orbis Business Intelligence. Among them were memos apparently intended to help influence U.S. foreign policy in favor of Steele’s Russian client, billionaire Putin loyalist Deripaska.
 
-The Senate revelations establish that Winer was a key but little-known figure in Russiagate. He, along with former Associate Deputy Attorney General Bruce Ohr – whose wife worked for Fusion GPS – have emerged as prime vehicles for the dissemination of [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) to the highest reaches of the U.S. government.
+The Senate revelations establish that Winer was a key but little-known figure in Russiagate. He, along with former Associate Deputy Attorney General Bruce Ohr – whose wife worked for Fusion GPS – have emerged as prime vehicles for the dissemination of the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) to the highest reaches of the U.S. government.
 
 Winer was for a decade an aide to Sen. John Kerry. From 1994 to 1999 he was a deputy assistant secretary at the Department of State. From government he went to the international lobby and law firm Alston &amp; Bird. Winer moved to APCO Worldwide in 2008, about the time he met Steele, who had just left British intelligence and was setting up his own shop. Winer told the Senate that in his private sector jobs he “was still engaged in various types of Russian representation all over the map.” Pro-Putin, anti-Putin: Winer didn’t care, he told senators: “It was any work that was consistent with their needs and my values.”
 
@@ -65,7 +65,7 @@ In October 2010, the Committee on Foreign Investment in the United States approv
 
 Namsrai did not respond to emails from RealClearInvestigations asking why APCO listed Techsnabexport as its “foreign principal” client and not the official Russian state nuclear power enterprise, Rosatom, and whether Steele performed any work for the company.
 
-As Winer’s connections with Russia and [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) emerge, Senate Homeland Security Committee Chairman Ron Johnson says he wants to hear more from him. But, Johnson said, the committee’s ranking Democratic member, Gary Peters, is trying to derail his efforts to enforce the committee’s subpoena and interview Winer under oath. Peters’ spokesperson did not respond to questions from RealClearInvestigations.
+As Winer’s connections with Russia and the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) emerge, Senate Homeland Security Committee Chairman Ron Johnson says he wants to hear more from him. But, Johnson said, the committee’s ranking Democratic member, Gary Peters, is trying to derail his efforts to enforce the committee’s subpoena and interview Winer under oath. Peters’ spokesperson did not respond to questions from RealClearInvestigations.
 
 “Among other issues, Mr. Winer’s admitted destruction of his records related to his contacts with Christopher Steele is concerning and deserves an explanation,” Johnson said. “I am looking forward to learning more from Mr. Winer in spite of Democrat attempts to further delay our investigation.”
 

@@ -13,7 +13,7 @@ But we’ll start with the the most damning development: **Danchenko was on the 
 
 The purposes of making Danchenko a CHS should be quite clear. The [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation was plagued with problems from the outset. The reasons for opening the investigation were bunk. Those problems continued as the investigation went on, with claims of Trump/Russia collusion proven unverified or outright false. (Thus the targeting of Flynn for a Logan Act violation.)
 
-That developed into the Carter Page FISA applications, first submitted to the Foreign Intelligence Surveillance Court (FISC) in October 2016, and which relied substantially on [the Steele Dossiers]({% post_url 2016-06-20-the-steele-dossier %}) (aka Steele Reports). The FISA applications were renewed three times – more on that later. Each application had its own problems, from FBI lawyers lying about Carter Page to the Court being generally misled.
+That developed into the Carter Page FISA applications, first submitted to the Foreign Intelligence Surveillance Court (FISC) in October 2016, and which relied substantially on the [Steele Dossiers]({% post_url 2016-06-20-the-steele-dossier %}) (aka Steele Reports). The FISA applications were renewed three times – more on that later. Each application had its own problems, from FBI lawyers lying about Carter Page to the Court being generally misled.
 
 Realizing its own misconduct, the FBI made Danchenko a paid CHS in March 2017 – just before the third FISA warrant was submitted in April 2017. This would allow Comey’s FBI to work directly with Danchenko in support of its counter-intelligence investigation against President Trump.
 

@@ -28,4 +28,4 @@ author:
 
 ---
 
-**Note:** See [The Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) here.
+**Note:** See The [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) here.

@@ -37,7 +37,7 @@ During the meeting, committee staffers cut off the presentation to show research
 
 The researcher “responded by saying that it would be inappropriate for a public university to do that.” A staffer from Sen. Jack Reed’s (D-RI) office said that “we are now in charge” and a House Intelligence staffer “said that their boss (Congressman Adam Schiff) would soon take over leadership of HPSCI.” The researcher “took the comment as a mild threat.”
 
-After promoting the Steele dossier in 2017, Schiff engaged in a battle with then-Rep. Devin Nunes (R-CA) in 2018 about the use of the dossier.
+After promoting the [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) in 2017, Schiff engaged in a battle with then-Rep. Devin Nunes (R-CA) in 2018 about the use of the dossier.
 
 The Republicans released their memo in early February 2018, finding that Steele’s anti-Trump dossier formed an essential part of the FISA applications against Carter Page, that the political origins of the Steele dossier were known to senior DOJ and FBI officials but excluded from the FISA applications, and that DOJ official Bruce Ohr relayed to the DOJ information about Steele’s bias against Trump.
 

@@ -27,7 +27,7 @@ To make matters worse, this representative perpetuated these lies while he was c
 
 - What was collected via the FISA warrant.
 
-- The FBI’s vetting process for the Steele Dossier.
+- The FBI’s vetting process for the [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}).
 
 - That he had an alleged “smoking gun” showing that President Trump colluded with with Russia.
 

@@ -5,13 +5,16 @@ author:
 - Téa Kvetenadze
 ---
 
-House Intelligence Committee Chairman Rep. Adam Schiff (D-CA) defended past comments he made touting the infamous Steele dossier — a report compiled by former British intelligence officer Christopher Steele alleging close ties between the Donald Trump camp and Russia in the course of the 2016 campaign — during an appearance on Meet the Press Sunday, days after an analyst behind the study was arrested for lying to the FBI about his sources.
+House Intelligence Committee Chairman Rep. Adam Schiff (D-CA) defended past comments he made touting the infamous [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) — a report compiled by former British intelligence officer Christopher Steele alleging close ties between the Donald Trump camp and Russia in the course of the 2016 campaign — during an appearance on Meet the Press Sunday, days after an analyst behind the study was arrested for lying to the FBI about his sources.
 
 **Key Facts**
 
 * Schiff told host Chuck Todd he didn’t regret stating in the past that Steele’s claims should be investigated, saying “we couldn’t have known” years later that a primary source had apparently lied.
+
 * He added that Russian efforts to help elect Trump in 2016 “turned out to be all too true.”
+
 * It comes days after analyst Igor Danchenko, a key source behind the Steele dossier, was arrested and pleaded not guilty to five felony counts for allegedly providing false information to the FBI.
+
 * The charges were brought by Special Counsel John Durham as he investigates the FBI’s investigation into Trump-Russia ties, two and a half years after being appointed by then-Attorney General William Barr.
 
 **Crucial Quote**

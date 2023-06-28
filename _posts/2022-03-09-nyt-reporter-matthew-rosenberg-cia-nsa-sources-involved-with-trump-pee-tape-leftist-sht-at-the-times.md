@@ -15,7 +15,7 @@ This is part two of Project Veritas’ series on NYT reporter, Matthew Rosenberg
 
 One of the most surprising moments of the footage was Rosenberg speaking about his confidential sources, including the source of what Rosenberg calls “that ridiculous, like pee tape.”
 
-Rosenberg is likely referring to Buzzfeed’s 2017 publishing of sections of an unverified intelligence report on former President Trump’s relationship with Russia, frequently referred to as the “Steele dossier.” The “Steele dossier” claimed that a tape existed of Trump engaging in lewd acts while visiting Russia, but Rosenberg tells a Project Veritas undercover reporter that the tape “doesn’t exist.”
+Rosenberg is likely referring to Buzzfeed’s 2017 publishing of sections of an unverified intelligence report on former President Trump’s relationship with Russia, frequently referred to as the “[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}).” The “Steele dossier” claimed that a tape existed of Trump engaging in lewd acts while visiting Russia, but Rosenberg tells a Project Veritas undercover reporter that the tape “doesn’t exist.”
 
 Rosenberg also discussed what happens in the newsroom at the New York Times revealing that there is “a real internal tug of war between, like the reasonable people and some of the crazier leftist sh\*t that’s worked its way in there.”
 

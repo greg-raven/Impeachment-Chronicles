@@ -15,7 +15,7 @@ The evidence — which is additional to records showing the law firm for the Cli
 
 The newly surfaced evidence bolsters separate intelligence reporting that Director of National Intelligence John Ratcliffe made public recently showing the Obama CIA also believed Clinton’s campaign had launched a political dirty trick to “vilify” Trump on Russia in an effort to distract from her own controversies.
 
-“We did have evidence to show that early collusion allegations against Trump and Manafort were created or propagated by people who either worked for the DNC or the Clinton campaign, including some efforts that went beyond [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}),” a person with direct knowledge of the Mueller probe told Just the News.
+“We did have evidence to show that early collusion allegations against Trump and Manafort were created or propagated by people who either worked for the DNC or the Clinton campaign, including some efforts that went beyond the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}),” a person with direct knowledge of the Mueller probe told Just the News.
 
 The person spoke only on condition of anonymity because the person did not have permission to speak to the news media.
 
@@ -89,6 +89,6 @@ The CIA was concerned enough about the intelligence that it briefed President Ob
 
 [ENCLOSURE\_1\_\_Brennan\_Notes\_\_U.pdf](https://justthenews.com/sites/default/files/2020-10/ENCLOSURE_1__Brennan_Notes__U.pdf)
 
-In the end, none of the warning signs about [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) and the Clinton campaign’s dirty trick stopped the FBI from continuing its investigation. And the evidence Mueller gathered showing Clinton ties to the smear campaign mostly remained secret until the last few weeks.
+In the end, none of the warning signs about the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) and the Clinton campaign’s dirty trick stopped the FBI from continuing its investigation. And the evidence Mueller gathered showing Clinton ties to the smear campaign mostly remained secret until the last few weeks.
 
 Source: John Solomon, justthenews.com/accountability/russia-and-ukraine-scandals/mueller-gathered-evidence-dnc-clinton-dirty-trick-russia

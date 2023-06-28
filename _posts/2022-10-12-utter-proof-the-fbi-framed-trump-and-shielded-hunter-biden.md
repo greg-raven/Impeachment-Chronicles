@@ -9,7 +9,7 @@ Igor Danchenko is on trial, but so is the FBI.
 
 That is the theme of Russiagate special counsel John Durham’s prosecution of Danchenko, heading into its third day of trial in Alexandria, Va., federal court.
 
-Danchenko is charged with five counts of lying to the FBI about two of his sources for what became the infamous “Steele dossier” — a compilation of faux intelligence reports, mainly authored by former British spy Christopher Steele, that portrayed the GOP’s then-presidential candidate, Donald Trump, as a clandestine agent of Russia.
+Danchenko is charged with five counts of lying to the FBI about two of his sources for what became the infamous “[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %})” — a compilation of faux intelligence reports, mainly authored by former British spy Christopher Steele, that portrayed the GOP’s then-presidential candidate, Donald Trump, as a clandestine agent of Russia.
 
 Danchenko was Steele’s principal source. In essence, Durham accuses him of (a) concealing from the FBI that he was getting some information about the Trump campaign from Clinton political ally Charles Dolan and (b) falsely claiming he received explosive information from Sergei Millian, a Belarusian American tangentially associated with Trump, alleging the GOP candidate was in a “conspiracy of cooperation” with the Kremlin.
 

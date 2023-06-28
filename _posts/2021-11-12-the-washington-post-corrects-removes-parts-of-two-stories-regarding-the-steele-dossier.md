@@ -37,13 +37,13 @@ But it’s rare for a publication to make wholesale changes after publication an
 
 “No such case comes immediately or specifically to mind, at least no historical case that stirred lasting controversy,” said W. Joseph Campbell, a professor and journalism historian at American University.
 
-The February 2019 Post story detailed Millian’s involvement in some of Trump’s business activities. It was headlined, “Sergei Millian, identified as an unwitting source for [the Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), sought proximity to Trump’s world in 2016.”
+The February 2019 Post story detailed Millian’s involvement in some of Trump’s business activities. It was headlined, “Sergei Millian, identified as an unwitting source for the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), sought proximity to Trump’s world in 2016.”
 
 The indictment secured by Durham on Nov. 4 suggests, but doesn’t explicitly assert, that Danchenko may have gotten his information about the hotel encounter not from Millian but from a Democratic Party operative with long-standing ties to Hillary Clinton. The indictment doesn’t name the executive by name, but he has been identified as Charles Dolan Jr. by Dolan’s attorney, Ralph D. Martin, who otherwise declined to comment because Dolan is a “witness in an ongoing case.”
 
 The indictment notes that the executive stayed at the Moscow Ritz-Carlton hotel where the alleged incident with prostitutes took place, and took a tour of the presidential suite in June 2016. The timing is consistent with Steele’s later report about the alleged hotel-room encounter.
 
-[The Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was a basis for the FBI’s legal arguments for surveillance of Carter Page, a former Trump campaign adviser, during the 2016 campaign. A Justice Department inspector general later criticized the agency for failing to note doubts about the veracity of the information in its application for court approval of the surveillance.
+The [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was a basis for the FBI’s legal arguments for surveillance of Carter Page, a former Trump campaign adviser, during the 2016 campaign. A Justice Department inspector general later criticized the agency for failing to note doubts about the veracity of the information in its application for court approval of the surveillance.
 
 The 2017 and 2019 stories were written by veteran reporters Rosalind S. Helderman and Tom Hamburger. They declined to comment.
 

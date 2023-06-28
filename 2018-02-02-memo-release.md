@@ -17,7 +17,7 @@ On Friday morning, Trump said on Twitter that senior officials at the Justice De
 
 The memo finds that:
 
-* The Steele dossier formed an essential part of the initial and all three renewal FISA applications against Carter Page.
+* The [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) formed an essential part of the initial and all three renewal FISA applications against Carter Page.
 * Andrew McCabe confirmed that no FISA warrant would have been sought from the FISA Court without the Steele dossier information.
 * The political origins of the Steele dossier were known to senior DOJ and FBI officials, but excluded from the FISA applications.
 * DOJ official Bruce Ohr met with Steele beginning in the summer of 2016 and relayed to DOJ information about Steele’s bias. Steele told Ohr that he, Steele, was desperate that Donald Trump not get elected president and was passionate about him not becoming president.

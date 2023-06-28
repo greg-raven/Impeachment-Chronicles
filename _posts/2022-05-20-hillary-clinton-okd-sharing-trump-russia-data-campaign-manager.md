@@ -44,7 +44,7 @@ She also attached a statement from Sullivan — now President Biden’s national
 
 - Michael Sussmann: Cybersecurity lawyer who worked for Hillary Clinton’s 2016 campaign; charged with lying to the FBI
 - Rodney Joffee: Former tech executive and Sussmann client who told him about a purported cyber back channel between the Trump Organization and Russia’s Alfa-Bank
-- Christopher Steele: British ex-spy hired by Fusion GPS; compiled the infamous “Steele dossier” of reports on Trump and Russia
+- Christopher Steele: British ex-spy hired by Fusion GPS; compiled the infamous “[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %})” of reports on Trump and Russia
 - John Durham: Special counsel investigating potential criminality in the government investigations of former President Donald Trump’s purported ties to Russia
 - James A. Baker: Former FBI general counsel; received Alfa-Bank information from Sussmann
 - Marc Elias: Clinton campaign general counsel, former partner of Sussmann’s at Perkins Coie law firm
