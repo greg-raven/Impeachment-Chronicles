@@ -12,22 +12,10 @@ description: Attacks on our 45th president and republic.
 theme: minima
 
 plugins:
-  - jekyll-archives
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
-
-jekyll-archives:
-  enabled:
-  	- categories
-  	- tags
-  layouts:
-    category: category-archive
-    tag: tag-archive
-  permalinks:
-    tag: '/tag/:name/'
-    category: '/category/:name/'
 
 # Theme-specific settings
 
