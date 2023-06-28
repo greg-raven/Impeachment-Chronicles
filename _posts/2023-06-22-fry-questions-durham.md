@@ -6,8 +6,6 @@ author:
 - John Durham
 ---
 
-June 22, 2023
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2dwF82ZQehE" title="Russell Fry questions John Durham about Crossfire Hurricane" allowfullscreen></iframe>
 
 Rough transcript:
