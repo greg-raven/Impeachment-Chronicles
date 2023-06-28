@@ -30,7 +30,6 @@ author:
 
 **KJP:** “Yes … There is something that’s going to come out about Russia. Remember, there’s money laundering!”
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Oi_pOcb96uY" title="Karine Jean-Pierre 2018: Trump is guilty"></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oi_pOcb96uY" title="Karine Jean-Pierre 2018: Trump is guilty" allowfullscreen></iframe>
 
 Source: MSNBC, youtu.be/Oi_pOcb96uY
