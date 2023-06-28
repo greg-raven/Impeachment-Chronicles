@@ -5,9 +5,9 @@ author:
 - Harriet Hageman
 ---
 
-<iframe width="640" height="360" src="https://www.bitchute.com/embed/zAxPUyDzI9I/"></iframe>
+<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/embed/zAxPUyDzI9I/" title="Harriet Hageman favors censoring Adam Schiff" allowfullscreen></iframe>
 
-[//]: # (<iframe width="560" height="315" src="https://www.youtube.com/embed/LOqa6lK5BBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>)
+[//]: # (<iframe width="560" height="315" src="https://www.youtube.com/embed/LOqa6lK5BBc" title="Harriet Hageman favors censoring Adam Schiff"></iframe>)
 
 Rough transcript:
 
