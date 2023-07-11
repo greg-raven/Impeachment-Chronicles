@@ -1,7 +1,9 @@
-
-What Democrats said about Trump, collusion before Mueller report - https://www.politifact.com/article/2019/mar/25/what-democrats-said-about-trump-collusion-mueller-/
-
-March 25, 2019
+---
+title: 'What Democrats said about Trump, collusion before Mueller report'
+layout: post
+author:
+- Jon Greenberg
+---
 
 Republicans have been having a field day rubbing the Democrats’ noses in the outcome of Special Counsel Robert Mueller’s investigation. As the summary from Attorney General William Barr quoted Mueller’s report, “the investigation did not establish that members of the Trump Campaign conspired or coordinated with the Russian government in its election interference activities.”
 
