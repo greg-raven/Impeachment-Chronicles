@@ -1,5 +1,5 @@
 ---
-title: ‘Nadler claims of Trump-campaign Russia collusion contradicted by Durham report’
+title: 'Nadler claims of Trump-campaign Russia collusion contradicted by Durham report'
 layout: post
 author:
 - Patrick Hauf
