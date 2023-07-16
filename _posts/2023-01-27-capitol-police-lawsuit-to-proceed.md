@@ -21,4 +21,4 @@ Mehta’s opinion on Thursday also ruled that the Capitol Police officers’ law
 
 However, the judge dismissed the police officers’ case against media personality Ali Alexander and political consultant Roger Stone ruling that their conduct was protected by the First Amendment.
 
-Source:  thepostmillennial.com/federal-judge-allows-capitol-police-officers-lawsuit-against-trump-for-jan-6-riot-to-proceed
+Source: thepostmillennial.com/federal-judge-allows-capitol-police-officers-lawsuit-against-trump-for-jan-6-riot-to-proceed

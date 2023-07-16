@@ -5,7 +5,7 @@ author:
 - Hakeem Jeffries
 ---
 
-> Top Republican witness Ambassador Sondland had 2 choices. Lie to Congress (and go to jail). Or tell the truth about the President’s #AbuseOfPower. He just confirmed Trump’s #ShakedownScheme. Cloud of illegitimacy hanging over 1600 Pennsylvania Ave. grows stronger by the day.”
+> Top Republican witness Ambassador Sondland had 2 choices. Lie to Congress (and go to jail). Or tell the truth about the President’s #AbuseOfPower. He just confirmed Trump’s #ShakedownScheme. Cloud of illegitimacy hanging over 1600 Pennsylvania Ave. grows stronger by the day.”
 >
 > <cite>Hakeem Jeffries, via Twitter</cite>
 

@@ -52,7 +52,7 @@ Well-known Antifa-Insurgence leader John Sullivan was arrested in Utah after the
 
 Antifa protester John Sullivan was caught on video posing as a Trump supporter during the rioting at the US Capitol on January 6th.
 
-Sullivan also organized an Antifa rally on January 6th near the US Capitol.  This has been ignored by the media.
+Sullivan also organized an Antifa rally on January 6th near the US Capitol. This has been ignored by the media.
 
 […]
 

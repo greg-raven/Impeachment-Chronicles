@@ -5,7 +5,7 @@ author:
 - Ron Klain
 ---
 
-> Surest sign that a recession is coming:  Trump's chief economic adviser calls recession fears "nonsense."
+> Surest sign that a recession is coming: Trump's chief economic adviser calls recession fears "nonsense."
 >
 > Ron Klain, via Twitter
 

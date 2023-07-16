@@ -41,7 +41,7 @@ Critics were outraged that Trump ― who was protecting himself from the rain wi
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">siri show me a picture of everyone secretly hating someone <a href="https://t.co/8SNdOJZFiy">https://t.co/8SNdOJZFiy</a></p>&mdash; Skoog (@Skoog) <a href="https://twitter.com/Skoog/status/1315756485096419328?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
 
-> Still no mask.  We don't know if he has tested negative yet, when he first tested positive, or if he is still contagious.  Hard to fathom.
+> Still no mask. We don't know if he has tested negative yet, when he first tested positive, or if he is still contagious. Hard to fathom.
 >
 > <cite>Amy Siskind, via Twitter</cite>
 

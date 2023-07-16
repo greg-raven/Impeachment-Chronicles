@@ -198,7 +198,7 @@ Sept. 13, 2017:
 : Under questioning from Congress, Obama’s former National Security Adviser Susan Rice reportedly admits having requested to see the protected identities of Trump transition officials “incidentally” captured by government surveillance.
 
 Dec. 19, 2017:
-: McCabe repeatedly testifies that the wiretap against Trump campaign official Carter Page would not have been approved without the Fusion GPS/Steele dossier info. FBI General Counsel James Baker, who is himself subject of an Inspector General probe into his alleged leaks to the press, attends as McCabe’s attorney. McCabe acknowledges that if Baker had met with Mother Jones reporter David Corn, it would have been inappropriate. Baker is reassigned amid investigation into his alleged  contacts with media.
+: McCabe repeatedly testifies that the wiretap against Trump campaign official Carter Page would not have been approved without the Fusion GPS/Steele dossier info. FBI General Counsel James Baker, who is himself subject of an Inspector General probe into his alleged leaks to the press, attends as McCabe’s attorney. McCabe acknowledges that if Baker had met with Mother Jones reporter David Corn, it would have been inappropriate. Baker is reassigned amid investigation into his alleged contacts with media.
 
 Feb. 2, 2018:
 : House Intelligence Committee Republican memo summarizes classified documents revealing for the first time that Fusion GPS political opposition research was used, in part, to justify Carter Page wiretap; along with Michael Isikoff Yahoo News article based on the same opposition research.<br>Ex-CIA Director Brennan signs on as a contributor to NBC and MSNBC, where he provides routine criticism of Trump and his associates, including providing false information.

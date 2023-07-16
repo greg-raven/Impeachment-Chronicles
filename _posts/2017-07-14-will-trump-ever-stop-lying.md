@@ -5,7 +5,7 @@ author:
 - Hakeem Jeffries
 ---
 
-> When will the #FakePresident ever stop lying?  Apparently, NEVER
+> When will the #FakePresident ever stop lying? Apparently, NEVER
 >
 > <cite>Hakeem Jeffries, via Twitter</cite>
 

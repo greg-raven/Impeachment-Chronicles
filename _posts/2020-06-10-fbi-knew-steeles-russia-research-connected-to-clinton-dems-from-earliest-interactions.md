@@ -25,7 +25,7 @@ And FBI officials have been vague in their explanations about when they knew Ste
 
 But one passage and two footnotes in [Horowitz’s report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}) that have largely escaped public attention suggest the FBI agent who first interviewed Steele about his anti-Trump research in London on July 5, 2016, was aware immediately of a connection to Clinton and that a separate office of the FBI passed along information from an informant by Aug. 2, 2016, that Simpson’s Fusion GPS was connected to the DNC.
 
-For instance, the agent in London contacted an Assistant Special Agent in Charge (ASAC) in the New York field office (NYFO) shortly after interviewing Steele and obtaining one of the anti-Trump memos that made up his dossier, according to information in [Horowitz’s  report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}).
+For instance, the agent in London contacted an Assistant Special Agent in Charge (ASAC) in the New York field office (NYFO) shortly after interviewing Steele and obtaining one of the anti-Trump memos that made up his dossier, according to information in [Horowitz’s report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}).
 
 The agent sought advice on July 13, 2016, on how to handle the sensitive election-year allegations from the supervisor in New York, where the FBI had already opened a probe of Page that would eventually be assumed by Washington headquarters.
 

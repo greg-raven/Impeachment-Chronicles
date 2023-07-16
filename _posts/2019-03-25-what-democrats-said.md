@@ -37,7 +37,7 @@ By that point (see our timeline), the public record included the Trump Tower mee
 
 The intelligence community broadly agreed that Russia had interfered with the 2016 election.
 
-About a year later, Schiff said, “there’s clear evidence on the issue of collusion,” in a CNN interview on January 10, 2019.  “But whether it amounts to conspiracy beyond a reasonable doubt, I think, we still have to wait for Bob Mueller’s work.”
+About a year later, Schiff said, “there’s clear evidence on the issue of collusion,” in a CNN interview on January 10, 2019. “But whether it amounts to conspiracy beyond a reasonable doubt, I think, we still have to wait for Bob Mueller’s work.”
 
 Schiff tweeted similar comments after Barr’s letter was released March 24.
 
@@ -77,7 +77,7 @@ Nadler told ABC News March 3 that impeachment “is a long way down the road. We
 
 Wyden’s focus was more on Russian money and the Trump Organization — a follow-the-money approach.
 
-“Their portfolio consisted of a lot of Russian money,” Wyden said. “Then the  president didn’t disclose his taxes … There’s a lot to do here.”
+“Their portfolio consisted of a lot of Russian money,” Wyden said. “Then the president didn’t disclose his taxes … There’s a lot to do here.”
 
 Wyden called the Barr memo “little more than a public relations strategy.”
 

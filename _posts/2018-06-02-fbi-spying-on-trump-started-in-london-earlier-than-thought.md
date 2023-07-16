@@ -9,7 +9,7 @@ author:
 
 A new report from John Solomon of The Hill ties together several loose threads floating around over the genesis of the FBI/DOJ espionage operation against the Trump campaign, who was involved in the “setup” of campaign aides, and how text messages between FBI employees suggest that the Obama White House was not only aware of the operation – but possibly directing it.
 
-Not only is the timeline moved up from the summer of 2016 to spring, Solomon provides clarification on early contacts between the players involved in  DOJ/FBI sting and Trump campaign aides.
+Not only is the timeline moved up from the summer of 2016 to spring, Solomon provides clarification on early contacts between the players involved in DOJ/FBI sting and Trump campaign aides.
 
 > The bridge to the Russia investigation wasn’t erected in Moscow during the summer of the 2016 election.
 >

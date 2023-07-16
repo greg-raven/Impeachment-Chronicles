@@ -33,7 +33,7 @@ Also, the colleagues told the FBI that Steele does “[r]eporting in good faith,
 
 There is no indication in the declassified FISA applications that any of these assessments were reported to the court by the FBI in three renewal applications that were filed for months after the agency learned about the criticisms of Steele’s work. Instead, the warrants continued to vouch for Steele’s reliability.
 
-The language in the same footnote on renewal applications removed the sentence that the FBI was “unaware of any derogatory information” about Steele.  The findings with potentially derogatory information about Steele collected by the FBI were not added to that footnote.
+The language in the same footnote on renewal applications removed the sentence that the FBI was “unaware of any derogatory information” about Steele. The findings with potentially derogatory information about Steele collected by the FBI were not added to that footnote.
 
 Instead, the same footnote informed the FISA court that “in or about October 2016,” the FBI had to “suspend its relationship” with Steele because of his “unauthorized disclosure of information to the press.”
 
