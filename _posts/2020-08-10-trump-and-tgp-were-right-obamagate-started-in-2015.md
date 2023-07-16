@@ -5,21 +5,21 @@ author:
 - Joe Hoft
 ---
 
-- Judicial Watch Provides More Support for this Today
+- Judicial Watch provides more support for this today
 
-We were the first to report at The Gateway Pundit that the Deep State was spying on candidate Trump in 2015. President Trump tweeted the story the following day and the fake news mainstream media immediately attacked him for promoting a conspiracy theory.
+We were the first to report at *The Gateway Pundit* that the Deep State was spying on candidate Trump in 2015. President Trump tweeted the story the following day and the fake news mainstream media immediately attacked him for promoting a conspiracy theory.
 
 Now we know that we were 100% correct and so was President Trump
 
 Thank you President Trump for sharing our story. You were right!
 
-In June of 2018 The Gateway Pundit posted an article identifying unredacted words in previously redacted texts between corrupt cops Peter Strzok and Lisa Page, two individuals supposedly having an affair and key players at the top of the FBI involved in spying on candidate and then President Trump.
+In June of 2018, *The Gateway Pundit* posted an article identifying unredacted words in previously redacted texts between corrupt cops Peter Strzok and Lisa Page, two individuals supposedly having an affair and key players at the top of the FBI involved in spying on candidate and then President Trump.
 
 The discovery came from an individual on Twitter who was later removed from Twitter, named Nick Falco, who identified a word uncovered in a Senate text that was previously redacted by the corrupt DOJ.
 
 In our post we noted that hidden in the information released by the Senate at that time were unredacted Strzok–Page texts that showed that the FBI initiated actions to insert multiple spies in the Trump campaign in December 2015.
 
-As we reported previously, according to far left LA Times, Comey stated in March of 2017 under oath that the FBI investigation into the Trump – Russia scandal started in July 2016.
+As we reported previously, according to far left *LA Times,* Comey stated in March of 2017 under oath that the FBI investigation into the Trump – Russia scandal started in July 2016.
 
 We knew then without a doubt that Comey lied about this.
 
@@ -63,13 +63,13 @@ President Trump tweeted out a follow up to our post the next day undoubtedly ref
 >
 > <cite>Donald J. Trump (@realDonaldTrump) June 6, 2018</cite>
 
-The mainstream media was interested. They were interested in accusing President Trump of tweeting a conspiracy story. The fake news media denied the fact that spying on candidate Trump occurred in spite of evidence showing this happened and then slammed the President and the Gateway Pundit for posting the tweets from Nick Falco.
+The mainstream media was interested. They were interested in accusing President Trump of tweeting a conspiracy story. The fake news media denied the fact that spying on candidate Trump occurred in spite of evidence showing this happened and then slammed the President and *The Gateway Pundit* for posting the tweets from Nick Falco.
 
 To this day Wikipedia (which supports crazy far-left and dishonest positions in anything related to President Trump) calls this work, a conspiracy and “Spygate” a conspiracy.
 
 […]
 
-Wikipedia calls the above story a conspiracy and the Gateway Pundit a conspiracy media outlet. However, they don’t call CNN, NBC, MSNBC, CNBC, ABC, The New York Times, Washington Post, and the many other far-left sites conspiracy outlets for pushing the Trump – Russia collusion for more than two years.
+Wikipedia calls the above story a conspiracy and *The Gateway Pundit* a conspiracy media outlet. However, they don’t call CNN, NBC, MSNBC, CNBC, ABC, *The New York Times, Washington Post,* and the many other far-left sites conspiracy outlets for pushing the Trump – Russia collusion for more than two years.
 
 The liberal media and Wikipedia omitted the facts. For example, they state that the texts were released previously, yes they were but, THEY WERE REDACTED. Wikipedia is far-left when it comes to US politics!
 

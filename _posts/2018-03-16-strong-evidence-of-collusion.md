@@ -9,6 +9,6 @@ author:
 >
 > <cite>Eric Swalwall, interviewed on CNN by Wolf Blitzer</cite>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-8na9zJZV-M" title="YouTube video player"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-8na9zJZV-M" title="Eric Swalwell Claims He Had Strong Evidence Of Clear Russian Collusion"></iframe>
 
 Source: Eric Swalwell, transcripts.cnn.com/show/wolf/date/2018-03-16/segment/02

@@ -9,6 +9,6 @@ author:
 >
 > <cite>Steny Hoyer</cite>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMVlL3uPEuw" title="YouTube video player"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMVlL3uPEuw" title="Steny Hoyer"></iframe>
 
 Source: C-SPAN

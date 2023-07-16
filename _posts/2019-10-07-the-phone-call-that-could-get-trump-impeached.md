@@ -25,6 +25,6 @@ The very short version of this is: Ukraine’s top prosecutor was fired for not 
 
 Once we get through all the confusion Trump has introduced, we get back to the simple thing Trump did wrong: He asked a foreign leader to investigate his political opponent.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hyWNFvt9Fck" title="YouTube video player"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hyWNFvt9Fck" title="The phone call that could get Trump impeached"></iframe>
 
 Source: Alvin Chang, vox.com/videos/2019/10/7/20901251/trump-ukraine-impeachment-phone-call-video
