@@ -36,3 +36,9 @@ My decision to declassify materials within the binder is subject to the limits i
 (d) The Attorney General is authorized and directed to publish this memorandum in the Federal Register.
 
 DONALD J. TRUMP
+
+Source: trumpwhitehouse.archives.gov/presidential-actions/memorandum-declassification-certain-materials-related-fbis-crossfire-hurricane-investigation/
+
+![Declassification of Certain Materials Related to the FBI’s Crossfire Hurricane Investigation](/assets/2021-01-19-letter-trump-1.jpg "Declassification of Certain Materials Related to the FBI’s Crossfire Hurricane Investigation")
+
+![Declassification of Certain Materials Related to the FBI’s Crossfire Hurricane Investigation](/assets/2021-01-19-letter-trump-2.jpg "Declassification of Certain Materials Related to the FBI’s Crossfire Hurricane Investigation")
