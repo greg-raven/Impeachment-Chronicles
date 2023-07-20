@@ -27,6 +27,8 @@ And Trump shot back against the reports a short time later on Twitter.
 >
 > <cite>twitter.com/realDonaldTrump/status/818990655418617856</cite>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">FAKE NEWS - A TOTAL POLITICAL WITCH HUNT!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/818990655418617856?ref_src=twsrc%5Etfw">January 11, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 His former campaign manager and current senior White House adviser, Kellyanne Conway, also denied the claims during an appearance on Late Night With Seth Meyers, adding that “nothing has been confirmed.” She also said Trump was “not aware” of any briefing on the matter.
 
 The documents have circulated for months and acquired a kind of legendary status among journalists, lawmakers, and intelligence officials who have seen them. Mother Jones writer David Corn referred to the documents in a late October column.

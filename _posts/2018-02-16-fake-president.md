@@ -5,9 +5,7 @@ author:
 - Hakeem Jeffries
 ---
 
-> The more we learn about 2016 election the more ILLEGITIMATE it becomes. America deserves to know whether we have a FAKE President in the Oval Office #RussianInterference
->
-> <cite>Hakeem Jeffries, via Twitter</cite>
+The more we learn about 2016 election the more ILLEGITIMATE it becomes. America deserves to know whether we have a FAKE President in the Oval Office #RussianInterference
 
 <blockquote class="twitter-tweet">
 	<p lang="en" dir="ltr">
@@ -16,3 +14,5 @@ author:
 	&mdash; Hakeem Jeffries (@RepJeffries) <a href="https://twitter.com/RepJeffries/status/964581721088897025?ref_src=twsrc%5Etfw">February 16, 2018</a>
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Source: Hakeem Jeffries, via Twitter

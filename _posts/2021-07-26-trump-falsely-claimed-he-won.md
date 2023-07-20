@@ -12,4 +12,3 @@ author:
 <iframe width="512" height="350" src="https://www.c-span.org/video/standalone/?c5044769/user-clip-hakeem-jeffries-calls-trump-so-called-president" frameborder="0"></iframe>
 
 Source: C-SPAN
-
