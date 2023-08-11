@@ -1,0 +1,25 @@
+---
+title: Items by source
+layout: page
+---
+
+{% assign tags_sorted = site.tags | sort %}
+{% assign posts_sorted = site.posts | sort: 'title' %}
+{% for tagitem in tags_sorted %}
+<!-- for each tag, create an anchor by using the tag name as an id -->
+<div id="{{ tagitem[0] }}">
+  <h3> {{ tagitem[0] }} </h3>  <!-- for create a heading -->
+
+  <ul> <!-- create the list of posts -->
+    <!-- iterate through all the posts on the site sorted by alphabet-->
+    {% for post in posts_sorted %}
+      <!-- list only those which contain the current tag -->
+      {% if post.tags contains tagitem[0] %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}

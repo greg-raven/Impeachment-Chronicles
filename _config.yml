@@ -17,6 +17,17 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category-archive
+    tags: tag-archive
+  permalinks:
+    tags: '/tag/:name/'
+    category: '/category/:name/'
+
 # Theme-specific settings
 
 minima:
