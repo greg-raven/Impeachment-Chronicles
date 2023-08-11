@@ -1,5 +1,5 @@
 ---
-title: 'Only guy trying to steal the election is Trump'
+title: "Only guy trying to steal the election is Trump"
 layout: post
 author:
 - Hakeem Jeffries
