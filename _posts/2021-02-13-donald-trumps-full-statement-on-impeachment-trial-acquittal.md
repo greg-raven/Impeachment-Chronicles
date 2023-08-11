@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump’s full statement on impeachment trial acquittal'
+title: 'Donald Trump's full statement on impeachment trial acquittal'
 layout: post
 author:
 - Donald Trump
@@ -23,7 +23,7 @@ We have so much work ahead of us, and soon we will emerge with a vision for a br
 
 Together there is nothing we cannot accomplish.
 
-We remain one People, one family, and one glorious nation under God, and it’s our responsibility to preserve this magnificent inheritance for our children and for generations of Americans to come.
+We remain one People, one family, and one glorious nation under God, and it's our responsibility to preserve this magnificent inheritance for our children and for generations of Americans to come.
 
 May God bless all of you, and may God forever bless the United States of America.
 

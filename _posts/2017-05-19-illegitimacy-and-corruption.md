@@ -5,7 +5,7 @@ author:
 - Hakeem Jeffries
 ---
 
-> There’s a cloud of illegitimacy and corruption hanging over 1600 Pennsylvania Avenue.
+> There's a cloud of illegitimacy and corruption hanging over 1600 Pennsylvania Avenue.
 >
 > <cite>Hakeem Jeffries</cite>
 

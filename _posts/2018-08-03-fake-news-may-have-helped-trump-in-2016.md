@@ -5,7 +5,7 @@ author:
 - Aaron Blake
 ---
 
-President Trump has said repeatedly that Russian interference didn't matter in the 2016 presidential campaign, and he has suggested — wrongly — that the intelligence and law enforcement communities have said the same. His overriding fear seems to be that Russian interference and the “fake news” it promoted would undermine the legitimacy of his election win.
+President Trump has said repeatedly that Russian interference didn't matter in the 2016 presidential campaign, and he has suggested — wrongly — that the intelligence and law enforcement communities have said the same. His overriding fear seems to be that Russian interference and the "fake news" it promoted would undermine the legitimacy of his election win.
 
 […]
 

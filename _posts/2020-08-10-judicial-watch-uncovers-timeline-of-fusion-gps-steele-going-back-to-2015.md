@@ -5,7 +5,7 @@ author:
 - Judicial Watch
 ---
 
-Strzok and Page’s names are connected to meetings and phone calls in the UK and DC
+Strzok and Page's names are connected to meetings and phone calls in the UK and DC
 
 (Washington, DC) Judicial Watch today released 168 pages of records from the U.S. Department of Justice, including a handwritten timeline of meetings going back to 2015 connected to Peter Strzok and Lisa Page and Steele/Fusion GPS, as well as a list of records the DOJ sent to Congress related to their investigation into the FISA warrants involving the Clinton-funded dossier.
 

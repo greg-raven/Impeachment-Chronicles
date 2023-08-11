@@ -7,7 +7,7 @@ author:
 
 Wow! This is Amazing!
 
-On February 16, 2017, less than one month since President Donald Trump took office, Free Speech For People and RootsAction.org delivered a petition with over 860,000 signatures to Congress calling on the House of Representatives to initiate an impeachment investigation into President Trump’s corrupt business dealings, including violations of the U.S. Constitution’s Foreign Emoluments and Domestic Emoluments Clauses, and other federal law.
+On February 16, 2017, less than one month since President Donald Trump took office, Free Speech For People and RootsAction.org delivered a petition with over 860,000 signatures to Congress calling on the House of Representatives to initiate an impeachment investigation into President Trump's corrupt business dealings, including violations of the U.S. Constitution's Foreign Emoluments and Domestic Emoluments Clauses, and other federal law.
 
 Congressman Jamie Raskin (D-MD) received all 860,000 names at his office in the Capitol today. The petition was presented by Ben Clements, Board Chair of Free Speech For People; Ron Fein, Legal Director of Free Speech For People; Norman Solomon, Co-Founder of RootsAction.og; Catherine Ross, Professor of Law, George Washington Law School; and John Bonifaz, Co-Founder and President of Free Speech For People.
 

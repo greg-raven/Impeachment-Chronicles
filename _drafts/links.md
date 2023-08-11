@@ -1,20 +1,20 @@
-[Nadler’s Russia Claim - FactCheck.org](https://www.factcheck.org/2020/01/nadlers-russia-claim/)
+[Nadler's Russia Claim - FactCheck.org](https://www.factcheck.org/2020/01/nadlers-russia-claim/)
 
 
 
-[‘We Know There Was Collusion’ Between Trump Campaign and Russia, Insists Rep. Jerrold Nadler Despite Absence of Mueller Indictments](https://www.newsweek.com/collusion-trump-russia-nadler-mueller-1373358)
+['We Know There Was Collusion' Between Trump Campaign and Russia, Insists Rep. Jerrold Nadler Despite Absence of Mueller Indictments](https://www.newsweek.com/collusion-trump-russia-nadler-mueller-1373358)
 
 
 
-[Adam Schiff clings to ‘more than circumstantial’ evidence of Trump-Russia collusion | Washington Examiner](https://www.washingtonexaminer.com/news/adam-schiff-trump-russia-collusion-circumstantial-evidence)
+[Adam Schiff clings to 'more than circumstantial' evidence of Trump-Russia collusion | Washington Examiner](https://www.washingtonexaminer.com/news/adam-schiff-trump-russia-collusion-circumstantial-evidence)
 
 
 
-[Devin Nunes: Look for witnesses who were ‘not so truthful’ in Russia investigation transcripts | Washington Examiner](https://www.washingtonexaminer.com/news/devin-nunes-look-for-witnesses-who-were-not-so-truthful-in-russia-inquiry-transcripts)
+[Devin Nunes: Look for witnesses who were 'not so truthful' in Russia investigation transcripts | Washington Examiner](https://www.washingtonexaminer.com/news/devin-nunes-look-for-witnesses-who-were-not-so-truthful-in-russia-inquiry-transcripts)
 
 
 
-[Durham report contradicts ‘guarantee’ from Maxine Waters that Trump colluded with Russia | Fox News](https://www.foxnews.com/politics/durham-report-contradicts-guarantee-maxine-waters-trump-colluded-russia)
+[Durham report contradicts 'guarantee' from Maxine Waters that Trump colluded with Russia | Fox News](https://www.foxnews.com/politics/durham-report-contradicts-guarantee-maxine-waters-trump-colluded-russia)
 
 
 
@@ -26,15 +26,15 @@
 
 
 
-[John Durham Dismisses A Laundry List Of Dems’ Trump-Russia Collusion Claims One By One](https://www.msn.com/en-us/news/politics/john-durham-dismisses-a-laundry-list-of-dems-trump-russia-collusion-claims-one-by-one/ar-AA1cRWp3)
+[John Durham Dismisses A Laundry List Of Dems' Trump-Russia Collusion Claims One By One](https://www.msn.com/en-us/news/politics/john-durham-dismisses-a-laundry-list-of-dems-trump-russia-collusion-claims-one-by-one/ar-AA1cRWp3)
 
 
 
-[House Judiciary chair says ‘obviously’ there was collusion, regardless of Mueller findings - TheBlaze](https://www.theblaze.com/politics/judiciary-chair-obviously-collusion-mueller)
+[House Judiciary chair says 'obviously' there was collusion, regardless of Mueller findings - TheBlaze](https://www.theblaze.com/politics/judiciary-chair-obviously-collusion-mueller)
 
 
 
-[Jerry Nadler Calls Trump ‘Disgusting and Racist,’ Says Cummings Attacks are ‘Distraction’ from Russia Collusion](https://www.newsweek.com/jerry-nadler-trump-racist-disgusting-impeachment-investigation-russian-collusion-1451465)
+[Jerry Nadler Calls Trump 'Disgusting and Racist,' Says Cummings Attacks are 'Distraction' from Russia Collusion](https://www.newsweek.com/jerry-nadler-trump-racist-disgusting-impeachment-investigation-russian-collusion-1451465)
 
 
 

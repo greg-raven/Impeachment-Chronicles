@@ -8,7 +8,7 @@ author:
 
 An attorney who advised disgraced Trump organization lawyer Michael Cohen provided Manhattan prosecutors with voluminous documentation, including contemporaneous emails and memos, purporting to show that in 2018 Cohen wanted Donald Trump to help cover his legal bills and repeatedly claimed he had no evidence incriminating the former president in a hush money deal with porn actress Stormy Daniels.
 
-“Cohen said he had no information against Trump,” one memo summarizing attorney Robert Costello’s interactions with Cohen stated. That memo, dated April 2019, recounted Costello’s interview with federal prosecutors about conversations he and colleagues had with Cohen a year earlier.
+"Cohen said he had no information against Trump," one memo summarizing attorney Robert Costello's interactions with Cohen stated. That memo, dated April 2019, recounted Costello's interview with federal prosecutors about conversations he and colleagues had with Cohen a year earlier.
 
 […]
 

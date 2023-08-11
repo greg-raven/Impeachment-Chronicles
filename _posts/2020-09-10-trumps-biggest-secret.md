@@ -7,13 +7,13 @@ author:
 
 - Trump is a particularly stupid man who thinks he is very smart. Perhaps this lies at the root of his monumentally dumb decision to grant Bob Woodward 18 interviews
 
-The Inuit are supposed to have dozens of words to describe snow. The Brits have endless ways to talk about rain. Now it’s time for Americans to delineate all the many ways that Donald Trump is dumb.
+The Inuit are supposed to have dozens of words to describe snow. The Brits have endless ways to talk about rain. Now it's time for Americans to delineate all the many ways that Donald Trump is dumb.
 
-If Bob Woodward’s new blockbuster teaches us anything new about the character of the 45th president, it’s that we don’t yet have the words to describe the multiple variants of the vacuum inside his head.
+If Bob Woodward's new blockbuster teaches us anything new about the character of the 45th president, it's that we don't yet have the words to describe the multiple variants of the vacuum inside his head.
 
-There’s the stupidity of arrogance, the stupidity of ignorance and his old friend: the stupidity of blatant duplicity. There’s his homicidal stupidity, his traitorous stupidity, his criminally corrupt stupidity and his plain old infantile stupidity.
+There's the stupidity of arrogance, the stupidity of ignorance and his old friend: the stupidity of blatant duplicity. There's his homicidal stupidity, his traitorous stupidity, his criminally corrupt stupidity and his plain old infantile stupidity.
 
-Let’s start with the top of this taxonomy: the domain of Donald’s dumbness. At his core, the former reality TV star is a particularly stupid man who thinks he is very smart. Or as he prefers to call his own character, “a very stable genius.”
+Let's start with the top of this taxonomy: the domain of Donald's dumbness. At his core, the former reality TV star is a particularly stupid man who thinks he is very smart. Or as he prefers to call his own character, "a very stable genius."
 
 Perhaps, just maybe, this lies at the root of his monumentally dumb decision to grant Woodward 18 interviews, on the record and on tape.
 

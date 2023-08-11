@@ -5,7 +5,7 @@ author:
 - Hakeem Jeffries
 ---
 
-> Because John Lewis is completely right, there’s a cloud of illegitimacy around the election of Donald Trump.
+> Because John Lewis is completely right, there's a cloud of illegitimacy around the election of Donald Trump.
 >
 > <cite>Hakeem Jeffries</cite>
 

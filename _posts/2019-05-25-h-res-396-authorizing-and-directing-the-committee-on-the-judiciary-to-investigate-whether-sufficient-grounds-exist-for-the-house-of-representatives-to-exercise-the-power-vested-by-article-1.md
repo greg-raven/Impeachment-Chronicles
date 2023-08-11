@@ -25,7 +25,7 @@ For several areas of concern, including but not limited to:
 14. mismanagement of the executive branch by failing to nominate persons for positions requiring confirmation by the United States Senate;
 15. destabilizing the peace and security of the United States by condoning and normalizing White nationalism and giving legitimacy to those who adhere to the doctrine of White supremacy;
 16. endeavoring to abuse the law enforcement powers of the United States to investigate and punish persons considered by Donald John Trump to be his political enemies;
-17. undermining the essential institution of a free and independent press by attacking media organizations and individuals as “enemies of the people”;
+17. undermining the essential institution of a free and independent press by attacking media organizations and individuals as "enemies of the people";
 18. denigrating immigrants and undermining the international standing of the United States by separating minor-age immigrant children from their parents with no means or intention of family reunification; and for
 19. irreparable breaches of the public trust.
 

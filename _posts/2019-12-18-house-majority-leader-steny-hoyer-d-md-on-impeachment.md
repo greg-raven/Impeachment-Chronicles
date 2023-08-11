@@ -5,7 +5,7 @@ author:
 - Steny Hoyer
 ---
 
-> “What I will do is remind Americans that the house provided President Trump every opportunity to prove his innocence.”
+> "What I will do is remind Americans that the house provided President Trump every opportunity to prove his innocence."
 >
 > <cite>Steny Hoyer</cite>
 

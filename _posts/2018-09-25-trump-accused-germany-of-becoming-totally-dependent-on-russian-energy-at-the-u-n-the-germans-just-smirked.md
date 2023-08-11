@@ -1,13 +1,13 @@
 ---
-title: 'Trump accused Germany of becoming ‘totally dependent’ on Russian energy at the U.N.'
+title: 'Trump accused Germany of becoming 'totally dependent' on Russian energy at the U.N.'
 layout: post
 author:
 - Rick Noack
 ---
 
-BERLIN — Out of President Trump’s speech at the U.N. General Assembly on Tuesday, it probably won’t be the script that will be remembered by diplomats but, rather, world leaders’ laughter, caught on camera and shared in viral videos.
+BERLIN — Out of President Trump's speech at the U.N. General Assembly on Tuesday, it probably won't be the script that will be remembered by diplomats but, rather, world leaders' laughter, caught on camera and shared in viral videos.
 
-One of them captured the amused reactions of the German delegation as Trump said: “Germany will become totally dependent on Russian energy if it does not immediately change course. Here in the Western Hemisphere, we are committed to maintaining our independence from the encroachment of expansionist foreign powers.”
+One of them captured the amused reactions of the German delegation as Trump said: "Germany will become totally dependent on Russian energy if it does not immediately change course. Here in the Western Hemisphere, we are committed to maintaining our independence from the encroachment of expansionist foreign powers."
 
 German Foreign Minister Heiko Maas could be seen smirking alongside his colleagues.
 

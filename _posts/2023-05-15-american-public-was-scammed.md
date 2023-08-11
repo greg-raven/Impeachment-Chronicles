@@ -5,11 +5,11 @@ author:
 - Donald Trump
 ---
 
-WOW! After extensive research, Special Counsel John Durham concludes the FBI never should have launched the Trump-Russia Probe! In other words, the American Public was scammed, just as it is being scammed right now by those who don’t want to see GREATNESS for AMERICA!
+WOW! After extensive research, Special Counsel John Durham concludes the FBI never should have launched the Trump-Russia Probe! In other words, the American Public was scammed, just as it is being scammed right now by those who don't want to see GREATNESS for AMERICA!
 
 [foxnews.com/politics/durham-doj-fbi-failed-uphold-mission-strict-fidelity-law-trump-russia-probe]({% post_url 2023-05-15-doj-fbi-failed %})
 
-The [Durham Report]({% post_url 2023-05-12-durham-report %}) spells out in great detail the Democrat Hoax that was perpetrated upon me and the American people. This is 2020 Presidential Election Fraud, ￼just like “stuffing” the ballot boxes, only more so. This totally illegal act had a huge impact on the Election. With an honest Media, we are looking at the Crime of the Century!
+The [Durham Report]({% post_url 2023-05-12-durham-report %}) spells out in great detail the Democrat Hoax that was perpetrated upon me and the American people. This is 2020 Presidential Election Fraud, ￼just like "stuffing" the ballot boxes, only more so. This totally illegal act had a huge impact on the Election. With an honest Media, we are looking at the Crime of the Century!
 
 TREASON!!!
 

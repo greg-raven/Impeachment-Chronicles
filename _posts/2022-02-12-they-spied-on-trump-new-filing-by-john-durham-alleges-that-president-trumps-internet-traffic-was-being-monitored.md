@@ -1,13 +1,13 @@
 ---
-title: '‘They spied on Trump’: New filing by John Durham alleges that President Trump’s internet traffic was being monitored'
+title: ''They spied on Trump': New filing by John Durham alleges that President Trump's internet traffic was being monitored'
 layout: post
 author:
 - Brett T.
 ---
 
-The investigation by special counsel John Durham hasn’t been moving quickly by any means, but there was some activity last September when it was reported that Durham was seeking an indictment of Hillary Clinton campaign attorney Michael Sussman, who was apparently the source of that now-debunked hot tip that the Trump Organization had a secret communications channel with the Russian Alfa Bank.
+The investigation by special counsel John Durham hasn't been moving quickly by any means, but there was some activity last September when it was reported that Durham was seeking an indictment of Hillary Clinton campaign attorney Michael Sussman, who was apparently the source of that now-debunked hot tip that the Trump Organization had a secret communications channel with the Russian Alfa Bank.
 
-Durham has a new court filing in the United States’ case against Sussman, and people are zooming in on an allegation that “Tech Executive-1” had tasked researchers affiliated with a U.S. university to mine Internet data to establish “an inference” and “narrative” tying then-candidate Trump to Russia.
+Durham has a new court filing in the United States' case against Sussman, and people are zooming in on an allegation that "Tech Executive-1" had tasked researchers affiliated with a U.S. university to mine Internet data to establish "an inference" and "narrative" tying then-candidate Trump to Russia.
 
 […]
 

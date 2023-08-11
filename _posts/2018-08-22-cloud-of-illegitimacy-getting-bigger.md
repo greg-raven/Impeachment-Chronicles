@@ -5,7 +5,7 @@ author:
 - Hakeem Jeffries
 ---
 
-> There is clearly a cloud of illegitimacy hanging over 1600 Pennsylvania Avenue that’s growing bigger by the day.
+> There is clearly a cloud of illegitimacy hanging over 1600 Pennsylvania Avenue that's growing bigger by the day.
 >
 > <cite>Hakeem Jeffries</cite>
 

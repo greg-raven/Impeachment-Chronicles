@@ -6,12 +6,12 @@ author:
 - Steve Cortes
 ---
 
-> Tonight, “Moderator” Chris Wallace allowed Joe Biden to repeat the Charlottesville “Very Fine People” Lie unchallenged.
+> Tonight, "Moderator" Chris Wallace allowed Joe Biden to repeat the Charlottesville "Very Fine People" Lie unchallenged.
 >
 > <cite>Benny Johnson, via Twitter</cite>
 
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tonight, “Moderator” Chris Wallace allowed Joe Biden to repeat the Charlottesville “Very Fine People” Lie unchallenged.<br><br>Journalistic Malpractice <a href="https://t.co/0gWZl4a9fH">pic.twitter.com/0gWZl4a9fH</a></p>&mdash; Benny Johnson (@bennyjohnson) <a href="https://twitter.com/bennyjohnson/status/1311157959561486337?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tonight, "Moderator" Chris Wallace allowed Joe Biden to repeat the Charlottesville "Very Fine People" Lie unchallenged.<br><br>Journalistic Malpractice <a href="https://t.co/0gWZl4a9fH">pic.twitter.com/0gWZl4a9fH</a></p>&mdash; Benny Johnson (@bennyjohnson) <a href="https://twitter.com/bennyjohnson/status/1311157959561486337?ref_src=twsrc%5Etfw">September 30, 2020</a></blockquote>
 
 > An abject lie from Joe Biden, spreading the #FinePeopleHoax.
 >

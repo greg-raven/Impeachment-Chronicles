@@ -1,5 +1,5 @@
 ---
-title: '‘Probably beyond Watergate’'
+title: ''Probably beyond Watergate''
 layout: post
 author:
 - Adam Schiff

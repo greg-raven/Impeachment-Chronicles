@@ -9,13 +9,13 @@ author:
 
 Rough transcript:
 
-Mr. Speaker, I take my duties as Wyoming’s lone congressional representative very seriously, and my obligation to be honest and trustworthy is the foundation of my ability to carry them out.
+Mr. Speaker, I take my duties as Wyoming's lone congressional representative very seriously, and my obligation to be honest and trustworthy is the foundation of my ability to carry them out.
 
-This privileged resolution isn’t about politics, it is about the seriousness of being honest and forthright as a member of Congress and upholding the oath of office that we all take upon being sworn in. It is true that the gentleman from California [Adam Schiff] wouldn’t be the first member of Congress to exaggerate or stretch the truth, but willfully lying about serious issues our country has faced is something entirely different, and claiming that a sitting president has committed what amounts to treason is beyond simple hyperbole.
+This privileged resolution isn't about politics, it is about the seriousness of being honest and forthright as a member of Congress and upholding the oath of office that we all take upon being sworn in. It is true that the gentleman from California [Adam Schiff] wouldn't be the first member of Congress to exaggerate or stretch the truth, but willfully lying about serious issues our country has faced is something entirely different, and claiming that a sitting president has committed what amounts to treason is beyond simple hyperbole.
 
-This member’s lies led to the wasting of millions of taxpayer dollars for unnecessary investigations and the deflection of our attention from the most pressing issues at hand to focus on a made-up crisis.
+This member's lies led to the wasting of millions of taxpayer dollars for unnecessary investigations and the deflection of our attention from the most pressing issues at hand to focus on a made-up crisis.
 
-This member’s actions were designed to delegitimize the 2016 election and to hamstring the Trump administration. For all the talk about not accepting at the election results in 2020, perhaps Democrats and the media — which are mostly one in the same — might want to look at their actions in 2016.
+This member's actions were designed to delegitimize the 2016 election and to hamstring the Trump administration. For all the talk about not accepting at the election results in 2020, perhaps Democrats and the media — which are mostly one in the same — might want to look at their actions in 2016.
 
 To make matters worse, this representative perpetuated these lies while he was chair of the house Intel committee and consistently implied — if not outright stated — that he had inside information. In that capacity, he lied about:
 
@@ -27,9 +27,9 @@ To make matters worse, this representative perpetuated these lies while he was c
 
 - What was collected via the FISA warrant.
 
-- The FBI’s vetting process for the [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}).
+- The FBI's vetting process for the [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}).
 
-- That he had an alleged “smoking gun” showing that President Trump colluded with with Russia.
+- That he had an alleged "smoking gun" showing that President Trump colluded with with Russia.
 
 And yet, each of these claims has proven to be false.
 

@@ -19,19 +19,19 @@ But if Trump were impeached immediately after he took office, the Republican can
 
 **Yes, We Can**
 
-There is nothing impossible about this strategy. That Republican leaders are strongly at odds with their party’s candidate is no secret. If enough of them are willing to cross the aisle and join forces with their Democratic colleagues, impeachment is a perfectly plausible outcome.
+There is nothing impossible about this strategy. That Republican leaders are strongly at odds with their party's candidate is no secret. If enough of them are willing to cross the aisle and join forces with their Democratic colleagues, impeachment is a perfectly plausible outcome.
 
-Of course, impeachment requires a charge. The president must be guilty of “high crimes and misdemeanors.” But the phrase is understood to be quite broad in its application, and ultimately Congress is in practice the final judge of its meaning. If Trump is half as corrupt as we have been told, surely some charge could be made to stick—especially if the recent allegations of sexual assault prove to be more than empty propaganda.
+Of course, impeachment requires a charge. The president must be guilty of "high crimes and misdemeanors." But the phrase is understood to be quite broad in its application, and ultimately Congress is in practice the final judge of its meaning. If Trump is half as corrupt as we have been told, surely some charge could be made to stick—especially if the recent allegations of sexual assault prove to be more than empty propaganda.
 
 An additional benefit is that impeachment allows not only for removal from office, but for disqualification from future office-holding. There need be no repeat of the 2016 debacle.
 
-Elect-and-Impeach offers conservatives precisely what they want: A solid conservative president far better than either of the two major-party candidates. He’s far better, for that matter, than either of the two leading third-party candidates who have attracted attention as magnets for protest votes. But it requires two things.
+Elect-and-Impeach offers conservatives precisely what they want: A solid conservative president far better than either of the two major-party candidates. He's far better, for that matter, than either of the two leading third-party candidates who have attracted attention as magnets for protest votes. But it requires two things.
 
 **What It Would Take from Us**
 
 First, it requires backbone from Republican leadership. Republican congressmen and senators must pledge to take on the unsavory job of impeaching their own candidate the moment he becomes president. As this is by far the least-bad option that Republican leaders have, they should be willing to step up to the plate.
 
-Second, it requires Republican voters who have abandoned the GOP in protest of Trump’s candidacy to return. The Never Trump movement has claimed thousands of Republican stalwarts, potentially enough to determine the election. Those voters will have to return, if Elect-and-Impeach is to work. Put a mark by Trump’s name on the ballot, knowing it is not really him you are voting for. Vote the party ticket. Then lobby your senator and congressman to do their part, and remove Trump from the head of it.
+Second, it requires Republican voters who have abandoned the GOP in protest of Trump's candidacy to return. The Never Trump movement has claimed thousands of Republican stalwarts, potentially enough to determine the election. Those voters will have to return, if Elect-and-Impeach is to work. Put a mark by Trump's name on the ballot, knowing it is not really him you are voting for. Vote the party ticket. Then lobby your senator and congressman to do their part, and remove Trump from the head of it.
 
 There is a potential for dawn after the dark night of the 2016 electoral season. There is a very real possible future in which Pence is the president of the United States, in which the country is in safe, responsible, conservative hands. It would also be one in which the Supreme Court is saved from the lawless ruffians who want to rewrite the Constitution as they see fit.
 

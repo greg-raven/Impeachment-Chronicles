@@ -5,7 +5,7 @@ author:
 - Hakeem Jeffries
 ---
 
-> Well, the overall majority of Democrats that I work with understand that there is a cloud of illegitimacy that’s hanging over the White House as a result of the possibility that there was improper or illegal collusion between the Trump campaign and Russia
+> Well, the overall majority of Democrats that I work with understand that there is a cloud of illegitimacy that's hanging over the White House as a result of the possibility that there was improper or illegal collusion between the Trump campaign and Russia
 >
 > <cite>Hakeem Jeffries</cite>
 

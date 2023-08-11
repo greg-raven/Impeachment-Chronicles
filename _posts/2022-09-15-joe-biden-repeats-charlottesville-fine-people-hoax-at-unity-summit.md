@@ -1,11 +1,11 @@
 ---
-title: 'Joe Biden repeats Charlottesville ‘fine people hoax’ at ‘Unity Summit’'
+title: 'Joe Biden repeats Charlottesville 'fine people hoax' at 'Unity Summit''
 layout: post
 author:
 - Joel B. Pollack
 ---
 
-President Joe Biden repeated the Charlottesville “fine people hoax” on Thursday at his “unity summit,” falsely claiming that then-President Donald Trump referred to neo-Nazis as “very fine people. Trump said they should be “condemned totally.”
+President Joe Biden repeated the Charlottesville "fine people hoax" on Thursday at his "unity summit," falsely claiming that then-President Donald Trump referred to neo-Nazis as "very fine people. Trump said they should be "condemned totally."
 
 […]
 

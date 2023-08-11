@@ -1,5 +1,5 @@
 ---
-title: 'Democrats grind Senate’s work to a halt over Comey firing'
+title: 'Democrats grind Senate's work to a halt over Comey firing'
 layout: post
 author:
 - Paul Krugman

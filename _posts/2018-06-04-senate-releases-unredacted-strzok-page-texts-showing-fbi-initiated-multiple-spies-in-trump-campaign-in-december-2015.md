@@ -19,9 +19,9 @@ As we reported previously, according to far left Politico, Comey stated in March
 
 But Comey appears to have lied about this.
 
-A text message released today by the US Senate showed words that were redacted when the FBI released the same texts long ago. The texts show evidence of collusion and wrongdoing by Obama’s FBI.
+A text message released today by the US Senate showed words that were redacted when the FBI released the same texts long ago. The texts show evidence of collusion and wrongdoing by Obama's FBI.
 
-> I’d call this evidence of collusion and wrongdoing… https://t.co/CcTrao5bZE
+> I'd call this evidence of collusion and wrongdoing… https://t.co/CcTrao5bZE
 >
 > <cite>Tony Shaffer (@T\_S\_P\_O\_O\_K\_Y) June 4, 2018</cite>
 
@@ -29,7 +29,7 @@ The texts released today from corrupt FBI investigator Peter Strzok to corrupt F
 
 > 1\) BOMBSHELL- From DECEMBER 2015–The word LURES is redacted by FBI but not OIG
 >
-> “OCONUS LURES”
+> "OCONUS LURES"
 >
 > OCONUS= Outside Contiguous US
 >
@@ -41,7 +41,7 @@ The texts released today from corrupt FBI investigator Peter Strzok to corrupt F
 
 This is only the first day of the 500 pages of documents being released by the US Senate.
 
-Give this a few more days. God only knows what’s here and what tomorrow’s Senate Hearing with corrupt Obama FBI agent Bill Preistap will reveal.
+Give this a few more days. God only knows what's here and what tomorrow's Senate Hearing with corrupt Obama FBI agent Bill Preistap will reveal.
 
 Source: Joe Hoft, thegatewaypundit.com/2018/06/breaking-senate-releases-unredacted-strzok-page-texts-showing-fbi-initiated-multiple-spies-in-trump-campaign-in-december-2015/
 

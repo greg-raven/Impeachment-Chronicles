@@ -11,4 +11,4 @@ author:
 
 ![Rob Reiner being frightened](/assets/2022-10-20-CasuallyGreg.jpg "Rob Reiner being frightened")
 
-[See Rob Reiner’s post here]({% post_url 2021-08-06-self-rule-will-be-over %}).
+[See Rob Reiner's post here]({% post_url 2021-08-06-self-rule-will-be-over %}).

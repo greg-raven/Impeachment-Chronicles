@@ -5,7 +5,7 @@ author:
 - Al Green
 ---
 
-> “The genesis of impeachment, to be very candid with you, was when the president was running for office …”
+> "The genesis of impeachment, to be very candid with you, was when the president was running for office …"
 >
 > <cite>Representative Al Green (TX)</cite>
 

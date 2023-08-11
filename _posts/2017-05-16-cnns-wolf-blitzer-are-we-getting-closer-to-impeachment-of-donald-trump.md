@@ -1,5 +1,5 @@
 ---
-title: 'CNN’s Wolf Blitzer: ‘Are we getting closer’ to impeachment of Donald Trump?'
+title: 'CNN's Wolf Blitzer: 'Are we getting closer' to impeachment of Donald Trump?'
 layout: post
 author:
 - Ian Schwartz
@@ -9,8 +9,8 @@ CNN host Wolf Blitzer brought up the possibility of impeaching President Trump i
 
 The White House denies the report.
 
-“If these allegations, Senator, are true are we getting closer and closer to the possibility of yet another impeachment process?” Blitzer asked.
+"If these allegations, Senator, are true are we getting closer and closer to the possibility of yet another impeachment process?" Blitzer asked.
 
-“Reluctantly, Wolf, I have to say yes simply because obstruction of justice is such a serious offense,” King responded.
+"Reluctantly, Wolf, I have to say yes simply because obstruction of justice is such a serious offense," King responded.
 
 Source: Ian Schwartz, realclearpolitics.com/video/2017/05/16/cnn\_wolf\_blitzer\_are\_we\_moving\_toward\_impeachment\_of\_trump.html

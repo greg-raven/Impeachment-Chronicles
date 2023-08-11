@@ -1,17 +1,17 @@
 ---
-title: 'Trump would be ‘impeached’ for his China tariff, Chamber’s Donohue says'
+title: 'Trump would be 'impeached' for his China tariff, Chamber's Donohue says'
 layout: post
 author:
 - Bloomberg News
 ---
 
-- U.S. Chamber‘s Donohue uses a bit of hyperbole to make his point: It‘s American consumers and businesses that would pay the price.
+- U.S. Chamber's Donohue uses a bit of hyperbole to make his point: It's American consumers and businesses that would pay the price.
 
-Donald Trump’s proposed 45% tariff on Chinese exports to the United States would be such a blow to U.S. consumers and businesses that “they’d probably impeach [him] when they figured out what that really meant,” the CEO of the U.S. Chamber of Commerce said Friday morning.
+Donald Trump's proposed 45% tariff on Chinese exports to the United States would be such a blow to U.S. consumers and businesses that "they'd probably impeach [him] when they figured out what that really meant," the CEO of the U.S. Chamber of Commerce said Friday morning.
 
-Speaking with Bloomberg TV’s David Westin and calling it an overstatement to make a point, the Chamber’s Tom Donohue said it was “the citizens that go to WalMart and Target, and go to their stores, and people that buy components” who would pay for the policy.
+Speaking with Bloomberg TV's David Westin and calling it an overstatement to make a point, the Chamber's Tom Donohue said it was "the citizens that go to WalMart and Target, and go to their stores, and people that buy components" who would pay for the policy.
 
-Trump, the leading candidate for the Republican Party’s presidential nomination, has hammered at the U.S. trade deficit with China and vowed to “make lots of great deals for the American people.”
+Trump, the leading candidate for the Republican Party's presidential nomination, has hammered at the U.S. trade deficit with China and vowed to "make lots of great deals for the American people."
 
 […]
 

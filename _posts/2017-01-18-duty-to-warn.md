@@ -11,9 +11,9 @@ Duty To Warn is an association of mental health professionals who believe it is 
 
 **The Professionals Behind the Movement**
 
-Clinical psychologist, John Gartner, PhD, is the main organizer of the movement. He is joined by mental health professionals from various field including, but not limited to, psychiatry, psychology, medicine, public health, public policy, and social work; in every field, professionals have been voicing their concern about the president’s instability.
+Clinical psychologist, John Gartner, PhD, is the main organizer of the movement. He is joined by mental health professionals from various field including, but not limited to, psychiatry, psychology, medicine, public health, public policy, and social work; in every field, professionals have been voicing their concern about the president's instability.
 
-Dr. Bandy X. Lee, a Yale psychiatry professor, organized the meeting that started it all. “The Goldwater Rule is not absolute. We have a ‘Duty to Warn,’ about a leader who is dangerous to the health and security of our patients.” She has formed a coalition by that name, and it now comprises almost 800 mental-health professionals who are “sufficiently alarmed that they feel the need to speak up about the mental-health status of the president.”
+Dr. Bandy X. Lee, a Yale psychiatry professor, organized the meeting that started it all. "The Goldwater Rule is not absolute. We have a 'Duty to Warn,' about a leader who is dangerous to the health and security of our patients." She has formed a coalition by that name, and it now comprises almost 800 mental-health professionals who are "sufficiently alarmed that they feel the need to speak up about the mental-health status of the president."
 
 **We Are Mandated Reporters**
 

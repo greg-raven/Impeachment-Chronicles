@@ -1,5 +1,5 @@
 ---
-title: 'While in Brussels, Joe Biden attacks Donald Trump by repeating the ‘very fine people’ lie, saying that was the moment he decided to run for president.'
+title: 'While in Brussels, Joe Biden attacks Donald Trump by repeating the 'very fine people' lie, saying that was the moment he decided to run for president.'
 layout: post
 author:
 - Townhall.com

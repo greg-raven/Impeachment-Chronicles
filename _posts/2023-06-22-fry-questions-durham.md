@@ -10,21 +10,21 @@ author:
 
 Rough transcript:
 
-**Rep. Russell Fry (R-SC):** We are here today to provide transparency, finally, to the American people. Seven years ago, the FBI launched Crossfire Hurricane the left’s brazen attempt to keep Donald Trump out of the White House. This federal investigation, funded by the Hillary Clinton campaign, caused Americans to believe that then-candidate Trump was colluding with Russia in order to win the 2016 presidential election. Mr. Durham has spent four years investigating this. 480 witnesses, 6 million pages of documents, 190 subpoenas, and executing seven search warrants. Less than a month ago he completed this report that it instigated the baseless investigation and launched a partisan attack on President Trump despite having no true justification to do this. That was the FBI. Within three days of receiving the information from a diplomat in Australia the FBI opened a full-fledged investigation into the Trump campaign. So Mr. Durham let’s get into this. The FBI opened up Crossfire Hurricane without speaking to the people who provided the initial information is that true?
+**Rep. Russell Fry (R-SC):** We are here today to provide transparency, finally, to the American people. Seven years ago, the FBI launched Crossfire Hurricane the left's brazen attempt to keep Donald Trump out of the White House. This federal investigation, funded by the Hillary Clinton campaign, caused Americans to believe that then-candidate Trump was colluding with Russia in order to win the 2016 presidential election. Mr. Durham has spent four years investigating this. 480 witnesses, 6 million pages of documents, 190 subpoenas, and executing seven search warrants. Less than a month ago he completed this report that it instigated the baseless investigation and launched a partisan attack on President Trump despite having no true justification to do this. That was the FBI. Within three days of receiving the information from a diplomat in Australia the FBI opened a full-fledged investigation into the Trump campaign. So Mr. Durham let's get into this. The FBI opened up Crossfire Hurricane without speaking to the people who provided the initial information is that true?
 
-**Special Counsel John Durham:** That’s correct.
+**Special Counsel John Durham:** That's correct.
 
 **Russell Fry:** The FBI opened Crossfire Hurricane on a Sunday, only three days after reviewing that information is that correct?
 
-**John Durham:** That’s correct.
+**John Durham:** That's correct.
 
 **Russell Fry:** So, just think about that for a moment. An investigation — a full investigation — to a presidential campaign over a weekend. Mr. Durham, the FBI opened Crossfire Hurricane without interviewing any of the essential witnesses is that true?
 
-**John Durham:** That’s true.
+**John Durham:** That's true.
 
 **Russell Fry:** And the FBI also opened up Crossfire Hurricane without using any of the standard analytical tools typically employed to evaluate that evidence is that true?
 
-**John Durham:** That’s true.
+**John Durham:** That's true.
 
 **Russell Fry:** So think about that. The FBI never talked to the people who gave them the intelligence information, they never examined their own witnesses, they never interviewed the witnesses, they never corroborated the dossier. Mr. Durham, if the FBI had done these things, if they had done their homework, would it have found that its own Russian experts had no information about President Trump being involved with Russian leadership or Russian intelligence officials?
 
@@ -34,20 +34,20 @@ Rough transcript:
 
 **John Durham:** On July 31st and my view based on our investigation that was not a legitimate basis to open as a full investigation an assessment of something that had to be looked at gather information such as interviewing the people who provided the Papadopoulos information checking their own databases the databases of other intelligence agencies and the standard kinds of things that you would do in an investigation like this.
 
-**Russell Fry:** I think it’s safe to conclude based on that report and anyone who has read it that they did not have that adequate basis, as you talked about to to launch this investigation. Let’s move on to a second really troubling aspect of of your findings. From the report I gathered that key FBI leaders all the way at the top were predisposed to go after candidate Trump. This bias likely affected the conduct of FBI personnel in this investigation is that true
+**Russell Fry:** I think it's safe to conclude based on that report and anyone who has read it that they did not have that adequate basis, as you talked about to to launch this investigation. Let's move on to a second really troubling aspect of of your findings. From the report I gathered that key FBI leaders all the way at the top were predisposed to go after candidate Trump. This bias likely affected the conduct of FBI personnel in this investigation is that true
 
 **John Durham:** Yes.
 
 **Russell Fry:** Can you describe that for a moment how did confirmation bias play into this?
 
-**John Durham:** Confirmation bias has uh was alluded to has to do with our human tendency to um accept things that we already think are true and to reject anything else. in this instance there are any number of significant red flags that were raised that were simply ignored if there’s evidence that was inconsistent with the narrative um they didn’t pay attention to it they didn’t explore it they didn’t take the logical investigative steps that should have been taken
+**John Durham:** Confirmation bias has uh was alluded to has to do with our human tendency to um accept things that we already think are true and to reject anything else. in this instance there are any number of significant red flags that were raised that were simply ignored if there's evidence that was inconsistent with the narrative um they didn't pay attention to it they didn't explore it they didn't take the logical investigative steps that should have been taken
 
-**Russell Fry:** Let’s see how real this bias was FBI Deputy assistant director Peter Strzok drafted and approved the Crossfire Hurricane opening communication, is that correct?
+**Russell Fry:** Let's see how real this bias was FBI Deputy assistant director Peter Strzok drafted and approved the Crossfire Hurricane opening communication, is that correct?
 
-**John Durham:** That’s correct.
+**John Durham:** That's correct.
 
 **Russell Fry:** And in your investigation your office discovered text messages between Strzok and Lisa Page, who was a special assistant to the FBI director McCabe, expressing strong bias against candidate Trump.
 
-**John Durham:** That’s true.
+**John Durham:** That's true.
 
-**Russell Fry:** For the record let me read aloud — this was generated by staff — but this would what would look there like their text messages on August 18, 2016. Page texted Strzok, “Trump’s not going to become president, right? Right?!” And Strzok responded by saying, “No. No he’s not. We’ll stop it.” It’s clear that there was no evidence of Russia collusion with the Trump campaign in 2016. The American people deserve the truth, and I’m proud to serve on this committee to uncover these these lies that were perpetuated for far too long.
+**Russell Fry:** For the record let me read aloud — this was generated by staff — but this would what would look there like their text messages on August 18, 2016. Page texted Strzok, "Trump's not going to become president, right? Right?!" And Strzok responded by saying, "No. No he's not. We'll stop it." It's clear that there was no evidence of Russia collusion with the Trump campaign in 2016. The American people deserve the truth, and I'm proud to serve on this committee to uncover these these lies that were perpetuated for far too long.

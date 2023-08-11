@@ -1,11 +1,11 @@
 ---
-title: 'Pelosi: ‘I would want him to know that he is impeached forever.’'
+title: 'Pelosi: 'I would want him to know that he is impeached forever.''
 layout: post
 author:
 - Nancy Pelosi
 ---
 
-> “If I knew that he — if the president was listening — I would want him to know that he is impeached forever.”
+> "If I knew that he — if the president was listening — I would want him to know that he is impeached forever."
 >
 > <cite>Nancy Pelosi</cite>
 

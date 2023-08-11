@@ -63,7 +63,7 @@ BEGIN EMAIL
 
 Synopsis:
 
-(U/ /<del>FOUO</del>) Legat [Redacted] received information from the [Redacted] Deputy Chief of Mission related to the hacking of the Democratic National Committee’s website/server.
+(U/ /<del>FOUO</del>) Legat [Redacted] received information from the [Redacted] Deputy Chief of Mission related to the hacking of the Democratic National Committee's website/server.
 
 Details:
 
@@ -71,7 +71,7 @@ Details:
 
 (S/ [Redacted])
 
-[Redacted] advised that [Redacted] government had been seeking prominent members of the Donald Trump campaign in which to engage to prepare for potential post-election relations should Trump be elected U.S. President. One of the people identified was George Papadopolous (although public media sources provide a spelling of Papadopoulos), who was believed to be one of Donald Trump’s foreign policy advisers. Mr. Papdopoulos was located in [Redacted] so the [Redacted] met with him on several occasions, with [Redacted] attending at least one of the meetings.
+[Redacted] advised that [Redacted] government had been seeking prominent members of the Donald Trump campaign in which to engage to prepare for potential post-election relations should Trump be elected U.S. President. One of the people identified was George Papadopolous (although public media sources provide a spelling of Papadopoulos), who was believed to be one of Donald Trump's foreign policy advisers. Mr. Papdopoulos was located in [Redacted] so the [Redacted] met with him on several occasions, with [Redacted] attending at least one of the meetings.
 
 (S/ [Redacted])
 
@@ -81,7 +81,7 @@ Details:
 
 (S/ [Redacted])
 
-5\. Mr. Papadopolous [Redacted] also suggested the Trump team had received some kind of suggestion from Russia that it could assist this process with the anonymous release of information during the campaign that would be damaging to Mrs. Clinton (and President Obama). It was unclear whether he or the Russians were referring to material acquired publicly of through other means. It was also unclear how Mr. Trump’s team reacted to the offer. We note the Trump team’s reaction could, in the end, have little bearing of what Russia decides to do, with or without Mr. Trump’s cooperation.
+5\. Mr. Papadopolous [Redacted] also suggested the Trump team had received some kind of suggestion from Russia that it could assist this process with the anonymous release of information during the campaign that would be damaging to Mrs. Clinton (and President Obama). It was unclear whether he or the Russians were referring to material acquired publicly of through other means. It was also unclear how Mr. Trump's team reacted to the offer. We note the Trump team's reaction could, in the end, have little bearing of what Russia decides to do, with or without Mr. Trump's cooperation.
 
 (End Text)
 
@@ -89,7 +89,7 @@ Details:
 
 [Redacted]
 
-(s/ [Redacted] Legat requests that further action on this information should consider the sensitivity that this information was provided through informal diplomatic channels from [Redacted] to the U.S. Embassy’s DCM. It was clear from the conversation Legal [Redacted]
+(s/ [Redacted] Legat requests that further action on this information should consider the sensitivity that this information was provided through informal diplomatic channels from [Redacted] to the U.S. Embassy's DCM. It was clear from the conversation Legal [Redacted]
 had with DCM that [Redacted] knew follow-up by the U.S. government would be necessary, but extraordinary efforts should be made to protect the source of this information until such a time that a request from our organization can be made to [Redacted] to obtain this information through formal channels.
 
 END EMAIL

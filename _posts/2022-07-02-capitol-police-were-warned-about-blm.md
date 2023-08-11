@@ -17,9 +17,9 @@ Conservatives Are Looking For Ways To Boycott and Move Spending Away From Woke C
 
 Via investigative reporter Paul Sperry:
 
-> “BLM/Antif will wear MAGA hats, wear camo,and attempt to blend in with MAGA crowd” so violence blamed on Trump supporters attending Trump rally
+> "BLM/Antif will wear MAGA hats, wear camo,and attempt to blend in with MAGA crowd" so violence blamed on Trump supporters attending Trump rally
 >
-> BREAKING: Internal email reveals day before Jan 6 riot, US Capitol Police intel unit warned “BLM from Baltimore” was bussing in rioters: “BLM/Antif will wear MAGA hats, wear camo,and attempt to blend in with MAGA crowd” so violence blamed on Trump supporters attending Trump rally
+> BREAKING: Internal email reveals day before Jan 6 riot, US Capitol Police intel unit warned "BLM from Baltimore" was bussing in rioters: "BLM/Antif will wear MAGA hats, wear camo,and attempt to blend in with MAGA crowd" so violence blamed on Trump supporters attending Trump rally
 >
 > <cite>Paul Sperry (@PaulSperry30) July 1, 2022</cite>
 
@@ -35,9 +35,9 @@ Mr. Sund testified that according to intelligence gathered by law enforcement gr
 
 According to a former FBI agent on the ground at the US Capitol, at least one bus load of Antifa goons infiltrated the Trump rally as part of a false flag operation.
 
-Senator Ron Johnson (R-WI) on Tuesday entered into the record explosive testimony of eyewitness accounts from Michael Waller detailing how he saw “agents-provocateurs” at the Capitol.
+Senator Ron Johnson (R-WI) on Tuesday entered into the record explosive testimony of eyewitness accounts from Michael Waller detailing how he saw "agents-provocateurs" at the Capitol.
 
-> An eyewitness account that I read excerpts from in today’s hearing provides a different perspective on what, why and how things got out of control at the Capitol on Jan. 6 @jmichaelwaller @fdrlst https://t.co/hp0T2qT8nv
+> An eyewitness account that I read excerpts from in today's hearing provides a different perspective on what, why and how things got out of control at the Capitol on Jan. 6 @jmichaelwaller @fdrlst https://t.co/hp0T2qT8nv
 >
 > <cite>Senator Ron Johnson (@SenRonJohnson) February 23, 2021</cite>
 

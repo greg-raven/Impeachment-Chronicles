@@ -8,9 +8,9 @@ author:
 - Spencer S. Hsu
 ---
 
-- People familiar with the probe said investigators are examining the former president’s conversations and have seized phone records of top aides
+- People familiar with the probe said investigators are examining the former president's conversations and have seized phone records of top aides
 
-The Justice Department is investigating President Donald Trump’s actions as part of its criminal probe of efforts to overturn the 2020 election results, according to four people familiar with the matter.
+The Justice Department is investigating President Donald Trump's actions as part of its criminal probe of efforts to overturn the 2020 election results, according to four people familiar with the matter.
 
 Prosecutors who are questioning witnesses before a grand jury — including two top aides to Vice President Mike Pence — have asked in recent days about conversations with Trump, his lawyers, and others in his inner circle who sought to substitute Trump allies for certified electors from some states Joe Biden won, according to two people familiar with the matter. Both spoke on the condition of anonymity to discuss an ongoing investigation.
 

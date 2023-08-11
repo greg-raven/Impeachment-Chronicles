@@ -1,5 +1,5 @@
 ---
-title: 'Former acting Attorney General Yates acknowledges Comey ‘went rogue’ on Flynn interview'
+title: 'Former acting Attorney General Yates acknowledges Comey 'went rogue' on Flynn interview'
 layout: post
 author:
 - Joseph Weber
@@ -9,11 +9,11 @@ author:
 
 Former acting Attorney General Sally Yates told the Senate Judiciary Committee on Wednesday that the FBI acted without her authorization when interviewing incoming national security advisor Michael Flynn in January 2017.
 
-When asked during the Senate hearing whether then-FBI Director James Comey “went rogue,” Yates replied, “You could use that term, yes.”
+When asked during the Senate hearing whether then-FBI Director James Comey "went rogue," Yates replied, "You could use that term, yes."
 
-Yates is testify as part of the committee’s “Oversight of the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) Investigation,” which is focused on the FBI probe, under the Obama administration, into whether the 2016 Trump campaign colluded with Russia to influence the outcome of the race.
+Yates is testify as part of the committee's "Oversight of the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) Investigation," which is focused on the FBI probe, under the Obama administration, into whether the 2016 Trump campaign colluded with Russia to influence the outcome of the race.
 
-The Senate Judiciary Committee is investigating the origins of the investigation into Russia’s 2016 election interference and connections to the Trump campaign.
+The Senate Judiciary Committee is investigating the origins of the investigation into Russia's 2016 election interference and connections to the Trump campaign.
 
 The committee and the probe is being led by South Carolina GOP Sen. Lindsey Graham.
 

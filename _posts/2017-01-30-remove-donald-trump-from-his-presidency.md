@@ -5,11 +5,11 @@ author:
 - change.org
 ---
 
-Quoted from www.whitehouse.gov/america-first-energy: “President Trump is committed to eliminating harmful and unnecessary policies such as the Climate Action Plan and the Waters of the U.S. rule.”
+Quoted from www.whitehouse.gov/america-first-energy: "President Trump is committed to eliminating harmful and unnecessary policies such as the Climate Action Plan and the Waters of the U.S. rule."
 
 Donald Trump is planning to use $50 trillion worth of fossil fuels to power the United States.
 
-Currently a commonly accepted idea: Global Warming. How would this $50 trillion worth of fossil fuels affect global warming? Here’s a more precise number: $50,000,000,000,000 worth of fossil fuels. Fossil fuels are used as fuels to release heat, for example, using charcoal to heat up your barbecues. Fossil fuels work like charcoal, except on a much larger scale. Fossil fuels contain carbon atoms, that combine with oxygen, to form carbon dioxide or carbon monoxide, when there is not enough oxygen (which happens quite often).
+Currently a commonly accepted idea: Global Warming. How would this $50 trillion worth of fossil fuels affect global warming? Here's a more precise number: $50,000,000,000,000 worth of fossil fuels. Fossil fuels are used as fuels to release heat, for example, using charcoal to heat up your barbecues. Fossil fuels work like charcoal, except on a much larger scale. Fossil fuels contain carbon atoms, that combine with oxygen, to form carbon dioxide or carbon monoxide, when there is not enough oxygen (which happens quite often).
 
 For carbon dioxide, this gas acts as a greenhouse gas, which means it stores heat energy from the sun. What it mean for us is that, our temperatures would fluctuate much more. It could go from 45 degrees Celsius in the summer in the afternoon to 25 degrees Celsius in the night of summer and as cold as -25 degrees Celsius in the night during winters. These freak weather is not a joke, in fact, a recent similar freak weather occured in Europe (except on a smaller scale). Also, as the average temperature increases, more and more of the polar ice caps would melt. You can check out how much of the world would be flooded should even 10m of the sea rise at this URL: https://geology.com/sea-level-rise/ And that is just for carbon dioxide.
 

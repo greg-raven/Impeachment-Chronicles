@@ -15,7 +15,7 @@ The information in the drives that Sussmann presented to then-FBI general counse
 
 The revelation Wednesday about the flash drives was presented by prosecution team paralegal Kori Arsenault, who has examined billing and phone records in the case.
 
-Her testimony came on the final day of the prosecution’s case in a federal court in Washington, D.C. The trial started May 17 and is set to conclude Friday.
+Her testimony came on the final day of the prosecution's case in a federal court in Washington, D.C. The trial started May 17 and is set to conclude Friday.
 
 In a Perkins Coie expense report that Arsenault discussed in court, Sussmann billed the Clinton campaign for two thumb drives he bought at a Staples store on Sept. 13, 2016, six days before his meeting with Baker.
 
@@ -25,12 +25,12 @@ The defense team also called witnesses Wednesday, including former FBI agent Tom
 
 Grasso also testified that Joffe gave him information about the now-debunked Trump-Russia plot, in addition to it having been channeled to the bureau through Sussmann.
 
-Joffe gave Grasso two IP addresses that he eventually passed along to the Chicago FBI office. Grasso said he knew that Joffe was a confidential human source at the time and had a handler, but he didn’t go through a so-called “hand-line” agent.
+Joffe gave Grasso two IP addresses that he eventually passed along to the Chicago FBI office. Grasso said he knew that Joffe was a confidential human source at the time and had a handler, but he didn't go through a so-called "hand-line" agent.
 
-According to Grasso, Joffe didn’t want his name revealed to the FBI because he feared for his personal safety regarding the allegations. Grasso also said that while he worked with Joffe multiple times before, it was usually regarding cybercrime and that it was unusual to work with him regarding counterintelligence.
+According to Grasso, Joffe didn't want his name revealed to the FBI because he feared for his personal safety regarding the allegations. Grasso also said that while he worked with Joffe multiple times before, it was usually regarding cybercrime and that it was unusual to work with him regarding counterintelligence.
 
 The defense will continue its case by bringing in character witnesses.
 
-Sussmann’s legal team had brought their first witness to the stand, former Clinton campaign lawyer Robby Mook, on Friday, out of turn, due to scheduling issues. On Wednesday, the defense also called former DOJ officials Tashina Gauhar and Mary McCord regarding notes they took during a March 2017 briefing of then-Acting Deputy Attorney General Dana Boente regarding, among other topics, the Alfa Bank allegation.
+Sussmann's legal team had brought their first witness to the stand, former Clinton campaign lawyer Robby Mook, on Friday, out of turn, due to scheduling issues. On Wednesday, the defense also called former DOJ officials Tashina Gauhar and Mary McCord regarding notes they took during a March 2017 briefing of then-Acting Deputy Attorney General Dana Boente regarding, among other topics, the Alfa Bank allegation.
 
 Source: Natalia Mittelstadt, justthenews.com/accountability/russia-and-ukraine-scandals/prosecution-wraps-eight-day-sussmann-trial-defense
