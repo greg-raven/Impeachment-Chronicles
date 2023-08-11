@@ -1,5 +1,5 @@
 ---
-title: 'Exploding criminal investigation'
+title: "Exploding criminal investigation"
 layout: post
 author:
 - Hakeem Jeffries

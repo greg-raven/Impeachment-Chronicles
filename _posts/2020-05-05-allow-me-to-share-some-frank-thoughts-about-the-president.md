@@ -1,5 +1,5 @@
 ---
-title: 'Allow me to share some frank thoughts about the 'president''
+title: "Allow me to share some frank thoughts about the 'president'"
 layout: post
 author:
 - Dana Milbank

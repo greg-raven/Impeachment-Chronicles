@@ -1,5 +1,5 @@
 ---
-title: 'Pelosi: 'It's not a question' of 'proof' it's about 'allegations''
+title: "Pelosi: 'It's not a question' of 'proof' it's about 'allegations'"
 layout: post
 author:
 - Nancy Pelosi

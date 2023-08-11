@@ -1,5 +1,5 @@
 ---
-title: 'Trump has disqualified himself from running in 2020'
+title: "Trump has disqualified himself from running in 2020"
 layout: post
 author:
 - Will Wilkinson

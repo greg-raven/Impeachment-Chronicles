@@ -1,5 +1,5 @@
 ---
-title: 'Pelosi: Democrats will move to impeach Trump'
+title: "Pelosi: Democrats will move to impeach Trump"
 layout: post
 author:
 - Scott Wong

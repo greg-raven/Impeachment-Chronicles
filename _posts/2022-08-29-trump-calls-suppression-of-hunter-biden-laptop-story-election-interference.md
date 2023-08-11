@@ -1,5 +1,5 @@
 ---
-title: 'Trump calls suppression of Hunter Biden laptop story 'election interference''
+title: "Trump calls suppression of Hunter Biden laptop story 'election interference'"
 layout: post
 author:
 - Joshua Young

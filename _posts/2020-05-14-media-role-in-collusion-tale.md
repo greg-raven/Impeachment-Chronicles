@@ -1,5 +1,5 @@
 ---
-title: 'Making of a myth: Timeline of media's role in selling 'Trump-Russia collusion' tale'
+title: "Making of a myth: Timeline of media's role in selling 'Trump-Russia collusion' tale"
 layout: post
 author:
 - Sharyl Attkisson

@@ -1,5 +1,5 @@
 ---
-title: 'Grand jury indictment of Michael A. Sussman'
+title: "Grand jury indictment of Michael A. Sussman"
 layout: post
 author:
 - John H. Durham

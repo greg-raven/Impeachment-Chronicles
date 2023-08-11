@@ -1,5 +1,5 @@
 ---
-title: 'Brad Sherman to introduce impeachment articles against Trump on first day of Democratic Congress'
+title: "Brad Sherman to introduce impeachment articles against Trump on first day of Democratic Congress"
 layout: post
 author:
 - Griffin Connolly

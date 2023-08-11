@@ -1,5 +1,5 @@
 ---
-title: ''This is about our democracy,' Schiff says of impeachment report'
+title: "'This is about our democracy,' Schiff says of impeachment report"
 layout: post
 author:
 - Adam Schiff

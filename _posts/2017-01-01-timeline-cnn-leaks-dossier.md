@@ -1,5 +1,5 @@
 ---
-title: 'Timeline: CNN leaks dossier'
+title: "Timeline: CNN leaks dossier"
 layout: post
 author:
 - Mollie Hemingway

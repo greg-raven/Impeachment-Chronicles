@@ -1,5 +1,5 @@
 ---
-title: 'Trump appears to be tampering with witnesses'
+title: "Trump appears to be tampering with witnesses"
 layout: post
 author:
 - Duty To Warn

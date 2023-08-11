@@ -1,5 +1,5 @@
 ---
-title: 'Trump is an illegitimate president whose election is tainted by fraud'
+title: "Trump is an illegitimate president whose election is tainted by fraud"
 layout: post
 author:
 - Max Boot

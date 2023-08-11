@@ -1,5 +1,5 @@
 ---
-title: 'It was a coup attempt'
+title: "It was a coup attempt"
 layout: post
 author:
 - Ruben Garcia

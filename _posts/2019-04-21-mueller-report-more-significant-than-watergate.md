@@ -1,5 +1,5 @@
 ---
-title: 'Mueller report more significant than Watergate 'in every way''
+title: "Mueller report more significant than Watergate 'in every way'"
 layout: post
 author:
 - Adam Schiff

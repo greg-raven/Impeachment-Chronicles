@@ -1,5 +1,5 @@
 ---
-title: 'House Foreign Affairs Committee Democrats support impeaching Trump'
+title: "House Foreign Affairs Committee Democrats support impeaching Trump"
 layout: post
 author:
 - Laura Kelly

@@ -1,5 +1,5 @@
 ---
-title: 'Schumer warns Trump: Intel officials 'have six ways from Sunday at getting back at you''
+title: "Schumer warns Trump: Intel officials 'have six ways from Sunday at getting back at you'"
 layout: post
 author:
 - Daniel Chaitin

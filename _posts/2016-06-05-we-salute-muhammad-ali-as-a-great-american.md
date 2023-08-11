@@ -1,5 +1,5 @@
 ---
-title: 'We salute Muhammad Ali as a great American'
+title: "We salute Muhammad Ali as a great American"
 layout: post
 author:
 - Steve Dettelbach

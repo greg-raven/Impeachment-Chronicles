@@ -1,5 +1,5 @@
 ---
-title: 'AG Barr on Spygate probe: 'One of the greatest travesties in American history' was committed against Donald Trump'
+title: "AG Barr on Spygate probe: 'One of the greatest travesties in American history' was committed against Donald Trump"
 layout: post
 author:
 - Jon Dougherty

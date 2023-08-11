@@ -1,5 +1,5 @@
 ---
-title: 'Putin must be asking: Where's Trump when I need him?'
+title: "Putin must be asking: Where's Trump when I need him?"
 layout: post
 author:
 - Eugene Robinson

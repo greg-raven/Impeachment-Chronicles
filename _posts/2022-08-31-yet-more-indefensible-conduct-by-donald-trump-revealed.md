@@ -1,5 +1,5 @@
 ---
-title: 'Yet more indefensible conduct by Donald Trump'
+title: "Yet more indefensible conduct by Donald Trump"
 layout: post
 author:
 - Liz Cheney

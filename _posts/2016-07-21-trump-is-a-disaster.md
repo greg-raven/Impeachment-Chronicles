@@ -1,5 +1,5 @@
 ---
-title: 'Text: Wow, Donald Trump is an enormous d*uche'
+title: "Text: Wow, Donald Trump is an enormous d*uche"
 layout: post
 author:
 - Peter Strzok

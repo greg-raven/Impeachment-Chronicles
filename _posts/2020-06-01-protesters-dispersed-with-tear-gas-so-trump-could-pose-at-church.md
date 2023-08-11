@@ -1,5 +1,5 @@
 ---
-title: 'Protesters dispersed with tear gas so Trump could pose at church'
+title: "Protesters dispersed with tear gas so Trump could pose at church"
 layout: post
 author:
 - Katie Rogers

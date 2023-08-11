@@ -1,5 +1,5 @@
 ---
-title: 'They'll never stop going after Trump'
+title: "They'll never stop going after Trump"
 layout: post
 author:
 - Jim Jordan

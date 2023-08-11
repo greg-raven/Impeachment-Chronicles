@@ -1,5 +1,5 @@
 ---
-title: 'Trump is setting up the country for World War III'
+title: "Trump is setting up the country for World War III"
 layout: post
 author:
 - Jacqueline Thomsen

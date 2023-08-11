@@ -1,5 +1,5 @@
 ---
-title: 'The 25th Amendment loophole Democrats could use against Trump'
+title: "The 25th Amendment loophole Democrats could use against Trump"
 layout: post
 author:
 - Abigail Tracy

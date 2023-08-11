@@ -1,5 +1,5 @@
 ---
-title: 'MSNBC host pushes 3 debunked claims about Trump in single segment'
+title: "MSNBC host pushes 3 debunked claims about Trump in single segment"
 layout: post
 author:
 - Jay Greenburg

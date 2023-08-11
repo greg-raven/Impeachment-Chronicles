@@ -1,5 +1,5 @@
 ---
-title: ''Crossfire Hurricane Cleanup Raid': Fury over report on FBI unit that ran Mar-a-Lago probe'
+title: "'Crossfire Hurricane Cleanup Raid': Fury over report on FBI unit that ran Mar-a-Lago probe"
 layout: post
 author:
 - Melissa Fine

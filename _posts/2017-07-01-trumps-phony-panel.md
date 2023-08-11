@@ -1,5 +1,5 @@
 ---
-title: 'Trump's phony Voter Fraud Panel'
+title: "Trump's phony Voter Fraud Panel"
 layout: post
 author:
 - Hakeem Jeffries

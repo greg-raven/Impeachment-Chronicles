@@ -1,5 +1,5 @@
 ---
-title: 'U.S. intel officials probe ties between Trump adviser and Kremlin'
+title: "U.S. intel officials probe ties between Trump adviser and Kremlin"
 layout: post
 author:
 - Michael Isikoff

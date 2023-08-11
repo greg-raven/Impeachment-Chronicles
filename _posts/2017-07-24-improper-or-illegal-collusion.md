@@ -1,5 +1,5 @@
 ---
-title: 'Improper or illegal collusion'
+title: "Improper or illegal collusion"
 layout: post
 author:
 - Hakeem Jeffries

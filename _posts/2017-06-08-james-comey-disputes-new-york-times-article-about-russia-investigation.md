@@ -1,5 +1,5 @@
 ---
-title: 'James Comey disputes New York Times article about Russia investigation'
+title: "James Comey disputes New York Times article about Russia investigation"
 layout: post
 author:
 - Michael S. Schmidt

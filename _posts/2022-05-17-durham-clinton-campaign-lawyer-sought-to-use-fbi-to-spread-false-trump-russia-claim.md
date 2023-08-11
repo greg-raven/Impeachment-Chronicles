@@ -1,5 +1,5 @@
 ---
-title: 'Durham: Clinton campaign lawyer sought to 'use FBI' to spread false 'Trump-Russia' claim'
+title: "Durham: Clinton campaign lawyer sought to 'use FBI' to spread false 'Trump-Russia' claim"
 layout: post
 author:
 - Jon Dougherty

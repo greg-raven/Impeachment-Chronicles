@@ -1,5 +1,5 @@
 ---
-title: 'He dreamed of being a police officer, then was killed by a pro-Trump mob'
+title: "He dreamed of being a police officer, then was killed by a pro-Trump mob"
 layout: post
 author:
 - Zolan Kanno-Youngs

@@ -1,5 +1,5 @@
 ---
-title: 'The Case for Impeachment'
+title: "The Case for Impeachment"
 layout: post
 author:
 - wikipedia.org

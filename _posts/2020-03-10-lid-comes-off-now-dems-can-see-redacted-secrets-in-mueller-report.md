@@ -1,5 +1,5 @@
 ---
-title: 'Lid comes off! Now Dems can see redacted secrets in Mueller report'
+title: "Lid comes off! Now Dems can see redacted secrets in Mueller report"
 layout: post
 author:
 - WND Staff

@@ -1,5 +1,5 @@
 ---
-title: 'Text: You get all our OCONUS lures approved?'
+title: "Text: You get all our OCONUS lures approved?"
 layout: post
 author:
 - Peter Strzok

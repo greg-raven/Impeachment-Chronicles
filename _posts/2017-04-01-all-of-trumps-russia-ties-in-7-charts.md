@@ -1,5 +1,5 @@
 ---
-title: 'All of Trump's Russia ties, in 7 charts'
+title: "All of Trump's Russia ties, in 7 charts"
 layout: post
 author:
 - Michael Crowley

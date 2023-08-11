@@ -1,5 +1,5 @@
 ---
-title: 'The racism at the heart of Trump's 'travel ban''
+title: "The racism at the heart of Trump's 'travel ban'"
 layout: post
 author:
 - Jamelle Bouie

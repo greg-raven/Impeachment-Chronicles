@@ -1,5 +1,5 @@
 ---
-title: 'Rep. Schiff: 'Circumstantial Evidence of Collusion' Between Trump Campaign, Russia'
+title: "Rep. Schiff: 'Circumstantial Evidence of Collusion' Between Trump Campaign, Russia"
 layout: post
 author:
 - Kailani Koenig

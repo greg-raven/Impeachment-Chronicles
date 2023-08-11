@@ -1,5 +1,5 @@
 ---
-title: 'Computer scientists have apparently uncovered a covert server linking the Trump Organization to a Russian-based bank.'
+title: "Computer scientists have apparently uncovered a covert server linking the Trump Organization to a Russian-based bank."
 layout: post
 author:
 - Hillary Clinton

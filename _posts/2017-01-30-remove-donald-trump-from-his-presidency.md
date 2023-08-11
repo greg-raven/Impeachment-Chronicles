@@ -1,5 +1,5 @@
 ---
-title: 'Remove Donald Trump from his presidency'
+title: "Remove Donald Trump from his presidency"
 layout: post
 author:
 - change.org

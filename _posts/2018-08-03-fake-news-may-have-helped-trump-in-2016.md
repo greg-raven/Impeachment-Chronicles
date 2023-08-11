@@ -1,5 +1,5 @@
 ---
-title: 'A new study suggests fake news might have won Donald Trump the 2016 election'
+title: "A new study suggests fake news might have won Donald Trump the 2016 election"
 layout: post
 author:
 - Aaron Blake

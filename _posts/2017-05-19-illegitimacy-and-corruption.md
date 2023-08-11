@@ -1,5 +1,5 @@
 ---
-title: 'Illegitimacy and corruption'
+title: "Illegitimacy and corruption"
 layout: post
 author:
 - Hakeem Jeffries

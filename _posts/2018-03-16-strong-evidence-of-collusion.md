@@ -1,5 +1,5 @@
 ---
-title: ''Strong evidence' of 'clear' Russian collusion'
+title: "'Strong evidence' of 'clear' Russian collusion"
 layout: post
 author:
 - Eric Swalwell

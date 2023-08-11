@@ -1,5 +1,5 @@
 ---
-title: 'Trump's organized crime family'
+title: "Trump's organized crime family"
 layout: post
 author:
 - Hakeem Jeffries

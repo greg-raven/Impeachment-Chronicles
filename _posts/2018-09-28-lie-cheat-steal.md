@@ -1,5 +1,5 @@
 ---
-title: 'Lie, cheat, steal'
+title: "Lie, cheat, steal"
 layout: post
 author:
 - Hakeem Jeffries

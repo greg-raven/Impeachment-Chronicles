@@ -1,5 +1,5 @@
 ---
-title: 'Russia released docs to help Trump'
+title: "Russia released docs to help Trump"
 layout: post
 author:
 - Hakeem Jeffries

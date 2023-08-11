@@ -1,5 +1,5 @@
 ---
-title: 'Fact Check: Joe Biden repeats the Charlottesville 'Very Fine People Hoax'; Lester Holt does not correct'
+title: "Fact Check: Joe Biden repeats the Charlottesville 'Very Fine People Hoax'; Lester Holt does not correct"
 layout: post
 author:
 - Joel B. Pollack

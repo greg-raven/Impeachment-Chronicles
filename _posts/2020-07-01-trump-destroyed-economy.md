@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump destroyed the economy'
+title: "Donald Trump destroyed the economy"
 layout: post
 author:
 - Ryan Cooper

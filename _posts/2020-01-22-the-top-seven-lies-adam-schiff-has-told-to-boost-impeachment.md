@@ -1,5 +1,5 @@
 ---
-title: 'The top seven lies Adam Schiff has told to boost impeachment'
+title: "The top seven lies Adam Schiff has told to boost impeachment"
 layout: post
 author:
 - Matt Margolis

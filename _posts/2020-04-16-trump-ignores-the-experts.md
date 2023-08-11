@@ -1,5 +1,5 @@
 ---
-title: 'Trump ignores the experts'
+title: "Trump ignores the experts"
 layout: post
 author:
 - Adam Schiff

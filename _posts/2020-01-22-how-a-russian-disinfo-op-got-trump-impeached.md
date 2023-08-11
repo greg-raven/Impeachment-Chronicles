@@ -1,5 +1,5 @@
 ---
-title: 'How a Russian disinfo op got Trump impeached'
+title: "How a Russian disinfo op got Trump impeached"
 layout: post
 author:
 - Natasha Bertrand

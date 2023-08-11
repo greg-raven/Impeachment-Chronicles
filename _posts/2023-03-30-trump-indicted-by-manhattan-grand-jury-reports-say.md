@@ -1,5 +1,5 @@
 ---
-title: 'Trump indicted by Manhattan Grand Jury, reports say'
+title: "Trump indicted by Manhattan Grand Jury, reports say"
 layout: post
 author:
 - Nicholas Reimann

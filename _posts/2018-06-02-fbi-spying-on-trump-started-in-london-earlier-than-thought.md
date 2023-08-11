@@ -1,5 +1,5 @@
 ---
-title: 'FBI spying on Trump started in London, earlier than thought: New texts implicate Obama White House'
+title: "FBI spying on Trump started in London, earlier than thought: New texts implicate Obama White House"
 layout: post
 author:
 - Tyler Durden

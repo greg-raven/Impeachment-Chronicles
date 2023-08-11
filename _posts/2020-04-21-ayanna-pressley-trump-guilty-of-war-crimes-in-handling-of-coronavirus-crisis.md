@@ -1,5 +1,5 @@
 ---
-title: 'Ayanna Pressley: Trump guilty of 'war crimes' in handling of coronavirus crisis'
+title: "Ayanna Pressley: Trump guilty of 'war crimes' in handling of coronavirus crisis"
 layout: post
 author:
 - Dominick Mastrangelo

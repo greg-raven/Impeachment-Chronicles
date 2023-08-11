@@ -1,5 +1,5 @@
 ---
-title: 'The media lied repeatedly about Officer Brian Sicknick's Death. And they just got caught.'
+title: "The media lied repeatedly about Officer Brian Sicknick's Death. And they just got caught."
 layout: post
 author:
 - Glenn Greenwald

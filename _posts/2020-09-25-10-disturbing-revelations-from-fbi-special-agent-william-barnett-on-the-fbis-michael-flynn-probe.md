@@ -1,5 +1,5 @@
 ---
-title: '10 disturbing revelations from FBI Special Agent William Barnett on the FBI's Michael Flynn Probe'
+title: "10 disturbing revelations from FBI Special Agent William Barnett on the FBI's Michael Flynn Probe"
 layout: post
 author:
 - Kristina Wong

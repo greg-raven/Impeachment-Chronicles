@@ -1,5 +1,5 @@
 ---
-title: 'Yet another media tale — Trump tear-gassed protesters for a church photo op — collapses'
+title: "Yet another media tale — Trump tear-gassed protesters for a church photo op — collapses"
 layout: post
 author:
 - Glenn Greenwald

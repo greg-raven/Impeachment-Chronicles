@@ -1,5 +1,5 @@
 ---
-title: 'Durham Report Verdicts'
+title: "Durham Report Verdicts"
 layout: post
 author:
 - Donald Trump

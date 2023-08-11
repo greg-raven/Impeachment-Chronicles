@@ -1,5 +1,5 @@
 ---
-title: 'On Motion to Table: H.Res. 705: Impeaching Donald John Trump, President of the United States, of high misdemeanors'
+title: "On Motion to Table: H.Res. 705: Impeaching Donald John Trump, President of the United States, of high misdemeanors"
 layout: post
 author:
 -

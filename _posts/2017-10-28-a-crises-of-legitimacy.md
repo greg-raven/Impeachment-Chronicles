@@ -1,5 +1,5 @@
 ---
-title: 'A crises of legitimacy'
+title: "A crises of legitimacy"
 layout: post
 author:
 - Paul Krugman

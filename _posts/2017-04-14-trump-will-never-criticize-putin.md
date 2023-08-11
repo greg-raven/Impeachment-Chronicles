@@ -1,5 +1,5 @@
 ---
-title: ''Trump will never criticize Putin''
+title: "'Trump will never criticize Putin'"
 layout: post
 author:
 - Maxine Waters

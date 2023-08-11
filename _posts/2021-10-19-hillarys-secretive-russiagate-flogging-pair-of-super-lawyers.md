@@ -1,5 +1,5 @@
 ---
-title: 'Hillary's secretive, Russiagate-flogging pair of super-lawyers'
+title: "Hillary's secretive, Russiagate-flogging pair of super-lawyers"
 layout: post
 author:
 - Aaron Maté

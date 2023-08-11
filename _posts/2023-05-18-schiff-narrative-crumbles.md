@@ -1,5 +1,5 @@
 ---
-title: 'Durham report: How Adam Schiff's Trump-Russia collusion narrative crumbled'
+title: "Durham report: How Adam Schiff's Trump-Russia collusion narrative crumbled"
 layout: post
 author:
 - Jerry Dunleavy

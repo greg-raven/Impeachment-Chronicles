@@ -1,5 +1,5 @@
 ---
-title: 'Dear Americans: You Were Duped'
+title: "Dear Americans: You Were Duped"
 layout: post
 author:
 - Laura Hollis

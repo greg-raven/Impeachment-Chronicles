@@ -1,5 +1,5 @@
 ---
-title: 'After impeachment farce ends, next comes 14th Amendment'
+title: "After impeachment farce ends, next comes 14th Amendment"
 layout: post
 author:
 - Charles Hurt

@@ -1,5 +1,5 @@
 ---
-title: 'Protesters hold 'Not My President's Day' rally in Central Park, call election 'illegitimate''
+title: "Protesters hold 'Not My President's Day' rally in Central Park, call election 'illegitimate'"
 layout: post
 author:
 - Leonard Greene

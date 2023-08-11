@@ -1,5 +1,5 @@
 ---
-title: 'Trump campaign aides had repeated contacts with Russian intelligence'
+title: "Trump campaign aides had repeated contacts with Russian intelligence"
 layout: post
 author:
 - Michael S. Schmidt

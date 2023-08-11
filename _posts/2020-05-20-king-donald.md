@@ -1,5 +1,5 @@
 ---
-title: 'King Donald'
+title: "King Donald"
 layout: post
 author:
 - Hakeem Jeffries

@@ -1,5 +1,5 @@
 ---
-title: 'Manafort held secret talks with Assange in Ecuadorian embassy, sources say'
+title: "Manafort held secret talks with Assange in Ecuadorian embassy, sources say"
 layout: post
 author:
 - Luke Harding

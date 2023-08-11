@@ -1,5 +1,5 @@
 ---
-title: 'Karine Jean-Pierre: Trump is guilty'
+title: "Karine Jean-Pierre: Trump is guilty"
 layout: post
 author:
 - Chris Matthews

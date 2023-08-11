@@ -1,5 +1,5 @@
 ---
-title: 'Democrats talk of an 'impeachment clock' for Trump'
+title: "Democrats talk of an 'impeachment clock' for Trump"
 layout: post
 author:
 - Alex Roarty

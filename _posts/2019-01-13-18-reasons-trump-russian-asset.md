@@ -1,5 +1,5 @@
 ---
-title: 'Here are 18 reasons Trump could be a Russian asset'
+title: "Here are 18 reasons Trump could be a Russian asset"
 layout: post
 author:
 - Max Boot

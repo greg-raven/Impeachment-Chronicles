@@ -1,5 +1,5 @@
 ---
-title: 'Damning notes from Peter Strzok about Russia, Manafort, and Roger Stone'
+title: "Damning notes from Peter Strzok about Russia, Manafort, and Roger Stone"
 layout: post
 author:
 - Techno Fog

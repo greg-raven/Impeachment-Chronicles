@@ -1,5 +1,5 @@
 ---
-title: 'Self rule will be over'
+title: "Self rule will be over"
 layout: post
 author:
 - Rob Reiner

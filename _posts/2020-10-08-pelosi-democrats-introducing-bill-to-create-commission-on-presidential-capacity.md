@@ -1,5 +1,5 @@
 ---
-title: 'Pelosi, Democrats introducing bill to create commission on 'presidential capacity''
+title: "Pelosi, Democrats introducing bill to create commission on 'presidential capacity'"
 layout: post
 author:
 - Jack Phillips

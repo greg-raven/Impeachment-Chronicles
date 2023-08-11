@@ -1,5 +1,5 @@
 ---
-title: 'Trump would be 'impeached' for his China tariff, Chamber's Donohue says'
+title: "Trump would be 'impeached' for his China tariff, Chamber's Donohue says"
 layout: post
 author:
 - Bloomberg News

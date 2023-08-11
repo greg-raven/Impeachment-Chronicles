@@ -1,5 +1,5 @@
 ---
-title: 'Democrats releasing report of Russia probe leads that should be followed, says Rep. Adam Schiff'
+title: "Democrats releasing report of Russia probe leads that should be followed, says Rep. Adam Schiff"
 layout: post
 author:
 - Adam Schiff

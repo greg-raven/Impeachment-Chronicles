@@ -1,5 +1,5 @@
 ---
-title: 'The walls of justice are closing in on Trump'
+title: "The walls of justice are closing in on Trump"
 layout: post
 author:
 - Andrew Weissmann

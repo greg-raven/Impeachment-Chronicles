@@ -1,5 +1,5 @@
 ---
-title: 'Stop providing aid and comfort to extremist militias and white supremacists'
+title: "Stop providing aid and comfort to extremist militias and white supremacists"
 layout: post
 author:
 - Hakeem Jeffries

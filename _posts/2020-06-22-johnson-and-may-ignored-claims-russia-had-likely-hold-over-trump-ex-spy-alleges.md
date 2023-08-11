@@ -1,5 +1,5 @@
 ---
-title: 'Johnson and May ignored claims Russia had 'likely hold' over Trump, ex-spy alleges'
+title: "Johnson and May ignored claims Russia had 'likely hold' over Trump, ex-spy alleges"
 layout: post
 author:
 - Dan Sabbagh

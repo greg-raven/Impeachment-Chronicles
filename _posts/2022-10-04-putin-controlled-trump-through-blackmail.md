@@ -1,5 +1,5 @@
 ---
-title: 'Putin controlled Trump through blackmail'
+title: "Putin controlled Trump through blackmail"
 layout: post
 author:
 - Glenn Greenwald

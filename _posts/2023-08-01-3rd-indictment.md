@@ -1,5 +1,5 @@
 ---
-title: 'Trump has now been indicted in a third case'
+title: "Trump has now been indicted in a third case"
 layout: post
 author:
 - Associated Press

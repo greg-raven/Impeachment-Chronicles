@@ -1,5 +1,5 @@
 ---
-title: 'Hillary Clinton OK'd sharing Trump-Russia 'data': campaign manager'
+title: "Hillary Clinton OK'd sharing Trump-Russia 'data': campaign manager"
 layout: post
 author:
 - Ben Feuerherd

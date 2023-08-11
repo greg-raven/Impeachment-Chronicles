@@ -1,5 +1,5 @@
 ---
-title: '50,000 Americans now dead because of Trump's incompetence'
+title: "50,000 Americans now dead because of Trump's incompetence"
 layout: post
 author:
 - Benny Johnson

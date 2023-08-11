@@ -1,5 +1,5 @@
 ---
-title: 'Rep. Adam Schiff says 'plenty of evidence' of Russia collusion hiding 'in plain sight''
+title: "Rep. Adam Schiff says 'plenty of evidence' of Russia collusion hiding 'in plain sight'"
 layout: post
 author:
 - Emily Tillett

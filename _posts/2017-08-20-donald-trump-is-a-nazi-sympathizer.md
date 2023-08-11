@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump is a Nazi sympathizer'
+title: "Donald Trump is a Nazi sympathizer"
 layout: post
 author:
 - Reuben Brigety

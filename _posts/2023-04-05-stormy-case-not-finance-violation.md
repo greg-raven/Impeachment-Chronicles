@@ -1,5 +1,5 @@
 ---
-title: 'FEC: Trump-Stormy case 'not a campaign finance violation''
+title: "FEC: Trump-Stormy case 'not a campaign finance violation'"
 layout: post
 author:
 -

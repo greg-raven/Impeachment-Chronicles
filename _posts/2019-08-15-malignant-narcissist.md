@@ -1,5 +1,5 @@
 ---
-title: 'Malignant narcissist'
+title: "Malignant narcissist"
 layout: post
 author:
 - Hakeem Jeffries

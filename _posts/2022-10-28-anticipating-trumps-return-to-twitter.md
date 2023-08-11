@@ -1,5 +1,5 @@
 ---
-title: 'Anticipating Trump's return to Twitter'
+title: "Anticipating Trump's return to Twitter"
 layout: post
 author:
 - Rick Wilson

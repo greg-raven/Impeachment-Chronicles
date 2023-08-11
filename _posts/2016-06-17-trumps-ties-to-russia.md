@@ -1,5 +1,5 @@
 ---
-title: 'Inside Trump's financial ties to Russia and his unusual flattery of Vladimir Putin'
+title: "Inside Trump's financial ties to Russia and his unusual flattery of Vladimir Putin"
 layout: post
 author:
 - Tom Hamburger

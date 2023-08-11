@@ -1,5 +1,5 @@
 ---
-title: 'Time for media to dig in hard'
+title: "Time for media to dig in hard"
 layout: post
 author:
 - Rob Reiner

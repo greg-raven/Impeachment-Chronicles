@@ -1,5 +1,5 @@
 ---
-title: 'Rep. Gerry Connolly announces he will not attend inauguration'
+title: "Rep. Gerry Connolly announces he will not attend inauguration"
 layout: post
 author:
 - Alex Koma

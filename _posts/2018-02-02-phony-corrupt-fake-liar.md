@@ -1,5 +1,5 @@
 ---
-title: 'Phony, corrupt, fake liar'
+title: "Phony, corrupt, fake liar"
 layout: post
 author:
 - Hakeem Jeffries

@@ -1,5 +1,5 @@
 ---
-title: ''We're gonna impeach the motherfucker': the Democrats' new street fighters'
+title: "'We're gonna impeach the motherfucker': the Democrats' new street fighters"
 layout: post
 author:
 - Luke O'Neil

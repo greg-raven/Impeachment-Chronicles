@@ -1,5 +1,5 @@
 ---
-title: 'Russia interfered with our election'
+title: "Russia interfered with our election"
 layout: post
 author:
 - Hakeem Jeffries

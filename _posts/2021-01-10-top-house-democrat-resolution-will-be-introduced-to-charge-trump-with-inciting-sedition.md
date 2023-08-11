@@ -1,5 +1,5 @@
 ---
-title: 'Top House Democrat: Resolution will be introduced to charge Trump with 'inciting sedition''
+title: "Top House Democrat: Resolution will be introduced to charge Trump with 'inciting sedition'"
 layout: post
 author:
 - Jack Phillips

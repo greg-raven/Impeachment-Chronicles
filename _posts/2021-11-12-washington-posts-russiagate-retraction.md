@@ -1,5 +1,5 @@
 ---
-title: 'Washington Post's Russiagate retraction'
+title: "Washington Post's Russiagate retraction"
 layout: post
 author:
 - Glenn Greenwald

@@ -1,5 +1,5 @@
 ---
-title: 'Impeachment star witness was aware of Burisma corruption'
+title: "Impeachment star witness was aware of Burisma corruption"
 layout: post
 author:
 - Tom Fitton

@@ -1,5 +1,5 @@
 ---
-title: ''Trump will killl us all!!''
+title: "'Trump will killl us all!!'"
 layout: post
 author:
 - Amy Siskin

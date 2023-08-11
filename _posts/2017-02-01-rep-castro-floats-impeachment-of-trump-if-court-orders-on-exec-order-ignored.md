@@ -1,5 +1,5 @@
 ---
-title: 'Rep. Castro floats impeachment of Trump if court orders on exec order ignored'
+title: "Rep. Castro floats impeachment of Trump if court orders on exec order ignored"
 layout: post
 author:
 - Chris Hayes

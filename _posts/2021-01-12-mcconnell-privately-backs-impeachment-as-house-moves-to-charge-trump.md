@@ -1,5 +1,5 @@
 ---
-title: 'McConnell privately backs impeachment as House moves to charge Trump'
+title: "McConnell privately backs impeachment as House moves to charge Trump"
 layout: post
 author:
 - Jonathan Martin

@@ -1,5 +1,5 @@
 ---
-title: 'No one is above the law'
+title: "No one is above the law"
 layout: post
 author:
 - Hakeem Jeffries

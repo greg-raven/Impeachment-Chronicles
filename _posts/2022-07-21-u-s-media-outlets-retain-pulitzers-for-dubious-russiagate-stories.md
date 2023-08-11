@@ -1,5 +1,5 @@
 ---
-title: 'U.S. media outlets retain Pulitzers for dubious 'Russiagate' stories'
+title: "U.S. media outlets retain Pulitzers for dubious 'Russiagate' stories"
 layout: post
 author:
 - Russia Times

@@ -1,5 +1,5 @@
 ---
-title: 'Democrats cannot impeach Trump, and you can't impeach him after leaving office: Dershowitz'
+title: "Democrats cannot impeach Trump, and you can't impeach him after leaving office: Dershowitz"
 layout: post
 author:
 - Jack Phillips

@@ -1,5 +1,5 @@
 ---
-title: 'Killing democracy'
+title: "Killing democracy"
 layout: post
 author:
 - Rob Reiner

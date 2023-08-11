@@ -1,5 +1,5 @@
 ---
-title: 'Kamala Harris on MSNBC'
+title: "Kamala Harris on MSNBC"
 layout: post
 author:
 - Kamala Harris

@@ -1,5 +1,5 @@
 ---
-title: 'A liar, a con man, and a racist'
+title: "A liar, a con man, and a racist"
 layout: post
 author:
 - Hakeem Jeffries

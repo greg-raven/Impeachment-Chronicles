@@ -1,5 +1,5 @@
 ---
-title: 'In case I wasn't clear enough'
+title: "In case I wasn't clear enough"
 layout: post
 author:
 - Frank Luntz

@@ -1,5 +1,5 @@
 ---
-title: 'Texts: Have we opened on him yet?'
+title: "Texts: Have we opened on him yet?"
 layout: post
 author:
 - Lisa Page

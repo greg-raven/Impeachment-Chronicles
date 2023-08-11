@@ -1,5 +1,5 @@
 ---
-title: 'Democrat's 'stolen election' claims'
+title: "Democrat's 'stolen election' claims"
 layout: post
 author:
 - Peter Doocy

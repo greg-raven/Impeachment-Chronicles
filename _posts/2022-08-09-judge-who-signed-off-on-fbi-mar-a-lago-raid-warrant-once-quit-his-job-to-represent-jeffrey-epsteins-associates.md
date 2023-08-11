@@ -1,5 +1,5 @@
 ---
-title: 'Judge who signed off on FBI Mar-a-Lago raid warrant once quit his job to represent Jeffrey Epstein's associates'
+title: "Judge who signed off on FBI Mar-a-Lago raid warrant once quit his job to represent Jeffrey Epstein's associates"
 layout: post
 author:
 - Matt Palumbo

@@ -1,5 +1,5 @@
 ---
-title: 'Making sure Trump doesn't become president again'
+title: "Making sure Trump doesn't become president again"
 layout: post
 author:
 - Joe Biden

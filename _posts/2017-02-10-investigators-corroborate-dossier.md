@@ -1,5 +1,5 @@
 ---
-title: 'CNN Exclusive : US investigators corroborate some aspects of Trump Russia Dossier'
+title: "CNN Exclusive : US investigators corroborate some aspects of Trump Russia Dossier"
 layout: post
 author:
 - Jim Sciutto

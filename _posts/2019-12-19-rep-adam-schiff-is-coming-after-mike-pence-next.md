@@ -1,5 +1,5 @@
 ---
-title: 'Rep. Adam Schiff is coming after Mike Pence next'
+title: "Rep. Adam Schiff is coming after Mike Pence next"
 layout: post
 author:
 - Jason Easley

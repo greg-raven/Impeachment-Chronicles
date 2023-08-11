@@ -1,5 +1,5 @@
 ---
-title: 'The GOP needs to elect Trump, then impeach him'
+title: "The GOP needs to elect Trump, then impeach him"
 layout: post
 author:
 - Jonathan Ashbach

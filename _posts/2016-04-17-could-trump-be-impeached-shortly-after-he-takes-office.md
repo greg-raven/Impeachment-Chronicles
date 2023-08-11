@@ -1,5 +1,5 @@
 ---
-title: 'Could Trump be impeached shortly after he takes office?'
+title: "Could Trump be impeached shortly after he takes office?"
 layout: post
 author:
 - Darren Samuelsohn

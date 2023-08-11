@@ -1,5 +1,5 @@
 ---
-title: 'Impeach Trump? Houston lawmaker holds unusually agreeable town hall'
+title: "Impeach Trump? Houston lawmaker holds unusually agreeable town hall"
 layout: post
 author:
 - Tom Dart

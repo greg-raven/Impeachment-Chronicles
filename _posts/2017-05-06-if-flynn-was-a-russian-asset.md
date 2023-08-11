@@ -1,5 +1,5 @@
 ---
-title: 'If Flynn was a Russian asset'
+title: "If Flynn was a Russian asset"
 layout: post
 author:
 - Rob Reiner

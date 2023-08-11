@@ -1,5 +1,5 @@
 ---
-title: '99 things Democrats have said Trump could be impeached for'
+title: "99 things Democrats have said Trump could be impeached for"
 layout: post
 author:
 - Tom Elliott

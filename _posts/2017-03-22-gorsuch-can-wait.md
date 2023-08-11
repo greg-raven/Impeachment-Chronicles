@@ -1,5 +1,5 @@
 ---
-title: 'Gorsuch can wait'
+title: "Gorsuch can wait"
 layout: post
 author:
 - Hakeem Jeffries

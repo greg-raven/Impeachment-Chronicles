@@ -1,5 +1,5 @@
 ---
-title: 'Surest sign that a recession is coming'
+title: "Surest sign that a recession is coming"
 layout: post
 author:
 - Ron Klain

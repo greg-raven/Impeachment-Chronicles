@@ -1,5 +1,5 @@
 ---
-title: 'Ocasio-Cortez on impeachment: 'About preventing a potentially disastrous outcome from occurring next year''
+title: "Ocasio-Cortez on impeachment: 'About preventing a potentially disastrous outcome from occurring next year'"
 layout: post
 author:
 - Ryan Saavedra

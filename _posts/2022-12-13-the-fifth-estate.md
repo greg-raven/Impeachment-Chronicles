@@ -1,5 +1,5 @@
 ---
-title: 'The Fifth Estate'
+title: "The Fifth Estate"
 layout: post
 author:
 - Mike Solana

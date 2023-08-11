@@ -1,5 +1,5 @@
 ---
-title: 'The first Democrat to call for impeachment says if the Senate won't remove Trump from office, Democrats can try again'
+title: "The first Democrat to call for impeachment says if the Senate won't remove Trump from office, Democrats can try again"
 layout: post
 author:
 - Addy Baird

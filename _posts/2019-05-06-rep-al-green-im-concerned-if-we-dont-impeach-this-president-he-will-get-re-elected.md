@@ -1,5 +1,5 @@
 ---
-title: 'Rep. Al Green: 'I'm concerned if we don't impeach this president, he will get re-elected''
+title: "Rep. Al Green: 'I'm concerned if we don't impeach this president, he will get re-elected'"
 layout: post
 author:
 - Tim Hains

@@ -1,5 +1,5 @@
 ---
-title: 'Harriet Hageman supports censoring Adam Schiff'
+title: "Harriet Hageman supports censoring Adam Schiff"
 layout: post
 author:
 - Harriet Hageman

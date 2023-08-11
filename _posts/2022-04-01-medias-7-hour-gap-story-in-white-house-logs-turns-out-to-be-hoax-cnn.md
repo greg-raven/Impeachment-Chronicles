@@ -1,5 +1,5 @@
 ---
-title: 'Media's '7-hour gap' story in White House logs turns out to be hoax: CNN'
+title: "Media's '7-hour gap' story in White House logs turns out to be hoax: CNN"
 layout: post
 author:
 - Joel B. Pollak

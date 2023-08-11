@@ -1,5 +1,5 @@
 ---
-title: 'Pelosi says House to move forward with impeachment attempt if Pence doesn't respond'
+title: "Pelosi says House to move forward with impeachment attempt if Pence doesn't respond"
 layout: post
 author:
 - Jack Phillips

@@ -1,5 +1,5 @@
 ---
-title: 'Sen. Blumenthal: Comey firing 'may well produce impeachment proceedings''
+title: "Sen. Blumenthal: Comey firing 'may well produce impeachment proceedings'"
 layout: post
 author:
 - Saba Hamedy

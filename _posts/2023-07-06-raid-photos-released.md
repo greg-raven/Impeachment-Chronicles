@@ -1,5 +1,5 @@
 ---
-title: 'Judge releases new information from Mar-a-Lago search warrant, including photos'
+title: "Judge releases new information from Mar-a-Lago search warrant, including photos"
 layout: post
 author:
 - Carmine Sabia

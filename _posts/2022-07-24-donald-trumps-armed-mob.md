@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump's armed mob'
+title: "Donald Trump's armed mob"
 layout: post
 author:
 - Chad Program

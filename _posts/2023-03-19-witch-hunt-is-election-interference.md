@@ -1,5 +1,5 @@
 ---
-title: 'Trump: Unprecedented 'witch-hunt' is 'election interference''
+title: "Trump: Unprecedented 'witch-hunt' is 'election interference'"
 layout: post
 author:
 - Eric Mack

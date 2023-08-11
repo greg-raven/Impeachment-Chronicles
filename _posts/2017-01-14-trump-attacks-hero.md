@@ -1,5 +1,5 @@
 ---
-title: 'Trump now attacks an American hero'
+title: "Trump now attacks an American hero"
 layout: post
 author:
 - Hakeem Jeffries

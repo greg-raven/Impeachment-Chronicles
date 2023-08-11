@@ -1,5 +1,5 @@
 ---
-title: 'Text: [Bernie Sanders is] an idiot like Trump'
+title: "Text: [Bernie Sanders is] an idiot like Trump"
 layout: post
 author:
 - Peter Strzok

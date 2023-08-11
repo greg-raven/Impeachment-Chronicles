@@ -1,5 +1,5 @@
 ---
-title: 'Mollie Hemingway on some of the many Trump hoaxes the media 'created''
+title: "Mollie Hemingway on some of the many Trump hoaxes the media 'created'"
 layout: post
 author:
 - Mollie Hemingway

@@ -1,5 +1,5 @@
 ---
-title: 'Trump is our biggest problem'
+title: "Trump is our biggest problem"
 layout: post
 author:
 - Hakeem Jeffries

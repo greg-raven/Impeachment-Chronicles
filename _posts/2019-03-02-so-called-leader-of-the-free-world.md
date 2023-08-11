@@ -1,5 +1,5 @@
 ---
-title: 'So-called leader of the free world'
+title: "So-called leader of the free world"
 layout: post
 author:
 - Hakeem Jeffries

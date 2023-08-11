@@ -1,5 +1,5 @@
 ---
-title: 'The elephant in the room'
+title: "The elephant in the room"
 layout: post
 author:
 - Rosemary K.M. Sword

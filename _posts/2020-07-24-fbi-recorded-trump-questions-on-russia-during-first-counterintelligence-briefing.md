@@ -1,5 +1,5 @@
 ---
-title: 'FBI recorded Trump questions on Russia during first counterintelligence briefing'
+title: "FBI recorded Trump questions on Russia during first counterintelligence briefing"
 layout: post
 author:
 - John Solomon

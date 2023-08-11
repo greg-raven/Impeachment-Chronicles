@@ -1,5 +1,5 @@
 ---
-title: 'Senate releases unredacted Strzok-Page texts showing FBI initiated MULTIPLE SPIES in Trump campaign in December 2015'
+title: "Senate releases unredacted Strzok-Page texts showing FBI initiated MULTIPLE SPIES in Trump campaign in December 2015"
 layout: post
 author:
 - Joe Hoft

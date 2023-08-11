@@ -1,5 +1,5 @@
 ---
-title: 'If this FBI spy's scorched-earth legal strategy backfires, he'll finally pay for Russia hoaxing'
+title: "If this FBI spy's scorched-earth legal strategy backfires, he'll finally pay for Russia hoaxing"
 layout: post
 author:
 - Margot Cleveland

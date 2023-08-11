@@ -1,5 +1,5 @@
 ---
-title: 'Moby says CIA agents asked him to spread the word about Trump and Russia'
+title: "Moby says CIA agents asked him to spread the word about Trump and Russia"
 layout: post
 author:
 - Pitchfork

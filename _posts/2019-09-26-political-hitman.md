@@ -1,5 +1,5 @@
 ---
-title: 'Trump's political hitman'
+title: "Trump's political hitman"
 layout: post
 author:
 - Hakeem Jeffries

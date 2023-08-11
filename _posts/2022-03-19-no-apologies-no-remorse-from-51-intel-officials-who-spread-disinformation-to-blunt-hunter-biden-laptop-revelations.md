@@ -1,5 +1,5 @@
 ---
-title: 'No apologies, no remorse from 51 intel officials who spread disinformation to blunt Hunter Biden laptop revelations'
+title: "No apologies, no remorse from 51 intel officials who spread disinformation to blunt Hunter Biden laptop revelations"
 layout: post
 author:
 - Fuzzy Slippers

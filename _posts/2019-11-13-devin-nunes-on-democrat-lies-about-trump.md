@@ -1,5 +1,5 @@
 ---
-title: 'Devin Nunes: Opening Statement for Kent and Taylor Hearing on Impeachment'
+title: "Devin Nunes: Opening Statement for Kent and Taylor Hearing on Impeachment"
 layout: post
 author:
 - Devin Nunes

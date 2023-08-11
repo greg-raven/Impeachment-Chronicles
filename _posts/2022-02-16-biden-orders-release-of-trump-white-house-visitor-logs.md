@@ -1,5 +1,5 @@
 ---
-title: 'Biden orders release of Trump White House Visitor Logs'
+title: "Biden orders release of Trump White House Visitor Logs"
 layout: post
 author:
 - Colleen Long

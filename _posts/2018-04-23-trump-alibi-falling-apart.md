@@ -1,5 +1,5 @@
 ---
-title: 'Trump's pee-tape alibi is falling apart'
+title: "Trump's pee-tape alibi is falling apart"
 layout: post
 author:
 - Bess Levin

@@ -1,5 +1,5 @@
 ---
-title: 'Biden agrees with woman who says Trump is 'an illegitimate president''
+title: "Biden agrees with woman who says Trump is 'an illegitimate president'"
 layout: post
 author:
 - Diana Stancey Correll

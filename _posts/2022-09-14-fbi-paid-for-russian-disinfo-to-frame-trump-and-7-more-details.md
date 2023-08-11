@@ -1,5 +1,5 @@
 ---
-title: 'FBI paid for Russian disinfo to frame Trump — and 7 more details'
+title: "FBI paid for Russian disinfo to frame Trump — and 7 more details"
 layout: post
 author:
 - Margot Cleveland

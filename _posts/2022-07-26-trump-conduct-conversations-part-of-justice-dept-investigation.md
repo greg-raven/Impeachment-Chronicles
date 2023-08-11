@@ -1,5 +1,5 @@
 ---
-title: 'Trump conduct, conversations part of Justice Dept. investigation'
+title: "Trump conduct, conversations part of Justice Dept. investigation"
 layout: post
 author:
 - Carol D. Leonnig

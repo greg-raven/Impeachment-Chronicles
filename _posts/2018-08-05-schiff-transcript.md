@@ -1,5 +1,5 @@
 ---
-title: 'Transcript: Rep. Adam Schiff on 'Face the Nation''
+title: "Transcript: Rep. Adam Schiff on 'Face the Nation'"
 layout: post
 author:
 - Margaret Brennan

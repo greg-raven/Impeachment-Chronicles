@@ -1,5 +1,5 @@
 ---
-title: 'Russian trolls on Twitter had little influence on 2016 voters'
+title: "Russian trolls on Twitter had little influence on 2016 voters"
 layout: post
 author:
 - Tim Starks

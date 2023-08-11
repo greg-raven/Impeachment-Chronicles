@@ -1,5 +1,5 @@
 ---
-title: 'Trump tariffs a disaster for everyday Americans'
+title: "Trump tariffs a disaster for everyday Americans"
 layout: post
 author:
 - Hakeem Jeffries

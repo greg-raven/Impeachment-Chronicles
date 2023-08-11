@@ -1,5 +1,5 @@
 ---
-title: 'Official Statement of Stormy Daniels'
+title: "Official Statement of Stormy Daniels"
 layout: post
 author:
 - Stormy Daniels

@@ -1,5 +1,5 @@
 ---
-title: 'Adam Schiff reiterates there's 'plenty of evidence of collusion' with Russia'
+title: "Adam Schiff reiterates there's 'plenty of evidence of collusion' with Russia"
 layout: post
 author:
 - Bailey Vogt

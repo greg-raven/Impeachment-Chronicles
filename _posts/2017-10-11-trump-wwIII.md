@@ -1,5 +1,5 @@
 ---
-title: 'This is how Trump could start World War III'
+title: "This is how Trump could start World War III"
 layout: post
 author:
 - Tom Z. Collina

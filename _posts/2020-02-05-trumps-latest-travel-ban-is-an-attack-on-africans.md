@@ -1,5 +1,5 @@
 ---
-title: 'Trump's latest travel ban is an attack on Africans'
+title: "Trump's latest travel ban is an attack on Africans"
 layout: post
 author:
 - Opal Tometi

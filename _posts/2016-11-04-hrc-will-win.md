@@ -1,5 +1,5 @@
 ---
-title: 'HRC will win'
+title: "HRC will win"
 layout: post
 author:
 - Rob Reiner

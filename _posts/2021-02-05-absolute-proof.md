@@ -1,5 +1,5 @@
 ---
-title: 'Absolute proof'
+title: "Absolute proof"
 layout: post
 author:
 - Mike Lindell

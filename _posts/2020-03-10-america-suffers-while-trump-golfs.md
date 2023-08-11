@@ -1,5 +1,5 @@
 ---
-title: 'America suffers and Trump plays golf'
+title: "America suffers and Trump plays golf"
 layout: post
 author:
 - Hakeem Jeffries

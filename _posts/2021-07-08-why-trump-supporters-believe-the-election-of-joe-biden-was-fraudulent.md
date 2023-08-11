@@ -1,5 +1,5 @@
 ---
-title: 'Why Trump supporters believe the election of Joe Biden was fraudulent'
+title: "Why Trump supporters believe the election of Joe Biden was fraudulent"
 layout: post
 author:
 - Martyr Made

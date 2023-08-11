@@ -1,5 +1,5 @@
 ---
-title: 'We have formed a 25th Amendment Political Action Committee'
+title: "We have formed a 25th Amendment Political Action Committee"
 layout: post
 author:
 - Alex Plaxen

@@ -1,5 +1,5 @@
 ---
-title: 'Pelosi: 'I like the 25th Amendment' because it 'gets rid' of Trump'
+title: "Pelosi: 'I like the 25th Amendment' because it 'gets rid' of Trump"
 layout: post
 author:
 - John Bowden

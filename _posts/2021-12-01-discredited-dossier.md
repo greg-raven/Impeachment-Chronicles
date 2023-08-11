@@ -1,5 +1,5 @@
 ---
-title: 'Why the discredited Dossier does not undercut the Russia Investigation'
+title: "Why the discredited Dossier does not undercut the Russia Investigation"
 layout: post
 author:
 - Charlie Savage

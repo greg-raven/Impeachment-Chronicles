@@ -1,5 +1,5 @@
 ---
-title: 'Trump betrayed America'
+title: "Trump betrayed America"
 layout: post
 author:
 - Hakeem Jeffries

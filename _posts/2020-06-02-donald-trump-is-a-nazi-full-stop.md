@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump is a Nazi. Full stop.'
+title: "Donald Trump is a Nazi. Full stop."
 layout: post
 author:
 - Drew Magary

@@ -1,5 +1,5 @@
 ---
-title: 'Timeline: Flynn was first, Sessions was next'
+title: "Timeline: Flynn was first, Sessions was next"
 layout: post
 author:
 - Mollie Hemingway

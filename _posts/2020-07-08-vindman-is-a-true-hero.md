@@ -1,5 +1,5 @@
 ---
-title: 'Vindman is a true American hero'
+title: "Vindman is a true American hero"
 layout: post
 author:
 - Hakeem Jeffries

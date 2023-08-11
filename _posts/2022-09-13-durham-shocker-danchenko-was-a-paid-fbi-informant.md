@@ -1,5 +1,5 @@
 ---
-title: 'Durham shocker: Danchenko was a paid FBI informant'
+title: "Durham shocker: Danchenko was a paid FBI informant"
 layout: post
 author:
 - Techno Fog

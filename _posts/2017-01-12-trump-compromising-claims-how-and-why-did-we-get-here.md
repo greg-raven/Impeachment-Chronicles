@@ -1,5 +1,5 @@
 ---
-title: 'Trump 'compromising' claims: How and why did we get here?'
+title: "Trump 'compromising' claims: How and why did we get here?"
 layout: post
 author:
 - Paul Wood

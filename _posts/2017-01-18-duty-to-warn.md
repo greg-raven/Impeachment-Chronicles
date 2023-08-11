@@ -1,5 +1,5 @@
 ---
-title: 'Duty to warn'
+title: "Duty to warn"
 layout: post
 author:
 - Duty To Warn

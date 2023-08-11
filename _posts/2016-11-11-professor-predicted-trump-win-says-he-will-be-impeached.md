@@ -1,5 +1,5 @@
 ---
-title: 'Professor predicted Trump win, says he will be impeached'
+title: "Professor predicted Trump win, says he will be impeached"
 layout: post
 author:
 - Leinz Vales

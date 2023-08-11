@@ -1,5 +1,5 @@
 ---
-title: 'President unmasked: Trump goes maskless AGAIN on tour of factory despite being surrounded by staff in face coverings'
+title: "President unmasked: Trump goes maskless AGAIN on tour of factory despite being surrounded by staff in face coverings"
 layout: post
 author:
 - Mollie Mansfield

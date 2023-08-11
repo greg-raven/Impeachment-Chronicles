@@ -1,5 +1,5 @@
 ---
-title: 'You cannot reason with a Trump supporter'
+title: "You cannot reason with a Trump supporter"
 layout: post
 author:
 - Rob Reiner

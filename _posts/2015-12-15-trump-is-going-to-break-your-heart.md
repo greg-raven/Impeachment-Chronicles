@@ -1,5 +1,5 @@
 ---
-title: 'Trump is going to break your heart'
+title: "Trump is going to break your heart"
 layout: post
 author:
 - Kurt Schlichter

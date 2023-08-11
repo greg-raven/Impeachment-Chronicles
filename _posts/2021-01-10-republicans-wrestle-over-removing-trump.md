@@ -1,5 +1,5 @@
 ---
-title: 'Republicans wrestle over removing Trump'
+title: "Republicans wrestle over removing Trump"
 layout: post
 author:
 - Alexander Bolton

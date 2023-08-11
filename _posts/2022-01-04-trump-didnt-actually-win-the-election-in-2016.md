@@ -1,5 +1,5 @@
 ---
-title: 'Trump didn't actually win the election in 2016'
+title: "Trump didn't actually win the election in 2016"
 layout: post
 author:
 - Larry Elder

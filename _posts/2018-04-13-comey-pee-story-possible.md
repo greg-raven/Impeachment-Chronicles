@@ -1,5 +1,5 @@
 ---
-title: 'Comey says it's 'possible' Trump was with 'prostitutes peeing on each other' in Moscow in 2013'
+title: "Comey says it's 'possible' Trump was with 'prostitutes peeing on each other' in Moscow in 2013"
 layout: post
 author:
 - Alex Lockie

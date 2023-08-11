@@ -1,5 +1,5 @@
 ---
-title: 'Kremlin papers appear to show Putin's plot to put Trump in White House'
+title: "Kremlin papers appear to show Putin's plot to put Trump in White House"
 layout: post
 author:
 - Luke Harding

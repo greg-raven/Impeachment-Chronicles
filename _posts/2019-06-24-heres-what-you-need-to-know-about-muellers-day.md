@@ -1,5 +1,5 @@
 ---
-title: 'Here's what you need to know about Mueller's day'
+title: "Here's what you need to know about Mueller's day"
 layout: post
 author:
 - Adam Levine

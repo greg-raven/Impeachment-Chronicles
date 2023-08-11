@@ -1,5 +1,5 @@
 ---
-title: 'Russia successfully interfered'
+title: "Russia successfully interfered"
 layout: post
 author:
 - Hakeem Jeffries

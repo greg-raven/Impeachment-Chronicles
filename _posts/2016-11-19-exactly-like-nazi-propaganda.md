@@ -1,5 +1,5 @@
 ---
-title: 'Exactly like Nazi propaganda'
+title: "Exactly like Nazi propaganda"
 layout: post
 author:
 - Dean Obeidallah

@@ -1,5 +1,5 @@
 ---
-title: 'Collusion with Trump'
+title: "Collusion with Trump"
 layout: post
 author:
 - Rob Reiner

@@ -1,5 +1,5 @@
 ---
-title: 'NYT journalist gets a free pass'
+title: "NYT journalist gets a free pass"
 layout: post
 author:
 - Djcalligraphy

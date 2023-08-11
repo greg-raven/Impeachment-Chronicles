@@ -1,5 +1,5 @@
 ---
-title: 'Timeline: FBI opens a counterintelligence investigation into Flynn'
+title: "Timeline: FBI opens a counterintelligence investigation into Flynn"
 layout: post
 author:
 - Sidney Powell

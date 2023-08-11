@@ -1,5 +1,5 @@
 ---
-title: 'Corker: Trump is setting up the country for World War III'
+title: "Corker: Trump is setting up the country for World War III"
 layout: post
 author:
 - Jacqueline Thomsen

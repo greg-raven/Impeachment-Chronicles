@@ -1,5 +1,5 @@
 ---
-title: 'Russia/Trump campaign colluded'
+title: "Russia/Trump campaign colluded"
 layout: post
 author:
 - Hakeem Jeffries

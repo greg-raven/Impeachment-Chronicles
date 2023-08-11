@@ -1,5 +1,5 @@
 ---
-title: 'Maxine Waters told you so'
+title: "Maxine Waters told you so"
 layout: post
 author:
 - Lyz Lenz

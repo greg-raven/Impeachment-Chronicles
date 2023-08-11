@@ -1,5 +1,5 @@
 ---
-title: ''I want to say this about Donald Trump …''
+title: "'I want to say this about Donald Trump …'"
 layout: post
 author:
 - David Weigel

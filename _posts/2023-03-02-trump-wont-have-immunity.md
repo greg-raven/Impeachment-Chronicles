@@ -1,5 +1,5 @@
 ---
-title: 'Trump can be sued for Jan. 6 riot harm, Justice Dept. says'
+title: "Trump can be sued for Jan. 6 riot harm, Justice Dept. says"
 layout: post
 author:
 - Eric Tucker

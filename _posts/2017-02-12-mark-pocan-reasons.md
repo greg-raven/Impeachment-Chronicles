@@ -1,5 +1,5 @@
 ---
-title: 'Attacks on Trump's foreign businesses'
+title: "Attacks on Trump's foreign businesses"
 layout: post
 author:
 - Mark Pocan

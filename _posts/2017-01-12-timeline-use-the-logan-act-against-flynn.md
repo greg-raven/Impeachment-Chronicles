@@ -1,5 +1,5 @@
 ---
-title: 'Timeline: Use the Logan Act against Flynn'
+title: "Timeline: Use the Logan Act against Flynn"
 layout: post
 author:
 - Mollie Hemingway

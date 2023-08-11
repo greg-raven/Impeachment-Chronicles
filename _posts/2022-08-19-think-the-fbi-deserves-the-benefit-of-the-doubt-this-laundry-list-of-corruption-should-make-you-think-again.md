@@ -1,5 +1,5 @@
 ---
-title: 'Think the FBI deserves the benefit of the doubt? This laundry list of corruption should make you think again'
+title: "Think the FBI deserves the benefit of the doubt? This laundry list of corruption should make you think again"
 layout: post
 author:
 - Tristan Justice

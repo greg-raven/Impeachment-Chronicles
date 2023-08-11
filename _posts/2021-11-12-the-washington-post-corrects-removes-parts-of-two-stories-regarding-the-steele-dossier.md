@@ -1,5 +1,5 @@
 ---
-title: 'The Washington Post corrects, removes parts of two stories regarding the Steele dossier'
+title: "The Washington Post corrects, removes parts of two stories regarding the Steele dossier"
 layout: post
 author:
 - Paul Farhi

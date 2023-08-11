@@ -1,5 +1,5 @@
 ---
-title: 'Trump thinks he can overwhelm Iran'
+title: "Trump thinks he can overwhelm Iran"
 layout: post
 author:
 - Hakeem Jeffries

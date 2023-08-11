@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump's many, many, many, many ties to Russia'
+title: "Donald Trump's many, many, many, many ties to Russia"
 layout: post
 author:
 - Jeff Nesbit

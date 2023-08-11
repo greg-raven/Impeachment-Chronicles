@@ -1,5 +1,5 @@
 ---
-title: ''Gangster in the White House': Noam Chomsky explains why Trump is undeniably 'the worst criminal in history''
+title: "'Gangster in the White House': Noam Chomsky explains why Trump is undeniably 'the worst criminal in history'"
 layout: post
 author:
 - Alex Henderson

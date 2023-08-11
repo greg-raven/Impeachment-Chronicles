@@ -1,5 +1,5 @@
 ---
-title: 'Talking Points'
+title: "Talking Points"
 layout: post
 author:
 - Lisa Page

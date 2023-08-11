@@ -1,5 +1,5 @@
 ---
-title: 'The conspiracy heats up'
+title: "The conspiracy heats up"
 layout: post
 author:
 - Rob Reiner

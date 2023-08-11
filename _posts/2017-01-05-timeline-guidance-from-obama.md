@@ -1,5 +1,5 @@
 ---
-title: 'Timeline: Guidance from Obama'
+title: "Timeline: Guidance from Obama"
 layout: post
 author:
 - Mollie Hemingway

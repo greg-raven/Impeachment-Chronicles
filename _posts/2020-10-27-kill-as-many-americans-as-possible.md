@@ -1,5 +1,5 @@
 ---
-title: 'Kill as many Americans as possible'
+title: "Kill as many Americans as possible"
 layout: post
 author:
 - Rob Reiner

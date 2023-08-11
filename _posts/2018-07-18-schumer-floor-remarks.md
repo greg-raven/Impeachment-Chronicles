@@ -1,5 +1,5 @@
 ---
-title: 'Schumer floor remarks on President Trump's weak attempt to walk back denial of Russian meddling and actions congress must take following Trump-Putin summit'
+title: "Schumer floor remarks on President Trump's weak attempt to walk back denial of Russian meddling and actions congress must take following Trump-Putin summit"
 layout: post
 author:
 - Chuck Schumer

@@ -1,5 +1,5 @@
 ---
-title: 'Avoiding questions about Trump's mental health is a betrayal of public trust'
+title: "Avoiding questions about Trump's mental health is a betrayal of public trust"
 layout: post
 author:
 - Lee Siegel

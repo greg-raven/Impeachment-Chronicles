@@ -1,5 +1,5 @@
 ---
-title: 'GOP Rep. Nunes believes FBI probe into Trump campaign began in late 2015, not 2016'
+title: "GOP Rep. Nunes believes FBI probe into Trump campaign began in late 2015, not 2016"
 layout: post
 author:
 - John Solomon

@@ -1,5 +1,5 @@
 ---
-title: 'Starting over: The center right after Trump'
+title: "Starting over: The center right after Trump"
 layout: post
 author:
 - Niskanen Center

@@ -1,5 +1,5 @@
 ---
-title: 'House formally sends impeachment to Senate, putting Trump on trial for Capitol riot'
+title: "House formally sends impeachment to Senate, putting Trump on trial for Capitol riot"
 layout: post
 author:
 - Mike Lillis

@@ -1,5 +1,5 @@
 ---
-title: 'Adam Schiff shuts down conservative 'View' guest host'
+title: "Adam Schiff shuts down conservative 'View' guest host"
 layout: post
 author:
 - Matt Wilstein

@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump impeachment effort already underway'
+title: "Donald Trump impeachment effort already underway"
 layout: post
 author:
 - Rachael Revesz

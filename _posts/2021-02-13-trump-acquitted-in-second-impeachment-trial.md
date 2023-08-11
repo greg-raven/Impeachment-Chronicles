@@ -1,5 +1,5 @@
 ---
-title: 'Trump acquitted in second impeachment trial'
+title: "Trump acquitted in second impeachment trial"
 layout: post
 author:
 - Zachary Stieber

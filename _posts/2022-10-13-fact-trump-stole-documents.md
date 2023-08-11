@@ -1,5 +1,5 @@
 ---
-title: 'Fact: Trump stole documents'
+title: "Fact: Trump stole documents"
 layout: post
 author:
 - Rob Reiner

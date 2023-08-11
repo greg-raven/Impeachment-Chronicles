@@ -1,5 +1,5 @@
 ---
-title: 'Elon Musk shines light on Soros connection to Trump indictment'
+title: "Elon Musk shines light on Soros connection to Trump indictment"
 layout: post
 author:
 - Carmine Sabia

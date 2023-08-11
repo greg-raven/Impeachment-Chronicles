@@ -1,5 +1,5 @@
 ---
-title: 'Hunter Biden investigation: GOP releases interim report on intelligence community's laptop letter'
+title: "Hunter Biden investigation: GOP releases interim report on intelligence community's laptop letter"
 layout: post
 author:
 - Ryan King

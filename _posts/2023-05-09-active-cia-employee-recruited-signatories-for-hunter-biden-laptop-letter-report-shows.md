@@ -1,5 +1,5 @@
 ---
-title: 'Active CIA employee recruited signatories for Hunter Biden laptop letter, report shows'
+title: "Active CIA employee recruited signatories for Hunter Biden laptop letter, report shows"
 layout: post
 author:
 - John Solomon

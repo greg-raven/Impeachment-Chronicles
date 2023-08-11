@@ -1,5 +1,5 @@
 ---
-title: 'Trump celebrates FEC dropping their case against him'
+title: "Trump celebrates FEC dropping their case against him"
 layout: post
 author:
 - Katie Pavlich

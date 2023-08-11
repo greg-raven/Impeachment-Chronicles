@@ -1,5 +1,5 @@
 ---
-title: 'Tidal wave of Trump hatred'
+title: "Tidal wave of Trump hatred"
 layout: post
 author:
 - Hakeem Jeffries

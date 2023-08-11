@@ -1,5 +1,5 @@
 ---
-title: 'Fake president'
+title: "Fake president"
 layout: post
 author:
 - Hakeem Jeffries

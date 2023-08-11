@@ -1,5 +1,5 @@
 ---
-title: 'ACLJ obtains new memo in State Department lawsuit unveiling unreported Obama-era officials' secret meeting with Iran's Zarif during Trump Administration'
+title: "ACLJ obtains new memo in State Department lawsuit unveiling unreported Obama-era officials' secret meeting with Iran's Zarif during Trump Administration"
 layout: post
 author:
 - Jordan Sekulow

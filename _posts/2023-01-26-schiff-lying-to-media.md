@@ -1,5 +1,5 @@
 ---
-title: 'To jog the media's memory, here's a supercut of Congressman Adam Schiff lying to them'
+title: "To jog the media's memory, here's a supercut of Congressman Adam Schiff lying to them"
 layout: post
 author:
 - Bill D'Agostino

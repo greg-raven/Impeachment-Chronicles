@@ -1,5 +1,5 @@
 ---
-title: 'House Democrats say there's 'significant evidence' of collusion between Trump campaign and Russia, push back on GOP report'
+title: "House Democrats say there's 'significant evidence' of collusion between Trump campaign and Russia, push back on GOP report"
 layout: post
 author:
 - Associated Press

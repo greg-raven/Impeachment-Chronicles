@@ -1,5 +1,5 @@
 ---
-title: 'Congressman calls for Trump's impeachment on House floor'
+title: "Congressman calls for Trump's impeachment on House floor"
 layout: post
 author:
 - Miranda Green

@@ -1,5 +1,5 @@
 ---
-title: 'I'm running for president'
+title: "I'm running for president"
 layout: post
 author:
 - Bernie Sanders

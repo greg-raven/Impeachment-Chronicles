@@ -1,5 +1,5 @@
 ---
-title: 'Trump was right. Again.'
+title: "Trump was right. Again."
 layout: post
 author:
 - Clay Travis

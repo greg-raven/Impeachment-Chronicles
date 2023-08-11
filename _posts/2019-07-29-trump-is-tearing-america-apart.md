@@ -1,5 +1,5 @@
 ---
-title: 'Trump is tearing America apart'
+title: "Trump is tearing America apart"
 layout: post
 author:
 - Hakeem Jeffries

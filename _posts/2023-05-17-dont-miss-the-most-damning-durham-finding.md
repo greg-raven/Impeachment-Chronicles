@@ -1,5 +1,5 @@
 ---
-title: 'Don't miss the most damning Durham finding'
+title: "Don't miss the most damning Durham finding"
 layout: post
 author:
 - Margot Cleveland

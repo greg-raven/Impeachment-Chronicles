@@ -1,5 +1,5 @@
 ---
-title: 'Ciaramella discusses how to remove Trump'
+title: "Ciaramella discusses how to remove Trump"
 layout: post
 author:
 - Paul Sperry

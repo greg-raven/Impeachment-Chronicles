@@ -1,5 +1,5 @@
 ---
-title: 'Ex-CIA chief rips into Trump for 'iceberg of lies, deceit, corruption, & criminality''
+title: "Ex-CIA chief rips into Trump for 'iceberg of lies, deceit, corruption, & criminality'"
 layout: post
 author:
 - Aris Folley

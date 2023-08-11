@@ -1,5 +1,5 @@
 ---
-title: 'Schiff: 'There is more than circumstantial evidence now''
+title: "Schiff: 'There is more than circumstantial evidence now'"
 layout: post
 author:
 - David A. Graham

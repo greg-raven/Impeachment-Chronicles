@@ -1,5 +1,5 @@
 ---
-title: 'Trump abandoned Puerto Rico'
+title: "Trump abandoned Puerto Rico"
 layout: post
 author:
 - Hakeem Jeffries

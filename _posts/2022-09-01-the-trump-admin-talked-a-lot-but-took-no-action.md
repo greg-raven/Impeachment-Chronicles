@@ -1,5 +1,5 @@
 ---
-title: 'The Trump admin talked a lot but took no action'
+title: "The Trump admin talked a lot but took no action"
 layout: post
 author:
 - Miguel Cardona

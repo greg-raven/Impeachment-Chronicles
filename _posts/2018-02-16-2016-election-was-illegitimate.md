@@ -1,5 +1,5 @@
 ---
-title: '2016 election was illegitimate'
+title: "2016 election was illegitimate"
 layout: post
 author:
 - Hakeen Jeffries

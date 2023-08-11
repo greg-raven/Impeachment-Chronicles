@@ -1,5 +1,5 @@
 ---
-title: 'Internal memo reveals Capitol Police were warned BLM from Baltimore was bussing in rioters disguised as Trump supporters on Jan. 6'
+title: "Internal memo reveals Capitol Police were warned BLM from Baltimore was bussing in rioters disguised as Trump supporters on Jan. 6"
 layout: post
 author:
 - Jim Hoft

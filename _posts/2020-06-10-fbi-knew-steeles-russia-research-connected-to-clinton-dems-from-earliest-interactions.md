@@ -1,5 +1,5 @@
 ---
-title: 'FBI knew Steele's Russia research connected to Clinton, Dems from earliest interactions'
+title: "FBI knew Steele's Russia research connected to Clinton, Dems from earliest interactions"
 layout: post
 author:
 - John Solomon

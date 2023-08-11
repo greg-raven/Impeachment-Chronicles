@@ -1,5 +1,5 @@
 ---
-title: 'War crimes'
+title: "War crimes"
 layout: post
 author:
 - RNC Research

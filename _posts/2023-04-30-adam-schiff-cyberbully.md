@@ -1,5 +1,5 @@
 ---
-title: 'Adam Schiff, Cyberbully'
+title: "Adam Schiff, Cyberbully"
 layout: post
 author:
 - Paul Sperry

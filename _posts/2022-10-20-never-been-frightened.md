@@ -1,5 +1,5 @@
 ---
-title: 'Never been frightened?'
+title: "Never been frightened?"
 layout: post
 author:
 - CasuallyGreg

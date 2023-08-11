@@ -1,5 +1,5 @@
 ---
-title: 'John Lewis on Trump: 'I don't see this president-elect as a legitimate president''
+title: "John Lewis on Trump: 'I don't see this president-elect as a legitimate president'"
 layout: post
 author:
 - Kyle Cheney

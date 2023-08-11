@@ -1,5 +1,5 @@
 ---
-title: 'Crazy as sh*t'
+title: "Crazy as sh*t"
 layout: post
 author:
 - Dan Riehl

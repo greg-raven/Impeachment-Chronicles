@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump's war crimes'
+title: "Donald Trump's war crimes"
 layout: post
 author:
 - Marjorie Cohn

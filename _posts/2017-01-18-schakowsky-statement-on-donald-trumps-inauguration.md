@@ -1,5 +1,5 @@
 ---
-title: 'Schakowsky statement on Donald Trump's inauguration'
+title: "Schakowsky statement on Donald Trump's inauguration"
 layout: post
 author:
 - Jan Schakowsky

@@ -1,5 +1,5 @@
 ---
-title: 'Repeating the 'very fine people' lie'
+title: "Repeating the 'very fine people' lie"
 layout: post
 author:
 - Joe Biden

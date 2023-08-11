@@ -1,5 +1,5 @@
 ---
-title: 'Unfit Trump has committed impeachable offenses'
+title: "Unfit Trump has committed impeachable offenses"
 layout: post
 author:
 - Rob Reiner

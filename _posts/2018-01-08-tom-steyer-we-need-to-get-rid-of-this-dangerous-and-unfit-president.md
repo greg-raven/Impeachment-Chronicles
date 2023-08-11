@@ -1,5 +1,5 @@
 ---
-title: 'Tom Steyer: 'We need to get rid of this dangerous and unfit President''
+title: "Tom Steyer: 'We need to get rid of this dangerous and unfit President'"
 layout: post
 author:
 - Tom Steyer

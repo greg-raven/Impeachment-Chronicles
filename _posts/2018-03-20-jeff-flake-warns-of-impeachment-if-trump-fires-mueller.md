@@ -1,5 +1,5 @@
 ---
-title: 'Jeff Flake warns of impeachment if Trump fires Mueller'
+title: "Jeff Flake warns of impeachment if Trump fires Mueller"
 layout: post
 author:
 - Ashley Killough

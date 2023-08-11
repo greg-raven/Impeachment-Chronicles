@@ -1,5 +1,5 @@
 ---
-title: 'We are retired generals and admirals. Trump's actions on Jan. 6 were a dereliction of duty.'
+title: "We are retired generals and admirals. Trump's actions on Jan. 6 were a dereliction of duty."
 layout: post
 author:
 - Steve Abbot

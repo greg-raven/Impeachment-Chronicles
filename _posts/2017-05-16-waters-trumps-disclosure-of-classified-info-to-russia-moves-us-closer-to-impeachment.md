@@ -1,5 +1,5 @@
 ---
-title: 'Waters — Trump's disclosure of classified info to Russia moves us closer to 'impeachment''
+title: "Waters — Trump's disclosure of classified info to Russia moves us closer to 'impeachment'"
 layout: post
 author:
 - Cameron Cawthorne

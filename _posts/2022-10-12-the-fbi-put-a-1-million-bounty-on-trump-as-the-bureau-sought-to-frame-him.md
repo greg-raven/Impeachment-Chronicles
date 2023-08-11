@@ -1,5 +1,5 @@
 ---
-title: 'The FBI put a $1 million bounty on Trump as the Bureau sought to frame him'
+title: "The FBI put a $1 million bounty on Trump as the Bureau sought to frame him"
 layout: post
 author:
 - Gregg Jarrett

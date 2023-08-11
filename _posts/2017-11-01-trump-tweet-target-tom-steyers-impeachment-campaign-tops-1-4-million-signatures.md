@@ -1,5 +1,5 @@
 ---
-title: 'Trump-tweet target Tom Steyer's impeachment campaign tops 1.4 million signatures'
+title: "Trump-tweet target Tom Steyer's impeachment campaign tops 1.4 million signatures"
 layout: post
 author:
 - Casey Tolan

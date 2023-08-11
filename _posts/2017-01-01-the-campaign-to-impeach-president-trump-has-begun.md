@@ -1,5 +1,5 @@
 ---
-title: 'The campaign to impeach President Trump has begun'
+title: "The campaign to impeach President Trump has begun"
 layout: post
 author:
 - Matea Gold

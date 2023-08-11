@@ -1,5 +1,5 @@
 ---
-title: 'Mueller gathered evidence suggesting DNC, Clinton camp manufactured Russia collusion story'
+title: "Mueller gathered evidence suggesting DNC, Clinton camp manufactured Russia collusion story"
 layout: post
 author:
 - John Solomon

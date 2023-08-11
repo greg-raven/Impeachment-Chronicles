@@ -1,5 +1,5 @@
 ---
-title: 'Ratcliffe says 'all kinds of intelligence' showed 'fake Russia collusion''
+title: "Ratcliffe says 'all kinds of intelligence' showed 'fake Russia collusion'"
 layout: post
 author:
 - Daniel Chaitin

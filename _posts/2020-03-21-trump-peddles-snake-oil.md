@@ -1,5 +1,5 @@
 ---
-title: 'Coronavirus: Trump peddles snake oil over chloroquine test, false hope'
+title: "Coronavirus: Trump peddles snake oil over chloroquine test, false hope"
 layout: post
 author:
 - USA Today

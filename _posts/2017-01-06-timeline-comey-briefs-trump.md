@@ -1,5 +1,5 @@
 ---
-title: 'Timeline: Comey briefs Trump'
+title: "Timeline: Comey briefs Trump"
 layout: post
 author:
 - Mollie Hemingway

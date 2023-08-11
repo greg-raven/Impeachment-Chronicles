@@ -1,5 +1,5 @@
 ---
-title: 'So-called president'
+title: "So-called president"
 layout: post
 author:
 - Hakeem Jeffries

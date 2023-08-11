@@ -1,5 +1,5 @@
 ---
-title: 'Trump Administration v. The States'
+title: "Trump Administration v. The States"
 layout: post
 author:
 - Hakeem Jeffries

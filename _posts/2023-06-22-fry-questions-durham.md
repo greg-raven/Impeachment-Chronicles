@@ -1,5 +1,5 @@
 ---
-title: 'Russell Fry questions John Durham about Crossfire Hurricane'
+title: "Russell Fry questions John Durham about Crossfire Hurricane"
 layout: post
 author:
 - Russell Fry

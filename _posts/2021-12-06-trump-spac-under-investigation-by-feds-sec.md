@@ -1,5 +1,5 @@
 ---
-title: 'Trump SPAC under investigation by feds, SEC'
+title: "Trump SPAC under investigation by feds, SEC"
 layout: post
 author:
 - Will Feuer

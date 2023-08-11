@@ -1,5 +1,5 @@
 ---
-title: 'Foreign Intelligence Surveillance Act Abuses at the Department of Justice and the Federal Bureau of Investigation'
+title: "Foreign Intelligence Surveillance Act Abuses at the Department of Justice and the Federal Bureau of Investigation"
 layout: post
 author:
 - Donald F. McGahn II

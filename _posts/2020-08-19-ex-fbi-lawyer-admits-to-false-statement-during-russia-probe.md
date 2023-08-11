@@ -1,5 +1,5 @@
 ---
-title: 'Ex-FBI lawyer admits to false statement during Russia probe'
+title: "Ex-FBI lawyer admits to false statement during Russia probe"
 layout: post
 author:
 - Eric Tucker

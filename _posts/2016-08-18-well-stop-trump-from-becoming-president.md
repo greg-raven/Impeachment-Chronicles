@@ -1,5 +1,5 @@
 ---
-title: 'Texts: We'll stop Trump from becoming president'
+title: "Texts: We'll stop Trump from becoming president"
 layout: post
 author:
 - Lisa Page

@@ -1,5 +1,5 @@
 ---
-title: 'Texts: How was Trump, other than a douche?'
+title: "Texts: How was Trump, other than a douche?"
 layout: post
 author:
 - Lisa Page

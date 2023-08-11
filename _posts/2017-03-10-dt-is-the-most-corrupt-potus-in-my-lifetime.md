@@ -1,5 +1,5 @@
 ---
-title: 'DT is the most corrupt POTUS in my lifetime'
+title: "DT is the most corrupt POTUS in my lifetime"
 layout: post
 author:
 - Rob Reiner

@@ -1,5 +1,5 @@
 ---
-title: 'Adam Schiff nails Mike Pence with new evidence in Ukraine scheme'
+title: "Adam Schiff nails Mike Pence with new evidence in Ukraine scheme"
 layout: post
 author:
 - Jason Easley

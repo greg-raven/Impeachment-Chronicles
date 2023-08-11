@@ -1,5 +1,5 @@
 ---
-title: 'Rigged by Hillary? Trump raid pulled off by 'Russiagate' FBI agents'
+title: "Rigged by Hillary? Trump raid pulled off by 'Russiagate' FBI agents"
 layout: post
 author:
 - Bob Unruh

@@ -1,5 +1,5 @@
 ---
-title: 'Review of four FISA applications and other aspects of the FBI's Crossfire Hurricane Investigation'
+title: "Review of four FISA applications and other aspects of the FBI's Crossfire Hurricane Investigation"
 layout: post
 author:
 - Michael Horowitz

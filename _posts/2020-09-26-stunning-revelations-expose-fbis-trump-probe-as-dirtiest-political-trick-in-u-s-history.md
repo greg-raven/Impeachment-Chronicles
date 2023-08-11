@@ -1,5 +1,5 @@
 ---
-title: 'Stunning revelations expose FBI's Trump probe as dirtiest political trick in U.S. history'
+title: "Stunning revelations expose FBI's Trump probe as dirtiest political trick in U.S. history"
 layout: post
 author:
 - Gregg Jarrett

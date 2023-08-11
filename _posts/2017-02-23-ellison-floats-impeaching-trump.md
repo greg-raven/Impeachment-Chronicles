@@ -1,5 +1,5 @@
 ---
-title: 'Ellison floats impeaching Trump'
+title: "Ellison floats impeaching Trump"
 layout: post
 author:
 - David Catanese

@@ -1,5 +1,5 @@
 ---
-title: 'Text messages show Cassidy Hutchinson referring to January 6 Committee as 'BS''
+title: "Text messages show Cassidy Hutchinson referring to January 6 Committee as 'BS'"
 layout: post
 author:
 - Henry Rodgers

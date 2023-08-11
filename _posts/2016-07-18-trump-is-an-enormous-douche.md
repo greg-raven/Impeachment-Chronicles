@@ -1,5 +1,5 @@
 ---
-title: 'Texts: Wow, Donald Trump is an enormous d*uche'
+title: "Texts: Wow, Donald Trump is an enormous d*uche"
 layout: post
 author:
 - Lisa Page

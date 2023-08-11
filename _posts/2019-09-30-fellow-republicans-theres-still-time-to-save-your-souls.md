@@ -1,5 +1,5 @@
 ---
-title: 'Fellow Republicans, there's still time to save your souls'
+title: "Fellow Republicans, there's still time to save your souls"
 layout: post
 author:
 - Jeff Flake

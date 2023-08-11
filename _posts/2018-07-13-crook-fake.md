@@ -1,5 +1,5 @@
 ---
-title: 'Crook? Fake?'
+title: "Crook? Fake?"
 layout: post
 author:
 - Hakeem Jeffries

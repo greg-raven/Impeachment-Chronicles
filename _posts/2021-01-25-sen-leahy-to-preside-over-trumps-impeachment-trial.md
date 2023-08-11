@@ -1,5 +1,5 @@
 ---
-title: 'Sen. Leahy to preside over Trump's impeachment trial'
+title: "Sen. Leahy to preside over Trump's impeachment trial"
 layout: post
 author:
 - Zachary Stieber

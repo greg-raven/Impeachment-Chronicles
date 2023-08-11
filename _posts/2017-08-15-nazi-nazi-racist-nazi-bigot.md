@@ -1,5 +1,5 @@
 ---
-title: 'Nazi Nazi RACIST Nazi BIGOT'
+title: "Nazi Nazi RACIST Nazi BIGOT"
 layout: post
 author:
 - Keith Olbermann

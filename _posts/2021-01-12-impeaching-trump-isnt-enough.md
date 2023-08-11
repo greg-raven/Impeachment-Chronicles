@@ -1,5 +1,5 @@
 ---
-title: 'Impeaching Trump isn't enough'
+title: "Impeaching Trump isn't enough"
 layout: post
 author:
 - Elie Honig

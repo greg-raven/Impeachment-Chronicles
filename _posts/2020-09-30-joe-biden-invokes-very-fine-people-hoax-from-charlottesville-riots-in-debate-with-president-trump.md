@@ -1,5 +1,5 @@
 ---
-title: 'Joe Biden invokes 'very fine people' hoax from Charlottesville riots in debate with President Trump'
+title: "Joe Biden invokes 'very fine people' hoax from Charlottesville riots in debate with President Trump"
 layout: post
 author:
 - Dave Urbanski

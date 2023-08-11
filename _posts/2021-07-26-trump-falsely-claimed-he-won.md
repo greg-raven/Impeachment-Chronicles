@@ -1,5 +1,5 @@
 ---
-title: 'Trump falsely claimed that he actually won the election'
+title: "Trump falsely claimed that he actually won the election"
 layout: post
 author:
 - Hakeem Jeffries

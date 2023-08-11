@@ -1,5 +1,5 @@
 ---
-title: 'California's Rep. Brad Sherman to introduce impeachment measure'
+title: "California's Rep. Brad Sherman to introduce impeachment measure"
 layout: post
 author:
 - Jennifer Haberkort

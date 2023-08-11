@@ -1,5 +1,5 @@
 ---
-title: 'MSNBC analyst calls on AG to indict Trump to 'help' Dems, lets slip that Jan 6 rioters just 'picknickers''
+title: "MSNBC analyst calls on AG to indict Trump to 'help' Dems, lets slip that Jan 6 rioters just 'picknickers'"
 layout: post
 author:
 - Robert Jonathan

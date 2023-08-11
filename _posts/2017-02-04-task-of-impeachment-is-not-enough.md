@@ -1,5 +1,5 @@
 ---
-title: 'Talk of impeachment is not enough'
+title: "Talk of impeachment is not enough"
 layout: post
 author:
 - BrooklynDad Defiant!

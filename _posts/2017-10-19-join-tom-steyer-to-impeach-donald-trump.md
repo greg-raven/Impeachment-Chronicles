@@ -1,5 +1,5 @@
 ---
-title: 'Join Tom Steyer to impeach Donald Trump'
+title: "Join Tom Steyer to impeach Donald Trump"
 layout: post
 author:
 - Tom Steyer

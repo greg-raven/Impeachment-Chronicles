@@ -1,5 +1,5 @@
 ---
-title: 'Lurid Trump allegations made by Louise Mensch and co-writer came from hoaxer'
+title: "Lurid Trump allegations made by Louise Mensch and co-writer came from hoaxer"
 layout: post
 author:
 - Jon Swaine

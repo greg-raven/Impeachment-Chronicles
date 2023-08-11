@@ -1,5 +1,5 @@
 ---
-title: 'He will lie, cheat, steal, and break laws'
+title: "He will lie, cheat, steal, and break laws"
 layout: post
 author:
 - Rob Reiner

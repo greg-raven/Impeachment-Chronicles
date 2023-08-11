@@ -1,5 +1,5 @@
 ---
-title: 'The hoax is likely your so-called victor'
+title: "The hoax is likely your so-called victor"
 layout: post
 author:
 - Hakeem Jeffries

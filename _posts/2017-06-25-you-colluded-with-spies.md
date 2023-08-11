@@ -1,5 +1,5 @@
 ---
-title: 'Likely your campaign colluded with Russian spies'
+title: "Likely your campaign colluded with Russian spies"
 layout: post
 author:
 - Hakeem Jeffries

@@ -1,5 +1,5 @@
 ---
-title: 'Rape culture America'
+title: "Rape culture America"
 layout: post
 author:
 - Lindsey Boylan

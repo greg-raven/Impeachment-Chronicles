@@ -1,5 +1,5 @@
 ---
-title: 'Trump is mentally unfit, no exam needed'
+title: "Trump is mentally unfit, no exam needed"
 layout: post
 author:
 - Leonard L. Glass

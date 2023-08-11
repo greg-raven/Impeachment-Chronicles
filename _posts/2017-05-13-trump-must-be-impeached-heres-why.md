@@ -1,5 +1,5 @@
 ---
-title: 'Trump must be impeached. Here's why.'
+title: "Trump must be impeached. Here's why."
 layout: post
 author:
 - Lawrence H. Tribe

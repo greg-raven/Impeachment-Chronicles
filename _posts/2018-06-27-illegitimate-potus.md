@@ -1,5 +1,5 @@
 ---
-title: 'Illegitimate POTUS'
+title: "Illegitimate POTUS"
 layout: post
 author:
 - Rob Reiner

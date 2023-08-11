@@ -1,5 +1,5 @@
 ---
-title: 'Trump: The Kremlin Candidate?'
+title: "Trump: The Kremlin Candidate?"
 layout: post
 author:
 - Wikipedia

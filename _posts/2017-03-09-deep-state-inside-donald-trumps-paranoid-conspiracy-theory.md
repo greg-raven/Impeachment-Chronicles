@@ -1,5 +1,5 @@
 ---
-title: 'Deep State: Inside Donald Trump's paranoid conspiracy theory'
+title: "Deep State: Inside Donald Trump's paranoid conspiracy theory"
 layout: post
 author:
 - Michael Hafford

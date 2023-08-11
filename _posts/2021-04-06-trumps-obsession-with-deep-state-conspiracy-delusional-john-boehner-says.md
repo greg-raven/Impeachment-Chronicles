@@ -1,5 +1,5 @@
 ---
-title: 'Trump's obsession with Deep State conspiracy 'delusional,' John Boehner says'
+title: "Trump's obsession with Deep State conspiracy 'delusional,' John Boehner says"
 layout: post
 author:
 - Martin Pengelly

@@ -1,5 +1,5 @@
 ---
-title: 'The Constitution is clear'
+title: "The Constitution is clear"
 layout: post
 author:
 - Greg Pinelo

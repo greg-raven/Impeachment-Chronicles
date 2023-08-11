@@ -1,5 +1,5 @@
 ---
-title: 'Democrats, 10 Republicans vote for 2nd impeachment of Trump'
+title: "Democrats, 10 Republicans vote for 2nd impeachment of Trump"
 layout: post
 author:
 - Ivan Pentchoukov

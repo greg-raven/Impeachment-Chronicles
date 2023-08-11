@@ -1,5 +1,5 @@
 ---
-title: 'Russiagate Was Not a Hoax'
+title: "Russiagate Was Not a Hoax"
 layout: post
 author:
 - Franklin Foer

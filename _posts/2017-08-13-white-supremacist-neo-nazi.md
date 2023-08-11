@@ -1,5 +1,5 @@
 ---
-title: 'Get the fuck out of our society'
+title: "Get the fuck out of our society"
 layout: post
 author:
 - Keith Olbermann

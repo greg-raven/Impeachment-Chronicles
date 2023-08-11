@@ -1,5 +1,5 @@
 ---
-title: 'Trump's abuse of power'
+title: "Trump's abuse of power"
 layout: post
 author:
 - Hakeem Jeffries

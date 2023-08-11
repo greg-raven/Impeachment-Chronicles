@@ -1,5 +1,5 @@
 ---
-title: 'Trump made some outrageous claims about German energy'
+title: "Trump made some outrageous claims about German energy"
 layout: post
 author:
 - NowThis

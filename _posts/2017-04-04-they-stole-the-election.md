@@ -1,5 +1,5 @@
 ---
-title: 'They stole the election'
+title: "They stole the election"
 layout: post
 author:
 - Rob Reiner

@@ -1,5 +1,5 @@
 ---
-title: 'Why Kevin McCarthy would dare call Adam Schiff a liar'
+title: "Why Kevin McCarthy would dare call Adam Schiff a liar"
 layout: post
 author:
 - Newsbusters

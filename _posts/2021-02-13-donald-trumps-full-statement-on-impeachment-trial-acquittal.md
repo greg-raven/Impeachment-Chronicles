@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump's full statement on impeachment trial acquittal'
+title: "Donald Trump's full statement on impeachment trial acquittal"
 layout: post
 author:
 - Donald Trump

@@ -1,5 +1,5 @@
 ---
-title: 'Impeachment witness Vindman: If Trump had been removed, 600,000 Americans wouldn't have died of COVID'
+title: "Impeachment witness Vindman: If Trump had been removed, 600,000 Americans wouldn't have died of COVID"
 layout: post
 author:
 - Brian Flood

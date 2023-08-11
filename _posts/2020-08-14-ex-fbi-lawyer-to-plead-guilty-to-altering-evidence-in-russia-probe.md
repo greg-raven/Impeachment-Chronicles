@@ -1,5 +1,5 @@
 ---
-title: 'Ex-FBI lawyer to plead guilty to altering evidence in Russia probe'
+title: "Ex-FBI lawyer to plead guilty to altering evidence in Russia probe"
 layout: post
 author:
 - John Solomon

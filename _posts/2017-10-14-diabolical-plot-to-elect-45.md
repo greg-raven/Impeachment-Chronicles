@@ -1,5 +1,5 @@
 ---
-title: 'Diabolical plot to elect 45'
+title: "Diabolical plot to elect 45"
 layout: post
 author:
 - Hakeem Jeffries

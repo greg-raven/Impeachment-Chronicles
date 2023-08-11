@@ -1,5 +1,5 @@
 ---
-title: 'CIA officer who signed Hunter Biden laptop letter claims credit for Trump loss'
+title: "CIA officer who signed Hunter Biden laptop letter claims credit for Trump loss"
 layout: post
 author:
 - Zachary Stieber

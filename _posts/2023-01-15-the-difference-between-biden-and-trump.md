@@ -1,5 +1,5 @@
 ---
-title: 'The difference between Biden and Trump'
+title: "The difference between Biden and Trump"
 layout: post
 author:
 - Rob Reiner

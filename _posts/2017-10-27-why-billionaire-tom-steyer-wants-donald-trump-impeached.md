@@ -1,5 +1,5 @@
 ---
-title: 'Why billionaire Tom Steyer wants Donald Trump impeached'
+title: "Why billionaire Tom Steyer wants Donald Trump impeached"
 layout: post
 author:
 - Katy Steinmetz

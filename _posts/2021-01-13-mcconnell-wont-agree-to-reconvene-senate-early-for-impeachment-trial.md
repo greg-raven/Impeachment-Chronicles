@@ -1,5 +1,5 @@
 ---
-title: 'McConnell won't agree to reconvene Senate early for impeachment trial'
+title: "McConnell won't agree to reconvene Senate early for impeachment trial"
 layout: post
 author:
 - Alexander Bolton

@@ -1,5 +1,5 @@
 ---
-title: 'House Republicans release four-page Nunes memo accusing FBI of abusing surveillance authority'
+title: "House Republicans release four-page Nunes memo accusing FBI of abusing surveillance authority"
 layout: post
 author:
 - Kelly Cohen

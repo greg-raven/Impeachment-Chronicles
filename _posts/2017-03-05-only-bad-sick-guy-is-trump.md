@@ -1,5 +1,5 @@
 ---
-title: 'Only bad or sick guy is Trump'
+title: "Only bad or sick guy is Trump"
 layout: post
 author:
 - Hakeem Jeffries

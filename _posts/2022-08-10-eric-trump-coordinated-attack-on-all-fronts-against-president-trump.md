@@ -1,5 +1,5 @@
 ---
-title: 'Eric Trump: 'Coordinated attack on all fronts' against President Trump'
+title: "Eric Trump: 'Coordinated attack on all fronts' against President Trump"
 layout: post
 author:
 - Daniel Baldwin

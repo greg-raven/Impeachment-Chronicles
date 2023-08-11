@@ -1,5 +1,5 @@
 ---
-title: 'McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict'
+title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
 layout: post
 author:
 - Manu Raju

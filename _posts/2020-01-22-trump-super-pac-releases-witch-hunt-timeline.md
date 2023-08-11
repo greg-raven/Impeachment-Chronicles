@@ -1,5 +1,5 @@
 ---
-title: 'Trump Super PAC releases 'Witch Hunt' timeline'
+title: "Trump Super PAC releases 'Witch Hunt' timeline"
 layout: post
 author:
 - Charlie Spiering

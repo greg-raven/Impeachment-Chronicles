@@ -1,5 +1,5 @@
 ---
-title: 'CIA solicited signatures for 'Russian disinformation' letter'
+title: "CIA solicited signatures for 'Russian disinformation' letter"
 layout: post
 author:
 - Brett T.

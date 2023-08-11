@@ -1,5 +1,5 @@
 ---
-title: 'House Democrat files article of impeachment against Trump'
+title: "House Democrat files article of impeachment against Trump"
 layout: post
 author:
 - Cristina Marcos

@@ -1,5 +1,5 @@
 ---
-title: 'Congressional candidate forms Impeach Trump PAC'
+title: "Congressional candidate forms Impeach Trump PAC"
 layout: post
 author:
 - Lisa Hagen

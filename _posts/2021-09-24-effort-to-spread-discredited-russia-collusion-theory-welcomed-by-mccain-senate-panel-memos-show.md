@@ -1,5 +1,5 @@
 ---
-title: 'Effort to spread discredited Russia collusion theory welcomed by McCain Senate panel, memos show'
+title: "Effort to spread discredited Russia collusion theory welcomed by McCain Senate panel, memos show"
 layout: post
 author:
 - John Solomon

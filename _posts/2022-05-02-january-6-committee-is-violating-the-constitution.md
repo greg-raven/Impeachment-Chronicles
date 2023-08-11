@@ -1,5 +1,5 @@
 ---
-title: 'January 6 Committee 'Is violating the Constitution''
+title: "January 6 Committee 'Is violating the Constitution'"
 layout: post
 author:
 - Jeff Poor

@@ -1,5 +1,5 @@
 ---
-title: 'Cloud of illegitimacy'
+title: "Cloud of illegitimacy"
 layout: post
 author:
 - Hakeem Jeffries

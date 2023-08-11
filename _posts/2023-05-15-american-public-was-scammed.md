@@ -1,5 +1,5 @@
 ---
-title: 'The American public was scammed'
+title: "The American public was scammed"
 layout: post
 author:
 - Donald Trump

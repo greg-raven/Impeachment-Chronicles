@@ -1,5 +1,5 @@
 ---
-title: 'Declassified! The Russia informant transcript the FBI didn't want Americans to see'
+title: "Declassified! The Russia informant transcript the FBI didn't want Americans to see"
 layout: post
 author:
 - John Solomon

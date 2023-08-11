@@ -1,5 +1,5 @@
 ---
-title: 'Trial authorization vote signals that Senate will acquit Trump'
+title: "Trial authorization vote signals that Senate will acquit Trump"
 layout: post
 author:
 - Ivan Pentchoukov

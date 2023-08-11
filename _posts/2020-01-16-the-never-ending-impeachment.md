@@ -1,5 +1,5 @@
 ---
-title: 'The never-ending impeachment'
+title: "The never-ending impeachment"
 layout: post
 author:
 - Matthew Continetti

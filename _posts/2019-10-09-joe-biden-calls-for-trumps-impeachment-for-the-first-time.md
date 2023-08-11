@@ -1,5 +1,5 @@
 ---
-title: 'Joe Biden calls for Trump's impeachment for the first time'
+title: "Joe Biden calls for Trump's impeachment for the first time"
 layout: post
 author:
 - Jacob Pramuk

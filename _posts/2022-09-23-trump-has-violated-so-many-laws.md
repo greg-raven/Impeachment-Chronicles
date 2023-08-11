@@ -1,5 +1,5 @@
 ---
-title: 'Trump has violated so many laws'
+title: "Trump has violated so many laws"
 layout: post
 author:
 - Rob Reiner

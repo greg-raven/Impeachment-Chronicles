@@ -1,5 +1,5 @@
 ---
-title: 'Flynn case bombshell: FBI analysts bought insurance fearing they'd be sued for misconduct'
+title: "Flynn case bombshell: FBI analysts bought insurance fearing they'd be sued for misconduct"
 layout: post
 author:
 - John Solomon

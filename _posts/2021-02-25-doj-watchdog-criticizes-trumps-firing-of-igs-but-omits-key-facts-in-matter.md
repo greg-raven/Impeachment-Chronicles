@@ -1,5 +1,5 @@
 ---
-title: 'DOJ watchdog criticizes Trump's firing of IGs, but omits key facts in matter'
+title: "DOJ watchdog criticizes Trump's firing of IGs, but omits key facts in matter"
 layout: post
 author:
 - Jeff Carlson

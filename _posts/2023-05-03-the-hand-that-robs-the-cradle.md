@@ -1,5 +1,5 @@
 ---
-title: 'The hand that robs the cradle'
+title: "The hand that robs the cradle"
 layout: post
 author:
 - Greg Price

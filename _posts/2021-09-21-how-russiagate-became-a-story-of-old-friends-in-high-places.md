@@ -1,5 +1,5 @@
 ---
-title: 'How Russiagate became a story of old friends in high places'
+title: "How Russiagate became a story of old friends in high places"
 layout: post
 author:
 - Eric Felten

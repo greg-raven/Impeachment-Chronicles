@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump led a violent insurrection'
+title: "Donald Trump led a violent insurrection"
 layout: post
 author:
 - Rob Reiner

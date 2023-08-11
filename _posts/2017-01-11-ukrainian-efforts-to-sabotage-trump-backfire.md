@@ -1,5 +1,5 @@
 ---
-title: 'Ukrainian efforts to sabotage Trump backfire'
+title: "Ukrainian efforts to sabotage Trump backfire"
 layout: post
 author:
 - Austin Wright

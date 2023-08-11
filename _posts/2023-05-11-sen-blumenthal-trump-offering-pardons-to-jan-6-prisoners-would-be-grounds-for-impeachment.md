@@ -1,5 +1,5 @@
 ---
-title: 'Sen. Blumenthal: Trump offering pardons to Jan. 6 prisoners would be grounds for impeachment'
+title: "Sen. Blumenthal: Trump offering pardons to Jan. 6 prisoners would be grounds for impeachment"
 layout: post
 author:
 - Richard Blumenthal

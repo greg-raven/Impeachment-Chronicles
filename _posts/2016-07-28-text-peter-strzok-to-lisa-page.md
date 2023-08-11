@@ -1,5 +1,5 @@
 ---
-title: 'Text: Our open investigations relating to Trump's Russian connections'
+title: "Text: Our open investigations relating to Trump's Russian connections"
 layout: post
 author:
 - Peter Strzok

@@ -1,5 +1,5 @@
 ---
-title: 'Julian Castro renews call for president's impeachment after ex-prosecutors claim Trump obstructed justice'
+title: "Julian Castro renews call for president's impeachment after ex-prosecutors claim Trump obstructed justice"
 layout: post
 author:
 - Paul Steinhauser

@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump is actually a fascist'
+title: "Donald Trump is actually a fascist"
 layout: post
 author:
 - Michael Kinsley

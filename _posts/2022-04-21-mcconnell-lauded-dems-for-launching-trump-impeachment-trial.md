@@ -1,5 +1,5 @@
 ---
-title: 'McConnell lauded Dems for launching&nbsp;Trump impeachment trial'
+title: "McConnell lauded Dems for launching&nbsp;Trump impeachment trial"
 layout: post
 author:
 - Wendell Huseb0

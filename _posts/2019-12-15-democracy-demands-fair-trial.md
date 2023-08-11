@@ -1,5 +1,5 @@
 ---
-title: 'Democracy demands & depends on a fair trial'
+title: "Democracy demands & depends on a fair trial"
 layout: post
 author:
 - Rob Reiner

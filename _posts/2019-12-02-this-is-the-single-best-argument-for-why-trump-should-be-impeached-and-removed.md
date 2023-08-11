@@ -1,5 +1,5 @@
 ---
-title: 'This is the single best argument for why Trump should be impeached and removed'
+title: "This is the single best argument for why Trump should be impeached and removed"
 layout: post
 author:
 - R. J. Lyman

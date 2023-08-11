@@ -1,5 +1,5 @@
 ---
-title: 'Immature Trump is missing in action'
+title: "Immature Trump is missing in action"
 layout: post
 author:
 - Hakeem Jeffries

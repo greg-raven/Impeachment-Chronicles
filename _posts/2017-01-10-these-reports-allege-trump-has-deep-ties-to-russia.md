@@ -1,5 +1,5 @@
 ---
-title: 'These reports allege Trump has deep ties to Russia'
+title: "These reports allege Trump has deep ties to Russia"
 layout: post
 author:
 - Ken Bensinger

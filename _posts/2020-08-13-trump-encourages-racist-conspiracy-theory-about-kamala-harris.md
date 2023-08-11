@@ -1,5 +1,5 @@
 ---
-title: 'Trump encourages racist conspiracy theory about Kamala Harris'
+title: "Trump encourages racist conspiracy theory about Kamala Harris"
 layout: post
 author:
 - Katie Rogers

@@ -1,5 +1,5 @@
 ---
-title: 'Trump impeachment vote fails overwhelmingly'
+title: "Trump impeachment vote fails overwhelmingly"
 layout: post
 author:
 - Kyle Cheney

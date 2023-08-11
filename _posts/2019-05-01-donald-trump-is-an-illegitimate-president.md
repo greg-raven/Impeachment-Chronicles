@@ -1,5 +1,5 @@
 ---
-title: 'Donald Trump is an illegitimate president'
+title: "Donald Trump is an illegitimate president"
 layout: post
 author:
 - Rob Reiner

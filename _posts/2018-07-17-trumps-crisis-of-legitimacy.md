@@ -1,5 +1,5 @@
 ---
-title: 'Trump's crisis of legitimacy'
+title: "Trump's crisis of legitimacy"
 layout: post
 author:
 - David Frum

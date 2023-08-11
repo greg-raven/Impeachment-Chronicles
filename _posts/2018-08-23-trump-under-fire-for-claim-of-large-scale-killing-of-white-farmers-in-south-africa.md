@@ -1,5 +1,5 @@
 ---
-title: 'Trump under fire for claim of 'large scale killing' of white farmers in South Africa'
+title: "Trump under fire for claim of 'large scale killing' of white farmers in South Africa"
 layout: post
 author:
 - Alastair Jamieson

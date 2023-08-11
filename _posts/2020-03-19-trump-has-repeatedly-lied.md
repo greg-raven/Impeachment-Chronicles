@@ -1,5 +1,5 @@
 ---
-title: 'So-called president has repeatedly lied'
+title: "So-called president has repeatedly lied"
 layout: post
 author:
 - Hakeem Jeffries

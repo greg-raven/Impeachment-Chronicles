@@ -1,5 +1,5 @@
 ---
-title: 'Birther-in-chief'
+title: "Birther-in-chief"
 layout: post
 author:
 - Hakeem Jeffries

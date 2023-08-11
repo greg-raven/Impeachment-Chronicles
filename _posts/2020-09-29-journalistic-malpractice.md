@@ -1,5 +1,5 @@
 ---
-title: 'Journalistic malpractice'
+title: "Journalistic malpractice"
 layout: post
 author:
 - Benny Johnson

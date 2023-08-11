@@ -1,5 +1,5 @@
 ---
-title: 'Trump's election may have been a hoax'
+title: "Trump's election may have been a hoax"
 layout: post
 author:
 - Hakeem Jeffries

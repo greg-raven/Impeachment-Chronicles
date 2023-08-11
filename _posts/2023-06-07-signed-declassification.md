@@ -1,5 +1,5 @@
 ---
-title: 'Trump declassified docs the day before he left office'
+title: "Trump declassified docs the day before he left office"
 layout: post
 author:
 - Jim Hoft

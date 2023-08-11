@@ -1,5 +1,5 @@
 ---
-title: 'Trump owes tens of millions to Bank of China'
+title: "Trump owes tens of millions to Bank of China"
 layout: post
 author:
 - Marc Caputo

@@ -1,5 +1,5 @@
 ---
-title: ''The Dangerous Case of Donald Trump''
+title: "'The Dangerous Case of Donald Trump'"
 layout: post
 author:
 - Rosemary K.M. Sword

@@ -1,5 +1,5 @@
 ---
-title: '176 members of the House now co-sponsoring the article of impeachment'
+title: "176 members of the House now co-sponsoring the article of impeachment"
 layout: post
 author:
 - David Cicilline

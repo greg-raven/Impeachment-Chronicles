@@ -1,5 +1,5 @@
 ---
-title: 'Trump is destroying the economy out of spite'
+title: "Trump is destroying the economy out of spite"
 layout: post
 author:
 - Bess Levin

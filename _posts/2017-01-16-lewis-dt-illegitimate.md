@@ -1,5 +1,5 @@
 ---
-title: 'Lewis: DT illegitimate'
+title: "Lewis: DT illegitimate"
 layout: post
 author:
 - Rob Reiner

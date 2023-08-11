@@ -1,5 +1,5 @@
 ---
-title: 'It took 7 years for them to figure out what we already knew'
+title: "It took 7 years for them to figure out what we already knew"
 layout: post
 author:
 - Memology 101

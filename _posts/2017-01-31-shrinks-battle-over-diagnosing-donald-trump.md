@@ -1,5 +1,5 @@
 ---
-title: 'Shrinks battle over diagnosing Donald Trump'
+title: "Shrinks battle over diagnosing Donald Trump"
 layout: post
 author:
 - Hara Estroff Marano

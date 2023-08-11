@@ -1,5 +1,5 @@
 ---
-title: 'Garland names special counsel to lead Trump-related probes'
+title: "Garland names special counsel to lead Trump-related probes"
 layout: post
 author:
 - Eric Tucker

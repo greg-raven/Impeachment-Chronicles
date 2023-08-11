@@ -1,5 +1,5 @@
 ---
-title: 'Scientific American endorses Joe Biden'
+title: "Scientific American endorses Joe Biden"
 layout: post
 author:
 - Scientific American

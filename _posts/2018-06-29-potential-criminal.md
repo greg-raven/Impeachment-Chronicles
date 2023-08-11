@@ -1,5 +1,5 @@
 ---
-title: ''We cannot allow' 'a potential criminal' to pick a Supreme Court justice!'
+title: "'We cannot allow' 'a potential criminal' to pick a Supreme Court justice!"
 layout: post
 author:
 - Curtis Houck

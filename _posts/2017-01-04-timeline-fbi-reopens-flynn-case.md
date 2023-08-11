@@ -1,5 +1,5 @@
 ---
-title: 'Timeline: FBI 'reopens' Flynn case'
+title: "Timeline: FBI 'reopens' Flynn case"
 layout: post
 author:
 - Mollie Hemingway

@@ -1,5 +1,5 @@
 ---
-title: 'Project Veritas questions possible media-govt. collusion on Jan. 6'
+title: "Project Veritas questions possible media-govt. collusion on Jan. 6"
 layout: post
 author:
 - OAN

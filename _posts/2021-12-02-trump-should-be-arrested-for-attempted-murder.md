@@ -1,5 +1,5 @@
 ---
-title: 'Trump should be arrested for attempted murder'
+title: "Trump should be arrested for attempted murder"
 layout: post
 author:
 - Bette Midler

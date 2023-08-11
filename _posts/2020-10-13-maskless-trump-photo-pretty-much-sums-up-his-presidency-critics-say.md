@@ -1,5 +1,5 @@
 ---
-title: 'Maskless Trump photo pretty much sums up his presidency, critics say'
+title: "Maskless Trump photo pretty much sums up his presidency, critics say"
 layout: post
 author:
 - Josephine Harvey

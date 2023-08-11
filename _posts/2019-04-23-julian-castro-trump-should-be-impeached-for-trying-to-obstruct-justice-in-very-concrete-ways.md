@@ -1,5 +1,5 @@
 ---
-title: 'Julián Castro: Trump should be impeached for trying to obstruct justice 'in very concrete ways''
+title: "Julián Castro: Trump should be impeached for trying to obstruct justice 'in very concrete ways'"
 layout: post
 author:
 - Zack Budryk

@@ -1,5 +1,5 @@
 ---
-title: 'Former Mafia-linked figure describes association with Trump'
+title: "Former Mafia-linked figure describes association with Trump"
 layout: post
 author:
 - Rosalind S. Helderman

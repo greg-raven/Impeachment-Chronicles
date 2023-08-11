@@ -1,5 +1,5 @@
 ---
-title: 'Mega-thread shows that WaPo didn't always have an aversion to Nazi comparisons and terms like 'banana republic''
+title: "Mega-thread shows that WaPo didn't always have an aversion to Nazi comparisons and terms like 'banana republic'"
 layout: post
 author:
 - Doug P.

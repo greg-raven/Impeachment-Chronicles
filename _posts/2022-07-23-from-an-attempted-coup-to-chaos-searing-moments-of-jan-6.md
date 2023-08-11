@@ -1,5 +1,5 @@
 ---
-title: 'From 'an attempted coup' to chaos, searing moments of Jan. 6'
+title: "From 'an attempted coup' to chaos, searing moments of Jan. 6"
 layout: post
 author:
 - Associated Press

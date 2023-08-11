@@ -1,5 +1,5 @@
 ---
-title: 'Republicans wanted to impeach Trump from the start'
+title: "Republicans wanted to impeach Trump from the start"
 layout: post
 author:
 - Virginia Heffernan

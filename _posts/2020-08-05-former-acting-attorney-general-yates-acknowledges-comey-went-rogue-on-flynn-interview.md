@@ -1,5 +1,5 @@
 ---
-title: 'Former acting Attorney General Yates acknowledges Comey 'went rogue' on Flynn interview'
+title: "Former acting Attorney General Yates acknowledges Comey 'went rogue' on Flynn interview"
 layout: post
 author:
 - Joseph Weber

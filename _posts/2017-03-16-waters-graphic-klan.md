@@ -1,5 +1,5 @@
 ---
-title: 'Meet Donald Trump's KremLINKlan'
+title: "Meet Donald Trump's KremLINKlan"
 layout: post
 author:
 - Maxine Waters

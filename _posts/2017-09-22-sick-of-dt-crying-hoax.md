@@ -1,5 +1,5 @@
 ---
-title: 'Sick of DT crying hoax'
+title: "Sick of DT crying hoax"
 layout: post
 author:
 - Rob Reiner
