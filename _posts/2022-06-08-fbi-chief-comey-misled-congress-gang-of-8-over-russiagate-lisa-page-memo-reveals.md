@@ -1,7 +1,7 @@
 ---
 title: "FBI Chief Comey misled Congress' 'Gang of 8' over Russiagate, Lisa Page memo reveals"
 layout: post
-author:
+tag:
 - Paul Sperry
 ---
 

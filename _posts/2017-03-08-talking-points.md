@@ -1,7 +1,7 @@
 ---
 title: "Talking Points"
 layout: post
-author:
+tag:
 - Lisa Page
 ---
 

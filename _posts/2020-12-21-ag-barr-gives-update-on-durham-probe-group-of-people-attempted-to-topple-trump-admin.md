@@ -1,7 +1,7 @@
 ---
 title: "AG Barr gives update on Durham Probe: 'Group of people' attempted to 'topple' Trump admin"
 layout: post
-author:
+tag:
 - Ryan Saavedra
 ---
 

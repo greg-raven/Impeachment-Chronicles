@@ -1,7 +1,7 @@
 ---
 title: "Text: [Bernie Sanders is] an idiot like Trump"
 layout: post
-author:
+tag:
 - Peter Strzok
 ---
 

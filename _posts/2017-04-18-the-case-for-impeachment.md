@@ -1,7 +1,7 @@
 ---
 title: "The Case for Impeachment"
 layout: post
-author:
+tag:
 - wikipedia.org
 ---
 

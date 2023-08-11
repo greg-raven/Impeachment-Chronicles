@@ -1,7 +1,7 @@
 ---
 title: "Was the 2016 election legitimate? It's now definitely worth asking the question"
 layout: post
-author:
+tag:
 - Virginia Heffernan
 ---
 

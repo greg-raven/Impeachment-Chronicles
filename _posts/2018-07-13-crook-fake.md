@@ -1,7 +1,7 @@
 ---
 title: "Crook? Fake?"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

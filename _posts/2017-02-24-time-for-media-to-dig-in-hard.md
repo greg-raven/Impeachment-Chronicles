@@ -1,7 +1,7 @@
 ---
 title: "Time for media to dig in hard"
 layout: post
-author:
+tag:
 - Rob Reiner
 ---
 

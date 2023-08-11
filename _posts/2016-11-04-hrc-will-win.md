@@ -1,7 +1,7 @@
 ---
 title: "HRC will win"
 layout: post
-author:
+tag:
 - Rob Reiner
 ---
 

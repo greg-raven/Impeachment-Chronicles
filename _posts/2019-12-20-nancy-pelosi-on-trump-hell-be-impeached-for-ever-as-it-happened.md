@@ -1,7 +1,7 @@
 ---
 title: "Nancy Pelosi on Trump: 'He'll be impeached for ever' — as it happened"
 layout: post
-author:
+tag:
 - Joan E. Greve
 ---
 

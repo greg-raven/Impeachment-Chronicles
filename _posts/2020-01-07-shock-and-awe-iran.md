@@ -1,7 +1,7 @@
 ---
 title: "Trump thinks he can overwhelm Iran"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

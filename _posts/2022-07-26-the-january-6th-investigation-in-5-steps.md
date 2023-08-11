@@ -1,7 +1,7 @@
 ---
 title: "The January 6th 'investigation' in 5 steps"
 layout: post
-author:
+tag:
 - Scott Adams
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Kill as many Americans as possible"
 layout: post
-author:
+tag:
 - Rob Reiner
 ---
 

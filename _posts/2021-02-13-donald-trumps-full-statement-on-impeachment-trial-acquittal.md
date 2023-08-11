@@ -1,7 +1,7 @@
 ---
 title: "Donald Trump's full statement on impeachment trial acquittal"
 layout: post
-author:
+tag:
 - Donald Trump
 ---
 

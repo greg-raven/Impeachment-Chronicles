@@ -1,7 +1,7 @@
 ---
 title: "Illegitimate POTUS"
 layout: post
-author:
+tag:
 - Rob Reiner
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Joe Biden, Kamala Harris Cite Debunked Charlottesville 'Fine People Hoax'"
 layout: post
-author:
+tag:
 - Joel D. Pollak
 ---
 

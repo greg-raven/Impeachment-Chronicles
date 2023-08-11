@@ -1,7 +1,7 @@
 ---
 title: "Here's everything the FBI deliberately ignored to get Trump in Russian collusion hoax, according to Durham"
 layout: post
-author:
+tag:
 - Jonathan Boyd
 ---
 

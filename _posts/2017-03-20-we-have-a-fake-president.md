@@ -1,7 +1,7 @@
 ---
 title: "We have a fake president"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

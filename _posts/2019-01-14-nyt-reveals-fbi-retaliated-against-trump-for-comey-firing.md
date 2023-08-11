@@ -1,7 +1,7 @@
 ---
 title: "NYT reveals FBI retaliated against Trump for Comey firing"
 layout: post
-author:
+tag:
 - Mollie Hemingway
 ---
 

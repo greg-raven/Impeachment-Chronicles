@@ -1,7 +1,7 @@
 ---
 title: "Tidal wave of Trump hatred"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

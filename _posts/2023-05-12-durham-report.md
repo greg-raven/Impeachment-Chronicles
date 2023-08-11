@@ -1,7 +1,7 @@
 ---
 title: "Report on Matters Related to Intelligence Activities and Investigations Arising Out of the 2016 Presidential Campaigns"
 layout: post
-author:
+tag:
 - John Durham
 ---
 

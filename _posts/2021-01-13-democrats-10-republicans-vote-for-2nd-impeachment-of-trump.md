@@ -1,7 +1,7 @@
 ---
 title: "Democrats, 10 Republicans vote for 2nd impeachment of Trump"
 layout: post
-author:
+tag:
 - Ivan Pentchoukov
 ---
 

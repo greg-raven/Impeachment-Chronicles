@@ -1,7 +1,7 @@
 ---
 title: "'It's time to stop comparing Trump to Hitler'"
 layout: post
-author:
+tag:
 - CNSNews.com
 ---
 

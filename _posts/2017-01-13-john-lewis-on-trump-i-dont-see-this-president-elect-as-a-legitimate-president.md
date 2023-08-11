@@ -1,7 +1,7 @@
 ---
 title: "John Lewis on Trump: 'I don't see this president-elect as a legitimate president'"
 layout: post
-author:
+tag:
 - Kyle Cheney
 - Josh Dawsey
 - Rebecca Morin

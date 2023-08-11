@@ -1,7 +1,7 @@
 ---
 title: "Only bad or sick guy is Trump"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Trump incited a violent attack on the Capitol"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

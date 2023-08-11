@@ -1,7 +1,7 @@
 ---
 title: "Federal indictment accuses Trump of lying and scheming to keep documents he knew were classified"
 layout: post
-author:
+tag:
 - Dareh Gregorian
 ---
 

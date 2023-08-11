@@ -1,7 +1,7 @@
 ---
 title: "How Russiagate became a story of old friends in high places"
 layout: post
-author:
+tag:
 - Eric Felten
 ---
 

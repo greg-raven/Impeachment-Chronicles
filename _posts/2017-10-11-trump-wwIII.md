@@ -1,7 +1,7 @@
 ---
 title: "This is how Trump could start World War III"
 layout: post
-author:
+tag:
 - Tom Z. Collina
 ---
 

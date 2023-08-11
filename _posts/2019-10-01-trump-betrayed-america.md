@@ -1,7 +1,7 @@
 ---
 title: "Trump betrayed America"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

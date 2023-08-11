@@ -1,7 +1,7 @@
 ---
 title: "It took 7 years for them to figure out what we already knew"
 layout: post
-author:
+tag:
 - Memology 101
 ---
 

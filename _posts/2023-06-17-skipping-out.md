@@ -1,7 +1,7 @@
 ---
 title: "The media lied about Trump not picking up the check in a Miami cafe"
 layout: post
-author:
+tag:
 - Jack Montgomery
 ---
 

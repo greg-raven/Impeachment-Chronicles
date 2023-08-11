@@ -1,7 +1,7 @@
 ---
 title: "I'm running for president"
 layout: post
-author:
+tag:
 - Bernie Sanders
 ---
 

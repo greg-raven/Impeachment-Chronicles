@@ -1,7 +1,7 @@
 ---
 title: "Donald Trump is a Nazi. Full stop."
 layout: post
-author:
+tag:
 - Drew Magary
 ---
 

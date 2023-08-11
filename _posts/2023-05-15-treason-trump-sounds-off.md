@@ -1,7 +1,7 @@
 ---
 title: "'Treason': Trump sounds off after Durham Report reveals FBI malfeasance"
 layout: post
-author:
+tag:
 - Paul Roland Bois
 ---
 

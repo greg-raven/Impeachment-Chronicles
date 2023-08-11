@@ -1,7 +1,7 @@
 ---
 title: "Transcript: Rep. Adam Schiff on 'Face the Nation'"
 layout: post
-author:
+tag:
 - Margaret Brennan
 - Adam Schiff
 ---

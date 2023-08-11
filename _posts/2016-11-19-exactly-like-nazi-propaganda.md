@@ -1,7 +1,7 @@
 ---
 title: "Exactly like Nazi propaganda"
 layout: post
-author:
+tag:
 - Dean Obeidallah
 ---
 

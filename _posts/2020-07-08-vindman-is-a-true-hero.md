@@ -1,7 +1,7 @@
 ---
 title: "Vindman is a true American hero"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

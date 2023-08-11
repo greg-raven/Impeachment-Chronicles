@@ -1,7 +1,7 @@
 ---
 title: "Robert De Niro smears Trump supporters as 'insane' at Cannes Film Festival"
 layout: post
-author:
+tag:
 - David Ng
 ---
 

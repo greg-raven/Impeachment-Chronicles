@@ -1,7 +1,7 @@
 ---
 title: "DNI declassifies Brennan notes, CIA memo on Hillary Clinton 'stirring up' scandal between Trump, Russia"
 layout: post
-author:
+tag:
 - Brooke Singman
 ---
 

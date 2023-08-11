@@ -1,7 +1,7 @@
 ---
 title: "Fact Check: Joe Biden Repeats the 'Very Fine People' Hoax at DNC"
 layout: post
-author:
+tag:
 - Joel D. Pollak
 ---
 

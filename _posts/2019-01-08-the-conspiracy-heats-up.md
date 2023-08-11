@@ -1,7 +1,7 @@
 ---
 title: "The conspiracy heats up"
 layout: post
-author:
+tag:
 - Rob Reiner
 ---
 

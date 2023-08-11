@@ -1,7 +1,7 @@
 ---
 title: "It was a coup attempt"
 layout: post
-author:
+tag:
 - Ruben Garcia
 ---
 

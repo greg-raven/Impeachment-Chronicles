@@ -1,7 +1,7 @@
 ---
 title: "FBI knew MI6 spook Steele was briefing media on Trump dossier but failed to act"
 layout: post
-author:
+tag:
 - James Tweedle
 ---
 

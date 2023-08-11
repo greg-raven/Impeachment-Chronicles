@@ -1,7 +1,7 @@
 ---
 title: "Shrinks battle over diagnosing Donald Trump"
 layout: post
-author:
+tag:
 - Hara Estroff Marano
 ---
 

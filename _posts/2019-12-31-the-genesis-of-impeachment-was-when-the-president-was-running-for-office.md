@@ -1,7 +1,7 @@
 ---
 title: "The genesis of impeachment was when the president was running for office"
 layout: post
-author:
+tag:
 - Al Green
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "House Foreign Affairs Committee Democrats support impeaching Trump"
 layout: post
-author:
+tag:
 - Laura Kelly
 ---
 

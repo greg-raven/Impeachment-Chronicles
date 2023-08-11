@@ -1,7 +1,7 @@
 ---
 title: "Adam Schiff shuts down conservative 'View' guest host"
 layout: post
-author:
+tag:
 - Matt Wilstein
 ---
 

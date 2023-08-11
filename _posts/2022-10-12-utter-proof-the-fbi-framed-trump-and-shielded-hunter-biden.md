@@ -1,7 +1,7 @@
 ---
 title: "Utter proof the FBI framed Trump and shielded Hunter Biden"
 layout: post
-author:
+tag:
 - Andrew C. McCarthy
 ---
 

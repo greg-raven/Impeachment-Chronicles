@@ -1,7 +1,7 @@
 ---
 title: "Starting over: The center right after Trump"
 layout: post
-author:
+tag:
 - Niskanen Center
 - Whit Ayres
 ---

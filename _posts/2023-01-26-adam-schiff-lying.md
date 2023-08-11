@@ -1,7 +1,7 @@
 ---
 title: "Why Kevin McCarthy would dare call Adam Schiff a liar"
 layout: post
-author:
+tag:
 - Newsbusters
 ---
 

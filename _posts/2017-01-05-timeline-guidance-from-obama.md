@@ -1,7 +1,7 @@
 ---
 title: "Timeline: Guidance from Obama"
 layout: post
-author:
+tag:
 - Mollie Hemingway
 ---
 

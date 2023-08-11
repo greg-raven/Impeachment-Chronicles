@@ -1,7 +1,7 @@
 ---
 title: "Flynn's original FD-302 is so important, the Special Counsel had to leak a prosecution threat against Flynn's son just to avoid turning it over to his original lawyers Covington"
 layout: post
-author:
+tag:
 - John W. Huber
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Damning notes from Peter Strzok about Russia, Manafort, and Roger Stone"
 layout: post
-author:
+tag:
 - Techno Fog
 ---
 

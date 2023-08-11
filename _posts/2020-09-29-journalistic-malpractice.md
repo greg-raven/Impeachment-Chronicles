@@ -1,7 +1,7 @@
 ---
 title: "Journalistic malpractice"
 layout: post
-author:
+tag:
 - Benny Johnson
 - Steve Cortes
 ---

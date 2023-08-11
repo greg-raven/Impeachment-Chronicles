@@ -1,7 +1,7 @@
 ---
 title: "Nazi Nazi RACIST Nazi BIGOT"
 layout: post
-author:
+tag:
 - Keith Olbermann
 ---
 

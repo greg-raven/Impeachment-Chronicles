@@ -1,7 +1,7 @@
 ---
 title: "Adam Schiff nails Mike Pence with new evidence in Ukraine scheme"
 layout: post
-author:
+tag:
 - Jason Easley
 ---
 

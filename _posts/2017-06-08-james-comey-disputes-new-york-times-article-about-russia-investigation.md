@@ -1,7 +1,7 @@
 ---
 title: "James Comey disputes New York Times article about Russia investigation"
 layout: post
-author:
+tag:
 - Michael S. Schmidt
 - Mark Mazzetti
 - Matt Apuzzo

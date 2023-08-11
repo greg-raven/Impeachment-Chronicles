@@ -1,7 +1,7 @@
 ---
 title: "Nancy Pelosi says she won't rule out indictment, impeachment for Trump"
 layout: post
-author:
+tag:
 - Eun Kyung Kim
 ---
 

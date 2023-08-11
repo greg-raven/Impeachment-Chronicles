@@ -1,7 +1,7 @@
 ---
 title: "Top Kerry Aide, key conduit for Steele Dossier, once worked for Russian oligarch, as did its author"
 layout: post
-author:
+tag:
 - Eric Felten
 ---
 

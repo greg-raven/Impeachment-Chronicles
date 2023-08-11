@@ -1,7 +1,7 @@
 ---
 title: "'Probably beyond Watergate'"
 layout: post
-author:
+tag:
 - Adam Schiff
 ---
 

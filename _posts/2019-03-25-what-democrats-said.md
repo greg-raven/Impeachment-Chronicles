@@ -1,7 +1,7 @@
 ---
 title: "What Democrats said about Trump, collusion before Mueller report"
 layout: post
-author:
+tag:
 - Jon Greenberg
 ---
 

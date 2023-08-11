@@ -1,7 +1,7 @@
 ---
 title: "Timeline: CNN leaks dossier"
 layout: post
-author:
+tag:
 - Mollie Hemingway
 ---
 

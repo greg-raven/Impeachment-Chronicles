@@ -1,7 +1,7 @@
 ---
 title: "First Republicans talk possibility of impeachment for Trump"
 layout: post
-author:
+tag:
 - Cristina Marcos
 ---
 

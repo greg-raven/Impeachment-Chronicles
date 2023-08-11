@@ -1,7 +1,7 @@
 ---
 title: "Grand jury indictment of Michael A. Sussman"
 layout: post
-author:
+tag:
 - John H. Durham
 ---
 

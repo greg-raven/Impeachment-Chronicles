@@ -1,7 +1,7 @@
 ---
 title: "CNN salivates over impeachment witness' deranged claim 600,000 Americans died because Trump acquitted"
 layout: post
-author:
+tag:
 - Kristine Marsh
 ---
 

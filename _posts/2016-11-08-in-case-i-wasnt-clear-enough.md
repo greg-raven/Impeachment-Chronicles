@@ -1,7 +1,7 @@
 ---
 title: "In case I wasn't clear enough"
 layout: post
-author:
+tag:
 - Frank Luntz
 ---
 

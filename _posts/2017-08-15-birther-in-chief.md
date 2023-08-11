@@ -1,7 +1,7 @@
 ---
 title: "Birther-in-chief"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

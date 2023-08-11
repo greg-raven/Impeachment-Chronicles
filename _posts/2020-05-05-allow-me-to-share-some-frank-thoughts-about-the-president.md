@@ -1,7 +1,7 @@
 ---
 title: "Allow me to share some frank thoughts about the 'president'"
 layout: post
-author:
+tag:
 - Dana Milbank
 ---
 

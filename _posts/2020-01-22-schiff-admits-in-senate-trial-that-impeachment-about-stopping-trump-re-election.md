@@ -1,7 +1,7 @@
 ---
 title: "Schiff admits in Senate trial that impeachment about stopping Trump re-election"
 layout: post
-author:
+tag:
 - Ryan Saavedra
 ---
 

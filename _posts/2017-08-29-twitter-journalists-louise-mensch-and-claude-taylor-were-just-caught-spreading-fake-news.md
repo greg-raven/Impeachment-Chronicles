@@ -1,7 +1,7 @@
 ---
 title: "Twitter 'journalists' Louise Mensch and Claude Taylor were just caught spreading fake news"
 layout: post
-author:
+tag:
 - Cale Guthrie Weissman
 ---
 

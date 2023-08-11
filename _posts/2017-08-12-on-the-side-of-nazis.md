@@ -1,7 +1,7 @@
 ---
 title: "Trump is on the side of the freaking Nazis"
 layout: post
-author:
+tag:
 - Katie Hobbs
 ---
 

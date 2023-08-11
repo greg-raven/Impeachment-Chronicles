@@ -1,7 +1,7 @@
 ---
 title: "Computer scientists have apparently uncovered a covert server linking the Trump Organization to a Russian-based bank."
 layout: post
-author:
+tag:
 - Hillary Clinton
 - Jake Sullivan
 ---

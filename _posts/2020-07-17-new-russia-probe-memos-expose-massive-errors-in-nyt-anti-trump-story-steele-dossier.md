@@ -1,7 +1,7 @@
 ---
 title: "New Russia probe memos expose massive errors in NYT anti-Trump story, Steele dossier"
 layout: post
-author:
+tag:
 - Sharyl Attkisson
 ---
 

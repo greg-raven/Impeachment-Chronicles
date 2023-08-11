@@ -1,7 +1,7 @@
 ---
 title: "Texts: Wow, Donald Trump is an enormous d*uche"
 layout: post
-author:
+tag:
 - Lisa Page
 - Peter Strzok
 ---

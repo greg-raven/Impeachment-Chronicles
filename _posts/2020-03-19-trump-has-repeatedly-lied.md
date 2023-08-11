@@ -1,7 +1,7 @@
 ---
 title: "So-called president has repeatedly lied"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

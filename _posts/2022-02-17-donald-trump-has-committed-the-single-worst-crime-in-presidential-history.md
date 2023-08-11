@@ -1,7 +1,7 @@
 ---
 title: "'Donald Trump has committed the single worst crime in presidential history'"
 layout: post
-author:
+tag:
 - CNSnews.com
 ---
 

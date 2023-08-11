@@ -1,7 +1,7 @@
 ---
 title: "Trump owes tens of millions to Bank of China"
 layout: post
-author:
+tag:
 - Marc Caputo
 - Meridith Mcgraw
 - Anita Kumar

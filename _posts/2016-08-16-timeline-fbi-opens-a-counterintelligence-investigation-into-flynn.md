@@ -1,7 +1,7 @@
 ---
 title: "Timeline: FBI opens a counterintelligence investigation into Flynn"
 layout: post
-author:
+tag:
 - Sidney Powell
 ---
 

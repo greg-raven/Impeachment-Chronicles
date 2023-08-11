@@ -1,7 +1,7 @@
 ---
 title: "Russia interfered with our election"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

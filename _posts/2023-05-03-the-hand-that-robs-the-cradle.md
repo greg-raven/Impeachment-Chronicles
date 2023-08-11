@@ -1,7 +1,7 @@
 ---
 title: "The hand that robs the cradle"
 layout: post
-author:
+tag:
 - Greg Price
 ---
 

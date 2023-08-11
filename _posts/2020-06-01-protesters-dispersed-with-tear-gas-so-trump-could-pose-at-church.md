@@ -1,7 +1,7 @@
 ---
 title: "Protesters dispersed with tear gas so Trump could pose at church"
 layout: post
-author:
+tag:
 - Katie Rogers
 ---
 

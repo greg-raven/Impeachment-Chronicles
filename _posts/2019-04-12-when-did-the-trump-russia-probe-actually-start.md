@@ -1,7 +1,7 @@
 ---
 title: "When did the Trump-Russia probe actually start?"
 layout: post
-author:
+tag:
 - Chuck Ross
 ---
 

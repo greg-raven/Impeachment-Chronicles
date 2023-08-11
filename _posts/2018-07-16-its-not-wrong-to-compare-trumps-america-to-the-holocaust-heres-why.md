@@ -1,7 +1,7 @@
 ---
 title: "It's not wrong to compare Trump's America to the Holocaust. Here's why"
 layout: post
-author:
+tag:
 - Waitman Wade Beorn
 ---
 

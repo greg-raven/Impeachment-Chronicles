@@ -1,7 +1,7 @@
 ---
 title: "Rep. Maxine Waters: 'Impeachment is about whatever the Congress says it is'"
 layout: post
-author:
+tag:
 - CNSNews.com
 ---
 

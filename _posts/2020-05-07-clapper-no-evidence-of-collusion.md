@@ -1,7 +1,7 @@
 ---
 title: "James Clapper Admitted No Direct Evidence of Russia Collusion in 2017"
 layout: post
-author:
+tag:
 - Joel B. Pollak
 ---
 

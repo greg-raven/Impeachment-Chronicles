@@ -2,7 +2,7 @@
 title: 'Report On The Investigation Into Russian Interference In The
 2016 Presidential Election'
 layout: post
-author:
+tag:
 - Robert Mueller
 ---
 

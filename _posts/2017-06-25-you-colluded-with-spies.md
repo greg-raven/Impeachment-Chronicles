@@ -1,7 +1,7 @@
 ---
 title: "Likely your campaign colluded with Russian spies"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

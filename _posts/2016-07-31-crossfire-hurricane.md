@@ -1,7 +1,7 @@
 ---
 title: "Crossfire Hurricane"
 layout: post
-author:
+tag:
 - Peter Strzok
 ---
 

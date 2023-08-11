@@ -1,7 +1,7 @@
 ---
 title: "Maxine Waters is right, impeachment IS whatever Congress says it is"
 layout: post
-author:
+tag:
 - Elura Nanos
 ---
 

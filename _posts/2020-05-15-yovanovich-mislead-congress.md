@@ -1,7 +1,7 @@
 ---
 title: "Key lawmaker says Marie Yovanovitch '1000%' misled Congress, DOJ should investigate"
 layout: post
-author:
+tag:
 - Sophie Mann
 ---
 

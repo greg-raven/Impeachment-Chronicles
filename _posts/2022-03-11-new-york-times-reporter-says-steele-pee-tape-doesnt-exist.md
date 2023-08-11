@@ -1,7 +1,7 @@
 ---
 title: "New York Times reporter says Steele pee tape doesn't exist"
 layout: post
-author:
+tag:
 - Jordan Dixon-Hamilton
 ---
 

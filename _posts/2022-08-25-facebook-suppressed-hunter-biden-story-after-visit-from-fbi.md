@@ -1,7 +1,7 @@
 ---
 title: "Facebook suppressed Hunter Biden story after visit from FBI"
 layout: post
-author:
+tag:
 - Todd Starnes
 ---
 

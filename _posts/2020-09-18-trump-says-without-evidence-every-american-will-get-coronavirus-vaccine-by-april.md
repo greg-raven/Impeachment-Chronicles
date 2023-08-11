@@ -1,7 +1,7 @@
 ---
 title: "Trump says, without evidence, every American will get coronavirus vaccine by April"
 layout: post
-author:
+tag:
 - Colby Itkowitz
 - Carolyn Y. Johnson
 ---

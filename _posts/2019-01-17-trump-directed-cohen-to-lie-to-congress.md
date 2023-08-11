@@ -1,7 +1,7 @@
 ---
 title: "President Trump Directed His Attorney Michael Cohen To Lie To Congress About The Moscow Tower Project"
 layout: post
-author:
+tag:
 - Jason Leopold
 - Anthony Cormier
 ---

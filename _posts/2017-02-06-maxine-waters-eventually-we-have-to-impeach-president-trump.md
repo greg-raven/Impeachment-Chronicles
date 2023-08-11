@@ -1,7 +1,7 @@
 ---
 title: "Maxine Waters: 'Eventually' we have to impeach President Trump"
 layout: post
-author:
+tag:
 - Grabien staff
 ---
 

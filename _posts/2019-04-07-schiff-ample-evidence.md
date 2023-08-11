@@ -1,7 +1,7 @@
 ---
 title: "Adam Schiff: 'Ample' evidence of Trump-Russia collusion 'in plain sight'"
 layout: post
-author:
+tag:
 - David Sherfinski
 ---
 

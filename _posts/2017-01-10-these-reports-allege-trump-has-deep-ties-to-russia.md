@@ -1,7 +1,7 @@
 ---
 title: "These reports allege Trump has deep ties to Russia"
 layout: post
-author:
+tag:
 - Ken Bensinger
 - Miriam Elder
 - Mark Schoofs

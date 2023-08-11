@@ -1,7 +1,7 @@
 ---
 title: "The Dangerous Case of Donald Trump"
 layout: post
-author:
+tag:
 - wikipedia.org
 ---
 

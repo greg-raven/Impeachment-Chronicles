@@ -1,7 +1,7 @@
 ---
 title: "Russell Fry questions John Durham about Crossfire Hurricane"
 layout: post
-author:
+tag:
 - Russell Fry
 - John Durham
 ---

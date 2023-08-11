@@ -1,7 +1,7 @@
 ---
 title: "Whistleblower was overheard in 2017 discussing with ally how to remove Trump"
 layout: post
-author:
+tag:
 - Paul Sperry
 ---
 

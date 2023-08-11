@@ -1,7 +1,7 @@
 ---
 title: "War crimes"
 layout: post
-author:
+tag:
 - RNC Research
 ---
 

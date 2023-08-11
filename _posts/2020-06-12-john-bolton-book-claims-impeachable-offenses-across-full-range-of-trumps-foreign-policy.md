@@ -1,7 +1,7 @@
 ---
 title: "John Bolton book claims impeachable offenses across 'full range' of Trump's foreign policy"
 layout: post
-author:
+tag:
 - Joe DePaolo
 ---
 

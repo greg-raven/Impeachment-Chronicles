@@ -1,7 +1,7 @@
 ---
 title: "Congressional candidate forms Impeach Trump PAC"
 layout: post
-author:
+tag:
 - Lisa Hagen
 ---
 

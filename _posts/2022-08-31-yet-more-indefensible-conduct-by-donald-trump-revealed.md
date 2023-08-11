@@ -1,7 +1,7 @@
 ---
 title: "Yet more indefensible conduct by Donald Trump"
 layout: post
-author:
+tag:
 - Liz Cheney
 ---
 

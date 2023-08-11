@@ -1,7 +1,7 @@
 ---
 title: "Obama Defense Official Evelyn Farkas Admitted She Lied On MSNBC About Having Evidence Of Collusion"
 layout: post
-author:
+tag:
 - Sean Davis
 ---
 

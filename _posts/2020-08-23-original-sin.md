@@ -1,7 +1,7 @@
 ---
 title: "Original sin"
 layout: post
-author:
+tag:
 - Rob Reiner
 ---
 

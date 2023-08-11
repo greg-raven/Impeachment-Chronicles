@@ -1,7 +1,7 @@
 ---
 title: "Durham shocker: Danchenko was a paid FBI informant"
 layout: post
-author:
+tag:
 - Techno Fog
 ---
 

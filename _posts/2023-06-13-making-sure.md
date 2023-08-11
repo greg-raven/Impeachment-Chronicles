@@ -1,7 +1,7 @@
 ---
 title: "Making sure Trump doesn't become president again"
 layout: post
-author:
+tag:
 - Joe Biden
 ---
 

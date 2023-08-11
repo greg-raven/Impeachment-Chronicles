@@ -1,7 +1,7 @@
 ---
 title: "Trump is destroying the economy out of spite"
 layout: post
-author:
+tag:
 - Bess Levin
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Only guy trying to steal the election is Trump"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

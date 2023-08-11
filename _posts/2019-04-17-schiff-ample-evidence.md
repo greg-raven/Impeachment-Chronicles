@@ -1,7 +1,7 @@
 ---
 title: "Adam Schiff tells CNN's Tapper there's 'ample evidence of collusion in plain sight' after being asked if 'Mueller got it wrong'"
 layout: post
-author:
+tag:
 - Christina Zhao
 ---
 

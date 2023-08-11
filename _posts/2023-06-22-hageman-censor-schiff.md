@@ -1,7 +1,7 @@
 ---
 title: "Harriet Hageman supports censoring Adam Schiff"
 layout: post
-author:
+tag:
 - Harriet Hageman
 ---
 

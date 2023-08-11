@@ -1,7 +1,7 @@
 ---
 title: "Manafort held secret talks with Assange in Ecuadorian embassy, sources say"
 layout: post
-author:
+tag:
 - Luke Harding
 - Dan Collyns
 ---

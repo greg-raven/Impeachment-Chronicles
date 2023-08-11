@@ -1,7 +1,7 @@
 ---
 title: "Pelosi to Trump: You are impeached forever (and your tweets are crazy)"
 layout: post
-author:
+tag:
 - Jordan Hoffman
 ---
 

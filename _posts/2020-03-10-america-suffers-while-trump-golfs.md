@@ -1,7 +1,7 @@
 ---
 title: "America suffers and Trump plays golf"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

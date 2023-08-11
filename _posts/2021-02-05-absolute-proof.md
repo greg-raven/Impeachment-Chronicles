@@ -1,7 +1,7 @@
 ---
 title: "Absolute proof"
 layout: post
-author:
+tag:
 - Mike Lindell
 ---
 

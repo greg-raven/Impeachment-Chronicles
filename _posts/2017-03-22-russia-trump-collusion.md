@@ -1,7 +1,7 @@
 ---
 title: "Russia/Trump campaign colluded"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

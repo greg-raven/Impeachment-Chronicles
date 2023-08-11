@@ -1,7 +1,7 @@
 ---
 title: "Democrats releasing report of Russia probe leads that should be followed, says Rep. Adam Schiff"
 layout: post
-author:
+tag:
 - Adam Schiff
 - Judy Woodruff
 - John Yang

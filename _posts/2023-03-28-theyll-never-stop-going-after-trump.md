@@ -1,7 +1,7 @@
 ---
 title: "They'll never stop going after Trump"
 layout: post
-author:
+tag:
 - Jim Jordan
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Why billionaire Tom Steyer wants Donald Trump impeached"
 layout: post
-author:
+tag:
 - Katy Steinmetz
 ---
 

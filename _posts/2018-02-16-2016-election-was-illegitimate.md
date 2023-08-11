@@ -1,7 +1,7 @@
 ---
 title: "2016 election was illegitimate"
 layout: post
-author:
+tag:
 - Hakeen Jeffries
 ---
 

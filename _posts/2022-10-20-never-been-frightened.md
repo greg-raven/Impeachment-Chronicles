@@ -1,7 +1,7 @@
 ---
 title: "Never been frightened?"
 layout: post
-author:
+tag:
 - CasuallyGreg
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "To spy on a Trump aide, the FBI pursued a dossier rumor the press shot down as 'bullshit'"
 layout: post
-author:
+tag:
 - Paul Sperry
 ---
 

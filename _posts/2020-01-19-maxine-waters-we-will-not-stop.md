@@ -1,7 +1,7 @@
 ---
 title: "Maxine Waters: 'We will not stop'"
 layout: post
-author:
+tag:
 - Maxine Waters
 ---
 

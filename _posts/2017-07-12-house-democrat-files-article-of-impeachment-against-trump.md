@@ -1,7 +1,7 @@
 ---
 title: "House Democrat files article of impeachment against Trump"
 layout: post
-author:
+tag:
 - Cristina Marcos
 ---
 

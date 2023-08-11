@@ -1,7 +1,7 @@
 ---
 title: "The Constitution is clear"
 layout: post
-author:
+tag:
 - Greg Pinelo
 ---
 

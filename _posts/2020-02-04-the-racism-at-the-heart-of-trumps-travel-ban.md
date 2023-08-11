@@ -1,7 +1,7 @@
 ---
 title: "The racism at the heart of Trump's 'travel ban'"
 layout: post
-author:
+tag:
 - Jamelle Bouie
 ---
 

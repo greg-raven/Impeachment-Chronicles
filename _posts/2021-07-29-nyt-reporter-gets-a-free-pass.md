@@ -1,7 +1,7 @@
 ---
 title: "NYT journalist gets a free pass"
 layout: post
-author:
+tag:
 - Djcalligraphy
 ---
 

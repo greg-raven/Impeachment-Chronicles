@@ -1,7 +1,7 @@
 ---
 title: "Pathological liar exposed again"
 layout: post
-author:
+tag:
 - Rob Reiner
 ---
 

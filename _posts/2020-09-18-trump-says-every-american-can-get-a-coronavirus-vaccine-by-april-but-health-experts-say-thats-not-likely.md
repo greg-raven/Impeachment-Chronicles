@@ -1,7 +1,7 @@
 ---
 title: "Trump says every American can get a coronavirus vaccine by April, but health experts say that's not likely"
 layout: post
-author:
+tag:
 - Maggie Fox
 - Nikki Carvajal
 ---

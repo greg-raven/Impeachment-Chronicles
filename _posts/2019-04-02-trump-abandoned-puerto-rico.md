@@ -1,7 +1,7 @@
 ---
 title: "Trump abandoned Puerto Rico"
 layout: post
-author:
+tag:
 - Hakeem Jeffries
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Ukrainian efforts to sabotage Trump backfire"
 layout: post
-author:
+tag:
 - Austin Wright
 - Martin Matishak
 ---

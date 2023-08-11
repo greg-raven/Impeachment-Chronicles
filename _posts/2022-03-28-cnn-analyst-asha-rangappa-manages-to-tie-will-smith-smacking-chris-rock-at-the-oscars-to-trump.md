@@ -1,7 +1,7 @@
 ---
 title: "CNN analyst Asha Rangappa manages to tie Will Smith smacking Chris Rock at the Oscars to Trump"
 layout: post
-author:
+tag:
 - Twitchy
 ---
 

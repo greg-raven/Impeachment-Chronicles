@@ -1,7 +1,7 @@
 ---
 title: "Schiff defends Steele Dossier comments, saying Russia ties 'proved all too accurate'"
 layout: post
-author:
+tag:
 - TŽa Kvetenadze
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Which Republicans oppose Trump and why?"
 layout: post
-author:
+tag:
 - Rachel Chason
 ---
 

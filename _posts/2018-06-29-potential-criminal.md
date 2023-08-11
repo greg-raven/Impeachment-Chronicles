@@ -1,7 +1,7 @@
 ---
 title: "'We cannot allow' 'a potential criminal' to pick a Supreme Court justice!"
 layout: post
-author:
+tag:
 - Curtis Houck
 ---
 

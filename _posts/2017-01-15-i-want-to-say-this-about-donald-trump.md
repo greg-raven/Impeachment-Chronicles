@@ -1,7 +1,7 @@
 ---
 title: "'I want to say this about Donald Trump …'"
 layout: post
-author:
+tag:
 - David Weigel
 - Jamie Raskin
 ---

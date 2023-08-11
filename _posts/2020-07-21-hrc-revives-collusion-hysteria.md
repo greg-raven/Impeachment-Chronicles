@@ -1,7 +1,7 @@
 ---
 title: "Hillary Clinton attempts to revive Russia hysteria before election"
 layout: post
-author:
+tag:
 - Matt Palumbo
 ---
 

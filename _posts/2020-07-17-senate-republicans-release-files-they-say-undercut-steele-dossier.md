@@ -1,7 +1,7 @@
 ---
 title: "Senate Republicans release files they say 'undercut' Steele dossier"
 layout: post
-author:
+tag:
 - Brooke Singman
 ---
 

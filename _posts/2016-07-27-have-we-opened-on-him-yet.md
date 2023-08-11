@@ -1,7 +1,7 @@
 ---
 title: "Texts: Have we opened on him yet?"
 layout: post
-author:
+tag:
 - Lisa Page
 - Peter Strzok
 ---

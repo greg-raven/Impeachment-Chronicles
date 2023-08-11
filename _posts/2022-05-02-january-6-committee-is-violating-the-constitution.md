@@ -1,7 +1,7 @@
 ---
 title: "January 6 Committee 'Is violating the Constitution'"
 layout: post
-author:
+tag:
 - Jeff Poor
 ---
 
