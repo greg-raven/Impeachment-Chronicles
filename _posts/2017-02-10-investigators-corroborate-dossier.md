@@ -40,7 +40,7 @@ The dossier was commissioned as opposition research by political opponents of th
 
 CNN's Pamela Brown and Marshall Cohen contributed to this story.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTBK4fnq04" title="CNN Exclusive : US investigators corroborate some aspects of Trump Russia Dossier"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTBK4fnq04" title="CNN Exclusive: US investigators corroborate some aspects of Trump Russia Dossier"></iframe>
 
 Source: Jim Sciutto and Evan Perez, cnn.com/2017/02/10/politics/russia-dossier-update/index.html
 
