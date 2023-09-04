@@ -5,7 +5,7 @@ tags:
 - Harriet Hageman
 ---
 
-<iframe width="640" height="360" src="https://www.bitchute.com/embed/zAxPUyDzI9I/" title="Harriet Hageman supports censoring Adam Schiff" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.bitchute.com/embed/zAxPUyDzI9I/" title="Harriet Hageman supports censoring Adam Schiff" allowfullscreen></iframe>
 
 Rough transcript:
 

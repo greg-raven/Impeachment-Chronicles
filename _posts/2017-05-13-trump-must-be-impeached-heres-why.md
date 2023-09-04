@@ -9,7 +9,7 @@ The time has come for Congress to launch an impeachment investigation of Preside
 
 The remedy of impeachment was designed to create a last-resort mechanism for preserving our constitutional system. It operates by removing executive-branch officials who have so abused power through what the framers called "high crimes and misdemeanors" that they cannot be trusted to continue in office.
 
-<iframe height="290" loading="lazy" src="https://www.washingtonpost.com/video/c/embed/b9d4d7c2-35c7-11e7-ab03-aa29f656f13e" width="480"></iframe>
+<iframe width="560" height="315" src="https://www.washingtonpost.com/video/c/embed/b9d4d7c2-35c7-11e7-ab03-aa29f656f13e"></iframe>
 
 No American president has ever been removed for such abuses, although Andrew Johnson was impeached and came within a single vote of being convicted by the Senate and removed, and Richard Nixon resigned to avoid that fate.
 
