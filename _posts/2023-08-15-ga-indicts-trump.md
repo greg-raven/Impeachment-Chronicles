@@ -1,7 +1,7 @@
 ---
 title: "Trump, 18 allies indicted in Georgia over 2020 election meddling, the 4th criminal case against him"
 layout: post
-author:
+tag:
 - Kate Brumback
 - Eric Tucker
 ---
