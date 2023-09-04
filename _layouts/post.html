@@ -18,7 +18,7 @@ layout: base
         </time>
       {%- endif -%}
       {%- if page.tags -%}
-        • {% for tag in page.tags %}
+        &bull; {% for tag in page.tags %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span class="p-author h-card" itemprop="name">{{ tag }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
