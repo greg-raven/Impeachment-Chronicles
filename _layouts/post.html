@@ -17,13 +17,14 @@ layout: base
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      {%- if page.tag -%}
-        • {% for tag in page.tag %}
+      {%- if page.tags -%}
+        • {% for tag in page.tags %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
             <span class="p-author h-card" itemprop="name">{{ tag }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
-      {%- endif -%}</p>
+      {%- endif -%}
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
