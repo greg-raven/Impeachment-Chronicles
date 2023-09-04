@@ -1,7 +1,7 @@
 ---
 title: "Corker: Trump is setting up the country for World War III"
 layout: post
-tag:
+tags:
 - Jacqueline Thomsen
 ---
 

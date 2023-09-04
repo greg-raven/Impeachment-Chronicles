@@ -1,7 +1,7 @@
 ---
 title: "The 25th Amendment loophole Democrats could use against Trump"
 layout: post
-tag:
+tags:
 - Abigail Tracy
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Improper or illegal collusion"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

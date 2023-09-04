@@ -1,7 +1,7 @@
 ---
 title: "Who has been impeached before?"
 layout: post
-tag:
+tags:
 - Tom McCarthy
 ---
 

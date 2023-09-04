@@ -1,7 +1,7 @@
 ---
 title: "CIA solicited signatures for 'Russian disinformation' letter"
 layout: post
-tag:
+tags:
 - Brett T.
 ---
 

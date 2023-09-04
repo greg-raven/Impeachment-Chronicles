@@ -1,7 +1,7 @@
 ---
 title: "He will lie, cheat, steal, and break laws"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

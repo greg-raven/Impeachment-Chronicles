@@ -1,7 +1,7 @@
 ---
 title: "Ciaramella discusses how to remove Trump"
 layout: post
-tag:
+tags:
 - Paul Sperry
 ---
 

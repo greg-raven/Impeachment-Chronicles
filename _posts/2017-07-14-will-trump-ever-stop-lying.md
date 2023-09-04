@@ -1,7 +1,7 @@
 ---
 title: "Trump will never stop lying"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

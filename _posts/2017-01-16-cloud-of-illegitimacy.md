@@ -1,7 +1,7 @@
 ---
 title: "Cloud of illegitimacy"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "They stole the election"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

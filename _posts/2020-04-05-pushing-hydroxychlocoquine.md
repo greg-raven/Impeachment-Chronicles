@@ -1,7 +1,7 @@
 ---
 title: "Pushing hydroxychlocoquine"
 layout: post
-tag:
+tags:
 - KatMcButterfly
 - Tavia Galonski
 ---

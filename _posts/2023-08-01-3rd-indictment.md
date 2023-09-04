@@ -1,7 +1,7 @@
 ---
 title: "Trump has now been indicted in a third case"
 layout: post
-tag:
+tags:
 - Associated Press
 ---
 

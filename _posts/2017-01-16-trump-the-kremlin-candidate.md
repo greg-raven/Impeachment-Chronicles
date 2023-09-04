@@ -1,7 +1,7 @@
 ---
 title: "Trump: The Kremlin Candidate?"
 layout: post
-tag:
+tags:
 - Wikipedia
 ---
 

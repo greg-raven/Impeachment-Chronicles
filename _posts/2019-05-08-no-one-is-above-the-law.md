@@ -1,7 +1,7 @@
 ---
 title: "No one is above the law"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

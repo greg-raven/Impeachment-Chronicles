@@ -1,7 +1,7 @@
 ---
 title: "Mark Hamill goes full Mark Hamill, claims former President Donald Trump incited a 'violent insurrection' and a 'coup' on January 6th"
 layout: post
-tag:
+tags:
 - Spencer Baculi
 ---
 

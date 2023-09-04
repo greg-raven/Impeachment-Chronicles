@@ -1,7 +1,7 @@
 ---
 title: "Coronavirus: Trump peddles snake oil over chloroquine test, false hope"
 layout: post
-tag:
+tags:
 - USA Today
 ---
 

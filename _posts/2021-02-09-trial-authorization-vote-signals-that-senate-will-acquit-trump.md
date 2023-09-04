@@ -1,7 +1,7 @@
 ---
 title: "Trial authorization vote signals that Senate will acquit Trump"
 layout: post
-tag:
+tags:
 - Ivan Pentchoukov
 ---
 

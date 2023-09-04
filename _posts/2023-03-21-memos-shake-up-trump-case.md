@@ -1,7 +1,7 @@
 ---
 title: "Memos from 2018-19 shake up Trump case: Cohen denied having incriminating evidence on hush money"
 layout: post
-tag:
+tags:
 - Nick Givas
 - John Solomon
 ---

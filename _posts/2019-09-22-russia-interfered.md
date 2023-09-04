@@ -1,7 +1,7 @@
 ---
 title: "Russia interfered in 2016 election"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

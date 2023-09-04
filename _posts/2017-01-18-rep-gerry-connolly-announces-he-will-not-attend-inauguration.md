@@ -1,7 +1,7 @@
 ---
 title: "Rep. Gerry Connolly announces he will not attend inauguration"
 layout: post
-tag:
+tags:
 - Alex Koma
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Judge dismisses claims against Trump over clearing DC protestors from Lafayette Square"
 layout: post
-tag:
+tags:
 - Katie Daviscourt
 ---
 

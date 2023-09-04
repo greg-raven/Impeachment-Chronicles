@@ -1,7 +1,7 @@
 ---
 title: "Title"
 layout: post
-tag:
+tags:
 - Author
 ---
 

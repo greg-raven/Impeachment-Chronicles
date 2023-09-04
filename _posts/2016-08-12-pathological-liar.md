@@ -1,7 +1,7 @@
 ---
 title: "Pathological liar"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

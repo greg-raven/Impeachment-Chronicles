@@ -1,7 +1,7 @@
 ---
 title: "Condemn Trump for not condeming Nazis"
 layout: post
-tag:
+tags:
 - Katie Hobbs
 ---
 

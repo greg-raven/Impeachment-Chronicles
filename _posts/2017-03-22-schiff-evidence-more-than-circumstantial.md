@@ -1,7 +1,7 @@
 ---
 title: "Schiff: 'There is more than circumstantial evidence now'"
 layout: post
-tag:
+tags:
 - David A. Graham
 ---
 

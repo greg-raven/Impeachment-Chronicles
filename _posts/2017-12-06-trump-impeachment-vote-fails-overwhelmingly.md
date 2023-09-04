@@ -1,7 +1,7 @@
 ---
 title: "Trump impeachment vote fails overwhelmingly"
 layout: post
-tag:
+tags:
 - Kyle Cheney
 ---
 

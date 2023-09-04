@@ -1,7 +1,7 @@
 ---
 title: "Feds' foreign-corruption double standard: They protected Bidens even as they bore down on Trumpworld"
 layout: post
-tag:
+tags:
 - Paul Sperry
 ---
 

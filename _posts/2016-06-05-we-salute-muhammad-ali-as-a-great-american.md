@@ -1,7 +1,7 @@
 ---
 title: "We salute Muhammad Ali as a great American"
 layout: post
-tag:
+tags:
 - Steve Dettelbach
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Obama activated Stefan Halper as a government contractor at start of primaries"
 layout: post
-tag:
+tags:
 - Patrick Howley
 ---
 

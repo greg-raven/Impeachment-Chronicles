@@ -1,7 +1,7 @@
 ---
 title: "The Fifth Estate"
 layout: post
-tag:
+tags:
 - Mike Solana
 ---
 

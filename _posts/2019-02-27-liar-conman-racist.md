@@ -1,7 +1,7 @@
 ---
 title: "A liar, a con man, and a racist"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

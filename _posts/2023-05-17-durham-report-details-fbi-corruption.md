@@ -1,7 +1,7 @@
 ---
 title: "Durham Report details FBI corruption in Trump-Russia Investigation"
 layout: post
-tag:
+tags:
 - Matt Christiansen
 ---
 

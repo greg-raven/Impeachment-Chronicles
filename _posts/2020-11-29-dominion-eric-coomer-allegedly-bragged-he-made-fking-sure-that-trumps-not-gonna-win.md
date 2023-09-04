@@ -1,7 +1,7 @@
 ---
 title: "DOMINION: Eric Coomer allegedly bragged he 'made f**king sure' that 'Trump's not gonna win'"
 layout: post
-tag:
+tags:
 - Frank Salvato
 ---
 

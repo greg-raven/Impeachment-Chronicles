@@ -1,7 +1,7 @@
 ---
 title: "Crazy as sh*t"
 layout: post
-tag:
+tags:
 - Dan Riehl
 ---
 

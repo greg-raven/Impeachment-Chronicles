@@ -1,7 +1,7 @@
 ---
 title: "Former Republican Senator Jeff Flake says Trump's actions 'warrant impeachment'"
 layout: post
-tag:
+tags:
 - Alexandra Hutzler
 ---
 

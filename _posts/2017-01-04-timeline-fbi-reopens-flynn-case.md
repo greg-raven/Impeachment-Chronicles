@@ -1,7 +1,7 @@
 ---
 title: "Timeline: FBI 'reopens' Flynn case"
 layout: post
-tag:
+tags:
 - Mollie Hemingway
 ---
 

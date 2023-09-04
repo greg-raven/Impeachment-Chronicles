@@ -1,7 +1,7 @@
 ---
 title: "Killing democracy"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

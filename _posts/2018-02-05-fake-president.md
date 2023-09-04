@@ -1,7 +1,7 @@
 ---
 title: "Fake president"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

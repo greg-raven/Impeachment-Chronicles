@@ -1,7 +1,7 @@
 ---
 title: "Donald Trump is not above the law"
 layout: post
-tag:
+tags:
 - The New York Times
 ---
 

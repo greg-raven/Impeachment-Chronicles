@@ -1,7 +1,7 @@
 ---
 title: "Pelosi: Democrats will move to impeach Trump"
 layout: post
-tag:
+tags:
 - Scott Wong
 - Mike Lillis
 ---

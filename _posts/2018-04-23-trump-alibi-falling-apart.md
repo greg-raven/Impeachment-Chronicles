@@ -1,7 +1,7 @@
 ---
 title: "Trump's pee-tape alibi is falling apart"
 layout: post
-tag:
+tags:
 - Bess Levin
 ---
 

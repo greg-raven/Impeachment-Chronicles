@@ -1,7 +1,7 @@
 ---
 title: "Judge releases new information from Mar-a-Lago search warrant, including photos"
 layout: post
-tag:
+tags:
 - Carmine Sabia
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Democracy demands & depends on a fair trial"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

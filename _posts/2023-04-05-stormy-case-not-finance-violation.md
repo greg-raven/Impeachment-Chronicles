@@ -1,7 +1,7 @@
 ---
 title: "FEC: Trump-Stormy case 'not a campaign finance violation'"
 layout: post
-tag:
+tags:
 -
 ---
 

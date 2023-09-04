@@ -1,7 +1,7 @@
 ---
 title: "Trump encourages racist conspiracy theory about Kamala Harris"
 layout: post
-tag:
+tags:
 - Katie Rogers
 ---
 

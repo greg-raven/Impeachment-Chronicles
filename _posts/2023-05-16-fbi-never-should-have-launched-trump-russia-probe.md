@@ -1,7 +1,7 @@
 ---
 title: "Special counsel John Durham concludes FBI never should have launched full Trump-Russia probe"
 layout: post
-tag:
+tags:
 - Zachary Cohen
 - Devan Cole
 - Tierney Sneed

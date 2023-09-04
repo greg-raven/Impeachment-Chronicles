@@ -1,7 +1,7 @@
 ---
 title: "Donald Trump is a Nazi sympathizer"
 layout: post
-tag:
+tags:
 - Reuben Brigety
 ---
 

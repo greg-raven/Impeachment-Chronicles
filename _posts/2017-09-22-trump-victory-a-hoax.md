@@ -1,7 +1,7 @@
 ---
 title: "The hoax is likely your so-called victor"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

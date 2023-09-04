@@ -1,7 +1,7 @@
 ---
 title: "Rep. Castro floats impeachment of Trump if court orders on exec order ignored"
 layout: post
-tag:
+tags:
 - Chris Hayes
 - Julian Castro
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Adam Schiff reiterates there's 'plenty of evidence of collusion' with Russia"
 layout: post
-tag:
+tags:
 - Bailey Vogt
 - Stephen Dinan
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Pelosi: 'It's not a question' of 'proof' it's about 'allegations'"
 layout: post
-tag:
+tags:
 - Nancy Pelosi
 ---
 

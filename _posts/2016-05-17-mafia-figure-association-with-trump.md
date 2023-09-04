@@ -1,7 +1,7 @@
 ---
 title: "Former Mafia-linked figure describes association with Trump"
 layout: post
-tag:
+tags:
 - Rosalind S. Helderman
 - Tom Hamburger
 ---

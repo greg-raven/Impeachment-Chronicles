@@ -1,7 +1,7 @@
 ---
 title: "Republicans wrestle over removing Trump"
 layout: post
-tag:
+tags:
 - Alexander Bolton
 ---
 

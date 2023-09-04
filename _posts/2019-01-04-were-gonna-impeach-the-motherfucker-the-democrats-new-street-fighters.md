@@ -1,7 +1,7 @@
 ---
 title: "'We're gonna impeach the motherfucker': the Democrats' new street fighters"
 layout: post
-tag:
+tags:
 - Luke O'Neil
 ---
 

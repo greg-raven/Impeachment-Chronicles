@@ -1,7 +1,7 @@
 ---
 title: "Malignant narcissist"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

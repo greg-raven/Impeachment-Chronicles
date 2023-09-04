@@ -1,7 +1,7 @@
 ---
 title: "Ex-FBI lawyer admits to false statement during Russia probe"
 layout: post
-tag:
+tags:
 - Eric Tucker
 ---
 

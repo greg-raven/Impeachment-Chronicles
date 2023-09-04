@@ -1,7 +1,7 @@
 ---
 title: "Rep. Adam Schiff says 'plenty of evidence' of Russia collusion hiding 'in plain sight'"
 layout: post
-tag:
+tags:
 - Emily Tillett
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Trump is tearing America apart"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

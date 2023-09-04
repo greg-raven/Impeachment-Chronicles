@@ -1,7 +1,7 @@
 ---
 title: "The campaign to impeach President Trump has begun"
 layout: post
-tag:
+tags:
 - Matea Gold
 ---
 

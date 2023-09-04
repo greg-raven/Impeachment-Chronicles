@@ -1,7 +1,7 @@
 ---
 title: "176 members of the House now co-sponsoring the article of impeachment"
 layout: post
-tag:
+tags:
 - David Cicilline
 ---
 

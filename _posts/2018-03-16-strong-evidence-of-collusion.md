@@ -1,7 +1,7 @@
 ---
 title: "'Strong evidence' of 'clear' Russian collusion"
 layout: post
-tag:
+tags:
 - Eric Swalwell
 ---
 

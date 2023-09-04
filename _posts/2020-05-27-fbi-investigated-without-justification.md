@@ -1,7 +1,7 @@
 ---
 title: "New FBI document confirms the Trump campaign was investigated without justification"
 layout: post
-tag:
+tags:
 - Kevin R. Brock
 ---
 

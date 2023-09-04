@@ -1,7 +1,7 @@
 ---
 title: "President Trump is a Russian 'asset' and 'We are in dire trouble'"
 layout: post
-tag:
+tags:
 - Nick Schager
 ---
 

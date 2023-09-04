@@ -1,7 +1,7 @@
 ---
 title: "Even if the Steele dossier is discredited, there's plenty of evidence of Trump's collusion with Russia"
 layout: post
-tag:
+tags:
 - Max Boot
 ---
 

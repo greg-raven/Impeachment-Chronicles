@@ -1,7 +1,7 @@
 ---
 title: "Trump: Unprecedented 'witch-hunt' is 'election interference'"
 layout: post
-tag:
+tags:
 - Eric Mack
 ---
 

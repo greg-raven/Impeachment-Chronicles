@@ -1,7 +1,7 @@
 ---
 title: "How a Russian disinfo op got Trump impeached"
 layout: post
-tag:
+tags:
 - Natasha Bertrand
 ---
 

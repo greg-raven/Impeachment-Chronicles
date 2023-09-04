@@ -1,7 +1,7 @@
 ---
 title: "Former Democrat leader Daschle warns against Trump impeachment"
 layout: post
-tag:
+tags:
 - Nancy Ognanovich
 ---
 

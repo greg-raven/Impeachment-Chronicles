@@ -1,7 +1,7 @@
 ---
 title: "Twice impeached former so-called president"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

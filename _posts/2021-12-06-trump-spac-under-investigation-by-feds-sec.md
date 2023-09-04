@@ -1,7 +1,7 @@
 ---
 title: "Trump SPAC under investigation by feds, SEC"
 layout: post
-tag:
+tags:
 - Will Feuer
 ---
 

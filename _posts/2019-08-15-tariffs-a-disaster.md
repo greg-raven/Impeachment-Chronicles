@@ -1,7 +1,7 @@
 ---
 title: "Trump tariffs a disaster for everyday Americans"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

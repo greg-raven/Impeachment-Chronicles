@@ -1,7 +1,7 @@
 ---
 title: "Donald Trump destroyed the economy"
 layout: post
-tag:
+tags:
 - Ryan Cooper
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Russia released docs to help Trump"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

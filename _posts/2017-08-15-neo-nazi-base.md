@@ -1,7 +1,7 @@
 ---
 title: "Neo-Nazi base"
 layout: post
-tag:
+tags:
 - Katie Hobbs
 ---
 

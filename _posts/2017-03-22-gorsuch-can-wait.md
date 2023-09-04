@@ -1,7 +1,7 @@
 ---
 title: "Gorsuch can wait"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

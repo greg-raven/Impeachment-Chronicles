@@ -1,7 +1,7 @@
 ---
 title: "Get the fuck out of our society"
 layout: post
-tag:
+tags:
 - Keith Olbermann
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Trump ordering Iran strike is war crime, faith leader says"
 layout: post
-tag:
+tags:
 - Joy Reid
 ---
 

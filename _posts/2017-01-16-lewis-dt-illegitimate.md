@@ -1,7 +1,7 @@
 ---
 title: "Lewis: DT illegitimate"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

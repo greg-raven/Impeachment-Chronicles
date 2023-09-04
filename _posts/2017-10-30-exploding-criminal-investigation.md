@@ -1,7 +1,7 @@
 ---
 title: "Exploding criminal investigation"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

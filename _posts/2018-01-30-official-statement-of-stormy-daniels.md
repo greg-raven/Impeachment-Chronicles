@@ -1,7 +1,7 @@
 ---
 title: "Official Statement of Stormy Daniels"
 layout: post
-tag:
+tags:
 - Stormy Daniels
 ---
 

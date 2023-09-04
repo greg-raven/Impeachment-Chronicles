@@ -1,7 +1,7 @@
 ---
 title: "CNN Exclusive : US investigators corroborate some aspects of Trump Russia Dossier"
 layout: post
-tag:
+tags:
 - Jim Sciutto
 - Evan Perez
 ---

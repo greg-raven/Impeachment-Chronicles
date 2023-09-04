@@ -1,7 +1,7 @@
 ---
 title: "After impeachment farce ends, next comes 14th Amendment"
 layout: post
-tag:
+tags:
 - Charles Hurt
 ---
 

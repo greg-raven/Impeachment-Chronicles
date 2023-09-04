@@ -1,7 +1,7 @@
 ---
 title: "Garland names special counsel to lead Trump-related probes"
 layout: post
-tag:
+tags:
 - Eric Tucker
 - Michael Balsamo
 - Jill Colvin

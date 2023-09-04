@@ -1,7 +1,7 @@
 ---
 title: "CNN's Wolf Blitzer: 'Are we getting closer' to impeachment of Donald Trump?"
 layout: post
-tag:
+tags:
 - Ian Schwartz
 ---
 

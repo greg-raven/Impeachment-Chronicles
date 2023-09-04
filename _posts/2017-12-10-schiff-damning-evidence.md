@@ -1,7 +1,7 @@
 ---
 title: "Schiff: Evidence of coordination between Trump campaign and Russia 'pretty damning'"
 layout: post
-tag:
+tags:
 - Rebecca Savransky
 ---
 

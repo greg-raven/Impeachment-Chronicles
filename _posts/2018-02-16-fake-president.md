@@ -1,7 +1,7 @@
 ---
 title: "Fake president in the Oval Office"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

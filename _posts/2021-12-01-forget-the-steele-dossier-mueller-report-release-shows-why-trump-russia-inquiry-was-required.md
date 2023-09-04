@@ -1,7 +1,7 @@
 ---
 title: "Forget the Steele dossier: Mueller report release shows why Trump-Russia inquiry was required"
 layout: post
-tag:
+tags:
 - Heather Digby Parton
 ---
 

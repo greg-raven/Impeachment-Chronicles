@@ -1,7 +1,7 @@
 ---
 title: "Pelosi says House to move forward with impeachment attempt if Pence doesn't respond"
 layout: post
-tag:
+tags:
 - Jack Phillips
 ---
 

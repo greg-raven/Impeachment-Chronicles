@@ -1,7 +1,7 @@
 ---
 title: "Economists: A Trump win would tank the markets"
 layout: post
-tag:
+tags:
 - Ben White
 ---
 

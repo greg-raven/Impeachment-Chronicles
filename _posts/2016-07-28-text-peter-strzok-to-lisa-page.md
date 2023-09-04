@@ -1,7 +1,7 @@
 ---
 title: "Text: Our open investigations relating to Trump's Russian connections"
 layout: post
-tag:
+tags:
 - Peter Strzok
 ---
 

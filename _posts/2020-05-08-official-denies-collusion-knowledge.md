@@ -1,7 +1,7 @@
 ---
 title: "Ex-Obama official, in released transcript, admits she didn't know about Trump-Russia collusion despite prior claims"
 layout: post
-tag:
+tags:
 - Tyler Olsen
 ---
 

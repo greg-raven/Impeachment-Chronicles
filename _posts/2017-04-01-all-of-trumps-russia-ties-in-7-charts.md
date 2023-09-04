@@ -1,7 +1,7 @@
 ---
 title: "All of Trump's Russia ties, in 7 charts"
 layout: post
-tag:
+tags:
 - Michael Crowley
 ---
 

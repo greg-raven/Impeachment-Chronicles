@@ -1,7 +1,7 @@
 ---
 title: "So-called president"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

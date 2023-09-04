@@ -1,7 +1,7 @@
 ---
 title: "Tom Steyer: 'We need to get rid of this dangerous and unfit President'"
 layout: post
-tag:
+tags:
 - Tom Steyer
 ---
 

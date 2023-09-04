@@ -1,7 +1,7 @@
 ---
 title: "H.Res.257 — Inquiring whether the House of Representatives should impeach Donald John Trump, President of the United States of America"
 layout: post
-tag:
+tags:
 - Rashida Tlaib
 ---
 

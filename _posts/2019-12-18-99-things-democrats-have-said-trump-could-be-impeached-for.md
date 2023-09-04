@@ -1,7 +1,7 @@
 ---
 title: "99 things Democrats have said Trump could be impeached for"
 layout: post
-tag:
+tags:
 - Tom Elliott
 ---
 

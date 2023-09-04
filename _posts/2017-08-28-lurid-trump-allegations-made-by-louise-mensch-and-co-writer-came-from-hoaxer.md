@@ -1,7 +1,7 @@
 ---
 title: "Lurid Trump allegations made by Louise Mensch and co-writer came from hoaxer"
 layout: post
-tag:
+tags:
 - Jon Swaine
 ---
 

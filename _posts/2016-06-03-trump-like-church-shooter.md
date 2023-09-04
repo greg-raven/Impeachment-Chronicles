@@ -1,7 +1,7 @@
 ---
 title: "Haley compares Trump's divisive rhetoric to that of Charleston church shooter"
 layout: post
-tag:
+tags:
 - Seanna Adcox
 ---
 

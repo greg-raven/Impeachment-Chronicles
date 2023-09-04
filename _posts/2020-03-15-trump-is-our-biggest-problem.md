@@ -1,7 +1,7 @@
 ---
 title: "Trump is our biggest problem"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

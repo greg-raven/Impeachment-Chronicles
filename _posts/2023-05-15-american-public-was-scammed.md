@@ -1,7 +1,7 @@
 ---
 title: "The American public was scammed"
 layout: post
-tag:
+tags:
 - Donald Trump
 ---
 

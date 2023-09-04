@@ -1,7 +1,7 @@
 ---
 title: "House set to give Pence ultimatum before moving to impeach Trump"
 layout: post
-tag:
+tags:
 - Billy House
 ---
 

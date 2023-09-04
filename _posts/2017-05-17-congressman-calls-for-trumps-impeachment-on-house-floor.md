@@ -1,7 +1,7 @@
 ---
 title: "Congressman calls for Trump's impeachment on House floor"
 layout: post
-tag:
+tags:
 - Miranda Green
 ---
 

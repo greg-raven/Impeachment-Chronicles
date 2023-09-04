@@ -1,7 +1,7 @@
 ---
 title: "Trump must be impeached. Here's why."
 layout: post
-tag:
+tags:
 - Lawrence H. Tribe
 ---
 

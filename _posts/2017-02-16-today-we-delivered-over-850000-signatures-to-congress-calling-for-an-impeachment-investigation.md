@@ -1,7 +1,7 @@
 ---
 title: "Today we delivered over 850,000 signatures to Congress calling for an impeachment investigation"
 layout: post
-tag:
+tags:
 - impeachdonaldtrumpnow.org
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Democrats talk of an 'impeachment clock' for Trump"
 layout: post
-tag:
+tags:
 - Alex Roarty
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Growing cloud of illegitimacy"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

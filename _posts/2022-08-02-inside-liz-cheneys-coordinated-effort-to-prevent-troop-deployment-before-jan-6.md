@@ -1,7 +1,7 @@
 ---
 title: "Inside Liz Cheney's Coordinated Effort To Prevent Troop Deployment Before Jan. 6"
 layout: post
-tag:
+tags:
 - Tristan Justice
 ---
 

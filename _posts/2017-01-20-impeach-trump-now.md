@@ -1,7 +1,7 @@
 ---
 title: "Impeach Trump Now"
 layout: post
-tag:
+tags:
 - Impeach Donald Trump Now
 ---
 

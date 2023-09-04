@@ -1,7 +1,7 @@
 ---
 title: "Timeline: Use the Logan Act against Flynn"
 layout: post
-tag:
+tags:
 - Mollie Hemingway
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Trump's organized crime family"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

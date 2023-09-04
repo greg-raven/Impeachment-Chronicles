@@ -1,7 +1,7 @@
 ---
 title: "H.Res.705 — Impeaching Donald John Trump, President of the United States, of high misdemeanors"
 layout: post
-tag:
+tags:
 - Al Green
 ---
 

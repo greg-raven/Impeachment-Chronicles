@@ -1,7 +1,7 @@
 ---
 title: "Ellison floats impeaching Trump"
 layout: post
-tag:
+tags:
 - David Catanese
 ---
 

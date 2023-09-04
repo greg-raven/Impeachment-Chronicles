@@ -1,7 +1,7 @@
 ---
 title: "Need To Impeach"
 layout: post
-tag:
+tags:
 - NeedToImpeach.com
 ---
 

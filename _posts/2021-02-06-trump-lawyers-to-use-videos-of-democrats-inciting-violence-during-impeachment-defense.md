@@ -1,7 +1,7 @@
 ---
 title: "Trump lawyers to use videos of Democrats inciting violence during impeachment defense"
 layout: post
-tag:
+tags:
 - Allen Zhong
 ---
 

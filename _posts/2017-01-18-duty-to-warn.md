@@ -1,7 +1,7 @@
 ---
 title: "Duty to warn"
 layout: post
-tag:
+tags:
 - Duty To Warn
 ---
 

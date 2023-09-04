@@ -1,7 +1,7 @@
 ---
 title: "Trump is going to break your heart"
 layout: post
-tag:
+tags:
 - Kurt Schlichter
 ---
 

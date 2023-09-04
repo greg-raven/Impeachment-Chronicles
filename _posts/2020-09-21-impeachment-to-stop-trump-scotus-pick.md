@@ -1,7 +1,7 @@
 ---
 title: "AOC, Pelosi hint impeachment should be considered to stop Trump Supreme Court selection"
 layout: post
-tag:
+tags:
 - Rusty Weiss
 ---
 

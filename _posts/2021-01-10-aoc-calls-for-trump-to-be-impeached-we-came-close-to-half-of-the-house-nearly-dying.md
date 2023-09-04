@@ -1,7 +1,7 @@
 ---
 title: "AOC calls for Trump to be impeached — 'We came close to half of the House nearly dying'"
 layout: post
-tag:
+tags:
 - James Samson
 ---
 

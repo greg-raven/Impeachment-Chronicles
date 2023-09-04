@@ -1,7 +1,7 @@
 ---
 title: "Twitter files overshadow the bigger scandal: FBI lied to tech giants to interfere in election"
 layout: post
-tag:
+tags:
 - Margot Cleveland
 ---
 

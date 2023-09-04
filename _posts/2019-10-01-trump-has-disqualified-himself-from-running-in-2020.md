@@ -1,7 +1,7 @@
 ---
 title: "Trump has disqualified himself from running in 2020"
 layout: post
-tag:
+tags:
 - Will Wilkinson
 ---
 

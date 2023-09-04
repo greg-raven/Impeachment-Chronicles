@@ -1,7 +1,7 @@
 ---
 title: "Monday Article of Impeachment"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

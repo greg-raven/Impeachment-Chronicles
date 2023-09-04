@@ -1,7 +1,7 @@
 ---
 title: "New Strzok texts show FBI was investigating Trump before Crossfire Hurricane was opened"
 layout: post
-tag:
+tags:
 - Jordan Davidson
 ---
 

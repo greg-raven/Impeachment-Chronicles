@@ -1,7 +1,7 @@
 ---
 title: "'This is about our democracy,' Schiff says of impeachment report"
 layout: post
-tag:
+tags:
 - Adam Schiff
 ---
 

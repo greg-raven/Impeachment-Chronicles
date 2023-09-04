@@ -1,7 +1,7 @@
 ---
 title: "Trump ignores the experts"
 layout: post
-tag:
+tags:
 - Adam Schiff
 ---
 

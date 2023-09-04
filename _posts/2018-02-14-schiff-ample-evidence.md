@@ -1,7 +1,7 @@
 ---
 title: "Adam Schiff: There is 'ample evidence' of collusion between Trump campaign, Russians"
 layout: post
-tag:
+tags:
 - Erin Kelly
 ---
 

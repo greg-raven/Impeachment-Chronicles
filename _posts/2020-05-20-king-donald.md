@@ -1,7 +1,7 @@
 ---
 title: "King Donald"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

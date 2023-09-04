@@ -1,7 +1,7 @@
 ---
 title: "Meet Donald Trump's KremLINKlan"
 layout: post
-tag:
+tags:
 - Maxine Waters
 ---
 

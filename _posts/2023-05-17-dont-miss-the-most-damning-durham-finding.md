@@ -1,7 +1,7 @@
 ---
 title: "Don't miss the most damning Durham finding"
 layout: post
-tag:
+tags:
 - Margot Cleveland
 ---
 

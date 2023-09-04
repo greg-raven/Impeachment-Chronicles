@@ -1,7 +1,7 @@
 ---
 title: "The first Democrat to call for impeachment says if the Senate won't remove Trump from office, Democrats can try again"
 layout: post
-tag:
+tags:
 - Addy Baird
 - Kadia Goba
 - Darren Sands

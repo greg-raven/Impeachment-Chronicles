@@ -1,7 +1,7 @@
 ---
 title: "Fact Check: Joe Biden repeats the Charlottesville 'Very Fine People Hoax'; Lester Holt does not correct"
 layout: post
-tag:
+tags:
 - Joel B. Pollack
 ---
 

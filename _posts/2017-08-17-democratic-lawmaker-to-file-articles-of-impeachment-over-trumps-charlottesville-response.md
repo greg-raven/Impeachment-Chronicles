@@ -1,7 +1,7 @@
 ---
 title: "Democratic lawmaker to file articles of impeachment over Trump's Charlottesville response"
 layout: post
-tag:
+tags:
 - Jessica Estepa
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Jeff Flake warns of impeachment if Trump fires Mueller"
 layout: post
-tag:
+tags:
 - Ashley Killough
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Trump's election may have been a hoax"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

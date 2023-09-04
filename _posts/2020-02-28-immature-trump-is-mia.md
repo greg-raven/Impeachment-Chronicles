@@ -1,7 +1,7 @@
 ---
 title: "Immature Trump is missing in action"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

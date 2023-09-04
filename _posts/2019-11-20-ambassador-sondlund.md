@@ -1,7 +1,7 @@
 ---
 title: "Trump's abuse of power"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

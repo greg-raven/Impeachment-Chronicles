@@ -1,7 +1,7 @@
 ---
 title: "Republican blocks House from bringing up 25th Amendment resolution"
 layout: post
-tag:
+tags:
 - Jack Phillips
 ---
 

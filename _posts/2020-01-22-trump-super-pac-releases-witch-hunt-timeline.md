@@ -1,7 +1,7 @@
 ---
 title: "Trump Super PAC releases 'Witch Hunt' timeline"
 layout: post
-tag:
+tags:
 - Charlie Spiering
 ---
 

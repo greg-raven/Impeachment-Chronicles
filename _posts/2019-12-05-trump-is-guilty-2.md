@@ -1,7 +1,7 @@
 ---
 title: "Trump is guilty"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

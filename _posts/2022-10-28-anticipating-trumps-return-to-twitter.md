@@ -1,7 +1,7 @@
 ---
 title: "Anticipating Trump's return to Twitter"
 layout: post
-tag:
+tags:
 - Rick Wilson
 ---
 

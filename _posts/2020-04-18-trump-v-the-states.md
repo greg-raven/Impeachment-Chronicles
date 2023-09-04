@@ -1,7 +1,7 @@
 ---
 title: "Trump Administration v. The States"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

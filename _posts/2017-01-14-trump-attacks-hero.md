@@ -1,7 +1,7 @@
 ---
 title: "Trump now attacks an American hero"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

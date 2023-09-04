@@ -1,7 +1,7 @@
 ---
 title: "'They spied on Trump': New filing by John Durham alleges that President Trump's internet traffic was being monitored"
 layout: post
-tag:
+tags:
 - Brett T.
 ---
 

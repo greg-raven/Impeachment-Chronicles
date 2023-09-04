@@ -1,7 +1,7 @@
 ---
 title: "Donald Trump's armed mob"
 layout: post
-tag:
+tags:
 - Chad Program
 - Liz Cheney
 ---

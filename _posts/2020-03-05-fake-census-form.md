@@ -1,7 +1,7 @@
 ---
 title: "Fake census form on Facebook"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

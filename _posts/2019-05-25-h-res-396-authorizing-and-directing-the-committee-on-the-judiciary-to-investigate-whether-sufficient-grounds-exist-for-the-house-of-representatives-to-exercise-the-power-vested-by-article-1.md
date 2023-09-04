@@ -1,7 +1,7 @@
 ---
 title: "H.Res.396 — Authorizing and directing the Committee on the Judiciary to investigate whether sufficient grounds exist for the House of Representatives to exercise the power vested by article 1, section 2, clause 5 of the Constitution in respect to acts of misconduct by Donald John Trump, President of the United States"
 layout: post
-tag:
+tags:
 - Shelia Jackson Lee
 ---
 

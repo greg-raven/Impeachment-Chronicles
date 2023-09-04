@@ -1,7 +1,7 @@
 ---
 title: "Cloud of illegitimacy getting bigger by the day"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

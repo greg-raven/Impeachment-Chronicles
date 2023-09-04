@@ -1,7 +1,7 @@
 ---
 title: "Maxine Waters screams 'impeach 45' from the stage at star-studded Glamour Awards"
 layout: post
-tag:
+tags:
 - Breitbart News
 ---
 

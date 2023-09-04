@@ -1,7 +1,7 @@
 ---
 title: "FBI stole more than documents during unlawful raid of Mar-a-Lago – stole 1,800 other items as well"
 layout: post
-tag:
+tags:
 - Joe Hoft
 ---
 

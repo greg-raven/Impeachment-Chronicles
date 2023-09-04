@@ -1,7 +1,7 @@
 ---
 title: "Trump's crisis of legitimacy"
 layout: post
-tag:
+tags:
 - David Frum
 ---
 

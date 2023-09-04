@@ -1,7 +1,7 @@
 ---
 title: "Texts: What an utter idiot"
 layout: post
-tag:
+tags:
 - Lisa Page
 - Peter Strzok
 ---

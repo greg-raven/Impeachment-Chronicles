@@ -1,7 +1,7 @@
 ---
 title: "Brad Sherman to introduce impeachment articles against Trump on first day of Democratic Congress"
 layout: post
-tag:
+tags:
 - Griffin Connolly
 ---
 

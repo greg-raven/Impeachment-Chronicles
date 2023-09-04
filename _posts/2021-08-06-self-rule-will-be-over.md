@@ -1,7 +1,7 @@
 ---
 title: "Self rule will be over"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "So-called leader of the free world"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

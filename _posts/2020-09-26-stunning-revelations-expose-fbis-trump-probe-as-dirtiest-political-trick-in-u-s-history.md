@@ -1,7 +1,7 @@
 ---
 title: "Stunning revelations expose FBI's Trump probe as dirtiest political trick in U.S. history"
 layout: post
-tag:
+tags:
 - Gregg Jarrett
 ---
 

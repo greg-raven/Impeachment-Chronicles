@@ -1,7 +1,7 @@
 ---
 title: "Trump raid conducted 'so sloppily,' it violated FBI-manual mandates"
 layout: post
-tag:
+tags:
 - Bob Unruh
 ---
 

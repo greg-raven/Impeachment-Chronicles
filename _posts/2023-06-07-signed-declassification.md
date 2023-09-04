@@ -1,7 +1,7 @@
 ---
 title: "Trump declassified docs the day before he left office"
 layout: post
-tag:
+tags:
 - Jim Hoft
 ---
 

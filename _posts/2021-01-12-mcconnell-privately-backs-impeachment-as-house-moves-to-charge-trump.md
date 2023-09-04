@@ -1,7 +1,7 @@
 ---
 title: "McConnell privately backs impeachment as House moves to charge Trump"
 layout: post
-tag:
+tags:
 - Jonathan Martin
 - Maggie Haberman
 - Nicholas Fandos

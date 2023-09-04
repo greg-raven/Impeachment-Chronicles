@@ -1,7 +1,7 @@
 ---
 title: "Pelosi 'not ruling out' another disastrous impeachment attempt"
 layout: post
-tag:
+tags:
 - Jazz Shaw
 ---
 

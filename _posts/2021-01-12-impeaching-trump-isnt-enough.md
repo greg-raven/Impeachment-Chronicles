@@ -1,7 +1,7 @@
 ---
 title: "Impeaching Trump isn't enough"
 layout: post
-tag:
+tags:
 - Elie Honig
 ---
 

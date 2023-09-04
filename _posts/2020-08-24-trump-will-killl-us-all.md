@@ -1,7 +1,7 @@
 ---
 title: "'Trump will killl us all!!'"
 layout: post
-tag:
+tags:
 - Amy Siskin
 ---
 

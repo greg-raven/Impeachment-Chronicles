@@ -1,7 +1,7 @@
 ---
 title: "Trump's political hitman"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

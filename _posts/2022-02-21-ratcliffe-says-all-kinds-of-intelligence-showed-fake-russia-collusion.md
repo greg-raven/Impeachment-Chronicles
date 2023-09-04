@@ -1,7 +1,7 @@
 ---
 title: "Ratcliffe says 'all kinds of intelligence' showed 'fake Russia collusion'"
 layout: post
-tag:
+tags:
 - Daniel Chaitin
 - Jerry Dunleavy
 ---

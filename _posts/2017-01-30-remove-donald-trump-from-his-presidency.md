@@ -1,7 +1,7 @@
 ---
 title: "Remove Donald Trump from his presidency"
 layout: post
-tag:
+tags:
 - change.org
 ---
 

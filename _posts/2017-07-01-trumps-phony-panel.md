@@ -1,7 +1,7 @@
 ---
 title: "Trump's phony Voter Fraud Panel"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Donald Trump is actually a fascist"
 layout: post
-tag:
+tags:
 - Michael Kinsley
 ---
 

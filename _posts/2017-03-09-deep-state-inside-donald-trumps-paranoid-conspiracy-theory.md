@@ -1,7 +1,7 @@
 ---
 title: "Deep State: Inside Donald Trump's paranoid conspiracy theory"
 layout: post
-tag:
+tags:
 - Michael Hafford
 ---
 

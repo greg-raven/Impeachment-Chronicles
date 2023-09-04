@@ -1,7 +1,7 @@
 ---
 title: "He dreamed of being a police officer, then was killed by a pro-Trump mob"
 layout: post
-tag:
+tags:
 - Zolan Kanno-Youngs
 - Tracey Tully
 ---

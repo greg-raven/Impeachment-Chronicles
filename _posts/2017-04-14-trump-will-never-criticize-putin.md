@@ -1,7 +1,7 @@
 ---
 title: "'Trump will never criticize Putin'"
 layout: post
-tag:
+tags:
 - Maxine Waters
 ---
 

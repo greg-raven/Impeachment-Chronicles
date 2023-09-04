@@ -1,7 +1,7 @@
 ---
 title: "California's Rep. Brad Sherman to introduce impeachment measure"
 layout: post
-tag:
+tags:
 - Jennifer Haberkort
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Keep pouting"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

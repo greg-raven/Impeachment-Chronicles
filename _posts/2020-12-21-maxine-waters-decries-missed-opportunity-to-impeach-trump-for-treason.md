@@ -1,7 +1,7 @@
 ---
 title: "Maxine Waters decries 'missed opportunity' to impeach Trump for 'treason'"
 layout: post
-tag:
+tags:
 - Joshua Caplan
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Trump is an illegitimate president whose election is tainted by fraud"
 layout: post
-tag:
+tags:
 - Max Boot
 ---
 

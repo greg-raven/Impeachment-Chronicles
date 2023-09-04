@@ -1,7 +1,7 @@
 ---
 title: "Kamala Harris on MSNBC"
 layout: post
-tag:
+tags:
 - Kamala Harris
 ---
 

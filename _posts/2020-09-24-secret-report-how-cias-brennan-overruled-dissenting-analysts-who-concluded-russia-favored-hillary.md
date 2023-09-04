@@ -1,7 +1,7 @@
 ---
 title: "Secret Report: How CIA's Brennan overruled dissenting analysts who concluded Russia favored Hillary"
 layout: post
-tag:
+tags:
 - Paul Sperry
 ---
 

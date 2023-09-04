@@ -1,7 +1,7 @@
 ---
 title: "Russia successfully interfered"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

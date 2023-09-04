@@ -1,7 +1,7 @@
 ---
 title: "Green: 'I am currently crafting, drafting if you will, articles of impeachment'"
 layout: post
-tag:
+tags:
 - Al Green
 ---
 

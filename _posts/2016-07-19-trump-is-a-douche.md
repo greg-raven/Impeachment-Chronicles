@@ -1,7 +1,7 @@
 ---
 title: "Texts: How was Trump, other than a douche?"
 layout: post
-tag:
+tags:
 - Lisa Page
 - Peter Strzok
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Rep. Schiff: 'Circumstantial Evidence of Collusion' Between Trump Campaign, Russia"
 layout: post
-tag:
+tags:
 - Kailani Koenig
 ---
 

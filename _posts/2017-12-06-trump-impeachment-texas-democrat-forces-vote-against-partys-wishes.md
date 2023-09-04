@@ -1,7 +1,7 @@
 ---
 title: "Trump impeachment? Texas Democrat forces vote against party's wishes"
 layout: post
-tag:
+tags:
 - Scott Detrow
 ---
 

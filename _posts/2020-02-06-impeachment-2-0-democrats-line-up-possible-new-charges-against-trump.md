@@ -1,7 +1,7 @@
 ---
 title: "Impeachment 2.0? Democrats line up possible new charges against Trump"
 layout: post
-tag:
+tags:
 - Rowan Scarborough
 ---
 

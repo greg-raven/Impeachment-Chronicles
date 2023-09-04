@@ -1,7 +1,7 @@
 ---
 title: "Project Veritas questions possible media-govt. collusion on Jan. 6"
 layout: post
-tag:
+tags:
 - OAN
 ---
 

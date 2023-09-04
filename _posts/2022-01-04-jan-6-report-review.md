@@ -1,7 +1,7 @@
 ---
 title: "January 6 report review: 845 pages, countless crimes, one simple truth – Trump did it"
 layout: post
-tag:
+tags:
 - Lloyd Green
 ---
 

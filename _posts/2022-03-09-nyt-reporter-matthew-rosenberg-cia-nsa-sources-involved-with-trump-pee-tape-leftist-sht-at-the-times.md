@@ -1,7 +1,7 @@
 ---
 title: "CIA/NSA sources involved with Trump 'pee tape' and 'Leftist sh*t' at The Times"
 layout: post
-tag:
+tags:
 - Matthew Rosenberg
 ---
 

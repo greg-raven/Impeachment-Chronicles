@@ -1,7 +1,7 @@
 ---
 title: "Schakowsky statement on Donald Trump's inauguration"
 layout: post
-tag:
+tags:
 - Jan Schakowsky
 ---
 

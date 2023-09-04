@@ -1,7 +1,7 @@
 ---
 title: "Democrat's 'stolen election' claims"
 layout: post
-tag:
+tags:
 - Peter Doocy
 ---
 

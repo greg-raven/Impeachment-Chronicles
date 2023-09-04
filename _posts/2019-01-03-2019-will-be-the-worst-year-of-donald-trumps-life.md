@@ -1,7 +1,7 @@
 ---
 title: "2019 will be the worst year of Donald Trump's life"
 layout: post
-tag:
+tags:
 - Jon Weiner
 ---
 

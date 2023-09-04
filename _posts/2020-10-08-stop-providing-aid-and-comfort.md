@@ -1,7 +1,7 @@
 ---
 title: "Stop providing aid and comfort to extremist militias and white supremacists"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

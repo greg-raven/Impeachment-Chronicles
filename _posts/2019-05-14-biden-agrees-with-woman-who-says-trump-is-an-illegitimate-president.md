@@ -1,7 +1,7 @@
 ---
 title: "Biden agrees with woman who says Trump is 'an illegitimate president'"
 layout: post
-tag:
+tags:
 - Diana Stancey Correll
 ---
 

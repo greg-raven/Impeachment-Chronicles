@@ -1,7 +1,7 @@
 ---
 title: "Fact Check: Chris Wallace and Joe Biden Repeat Charlottesville 'Very Fine People Hoax' at Presidential Debate"
 layout: post
-tag:
+tags:
 - Joel D. Pollak
 ---
 

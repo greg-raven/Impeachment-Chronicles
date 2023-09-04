@@ -1,7 +1,7 @@
 ---
 title: "Pelosi: Trump's impeachment 'cannot be erased'"
 layout: post
-tag:
+tags:
 - Cristina Marcos
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Donald Trump led a violent insurrection"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

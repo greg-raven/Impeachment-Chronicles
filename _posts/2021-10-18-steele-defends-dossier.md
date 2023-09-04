@@ -1,7 +1,7 @@
 ---
 title: "Christopher Steele defends Russia Dossier, says Trump golden shower tape 'probably does' exist"
 layout: post
-tag:
+tags:
 - Bess Levin
 ---
 

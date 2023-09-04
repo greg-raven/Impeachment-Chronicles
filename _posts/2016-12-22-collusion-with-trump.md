@@ -1,7 +1,7 @@
 ---
 title: "Collusion with Trump"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

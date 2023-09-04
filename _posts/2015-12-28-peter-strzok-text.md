@@ -1,7 +1,7 @@
 ---
 title: "Text: You get all our OCONUS lures approved?"
 layout: post
-tag:
+tags:
 - Peter Strzok
 ---
 

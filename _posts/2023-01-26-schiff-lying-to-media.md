@@ -1,7 +1,7 @@
 ---
 title: "To jog the media's memory, here's a supercut of Congressman Adam Schiff lying to them"
 layout: post
-tag:
+tags:
 - Bill D'Agostino
 ---
 

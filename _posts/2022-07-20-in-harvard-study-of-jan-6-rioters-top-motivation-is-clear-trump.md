@@ -1,7 +1,7 @@
 ---
 title: "In Harvard study of Jan. 6 rioters, top motivation is clear: Trump"
 layout: post
-tag:
+tags:
 - Ben Collins
 - Ryan J. Reilly
 - Jacob Ward

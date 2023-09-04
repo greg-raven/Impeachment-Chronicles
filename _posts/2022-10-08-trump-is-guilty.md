@@ -1,7 +1,7 @@
 ---
 title: "Luke Zaleski: Trump is guilty"
 layout: post
-tag:
+tags:
 - Luke Zaleski
 ---
 

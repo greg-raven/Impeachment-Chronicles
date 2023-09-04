@@ -1,7 +1,7 @@
 ---
 title: "Sick of DT crying hoax"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

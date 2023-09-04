@@ -1,7 +1,7 @@
 ---
 title: "Trump will use the Justice Department to destroy his enemies in a second term, former officials warn"
 layout: post
-tag:
+tags:
 - Bess Levin
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Dear Americans: You Were Duped"
 layout: post
-tag:
+tags:
 - Laura Hollis
 ---
 

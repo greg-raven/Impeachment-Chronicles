@@ -1,7 +1,7 @@
 ---
 title: "Hillary Clinton: 'Trump knows he's an illegitimate president,' 'Insomuch as he has a conscience'"
 layout: post
-tag:
+tags:
 - Tim Hains
 ---
 

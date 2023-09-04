@@ -1,7 +1,7 @@
 ---
 title: "Trump conduct, conversations part of Justice Dept. investigation"
 layout: post
-tag:
+tags:
 - Carol D. Leonnig
 - Devlin Barrett
 - Josh Dawsey

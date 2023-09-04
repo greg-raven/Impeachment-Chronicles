@@ -1,7 +1,7 @@
 ---
 title: "Inside Trump's financial ties to Russia and his unusual flattery of Vladimir Putin"
 layout: post
-tag:
+tags:
 - Tom Hamburger
 - Rolalind S. Helderman
 - Michael Birnbaum

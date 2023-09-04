@@ -1,7 +1,7 @@
 ---
 title: "FBI paid for Russian disinfo to frame Trump — and 7 more details"
 layout: post
-tag:
+tags:
 - Margot Cleveland
 ---
 

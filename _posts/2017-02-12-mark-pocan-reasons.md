@@ -1,7 +1,7 @@
 ---
 title: "Attacks on Trump's foreign businesses"
 layout: post
-tag:
+tags:
 - Mark Pocan
 ---
 

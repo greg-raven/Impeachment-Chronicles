@@ -1,7 +1,7 @@
 ---
 title: "Diabolical plot to elect 45"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

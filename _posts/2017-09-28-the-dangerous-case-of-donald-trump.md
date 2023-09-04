@@ -1,7 +1,7 @@
 ---
 title: "'The Dangerous Case of Donald Trump'"
 layout: post
-tag:
+tags:
 - Rosemary K.M. Sword
 - Philip Zimbardo
 ---

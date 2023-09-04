@@ -1,7 +1,7 @@
 ---
 title: "Illegitimacy and corruption"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

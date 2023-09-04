@@ -1,7 +1,7 @@
 ---
 title: "Trump has violated so many laws"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

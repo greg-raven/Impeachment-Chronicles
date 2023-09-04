@@ -1,7 +1,7 @@
 ---
 title: "Pelosi: 'We cannot accept a second term for Donald Trump'"
 layout: post
-tag:
+tags:
 - John Gage
 ---
 

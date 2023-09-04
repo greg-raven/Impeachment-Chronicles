@@ -1,7 +1,7 @@
 ---
 title: "Lie, cheat, steal"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

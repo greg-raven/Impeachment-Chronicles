@@ -1,7 +1,7 @@
 ---
 title: "Judicial Watch uncovers timeline of Fusion GPS/Steele going back to 2015"
 layout: post
-tag:
+tags:
 - Judicial Watch
 ---
 

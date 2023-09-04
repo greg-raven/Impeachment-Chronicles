@@ -1,7 +1,7 @@
 ---
 title: "The elephant in the room"
 layout: post
-tag:
+tags:
 - Rosemary K.M. Sword
 - Philip Zimbardo
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Talk of impeachment is not enough"
 layout: post
-tag:
+tags:
 - BrooklynDad Defiant!
 ---
 

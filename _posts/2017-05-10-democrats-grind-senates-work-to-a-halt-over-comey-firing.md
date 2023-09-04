@@ -1,7 +1,7 @@
 ---
 title: "Democrats grind Senate's work to a halt over Comey firing"
 layout: post
-tag:
+tags:
 - Paul Krugman
 ---
 

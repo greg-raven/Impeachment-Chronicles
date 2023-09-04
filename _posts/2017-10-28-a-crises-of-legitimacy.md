@@ -1,7 +1,7 @@
 ---
 title: "A crises of legitimacy"
 layout: post
-tag:
+tags:
 - Paul Krugman
 ---
 

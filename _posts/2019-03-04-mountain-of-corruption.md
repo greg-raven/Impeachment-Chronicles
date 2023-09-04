@@ -1,7 +1,7 @@
 ---
 title: "Mountain of corruption"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

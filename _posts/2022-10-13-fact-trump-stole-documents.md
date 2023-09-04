@@ -1,7 +1,7 @@
 ---
 title: "Fact: Trump stole documents"
 layout: post
-tag:
+tags:
 - Rob Reiner
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Putin must be asking: Where's Trump when I need him?"
 layout: post
-tag:
+tags:
 - Eugene Robinson
 ---
 

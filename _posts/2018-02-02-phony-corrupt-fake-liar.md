@@ -1,7 +1,7 @@
 ---
 title: "Phony, corrupt, fake liar"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 

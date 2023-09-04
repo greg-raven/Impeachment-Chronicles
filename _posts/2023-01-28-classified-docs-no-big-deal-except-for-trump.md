@@ -1,7 +1,7 @@
 ---
 title: "New York Times argues that classified documents are no big deal unless President Trump is involved"
 layout: post
-tag:
+tags:
 - Joe Hoft
 ---
 

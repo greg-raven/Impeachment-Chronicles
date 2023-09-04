@@ -1,7 +1,7 @@
 ---
 title: "Trump is mentally unfit, no exam needed"
 layout: post
-tag:
+tags:
 - Leonard L. Glass
 - Bandy X. Lee
 - Edwin B. Fisher

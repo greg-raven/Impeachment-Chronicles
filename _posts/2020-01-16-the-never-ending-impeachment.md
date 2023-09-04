@@ -1,7 +1,7 @@
 ---
 title: "The never-ending impeachment"
 layout: post
-tag:
+tags:
 - Matthew Continetti
 ---
 

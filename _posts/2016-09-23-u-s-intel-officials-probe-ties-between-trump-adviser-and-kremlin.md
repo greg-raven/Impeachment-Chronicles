@@ -1,7 +1,7 @@
 ---
 title: "U.S. intel officials probe ties between Trump adviser and Kremlin"
 layout: post
-tag:
+tags:
 - Michael Isikoff
 ---
 

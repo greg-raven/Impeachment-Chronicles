@@ -1,7 +1,7 @@
 ---
 title: "Durham unmasks alliance between media, Democrat dirt diggers that triggered false Russia story"
 layout: post
-tag:
+tags:
 - John Solomon
 ---
 

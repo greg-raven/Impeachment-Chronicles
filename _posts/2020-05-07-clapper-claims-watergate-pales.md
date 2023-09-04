@@ -1,7 +1,7 @@
 ---
 title: "James Clapper's claim that Watergate paled compared to the Russian collusion probe doesn't quite match his interview"
 layout: post
-tag:
+tags:
 - Brett T.
 ---
 

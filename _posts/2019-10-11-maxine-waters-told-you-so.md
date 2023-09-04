@@ -1,7 +1,7 @@
 ---
 title: "Maxine Waters told you so"
 layout: post
-tag:
+tags:
 - Lyz Lenz
 ---
 

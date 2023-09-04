@@ -1,7 +1,7 @@
 ---
 title: "Donald Trump's war crimes"
 layout: post
-tag:
+tags:
 - Marjorie Cohn
 ---
 

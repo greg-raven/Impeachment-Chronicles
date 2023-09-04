@@ -1,7 +1,7 @@
 ---
 title: "Hillary's secretive, Russiagate-flogging pair of super-lawyers"
 layout: post
-tag:
+tags:
 - Aaron Maté
 ---
 

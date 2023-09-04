@@ -1,7 +1,7 @@
 ---
 title: "Joe Biden calls for Trump's impeachment for the first time"
 layout: post
-tag:
+tags:
 - Jacob Pramuk
 ---
 

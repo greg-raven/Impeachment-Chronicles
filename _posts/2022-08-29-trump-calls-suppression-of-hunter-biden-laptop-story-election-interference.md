@@ -1,7 +1,7 @@
 ---
 title: "Trump calls suppression of Hunter Biden laptop story 'election interference'"
 layout: post
-tag:
+tags:
 - Joshua Young
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Trump's Election Integrity Commission is the real fraud"
 layout: post
-tag:
+tags:
 - Hakeem Jeffries
 ---
 
