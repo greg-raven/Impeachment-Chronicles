@@ -61,6 +61,6 @@ By undermining the President who they are supposed to be serving, elements of th
 
 This spectacle is doing great damage to our country. It's nothing more than an impeachment process in search of a crime.
 
-<video controls src="/assets/2022-12-11-nunes-v-schiff.mp4" poster="/assets/2022-12-11-nunes-v-schiff.jpg"></video>
+<div class="embed-responsive embed-responsive-16by9"><video class="embed-responsive-item" controls src="/assets/2022-12-11-nunes-v-schiff.mp4" poster="/assets/2022-12-11-nunes-v-schiff.jpg"></video></div>
 
 Source: Devin Nunes
