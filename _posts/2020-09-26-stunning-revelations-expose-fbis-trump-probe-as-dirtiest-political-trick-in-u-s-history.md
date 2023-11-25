@@ -31,7 +31,7 @@ Barnett meticulously documented the bureaucratic malfeasance and malicious polit
 
 When President Trump asked investigators to "get to the bottom" of a matter, special counsel lawyers interpreted it as "cover it up." The firing of FBI Director James Comey was viewed as conclusive proof of obstruction by the president, instead of an action motivated by some other logical reason such as the president's dislike of Comey and a desire to replace him.
 
-While many of Mueller's lawyers may have been motivated by a hatred of Trump, Barnett said it seemed like they "wanted to be part of something 'big,' a successful prosecution." This is exactly what Attorney General William Barr warned about in a recent speech — overzealous prosecutors who want to enhance their careers and reputations at the expense of seeking justice. Innocent people become their victims.
+While many of Mueller's lawyers may have been motivated by a hatred of Trump, Barnett said it seemed like they "wanted to be part of something 'big,' a successful prosecution." This is exactly what Attorney General William Barr warned about in a recent speech --- overzealous prosecutors who want to enhance their careers and reputations at the expense of seeking justice. Innocent people become their victims.
 
 We now know that Agent Barnett's testimony and his documentary evidence is a component U.S. Attorney John Durham's criminal investigation into the origins of the FBI's Russia probe. This same evidence will also be presented in federal court Tuesday, as Flynn's lawyers and the Justice Department present arguments that the case against him should be dismissed. The joint motion must be granted if U.S. District Judge Emmet Sullivan has any integrity.
 
@@ -39,7 +39,7 @@ All of this comes at the same time as the release of another set of declassified
 
 In simple terms, the phony collusion narrative appears to have been the clever product of Russian lies and disinformation designed to damage Trump and funded by the Clinton campaign and Democrats. This is precisely what I argued in my book, "Witch Hunt: The Story of The Greatest Mass Delusion in American Political History."
 
-Comey's FBI knew this all along, having interviewed Steele's primary source in January 2017 — just days after Trump was inaugurated as president. But the bureau kept it carefully concealed.
+Comey's FBI knew this all along, having interviewed Steele's primary source in January 2017 --- just days after Trump was inaugurated as president. But the bureau kept it carefully concealed.
 
 Despite knowing that the dossier was not remotely credible, Comey and others used it to spy on former Trump campaign adviser Carter Page. Judges on the Foreign Intelligence Surveillance Court (FISC) were deceived, and the court itself was defrauded.
 

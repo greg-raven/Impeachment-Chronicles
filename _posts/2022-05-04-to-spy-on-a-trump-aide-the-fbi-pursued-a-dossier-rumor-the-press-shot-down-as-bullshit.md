@@ -11,7 +11,7 @@ The FBI decision to spy on a former Trump campaign adviser hinged on an unsubsta
 
 Though the FBI presumably had access to better sources than the newspaper, agents did little to verify the rumor that Trump foreign policy adviser Carter Page had secretly met with sanctioned Kremlin officials in Moscow. Instead, the bureau pounced on the dossier report the day it received it, immediately plugging the rumor into an application under the Foreign Intelligence Surveillance Act to wiretap Page as a suspected Russian agent.
 
-The allegation, peddled to both the press and FBI in the summer of 2016 by Fusion GPS, an opposition research firm hired by Hillary Clinton's campaign to dig up dirt on Trump during the presidential race, proved to be the linchpin in winning approval for the 2016 warrant, which was renewed three times in 2017 – even though the FBI learned there were serious holes in the story and had failed to independently corroborate it.
+The allegation, peddled to both the press and FBI in the summer of 2016 by Fusion GPS, an opposition research firm hired by Hillary Clinton's campaign to dig up dirt on Trump during the presidential race, proved to be the linchpin in winning approval for the 2016 warrant, which was renewed three times in 2017 --- even though the FBI learned there were serious holes in the story and had failed to independently corroborate it.
 
 The revelations of early media skepticism about the Trump-Russia narrative before journalists embraced it are included in a 62-page batch of emails between Fusion and prominent Beltway reporters released by Special Counsel John Durham, who is scouring the FBI's investigation of the Trump campaign for evidence of abuse and criminal wrongdoing.
 
@@ -21,7 +21,7 @@ The documents suggest that some journalists, as keen as they were to report dirt
 
 The story of high-level Kremlin meetings didn't ring true with some in the press, who checked with sources in Moscow and pushed back on Fusion GPS. But journalists' interest in the story remained high during the campaign.
 
-In an interview, Page said he was flooded with calls during the summer of 2016 from Washington journalists, including veteran reporters from the Washington Post, the New York Times and the Wall Street Journal. He said Fusion had misled them into believing they were working on the story of their lifetimes – that a real-life "Manchurian candidate," or Russian sleeper agent, was running for president.
+In an interview, Page said he was flooded with calls during the summer of 2016 from Washington journalists, including veteran reporters from the Washington Post, the New York Times and the Wall Street Journal. He said Fusion had misled them into believing they were working on the story of their lifetimes --- that a real-life "Manchurian candidate," or Russian sleeper agent, was running for president.
 
 "Each news outlet kept calling me," he said. "One by one."
 
@@ -41,7 +41,7 @@ Fritsch then outlined the rumors Fusion had just received from Christopher Steel
 
 Added Fritsch, referring in part to the mass leak of Democratic emails by WikiLeaks before the 2016 Democratic National Convention in late July: "needless to say, a senior trump advisor meeting with a former kgb official close to putin, who is on a treasury sanctions list, days before the republican convention and a big russian-backed wikileak would be huge news."
 
-Indeed it would be – if it were true. "Thanks for this," Solomon said. "Will run down."
+Indeed it would be --- if it were true. "Thanks for this," Solomon said. "Will run down."
 
 But later that day, Solomon reported back that "Page is neither confirming nor denying," so Fritsch suggested he "call adam schiff or difi," referring to the then-ranking Democrat on the House Intelligence Committee and Sen. Dianne Feinstein, a top Democrat on the Senate Intelligence Committee. It is not clear what information Fritsch expected the two Democrats to provide. (Schiff would later read the same raw dossier rumors about Page into the congressional record during a public hearing about Trump's alleged Russian ties.)
 
@@ -51,7 +51,7 @@ Three days later, Fusion's attempts to plant their rumor in influential media ou
 
 "No worries, I don't expect lots of people to believe it," Simpson replied. "It is, indeed, hard to believe."
 
-As Fusion was pushing the rumors to reporters that July, its subcontractor Steele was pushing them to FBI agents, who received copies of his dossier earlier in the month. Steele also briefed a top Justice Department official, Bruce Ohr, on the Carter Page rumors on July 30 during a breakfast at the Mayflower Hotel in D.C., and asked Ohr to relay them to FBI brass. The next day, the FBI officially opened its [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation targeting Trump advisers – though the bureau says this decision was based on a tip it had received from an Australian diplomat.
+As Fusion was pushing the rumors to reporters that July, its subcontractor Steele was pushing them to FBI agents, who received copies of his dossier earlier in the month. Steele also briefed a top Justice Department official, Bruce Ohr, on the Carter Page rumors on July 30 during a breakfast at the Mayflower Hotel in D.C., and asked Ohr to relay them to FBI brass. The next day, the FBI officially opened its [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation targeting Trump advisers --- though the bureau says this decision was based on a tip it had received from an Australian diplomat.
 
 For his part, Hamburger still pursued the story, asking for documents on Page later that month; and Fusion recycled the false rumor in an internal report, separate from the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), which it emailed to Hamburger and another Post reporter in September.
 
@@ -61,11 +61,11 @@ Fritsch did not say who the Fusion "sources" were. But around the same time, he 
 
 Fusion had finally found a media outlet to take the bait it had been chumming out to reporters for months. After meeting with Steele for about an hour, Yahoo News' Michael Isikoff ran with the rumors in a September 23 online article, which the FBI then used to corroborate the dossier in its initial October 2016 FISA application, even though the supposed corroboration was redundant: Steele and his dossier were Isikoff's source for the story. (Isikoff, who did not respond to requests for comment, would later write in a 2018 book he co-authored, "Russian Roulette," that the rumors about Page were just "pillow talk.")
 
-The Clinton campaign jumped on what it called Isikoff's "bombshell report" and heavily promoted it on social media. Clinton campaign official Glen Caplin issued a statement republishing the Yahoo piece in full and proclaiming: "It's chilling to learn that U.S. intelligence officials are conducting a probe into suspected meetings between Trump's foreign policy adviser Carter Page and members of Putin's inner circle while in Moscow … [T]his report suggests Page met with a sanctioned top Russian official to discuss the possibility of ending U.S. sanctions against Russia under a Trump presidency – an action that could directly enrich both Trump and Page while undermining American interests."
+The Clinton campaign jumped on what it called Isikoff's "bombshell report" and heavily promoted it on social media. Clinton campaign official Glen Caplin issued a statement republishing the Yahoo piece in full and proclaiming: "It's chilling to learn that U.S. intelligence officials are conducting a probe into suspected meetings between Trump's foreign policy adviser Carter Page and members of Putin's inner circle while in Moscow ... [T]his report suggests Page met with a sanctioned top Russian official to discuss the possibility of ending U.S. sanctions against Russia under a Trump presidency --- an action that could directly enrich both Trump and Page while undermining American interests."
 
 Added Caplin: "This is serious business and voters deserve the facts before election day."
 
-But the media never reported the real facts behind the story – that it was all based on Clinton campaign opposition research – which allowed the rumors to survive without any real scrutiny for years.
+But the media never reported the real facts behind the story --- that it was all based on Clinton campaign opposition research --- which allowed the rumors to survive without any real scrutiny for years.
 
 The Washington Post eventually stopped paying attention to the red flags surrounding the dossier. The newspaper seized on other rumors Fusion fed reporters from the Clinton-paid document.
 

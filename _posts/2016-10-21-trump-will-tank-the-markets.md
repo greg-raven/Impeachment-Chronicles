@@ -5,7 +5,7 @@ tags:
 - Ben White
 ---
 
-NEW YORK — Wall Street is set up for a major crash if Donald Trump shocks the world on Election Day and wins the White House.
+NEW YORK --- Wall Street is set up for a major crash if Donald Trump shocks the world on Election Day and wins the White House.
 
 New research out on Friday suggests that financial markets strongly prefer a Hillary Clinton presidency and could react with panicked selling should Trump defy the polls and deliver a shocking upset on Nov. 8.
 
@@ -22,7 +22,7 @@ The Trump effect also shows up for traders betting on market volatility. Futures
 Oil prices rose during the first debate and gold fell. Gold tends to be a safe haven when investors are worried about possible economic and financial instability. And oil tends to go up when investors expect stronger economic growth and more demand for energy.
 
 Traders and money managers betting on a Clinton win could wind up in trouble if the outcome goes the other way.
-Michael Obuchowski of Merlin Asset Management has watched every move in the campaign closely— including all the WikiLeaks email dumps on Clinton — and made two calls based on it: that Clinton will win and that she won't go as far left as some investors initially feared.
+Michael Obuchowski of Merlin Asset Management has watched every move in the campaign closely--- including all the WikiLeaks email dumps on Clinton --- and made two calls based on it: that Clinton will win and that she won't go as far left as some investors initially feared.
 
 "I always assumed Trump would eventually collapse so that meant staying in equities and going away from certain high-dividend stocks assuming Clinton is going to win and try and tax those dividends at a higher rate," he said. "And I watched all the WikiLeaks and they are positive from an investment perspective especially for bank stocks because it looks like her moves left were more in response to Bernie Sanders rather than her actual beliefs."
 
@@ -34,7 +34,7 @@ Current market action is the direct reverse of what happened in 2012 when Presid
 
 The Trump effect is also global.
 
-Britain's FTSE 100 traced U.S. stock prices higher following the first debate. Currencies in Canada, South Korea, Australia and New Zealand — all major U.S. trading partners — tend to rise when it appears Clinton is doing well and headed to victory.
+Britain's FTSE 100 traced U.S. stock prices higher following the first debate. Currencies in Canada, South Korea, Australia and New Zealand --- all major U.S. trading partners --- tend to rise when it appears Clinton is doing well and headed to victory.
 
 "All told, these movements suggest that financial markets expect a generally healthier domestic and international economy under a President Clinton than under a President Trump," Wolfers and Zitzewitz write in their new paper.
 

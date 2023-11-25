@@ -15,7 +15,7 @@ The California lawmaker said he's "highly confident" that the federal probe into
 
 "And I think that's what we'll ultimately find that dirty cops and dirty operators were taking in information from FBI sources in 2015," he also said.
 
-Solomon thinks that an earlier start date — and public knowledge of that fact — would have changed the entire ordeal, which included the House Democrats' roughly $25 million, so-called Mueller probe that concluded with no conclusive evidence that Trump had colluded with Russia.
+Solomon thinks that an earlier start date --- and public knowledge of that fact --- would have changed the entire ordeal, which included the House Democrats' roughly $25 million, so-called Mueller probe that concluded with no conclusive evidence that Trump had colluded with Russia.
 
 "That changes everything on the way the story was told to us from Rod Rosenstein and James Comey and Andrew McCabe," Solomon said. "It would be a complete rewriting of what really happened, which is extraordinary."
 

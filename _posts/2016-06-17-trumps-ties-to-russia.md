@@ -13,13 +13,13 @@ Trump tweeted Putin a personal invitation to attend the pageant, and a one-on-on
 
 Putin canceled at the last minute, but he sent a decorative lacquered box, a traditional Russian gift, and a warm note, according to Aras Agalarov, a Moscow billionaire who served as a liaison between Trump and the Russian leader.
 
-Still, the weekend was fruitful for Trump. He received a portion of the $14 million paid by Agalarov and other investors to bring the pageant to Moscow. Agalarov said he and Trump signed an agreement to build a Trump Tower in the heart of Moscow — at least Trump's fifth attempt at such a venture. And Trump seemed energized by his interactions with Russia's financial elite at the pageant and a glitzy after-party in a Moscow nightclub.
+Still, the weekend was fruitful for Trump. He received a portion of the $14 million paid by Agalarov and other investors to bring the pageant to Moscow. Agalarov said he and Trump signed an agreement to build a Trump Tower in the heart of Moscow --- at least Trump's fifth attempt at such a venture. And Trump seemed energized by his interactions with Russia's financial elite at the pageant and a glitzy after-party in a Moscow nightclub.
 
 "Almost all of the oligarchs were in the room," Trump bragged to Real Estate Weekly upon returning home.
 
 Trump's relationship with Putin and his warm views toward Russia, which began in the 1980s when the country was still part of the Soviet Union, have emerged as one of the more curious aspects of his presidential campaign.
 
-The overwhelming consensus among American political and national security leaders has held that Putin is a pariah who disregards human rights and has violated international norms in seeking to regain influence and territory in the former Soviet bloc. In 2012, one year before Trump brought his beauty pageant to Moscow, then-Republican presidential nominee Mitt Romney called Russia the United States' top geopolitical threat — an assessment that has only gained currency since then.
+The overwhelming consensus among American political and national security leaders has held that Putin is a pariah who disregards human rights and has violated international norms in seeking to regain influence and territory in the former Soviet bloc. In 2012, one year before Trump brought his beauty pageant to Moscow, then-Republican presidential nominee Mitt Romney called Russia the United States' top geopolitical threat --- an assessment that has only gained currency since then.
 
 Trump has conveyed a different view, informed in part through his business ambitions. Since the 1980s, Trump and his family members have made numerous trips to Moscow in search of business opportunities, and they have relied on Russian investors to buy their properties around the world.
 
@@ -34,7 +34,7 @@ The back-and-forth has continued. In a mid-June rally, Trump cited those comment
 
 On the campaign trail, Trump has called for a new partnership with Moscow, overhauling NATO, the allied military force seen as the chief protector of pro-Western nations near Russia. And Trump has surrounded himself with a team of advisers who have had financial ties to Russia.
 
-This account of Trump's 30-year history of business with Russia — and that of his advisers — is based on interviews as well as a review of deposition transcripts and other court records in which Trump and his associates have discussed their overseas work. Trump declined to be interviewed for this article, as did top campaign aides and most members of his foreign policy team. The Kremlin also declined to comment about Trump's visit to Moscow.
+This account of Trump's 30-year history of business with Russia --- and that of his advisers --- is based on interviews as well as a review of deposition transcripts and other court records in which Trump and his associates have discussed their overseas work. Trump declined to be interviewed for this article, as did top campaign aides and most members of his foreign policy team. The Kremlin also declined to comment about Trump's visit to Moscow.
 
 The coming together of Trump's business and political agendas was evident during his 2013 Moscow trip, in which he was seeking deals at the same time he was starting to ponder a presidential run.
 
@@ -48,13 +48,13 @@ And in the past week, The Post reported that hackers tied to the Russian governm
 
 A spokesman for the Russian Embassy said that Ambassador Sergey I. Kislyak's attendance at the Trump speech should not be considered an indication that Russia is partial to Trump. "There is no preference," the spokesman said.
 
-Still, the relationship is setting off alarms in pro-Western capitals — and in the U.S. foreign policy community.
+Still, the relationship is setting off alarms in pro-Western capitals --- and in the U.S. foreign policy community.
 
 Trump's campaign rhetoric is the "biggest dream of everyone in the Kremlin," Tina Khidasheli, defense minister of Georgia, a U.S. ally, told The Post. "It's scary, it's dangerous, and it's irresponsible."
 
 Her view is shared in the United States by leading Russia experts from both political parties.
 
-Michael McFaul, who stepped down in 2014 as the U.S. ambassador to Russia, said Trump's stance toward Russia "makes everyone I talk to around the world nervous — and it makes me nervous."
+Michael McFaul, who stepped down in 2014 as the U.S. ambassador to Russia, said Trump's stance toward Russia "makes everyone I talk to around the world nervous --- and it makes me nervous."
 
 David J. Kramer, who served as deputy assistant secretary of state dealing with Russia during the George W. Bush administration, said he was "appalled" by Trump's approach.
 
@@ -62,27 +62,27 @@ Trump's spokeswoman did not respond to detailed written questions.
 
 One of his foreign policy advisers, retired Lt. Gen. Michael Flynn, who headed the Defense Intelligence Agency in the Obama administration, said Trump would be "exceedingly stronger" than Hillary Clinton, the presumptive Democratic presidential nominee, who he said was an "utter failure" in her goal as secretary of state to "reset" U.S.-Russia relations.
 
-Trump has long aspired to build a Trump Tower in Russia — a market that first gained his attention in the 1980s as the Cold War was ending and the Soviet Union began to open more to outsiders.
+Trump has long aspired to build a Trump Tower in Russia --- a market that first gained his attention in the 1980s as the Cold War was ending and the Soviet Union began to open more to outsiders.
 
 "Russia is one of the hottest places in the world for investment," Trump said in a 2007 deposition. "We will be in Moscow at some point," he promised.
 
-Part of the allure was what Trump and his associates saw as a huge opportunity — the chance to market American-style luxury apartments to the wealthy elite in a place that still mostly offered utilitarian Soviet-style construction.
+Part of the allure was what Trump and his associates saw as a huge opportunity --- the chance to market American-style luxury apartments to the wealthy elite in a place that still mostly offered utilitarian Soviet-style construction.
 
 The Russian market had "natural strength, especially in the high-end sector," said Donald Trump Jr. in his 2008 real estate conference speech. Moscow held special appeal because wealthy people throughout the region wanted to own real estate in the capital city, he said.
 
 Trump's 1987 trip represented his first public exploration of business prospects in Moscow. He went with his then-wife, ­Ivana, to scope out sites for luxury hotels he hoped to build in a joint venture with the Kremlin's hotel and tourism agency, according to Trump's memoir, "The Art of the Deal," which was published the same year.
 
-The project never got off the ground — an outcome that would repeat itself multiple times between then and his 2013 trip.
+The project never got off the ground --- an outcome that would repeat itself multiple times between then and his 2013 trip.
 
 In 1996, Trump tried to partner with U.S. tobacco executives to build a luxury condominium complex in Moscow. Ted Liebman, an architect who worked with Trump, recalled drawing sketches of the proposed Trump International for the businessman to use in meetings with Moscow officials.
 
-In 2005, Trump signed a one-year deal with a New York development company to explore a Trump Tower in Moscow. Bayrock Group found a site — an old pencil factory — but the effort fizzled again.
+In 2005, Trump signed a one-year deal with a New York development company to explore a Trump Tower in Moscow. Bayrock Group found a site --- an old pencil factory --- but the effort fizzled again.
 
 Trump claimed in a later court proceeding that Russian investors were spooked when a 2005 book questioned his net worth.
 
 But the Russia quest continued. In his 2008 speech, Donald Jr. announced that he had traveled to Russia six times in the previous 18 months. But, he said, Russia presented enormous challenges.
 
-"As much as we want to take our business over there, Russia is just a different world," the younger Trump said. "It is a question of who knows who, whose brother is paying off who. … It really is a scary place."
+"As much as we want to take our business over there, Russia is just a different world," the younger Trump said. "It is a question of who knows who, whose brother is paying off who. ... It really is a scary place."
 
 The elder Trump's business ambitions have extended throughout the former Soviet Union and the Eastern bloc. He has explored deals in Kiev, Yalta and Warsaw and licensed his name for the construction of a five-star hotel in Baku, Azerbaijan, which has been mostly built but is not yet open.
 

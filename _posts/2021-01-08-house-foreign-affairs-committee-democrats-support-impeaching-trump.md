@@ -9,7 +9,7 @@ Democrats on the House Foreign Affairs Committee joined growing calls among thei
 
 Rep. Gregory Meeks (D-N.Y.), chair of the panel, led a letter sent to Pelosi on Friday calling for the president's impeachment, saying it was the duty of the Foreign Affairs to project U.S. global leadership on democracy and the rule of law.
 
-"There is a foreign policy imperative to hold the President accountable for his actions — we must demonstrate to the world that no one in America is above the law and counter our adversaries' propaganda that democracy is a failed system," Meeks wrote in a letter signed by all 24 Democratic members of the panel.
+"There is a foreign policy imperative to hold the President accountable for his actions --- we must demonstrate to the world that no one in America is above the law and counter our adversaries' propaganda that democracy is a failed system," Meeks wrote in a letter signed by all 24 Democratic members of the panel.
 
 "The Constitution demands that we, as members of the House of Representatives, use every tool at our disposal to safeguard our country and our democracy during this perilous time by holding to account those who would do them harm. That tool is impeachment," he added.
 

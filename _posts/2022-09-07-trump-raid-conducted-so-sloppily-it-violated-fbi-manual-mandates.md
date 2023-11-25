@@ -15,7 +15,7 @@ That's according to Jonathan Turley, a George Washington University law professo
 
 At issue is the validity of a search warrant allowing the FBI to send dozens of agents to raid Trump's home, inspect the property of Melania and Barron Trump, and take virtually anything they wanted.
 
-In fact, reports now confirm that the FBI likely took hundreds of documents to which agents were not entitled – even to see.
+In fact, reports now confirm that the FBI likely took hundreds of documents to which agents were not entitled --- even to see.
 
 Those included papers protect by attorney-client privilege, financial records, health records and more.
 
@@ -39,7 +39,7 @@ Among the FBI failures now evident: The confiscation of more than 500 pages of d
 
 Brock told Just the News, "I don't care if it was a drug trafficker, or a child exploiter, or whatever, you go into a home, you set up a system where those things that you seize are assiduously documented. They're given a specific tracking number, barcodes, if you will, and each piece is gone through meticulously before you leave the premises to make sure that it's within the scope of the document."
 
-The judge's ruling even revealed that the DOJ's teams – assigned to separate evidence from private documents – failed to keep some of those pieces of paper from reaching investigators.
+The judge's ruling even revealed that the DOJ's teams --- assigned to separate evidence from private documents --- failed to keep some of those pieces of paper from reaching investigators.
 
 Then, too, as WND previously reported, the judge revealed that the criminal probe was begun with the National Archives "providing the FBI access to the records in question, as requested by the incumbent President."
 

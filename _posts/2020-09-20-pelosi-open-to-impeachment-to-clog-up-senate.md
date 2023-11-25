@@ -15,6 +15,6 @@ Pelosi was pressed by Stephanopoulos on "not ruling anything out.
 
 "We have arrows in our quiver that I'm not about to discuss right now but the fact is we have a big challenge in our country," Pelosi replied.
 
-[…]
+[...]
 
 Source: Lucy Jones, the-sun.com/news/1503517/pelosi-impeachment-senate-trump-supreme-court/

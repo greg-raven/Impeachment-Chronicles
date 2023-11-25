@@ -58,7 +58,7 @@ Moreover, the National Security Council is contemplating whether to rescind the 
 
 Trump has granted broad power to the CIA to conduct lethal drone attacks. Obama had largely limited that power to the Defense Department's Joint Special Operations Command. The CIA, unlike the Pentagon, doesn't have to report how many people it kills during a strike.
 
-In mid-March, 37 former government officials and national security experts from across the political spectrum sent a letter to Defense Secretary James Mattis, warning the administration to proceed cautiously when reviewing the targeted killing guidance. The letter said, "Even small numbers of unintentional civilian deaths or injuries … can cause significant setbacks."
+In mid-March, 37 former government officials and national security experts from across the political spectrum sent a letter to Defense Secretary James Mattis, warning the administration to proceed cautiously when reviewing the targeted killing guidance. The letter said, "Even small numbers of unintentional civilian deaths or injuries ... can cause significant setbacks."
 
 Regardless of the guidance, however, the coalition is still constrained by international humanitarian law.
 

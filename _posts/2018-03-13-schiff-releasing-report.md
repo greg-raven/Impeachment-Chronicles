@@ -38,7 +38,7 @@ For the Democrats' view on all of this, we are now joined now by Representative 
 
 Mr. Schiff, thanks for being with us.
 
-You presumably have seen the same evidence that the Republicans on the committee looked at. How do you — what's your response to their conclusions?
+You presumably have seen the same evidence that the Republicans on the committee looked at. How do you --- what's your response to their conclusions?
 
 **Rep. Adam Schiff, D-Calif.:**
 
@@ -46,7 +46,7 @@ Well, deeply disappointing, but not completely surprising.
 
 They have maintained for some time, notwithstanding significant evidence that we have seen, that there was no collusion. This merely parrots what the president says, but it's not consistent with what we have seen.
 
-We're releasing a — about a 20-page document today that sets out the witnesses that should have been brought before our committee, the documents that should have been obtained, the investigative leads that need to be pursued, so the public can see just how incomplete this effort was by the House majority and how much work remains to be done.
+We're releasing a --- about a 20-page document today that sets out the witnesses that should have been brought before our committee, the documents that should have been obtained, the investigative leads that need to be pursued, so the public can see just how incomplete this effort was by the House majority and how much work remains to be done.
 
 If we're going to provide a full accounting to the public, these questions need to be answered. We cannot rely solely on Bob Mueller. His job is different than ours. It's his job to decide which laws have been violated and who should be prosecuted. It's not his job to tell the country what happened.
 
@@ -64,7 +64,7 @@ Now, are you saying that you disagree, based on what you have seen?
 
 Certainly. And even what you see in the public domain disputes that claim.
 
-If you look at what we know from the work of Bob Mueller in the Papadopoulos plea, the Russians, through intermediaries — and, yes, it may sound like a spy novel because there is someone called "The Professor" involved — but they approached the Trump campaign in the early stages, in April of 2016, and said that they had stolen Clinton or DNC e-mails.
+If you look at what we know from the work of Bob Mueller in the Papadopoulos plea, the Russians, through intermediaries --- and, yes, it may sound like a spy novel because there is someone called "The Professor" involved --- but they approached the Trump campaign in the early stages, in April of 2016, and said that they had stolen Clinton or DNC e-mails.
 
 And they previewed the dissemination of those e-mails. Only weeks later, the Russians made a second approach to the Trump campaign at Trump Tower at the top level of the campaign, the president's son and son-in-law and campaign manager, and said they were prepared to provide derogatory information about Hillary Clinton as part of their effort to help Donald Trump.
 
@@ -78,7 +78,7 @@ But we need to report to the American people what happened. The reason we use th
 
 **John Yang:**
 
-And will you be laying out your argument in a — your own views, a minority report? Will you have that opportunity?
+And will you be laying out your argument in a --- your own views, a minority report? Will you have that opportunity?
 
 **Rep. Adam Schiff:**
 

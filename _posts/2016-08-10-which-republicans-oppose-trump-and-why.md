@@ -9,9 +9,9 @@ Here's a semi-comprehensive list we'll be updating of the many notable Republica
 
 **Senators**
 
-Susan Collins: The Maine senator wrote an op-ed in The Washington Post on August 8 stating that although she is a lifelong Republican, she will not support the party's nominee – a decision she says she does not take "lightly." "Donald Trump does not reflect historical Republican values nor the inclusive approach to governing that is critical to healing the divisions in our country," Collins wrote.
+Susan Collins: The Maine senator wrote an op-ed in The Washington Post on August 8 stating that although she is a lifelong Republican, she will not support the party's nominee --- a decision she says she does not take "lightly." "Donald Trump does not reflect historical Republican values nor the inclusive approach to governing that is critical to healing the divisions in our country," Collins wrote.
 
-Mark Kirk: The Illinois senator said June 8 that he "cannot and will not support" Trump – who he said "does not have the temperament" to be commander in chief. Kirk faces a tough challenge in November from Illinois Democratic Rep. Tammy Duckworth.
+Mark Kirk: The Illinois senator said June 8 that he "cannot and will not support" Trump --- who he said "does not have the temperament" to be commander in chief. Kirk faces a tough challenge in November from Illinois Democratic Rep. Tammy Duckworth.
 
 Sen. Ben Sasse (R-NE) (3L) arrives at the Capitol for a cloture vote on the Keystone XL Pipeline January 26, 2015 on Capitol Hill in Washington, DC.
 Lindsey Graham: The South Carolina senator told CNN May 6 that he won't vote for Trump or Clinton. Saying he thinks the Republican Party has been "conned," Graham added that he doesn't think Trump is "a reliable Republican conservative."
@@ -26,7 +26,7 @@ Dean Heller: The Nevada senator Dean Heller told Politico June 30 that he Trump 
 
 Scott Rigell: The House member, who announced he won't run for re-election in his Virginia district, said August 6 that he will vote for Libertarian Gary Johnson for president over his party's nominee.
 
-Richard Hanna: The New York lawmaker was the first Republican member of Congress to openly announce he will vote for Hillary Clinton in November. In an op-ed for Syracuse.com August 2, Hanna – who is retiring after this term – wrote that Trump is "deeply flawed in endless ways" and "unrepentant in all things" then declared: "While I disagree with her on many issues, I will vote for Mrs. Clinton."
+Richard Hanna: The New York lawmaker was the first Republican member of Congress to openly announce he will vote for Hillary Clinton in November. In an op-ed for Syracuse.com August 2, Hanna --- who is retiring after this term --- wrote that Trump is "deeply flawed in endless ways" and "unrepentant in all things" then declared: "While I disagree with her on many issues, I will vote for Mrs. Clinton."
 
 Adam Kinzinger: The Illinois lawmaker told CNN's Wolf Blitzer in August that he doesn't see how he can support Trump following his comments about NATO and the Khan family. "I'm an American before I'm a Republican," he told Blitzer. But Kinzinger said he would not support Clinton.
 
@@ -34,13 +34,13 @@ Ileana Ros-Lehtinen: The senior member of Florida's congressional delegation tol
 
 Charlie Dent: The Pennsylvania House member said on MSNBC on August 2 that he will not support Trump or Clinton and has "no plans" to vote for Trump. "I think some of us have to stand up once in a while and just have to say how we feel about this," Dent said.
 
-Mike Coffman: The Colorado representative aired an ad August 4 publicly voicing his unhappiness with his party's nominee – speaking directly into the camera, he says: "People ask me, 'What do you think about (Donald) Trump?' Honestly, I don't care for him much." The congressman, a Marine who served in the Army reserves, said he wouldn't rule out voting for Trump – though he said it's hard to imagine the campaign changing enough that he would lend his support.
+Mike Coffman: The Colorado representative aired an ad August 4 publicly voicing his unhappiness with his party's nominee --- speaking directly into the camera, he says: "People ask me, 'What do you think about (Donald) Trump?' Honestly, I don't care for him much." The congressman, a Marine who served in the Army reserves, said he wouldn't rule out voting for Trump --- though he said it's hard to imagine the campaign changing enough that he would lend his support.
 
 Bob Dold: One of the first Republicans to oppose Trump, the Illinois representative told WLS May 6: "I will not support Donald Trump," referring to Trump's comments about women, Muslims, Latinos and POWs. "We're looking for a uniter, not a divider," he said.
 
 **Governors**
 
-John Kasich: The Ohio governor and Trump's former rival has been one of the most prominent figures to withhold his support from Trump – although he hasn't explicitly said he won't vote for the nominee. He told CNN August 5 that he wishes he could be "fully enthusiastic," but said, "I don't know what's going to happen at the end."
+John Kasich: The Ohio governor and Trump's former rival has been one of the most prominent figures to withhold his support from Trump --- although he hasn't explicitly said he won't vote for the nominee. He told CNN August 5 that he wishes he could be "fully enthusiastic," but said, "I don't know what's going to happen at the end."
 
 Larry Hogan: The governor of Maryland said June 15 that he "doesn't plan" to vote for Trump.
 
@@ -48,7 +48,7 @@ Charlie Baker: The Massachusetts governor said he likely won't support Trump or 
 
 **Party elders**
 
-Jeb Bush: The ex-Florida governor and Trump's former rival announced on Facebook May 6 that he would not vote for Trump or Clinton – stating the Republican nominee has not demonstrated the "temperament or strength of character" to be president.
+Jeb Bush: The ex-Florida governor and Trump's former rival announced on Facebook May 6 that he would not vote for Trump or Clinton --- stating the Republican nominee has not demonstrated the "temperament or strength of character" to be president.
 
 Barbara Bush: The former first lady told CNN's Jamie Gangel February 5 that Trump has said "terrible things about women, terrible things about the military." "I don't even think about him," she said. "I'm sick of him."
 
@@ -56,7 +56,7 @@ Mitt Romney: The 2012 Republican nominee has long openly opposed Trump's candida
 
 Larry Pressler: The former three-term senator from South Dakota endorsed Clinton June 12 following the Orlando terror attack, stating that she "would be able to handle such explosive situations which are terrorist inspired much better than Donald Trump."
 
-Vin Weber: The former ally of Newt Gingrich and a representative from Minnesota for 12 years told CNBC August 3 that he rejects Trump's candidacy – calling his nomination "a mistake of historic proportions." Weber said he hasn't decided if he'll vote for Clinton.
+Vin Weber: The former ally of Newt Gingrich and a representative from Minnesota for 12 years told CNBC August 3 that he rejects Trump's candidacy --- calling his nomination "a mistake of historic proportions." Weber said he hasn't decided if he'll vote for Clinton.
 
 Gordon Humphrey: The former New Hampshire senator told NBC News August 4 that he won't support Trump, and would vote for Clinton if the contest in his home state, New Hampshire, is close. "I am ever more confirmed in my belief that Trump is a sociopath, without a conscience or feelings of guilt, shame or remorse," Humphrey wrote.
 
@@ -66,11 +66,11 @@ William Milliken: The former Michigan governor said in a statement August 8 that
 
 **Party insiders**
 
-Sally Bradshaw: Jeb Bush's former top adviser told CNN August 2 that she has left the Republican Party, and that if the race is close in her home state of Florida, she will vote for Clinton. Bradshaw said the Republican Party is "at a crossroads and have nominated a total narcissist – a misogynist – a bigot."
+Sally Bradshaw: Jeb Bush's former top adviser told CNN August 2 that she has left the Republican Party, and that if the race is close in her home state of Florida, she will vote for Clinton. Bradshaw said the Republican Party is "at a crossroads and have nominated a total narcissist --- a misogynist --- a bigot."
 
-Maria Comella: Chris Christie's longtime aide told CNN August 2 she will vote for Clinton – calling Trump "a demagogue" who preys "on people's anxieties with loose information and salacious rhetoric, drumming up fear and hatred of the 'other.'"
+Maria Comella: Chris Christie's longtime aide told CNN August 2 she will vote for Clinton --- calling Trump "a demagogue" who preys "on people's anxieties with loose information and salacious rhetoric, drumming up fear and hatred of the 'other.'"
 
-Meg Whitman: The president and CEO of Hewlett-Packard and a major GOP donor said August 2 that she will support Clinton over Trump – stating that Trump's "demagoguery has undermined the fabric of our national character." The former California gubernatorial candidate said she would contribute to Clinton's campaign and its allied super PACs.
+Meg Whitman: The president and CEO of Hewlett-Packard and a major GOP donor said August 2 that she will support Clinton over Trump --- stating that Trump's "demagoguery has undermined the fabric of our national character." The former California gubernatorial candidate said she would contribute to Clinton's campaign and its allied super PACs.
 
 Hank Paulson: The Republican Treasury secretary endorsed Clinton June 24, writing in an op-ed in The Washington Post that "a Trump presidency is unthinkable." "To my Republican friends: I know I'm not alone," Paulson wrote.
 
@@ -78,11 +78,11 @@ Marc Racicot: The former governor of Montana and former chairman of the Republic
 
 Mark Salter: The former top adviser to Sen. John McCain tweeted his support for Clinton on May 3, writing; "the GOP is going to nominate for President a guy who reads the National Enquirer and thinks it's on the level. I'm with her."
 
-Lezlee Westine: The former aide to President George Bush announced August 8 she will support Clinton – writing that the country "faces a unique set of challenges that require steady and experienced leadership."
+Lezlee Westine: The former aide to President George Bush announced August 8 she will support Clinton --- writing that the country "faces a unique set of challenges that require steady and experienced leadership."
 
 Christine Todd Whitman: The former governor of New Jersey said March 1 she would "probably" vote for Clinton over Trump. "While I certainly don't want four more years of another Clinton administration or more years of the Obama administration, I would take that over the kind of damage I think Donald Trump could do to this country, to its reputation, to the people of this country," Whitman said.
 
-George Will: The conservative commentator and columnist said June 26 that he left the Republican Party because of Trump – "I decided that in fact this was not my party anymore," he said.
+George Will: The conservative commentator and columnist said June 26 that he left the Republican Party because of Trump --- "I decided that in fact this was not my party anymore," he said.
 
 Paul Singer: The Republican megadonor said in May he will not support Trump or Clinton.
 

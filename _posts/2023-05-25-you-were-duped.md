@@ -7,7 +7,7 @@ tags:
 
 There's no reason to soft-pedal it: If you believed the Russia collusion narrative and everything it entails, you were duped.
 
-In a revelation that comes as no surprise to anyone who was paying attention, it turns out that there was no evidence — *none* — that former President Donald Trump "colluded" with Russia. Ever.
+In a revelation that comes as no surprise to anyone who was paying attention, it turns out that there was no evidence --- *none* --- that former President Donald Trump "colluded" with Russia. Ever.
 
 It is not merely that the investigation presided over (nominally, anyway) by former FBI Director Robert Mueller *produced* no evidence of collusion, although it didn't. It's much more serious than that.
 
@@ -31,7 +31,7 @@ You believe(d) them despite the efforts of those who put their jobs, reputations
 
 You believe(d) all the propaganda either because you trusted established institutions like our media, our law enforcement and our government, or because you hate Trump and wanted the things you were told to be true. Or both.
 
-But you were deceived. Manipulated. Used as a de facto army of propagandists against your neighbors, your friends, your countrymen — all to cover up the lies of the powerful people exploiting your trust.
+But you were deceived. Manipulated. Used as a de facto army of propagandists against your neighbors, your friends, your countrymen --- all to cover up the lies of the powerful people exploiting your trust.
 
 You should be angry about that.
 
@@ -43,7 +43,7 @@ You should be angry that the FBI, the CIA and other federal agencies were embedd
 
 You should be furious that so much abuse of power was done to interfere with a presidential election and then to undermine and cripple, if not destroy, the administration of a duly elected president.
 
-Some of you, if you're being completely honest, will admit that you don't care if laws were broken to get to Trump because you hate him. Ah, but there is that little thing called "precedent." This is how standards of conduct are eroded — they either apply to everyone, or they apply to no one. What can be done to someone you despise will be done to someone you support.
+Some of you, if you're being completely honest, will admit that you don't care if laws were broken to get to Trump because you hate him. Ah, but there is that little thing called "precedent." This is how standards of conduct are eroded --- they either apply to everyone, or they apply to no one. What can be done to someone you despise will be done to someone you support.
 
 And to you.
 

@@ -7,21 +7,21 @@ tags:
 
 The US Senate today released over [500 pages of information related to the Spygate scandal](https://www.hsgac.senate.gov/wp-content/uploads/imo/media/doc/Appendix%20C%20-%20Documents.pdf).
 
-Hidden in the information are unredacted Strzok – Page texts that show the FBI initiated actions to insert multiple spies in the Trump campaign in December 2015.
+Hidden in the information are unredacted Strzok --- Page texts that show the FBI initiated actions to insert multiple spies in the Trump campaign in December 2015.
 
 Once again Internet sleuths unearthed damning evidence that the FBI was engaged in Spygate long before they let on.
 
-As we reported previously, according to far left Politico, Comey stated in March of 2017 under oath that the FBI investigation into the Trump – Russia scandal started in July 2016:
+As we reported previously, according to far left Politico, Comey stated in March of 2017 under oath that the FBI investigation into the Trump --- Russia scandal started in July 2016:
 
 > FBI Director James Comey told lawmakers Monday that his agency has been investigating possible coordination between the Trump campaign and Russian officials since last July [2016].
 >
-> The newly revealed timeline — which Comey detailed in a much-anticipated House Intelligence Committee hearing — means the FBI probe was occurring during the peak of an alleged Russian campaign to destabilize the presidential race and eventually help elect President Donald Trump.
+> The newly revealed timeline --- which Comey detailed in a much-anticipated House Intelligence Committee hearing --- means the FBI probe was occurring during the peak of an alleged Russian campaign to destabilize the presidential race and eventually help elect President Donald Trump.
 
 But Comey appears to have lied about this.
 
 A text message released today by the US Senate showed words that were redacted when the FBI released the same texts long ago. The texts show evidence of collusion and wrongdoing by Obama's FBI.
 
-> I'd call this evidence of collusion and wrongdoing… https://t.co/CcTrao5bZE
+> I'd call this evidence of collusion and wrongdoing... https://t.co/CcTrao5bZE
 >
 > <cite>Tony Shaffer (@T\_S\_P\_O\_O\_K\_Y) June 4, 2018</cite>
 
@@ -33,7 +33,7 @@ The texts released today from corrupt FBI investigator Peter Strzok to corrupt F
 >
 > OCONUS= Outside Contiguous US
 >
-> LURES= In this context LURES = SPIES – multiple
+> LURES= In this context LURES = SPIES --- multiple
 >
 > Is this an admission that the FBI wanted to run a baited Sting Op using foreign agents against Trump? pic.twitter.com/OtLxlOEGsV
 >

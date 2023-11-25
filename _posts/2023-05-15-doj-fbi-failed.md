@@ -21,8 +21,8 @@ Durham said his investigation also revealed that "senior FBI personnel displayed
 
 "The Department did not adequately examine or question these materials and the motivations of those providing them, even when at about the same time the Director of the FBI and others learned of significant and potentially contrary intelligence," the report said.
 
-Durham is referring to past FBI leadership in his report – specifically former FBI Director James Comey and former FBI Deputy Director Andrew McCabe.
+Durham is referring to past FBI leadership in his report --- specifically former FBI Director James Comey and former FBI Deputy Director Andrew McCabe.
 
-[…]
+[...]
 
 Source: Brooke Singman, foxnews.com/politics/durham-doj-fbi-failed-uphold-mission-strict-fidelity-law-trump-russia-probe

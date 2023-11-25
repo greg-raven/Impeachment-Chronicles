@@ -21,7 +21,7 @@ I'm beginning to wonder if the only thing Hillary didn't do was hire hit men.
 
 John Solomon and Lee Smith write at JusttheNews.com:
 
-The revelation that a committee led by the Republican McCain and Democratic Sen. Jack Reed of Rhode Island engaged a nonprofit with significant partisan ties is certain to reverberate in Washington and further the GOP narrative that the Russia collusion allegations were more a political dirty trick than a legitimate counterintelligence concern. Mueller concluded there was no evidence Trump and Russia colluded to hijack the 2016 election.
+> The revelation that a committee led by the Republican McCain and Democratic Sen. Jack Reed of Rhode Island engaged a nonprofit with significant partisan ties is certain to reverberate in Washington and further the GOP narrative that the Russia collusion allegations were more a political dirty trick than a legitimate counterintelligence concern. Mueller concluded there was no evidence Trump and Russia colluded to hijack the 2016 election.
 
 How did it work?
 
@@ -39,7 +39,7 @@ Solomon and Smith uncovered the Soros effort when the Senate committee went to c
 
 Alfa Bank, the Russian bank accused by the Democrat-Media Complex of being a pass-through between the Kremlin and Trump, sued to get its hands on the potentially smoking gun documents. McConnell and the Democrats fought the subpoena, filed in Florida, citing sovereign immunity. The bank withdrew its subpoena this week for some reason.
 
-The Senate committee got Jones's services for "free" — thanks to paymaster George Soros. Jones's job was to look into the DNS data that purported to "prove" links between Trump and Russia on behalf of the committee. PJ Media reported Thursday that those "links" were marketing emails from Trump properties and junk used to create "inferences" and a "narrative" to destroy Trump. This effort, then, was to poison the Senate committee with the fake narrative.
+The Senate committee got Jones's services for "free" --- thanks to paymaster George Soros. Jones's job was to look into the DNS data that purported to "prove" links between Trump and Russia on behalf of the committee. PJ Media reported Thursday that those "links" were marketing emails from Trump properties and junk used to create "inferences" and a "narrative" to destroy Trump. This effort, then, was to poison the Senate committee with the fake narrative.
 
 Related: Lock 'Em Up: Same FBI That Chased Russia Collusion Hoax for Years Covered Up Sexual Abuse of USA Gymnasts
 

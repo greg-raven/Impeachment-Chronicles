@@ -7,7 +7,7 @@ tags:
 
 Remember how many Democrats clamored for President Donald Trump's tax returns to be released because they believed it would show proof that he was somehow in cahoots with Russia and Vladimir Putin?
 
-**Now his tax returns have been obtained and are public. And …**
+**Now his tax returns have been obtained and are public. And ...**
 
 **There's nothing about Russia. At all.**
 

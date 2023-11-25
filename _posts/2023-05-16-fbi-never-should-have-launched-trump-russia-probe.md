@@ -15,7 +15,7 @@ Special counsel John Durham concluded that the FBI should never have launched a 
 
 Durham's 300-plus page report also states that the FBI used "raw, unanalyzed, and uncorroborated intelligence," to launch the "[Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %})" investigation into Trump and Russia but used a different standard when weighing concerns about alleged election interference regarding Hillary Clinton's campaign.
 
-[…]
+[...]
 
 Source: Zachary Cohen, Devan Cole, Tierney Sneed, Evan Perez, Hannah Rabinowitz, Jeremy Herb, and Marshall Cohen, CNN, cnn.com/2023/05/15/politics/john-durham-report-fbi-trump-released/index.html
 

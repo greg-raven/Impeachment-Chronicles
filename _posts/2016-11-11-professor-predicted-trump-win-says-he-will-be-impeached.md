@@ -5,7 +5,7 @@ tags:
 - Leinz Vales
 ---
 
-(CNN) — The man dubbed "Prediction Professor" for accurately calling almost every presidential election since 1984, including the 2016 election, now forecasts the impeachment of President-elect Donald Trump.
+(CNN) --- The man dubbed "Prediction Professor" for accurately calling almost every presidential election since 1984, including the 2016 election, now forecasts the impeachment of President-elect Donald Trump.
 
 "There's a very good chance that Donald Trump could face impeachment," Allan Lichtman told Erin Burnett on "Erin Burnett OutFront."
 

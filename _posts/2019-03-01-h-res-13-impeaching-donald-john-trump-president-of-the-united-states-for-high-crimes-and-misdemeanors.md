@@ -1,5 +1,5 @@
 ---
-title: "H.Res.13 — Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors"
+title: "H.Res.13 --- Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors"
 layout: post
 tags:
 - Brad Sherman

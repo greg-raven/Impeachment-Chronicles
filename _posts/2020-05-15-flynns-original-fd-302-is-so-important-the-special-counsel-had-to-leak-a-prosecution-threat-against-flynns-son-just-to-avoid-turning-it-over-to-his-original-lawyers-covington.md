@@ -23,7 +23,7 @@ We also now know that the Dec 29 Flynn-Kislyak call changed nothing with regards
 
 And in the [Mueller report]({% post_url 2019-03-22-mueller-report %}), the SCO itself admits Flynn merely asked Russia not to "escalate" in response to Obama's sanctions or only respond "reciprocally". There's nothing wrong with that. What should he have said, go ahead nuclear armed Russia, please escalate?
 
-So the SCO wouldn't be "revealing" anything legitimate about its Russian interference investigation by turning over Flynn's FD-302 — any of them, even the heavily edited versions filed weeks after the interview
+So the SCO wouldn't be "revealing" anything legitimate about its Russian interference investigation by turning over Flynn's FD-302 --- any of them, even the heavily edited versions filed weeks after the interview
 
 Of course, what turning over the 302 would have really revealed is likely a document stating that the agents didn't believe Flynn was lying, and metadata proving that it went through weeks of editing and polishing in violation of FBI policies
 
@@ -39,28 +39,28 @@ Sun Nov 5, 2017: "Three sources" close to the Flynn investigation leak this to N
 
 In case @GenFlynn didn't get this "message", look at the photo ABC news use to highlight the story. Flynn with his son. "Three" sources "close to the investigation" leaked this, to Collusion/Fusion GPS friendly reporters. An investigation that at the time almost nobody knew about
 
-[…]
+[...]
 
-By the time Covington follow up with the SCO after this weekend of light reading of veiled threats for the Flynn family, they've already agreed to bring Flynn in for a "proffer" – a prelude to pleading guilty to the false statements offense
+By the time Covington follow up with the SCO after this weekend of light reading of veiled threats for the Flynn family, they've already agreed to bring Flynn in for a "proffer" --- a prelude to pleading guilty to the false statements offense
 
 This is despite Covington circulating in internal memos at the time talking points that "We are firmly of the view that he did not commit any felony offenses. There are no circumstances under which he would plea to a felony offense"
 
-Remember: Covington — not @SidneyPowell1 — are on record here REPEATEDLY saying their guy is *innocent.* They are "firmly" of this belief. And they've been representing him for months. This isn't something they dreamed up after 5 minutes talking to the General
+Remember: Covington --- not @SidneyPowell1 --- are on record here REPEATEDLY saying their guy is *innocent.* They are "firmly" of this belief. And they've been representing him for months. This isn't something they dreamed up after 5 minutes talking to the General
 
 The SCO turned over zero documents to Covington that would make them change their assessment of Flynn's innocence. In fact, had the SCO turned *anything* over, it would have strengthened the view that Flynn could mount a strong defense against any false statement charge
 
 Examples:
 
 - Comey's testimony that both agents didn't think Flynn lied
-- 302 – likely says the same thing
+- 302 --- likely says the same thing
 - Closing EC for "Razor", showing the FBI wanted to close its own case
 - Kislyak transcript
 - That no Logan Act EC existed opening a new case
 - Strzok/Page texts showing bias
 
-Any or all of those would blow a hole in *both* mandatory elements of the 1001 false statements charge – that any lie was "knowing" and "willful" (Flynn lied, deliberately) and "material" — i.e. could influence a genuine predicated FBI investigation
+Any or all of those would blow a hole in *both* mandatory elements of the 1001 false statements charge --- that any lie was "knowing" and "willful" (Flynn lied, deliberately) and "material" --- i.e. could influence a genuine predicated FBI investigation
 
-The only thing that changed — the only thing — is that the SCO leaked to the press that they were deadly serious about going after Flynn's son. And after the elder Flynn had racked up millions in legal bills himself, who can blame him for wanting to avoid that for his family too?
+The only thing that changed --- the only thing --- is that the SCO leaked to the press that they were deadly serious about going after Flynn's son. And after the elder Flynn had racked up millions in legal bills himself, who can blame him for wanting to avoid that for his family too?
 
 So Flynn ended up pleading guilty, and he's been on the hook ever since
 

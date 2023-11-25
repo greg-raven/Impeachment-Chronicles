@@ -23,7 +23,7 @@ Rep. Garrett Graves (R-La.) on Friday called for Trump to step back from the dut
 
 "He effectively needs to resign. And what I mean by that is, effectively, he will not be out there talking, speaking, wielding the full authority and power of the White House, maybe even technically finding a way to hand over the keys to [Vice President] Pence," he said.
 
-Sen. Ben Sasse (R-Neb.), a prominent conservative and potential presidential candidate in 2024, said Thursday he would consider voting to convict Trump on an article of impeachment — something he voted against less than a year ago when House Democrats impeached Trump, charging him with abuse of power and obstructing justice.
+Sen. Ben Sasse (R-Neb.), a prominent conservative and potential presidential candidate in 2024, said Thursday he would consider voting to convict Trump on an article of impeachment --- something he voted against less than a year ago when House Democrats impeached Trump, charging him with abuse of power and obstructing justice.
 
 "If they come together and have a process, I will definitely consider whatever articles they might move, because as I told you I believe the president has disregarded his oath of office," Sasse said in an interview on "CBS This Morning."
 

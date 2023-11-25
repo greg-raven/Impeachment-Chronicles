@@ -11,7 +11,7 @@ Democratic Rep. Al Green of Texas called for the impeachment of President Donald
 
 Green, who previewed his call with a tweet earlier, said it was the House of Representative's "duty" to take up impeachment.
 
-News broke Tuesday that Trump in February asked then-FBI Director James Comey to drop an investigation into his former national security adviser Michael Flynn – a request critics have called obstruction of justice.
+News broke Tuesday that Trump in February asked then-FBI Director James Comey to drop an investigation into his former national security adviser Michael Flynn --- a request critics have called obstruction of justice.
 
 As the backlash escalates to Trump's firing of Comey last week, Democratic lawmakers are increasingly raising the prospect of impeachment.
 

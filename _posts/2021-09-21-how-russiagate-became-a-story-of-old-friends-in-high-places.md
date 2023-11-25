@@ -5,7 +5,7 @@ tags:
 - Eric Felten
 ---
 
-The indictment of Washington attorney Michael Sussman — accused of lying to the FBI in order to smear Donald Trump during the 2016 campaign — reveals the ace up the sleeve of high-powered Democrats. It's a card they played time and again to advance the Trump-Russia conspiracy theory: friends in high places.
+The indictment of Washington attorney Michael Sussman --- accused of lying to the FBI in order to smear Donald Trump during the 2016 campaign --- reveals the ace up the sleeve of high-powered Democrats. It's a card they played time and again to advance the Trump-Russia conspiracy theory: friends in high places.
 
 They used friends in law enforcement to launch secret investigations; they used friends in the federal government to broaden those investigations; and they used friends in the media to spread the word about Trump and his organization being under investigation.
 
@@ -17,7 +17,7 @@ Securing a meeting with the FBI's top lawyer can't have been easy. But for Sussm
 
 Not just anyone can call up the bureau's general counsel and, with amorphous claims of conspiratorial criminality by a presidential candidate, promptly get a private sit-down. And yet that is exactly what Sussmann did. How? Because, as Baker told congressional investigators, Sussmann came to him "based on a preexisting relationship."
 
-In closed-door congressional testimony Oct. 18, 2018, Baker told lawmakers about Sussmann's convoluted claim that a computer server at Trump Tower was in secret contact with a possible Russian government cutout, Alfa Bank. "So he was describing a – what appeared to be a surreptitious channel of communications – communication between some part of President Trump's, I'll say organization but it could be his businesses. I don't mean like The Trump Organization, per se. I mean his enterprises with which he was associated. Some part of that and a – an organization associated with – a Russian organization associated with the Russian government," and it was "conducted in a way so as to make it a covert communications channel."
+In closed-door congressional testimony Oct. 18, 2018, Baker told lawmakers about Sussmann's convoluted claim that a computer server at Trump Tower was in secret contact with a possible Russian government cutout, Alfa Bank. "So he was describing a --- what appeared to be a surreptitious channel of communications --- communication between some part of President Trump's, I'll say organization but it could be his businesses. I don't mean like The Trump Organization, per se. I mean his enterprises with which he was associated. Some part of that and a --- an organization associated with --- a Russian organization associated with the Russian government," and it was "conducted in a way so as to make it a covert communications channel."
 
 When Baker asked him how he came upon this information, Sussmann, according to Baker, said "that there were some cyber experts that somehow would come across this information and brought it somehow to his attention, and that they were alarmed at what it showed, and that, therefore, they wanted to bring it to the attention of the FBI."
 
@@ -29,13 +29,13 @@ Faced with flimsy sourcing for an abstruse allegation, Baker might have been exp
 
 Jordan asked Baker whether Sussmann ever mentioned he "may have got some of this information from the Democratic National Committee?"
 
-"I am not sure what I knew about that at the time," Baker said – a failure of memory that Sussmann's lawyers are sure to take advantage of.
+"I am not sure what I knew about that at the time," Baker said --- a failure of memory that Sussmann's lawyers are sure to take advantage of.
 
-Baker suggested it was a mystery why Sussmann reached out to him – and then repeatedly made it clear exactly why Sussmann saw him as a possible collaborator. "I had a personal relationship with Michael," Baker said, but "you'd have to ask him why he decided to pick me."
+Baker suggested it was a mystery why Sussmann reached out to him --- and then repeatedly made it clear exactly why Sussmann saw him as a possible collaborator. "I had a personal relationship with Michael," Baker said, but "you'd have to ask him why he decided to pick me."
 
 "And so what you're saying is you were the intermediary between Perkins Coie and the FBI because of your personal relationship with that attorney?" then-Rep. Mark Meadows asked.
 
-"I believe so," Baker answered – but he did so with the caveat: "You'd have to ask Michael why he came to me." One plausible answer Sussmann could have given was that going to Baker was the best way to achieve his goal – after all, Baker did pass the information on to bureau investigators, and there would soon be stories in Slate and the New York Times telling of an FBI "probe" into Trump and Russia.
+"I believe so," Baker answered --- but he did so with the caveat: "You'd have to ask Michael why he came to me." One plausible answer Sussmann could have given was that going to Baker was the best way to achieve his goal --- after all, Baker did pass the information on to bureau investigators, and there would soon be stories in Slate and the New York Times telling of an FBI "probe" into Trump and Russia.
 
 For his part, Sussmann told congressional investigators that when he met with Baker, he told him "I wasn't looking for the FBI to do anything. I had no ask. I had no requests."
 
@@ -59,13 +59,13 @@ As with the materials from Sussmann, Baker took dossier sections from David Corn
 
 Having such relationships was seen not as a liability, not as a risk of bias, but instead as something that boosts the credibility of those passing along information.
 
-Consider former British agent Christopher Steele, who had a knack for cultivating friends in high places. In 2007 he met Bruce Ohr at an organized crime conference. They would continue to meet about once or twice a year, whenever Ohr was in London or Steele was in Washington. Orbis, the private intelligence firm Steele formed after he left MI6, produced a steady stream of short reports; Steele shared them with Ohr. Their friendship developed to the point that, in the spring of 2010, Ohr connected Steele with the FBI and "pushed" for the bureau to make his friend a paid FBI informant, a "confidential human source." The relationship he built over the years with Ohr would prove helpful when Ohr became one of the highest ranking career officials at the Department of Justice, associate deputy attorney general – especially since Steele wasn't the only one cultivating a connection with Bruce Ohr.
+Consider former British agent Christopher Steele, who had a knack for cultivating friends in high places. In 2007 he met Bruce Ohr at an organized crime conference. They would continue to meet about once or twice a year, whenever Ohr was in London or Steele was in Washington. Orbis, the private intelligence firm Steele formed after he left MI6, produced a steady stream of short reports; Steele shared them with Ohr. Their friendship developed to the point that, in the spring of 2010, Ohr connected Steele with the FBI and "pushed" for the bureau to make his friend a paid FBI informant, a "confidential human source." The relationship he built over the years with Ohr would prove helpful when Ohr became one of the highest ranking career officials at the Department of Justice, associate deputy attorney general --- especially since Steele wasn't the only one cultivating a connection with Bruce Ohr.
 
 Ohr had also become "personally acquainted" with Glenn Simpson at the same sort of policy conferences year after year. That relationship was reinforced when the opposition research firm Simpson co-founded, Fusion GPS, hired Ohr's wife, Nellie, as an independent contractor.
 
 When it came time for Steele to tap Ohr in launching a counterintelligence investigation into the Trump campaign, Steele used all the trappings of friendship among international sophisticates: He took the Ohrs to breakfast at the Mayflower Hotel in Washington.
 
-Not long before the 2016 election, Christopher Steele had a falling out with the FBI, which had discovered he was not honoring the "confidential" part of his agreement to be a confidential human source. But thanks to Steele and Simpson's relationships with Bruce Ohr, Steele's ability to influence the FBI was not lost. He began to funnel his spurious tales through Bruce Ohr to the bureau. Lawmakers asked James Baker why the FBI — having shut down Steele as an official source — turned to Bruce Ohr as a way to continue gathering information from Steele. Baker saw Ohr's friendship with Steele as an asset, not a liability: "Bruce," Baker said, "had some type of preexisting relationship with the source."
+Not long before the 2016 election, Christopher Steele had a falling out with the FBI, which had discovered he was not honoring the "confidential" part of his agreement to be a confidential human source. But thanks to Steele and Simpson's relationships with Bruce Ohr, Steele's ability to influence the FBI was not lost. He began to funnel his spurious tales through Bruce Ohr to the bureau. Lawmakers asked James Baker why the FBI --- having shut down Steele as an official source --- turned to Bruce Ohr as a way to continue gathering information from Steele. Baker saw Ohr's friendship with Steele as an asset, not a liability: "Bruce," Baker said, "had some type of preexisting relationship with the source."
 
 Jonathan Winer of the State Department: Steele is "a trusted friend of mine."
 Ohr wasn't the only official Steele cultivated; he had also become pals with Jonathan Winer sometime around 2000. During the Obama administration, Winer was a top State Department officer. And while at Foggy Bottom, Winer didn't forget his old friend from London. For years, Winer encouraged colleagues at State to read the research reports produced by Steele's private intel company, Orbis. Winer distributed well over 100 of Steele's intel memos to Victoria Nuland's State Department Eurasia team.

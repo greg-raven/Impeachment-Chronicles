@@ -9,15 +9,15 @@ As former President Donald Trump predicts his arrest on some "far-fetched" charg
 
 "This isn't a prosecution, it's a persecution," the Trump campaign fact sheet read.
 
-"This is election interference — radical left Democrats and the New York District Attorney's office are politicizing our justice system to influence the 2024 presidential race.
+"This is election interference --- radical left Democrats and the New York District Attorney's office are politicizing our justice system to influence the 2024 presidential race.
 
-"This is unprecedented — never before has a former president been charged."
+"This is unprecedented --- never before has a former president been charged."
 
-Trump denounced the relentless effort from his political rivals to search for a crime, specifically Manhattan District Attorney Alvin Bragg, who has worked to reduce prosecutions for criminals in New York City while he has revved up efforts to find "some legal basis — however far-fetched — to prosecute" the presidential political rival.
+Trump denounced the relentless effort from his political rivals to search for a crime, specifically Manhattan District Attorney Alvin Bragg, who has worked to reduce prosecutions for criminals in New York City while he has revved up efforts to find "some legal basis --- however far-fetched --- to prosecute" the presidential political rival.
 
 "And they've found nothing," the fact sheet read. "These actions constitute prosecutorial misconduct and are un-American.
 
-"Radical left Democrat New York DA Alvin Bragg is leading a blatant and unconstitutional attempt to interfere with a federal election by attempting to prosecute President Trump. Bragg is so radical — and so partisan — he received $1M from George Soros in his run for DA.
+"Radical left Democrat New York DA Alvin Bragg is leading a blatant and unconstitutional attempt to interfere with a federal election by attempting to prosecute President Trump. Bragg is so radical --- and so partisan --- he received $1M from George Soros in his run for DA.
 
 "Bragg is even a donor to Radical left Democrat Sen. Raphael Warnock.
 
@@ -27,9 +27,9 @@ Bragg's city has seen a 22% increase in major crime, including "robbery, burglar
 
 "Bragg has been routinely criticized for failing to prosecute many of these incidents, choosing to spend his time instead going after President Trump," the campaign wrote. "Congress should investigate this patently political prosecution."
 
-The campaign predicted — as the Russian hoax and impeachment efforts have led to unprecedented investigations into the Biden family influence peddling – the precedent will lead to future politically motivated investigations and persecutions.
+The campaign predicted --- as the Russian hoax and impeachment efforts have led to unprecedented investigations into the Biden family influence peddling --- the precedent will lead to future politically motivated investigations and persecutions.
 
-"To go after a former president — for the first time ever — sets a terrible precedent and is not what our justice system is about," the campaign continued. "This will set off an irreversible chain of legal events that will tear apart our justice system. If a Democrat DA can target a political foe, so can a Republican DA."
+"To go after a former president --- for the first time ever --- sets a terrible precedent and is not what our justice system is about," the campaign continued. "This will set off an irreversible chain of legal events that will tear apart our justice system. If a Democrat DA can target a political foe, so can a Republican DA."
 
 Bragg's reported legal effort is attempting to claim Trump's personal hush-money payment to porn actress Stormy Daniels was an unreported campaign contribution.
 

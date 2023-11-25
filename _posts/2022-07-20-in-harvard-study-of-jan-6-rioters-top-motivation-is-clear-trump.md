@@ -15,7 +15,7 @@ The study, which was shared with NBC News ahead of its publication, logged and a
 
 The researchers from the Shorenstein Center on Media, Politics and Public Policy at Harvard University wrote that the documents make clear that Jan. 6 committee member Rep. Liz Cheney, R-Wyo., "was mostly correct in her assessment" that "Trump summoned the mob, assembled the mob and lit the flame of this attack."
 
-"Far and away, we find that the two most commonly-cited reasons for breaching the US Capitol were a desire to support Trump on January 6th in DC and concerns about election integrity," the report reads.
+"Far and away, we find that the two most commonly-cited reasons for breaching the U.S. Capitol were a desire to support Trump on January 6th in DC and concerns about election integrity," the report reads.
 
 The report adds to evidence from thousands of court documents in the more than 840 cases brought forward so far that many of those who stormed the U.S. Capitol and committed violent acts were motivated by their support for Trump and their belief in lies about the 2020 election.
 
@@ -49,7 +49,7 @@ After Rodriguez was arrested by the FBI in late March 2021, he waived his Mirand
 
 Rodriguez said that he'd knocked on doors in support of the Trump campaign, attended numerous rallies, and even attempted to sign up for the Army after Trump became president, walking into a recruitment station while wearing a Trump shirt.
 
-"Trump called us. Trump called us to D.C.," Rodriguez told the FBI, explaining why he went to D.C. on Jan. 6. "If he's the commander in chief and the leader of our country, and he's calling for help — I thought he was calling for help, I thought he was I thought we were doing the right thing."
+"Trump called us. Trump called us to D.C.," Rodriguez told the FBI, explaining why he went to D.C. on Jan. 6. "If he's the commander in chief and the leader of our country, and he's calling for help --- I thought he was calling for help, I thought he was I thought we were doing the right thing."
 
 The sizable trove of evidence released in connection with Jan. 6 criminal cases illustrates the motivations of Capitol riot defendants in other ways. Recently released police body camera footage, presented as evidence in connection with Jan. 6 case, shows members of the mob chanting "Fight for Trump" inside the Capitol as they try to fight past police officers attempting to remove them from the building after the mob broke through the door on the eastern side of the Capitol.
 

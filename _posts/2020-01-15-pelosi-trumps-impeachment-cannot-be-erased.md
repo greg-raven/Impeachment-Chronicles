@@ -7,7 +7,7 @@ tags:
 
 Speaker Nancy Pelosi (D-Calif.) ahead of a vote on Wednesday to send House-passed articles of impeachment to the Senate for a trial doubled down on comments that impeachment will forever be a part of President Trump's legacy.
 
-During House floor debate on a resolution naming the seven House lawmakers who will serve as prosecutors — also known as impeachment managers — in the Senate trial, Pelosi said that the outcome in the upper chamber won't change the fact that the lower chamber voted to impeach the president.
+During House floor debate on a resolution naming the seven House lawmakers who will serve as prosecutors --- also known as impeachment managers --- in the Senate trial, Pelosi said that the outcome in the upper chamber won't change the fact that the lower chamber voted to impeach the president.
 
 The House, she said, was about to "cross a very important threshold in American history" by sending over the articles of impeachment accusing Trump of abusing his power and obstructing Congress.
 

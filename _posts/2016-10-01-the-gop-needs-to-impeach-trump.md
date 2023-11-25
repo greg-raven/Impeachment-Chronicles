@@ -21,7 +21,7 @@ But if Trump were impeached immediately after he took office, the Republican can
 
 There is nothing impossible about this strategy. That Republican leaders are strongly at odds with their party's candidate is no secret. If enough of them are willing to cross the aisle and join forces with their Democratic colleagues, impeachment is a perfectly plausible outcome.
 
-Of course, impeachment requires a charge. The president must be guilty of "high crimes and misdemeanors." But the phrase is understood to be quite broad in its application, and ultimately Congress is in practice the final judge of its meaning. If Trump is half as corrupt as we have been told, surely some charge could be made to stick—especially if the recent allegations of sexual assault prove to be more than empty propaganda.
+Of course, impeachment requires a charge. The president must be guilty of "high crimes and misdemeanors." But the phrase is understood to be quite broad in its application, and ultimately Congress is in practice the final judge of its meaning. If Trump is half as corrupt as we have been told, surely some charge could be made to stick---especially if the recent allegations of sexual assault prove to be more than empty propaganda.
 
 An additional benefit is that impeachment allows not only for removal from office, but for disqualification from future office-holding. There need be no repeat of the 2016 debacle.
 

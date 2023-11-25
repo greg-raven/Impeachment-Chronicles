@@ -15,7 +15,7 @@ Blumenthal has been quick to criticize the President in wake of the firing. On C
 
 In response, Trump went after Blumenthal on Twitter.
 
-"Watching Senator Richard Blumenthal speak of Comey is a joke," the President wrote in three tweets. "'Richie' devised one of the greatest military frauds in U.S. history. For years, as a pol in Connecticut, Blumenthal would talk of his great bravery and conquests in Vietnam – except he was never there. When caught, he cried like a baby and begged for forgiveness … and now he is judge &amp; jury. He should be the one who is investigated for his acts."
+"Watching Senator Richard Blumenthal speak of Comey is a joke," the President wrote in three tweets. "'Richie' devised one of the greatest military frauds in U.S. history. For years, as a pol in Connecticut, Blumenthal would talk of his great bravery and conquests in Vietnam --- except he was never there. When caught, he cried like a baby and begged for forgiveness ... and now he is judge &amp; jury. He should be the one who is investigated for his acts."
 
 Blumenthal admitted in 2010 to misrepresenting his military service after saying he had been "in" Vietnam. Blumenthal served in the Marine Reserves in Washington, not Vietnam. "I have misspoken about my service, and I regret that, and I take full responsibility," Blumenthal said in 2010.
 

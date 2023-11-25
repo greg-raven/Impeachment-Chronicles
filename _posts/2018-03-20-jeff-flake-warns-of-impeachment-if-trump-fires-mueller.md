@@ -5,7 +5,7 @@ tags:
 - Ashley Killough
 ---
 
-(CNN) — Republican Sen. Jeff Flake, an outspoken critic of President Donald Trump, tweeted Tuesday that if the President were to fire special counsel Robert Mueller, the "only constitutional remedy is after the fact, through impeachment."
+(CNN) --- Republican Sen. Jeff Flake, an outspoken critic of President Donald Trump, tweeted Tuesday that if the President were to fire special counsel Robert Mueller, the "only constitutional remedy is after the fact, through impeachment."
 
 "We are begging the president not to fire the special counsel," tweeted the Arizona Republican, who is not running for reelection. "Don't create a constitutional crisis. Congress cannot preempt such a firing. Our only constitutional remedy is after the fact, through impeachment. No one wants that outcome. Mr. President, please don't go there."
 

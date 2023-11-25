@@ -5,9 +5,9 @@ tags:
 - Paul Sperry
 ---
 
-Several individuals connected to a 2016 Hillary Clinton campaign plot to cast Donald Trump as a covert Kremlin collaborator are working in high-level jobs within the Biden administration – including at least two senior Biden appointees cited by Special Counsel John Durham in his "active (and) ongoing" criminal investigation of the scheme, according to recently filed court documents.
+Several individuals connected to a 2016 Hillary Clinton campaign plot to cast Donald Trump as a covert Kremlin collaborator are working in high-level jobs within the Biden administration --- including at least two senior Biden appointees cited by Special Counsel John Durham in his "active (and) ongoing" criminal investigation of the scheme, according to recently filed court documents.
 
-Jake Sullivan, who now serves as Biden's national security adviser, and Caroline Krass, a top lawyer at the Pentagon, were involved in efforts in 2016 and 2017 to advance the Clinton campaign's false claims about Trump through the media and the federal government, documents show. Other evidence shows that two other Biden officials – senior State Department official Dafna Rand and Securities and Exchange Commission Chairman Gary Gensler – also are entangled in the so-called Russiagate scandal.
+Jake Sullivan, who now serves as Biden's national security adviser, and Caroline Krass, a top lawyer at the Pentagon, were involved in efforts in 2016 and 2017 to advance the Clinton campaign's false claims about Trump through the media and the federal government, documents show. Other evidence shows that two other Biden officials --- senior State Department official Dafna Rand and Securities and Exchange Commission Chairman Gary Gensler --- also are entangled in the so-called Russiagate scandal.
 
 It's not known whether these Biden appointees have been interviewed by Durham's investigators. But as the probe widens, some government ethics watchdogs anticipate that Biden's presidency could be pulled into the scandal, which saw the FBI abuse its surveillance powers to spy on a Trump campaign adviser based on Clinton opposition research.
 
@@ -21,13 +21,13 @@ Republican sources say that the roles played in Russiagate by Krass, Sullivan, R
 
 **Caroline Krass: Clinton Donor and Top CIA Lawyer**
 
-Krass, 54 – whom Biden appointed as general counsel of the Defense Department early last year – is the former top CIA lawyer cited by Durham as "General Counsel of Agency-2" in his indictment of former Clinton campaign lawyer Michael Sussmann.
+Krass, 54 --- whom Biden appointed as general counsel of the Defense Department early last year --- is the former top CIA lawyer cited by Durham as "General Counsel of Agency-2" in his indictment of former Clinton campaign lawyer Michael Sussmann.
 
 Durham alleged Sussmann first tried to plant a fabricated report with the FBI's general counsel about a secret cyber-link between Trump and Russia-based Alfa Bank in order to set in motion an investigation of Trump before the 2016 election. Then, after the election, Sussmann filed a similar report with Krass' legal shop at the CIA, the prosecutor said.
 
 Although a Washington, D.C. jury in May acquitted Sussmann of lying about who was paying him to approach the FBI, the trial revealed that FBI field agents specializing in cyber crimes debunked his report within days of receiving it, and even suspected some of the evidence was cooked up. "We think it's a set-up," one agent warned in an internal FBI email. FBI brass working under then-Director James Comey, however, prolonged the investigation for several months.
 
-Nevertheless, after Trump won the election, Sussmann brought the same Trump-Alfa Bank ruse to Krass – a Clinton donor and Obama appointee, then working under CIA Director John Brennan. Durham has found evidence that Krass welcomed the tip.
+Nevertheless, after Trump won the election, Sussmann brought the same Trump-Alfa Bank ruse to Krass --- a Clinton donor and Obama appointee, then working under CIA Director John Brennan. Durham has found evidence that Krass welcomed the tip.
 
 "We're interested," he said Krass told him in their December 2016 phone call. "We're doing this review and I'll speak to someone here, and someone will get back to you to arrange a meeting."
 
@@ -53,7 +53,7 @@ Brennan appears to have been less concerned about the Clinton campaign's disinfo
 
 The referral, known as a counterintelligence operational lead (CIOL), was sent to Comey, who in turn forwarded it to then-FBI counterintelligence official Peter Strzok to investigate.
 
-Strzok – who was fired by the FBI after his anti-Trump views became public – opened an investigation, not of Clinton but the Trump campaign. Krass' chief of staff at the time, Brian Greer, confirmed that the purpose of the CIOL was not to investigate the Clinton campaign's dirty tricks, but to run a counter-spying probe to see if the Russians had penetrated the Clinton camp. The concern, he said, was that Clinton "may have been spied on by a hostile intelligence service."
+Strzok --- who was fired by the FBI after his anti-Trump views became public --- opened an investigation, not of Clinton but the Trump campaign. Krass' chief of staff at the time, Brian Greer, confirmed that the purpose of the CIOL was not to investigate the Clinton campaign's dirty tricks, but to run a counter-spying probe to see if the Russians had penetrated the Clinton camp. The concern, he said, was that Clinton "may have been spied on by a hostile intelligence service."
 
 Seemingly reflecting the attitude of his former boss at the spy agency, Greer opined that "there's nothing illegal about" what Clinton did to Trump. "Even if it's unsavory," he shrugged, "that's just politics."
 
@@ -77,13 +77,13 @@ As one of the Intelligence Community's top attorneys, Krass also was involved in
 
 The departing president's executive order relaxing rules for mining the NSA's highly classified databases went into effect less than three weeks before Trump took office. At the same time, the White House rushed to preserve all intelligence related to Trump and Russia and disseminate it across U.S. agencies.
 
-The order, known as "12 Triple 3," allowed the FBI for the first time to sift through large troves of incidental communications – including phone calls and emails – involving U.S. citizens, without NSA filtering or even wiretap warrants. In effect, agents could put advisers and appointees of Trump, along with their family members and friends, under warrantless surveillance.
+The order, known as "12 Triple 3," allowed the FBI for the first time to sift through large troves of incidental communications --- including phone calls and emails --- involving U.S. citizens, without NSA filtering or even wiretap warrants. In effect, agents could put advisers and appointees of Trump, along with their family members and friends, under warrantless surveillance.
 
 The easing of longstanding restrictions on intelligence-sharing set off a massive fishing expedition.
 
-The FBI didn't have much time to exploit the raw intercepts before Trump put his own people in place. So in a last-minute scramble, it asked both the CIA and NSA to search their holdings and collect as much information as possible on Russian oligarchs and other figures for any links to Trump and his advisers – namely, Gen. Michael Flynn, Paul Manafort, and Carter Page.
+The FBI didn't have much time to exploit the raw intercepts before Trump put his own people in place. So in a last-minute scramble, it asked both the CIA and NSA to search their holdings and collect as much information as possible on Russian oligarchs and other figures for any links to Trump and his advisers --- namely, Gen. Michael Flynn, Paul Manafort, and Carter Page.
 
-The information was hastily processed and compiled into analytical reports and shared with other agencies, as well as Congress, putting Trump and his presidency under suspicion before he could even take the oath of office. Some of the material also was leaked to the New York Times, CNN, the Washington Post and other major media – even though it was largely unsubstantiated.
+The information was hastily processed and compiled into analytical reports and shared with other agencies, as well as Congress, putting Trump and his presidency under suspicion before he could even take the oath of office. Some of the material also was leaked to the New York Times, CNN, the Washington Post and other major media --- even though it was largely unsubstantiated.
 
 In short, the new rules that Krass, along with other intelligence agency lawyers, helped draft making it easier to share raw streams of communications also made it easier to frame Trump as a Russian stooge before Obama left office.
 
@@ -103,15 +103,15 @@ Sullivan is also the "foreign policy adviser" cited in U.S. and Russian intellig
 
 Now operating out of the West Wing as Biden's national security adviser, Sullivan is under scrutiny for potentially false testimony he gave to Congress regarding his knowledge of, and role in, the campaign's opposition research efforts against Trump. Lying to Congress is a felony, although it's rarely prosecuted.
 
-"He has the gall to come into Congress – I took so many of those depositions – and say he had no idea how the [Clinton-funded Steele] dossier was created, or who the $10 million [that] Jake Sullivan and the DNC were paying was being utilized [by] to collect fraudulent information [on Trump and his advisers]," said Patel, a former federal prosecutor, who had worked for GOP intelligence chair Devin Nunes when he took the depositions. "So, I think John Durham's on his case."
+"He has the gall to come into Congress --- I took so many of those depositions --- and say he had no idea how the [Clinton-funded Steele] dossier was created, or who the $10 million [that] Jake Sullivan and the DNC were paying was being utilized [by] to collect fraudulent information [on Trump and his advisers]," said Patel, a former federal prosecutor, who had worked for GOP intelligence chair Devin Nunes when he took the depositions. "So, I think John Durham's on his case."
 
 An attorney for Sullivan did not respond to questions, while a spokeswoman for the National Security Council declined comment.
 
 Prosecutors say the Clinton campaign operation to tar Trump continued even after the election, with Sullivan again taking a prominent role.
 
-In February 2017, Sullivan met with another central figure in the plot to plant the Trump-Alfa smear with investigators – Daniel Jones, a former FBI analyst and Democratic staffer on the Hill, whose goal was to reignite the investigation and put Trump's fledgling presidency under a cloud of suspicion.
+In February 2017, Sullivan met with another central figure in the plot to plant the Trump-Alfa smear with investigators --- Daniel Jones, a former FBI analyst and Democratic staffer on the Hill, whose goal was to reignite the investigation and put Trump's fledgling presidency under a cloud of suspicion.
 
-On Feb. 10, 2017 – one day after Sussmann met with a member of Krass' staff at the CIA – Sullivan secretly huddled with Jones and his partners at FusionGPS, an opposition research firm that worked for the Clinton campaign, to hatch the post-election plan to resurrect rumors Trump was a tool of the Kremlin. As RCI first reported, the meeting – which lasted about an hour and took place in a Washington office building – also included former Clinton campaign chairman John Podesta. The group discussed raising money to finance a multimillion-dollar opposition research project headed by Jones to target the new president. They ended up raising several million dollars for the effort, organized under a nonprofit called The Democracy Integrity Project. In effect, Jones' operation would replace the Clinton campaign's operation, continuing the effort to undermine Trump.
+On Feb. 10, 2017 --- one day after Sussmann met with a member of Krass' staff at the CIA --- Sullivan secretly huddled with Jones and his partners at FusionGPS, an opposition research firm that worked for the Clinton campaign, to hatch the post-election plan to resurrect rumors Trump was a tool of the Kremlin. As RCI first reported, the meeting --- which lasted about an hour and took place in a Washington office building --- also included former Clinton campaign chairman John Podesta. The group discussed raising money to finance a multimillion-dollar opposition research project headed by Jones to target the new president. They ended up raising several million dollars for the effort, organized under a nonprofit called The Democracy Integrity Project. In effect, Jones' operation would replace the Clinton campaign's operation, continuing the effort to undermine Trump.
 
 It's not known whether Sussmann also attended the Feb. 10 meeting, but he had paid a visit to CIA headquarters that same week to peddle new disinformation about the supposed secret server.
 
@@ -123,11 +123,11 @@ In a March 2017 interview with CNN anchor Wolf Blitzer, for example, Sullivan di
 
 "How surprised were you to hear last week that this investigation is still ongoing?" Blitzer asked.
 
-"I wasn't surprised," Sullivan said, "because what we learned during the campaign was that very serious computer science experts – people who work closely with the United States government – had uncovered this secret hotline between the Alfa Bank, the Russian bank, and the Trump organization."
+"I wasn't surprised," Sullivan said, "because what we learned during the campaign was that very serious computer science experts --- people who work closely with the United States government --- had uncovered this secret hotline between the Alfa Bank, the Russian bank, and the Trump organization."
 
 Sullivan insisted that the computer scientists "weren't just making up crackpot theories."
 
-In fact, Durham is actively investigating their leader for potential fraud and conspiracy– computer contractor Rodney Joffe, who was offered a top post in a future Clinton administration – according to recent court filings. Joffe, who recently was terminated for cause as a longtime FBI informant, has invoked his Fifth Amendment right against self-incrimination and refused to cooperate with grand jury subpoenas. His lawyer did not respond to phone calls and email messages.
+In fact, Durham is actively investigating their leader for potential fraud and conspiracy– computer contractor Rodney Joffe, who was offered a top post in a future Clinton administration --- according to recent court filings. Joffe, who recently was terminated for cause as a longtime FBI informant, has invoked his Fifth Amendment right against self-incrimination and refused to cooperate with grand jury subpoenas. His lawyer did not respond to phone calls and email messages.
 
 **Dafna Rand: An Anti-Trump Outfit Called TDIP**
 

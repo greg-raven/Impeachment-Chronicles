@@ -11,13 +11,13 @@ Senator Bob Corker, Republican chairman of the Senate Foreign Relations Committe
 
 "He concerns me," Sen. Corker said, clearly questioning Trump's fitness to be commander-in-chief. "He would have to concern anyone who cares about our nation."
 
-It is shocking to hear a senior Republican senator, and early Trump supporter, speak so honestly about a sitting president. But something like this was bound to happen. It is now obvious to anyone paying attention that President Trump is driving U.S. national security policy over a cliff, and it is getting too painful — even for loyal Republicans — to watch.
+It is shocking to hear a senior Republican senator, and early Trump supporter, speak so honestly about a sitting president. But something like this was bound to happen. It is now obvious to anyone paying attention that President Trump is driving U.S. national security policy over a cliff, and it is getting too painful --- even for loyal Republicans --- to watch.
 
 Make no mistake, this is not just a side-show spat between Trump and Corker. This is Corker channeling the Republican establishment as well mainstream America. It is no exaggeration to say that Trump is on the verge of leading the United States into at least two major, unnecessary wars. Here's how.
 
 **Shooting himself in the foot on Iran**
 
-This week, Trump is expected to "decertify" — wonk speak for undermine — the one deal that is peacefully and effectively containing Iran's nuclear program. Trump's act would put the fate of the deal in the hands of Congress, an unjustified and dangerous move.
+This week, Trump is expected to "decertify" --- wonk speak for undermine --- the one deal that is peacefully and effectively containing Iran's nuclear program. Trump's act would put the fate of the deal in the hands of Congress, an unjustified and dangerous move.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wall Street Journal: Corker&#39;s views on Trump are &quot;widely held on Capitol Hill&quot; <a href="https://t.co/zPIBIlA0T9">https://t.co/zPIBIlA0T9</a> <a href="https://t.co/sacw5F5B1c">pic.twitter.com/sacw5F5B1c</a></p>&mdash; The Hill (@thehill) <a href="https://twitter.com/thehill/status/918063904089092096?ref_src=twsrc%5Etfw">October 11, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -25,7 +25,7 @@ This 2015 agreement is supported by Great Britain, Germany, France, Russia, Chin
 
 And by doing so, the Iran deal likely prevented another war in the Middle East that many said would be needed if Iran got too close to the bomb. And as former Secretary of Defense Bob Gates warned, "If you think the war in Iraq was hard, an attack on Iran would, in my opinion, be a catastrophe."
 
-Why would Trump want to take a solved crisis — Iran's nuclear program — and break it, thus creating another nuclear crisis like we already have with North Korea? Can Trump's desire to please his political base (he called the deal an "embarrassment") and go after all things Obama really mean he is willing to put U.S. and global security at risk? Unfortunately, yes. Just look at the Paris climate agreement.
+Why would Trump want to take a solved crisis --- Iran's nuclear program --- and break it, thus creating another nuclear crisis like we already have with North Korea? Can Trump's desire to please his political base (he called the deal an "embarrassment") and go after all things Obama really mean he is willing to put U.S. and global security at risk? Unfortunately, yes. Just look at the Paris climate agreement.
 
 But this is different. Republicans are worried now.
 
@@ -41,7 +41,7 @@ Defense experts say there is no military solution to North Korea. International 
 
 There are good ideas out there, such as seeking a freeze in North Korea's nuclear and missile testing in exchange for suspending or scaling back U.S.-South Korean military exercises. But such a deal will take dedicated work, not snarky tweets.
 
-Corker may have been referring to such talks when he said: "I know (Trump) has hurt…us as it relates to negotiations that were underway by tweeting things out."
+Corker may have been referring to such talks when he said: "I know (Trump) has hurt...us as it relates to negotiations that were underway by tweeting things out."
 
 **Trump's finger on the nuclear button**
 

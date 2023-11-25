@@ -12,7 +12,7 @@ tags:
 
 The former FBI Director James Comey on Friday addressed one of the most salacious allegations ever leveled against President Donald Trump.
 
-Asked about the unverified claim that Trump once had prostitutes in Moscow pee on a bed where President Barack Obama once slept — contained in a now-infamous dossier of opposition research on Trump during his presidential campaign — Comey didn't rule it out.
+Asked about the unverified claim that Trump once had prostitutes in Moscow pee on a bed where President Barack Obama once slept --- contained in a now-infamous dossier of opposition research on Trump during his presidential campaign --- Comey didn't rule it out.
 
 "I honestly never thought these words would come out of my mouth, but I don't know whether the current president of the United States was with prostitutes peeing on each other in Moscow in 2013," Comey said in an interview on ABC's "Good Morning America."
 

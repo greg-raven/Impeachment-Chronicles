@@ -27,17 +27,17 @@ For instance, Halper prodded Page on whether he had played a role changing the R
 
 "I would have thought the platform committee would be a place where there would be an opportunity to clarify a relationship with the Russians or others, and you could have been very helpful," Halper said at one point.
 
-Page — referred to in the transcript by his FBI code name "CD" or "Crossfire Dragon" — responded by claiming he stayed away from the platform changes, leaving it to other members of the Trump campaign team to handle.
+Page --- referred to in the transcript by his FBI code name "CD" or "Crossfire Dragon" --- responded by claiming he stayed away from the platform changes, leaving it to other members of the Trump campaign team to handle.
 
-"Well again, totally off the record, but I — members of our team were working on that and you know again in retrospect it's way better off that I, you know, remained at arms length," Page explained.
+"Well again, totally off the record, but I --- members of our team were working on that and you know again in retrospect it's way better off that I, you know, remained at arms length," Page explained.
 
 Similarly, Page steadfastly denied he knew anything about the Trump campaign working with WikiLeaks to release Hillary Clinton's hacked emails before the election, another key allegation in the now-debunked Russia collusion narrative.
 
 "I guess what they're trying to do is work out the link between the Russians and WikiLeaks, what do we know about that?" Halper asked.
 
-"You know I've made clear in a lot of, you know, subsequent discussions interviews that I've been part of … I know nothing about that on a personal level," Page stated. "You know no one's ever said one word to me."
+"You know I've made clear in a lot of, you know, subsequent discussions interviews that I've been part of ... I know nothing about that on a personal level," Page stated. "You know no one's ever said one word to me."
 
-But perhaps most significant is Page's flat denial that he never met in July 2016 in Russia with two key sanctioned officials — oil executive Igor Sechin and Russian Federation official Igor Diveykin. Page's contact with the two men was alleged in both the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) and the FBI's FISA warrant application dated Oct. 21, 2016, just four days after Halper's interactions.
+But perhaps most significant is Page's flat denial that he never met in July 2016 in Russia with two key sanctioned officials --- oil executive Igor Sechin and Russian Federation official Igor Diveykin. Page's contact with the two men was alleged in both the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) and the FBI's FISA warrant application dated Oct. 21, 2016, just four days after Halper's interactions.
 
 [Carter Page FISA.pdf](https://justthenews.com/sites/default/files/2020-12/CarterPageFISA.pdf)
 
@@ -49,7 +49,7 @@ Page stated during the conversation that his lawyers told him there was nothing 
 
 "So they're claiming you met with these two guys and you're saying it's perfectly legal to do," Halper asked.
 
-Page answered: "Even if I had — which I didn't do by the way," Page answered.
+Page answered: "Even if I had --- which I didn't do by the way," Page answered.
 
 It has been known since December 2019 that Halper recorded conversations with Page that were considered exculpatory and never turned over to the FISA court. The Justice Department inspector general concluded the failure to disclose the material to the judges was a major failure of the FBI's Russia probe.
 

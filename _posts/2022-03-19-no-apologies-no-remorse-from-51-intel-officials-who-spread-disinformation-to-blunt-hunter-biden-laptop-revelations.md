@@ -5,7 +5,7 @@ tags:
 - Fuzzy Slippers
 ---
 
-- "The officials … signed a letter saying that the laptop 'has the classic earmarks of a Russian information operation'."
+- "The officials ... signed a letter saying that the laptop 'has the classic earmarks of a Russian information operation'."
 
 Earlier this week, *The New York Times* infamously "broke" the story about Biden family influence peddling first reported by the *New York Post* on October 14, 2020, and followed up with more explosive information about the deals that were struck with foreign entities and the "cut" that would go to "the big guy," Joe Biden.
 
@@ -34,9 +34,9 @@ The *New York Post* reports:
 
 > But the 51 former "intelligence" officials who cast doubt on The Post's Hunter Biden laptop stories in a public letter really were just desperate to get Joe Biden elected president. And more than a year later, even after their Deep State sabotage has been shown again and again to be a lie, they refuse to own up to how they undermined an election.
 >
-> The officials, including CNN pundit and professional fabricator James Clapper — a man who was nearly charged for perjury for lying to Congress — signed a letter saying that the laptop "has the classic earmarks of a Russian information operation."
+> The officials, including CNN pundit and professional fabricator James Clapper --- a man who was nearly charged for perjury for lying to Congress --- signed a letter saying that the laptop "has the classic earmarks of a Russian information operation."
 >
-> What proof did they have? By their own admission, none. "We do not know if the emails … are genuine or not," the letter said. They're just "suspicious." Why? Because they hurt Biden's campaign, that's evidence enough.
+> What proof did they have? By their own admission, none. "We do not know if the emails ... are genuine or not," the letter said. They're just "suspicious." Why? Because they hurt Biden's campaign, that's evidence enough.
 
 The media, of course, picked up where the, as the *Post* puts it, "spies who lie" left off with their vague "suspicions," and took their baton to run ahead in the relay, pronouncing to all that the "Hunter Biden story is Russian disinfo, dozens of former intel officials say." Except they didn't. Not explicitly, not in that letter, anyway.
 This is why they are not apologizing.
@@ -45,7 +45,7 @@ This is why they are not apologizing.
 
 They didn't lie. Not exactly. In fact, they explicitly stated that they have no evidence to support their conclusion; indeed, they admit they have no idea at all what they are talking about and aren't basing it on anything other than their "experience"-based suspicions.
 
-> We want to emphasize that we do not know if the emails, provided to the New York Post by President Trump's personal attorney Rudy Giuliani, are genuine or not and that we do not have evidence of Russian involvement — just that our experience makes us deeply suspicious that the Russian government played a significant role in this case.
+> We want to emphasize that we do not know if the emails, provided to the New York Post by President Trump's personal attorney Rudy Giuliani, are genuine or not and that we do not have evidence of Russian involvement --- just that our experience makes us deeply suspicious that the Russian government played a significant role in this case.
 
 > These people manipulated intelligence for partisan political gain. <https://t.co/aNnUnBRRUj>
 >
@@ -53,7 +53,7 @@ They didn't lie. Not exactly. In fact, they explicitly stated that they have no 
 
 ![Richard Grenell](/assets/2022-03-19-Richard-Grenell.jpg "Richard Grenell: These people manipulated intelligence for partisan political gain.")
 
-The doubt these "intel officials" cast, though, was enough—as intended—for the partisan hacktavists in media to run with. Personally, I would have stopped taking the letter seriously at this paragraph, as would any thinking person.
+The doubt these "intel officials" cast, though, was enough---as intended---for the partisan hacktavists in media to run with. Personally, I would have stopped taking the letter seriously at this paragraph, as would any thinking person.
 
 From this carefully designed bit of propaganda successfully crafted to provide their media mouthpieces cover, the baton passed to Big Tech, who grasped it with glee and immediately began cancelling and deplatforming any person or entity, including the New York Post itself, for spreading this "Russian disinformation."
 

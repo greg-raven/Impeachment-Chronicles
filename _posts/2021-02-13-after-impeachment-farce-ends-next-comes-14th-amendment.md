@@ -19,7 +19,7 @@ To be sure, it is a rusty, gnarly hatchet. But when all you have is a hatchet, e
 
 In the name of "unity."
 
-No one has ever accused Democrats in Washington of being particularly steeped in history. But even for them, this assault on history — and common sense and decency, for that matter — strains absurdity.
+No one has ever accused Democrats in Washington of being particularly steeped in history. But even for them, this assault on history --- and common sense and decency, for that matter --- strains absurdity.
 
 By just about every measure, the Civil War was our deadliest event. In terms of raw numbers, the war dead on either side in the Civil War eclipsed every war in our history except for World War II. More than 2% of America's overall population perished in combat or from disease, starvation, suicide and execution during that conflict, eclipsing even World War II.
 

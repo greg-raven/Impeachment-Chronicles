@@ -9,7 +9,7 @@ tags:
 
 When it comes to misinformation, disinformation and the now-disproven Trump-Russia collusion conspiracy theory, it would not have been possible without a strong dose of media support.
 
-Here is a timeline that breaks out some important reports by — and leaks to — the news media.
+Here is a timeline that breaks out some important reports by --- and leaks to --- the news media.
 
 March 25, 2016:
 : Ukrainian-American operative for the Democratic National Committee (DNC) Alexandra Chalupa meets with top Ukrainian officials at Ukrainian Embassy in Washington D.C. to "expose ties between Trump, top campaign aide Paul Manafort and Russia," according to Politico. Ukrainian embassy proceeds to work "directly with reporters researching Trump, Manafort and Russia to point them in the right directions," according to an embassy official (though other officials later deny engaging in election-related activities).
@@ -45,7 +45,7 @@ June 17, 2016:
 : *Washington Post* publishes front page story linking Trump to Russia: "Inside Trump's Financial Ties to Russia and His Unusual Flattery of Vladimir Putin."
 
 July 2016:
-: Ukraine minister of internal affairs Arsen Avakov attacks Trump and Trump campaign adviser Paul Manafort on Twitter and Facebook, calling Trump "an even bigger danger to the US than terrorism."<br>Former Ukrainian Prime Minister Arseny Yatseniuk writes on Facebook that Trump has "challenged the very values of the free world."
+: Ukraine minister of internal affairs Arsen Avakov attacks Trump and Trump campaign adviser Paul Manafort on Twitter and Facebook, calling Trump "an even bigger danger to the U.S. than terrorism."<br>Former Ukrainian Prime Minister Arseny Yatseniuk writes on Facebook that Trump has "challenged the very values of the free world."
 
 Late July 2016:
 : Chalupa leaves the (DNC) to work full-time on her research into Manafort, Trump and Russia; and provides off-the-record guidance to "a lot of journalists."
@@ -129,7 +129,7 @@ Jan. 11, 2017:
 : Power makes another Flynn unmasking request.
 
 Jan. 12, 2017:
-: Obama administration finalizes new rules allowing NSA to spread "certain intel to" other U.S. intel agencies without normal privacy protections.<br>Vice President Biden and Treasury Secretary Jacob Lew request the unmasking of Flynn in intelligence communications.<br>Someone leaks to David Ignatius of the *Washington Post* that Flynn had called Russia's ambassador. "What did Flynn say, and did it undercut the US sanctions?" asked Ignatius in the article.
+: Obama administration finalizes new rules allowing NSA to spread "certain intel to" other U.S. intel agencies without normal privacy protections.<br>Vice President Biden and Treasury Secretary Jacob Lew request the unmasking of Flynn in intelligence communications.<br>Someone leaks to David Ignatius of the *Washington Post* that Flynn had called Russia's ambassador. "What did Flynn say, and did it undercut the U.S. sanctions?" asked Ignatius in the article.
 
 Jan. 20, 2017:
 : Trump becomes president.<br>Fifteen minutes after Trump becomes president, former National Security Adviser Susan Rice emails memo to herself purporting to summarize the Jan. 5 Oval Office meeting with President Obama and other top officials. She states that Obama instructed the group to investigate "by the book" and asked them to be mindful whether there were certain things that "could not be fully shared with the incoming administration."
@@ -213,6 +213,6 @@ May 4, 2018:
 : Amid allegations that he was responsible for improper leaks, FBI general counsel Baker resigns and joins the Brookings Institution, writing for "Lawfare," the anti-Trump blog that first discussed the need for an "insurance policy" in case Trump got elected.
 
 March 2019:
-: Mueller signs off on his final report stating that there was no collusion or coordination between Trump — or any American — and Russia.
+: Mueller signs off on his final report stating that there was no collusion or coordination between Trump --- or any American --- and Russia.
 
 Source: Sharyl Attkisson, justthenews.com/accountability/media/making-myth-timeline-media-role-selling-trump-russia-collusion-narrative

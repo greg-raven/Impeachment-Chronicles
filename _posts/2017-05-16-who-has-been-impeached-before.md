@@ -59,7 +59,7 @@ The most important factor for Republicans in deciding whether to go after Trump 
 
 **Might Trump resign before he's impeached if there's a smoking gun, as Nixon did?**
 
-What kind of mood does Pence seem to be in? Is he implicated? In the scenario of a Pence succession, it would be up to the current vice-president to pardon Trump or not. Maybe Trump would be more likely to get out of the way and avoid all or some impeachment proceedings – in this truly hypothetical scenario – if Trump felt reassured that Pence, upon acceding to power, would pardon him.
+What kind of mood does Pence seem to be in? Is he implicated? In the scenario of a Pence succession, it would be up to the current vice-president to pardon Trump or not. Maybe Trump would be more likely to get out of the way and avoid all or some impeachment proceedings --- in this truly hypothetical scenario --- if Trump felt reassured that Pence, upon acceding to power, would pardon him.
 
 **Could he refuse to comply with proceedings?**
 

@@ -19,7 +19,7 @@ Trump has lodged the unsubstantiated claim that Biden intervened to remove Ukrai
 
 In his remarks Wednesday, Biden said there is "no truth" to Trump's charges against him and his son. "Zero," he added.
 
-The president responded to the Democrat's speech almost immediately in a tweet. Trump said it is "so pathetic" to see Biden "calling for my impeachment — and I did nothing wrong."
+The president responded to the Democrat's speech almost immediately in a tweet. Trump said it is "so pathetic" to see Biden "calling for my impeachment --- and I did nothing wrong."
 
 "Joe's Failing Campaign gave him no other choice!" the president wrote.
 

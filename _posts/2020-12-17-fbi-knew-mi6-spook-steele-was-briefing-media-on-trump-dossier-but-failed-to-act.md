@@ -11,7 +11,7 @@ Messages to and from former FBI counterintelligence chief Peter Strzok's interna
 
 They also show Strzok thought the dossier was meant to "influence" U.S. politics as much as inform, but the agency may still have used Steele, an informant for them since 2014, as a source for leads in the investigation.
 
-The redacted messages, seen by the Daily Caller before publication, were released by Senate Republicans on Thursday, after being declassified by Attorney-General William Barr last week — ahead of the announcement of his resignation, effective on December 23.
+The redacted messages, seen by the Daily Caller before publication, were released by Senate Republicans on Thursday, after being declassified by Attorney-General William Barr last week --- ahead of the announcement of his resignation, effective on December 23.
 
 The messages show how Strzok and his colleagues discussed the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) probe into claims Trump colluded with the Russian government to steal the 2016 presidential election from Democratic Party candidate Hillary Clinton. He was kept constantly updated on FBI interviews with Trump campaign advisers Carter Page and George Papaodpoulos, the main targets of the probe.
 
@@ -23,7 +23,7 @@ The FBI cut Steele out of the loop after he leaked more material to website Moth
 
 The messages show Strzok and others at the agency had advance knowledge of CNN's 10 January, 2017, story about then-FBI director James Comey's January 6 briefing to Trump on the dossier, in which Comey warned the president-elect that Russia had a sex tape that it could use to blackmail him.
 
-In a January 9 exchange with a fellow agent named Page, possibly his mistress, Lisa Page, Strzok wrote of "nervousness" over the report's revelation that Comey had received a copy of the dossier from late senator John McCain — and that veteran Washington Post reporter Carl Bernstein, who broke the 1973 Watergate scandal with colleague Bob Woodward, was now working on the story, taking over from Jim Sciutto.
+In a January 9 exchange with a fellow agent named Page, possibly his mistress, Lisa Page, Strzok wrote of "nervousness" over the report's revelation that Comey had received a copy of the dossier from late senator John McCain --- and that veteran Washington Post reporter Carl Bernstein, who broke the 1973 Watergate scandal with colleague Bob Woodward, was now working on the story, taking over from Jim Sciutto.
 
 "Story no longer Sciutto, now Evan Perez. Internal nervousness about nature of allegations," Strzok wrote. "Also Carl Bernstein (yes that Carl) called OPA, said he got a 'dossier' from McCain."
 

@@ -13,6 +13,6 @@ During the Trump years, Schiff was a favorite guest on both CNN and MSNBC due to
 
 <iframe width="560" height="315"src="https://www.mrctv.org/embed/577324" title="Supercut of Congressman Adam Schiff lying to the media" allowfullscreen></iframe>
 
-[…]
+[...]
 
 Source: Bill D'Agostino, newsbusters.org/blogs/nb/bill-dagostino/2023/01/26/jog-medias-memory-heres-supercut-congressman-adam-schiff-lying

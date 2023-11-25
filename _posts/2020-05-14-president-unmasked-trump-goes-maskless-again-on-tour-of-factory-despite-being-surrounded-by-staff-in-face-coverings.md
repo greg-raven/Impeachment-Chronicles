@@ -19,7 +19,7 @@ Earlier this month, it was reported that the president thinks that wearing a mas
 
 Trump told advisers that he believes wearing a mask would "send the wrong message," one administration and two campaign officials told the Associated Press.
 
-The president said that wearing a mask would make it seem like he is preoccupied with health instead of focused on reopening the nation's economy — which his aides believe is the key to his reelection chances in November, according to the report.
+The president said that wearing a mask would make it seem like he is preoccupied with health instead of focused on reopening the nation's economy --- which his aides believe is the key to his reelection chances in November, according to the report.
 
 However, House Speaker Nancy Pelosi suggested the president refuses to wear PPE because he dislikes the way it looks.
 
@@ -29,7 +29,7 @@ However, House Speaker Nancy Pelosi suggested the president refuses to wear PPE 
 
 "You would think as the President of the United States you would have the confidence to honor the guidance that you are giving others in the country."
 
-On Monday, the president said that he required everyone in the White House to wear a face mask – despite not wearing one himself.
+On Monday, the president said that he required everyone in the White House to wear a face mask --- despite not wearing one himself.
 
 When asked by a reporter if he required that everyone who enters the White House wears a face mask, Trump replied "I required it."
 

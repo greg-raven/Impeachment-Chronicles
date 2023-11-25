@@ -35,9 +35,9 @@ The New York Times has repeatedly been used by FBI officials who ran the anti-Tr
 
 While that article included explosive revelations, it downplayed their significance and later curiously denied that any spying had ever occurred:
 
-> The FBI investigated four unidentified Trump campaign aides in those early months, congressional investigators revealed in February. The four men were Michael T. Flynn, Paul Manafort, Carter Page and Mr. Papadopoulos, current and former officials said …
+> The FBI investigated four unidentified Trump campaign aides in those early months, congressional investigators revealed in February. The four men were Michael T. Flynn, Paul Manafort, Carter Page and Mr. Papadopoulos, current and former officials said ...
 >
-> The FBI obtained phone records and other documents using national security letters — a secret type of subpoena — officials said. And at least one government informant met several times with Mr. Page and Mr. Papadopoulos, current and former officials said.
+> The FBI obtained phone records and other documents using national security letters --- a secret type of subpoena --- officials said. And at least one government informant met several times with Mr. Page and Mr. Papadopoulos, current and former officials said.
 
 In that case, the ostensible purpose of the leak was to get ahead of what congressional investigators had figured out: the Obama administration targeted the Trump campaign with secret informants.
 

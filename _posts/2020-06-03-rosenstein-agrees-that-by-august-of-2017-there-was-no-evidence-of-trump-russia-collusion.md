@@ -29,10 +29,10 @@ Rosenstein also told senators that he would not have signed the renewal of the F
 
 Rosenstein later indicated that he was not familiar with the full contents of that renewal request. Though he earlier claimed to have read it, he later conceded that he hadn't read "every page" but that he had reviewed it and was familiar with its contents.
 
-"My recollection of it … it was actually fairly persuasive," he said. "It had already been approved three times. This was just a re-authorization."
+"My recollection of it ... it was actually fairly persuasive," he said. "It had already been approved three times. This was just a re-authorization."
 
 The former Trump administration official's apparent lack of knowledge regarding the investigations over which he exercised significant authority was highlighted by Texas Sen. Ted Cruz, who at one point delivered scathing remarks against what he suggested was a compromised investigatory apparatus.
 
-"You came into a profoundly politicized world, yet all of this was allowed to go forward under your leadership," Cruz said. "That, unfortunately, leads to only two possible conclusions: Either that you were complicit in the wrongdoing … or that your performance of your duties was grossly negligent."
+"You came into a profoundly politicized world, yet all of this was allowed to go forward under your leadership," Cruz said. "That, unfortunately, leads to only two possible conclusions: Either that you were complicit in the wrongdoing ... or that your performance of your duties was grossly negligent."
 
 Source: Daniel Payne, justthenews.com/government/rosenstein-judiciary-committee-justice-dept-must-take-remedial-action-against-misconduct

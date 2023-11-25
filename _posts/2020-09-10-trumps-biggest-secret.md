@@ -21,6 +21,6 @@ Maintaining a modicum of self-restraint would be an overwhelming challenge for t
 
 Instead, our very stupid genius vomited up all manner of secrets that collectively prove beyond all reasonable doubt that he represents the greatest single danger to the fate of both the American people and to himself.
 
-[…]
+[...]
 
 Source: Richard Wolfee, theguardian.com/commentisfree/2020/sep/10/donald-trump-bob-woodward-interviews

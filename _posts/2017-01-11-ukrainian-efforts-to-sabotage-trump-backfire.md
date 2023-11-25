@@ -8,23 +8,23 @@ tags:
 
 - Kiev officials are scrambling to make amends with the president-elect after quietly working to boost Clinton.
 
-[…]
+[...]
 
 Ukrainian government officials tried to help Hillary Clinton and undermine Trump by publicly questioning his fitness for office. They also disseminated documents implicating a top Trump aide in corruption and suggested they were investigating the matter, only to back away after the election. And they helped Clinton's allies research damaging information on Trump and his advisers, a Politico investigation found.
 
 A Ukrainian-American operative who was consulting for the Democratic National Committee met with top officials in the Ukrainian Embassy in Washington in an effort to expose ties between Trump, top campaign aide Paul Manafort and Russia, according to people with direct knowledge of the situation.
 
-[…]
+[...]
 
 Yet Politico's investigation found evidence of Ukrainian government involvement in the race that appears to strain diplomatic protocol dictating that governments refrain from engaging in one another's elections.
 
-[…]
+[...]
 
 "Now, it seems that a U.S. election may have been seen as a surrogate battle by those in Kiev and Moscow," Merkel said.
 
 ---
 
-The Ukrainian antipathy for Trump's team — and alignment with Clinton's — can be traced back to late 2013. That's when the country's president, Viktor Yanukovych, whom Manafort had been advising, abruptly backed out of a European Union pact linked to anti-corruption reforms. Instead, Yanukovych entered into a multibillion-dollar bailout agreement with Russia, sparking protests across Ukraine and prompting Yanukovych to flee the country to Russia under Putin's protection.
+The Ukrainian antipathy for Trump's team --- and alignment with Clinton's --- can be traced back to late 2013. That's when the country's president, Viktor Yanukovych, whom Manafort had been advising, abruptly backed out of a European Union pact linked to anti-corruption reforms. Instead, Yanukovych entered into a multibillion-dollar bailout agreement with Russia, sparking protests across Ukraine and prompting Yanukovych to flee the country to Russia under Putin's protection.
 
 In the ensuing crisis, Russian troops moved into the Ukrainian territory of Crimea, and Manafort dropped off the radar.
 
@@ -32,13 +32,13 @@ Manafort's work for Yanukovych caught the attention of a veteran Democratic oper
 
 A daughter of Ukrainian immigrants who maintains strong ties to the Ukrainian-American diaspora and the U.S. Embassy in Ukraine, Chalupa, a lawyer by training, in 2014 was doing pro bono work for another client interested in the Ukrainian crisis and began researching Manafort's role in Yanukovych's rise, as well as his ties to the pro-Russian oligarchs who funded Yanukovych's political party.
 
-In an interview this month, Chalupa told Politico she had developed a network of sources in Kiev and Washington, including investigative journalists, government officials and private intelligence operatives. While her consulting work at the DNC this past election cycle centered on mobilizing ethnic communities — including Ukrainian-Americans — she said that, when Trump's unlikely presidential campaign began surging in late 2015, she began focusing more on the research, and expanded it to include Trump's ties to Russia, as well.
+In an interview this month, Chalupa told Politico she had developed a network of sources in Kiev and Washington, including investigative journalists, government officials and private intelligence operatives. While her consulting work at the DNC this past election cycle centered on mobilizing ethnic communities --- including Ukrainian-Americans --- she said that, when Trump's unlikely presidential campaign began surging in late 2015, she began focusing more on the research, and expanded it to include Trump's ties to Russia, as well.
 
-She occasionally shared her findings with officials from the DNC and Clinton's campaign, Chalupa said. In January 2016 — months before Manafort had taken any role in Trump's campaign — Chalupa told a senior DNC official that, when it came to Trump's campaign, "I felt there was a Russia connection," Chalupa recalled. "And that, if there was, that we can expect Paul Manafort to be involved in this election," said Chalupa, who at the time also was warning leaders in the Ukrainian-American community that Manafort was "Putin's political brain for manipulating U.S. foreign policy and elections."
+She occasionally shared her findings with officials from the DNC and Clinton's campaign, Chalupa said. In January 2016 --- months before Manafort had taken any role in Trump's campaign --- Chalupa told a senior DNC official that, when it came to Trump's campaign, "I felt there was a Russia connection," Chalupa recalled. "And that, if there was, that we can expect Paul Manafort to be involved in this election," said Chalupa, who at the time also was warning leaders in the Ukrainian-American community that Manafort was "Putin's political brain for manipulating U.S. foreign policy and elections."
 
 She said she shared her concern with Ukraine's ambassador to the U.S., Valeriy Chaly, and one of his top aides, Oksana Shulyar, during a March 2016 meeting at the Ukrainian Embassy. According to someone briefed on the meeting, Chaly said that Manafort was very much on his radar, but that he wasn't particularly concerned about the operative's ties to Trump since he didn't believe Trump stood much of a chance of winning the GOP nomination, let alone the presidency.
 
-That was not an uncommon view at the time, and, perhaps as a result, Trump's ties to Russia — let alone Manafort's — were not the subject of much attention.
+That was not an uncommon view at the time, and, perhaps as a result, Trump's ties to Russia --- let alone Manafort's --- were not the subject of much attention.
 
 That all started to change just four days after Chalupa's meeting at the embassy, when it was reported that Trump had in fact hired Manafort, suggesting that Chalupa may have been on to something. She quickly found herself in high demand. The day after Manafort's hiring was revealed, she briefed the DNC's communications staff on Manafort, Trump and their ties to Russia, according to an operative familiar with the situation.
 
@@ -92,7 +92,7 @@ Nonetheless, Chalupa's hacked email reportedly escalated concerns among top part
 
 Chalupa left the DNC after the Democratic convention in late July to focus fulltime on her research into Manafort, Trump and Russia. She said she provided off-the-record information and guidance to "a lot of journalists" working on stories related to Manafort and Trump's Russia connections, despite what she described as escalating harassment.
 
-About a month-and-a-half after Chalupa first started receiving hacking alerts, someone broke into her car outside the Northwest Washington home where she lives with her husband and three young daughters, she said. They "rampaged it, basically, but didn't take anything valuable — left money, sunglasses, $1,200 worth of golf clubs," she said, explaining she didn't file a police report after that incident because she didn't connect it to her research and the hacking.
+About a month-and-a-half after Chalupa first started receiving hacking alerts, someone broke into her car outside the Northwest Washington home where she lives with her husband and three young daughters, she said. They "rampaged it, basically, but didn't take anything valuable --- left money, sunglasses, $1,200 worth of golf clubs," she said, explaining she didn't file a police report after that incident because she didn't connect it to her research and the hacking.
 
 But by the time a similar vehicle break-in occurred involving two family cars, she was convinced that it was a Russia-linked intimidation campaign. The police report on the latter break-in noted that "both vehicles were unlocked by an unknown person and the interior was ransacked, with papers and the garage openers scattered throughout the cars. Nothing was taken from the vehicles."
 
@@ -106,9 +106,9 @@ Chalupa this month told Politico that, as her research and role in the election 
 
 ---
 
-While it's not uncommon for outside operatives to serve as intermediaries between governments and reporters, one of the more damaging Russia-related stories for the Trump campaign — and certainly for Manafort — can be traced more directly to the Ukrainian government.
+While it's not uncommon for outside operatives to serve as intermediaries between governments and reporters, one of the more damaging Russia-related stories for the Trump campaign --- and certainly for Manafort --- can be traced more directly to the Ukrainian government.
 
-Documents released by an independent Ukrainian government agency — and publicized by a parliamentarian — appeared to show $12.7 million in cash payments that were earmarked for Manafort by the Russia-aligned party of the deposed former president, Yanukovych.
+Documents released by an independent Ukrainian government agency --- and publicized by a parliamentarian --- appeared to show $12.7 million in cash payments that were earmarked for Manafort by the Russia-aligned party of the deposed former president, Yanukovych.
 
 The New York Times, in the August story revealing the ledgers' existence, reported that the payments earmarked for Manafort were "a focus" of an investigation by Ukrainian anti-corruption officials, while CNN reported days later that the FBI was pursuing an overlapping inquiry.
 
@@ -116,19 +116,19 @@ Clinton's campaign seized on the story to advance Democrats' argument that Trump
 
 A former Ukrainian investigative journalist and current parliamentarian named Serhiy Leshchenko, who was elected in 2014 as part of Poroshenko's party, held a news conference to highlight the ledgers, and to urge Ukrainian and American law enforcement to aggressively investigate Manafort.
 
-"I believe and understand the basis of these payments are totally against the law — we have the proof from these books," Leshchenko said during the news conference, which attracted international media coverage. "If Mr. Manafort denies any allegations, I think he has to be interrogated into this case and prove his position that he was not involved in any misconduct on the territory of Ukraine," Leshchenko added.
+"I believe and understand the basis of these payments are totally against the law --- we have the proof from these books," Leshchenko said during the news conference, which attracted international media coverage. "If Mr. Manafort denies any allegations, I think he has to be interrogated into this case and prove his position that he was not involved in any misconduct on the territory of Ukraine," Leshchenko added.
 
 Manafort denied receiving any off-books cash from Yanukovych's Party of Regions, and said that he had never been contacted about the ledger by Ukrainian or American investigators, later telling POLITICO "I was just caught in the crossfire."
 
-According to a series of memos reportedly compiled for Trump's opponents by a former British intelligence agent, Yanukovych, in a secret meeting with Putin on the day after the Times published its report, admitted that he had authorized "substantial kickback payments to Manafort." But according to [the report]({% post_url 2016-06-20-the-steele-dossier %}), which was published Tuesday by BuzzFeed but remains unverified. Yanukovych assured Putin "that there was no documentary trail left behind which could provide clear evidence of this" — an alleged statement that seemed to implicitly question the authenticity of the ledger.
+According to a series of memos reportedly compiled for Trump's opponents by a former British intelligence agent, Yanukovych, in a secret meeting with Putin on the day after the Times published its report, admitted that he had authorized "substantial kickback payments to Manafort." But according to [the report]({% post_url 2016-06-20-the-steele-dossier %}), which was published Tuesday by BuzzFeed but remains unverified. Yanukovych assured Putin "that there was no documentary trail left behind which could provide clear evidence of this" --- an alleged statement that seemed to implicitly question the authenticity of the ledger.
 
-The scrutiny around the ledgers — combined with that from other stories about his Ukraine work — proved too much, and he stepped down from the Trump campaign less than a week after the Times story.
+The scrutiny around the ledgers --- combined with that from other stories about his Ukraine work --- proved too much, and he stepped down from the Trump campaign less than a week after the Times story.
 
 At the time, Leshchenko suggested that his motivation was partly to undermine Trump. "For me, it was important to show not only the corruption aspect, but that he is [a] pro-Russian candidate who can break the geopolitical balance in the world," Leshchenko told the Financial Times about two weeks after his news conference. The newspaper noted that Trump's candidacy had spurred "Kiev's wider political leadership to do something they would never have attempted before: intervene, however indirectly, in a U.S. election," and the story quoted Leshchenko asserting that the majority of Ukraine's politicians are "on Hillary Clinton's side."
 
 But by this month, Leshchenko was seeking to recast his motivation, telling Politico, "I didn't care who won the U.S. elections. This was a decision for the American voters to decide." His goal in highlighting the ledgers, he said was "to raise these issues on a political level and emphasize the importance of the investigation."
 
-In a series of answers provided to Politico, a spokesman for Poroshenko distanced his administration from both Leshchenko's efforts and those of the agency that reLeshchenko Leshchenko leased the ledgers, The National Anti-Corruption Bureau of Ukraine. It was created in 2014 as a condition for Ukraine to receive aid from the U.S. and the European Union, and it signed an evidence-sharing agreement with the FBI in late June — less than a month and a half before it released the ledgers.
+In a series of answers provided to Politico, a spokesman for Poroshenko distanced his administration from both Leshchenko's efforts and those of the agency that reLeshchenko Leshchenko leased the ledgers, The National Anti-Corruption Bureau of Ukraine. It was created in 2014 as a condition for Ukraine to receive aid from the U.S. and the European Union, and it signed an evidence-sharing agreement with the FBI in late June --- less than a month and a half before it released the ledgers.
 
 The bureau is "fully independent," the Poroshenko spokesman said, adding that when it came to the presidential administration there was "no targeted action against Manafort." He added "as to Serhiy Leshchenko, he positions himself as a representative of internal opposition in the Bloc of Petro Poroshenko's faction, despite [the fact that] he belongs to the faction," the spokesman said, adding, "it was about him personally who pushed [the anti-corruption bureau] to proceed with investigation on Manafort."
 
@@ -136,7 +136,7 @@ But an operative who has worked extensively in Ukraine, including as an adviser 
 
 "It was something that Poroshenko was probably aware of and could have stopped if he wanted to," said the operative.
 
-And, almost immediately after Trump's stunning victory over Clinton, questions began mounting about the investigations into the ledgers — and the ledgers themselves.
+And, almost immediately after Trump's stunning victory over Clinton, questions began mounting about the investigations into the ledgers --- and the ledgers themselves.
 
 An official with the anti-corruption bureau told a Ukrainian newspaper, "Mr. Manafort does not have a role in this case."
 
@@ -164,7 +164,7 @@ The ambassador, Chaly, penned an op-ed for The Hill, in which he chastised Trump
 
 Former Ukrainian Prime Minister Arseny Yatseniuk warned on Facebook that Trump had "challenged the very values of the free world."
 
-Ukraine's minister of internal affairs, Arsen Avakov, piled on, trashing Trump on Twitter in July as a "clown" and asserting that Trump is "an even bigger danger to the US than terrorism."
+Ukraine's minister of internal affairs, Arsen Avakov, piled on, trashing Trump on Twitter in July as a "clown" and asserting that Trump is "an even bigger danger to the U.S. than terrorism."
 
 Avakov, in a Facebook post, lashed out at Trump for his confusing Crimea comments, calling the assessment the "diagnosis of a dangerous misfit," according to a translated screenshot featured in one media report, though he later deleted the post. He called Trump "dangerous for Ukraine and the US" and noted that Manafort worked with Yanukovych when the former Ukrainian leader "fled to Russia through Crimea. Where would Manafort lead Trump?"
 
@@ -172,13 +172,13 @@ The Trump-Ukraine relationship grew even more fraught in September with reports 
 
 Telizhenko, the former embassy staffer, said that, during the primaries, Chaly, the country's ambassador in Washington, had actually instructed the embassy not to reach out to Trump's campaign, even as it was engaging with those of Clinton and Trump's leading GOP rival, Ted Cruz.
 
-"We had an order not to talk to the Trump team, because he was critical of Ukraine and the government and his critical position on Crimea and the conflict," said Telizhenko. "I was yelled at when I proposed to talk to Trump," he said, adding, "The ambassador said not to get involved — Hillary is going to win."
+"We had an order not to talk to the Trump team, because he was critical of Ukraine and the government and his critical position on Crimea and the conflict," said Telizhenko. "I was yelled at when I proposed to talk to Trump," he said, adding, "The ambassador said not to get involved --- Hillary is going to win."
 
-This account was confirmed by Nalyvaichenko, the former diplomat and security chief now affiliated with a Poroshenko opponent, who said, "The Ukrainian authorities closed all doors and windows — this is from the Ukrainian side." He called the strategy "bad and short-sighted."
+This account was confirmed by Nalyvaichenko, the former diplomat and security chief now affiliated with a Poroshenko opponent, who said, "The Ukrainian authorities closed all doors and windows --- this is from the Ukrainian side." He called the strategy "bad and short-sighted."
 
 Andriy Artemenko, a Ukrainian parliamentarian associated with a conservative opposition party, did meet with Trump's team during the campaign and said he personally offered to set up similar meetings for Chaly but was rebuffed.
 
-"It was clear that they were supporting Hillary Clinton's candidacy," Artemenko said. "They did everything from organizing meetings with the Clinton team, to publicly supporting her, to criticizing Trump. … I think that they simply didn't meet because they thought that Hillary would win."
+"It was clear that they were supporting Hillary Clinton's candidacy," Artemenko said. "They did everything from organizing meetings with the Clinton team, to publicly supporting her, to criticizing Trump. ... I think that they simply didn't meet because they thought that Hillary would win."
 
 Shulyar rejected the characterizations that the embassy had a ban on interacting with Trump, instead explaining that it "had different diplomats assigned for dealing with different teams tailoring the content and messaging. So it was not an instruction to abstain from the engagement but rather an internal discipline for diplomats not to get involved into a field she or he was not assigned to, but where another colleague was involved."
 
@@ -190,7 +190,7 @@ The outreach ramped up after Trump's victory. Shulyar pointed out that Poroshenk
 
 ---
 
-Many Ukrainian officials and operatives and their American allies see Trump's inauguration this month as an existential threat to the country, made worse, they admit, by the dissemination of the secret ledger, the antagonistic social media posts and the perception that the embassy meddled against — or at least shut out — Trump.
+Many Ukrainian officials and operatives and their American allies see Trump's inauguration this month as an existential threat to the country, made worse, they admit, by the dissemination of the secret ledger, the antagonistic social media posts and the perception that the embassy meddled against --- or at least shut out --- Trump.
 
 "It's really bad. The [Poroshenko] administration right now is trying to re-coordinate communications," said Telizhenko, adding, "The Trump organization doesn't want to talk to our administration at all."
 
@@ -198,17 +198,17 @@ During Nalyvaichenko's trip to Washington last month, he detected lingering ill 
 
 Poroshenko's allies are scrambling to figure out how to build a relationship with Trump, who is known for harboring and prosecuting grudges for years.
 
-A delegation of Ukrainian parliamentarians allied with Poroshenko last month traveled to Washington partly to try to make inroads with the Trump transition team, but they were unable to secure a meeting, according to a Washington foreign policy operative familiar with the trip. And operatives in Washington and Kiev say that after the election, Poroshenko met in Kiev with top executives from the Washington lobbying firm BGR — including Ed Rogers and Lester Munson — about how to navigate the Trump regime.
+A delegation of Ukrainian parliamentarians allied with Poroshenko last month traveled to Washington partly to try to make inroads with the Trump transition team, but they were unable to secure a meeting, according to a Washington foreign policy operative familiar with the trip. And operatives in Washington and Kiev say that after the election, Poroshenko met in Kiev with top executives from the Washington lobbying firm BGR --- including Ed Rogers and Lester Munson --- about how to navigate the Trump regime.
 
 Weeks later, BGR reported to the Department of Justice that the government of Ukraine would pay the firm $50,000 a month to "provide strategic public relations and government affairs counsel," including "outreach to U.S. government officials, non-government organizations, members of the media and other individuals."
 
 Firm spokesman Jeffrey Birnbaum suggested that "pro-Putin oligarchs" were already trying to sow doubts about BGR's work with Poroshenko. While the firm maintains close relationships with GOP congressional leaders, several of its principals were dismissive or sharply critical of Trump during the GOP primary, which could limit their effectiveness lobbying the new administration.
 
-The Poroshenko regime's standing with Trump is considered so dire that the president's allies after the election actually reached out to make amends with — and even seek assistance from — Manafort, according to two operatives familiar with Ukraine's efforts to make inroads with Trump.
+The Poroshenko regime's standing with Trump is considered so dire that the president's allies after the election actually reached out to make amends with --- and even seek assistance from --- Manafort, according to two operatives familiar with Ukraine's efforts to make inroads with Trump.
 
-Meanwhile, Poroshenko's rivals are seeking to capitalize on his dicey relationship with Trump's team. Some are pressuring him to replace Chaly, a close ally of Poroshenko's who is being blamed by critics in Kiev and Washington for implementing — if not engineering — the country's anti-Trump efforts, according to Ukrainian and U.S. politicians and operatives interviewed for this story. They say that several potential Poroshenko opponents have been through Washington since the election seeking audiences of their own with Trump allies, though most have failed to do do so.
+Meanwhile, Poroshenko's rivals are seeking to capitalize on his dicey relationship with Trump's team. Some are pressuring him to replace Chaly, a close ally of Poroshenko's who is being blamed by critics in Kiev and Washington for implementing --- if not engineering --- the country's anti-Trump efforts, according to Ukrainian and U.S. politicians and operatives interviewed for this story. They say that several potential Poroshenko opponents have been through Washington since the election seeking audiences of their own with Trump allies, though most have failed to do do so.
 
-"None of the Ukrainians have any access to Trump — they are all desperate to get it, and are willing to pay big for it," said one American consultant whose company recently met in Washington with Yuriy Boyko, a former vice prime minister under Yanukovych. Boyko, who like Yanukovych has a pro-Russian worldview, is considering a presidential campaign of his own, and his representatives offered "to pay a shit-ton of money" to get access to Trump and his inaugural events, according to the consultant.
+"None of the Ukrainians have any access to Trump --- they are all desperate to get it, and are willing to pay big for it," said one American consultant whose company recently met in Washington with Yuriy Boyko, a former vice prime minister under Yanukovych. Boyko, who like Yanukovych has a pro-Russian worldview, is considering a presidential campaign of his own, and his representatives offered "to pay a shit-ton of money" to get access to Trump and his inaugural events, according to the consultant.
 
 The consultant turned down the work, explaining, "It sounded shady, and we don't want to get in the middle of that kind of stuff."
 

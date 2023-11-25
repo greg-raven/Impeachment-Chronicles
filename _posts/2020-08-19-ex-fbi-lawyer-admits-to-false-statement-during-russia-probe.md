@@ -7,7 +7,7 @@ tags:
 
 A former FBI lawyer has pleaded guilty to altering a document related to the secret surveillance of a former Trump campaign adviser during the Russia investigation
 
-WASHINGTON (AP) — A former FBI lawyer pleaded guilty Wednesday to altering a document related to the secret surveillance of a former Trump campaign adviser during the Russia investigation.
+WASHINGTON (AP) --- A former FBI lawyer pleaded guilty Wednesday to altering a document related to the secret surveillance of a former Trump campaign adviser during the Russia investigation.
 
 Kevin Clinesmith is the first current or former official to be charged in a special Justice Department review of the investigation into ties between Russia and Donald Trump's 2016 presidential campaign. Attorney General William Barr appointed John Durham, the U.S. attorney in Connecticut, to scrutinize decisions made by officials during that probe.
 

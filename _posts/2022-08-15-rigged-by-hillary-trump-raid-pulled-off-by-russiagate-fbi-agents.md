@@ -15,7 +15,7 @@ Sperry points out that David Laufman, "recycled bad guy of Russiagate," is claim
 
 However, "One Senate investigator told RealClearInvestigations that Laufman, then Justice's top counterintelligence official, was the 'mastermind' behind the strategy to dust off and 'weaponize' FARA against Trump campaign officials," creating the Russiagate disaster, the reporting explained.
 
-"Laufman signed off on the illegal wiretapping of Trump campaign adviser Carter Page. An Obama campaign donor, Laufman helped oversee a wide range of politically charged cases as the DoJ's counterintelligence section chief – including the department's highly irregular, kid-gloves investigation of Hillary Clinton concerning her mishandling of classified emails as secretary of state."
+"Laufman signed off on the illegal wiretapping of Trump campaign adviser Carter Page. An Obama campaign donor, Laufman helped oversee a wide range of politically charged cases as the DoJ's counterintelligence section chief --- including the department's highly irregular, kid-gloves investigation of Hillary Clinton concerning her mishandling of classified emails as secretary of state."
 
 Sperry described Laufman as "the king of phony pretexts" to justify investigating Trump.
 
@@ -47,7 +47,7 @@ The suggestion that Democrats now are suddenly concerned about nuclear secrets s
 - transferred dual-use missile and other technology to China; and,
 - kicked open the doors to Los Alamos and our other nuclear weapons labs to Chinese scientists.
 
-Beijing subsequently stole the designs to every nuclear warhead in the US arsenal, including MIRVs, according to the Cox Report, and now China can independently target Honolulu, Los Angeles and San Francisco with a single ICBM."
+Beijing subsequently stole the designs to every nuclear warhead in the U.S. arsenal, including MIRVs, according to the Cox Report, and now China can independently target Honolulu, Los Angeles and San Francisco with a single ICBM."
 
 He also reported the FBI paperwork authorizing the raid on Trump's home allowed agents to seize any boxes "in proximity" to any targeted papers.
 

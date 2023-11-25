@@ -7,7 +7,7 @@ tags:
 
 Some presidents have really bad years.
 
-For Nixon, it was 1974 — the Watergate year, which ended with his resignation. For Clinton, it was 1998 — the Monica year, which culminated with an impeachment trial in the Senate in 1999. He won that vote easily and came out more popular than before.
+For Nixon, it was 1974 --- the Watergate year, which ended with his resignation. For Clinton, it was 1998 --- the Monica year, which culminated with an impeachment trial in the Senate in 1999. He won that vote easily and came out more popular than before.
 
 It's a good guess that Donald Trump's really bad year will be 2019. And it's not yet clear whether he'll survive, like Clinton, or be forced out of office, like Nixon.
 
@@ -21,7 +21,7 @@ It's easy to get lost in the details of Russiagate and the guilty pleas of Trump
 
 The infamous Trump Tower meeting, where Don Jr., Jared Kushner and campaign chief Paul Manafort met with a Russian operative offering help in the election, could turn out to be far worse than anything that happened in Watergate. And Trump's sexual troubles would be worse than Clinton's, too, if he is found to have violated campaign funding laws in trying to buy the silence of women he slept with.
 
-Still, there are many similarities between Trump's troubles and earlier presidential scandals — along with some differences.
+Still, there are many similarities between Trump's troubles and earlier presidential scandals --- along with some differences.
 
 Both Nixon and Clinton faced allegations of obstruction of justice. They were tripped up not so much by the acts themselves, but rather by attempts to cover them up.
 
@@ -37,11 +37,11 @@ And if that weren't enough, Trump also faces investigations into alleged illegal
 
 Nixon's troubles hold another possible caution for Trump in a year when committees in the House will almost certainly be subpoenaing the president's tax returns. For Nixon, news that he had violated tax laws by taking an illegal write-off did a lot to turn the public against him. Nixon had backdated the deed of gift of his papers to the National Archives in order to take his write-off in a more advantageous year.
 
-People who shrugged off Watergate on the grounds that "everybody does it" were outraged that the president had claimed an illegal deduction of $576,000 — the equivalent today of more than $3 million.
+People who shrugged off Watergate on the grounds that "everybody does it" were outraged that the president had claimed an illegal deduction of $576,000 --- the equivalent today of more than $3 million.
 
-We don't know whether Trump's tax returns contain dubious write-offs, but it seems likely we'll find that out this year — and also, perhaps, whether the public is more forgiving of him than of Nixon for tax shenanigans.
+We don't know whether Trump's tax returns contain dubious write-offs, but it seems likely we'll find that out this year --- and also, perhaps, whether the public is more forgiving of him than of Nixon for tax shenanigans.
 
-Both Clinton and Nixon faced impeachment proceedings. The House Judiciary Committee voted articles of impeachment in 1974 against Nixon, but the full House never voted on them, and the Senate never held an impeachment trial. He resigned before that — and was promptly pardoned by his successor, his former vice president, Gerald Ford, for any crimes he may have committed. Clinton was impeached by the House and went on to face a Senate trial, which fell far short of the required two-thirds vote for conviction.
+Both Clinton and Nixon faced impeachment proceedings. The House Judiciary Committee voted articles of impeachment in 1974 against Nixon, but the full House never voted on them, and the Senate never held an impeachment trial. He resigned before that --- and was promptly pardoned by his successor, his former vice president, Gerald Ford, for any crimes he may have committed. Clinton was impeached by the House and went on to face a Senate trial, which fell far short of the required two-thirds vote for conviction.
 
 I'm betting that, in the end, Trump resigns and gets an advance pardon for himself and his children. That may not happen until 2020, but in the meantime, 2019 will be the worst year of his life.
 

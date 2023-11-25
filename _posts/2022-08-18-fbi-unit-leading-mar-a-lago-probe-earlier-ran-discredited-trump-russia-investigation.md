@@ -7,11 +7,11 @@ tags:
 
 The FBI division overseeing the investigation of former President Trump's handling of classified material at his Mar-a-Lago residence is also a focus of Special Counsel John Durham's investigation of the bureau's alleged abuses of power and political bias during its years-long Russiagate probe of Trump.
 
-The FBI's nine-hour, 30-agent raid of the former president's Florida estate is part of a counterintelligence case run out of Washington – not Miami, as has been widely reported – according to FBI case documents and sources with knowledge of the matter. The bureau's counterintelligence division led the 2016-2017 Russia "collusion" investigation of Trump, codenamed "[Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %})."
+The FBI's nine-hour, 30-agent raid of the former president's Florida estate is part of a counterintelligence case run out of Washington --- not Miami, as has been widely reported --- according to FBI case documents and sources with knowledge of the matter. The bureau's counterintelligence division led the 2016-2017 Russia "collusion" investigation of Trump, codenamed "[Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %})."
 
 Although the former head of [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}), Peter Strzok, was fired after the disclosure of his vitriolic anti-Trump tweets, several members of his team remain working in the counterintelligence unit, the sources say, even though they are under active investigation by both Durham and the bureau's disciplinary arm, the Office of Professional Responsibility. The FBI declined to respond to questions about any role they may be taking in the Mar-a-Lago case.
 
-In addition, a key member of the Crossfire team – Supervisory Intelligence Analyst Brian Auten – has continued to be involved in politically sensitive investigations, including the ongoing federal probe of potentially incriminating content found on the abandoned laptop of President Biden's son Hunter Biden, according to recent correspondence between the Senate Judiciary Committee and FBI Director Christopher Wray. FBI whistleblowers have alleged that Auten tried to falsely discredit derogatory evidence against Hunter Biden during the 2020 campaign by labeling it Russian "disinformation," an assessment that caused investigative activity to cease.
+In addition, a key member of the Crossfire team --- Supervisory Intelligence Analyst Brian Auten --- has continued to be involved in politically sensitive investigations, including the ongoing federal probe of potentially incriminating content found on the abandoned laptop of President Biden's son Hunter Biden, according to recent correspondence between the Senate Judiciary Committee and FBI Director Christopher Wray. FBI whistleblowers have alleged that Auten tried to falsely discredit derogatory evidence against Hunter Biden during the 2020 campaign by labeling it Russian "disinformation," an assessment that caused investigative activity to cease.
 
 Auten has been allowed to work on sensitive cases even though he has been under internal investigation since 2019, when Justice Department Inspector General Michael Horowitz referred him for disciplinary review for his role in vetting a Hillary Clinton campaign-funded dossier used by the FBI to obtain a series of wiretap warrants to spy on former Trump campaign adviser Carter Page. Horowitz singled out Auten for cutting a number of corners in the verification process and even allowing information he knew to be incorrect slip into warrant affidavits and mislead the Foreign Intelligence Surveillance Act court.
 
@@ -43,7 +43,7 @@ Former assistant FBI director Chris Swecker said the search warrant that agents 
 
 What's more, he said the physical search of the former president's residence was far more sweeping than first reported and included unsupervised snooping in several dozen bedrooms, as well as numerous storage rooms and closets, including those of the former first lady. FBI agents took numerous boxes and containers of documents and other material, including several binders of photos and even three passports held by the former president.
 
-Although Attorney General Merrick Garland has said that the DOJ seeks to "narrowly scope any search that is undertaken," details of the warrant reveal agents had the authority to seize entire boxes of records – including those potentially covered by attorney-client privilege and executive privilege – if just a single document inside the container were marked with a classified marking.
+Although Attorney General Merrick Garland has said that the DOJ seeks to "narrowly scope any search that is undertaken," details of the warrant reveal agents had the authority to seize entire boxes of records --- including those potentially covered by attorney-client privilege and executive privilege --- if just a single document inside the container were marked with a classified marking.
 
 Agents were allowed to also seize any containers or boxes "found together with" ones containing classified papers, according to ATTACHMENT B ("Property to be seized") of the warrant. In addition, the FBI agents were given the authority to confiscate "any government and/or presidential records created between Jan. 20, 2017, and Jan. 20, 2021," which covers Trump's full term in office. That meant they were able to take any item related to the Trump administration.
 
@@ -51,13 +51,13 @@ All told, dozens of boxes and containers were removed from Trump's residence, ve
 
 According to Federal Election Commission records, Bratt has given exclusively to Democrats, including at least $800 to the Democratic National Committee. The sources said he is close to David Laufman, whom he replaced as the top counterintelligence official at Justice. An Obama donor, Laufman helped oversee the Russiagate probe, as well as the Clinton email case, which also involved classified information.
 
-A Senate investigator told RCI that Laufman was the "mastermind" behind the strategy to dust off and "weaponize" the rarely enforced statutory relic – the Foreign Agents Registration Act – against Trump campaign officials, a novel legal move that the investigator noted is similar to the department's current attempts to enforce the Presidential Records Act against Trump – which is a civil, not a criminal, statute – by invoking the Espionage Act of 1917.
+A Senate investigator told RCI that Laufman was the "mastermind" behind the strategy to dust off and "weaponize" the rarely enforced statutory relic --- the Foreign Agents Registration Act --- against Trump campaign officials, a novel legal move that the investigator noted is similar to the department's current attempts to enforce the Presidential Records Act against Trump --- which is a civil, not a criminal, statute --- by invoking the Espionage Act of 1917.
 
 Laufman signed off on the wiretapping of Trump campaign adviser Carter Page, which the Department of Justice inspector general determined was conducted under false pretenses involving doctored email, suppression of exculpatory evidence, and other malfeasance.
 
 Suddenly resurfacing as a media surrogate for the Justice Department defending the Mar-a-Lago raid, Laufman has been a key source for stories by the Washington Post, CNN, and other outlets.
 
-On CNN, for instance, he claimed the documents seized from Trump's storage were "particularly stunning and particularly egregious," and their discovery "completely validates the government's investigation" into the former president – though he quickly added, "Whether this investigation transforms into an outright criminal prosecution remains to be seen."
+On CNN, for instance, he claimed the documents seized from Trump's storage were "particularly stunning and particularly egregious," and their discovery "completely validates the government's investigation" into the former president --- though he quickly added, "Whether this investigation transforms into an outright criminal prosecution remains to be seen."
 
 Swecker said that there is strong reason to fear that the FBI's counterintelligence division might politicize this case.
 
@@ -67,7 +67,7 @@ Swecker said that there is strong reason to fear that the FBI's counterintellige
 
 **Patel: 'It's Just Insane'**
 
-Former federal prosecutor and Trump administration official Kash Patel said the FBI may have a personal interest – and a potential conflict – in seizing the records stored by Trump.
+Former federal prosecutor and Trump administration official Kash Patel said the FBI may have a personal interest --- and a potential conflict --- in seizing the records stored by Trump.
 
 He noted that Trump in October 2020 authorized the declassification of all the investigative records generated from the FBI's [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) as well as the Clinton email investigation, codenamed "Midyear Exam," and he said that the FBI may have confiscated some of those records in its raid, ensuring they won't be made public. In addition, he said, the agency may be digging for other documents to try to justify, retroactively, their questionable, politically-tinged 2016 opening of the Trump-Russia "collusion" case, which came up embarrassingly short on evidence.
 
@@ -77,7 +77,7 @@ Patel noted that the [Horowitz report]({% post_url 2019-12-09-review-of-four-fis
 
 "And to top it all off, this guy admits [to Horowitz's investigators] he's unrepentant about his role in making up the biggest hoax in election history, and Wray still lets him be a supervisor at the FBI," he said. "It's just insane."
 
-The Justice Department's national security division has ultimate authority over the grand-jury probe of Trump for possible violations of the Espionage Act, including alleged mishandling of classified material – the same statutes invoked in the Clinton email investigation. (In that case, in contrast, the FBI never searched the former secretary of state's Chappaqua, N.Y., mansion, where she set up an unsecured basement server to send and receive at least 110 classified emails and where she also received government documents by fax.)
+The Justice Department's national security division has ultimate authority over the grand-jury probe of Trump for possible violations of the Espionage Act, including alleged mishandling of classified material --- the same statutes invoked in the Clinton email investigation. (In that case, in contrast, the FBI never searched the former secretary of state's Chappaqua, N.Y., mansion, where she set up an unsecured basement server to send and receive at least 110 classified emails and where she also received government documents by fax.)
 
 Former FBI counterintelligence official and lawyer Mark Wauck said he is troubled by signs that the same cast of characters from the Russiagate scandal appears to be involved in the Mar-a-Lago investigation.
 

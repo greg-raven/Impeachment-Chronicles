@@ -17,7 +17,7 @@ FBI analysts working on the Michael Flynn Russia investigation originally planne
 
 "Can I ask who are the most likely litigators?" a colleague responded. "As far as potentially suing y'all."
 
-"Haha, who knows … I think the concern when we got it was that there was a big leak at DOJ and the NYT among others was going to do a piece," the original analyst texted back.
+"Haha, who knows ... I think the concern when we got it was that there was a big leak at DOJ and the NYT among others was going to do a piece," the original analyst texted back.
 
 The explosive messages were attached to a new filing by Flynn's attorney Sidney Powell, who argued to the court that is considering dismissing her client's guilty plea that the emails show "stunning government misconduct" and "wrongful prosecution."
 
@@ -31,7 +31,7 @@ The new FBI evidence was turned over late Wednesday and included a stunning reve
 
 By January, the FBI analysts were alarmed that their agency was engaged in misconduct that could be discovered by President Trump's new attorney general.
 
-"The new AG might have some questions … then yada yada yada … we all get screwed," one official wrote.
+"The new AG might have some questions ... then yada yada yada ... we all get screwed," one official wrote.
 
 A follow-up string of messages suggested the bureau would be exposed for "rabbit holes and conspiracy theories" if the Russia casework was ever exposed because of its lack of evidence.
 

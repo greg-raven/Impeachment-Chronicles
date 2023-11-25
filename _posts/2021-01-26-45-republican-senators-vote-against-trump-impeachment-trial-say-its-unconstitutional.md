@@ -25,13 +25,13 @@ Sen. James Lankford (R-Okla.) issued the following statement after he voted to s
 
 While a number of Republican senators have faulted Trump's speech to demonstrators as a group breached the U.S. Capitol during the Joint Session of Congress, many have said it's problematic to impeach a president who doesn't hold office.
 
-Any Republican who votes to convict Trump is sure to face blowback among the GOP base — as Trump remains an enormously popular figure in the party. Rep. Liz Cheney (R-Wyo.) and about nine other Republican House members who voted to impeach Trump have faced significant criticism and primary threats.
+Any Republican who votes to convict Trump is sure to face blowback among the GOP base --- as Trump remains an enormously popular figure in the party. Rep. Liz Cheney (R-Wyo.) and about nine other Republican House members who voted to impeach Trump have faced significant criticism and primary threats.
 
-Pushing back against Republicans, Senate Majority Leader Chuck Schumer (D-N.Y.) has stated that the trial is not unconstitutional. At least two Republicans — Romney and Murkowski — agreed with him.
+Pushing back against Republicans, Senate Majority Leader Chuck Schumer (D-N.Y.) has stated that the trial is not unconstitutional. At least two Republicans --- Romney and Murkowski --- agreed with him.
 
 "We need truth and accountability for Donald Trump's actions. His impeachment trial will move forward in the United States Senate," Schumer wrote on Twitter.
 
-Several law experts — namely Harvard Law professor Alan Dershowitz — have said the trial goes against the Constitution.
+Several law experts --- namely Harvard Law professor Alan Dershowitz --- have said the trial goes against the Constitution.
 
 "It will be unconstitutional, but that probably won't bother the senators," Dershowitz told Fox News earlier this month. "The Constitution is very clear. The subject, the object, the purpose of impeachment is to remove a sitting president. And there are two precedents. One is very obvious. When President Nixon resigned in anticipation of being impeached and removed, there was no effort to impeach him after he left office."
 

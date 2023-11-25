@@ -6,7 +6,7 @@ tags:
 - Eric Tucker
 ---
 
-ATLANTA (AP) — Donald Trump and 18 allies were indicted in Georgia on Monday over their efforts to overturn his 2020 election loss in the state, with prosecutors using a statute normally associated with mobsters to accuse the former president, lawyers and other aides of a “criminal enterprise” to keep him in power.
+ATLANTA (AP) --- Donald Trump and 18 allies were indicted in Georgia on Monday over their efforts to overturn his 2020 election loss in the state, with prosecutors using a statute normally associated with mobsters to accuse the former president, lawyers and other aides of a “criminal enterprise” to keep him in power.
 
 The nearly 100-page indictment details dozens of acts by Trump or his allies to undo his defeat, including beseeching Georgia’s Republican secretary of state to find enough votes for him to win the battleground states; harassing a state election worker who faced false claims of fraud; and attempting to persuade Georgia lawmakers to ignore the will of voters and appoint a new slate of electoral college electors favorable to Trump.
 
@@ -18,11 +18,11 @@ Other defendants included former White House chief of staff Mark Meadows; Trump�
 
 Willis said the defendants would be allowed to voluntarily surrender by noon Aug. 25. She also said she plans to ask for a trial date within six months and that she intends to try the defendants as a group.
 
-The indictment bookends a remarkable crush of criminal cases — four in five months, each in a different city — that would be daunting for anyone, never mind someone like Trump who is simultaneously balancing the roles of criminal defendant and presidential candidate.
+The indictment bookends a remarkable crush of criminal cases --- four in five months, each in a different city --- that would be daunting for anyone, never mind someone like Trump who is simultaneously balancing the roles of criminal defendant and presidential candidate.
 
 It comes just two weeks after the Justice Department special counsel charged him in a vast conspiracy to overturn the election, underscoring how prosecutors after lengthy investigations that followed the Jan. 6, 2021 riot at the U.S. Capitol have now, two-and-a-half years later, taken steps to hold Trump to account for an assault on the underpinnings of American democracy.
 
-The Georgia case covers some of the same ground as Trump’s recent indictment in Washington, D.C., including attempts he and his allies made to disrupt the electoral vote count at the U.S. Capitol on Jan. 6, 2021. But its sprawling web of defendants in the Georgia indictment — 19 in total — stands apart from the more tightly targeted case brought by special counsel Jack Smith, which so far only names Trump as a defendant.
+The Georgia case covers some of the same ground as Trump’s recent indictment in Washington, D.C., including attempts he and his allies made to disrupt the electoral vote count at the U.S. Capitol on Jan. 6, 2021. But its sprawling web of defendants in the Georgia indictment --- 19 in total --- stands apart from the more tightly targeted case brought by special counsel Jack Smith, which so far only names Trump as a defendant.
 
 In charging close Trump aides who were referenced by Smith only as unindicted co-conspirators, the Georgia indictment alleges a scale of criminal conduct extending far beyond just the ex-president.
 
@@ -36,7 +36,7 @@ Trump and his allies, who have characterized the investigation as politically mo
 
 In a statement after the indictment was issued, Trump’s legal team said “the events that have unfolded today have been shocking and absurd, starting with the leak of a presumed and premature indictment before the witnesses had testified or the grand jurors had deliberated and ending with the District Attorney being unable to offer any explanation.”
 
-The lawyers said prosecutors presenting their case “relied on witnesses who harbor their own personal and political interests — some of whom ran campaigns touting their efforts against the accused.”
+The lawyers said prosecutors presenting their case “relied on witnesses who harbor their own personal and political interests --- some of whom ran campaigns touting their efforts against the accused.”
 
 Many of the 161 acts by Trump and his associates outlined in the Georgia indictment have already received widespread attention. That includes a Jan. 2, 2021, call in which Trump urged Secretary of State Brad Raffensperger to “find” the 11,780 votes needed to overturn his election loss. That call, prosecutors said, violated a Georgia law against soliciting a public official to violate their oath.
 
@@ -46,7 +46,7 @@ Giuliani, meanwhile, is charged with making false statements for allegedly lying
 
 Also charged are individuals prosecutors say helped Trump and his allies on the ground in Georgia influence and intimidate election workers.
 
-One man, Stephen Cliffgard Lee, was charged by prosecutors for allegedly traveling to Freeman’s home “with intent to influence her testimony.” Freeman and her daughter Shaye Moss testified to Congress last year about how Trump and his allies latched onto surveillance footage from November 2020 to accuse both women of committing voter fraud — allegations that were quickly debunked, yet spread widely across conservative media.
+One man, Stephen Cliffgard Lee, was charged by prosecutors for allegedly traveling to Freeman’s home “with intent to influence her testimony.” Freeman and her daughter Shaye Moss testified to Congress last year about how Trump and his allies latched onto surveillance footage from November 2020 to accuse both women of committing voter fraud --- allegations that were quickly debunked, yet spread widely across conservative media.
 
 Both women, who are Black, faced death threats for several months after the election.
 
@@ -56,7 +56,7 @@ According to evidence made public by the congressional committee investigating t
 
 Besides the two election-related cases, Trump faces a separate federal indictment accusing him of illegally hoarding classified documents as well as a New York state case charging him with falsifying business records.
 
-As indictments mount, Trump — the leading Republican candidate for president in 2024 — often invokes his distinction as the only former president to face criminal charges. He is campaigning and fundraising around these themes, portraying himself as the victim of Democratic prosecutors out to get him.
+As indictments mount, Trump --- the leading Republican candidate for president in 2024 --- often invokes his distinction as the only former president to face criminal charges. He is campaigning and fundraising around these themes, portraying himself as the victim of Democratic prosecutors out to get him.
 
 Republican allies once again quickly rallied to Trump’s defense. “Americans see through this desperate sham,” House Speaker Kevin McCarthy wrote on X, the platform formerly known as Twitter.
 

@@ -19,9 +19,9 @@ A spokesperson for special counsel Robert Mueller's office, Peter Carr, disputed
 
 "BuzzFeed's description of specific statements to the Special Counsel's Office, and characterization of documents and testimony obtained by this office, regarding Michael Cohen's Congressional testimony are not accurate," Carr said.
 
-Cohen pleaded guilty in November to lying about the deal in testimony and in a two-page statement to the Senate and House intelligence committees. Mueller noted that Cohen's false claim that the project ended in January 2016 was an attempt to "minimize links between the Moscow Project and Individual 1" — widely understood to be Trump — "in hopes of limiting the ongoing Russia investigations."
+Cohen pleaded guilty in November to lying about the deal in testimony and in a two-page statement to the Senate and House intelligence committees. Mueller noted that Cohen's false claim that the project ended in January 2016 was an attempt to "minimize links between the Moscow Project and Individual 1" --- widely understood to be Trump --- "in hopes of limiting the ongoing Russia investigations."
 
-Now the two sources have told BuzzFeed News that Cohen also told the special counsel that after the election, the president personally instructed him to lie — by claiming that negotiations ended months earlier than they actually did — in order to obscure Trump's involvement.
+Now the two sources have told BuzzFeed News that Cohen also told the special counsel that after the election, the president personally instructed him to lie --- by claiming that negotiations ended months earlier than they actually did --- in order to obscure Trump's involvement.
 
 The special counsel's office learned about Trump's directive for Cohen to lie to Congress through interviews with multiple witnesses from the Trump Organization and internal company emails, text messages, and a cache of other documents. Cohen then acknowledged those instructions during his interviews with that office.
 
@@ -44,7 +44,7 @@ The White House did not return detailed messages seeking comment, nor did an att
 
 A spokesperson for the Office of Special Counsel declined to comment.
 
-Cohen also declined comment — but the law enforcement sources familiar with his testimony to the special counsel said he had confirmed that Trump directed him to lie to Congress, and also that he had provided details of his conversations about the project with the president and Ivanka and Donald Jr.
+Cohen also declined comment --- but the law enforcement sources familiar with his testimony to the special counsel said he had confirmed that Trump directed him to lie to Congress, and also that he had provided details of his conversations about the project with the president and Ivanka and Donald Jr.
 
 Those three members of the Trump family have distanced themselves from the Moscow project, saying that they had little knowledge of the negotiations. But a picture of their deep involvement is now emerging, as FBI agents and prosecutors pore over witness interviews and internal documents from Cohen and other Trump Organization officials and executives.
 
@@ -52,7 +52,7 @@ Trump was even made aware that Cohen was speaking to Russian government official
 
 Trump also encouraged Cohen to plan a trip to Russia during the campaign, where the candidate could meet face-to-face with Putin.
 
-BuzzFeed News has previously reported that text messages and emails show Sater — a real estate developer, convicted stock swindler, and longtime asset for US government intelligence agencies — worked furiously to arrange a trip for Cohen to the St. Petersburg International Economic Forum, where he was supposed to meet with top Russian bankers and government officials. Cohen told Sater that to advance the deal, Trump himself would also go to Russia, after the Republican National Convention in July 2016.
+BuzzFeed News has previously reported that text messages and emails show Sater --- a real estate developer, convicted stock swindler, and longtime asset for U.S. government intelligence agencies --- worked furiously to arrange a trip for Cohen to the St. Petersburg International Economic Forum, where he was supposed to meet with top Russian bankers and government officials. Cohen told Sater that to advance the deal, Trump himself would also go to Russia, after the Republican National Convention in July 2016.
 
 The trip to St. Petersburg never took place and the plans to build Trump Tower Moscow never came to fruition. But the negotiations occupy an important place in Mueller's investigation, as agents try to learn whether it is connected to the Kremlin's interference campaign and whom Trump associates were in contact with to close the deal.
 

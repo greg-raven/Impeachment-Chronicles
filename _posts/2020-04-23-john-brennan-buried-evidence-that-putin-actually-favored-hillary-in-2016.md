@@ -11,7 +11,7 @@ Fleitz called Brennan "the most politicized intelligence chief in American histo
 
 The committee released the document in a highly edited form that does not include any reference to recently declassified files that point to a possible Russian disinformation campaign that attempted to malign Trump.
 
-While recognizing that "the political establishment and anti-Trump journalists gloated about the new Senate Intelligence Committee report as bolstering their biases," Fleitz contends the committee did not follow proper procedures in their investigation and based their conclusions on too few intelligence sources — and too much on the potentially tainted observations of the CIA.
+While recognizing that "the political establishment and anti-Trump journalists gloated about the new Senate Intelligence Committee report as bolstering their biases," Fleitz contends the committee did not follow proper procedures in their investigation and based their conclusions on too few intelligence sources --- and too much on the potentially tainted observations of the CIA.
 
 "The Senate Intelligence Committee report falsely claims that 'all analytical lines are supported with all-source intelligence' and that analysts who wrote the intelligence community assessment consistently said they 'were under no politically motivated pressure to reach specific conclusions.'"
 
@@ -21,6 +21,6 @@ Fleitz says House Intelligence Committee staff members discovered exactly the op
 
 The former NSC chief of staff further stated that "Brennan suppressed high-quality intelligence suggesting that Putin actually wanted the more predictable and malleable Clinton to win the 2016 election."
 
-Fleitz suggested that Brennan relied upon "low-quality intelligence that failed to meet intelligence community standards to support the political claim that Russian officials wanted Trump to win … "
+Fleitz suggested that Brennan relied upon "low-quality intelligence that failed to meet intelligence community standards to support the political claim that Russian officials wanted Trump to win ... "
 
 Source: David Krayden, dailycaller.com/2020/04/23/fred-fleitz-john-brennan-buried-evidence-putin-favored-hillary/

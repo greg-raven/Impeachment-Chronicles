@@ -15,7 +15,7 @@ Heide was told in an instant message from FBI Agent Joe Pientka, who was the sup
 
 Sussmann, a 2016 Clinton campaign lawyer, is on trial for allegedly lying to the FBI in his September 2016 meeting with Baker by saying he was not representing any clients in sharing information purportedly substantiating a Trump Organization back channel to the Kremlin through Alfa Bank.
 
-Special Counsel John Durham has provided evidence that Sussmann was representing clients at the meeting — both the Clinton campaign and then-Neustar tech firm executive Rodney Joffe.
+Special Counsel John Durham has provided evidence that Sussmann was representing clients at the meeting --- both the Clinton campaign and then-Neustar tech firm executive Rodney Joffe.
 
 Heide testified that he concluded the allegation was unsubstantiated based on the analysis by the FBI cyber division, review of the internet data logs, cybersecurity company Mandiant's independent assessment corroborating the FBI's findings, discussions with Spectrum Health about a TOR (The Onion Router) exit node, and his own training regarding previous Russian cyber investigations.
 

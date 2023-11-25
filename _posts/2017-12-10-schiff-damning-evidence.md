@@ -21,7 +21,7 @@ He also mentioned other communications, including Donald Trump Jr.'s communicati
 
 "So, we have all these facts in chronology. You would have to believe that these were all isolated incidents, not connected to each other. It just doesn't make rational sense," Schiff said.
 
-"Now, 'can you prove beyond a reasonable doubt' will be Mueller's question to answer that the Russians communicated to the campaign that the way they were going to deliver the help they offered — and that the campaign accepted — was not by handing the emails directly over to the campaign, but by publishing them." he added.
+"Now, 'can you prove beyond a reasonable doubt' will be Mueller's question to answer that the Russians communicated to the campaign that the way they were going to deliver the help they offered --- and that the campaign accepted --- was not by handing the emails directly over to the campaign, but by publishing them." he added.
 
 Schiff said that would be up to special counsel Robert Mueller.
 

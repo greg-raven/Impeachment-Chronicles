@@ -6,7 +6,7 @@ tags:
 - Nikki Carvajal
 ---
 
-(CNN) — President Donald Trump claimed Friday there will be enough coronavirus vaccines for every American by April — a claim that doesn't match any timeline given by the federal government's health agencies, private researchers or even the companies making the vaccines.
+(CNN) --- President Donald Trump claimed Friday there will be enough coronavirus vaccines for every American by April --- a claim that doesn't match any timeline given by the federal government's health agencies, private researchers or even the companies making the vaccines.
 
 But Trump and one of his top advisers said they were confident that a vaccine would be approved, manufactured and ready for distribution to all by April.
 
@@ -24,7 +24,7 @@ But Trump's newest adviser on the White House Coronavirus Task Force, Dr. Scott 
 
 "By April every single American who wants to be vaccinated will have the ability to be vaccinated," Atlas said.
 
-Earlier this week, Centers for Disease Control and Prevention director Dr. Robert Redfield told a Senate Appropriations committee hearing that it would likely be the second or third quarter of next year — late spring or summer Í before widespread vaccination could be underway in the US.
+Earlier this week, Centers for Disease Control and Prevention director Dr. Robert Redfield told a Senate Appropriations committee hearing that it would likely be the second or third quarter of next year --- late spring or summer Í before widespread vaccination could be underway in the US.
 
 National Institute of Allergy and Infectious Diseases Director Dr. Anthony Fauci has said he agrees with that timeline.
 

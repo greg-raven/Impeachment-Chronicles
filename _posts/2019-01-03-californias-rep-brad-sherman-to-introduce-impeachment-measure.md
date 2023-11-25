@@ -7,7 +7,7 @@ tags:
 
 Rep. Brad Sherman plans to introduce articles of impeachment against President Trump on Thursday, the first day of Democratic control of the House.
 
-Sherman (D-Northridge) is reintroducing a measure that he first rolled out in 2017. But this year it carries more political significance: The decision of whether to act on it rests with Democrats — not Trump's Republican allies.
+Sherman (D-Northridge) is reintroducing a measure that he first rolled out in 2017. But this year it carries more political significance: The decision of whether to act on it rests with Democrats --- not Trump's Republican allies.
 
 Sherman's articles of impeachment accuse Trump of obstructing justice by firing former FBI Director James B. Comey, among other wrongdoing.
 
@@ -19,7 +19,7 @@ Pelosi has tried to tamp down impeachment talk because moderate Democrats have e
 
 But impeachment talk is likely to hang in the backdrop for the next two years in Washington, with some liberal Democrats calling to remove the president from office.
 
-Sherman says he's not worried that introducing the resolution — the first of what could be several articles filed — would box his colleagues into answering a difficult political question.
+Sherman says he's not worried that introducing the resolution --- the first of what could be several articles filed --- would box his colleagues into answering a difficult political question.
 
 "Every member of the House will have to address [the issue] whether there are formal articles of impeachment pending," he said.
 

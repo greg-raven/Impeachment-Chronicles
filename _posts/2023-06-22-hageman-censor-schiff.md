@@ -15,9 +15,9 @@ This privileged resolution isn't about politics, it is about the seriousness of 
 
 This member's lies led to the wasting of millions of taxpayer dollars for unnecessary investigations and the deflection of our attention from the most pressing issues at hand to focus on a made-up crisis.
 
-This member's actions were designed to delegitimize the 2016 election and to hamstring the Trump administration. For all the talk about not accepting at the election results in 2020, perhaps Democrats and the media — which are mostly one in the same — might want to look at their actions in 2016.
+This member's actions were designed to delegitimize the 2016 election and to hamstring the Trump administration. For all the talk about not accepting at the election results in 2020, perhaps Democrats and the media --- which are mostly one in the same --- might want to look at their actions in 2016.
 
-To make matters worse, this representative perpetuated these lies while he was chair of the house Intel committee and consistently implied — if not outright stated — that he had inside information. In that capacity, he lied about:
+To make matters worse, this representative perpetuated these lies while he was chair of the house Intel committee and consistently implied --- if not outright stated --- that he had inside information. In that capacity, he lied about:
 
 - How the FBI and DOJ obtained and renewed a FISA warrant.
 
@@ -35,6 +35,6 @@ And yet, each of these claims has proven to be false.
 
 But the lies have continued. In fact they have become compulsive, and they continue right through to this very day. The lies weaken this body and if left unchecked threaten the rule of law, our election integrity, and the civil rights of his targets.
 
-The words and actions of this member were dangerous and untrue — knowingly untrue. There must be a serious consequence for that. Being censored is the least of what he should be subjected to and I support this resolution.
+The words and actions of this member were dangerous and untrue --- knowingly untrue. There must be a serious consequence for that. Being censored is the least of what he should be subjected to and I support this resolution.
 
 Source: Harriet Hageman, bitchute.com/video/zAxPUyDzI9I/ and youtu.be/LOqa6lK5BBc

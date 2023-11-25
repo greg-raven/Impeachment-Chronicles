@@ -15,6 +15,6 @@ Trump was indicted late last week by a Manhattan grand jury in a case involving 
 
 The U.S. Ninth Circuit Court of Appeals ruling is separate from the Manhattan case.
 
-[…]
+[...]
 
 Source: Martin Walsh, conservativebrief.com/trump-nyc-72208/

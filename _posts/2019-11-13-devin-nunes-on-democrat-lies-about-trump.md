@@ -45,7 +45,7 @@ Despite this hypocrisy, the Democrats are advancing their impeachment sham. But 
 
 These questions will remain outstanding because Republicans were denied the right to call witnesses who know the answers.
 
-What we will witness today is a televised theatrical performance staged by the Democrats. Ambassador Taylor and Mr. Kent — I'd like to welcome you here, and congratulate you for passing the Democrats' Star Chamber auditions held for the last six weeks in the basement of the Capitol. It seems you agreed, wittingly or unwittingly, to participate in a drama. But the main performance — the Russia hoax — has ended, and you've been cast in the low-rent Ukrainian sequel.
+What we will witness today is a televised theatrical performance staged by the Democrats. Ambassador Taylor and Mr. Kent --- I'd like to welcome you here, and congratulate you for passing the Democrats' Star Chamber auditions held for the last six weeks in the basement of the Capitol. It seems you agreed, wittingly or unwittingly, to participate in a drama. But the main performance --- the Russia hoax --- has ended, and you've been cast in the low-rent Ukrainian sequel.
 
 I'll conclude by noting the immense damage the politicized bureaucracy has done to Americans' faith in government. Though executive branch employees are charged with implementing the policy set by our President, who is elected by and responsible to the American people, elements of the civil service have decided that they, not the President, are really in charge.
 

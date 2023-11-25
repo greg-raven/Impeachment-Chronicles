@@ -5,7 +5,7 @@ tags:
 - David A. Graham
 ---
 
-- "There is evidence that … is very much worthy of investigation" of collusion between Trump's campaign and Russia, the Democratic vice chair of the House intelligence committee tells Meet the Press Daily.
+- "There is evidence that ... is very much worthy of investigation" of collusion between Trump's campaign and Russia, the Democratic vice chair of the House intelligence committee tells Meet the Press Daily.
 
 Adam Schiff, the ranking Democrat on the House Intelligence Committee, said on MSNBC Wednesday afternoon that there is evidence that is "not circumstantial" of collusion between the Trump campaign and the Russian government.
 
@@ -21,6 +21,6 @@ Then Schiff went on Meet the Press Daily, where Chuck Todd asked him about state
 
 A surprised Todd asked Schiff to concede that any suggestion of collusion was circumstantial evidence at best.
 
-"Actually, no, Chuck," Schiff said. "I can tell you that the case is more than that. And I can't go into the particulars, but there is more than circumstantial evidence now. … I will say that there is evidence that is not circumstantial, and is very much worthy of investigation."
+"Actually, no, Chuck," Schiff said. "I can tell you that the case is more than that. And I can't go into the particulars, but there is more than circumstantial evidence now. ... I will say that there is evidence that is not circumstantial, and is very much worthy of investigation."
 
 Source: David A. Graham, theatlantic.com/politics/archive/2017/03/schiff-there-is-more-than-circumstantial-evidence-now/520509/

@@ -21,7 +21,7 @@ In a Jan. 11 statement after the resolution was blocked, Pelosi stated: "The Hou
 
 "The House will next take up the Raskin legislation in regular order to call upon the Vice President to activate the 25th Amendment to remove the President. We are further calling on the Vice President to respond within 24 hours after passage."
 
-On Jan. 10, Pelosi said on CBS News' "60 Minutes" that she prefers using the 25th Amendment—which requires Pence and a majority of Cabinet members to initiate—over impeachment.
+On Jan. 10, Pelosi said on CBS News' "60 Minutes" that she prefers using the 25th Amendment---which requires Pence and a majority of Cabinet members to initiate---over impeachment.
 
 On Jan. 11, Rep. Tom Emmer (R-Minn.), the head of the campaign arm for House Republicans, said it would be better if Democrats and Republicans worked to resolve differences before Jan. 20.
 
@@ -35,7 +35,7 @@ Trump told the crowd beforehand that their protest suggests "the kind of pride a
 
 Also on Jan. 11, House Democrats introduced an article of impeachment and charged the president with "incitement of insurrection."
 
-"He also willfully made statements that, in context, encouraged—and foreseeably resulted in—lawless action at the Capitol," the resolution stated, adding that "members of the crowd he had addressed, in an attempt to, among other objectives, interfere with the Joint Session's solemn constitutional duty to certify the results of the 2020 Presidential election, unlawfully breached and vandalized the Capitol, injured and killed law enforcement personnel, menaced Members of Congress, the Vice President, and Congressional personnel, and engaged in other violent, deadly, destructive, and seditious acts."
+"He also willfully made statements that, in context, encouraged---and foreseeably resulted in---lawless action at the Capitol," the resolution stated, adding that "members of the crowd he had addressed, in an attempt to, among other objectives, interfere with the Joint Session's solemn constitutional duty to certify the results of the 2020 Presidential election, unlawfully breached and vandalized the Capitol, injured and killed law enforcement personnel, menaced Members of Congress, the Vice President, and Congressional personnel, and engaged in other violent, deadly, destructive, and seditious acts."
 
 Harvard Law Professor Emeritus Alan Dershowitz said Democrats in the House have virtually no chance of succeeding.
 

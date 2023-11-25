@@ -13,7 +13,7 @@ The group 9/11 Justice released a television ad Tuesday calling it 'disgusting' 
 
 'How much money to turn your back on your own country?' one family member asks in the 30-second spot.
 
-For years, 9/11 family members have taken a stand against Saudi Arabia – where 15 of the 19 September 11, 2001 terror attack hijackers were from.
+For years, 9/11 family members have taken a stand against Saudi Arabia --- where 15 of the 19 September 11, 2001 terror attack hijackers were from.
 
 'You're taking money from an evil regime,' a family member says.
 

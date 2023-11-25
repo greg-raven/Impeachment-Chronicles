@@ -11,13 +11,13 @@ De Niro also compared Trump to the murderous villain in Martin Scorsese's Killer
 
 The actor told reporters that evil still exists in the world, and former president Trump is a manifestation of it.
 
-"We see it today, of course. We all know who I'm going to talk about but I won't say the name — because that guy is stupid. Imagine if you're smart. Even Hale was smart in many ways. It's something that is systemic, and that's the scary part about it."
+"We see it today, of course. We all know who I'm going to talk about but I won't say the name --- because that guy is stupid. Imagine if you're smart. Even Hale was smart in many ways. It's something that is systemic, and that's the scary part about it."
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Robert De Niro rips Donald Trump while discussing &quot;the banality of evil&quot; in &quot;Killers of the Flower Moon&quot;: &quot;We see it today and you know who I'm talking about but I'm not going to say his name. That guy is stupid.&quot; <a href="https://t.co/YeZrO6zkFm">https://t.co/YeZrO6zkFm</a> <a href="https://twitter.com/hashtag/Cannes?src=hash&amp;ref_src=twsrc%5Etfw">#Cannes</a> <a href="https://t.co/AbEFa515ot">pic.twitter.com/AbEFa515ot</a></p>&mdash; Variety (@Variety) <a href="https://twitter.com/Variety/status/1660259516544430080?ref_src=twsrc%5Etfw">May 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Later, he reportedly added: "Look, with Trump, there are people who still think he can do a good job. Imagine how insane that is."
 
-[…]
+[...]
 
 During the Trump administration, Robert De Niro frequently expressed his personal hatred of the president, often using profanity.
 

@@ -17,11 +17,11 @@ Now we know there is more to this story.
 
 This week more evidence came out that Biden was involved with the raid on Mar-a-Lago:
 
-> … new NARA records obtained through America First Legal's investigation into the circumstances surrounding the Mar-a-Lago raid further confirmed that the FBI obtained access to these records through a "special access request" from the Biden White House on behalf of the Department of Justice (DOJ).
+> ... new NARA records obtained through America First Legal's investigation into the circumstances surrounding the Mar-a-Lago raid further confirmed that the FBI obtained access to these records through a "special access request" from the Biden White House on behalf of the Department of Justice (DOJ).
 >
 > It appears that the Biden White House and DOJ coordinated to obtain the Trump records and perhaps create a pretext for the law enforcement raid by way of a "special access request."
 
-[…]
+[...]
 
 Memos released last August also revealed the Biden White House worked directly with the DOJ and National Archives to instigate a criminal investigation into Trump's handling of documents.
 
@@ -35,14 +35,14 @@ At this point Davis makes it clear that President Trump had the right to have do
 
 At the 14 min mark, Davis discusses the Mar-a-Lago situation more in-depth.
 
-> It's very clear – Biden had to waive executive privilege for Trump. He green lighted Garland's unprecedented, unnecessary, unlawful home raid on Trump, his political enemy…
+> It's very clear --- Biden had to waive executive privilege for Trump. He green lighted Garland's unprecedented, unnecessary, unlawful home raid on Trump, his political enemy...
 
 Davis argues that Biden wanted to get back documents showing the Clinton, Obama, and Biden connections to Russian collusion and Garland did the raid to cover up for Biden. **Only Biden could waive Trump's executive privilege.**
 
 Bannon at the 17:00 mark points out that the timelines show The Regime knew about Biden's issues with classified documents being held illegally and this is why they went after President Trump.
 
-> When this comes out there is going to be impeachable crimes by President Biden…he weaponized the Justice Department to go after Trump … **This is impeachable.**
+> When this comes out there is going to be impeachable crimes by President Biden...he weaponized the Justice Department to go after Trump ... **This is impeachable.**
 
-[…]
+[...]
 
 Source: Joe Hoft, thegatewaypundit.com/2023/04/biden-caught-this-is-impeachable-removed-president-trumps-executive-privilege-to-raid-mar-a-lago-in-effort-to-cover-up-his-illegal-possession-of-classified-docs/

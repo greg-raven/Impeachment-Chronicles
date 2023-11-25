@@ -15,6 +15,6 @@ The Biden campaign even hand-picked which reporter would receive the story and t
 
 Mike Morrell still holds a security clearance.
 
-[…]
+[...]
 
 Source: Jim Hoft, thegatewaypundit.com/2023/04/biden-camp-called-mike-morell-after-debate-with-trump-to-thank-him-for-creating-bogus-letter-on-hunter-laptop-signed-by-51-intel-operatives-and-lying-to-american-public/

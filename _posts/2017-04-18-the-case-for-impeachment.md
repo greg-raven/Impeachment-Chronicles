@@ -13,6 +13,6 @@ Lichtman argues in the book that Trump could face impeachment for reasons includ
 
 The *Financial Times* gave *The Case for Impeachment* a positive review, writing: "Lichtman's powerful book is a reminder that we are only at the start of the Trump investigations." *The Washington Post* called it "striking to see the full argument unfold." *New York Journal of Books* recommended it as a resource, "if you are a member of Congress trying to grapple with all that this administration has wrought." *CounterPunch* characterized the work as "a brilliant analysis of every fraudulent act." *The Hill* gave the author praise, writing: "Lichtman has written what may be the most important book of the year." CBC News consulted law scholars who said Lichtman's impeachment prediction was unlikely, especially with a Republican-controlled U.S. House of Representatives.
 
-[…]
+[...]
 
 Source: en.wikipedia.org/wiki/The\_Case\_for\_Impeachment

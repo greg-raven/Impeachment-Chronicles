@@ -29,6 +29,6 @@ Trump denies the charges. In a speech given on the day of the Capitol breach, th
 
 The impeachment managers and Trump's attorneys spent roughly four hours on Tuesday persuading the senators on whether the trial is constitutional. The central argument by the impeachment managers posited that if the Senate was unable to try a former president, then presidents would have a so-called "January exception" to commit impeachable offenses during their last days in office knowing they could not be tried. The defense attorneys called that idea "nonsense."
 
-"If my colleagues on this side of the chamber actually think that President Trump committed a criminal offense … after he's out of office, you go and arrest him. So there is no opportunity where the president of the United States can run rampant in January at the end of his term and just go away scot-free. The Department of Justice does know what to do with such people," Trump attorney Bruce Castor said.
+"If my colleagues on this side of the chamber actually think that President Trump committed a criminal offense ... after he's out of office, you go and arrest him. So there is no opportunity where the president of the United States can run rampant in January at the end of his term and just go away scot-free. The Department of Justice does know what to do with such people," Trump attorney Bruce Castor said.
 
 Source: Ivan Pentchoukov, theepochtimes.com/trial-authorization-vote-signals-that-senate-will-acquit-trump\_3691742.html

@@ -9,7 +9,7 @@ tags:
 
 Boris Johnson and Theresa May ignored claims the Kremlin had a "likely hold" over Donald Trump and may have covertly funded Brexit, the former spy Christopher Steele alleges in secret evidence given to MPs who drew up the Russia report.
 
-In testimony to MPs, the MI6 veteran accused the government led by May and in which Johnson was foreign secretary for two years of turning a blind eye to allegations about Trump because they were afraid of offending the US president.
+In testimony to MPs, the MI6 veteran accused the government led by May and in which Johnson was foreign secretary for two years of turning a blind eye to allegations about Trump because they were afraid of offending the U.S. president.
 
 Steele first presented a dossier about Trump to senior UK intelligence figures in late 2016, who he says took it seriously at first. But, he writes, "on reaching top political decision-makers, a blanket appeared to be thrown over it."
 
@@ -49,7 +49,7 @@ It is expected to say there is no evidence of any successful interference by Rus
 
 In his memo to MPs, Steele also argues that Russia under Putin has become a "powerful rogue state." A lack of pushback from the UK and others has emboldened its bad behaviour, he writes. This trajectory was not inevitable and, he says, has been driven by a "corrupt political elite" fearful of regime change and seeking to protect its "ill-gotten" wealth.
 
-He cites seven "paradigm shift" moments that have surprised and wrong-footed successive western governments. They include the breakup of the oil company Yukos, the poisonings of Litvinenko and Sergei Skripal, and the invasions of Georgia and Ukraine. He also mentions Russian election meddling, in particular during the 2016 US presidential vote. In each case the west's response was limited. Moscow perceives this as "weakness", he writes.
+He cites seven "paradigm shift" moments that have surprised and wrong-footed successive western governments. They include the breakup of the oil company Yukos, the poisonings of Litvinenko and Sergei Skripal, and the invasions of Georgia and Ukraine. He also mentions Russian election meddling, in particular during the 2016 U.S. presidential vote. In each case the west's response was limited. Moscow perceives this as "weakness", he writes.
 
 According to Steele, Putin and his associates have a particular "love-hate" obsession with Britain. Vast amounts of "illegitimate" wealth is hidden in the UK; at the same time London is home to an influential émigré community, which the Kremlin views with suspicion. Putin wanted to embarrass and humiliate the UK in order to "cow" other countries and to further his corrupt and amoral agenda, the ISC was told.
 

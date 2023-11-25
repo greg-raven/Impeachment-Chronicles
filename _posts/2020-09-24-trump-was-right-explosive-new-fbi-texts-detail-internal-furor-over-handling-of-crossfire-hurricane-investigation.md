@@ -17,19 +17,19 @@ Federal Bureau of Investigation (FBI) agents tasked by fired former Director Jam
 
 "[C]an I ask who are the most likely litigators?" an agent responded. "[A]s far as potentially suing y'all[?]"
 
-"[H]aha, who knows … I think [t]he concern when we got it was that there was a big leak at DOJ and the NYT among others was going to do a piece," the first agent said.
+"[H]aha, who knows ... I think [t]he concern when we got it was that there was a big leak at DOJ and the NYT among others was going to do a piece," the first agent said.
 
 While the names of the agents responsible for the texts are redacted, the legal filing from Powell, quoting communications from the Department of Justice (DOJ), states that the latest document production included handwritten notes and texts from Peter Strzok, Andrew McCabe, Lisa Page, and FBI analysts who worked on the FBI's investigation of Flynn.
 
 Agents also said they were worried about how a new attorney general might view the actions taken against Trump during the investigation. Shortly after then-Sen. Jeff Sessions (R-Ala.) was confirmed to be Trump's new attorney general, congressional Democrats, media, and Obama holdovers within DOJ immediately moved to force Sessions to recuse himself from overseeing the department's investigations against Trump.
 
-"[T]he new AG might have some questions … then yada yada yada … we all get screwed," one agent wrote.
+"[T]he new AG might have some questions ... then yada yada yada ... we all get screwed," one agent wrote.
 
 The FBI agents also discussed how the investigation's leadership was consumed with conspiracy theories rather than evidence.
 
 "I'm tellying [sic] man, if this thing ever gets FOIA'd, there are going to be some tough questions asked," one agent wrote. "[A]nd a great deal of those will be related to Brian having a scope way outside the boundaries of logic[.]"
 
-"[REDACTED] is one of the worst offenders of the rabbit holes and conspiracy theories," an agent texted. "This guy traveled with that guy, who put down 3rd guy as his visa sponsor. 3rd guy lives near a navy base, therefore…[.]"
+"[REDACTED] is one of the worst offenders of the rabbit holes and conspiracy theories," an agent texted. "This guy traveled with that guy, who put down 3rd guy as his visa sponsor. 3rd guy lives near a navy base, therefore...[.]"
 
 Several texts show that the order to close the criminal investigation against Flynn came as early as Nov. 8, 2016, the same day as the 2016 presidential election. It was later re-opened in early January of 2017.
 
@@ -43,7 +43,7 @@ The new disclosures made by DOJ also show that the FBI used so-called national s
 
 "What do we expect to get from an NSL[?]" an agent texted on Dec. 5, 2016. "We put out traces, tripwires to community and nothing."
 
-"[B]ingo," another FBI agent responded. "[S]o what's an NSL going to do – no content."
+"[B]ingo," another FBI agent responded. "[S]o what's an NSL going to do --- no content."
 
 "Hahah this is a nightmare," an agent said.
 
@@ -53,7 +53,7 @@ The new disclosures made by DOJ also show that the FBI used so-called national s
 
 The explosive new text messages also show agents believed the investigation was being run by FBI officials who were in the tank for Hillary Clinton.
 
-"[D]oing all this election research – I think some of these guys want a [C]linton presidency," one agent wrote on Aug. 11, shortly after the FBI opened the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation against Trump.
+"[D]oing all this election research --- I think some of these guys want a [C]linton presidency," one agent wrote on Aug. 11, shortly after the FBI opened the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation against Trump.
 
 In one series of texts sent the same day as the infamous Jan. 5 Oval Office meeting between Obama, Biden, Comey, Sally Yates, and Susan Rice, one agent admits that "Trump was right" when he tweeted that the FBI was delaying his briefings as incoming president so they could cook up evidence against him. As The Federalist first reported last May, that Jan. 5 meeting was the key to understanding the entire anti-Trump operation run out of Obama's FBI.
 
@@ -69,11 +69,11 @@ In one series of texts sent the same day as the infamous Jan. 5 Oval Office meet
 
 "Dont know but people here are scrambling for info to support certain things and its a mad house," an FBI agent responded.
 
-"[J]esus," an agent wrote back. "[T]rump was right. [S]till not put together….why do we do this to ourselves. [W]hat is wrong with these people[?]?
+"[J]esus," an agent wrote back. "[T]rump was right. [S]till not put together....why do we do this to ourselves. [W]hat is wrong with these people[?]?
 
 A week later, the FBI agents also wrote that they suspected that the illegal leak of top secret information about Flynn's phone calls with Russian ambassador to the U.S. Sergei Kislyak to the news media came directly from the White House.
 
-"FYI – someone leaked the Flynn calls with Kislyak to the WSJ," the agent wrote.
+"FYI --- someone leaked the Flynn calls with Kislyak to the WSJ," the agent wrote.
 
 "I'm sorry to hear that," another FBI agent responded sarcastically. "I'll resume my duties as Chief Morale Officer and rectify that."
 
@@ -93,6 +93,6 @@ Despite the overwhelming evidence that Flynn did not lie to agents, the FBI had 
 
 Instead, Sullivan personally appointed a left-wing shadow prosecutor, whose partners represent former DOJ official Yates, to smear Flynn and attempt to continue the baseless criminal case against him. At one point last April, Sullivan even tried to order the DOJ to stop producing and publicly filing exculpatory evidence for Flynn or evidence of FBI misbehavior during its investigation of Flynn.
 
-Sullivan, who called Flynn a traitor during court proceedings and suggested that Flynn — a decorated Army combat veteran — be charged with treason, has refused to recuse himself from the case despite his obvious personal animosity toward Flynn.
+Sullivan, who called Flynn a traitor during court proceedings and suggested that Flynn --- a decorated Army combat veteran --- be charged with treason, has refused to recuse himself from the case despite his obvious personal animosity toward Flynn.
 
 Source: Sean Davis and Mollie Hemingway, thefederalist.com/2020/09/24/trump-was-right-explosive-new-fbi-texts-detail-internal-furor-over-handling-of-crossfire-hurricane-investigation/

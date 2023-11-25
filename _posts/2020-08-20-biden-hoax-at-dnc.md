@@ -17,7 +17,7 @@ Biden has used the "very fine people hoax" since the very start of his campaign,
 
 But the "very fine people" hoax remains a lie.
 
-Breitbart News has fact-checked Biden's use of this hoax almost every time he has used it — even confronting him directly at the Iowa State Fair last year:
+Breitbart News has fact-checked Biden's use of this hoax almost every time he has used it --- even confronting him directly at the Iowa State Fair last year:
 
 [video of Joel B. Pollak confronting Joe Biden]
 
@@ -25,13 +25,13 @@ From our coverage at last week's event introducing Sen. Kamala Harris (D-CA) as 
 
 > Here are the facts.
 >
-> President Trump repeatedly condemned the neo-Nazis in Charlottesville in August 2017 — "totally."
+> President Trump repeatedly condemned the neo-Nazis in Charlottesville in August 2017 --- "totally."
 >
 > Moreover, the neo-Nazis were not the only violent group in Charlottesville. The "clash" was not with those "standing against" hate peacefully, but with violent, black-clad Antifa extremists.
 >
 > As to "very fine people," Trump had been referring to peaceful protests both for and against the removal of a statue of Confederate General Robert E. Lee.
 >
-> He completely condemned the extremists — as the timeline and transcript confirm:
+> He completely condemned the extremists --- as the timeline and transcript confirm:
 >
 > - Aug. 12, 2017: Trump condemned violence "on many sides" in Charlottesville, after neo-Nazi and Antifa clashes
 > - Aug. 14, 2017: Trump condemned "neo-Nazis, white supremacists, and other hate groups" in White House statement
@@ -39,9 +39,9 @@ From our coverage at last week's event introducing Sen. Kamala Harris (D-CA) as 
 >
 > ![](/assets/2020-08-20-breitbart.jpg "Trump condemning Nazis in Charlottesville")
 >
-> Biden launched his campaign with the Charlottesville hoax, and persisted in doing so, even after Breitbart News confronted him last August with the fact that he was misquoting the president. His words on that occasion, like his words on Wednesday, repeated his campaign launch speech almost verbatim — a script from which he refuses to depart.
+> Biden launched his campaign with the Charlottesville hoax, and persisted in doing so, even after Breitbart News confronted him last August with the fact that he was misquoting the president. His words on that occasion, like his words on Wednesday, repeated his campaign launch speech almost verbatim --- a script from which he refuses to depart.
 
-Even CNN's Jake Tapper — no fan of Trump — has admitted that Trump did not call neo-Nazis "very fine people."
+Even CNN's Jake Tapper --- no fan of Trump --- has admitted that Trump did not call neo-Nazis "very fine people."
 
 Yet it is the core message of Biden's campaign.
 

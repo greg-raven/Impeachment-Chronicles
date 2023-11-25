@@ -15,6 +15,6 @@ or (b), whether ppl close to and possibly including Trump have had other dealing
 
 If Trump uses the power of his office to shut down investigation into these questions, we have to assume that there's something there 5/
 
-And in that case, how can anyone consider this presidency legitimate? Very, very scary — and could happen within days 6/
+And in that case, how can anyone consider this presidency legitimate? Very, very scary --- and could happen within days 6/
 
 Source: Paul Krugman, twitter.com/paulkrugman/status/924374507858661377

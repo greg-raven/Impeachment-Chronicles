@@ -15,11 +15,11 @@ As John Durham, the U.S. attorney Barr assigned to look into the Spygate 'traves
 
 "And, if people broke the law, and we can establish that with the evidence, they will be prosecuted," he added.
 
-He added: "Without any basis, they started this investigation of his campaign and more concerning actually is what happened after the campaign, the whole pattern of events while he was president … to sabotage the presidency and I think that … or at least had the effect of sabotaging the presidency."
+He added: "Without any basis, they started this investigation of his campaign and more concerning actually is what happened after the campaign, the whole pattern of events while he was president ... to sabotage the presidency and I think that ... or at least had the effect of sabotaging the presidency."
 
 That's powerful stuff. It's not coming from a spokesperson, a partisan lawmaker, or a DoJ underling. It's coming from the head guy who will decide whether prosecutions do or don't happen.
 
-Barr then addressed one of the key aspects of Spygate — the abuses of the Foreign Intelligence Surveillance Act (FISA) court, the secretive legal body responsible for issuing (or not) warrants allowing various intel agencies to spy on people, including American citizens.
+Barr then addressed one of the key aspects of Spygate --- the abuses of the Foreign Intelligence Surveillance Act (FISA) court, the secretive legal body responsible for issuing (or not) warrants allowing various intel agencies to spy on people, including American citizens.
 
 To spy on a citizen, the requesting intelligence agency is required to provide rock-solid and sourced evidence for its suspicion that the target is acting as an emissary for a foreign government. This is where that bogus "Russia dossier" really comes into play.
 
@@ -27,11 +27,11 @@ The essence of the relationship between U.S. intelligence agencies, which includ
 
 The people pulled off Spygate knew that and actually used this to their advantage.
 
-The dossier — the 'key piece of evidence' — was concocted by a known FBI source and foreign intelligence asset, former MI6 operative Christopher Steele, and was presented to the court as 'the evidence' the Trump campaign was 'colluding' with Russia.
+The dossier --- the 'key piece of evidence' --- was concocted by a known FBI source and foreign intelligence asset, former MI6 operative Christopher Steele, and was presented to the court as 'the evidence' the Trump campaign was 'colluding' with Russia.
 
 But the 'evidence' contained in the dossier was a fabrication. And James Comey's FBI knew it. And so did President Obama.
 
-And yet, the 'investigation' went on even after Trump became president — for no reason, other than to try and trip him up, undermine him, and eventually drive him from office.
+And yet, the 'investigation' went on even after Trump became president --- for no reason, other than to try and trip him up, undermine him, and eventually drive him from office.
 
 It's apparent from his comments that William Barr is well aware this is what happened. He just fired a volley of warning shots across the bow of several Spygate notables, which would help explain why he chose not to prosecute them earlier for lesser crimes.
 

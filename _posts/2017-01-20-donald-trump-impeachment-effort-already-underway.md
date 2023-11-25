@@ -21,7 +21,7 @@ Experts have even warned that Mr. Trump would be in breach of the U.S. Constitut
 
 "If we were wait for all the ill effects that could come from this, too much damage to our democracy would occur," Ron Fein, legal director at Free Speech for People, told The Washington Post.
 
-"It will undermine faith in basic institutions. If nothing else, it's important for Americans to trust that the president is doing what he thinks is the right thing … not that it would help jump-start a stalled casino project in another country."
+"It will undermine faith in basic institutions. If nothing else, it's important for Americans to trust that the president is doing what he thinks is the right thing ... not that it would help jump-start a stalled casino project in another country."
 
 The head of the previous administration's office of government ethics, Walter Shaub, said Mr. Trump did not consult with his office to conduct his business plan, and described it as "meaningless".
 

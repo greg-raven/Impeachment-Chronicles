@@ -13,7 +13,7 @@ Those of us who have speculated there was insufficient cause for beginning the i
 
 Keep in mind the FBI cannot begin to investigate anyone, especially a U.S. citizen or entity, without first creating a document that lists the reasonably suspicious factors that would legally justify the investigation. That's FBI 101, taught Day 1 at the FBI Academy at Quantico, Va.
 
-To the untrained eye, the FBI document that launched [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) can be confusing, and it may be difficult to discern how it might be inadequate. To the trained eye, however, it is a train wreck. There are a number of reasons why it is so bad. Two main ones are offered below ([…]):
+To the untrained eye, the FBI document that launched [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) can be confusing, and it may be difficult to discern how it might be inadequate. To the trained eye, however, it is a train wreck. There are a number of reasons why it is so bad. Two main ones are offered below ([...]):
 
 First, the document is oddly constructed. In a normal, legitimate FBI Electronic Communication, or EC, there would be a "To" and a "From" line. The [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) EC has only a "From" line; it is from a part of the FBI's Counterintelligence Division whose contact is listed as Peter Strzok. The EC was drafted also by Peter Strzok. And, finally, it was approved by Peter Strzok. Essentially, it is a document created by Peter Strzok, approved by Peter Strzok, and sent from Peter Strzok to Peter Strzok.
 
@@ -23,7 +23,7 @@ In addition, several names are listed in a "cc" or copy line; all are redacted, 
 
 Names on an FBI document are always listed in cascading fashion, with the most senior at the top and on down to the least senior. On this EC, Strzok is listed last, so the redacted names should be more senior to him. Those names could well include then-FBI Director James Comey, then-Deputy Director Andrew McCabe and then-Counterintelligence Assistant Director Bill Priestap. The document also establishes these redacted names as "case participants."
 
-Second, the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) case was opened as a Foreign Agent Registration Act (FARA) investigation. A FARA investigation involves a criminal violation of law — in this case, a negligent or intentional failure to register with the U.S. government after being engaged by a foreign country to perform services on its behalf — that is punishable by fines and imprisonment. It is rarely investigated.
+Second, the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) case was opened as a Foreign Agent Registration Act (FARA) investigation. A FARA investigation involves a criminal violation of law --- in this case, a negligent or intentional failure to register with the U.S. government after being engaged by a foreign country to perform services on its behalf --- that is punishable by fines and imprisonment. It is rarely investigated.
 
 In a normal EC opening a FARA case, we should expect to see a list of reasons why the FBI believes individuals associated with a U.S. presidential campaign had been engaged by the Russian government to represent and advocate that government's goals.
 
@@ -33,7 +33,7 @@ The Strzok EC quotes verbatim an email authored by Downer. In it, Downer claims 
 
 Strzok apparently took this nebulous reporting by Downer and then leapt to the dubious conclusion that Papadopoulos and unnamed others were engaged by the Russians to act as foreign agents on Russia's behalf. This, despite Downer also offering two exculpatory statements in the same email: 1) It was "unclear" how the Trump campaign might have reacted to the Russian claims and 2) the Russians likely were going to do what they were going to do with the information whether anyone in the Trump campaign cooperated with them or not.
 
-Strzok then concludes the EC by moving the goalposts. He writes that [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) is being opened to determine if unspecified "individual(s)" associated with the Trump campaign are "witting of and/or coordinating activities" — also unspecified — "with the Government of Russia." He doesn't even mention Papadopoulos.
+Strzok then concludes the EC by moving the goalposts. He writes that [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) is being opened to determine if unspecified "individual(s)" associated with the Trump campaign are "witting of and/or coordinating activities" --- also unspecified --- "with the Government of Russia." He doesn't even mention Papadopoulos.
 
 Ultimately, there was no attempt by Strzok to articulate any factors that address the elements of FARA. He couldn't, because there are none. Instead, there was a weak attempt to allege some kind of cooperation with Russians by unknown individuals affiliated with the Trump campaign, again, with no supporting facts listed.
 

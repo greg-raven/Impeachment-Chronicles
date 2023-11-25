@@ -16,7 +16,7 @@ Boehner's view chimes with that of Steve Bannon, a key propagator of the theory 
 
 Trump, senior aide Stephen Miller and others have repeatedly blamed the Deep State for their problems. Bannon has said the theory is "for nut cases" and "none of this is true".
 
-Boehner was a congressman from Ohio for 24 years, a figure in the Washington firmament, House speaker from 2011 until his retirement in 2015 – a period he spent in fierce opposition to Barack Obama.
+Boehner was a congressman from Ohio for 24 years, a figure in the Washington firmament, House speaker from 2011 until his retirement in 2015 --- a period he spent in fierce opposition to Barack Obama.
 
 His memoir will be published next week. The Guardian obtained a copy.
 
@@ -36,12 +36,12 @@ Boehner examines the wellsprings of the theory, writing: "The Deep State as a bo
 
 Boehner says there is indeed "an entrenched bureaucracy that likes to protect the status quo". But he says posturing against it took a "nastier turn" under Trump.
 
-Even before the former president took up the lie about electoral fraud in his defeat by Joe Biden which was repeatedly thrown out of court but still sent supporters to storm the US Capitol, he claimed the Deep State posed "a threat to democracy itself".
+Even before the former president took up the lie about electoral fraud in his defeat by Joe Biden which was repeatedly thrown out of court but still sent supporters to storm the U.S. Capitol, he claimed the Deep State posed "a threat to democracy itself".
 
-Boehner calls such talk "very destructive – not to mention delusional", and defends the work of most bureaucrats and also lobbyists.
+Boehner calls such talk "very destructive --- not to mention delusional," and defends the work of most bureaucrats and also lobbyists.
 
 "Playing hardball or 'creative disruption' or whatever you want to call it can and does work sometimes," he writes. "Knee-jerk defenders of President Trump would often say that's what he was up to whenever there was some new pronouncement of action that didn't make sense.
 
-"Well, they may have been right in some cases … but having to constantly point to the Deep State as this boogeyman responsible for all these problems just seems … weird."
+"Well, they may have been right in some cases ... but having to constantly point to the Deep State as this boogeyman responsible for all these problems just seems ... weird."
 
 Source: Martin Pengelly, theguardian.com/us-news/2021/apr/06/john-boehner-book-trump-obsession-deep-state-conspiracy

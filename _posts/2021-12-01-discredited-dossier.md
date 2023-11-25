@@ -7,9 +7,9 @@ tags:
 
 - Donald J. Trump and his backers say revelations about the Steele dossier show the Russia investigation was a "hoax." That is not what the facts indicate.
 
-WASHINGTON — Former President Donald J. Trump and his allies have stepped up an effort to conflate the so-called [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) with the Russia investigation following the indictment of a researcher for the document on charges that he lied to the F.B.I. about some of its sources.
+WASHINGTON --- Former President Donald J. Trump and his allies have stepped up an effort to conflate the so-called [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) with the Russia investigation following the indictment of a researcher for the document on charges that he lied to the F.B.I. about some of its sources.
 
-Mr. Trump and his supporters have long sought to use the flaws of the dossier to discredit the investigation into Russian interference in the 2016 presidential election — and the nature of numerous links between Russia and the Trump campaign — as a "hoax."
+Mr. Trump and his supporters have long sought to use the flaws of the dossier to discredit the investigation into Russian interference in the 2016 presidential election --- and the nature of numerous links between Russia and the Trump campaign --- as a "hoax."
 
 But the available evidence indicates that the dossier was largely tangential to the Russia investigation. Here is a look at the facts.
 
@@ -31,19 +31,19 @@ The F.B.I. launched the investigation in July 2016, and a special counsel, Rober
 
 No. It has become clear over time that its sourcing was thin and sketchy.
 
-No corroborating evidence has emerged in intervening years to support many of the specific claims in the dossier, and government investigators determined that one key allegation — that Mr. Trump's lawyer, Michael Cohen, had met with Russian officials in Prague during the campaign — was false.
+No corroborating evidence has emerged in intervening years to support many of the specific claims in the dossier, and government investigators determined that one key allegation --- that Mr. Trump's lawyer, Michael Cohen, had met with Russian officials in Prague during the campaign --- was false.
 
 When the F.B.I. interviewed Mr. Danchenko in 2017, he told the bureau that he thought the tenor of the dossier was more conclusive than was justified; for example, Mr. Danchenko portrayed the blackmail tape story as rumors and speculation that he was not able to confirm. He also said a key source had called him without identifying himself, and that he had guessed at the source's identity. The indictment accuses Mr. Danchenko of lying about that call and of concealing that a Democratic Party-linked public relations executive was his source for a claim about Trump campaign office politics.
 
-[…]
+[...]
 
 **Did the F.B.I. take any investigative step based on the dossier?**
 
-Yes. The F.B.I. took the dossier seriously based on Mr. Steele's reputation, and used some of it — without independent verification — for a narrow purpose that led to a dead end and became a political debacle. It included several claims from Mr. Steele's memos in applications to wiretap Carter A. Page, a former Trump campaign foreign policy adviser with ties to Russia. In 2019, the Justice Department's inspector general sharply criticized the F.B.I. for numerous flaws in those wiretap applications.
+Yes. The F.B.I. took the dossier seriously based on Mr. Steele's reputation, and used some of it --- without independent verification --- for a narrow purpose that led to a dead end and became a political debacle. It included several claims from Mr. Steele's memos in applications to wiretap Carter A. Page, a former Trump campaign foreign policy adviser with ties to Russia. In 2019, the Justice Department's inspector general sharply criticized the F.B.I. for numerous flaws in those wiretap applications.
 
 While the dossier-tainted wiretap of Mr. Page has received significant attention, it was a small part of the overall investigation, which issued more than 2,800 subpoenas, executed nearly 500 search-and-seizure warrants, obtained more than 230 orders for communications records, made 13 requests to foreign governments under mutual legal assistance treaties, and interviewed about 500 witnesses. Mr. Page was not charged with a crime, and only a handful of the 448 pages in the Mueller report focus on him.
 
-[…]
+[...]
 
 **What was the main impact of the dossier?**
 

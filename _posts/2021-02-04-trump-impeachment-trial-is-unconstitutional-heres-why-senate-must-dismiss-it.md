@@ -1,5 +1,5 @@
 ---
-title: "Trump impeachment trial is unconstitutional – here's why Senate must dismiss it"
+title: "Trump impeachment trial is unconstitutional --- here's why Senate must dismiss it"
 layout: post
 tags:
 - Jason Miller
@@ -13,9 +13,9 @@ Attorneys David Schoen and Bruce Castor Jr., two highly respected legal minds, a
 
 Additionally, the lawyers show a lack of causation between the law-breaking rioters who stormed the U.S. Capitol Building on January 6th, and the speech made by President Trump before a peaceful crowd in front of the White House that same day.
 
-"The constitutional provision requires that a person actually hold office to be impeached," Schoen and Castor assert. "Since the 45th President is no longer 'president,' the clause, 'shall be removed from Office on Impeachment for …' is impossible for the Senate to accomplish' and thus the current proceeding before the Senate is void."
+"The constitutional provision requires that a person actually hold office to be impeached," Schoen and Castor assert. "Since the 45th President is no longer 'president,' the clause, 'shall be removed from Office on Impeachment for ...' is impossible for the Senate to accomplish' and thus the current proceeding before the Senate is void."
 
-The argument is that because removal from office by the Senate of a U.S. president is a condition precedent which must occur before, and jointly with, "disqualification" to hold future office, the fact that the Senate is currently unable to remove from office the 45th President, whose term has ended, means that there is no issue — by definition — to bring before the Senate.
+The argument is that because removal from office by the Senate of a U.S. president is a condition precedent which must occur before, and jointly with, "disqualification" to hold future office, the fact that the Senate is currently unable to remove from office the 45th President, whose term has ended, means that there is no issue --- by definition --- to bring before the Senate.
 
 Even if the Senate does not dismiss the impeachment brought before them by House Democrats, they must acquit President Trump because the overwhelming evidence shows that President Trump absolutely did not incite an insurrection on January 6th, 2021 as Schoen and Castor explain in the filing.
 

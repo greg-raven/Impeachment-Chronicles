@@ -23,7 +23,7 @@ Using leaked information and testimony from various former governmental official
 
 The Saturday *New York Times* article appeared on page one, above the fold, with the almost laughable headline "FBI Investigated if Trump Worked for the Russians." The online version of the story was headlined "FBI Opened Inquiry Into Whether Trump Was Secretly Working on Behalf of Russia." Nine paragraphs into the story, the reporters admit that there is and was literally "no evidence" to support the idea Trump worked for Russia.
 
-The top of the article, however, immediately presented the FBI-friendly interpretation of the agency's motivations as fact — without evidence and despite strong evidence to the contrary — saying the FBI began its investigation because they were "so concerned by the president's behavior" rather than saying it was because they were "so concerned he'd continue to expose their behavior" or "so concerned he'd hold them accountable for their political investigations."
+The top of the article, however, immediately presented the FBI-friendly interpretation of the agency's motivations as fact --- without evidence and despite strong evidence to the contrary --- saying the FBI began its investigation because they were "so concerned by the president's behavior" rather than saying it was because they were "so concerned he'd continue to expose their behavior" or "so concerned he'd hold them accountable for their political investigations."
 
 The article accepts FBI spin that arguing for better relations with the nuclear-armed Russia "constituted a possible threat to national security" that could only be explained if Trump was "knowingly working for Russia or had unwittingly fallen under Moscow's influence." Because FBI officials personally opposed Trump's foreign policy, and that of the tens of millions of Americans who voted for him, the FBI was "suspicious" of him, we're told. The reporters admit the reckless decision by FBI officials was "an aggressive move" that disturbs many former law enforcement officials.
 
@@ -41,7 +41,7 @@ The FBI argues, without evidence, that the president needed to be investigated a
 
 It's good that they didn't, because Article II of the U.S. Constitution gives the authority to determine foreign policy to the president, not the director or acting director of the FBI. Harvard law professor and former Comey deputy Jack Goldsmith expands on this:
 
-> One danger in the what the FBI apparently did is that it implies that the unelected domestic intelligence bureaucracy holds itself as the ultimate arbiter — over and above the elected president who is the constitutional face of U.S. intelligence and national security authority — about what actions do and don't serve the national security interests of the United States.
+> One danger in the what the FBI apparently did is that it implies that the unelected domestic intelligence bureaucracy holds itself as the ultimate arbiter --- over and above the elected president who is the constitutional face of U.S. intelligence and national security authority --- about what actions do and don't serve the national security interests of the United States.
 
 **Criminalizing Lawful Hiring And Firing Decisions**
 
@@ -51,19 +51,19 @@ The FBI ultimately decided to act when Trump told the truth and revealed some of
 
 Rosenstein, it's worth remembering, wrote the memo explaining why Comey was so bad at his job, a view that was completely confirmed by the inspector general's report on the Clinton email probe. When Trump fired Comey, in part for his incompetent handling of political investigations such as those mentioned in Rosenstein's memo, Rosenstein used that as the predicate to launch what became the special counsel investigation against Trump.
 
-In any case, Trump told Rosenstein to tell the truth even if he wanted to keep it hidden. Rosenstein refused, irritating Trump, according to *The New York Times.* Trump told the truth to the American public — which Comey was later forced to admit under oath — that Comey had told him three times he was not under investigation.
+In any case, Trump told Rosenstein to tell the truth even if he wanted to keep it hidden. Rosenstein refused, irritating Trump, according to *The New York Times.* Trump told the truth to the American public --- which Comey was later forced to admit under oath --- that Comey had told him three times he was not under investigation.
 
-According to *The New York Times,* by not going along with the FBI's game — privately admitting to Trump that he wasn't under investigation while publicly suggesting otherwise or leaking numerous snippets of information, selectively curated and framed to suggest he was — the FBI grew concerned that he was a Russian agent. Readers would be forgiven for thinking that makes no sense whatsoever and that it's more plausible they were concerned their behavior against Trump would be exposed.
+According to *The New York Times,* by not going along with the FBI's game --- privately admitting to Trump that he wasn't under investigation while publicly suggesting otherwise or leaking numerous snippets of information, selectively curated and framed to suggest he was --- the FBI grew concerned that he was a Russian agent. Readers would be forgiven for thinking that makes no sense whatsoever and that it's more plausible they were concerned their behavior against Trump would be exposed.
 
 Their other justification for targeting their political foe was that Trump publicly flat-out said he didn't like the game Comey was playing with the Russia investigation. They decided, we're told, to interpret, or pretend to interpret, this as obstruction.
 
-> 'I was going to fire Comey knowing there was no good time to do it,' he said. 'And in fact, when I decided to just do it, I said to myself — I said, you know, this Russia thing with Trump and Russia is a made-up story. It's an excuse by the Democrats for having lost an election that they should've won.'
+> 'I was going to fire Comey knowing there was no good time to do it,' he said. 'And in fact, when I decided to just do it, I said to myself --- I said, you know, this Russia thing with Trump and Russia is a made-up story. It's an excuse by the Democrats for having lost an election that they should've won.'
 >
 > Mr. Trump's aides have said that a fuller examination of his comments demonstrates that he did not fire Mr. Comey to end the Russia inquiry. 'I might even lengthen out the investigation, but I have to do the right thing for the American people,' Mr. Trump added. 'He's the wrong man for that position.'
 
 Angered by Trump's critique of Comey's double-dealing regarding the Russia probe, the FBI retaliated with an investigation.
 
-While it's not mentioned in the article, hours after Comey was fired, top FBI officials and paramours Lisa Page and Peter Strzok texted about the need to open a "case" against Trump they'd already been discussing in a "formal, chargeable way" and that it had to be done "while Andy is acting." The texts also mention "Bill" — believed to be FBI counterintelligence head Bill Priestap — being in on the plot.
+While it's not mentioned in the article, hours after Comey was fired, top FBI officials and paramours Lisa Page and Peter Strzok texted about the need to open a "case" against Trump they'd already been discussing in a "formal, chargeable way" and that it had to be done "while Andy is acting." The texts also mention "Bill" --- believed to be FBI counterintelligence head Bill Priestap --- being in on the plot.
 
 "Andy" is then-deputy director Andrew McCabe, who took over the bureau until Christopher Wray was confirmed as director in August 2017. McCabe was later fired for repeatedly lying under oath about just one of many of his rampant leaks to friendly reporters and is reportedly under criminal investigation by a federal grand jury. Strzok was also fired for his behavior, Page resigned, and Priestap announced his retirement last month. It is unclear which officials in the Department of Justice authorized the unconstitutional investigation into the president as a national security threat because he didn't share their foreign policy views.
 
@@ -73,6 +73,6 @@ Government officials leaked the fact of that briefing to CNN almost immediately,
 
 In sum, the framing of this *New York Times* article is either poorly conceived or outright disingenuous at every turn. Using the completely lawful and constitutional firing of the bumbling Comey as pretext for opening a criminal investigation into the president is a grand abuse of power by the FBI. Attempting to overtake the authority to determine U.S. foreign policy from the lawfully determined president of the United States is a violation of the U.S. Constitution.
 
-For one of the nation's largest newspapers to suggest that this makes the president — and not the FBI — look bad actually validates two of Trump's biggest complaints: the media are hopelessly biased, and there really is a "deep state" out to to overturn the 2016 election.
+For one of the nation's largest newspapers to suggest that this makes the president --- and not the FBI --- look bad actually validates two of Trump's biggest complaints: the media are hopelessly biased, and there really is a "deep state" out to to overturn the 2016 election.
 
 Source: Mollie Hemingway, thefederalist.com/2019/01/14/nyt-reveals-fbi-retaliated-against-trump-for-comey-firing/

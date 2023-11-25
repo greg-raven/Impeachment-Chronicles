@@ -7,7 +7,7 @@ tags:
 
 The new leader of Democrats in the Senate says Donald Trump is being "really dumb" for picking a fight with intelligence officials, suggesting they have ways to strike back, after the president-elect speculated Tuesday that his "so-called" briefing about Russian cyberattacks had been delayed in order to build a case.
 
-"Let me tell you: You take on the intelligence community — they have six ways from Sunday at getting back at you," said Senate Minority Leader Chuck Schumer Tuesday evening on MSNBC after host Rachel Maddow informed him that intelligence sources told NBC news that the briefing had not been delayed.
+"Let me tell you: You take on the intelligence community --- they have six ways from Sunday at getting back at you," said Senate Minority Leader Chuck Schumer Tuesday evening on MSNBC after host Rachel Maddow informed him that intelligence sources told NBC news that the briefing had not been delayed.
 
 "So, even for a practical supposedly hard-nosed businessman, he's being really dumb to do this," he added.
 

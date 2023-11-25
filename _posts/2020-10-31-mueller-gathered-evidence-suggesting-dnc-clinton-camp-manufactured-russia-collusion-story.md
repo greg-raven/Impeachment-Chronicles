@@ -9,9 +9,9 @@ tags:
 
 Special Counsel Robert Mueller's office gathered evidence suggesting that Hillary Clinton's campaign and the Democratic National Committee launched a political "smear job" in spring 2016 tying Donald Trump to Russia collusion through the lobbying work of his campaign chairman Paul Manafort in Ukraine, according to memos that were excluded from the prosecutor's final report.
 
-The evidence, reviewed by Just the News, includes information obtained by State Department officials from a trusted Ukrainian source, a private investigator's report, and an email exchange suggesting Tony Podesta — a Manafort business associate and brother of Clinton campaign chairman John Podesta — tried at one point to slow down the opposition research project.
+The evidence, reviewed by Just the News, includes information obtained by State Department officials from a trusted Ukrainian source, a private investigator's report, and an email exchange suggesting Tony Podesta --- a Manafort business associate and brother of Clinton campaign chairman John Podesta --- tried at one point to slow down the opposition research project.
 
-The evidence — which is additional to records showing the law firm for the Clinton campaign and the DNC funded the infamous "Steele dossier" given to the FBI — was never mentioned in last year's vast, two-volume [Mueller Report]({% post_url 2019-03-22-mueller-report %}), which concluded that no Americans colluded with Russia to influence the 2016 election.
+The evidence --- which is additional to records showing the law firm for the Clinton campaign and the DNC funded the infamous "Steele dossier" given to the FBI --- was never mentioned in last year's vast, two-volume [Mueller Report]({% post_url 2019-03-22-mueller-report %}), which concluded that no Americans colluded with Russia to influence the 2016 election.
 
 The newly surfaced evidence bolsters separate intelligence reporting that Director of National Intelligence John Ratcliffe made public recently showing the Obama CIA also believed Clinton's campaign had launched a political dirty trick to "vilify" Trump on Russia in an effort to distract from her own controversies.
 
@@ -27,9 +27,9 @@ Though on opposite sides of the political spectrum, Tony Podesta, Manafort and G
 
 "Last Friday APAC had a meeting at DNC organized by their ethnic outreach office, presenting Democratic Party strategies for presidential elections," Gates emailed Tony Podesta on May 17, 2016. "One of the subjects was a smear campaign against Paul Manafort, which will be launched in a couple of days. The head of the ethnic outreach is of Ukrainian descent and has connections in Ukraine.
 
-"She was able to produce documents linking Manafort to Moscow during his time as adviser to Victor Yanukowych (cq), ousted former Ukrainian president. They will try to link Donald Trump to Putin through Manafort's engagement and money trail of over [a] billion dollars. This was a formal presentation on the part of DNC — I am trying to obtain an audio tape from the meeting. I just wanted to share this with you to make you aware before they start."
+"She was able to produce documents linking Manafort to Moscow during his time as adviser to Victor Yanukowych (cq), ousted former Ukrainian president. They will try to link Donald Trump to Putin through Manafort's engagement and money trail of over [a] billion dollars. This was a formal presentation on the part of DNC --- I am trying to obtain an audio tape from the meeting. I just wanted to share this with you to make you aware before they start."
 
-Tony Podesta responded by asking what APAC was and Gates wrote back: "You will love this one … the American Polish Advisory Council."
+Tony Podesta responded by asking what APAC was and Gates wrote back: "You will love this one ... the American Polish Advisory Council."
 
 A few days later, Podesta reported back to Gates in a May 23, 2016 email: "Think I slowed this down."
 
@@ -71,7 +71,7 @@ Mueller's investigation also obtained from Gates' computers a private investigat
 
 "The DNC predictably is trying to distance itself from Chalupa, noting that it paid her to do outreach for its political department, not for her research," the 2017 report concluded. "But there is no question that she was paid by the DNC throughout the election cycle and that the research she provided informed and shaped Clinton campaign strategy."
 
-Separately, in August 2016, a State Department official named Eric Schultz received from Konstantin Kilimnik — a trusted, longtime source in Kiev — similar intelligence about a Clinton campaign in Ukraine to tie Trump to Russia through Manafort.
+Separately, in August 2016, a State Department official named Eric Schultz received from Konstantin Kilimnik --- a trusted, longtime source in Kiev --- similar intelligence about a Clinton campaign in Ukraine to tie Trump to Russia through Manafort.
 
 "First, it is definitely HRC and her HQ who launched this shitstorm trying to use construction of "Putin = very bad, Putin = Manafort, Manafort = Trump, therefore Trump = Putin = very bad," Kilimnik emailed Schultz on Aug. 22, 2016 (around the time the stories that would force Manafort to resign as Trump campaign chairman started emerging).
 

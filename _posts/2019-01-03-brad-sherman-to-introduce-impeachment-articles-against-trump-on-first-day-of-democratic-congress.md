@@ -19,7 +19,7 @@ Sherman first introduced the articles back in 2017. But they carry more signific
 
 "There is no reason it shouldn't be before the Congress," Sherman said. "Every day, Donald Trump shows that leaving the White House would be good for our country."
 
-The move comes as a thorn in the side for House Democratic leadership, which has swatted away impeachment chatter for now. Incoming Speaker Nancy Pelosi and others have said they want to wait for special counsel Robert S. Mueller III to issue a final report from his Russia probe before moving to impeach Trump — if they even do.
+The move comes as a thorn in the side for House Democratic leadership, which has swatted away impeachment chatter for now. Incoming Speaker Nancy Pelosi and others have said they want to wait for special counsel Robert S. Mueller III to issue a final report from his Russia probe before moving to impeach Trump --- if they even do.
 
 One thing is for certain, Pelosi said in an interview on NBC's "Today" on Thursday: Politics will not play a role in whether Democrats decide to impeach the president.
 

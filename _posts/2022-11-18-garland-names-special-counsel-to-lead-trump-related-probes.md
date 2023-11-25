@@ -10,7 +10,7 @@ tags:
 - Nomaan Merchant
 ---
 
-WASHINGTON (AP) — Attorney General Merrick Garland named a special counsel on Friday to oversee the Justice Department's investigation into the presence of classified documents at former President Donald Trump's Florida estate as well as key aspects of a separate probe involving the Jan. 6, 2021, insurrection and efforts to undo the 2020 election.
+WASHINGTON (AP) --- Attorney General Merrick Garland named a special counsel on Friday to oversee the Justice Department's investigation into the presence of classified documents at former President Donald Trump's Florida estate as well as key aspects of a separate probe involving the Jan. 6, 2021, insurrection and efforts to undo the 2020 election.
 
 The appointment of veteran prosecutor Jack Smith, announced just three days after Trump formally launched his 2024 candidacy, is a recognition of the unmistakable political implications of two investigations that involve not only a former president but also a current White House hopeful. It installs a new chain of command over sensitive probes seen as likely to accelerate now that the midterm elections have concluded, with Garland citing Trump's entry into the race and President Joe Biden's stated intention to run again as reasons for Smith's sudden appointment.
 
@@ -56,7 +56,7 @@ Smith grew up in upstate New York and graduated from Harvard Law School. He told
 
 He had returned to the Justice Department at the time to oversee the department's then-troubled public integrity section, which was battered publicly for failing to turn over exculpatory evidence in the criminal trial of former Alaska Sen. Ted Stevens, a Republican. Supporters lauded him as apolitical and hardworking.
 
-During his tenure, his unit brought a series of high-profile cases against elected officials from both political parties. Not all were successful, and not all investigations resulted in criminal charges — a powerful lesson, Smith told the AP.
+During his tenure, his unit brought a series of high-profile cases against elected officials from both political parties. Not all were successful, and not all investigations resulted in criminal charges --- a powerful lesson, Smith told the AP.
 
 When there isn't sufficient evidence to bring a case, "you have to be able to admit that if it's not there, it's not there," Smith said. "I think that's hard for people to do, and having been a prosecutor for 15 years that is something I can do."
 

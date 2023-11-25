@@ -9,15 +9,15 @@ We need to talk about a forbidden subject: the legitimacy of the current preside
 
 There's been a code of silence around President Donald Trump's shady victory in 2016. It's one of those tiptoe-around-it things that the American family just doesn't talk about. And with good reason. Whatever your politics, it's perilous to question the soundness of an American election.
 
-Raising the question of Trump's legitimacy risks detonating a full-blown crisis of faith — kindling distrust not just in Trump, but also in the system that installed him.
+Raising the question of Trump's legitimacy risks detonating a full-blown crisis of faith --- kindling distrust not just in Trump, but also in the system that installed him.
 
 But fear of facing the legitimacy question has not stopped Americans from harboring profound doubts, if only "deep down in places you don't talk about at parties," in Aaron Sorkin's phrasing from "A Few Good Men."
 
-As more and more facts about Trump's incongruous victory emerge, the doubts gnaw harder — and grow harder to ignore.
+As more and more facts about Trump's incongruous victory emerge, the doubts gnaw harder --- and grow harder to ignore.
 
 A nation devoted to majority rule has a minority president. Who squeaked into office on an electoral college technicality. Against most data projections. Using dark money. Using voter suppression. Using Russian disinformation.
 
-As more and more facts about Trump's incongruous victory emerges, the doubts gnaw harder — and grow harder to ignore.
+As more and more facts about Trump's incongruous victory emerges, the doubts gnaw harder --- and grow harder to ignore.
 
 And, most chilling of all, with a massive assist from the Russian military, which not only hacked the Democrats, but also hacked voting software and a voting-system manufacturer.
 
@@ -51,7 +51,7 @@ He's also shouted into the wind that, against all evidence, the Russia investiga
 
 Aw. Hasn't Trump suffered enough?
 
-No. It's the American people — of every stripe — who have suffered, seeing our democracy in such devastating disarray. And the remedy for that suffering is not to suck it up, pretend everything's fine, and let criminals hold on to ill-gotten power and money.
+No. It's the American people --- of every stripe --- who have suffered, seeing our democracy in such devastating disarray. And the remedy for that suffering is not to suck it up, pretend everything's fine, and let criminals hold on to ill-gotten power and money.
 
 The remedy is to keep speaking up, work for electoral reform to restore free and fair elections, and of course let justice run its course in the form of the investigations into Russian interference and Trumpland complicity.
 

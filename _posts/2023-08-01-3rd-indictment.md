@@ -7,7 +7,7 @@ tags:
 
 - Here's where all the investigations stand
 
-WASHINGTON (AP) — Donald Trump has now been indicted for the third time, with the former president being charged Tuesday in Washington over his efforts to overturn his defeat in the 2020 election.
+WASHINGTON (AP) --- Donald Trump has now been indicted for the third time, with the former president being charged Tuesday in Washington over his efforts to overturn his defeat in the 2020 election.
 
 The federal investigation is the latest criminal case for Trump as he runs for the White House in 2024.
 
@@ -21,7 +21,7 @@ Here's a look at some of the other top probes against the former president:
 
 Trump has been charged by Smith in a federal case in Florida related to the mishandling of classified documents, including sensitive documents on nuclear capabilities. The 40 felony counts against him include charges of retaining classified information, obstructing justice and making false statements.
 
-That historic indictment — the first federal case against a former president — alleges that Trump repeatedly enlisted aides and lawyers to help him hide records demanded by investigators and cavalierly showed off a Pentagon "plan of attack" and classified map.
+That historic indictment --- the first federal case against a former president --- alleges that Trump repeatedly enlisted aides and lawyers to help him hide records demanded by investigators and cavalierly showed off a Pentagon "plan of attack" and classified map.
 
 The top charges carry a penalty of up to 20 years in prison.
 
@@ -29,7 +29,7 @@ Walt Nauta, a valet for Trump, and Carlos De Oliveira, the property manager at T
 
 Both Trump and Nauta have pleaded not guilty. De Oliveira, who was charged in a superseding indictment with Trump, made an initial court appearance Monday.
 
-A federal judge has set a trial date of May 20, 2024. If that date holds, it will mean a possible trial will not start until deep into the presidential nominating calendar and probably well after the Republican nominee is clear — though before that person is officially nominated at the Republican National Convention.
+A federal judge has set a trial date of May 20, 2024. If that date holds, it will mean a possible trial will not start until deep into the presidential nominating calendar and probably well after the Republican nominee is clear --- though before that person is officially nominated at the Republican National Convention.
 
 **HUSH MONEY SCHEME**
 
@@ -47,7 +47,7 @@ For over two years, Fulton County District Attorney Fani Willis has been investi
 
 She has signaled that any indictments in the case will likely come this month.
 
-The Democratic district attorney's investigation began shortly after the release of a recording of a Jan. 2, 2021, phone call between Trump and Georgia Secretary of State Brad Raffensperger in which the then-president suggested that Raffensperger could "find 11,780 votes" — just enough to overtake Democrat Joe Biden and overturn Trump's narrow loss in the state.
+The Democratic district attorney's investigation began shortly after the release of a recording of a Jan. 2, 2021, phone call between Trump and Georgia Secretary of State Brad Raffensperger in which the then-president suggested that Raffensperger could "find 11,780 votes" --- just enough to overtake Democrat Joe Biden and overturn Trump's narrow loss in the state.
 
 But the investigation's scope broadened considerably after that, and Willis convened a special grand jury to hear testimony from witnesses including high-profile Trump allies, such as attorney Rudy Giuliani and Sen. Lindsey Graham of South Carolina, and high-ranking Georgia officials, such as Raffensperger and Gov. Brian Kemp.
 

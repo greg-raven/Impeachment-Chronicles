@@ -5,7 +5,7 @@ tags:
 - Tom Fitton
 ---
 
-Turns out that one of the Democrats' star witnesses in their sham impeachment of President Trump – former U.S. Ambassador to Ukraine Marie "Masha" Yovanovitch – seemed to have been shading the truth. Are you at all surprised?
+Turns out that one of the Democrats' star witnesses in their sham impeachment of President Trump --- former U.S. Ambassador to Ukraine Marie "Masha" Yovanovitch --- seemed to have been shading the truth. Are you at all surprised?
 
 We at Judicial Watch just received 210 pages of records from the State Department showing that Yovanovitch had specifically warned in 2017 about corruption allegations against Burisma Holdings. However, during her November 2019 testimony in the impeachment proceedings, Yovanovitch told lawmakers that she knew little about Burisma.
 

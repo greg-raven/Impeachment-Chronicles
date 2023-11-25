@@ -5,7 +5,7 @@ tags:
 - Patrick Hauf
 ---
 
-Rep. Jerry Nadler, D-N.Y., once said it was "very clear" the Trump campaign colluded with the Russians in the 2016 election — a claim later contradicted by the release of Special Counsel John Durham's report on the Russia investigation.
+Rep. Jerry Nadler, D-N.Y., once said it was "very clear" the Trump campaign colluded with the Russians in the 2016 election --- a claim later contradicted by the release of [Special Counsel John Durham's report]({% post_url 2023-05-12-durham-report %}) on the Russia investigation.
 
 "It's become very clear that the Trump campaign colluded with the Russians in trying to subvert the election," Nadler told CNN in November 2018. "The president is right to be nervous right now, because it appears that time is running out when he can hold himself above the law."
 

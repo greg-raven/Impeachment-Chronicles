@@ -11,7 +11,7 @@ After news broke Monday evening that the FBI had raided former President Donald 
 
 The left, for its contribution, highlighted the federal statute that provides that a person who "unlawfully conceals" government records shall "be disqualified from holding any office under the United States," suggesting that the raid's apparent focus on supposed missing classified documents may render Trump ineligible to run in 2024.
 
-Beyond the constitutional problem with that theory — the U.S. constitution establishes the minimal qualifications to serve as president and Congress cannot expand on those — that theory of the raid merely confirms conservatives' outrage over the DOJ's continued interference in American's electoral preferences.
+Beyond the constitutional problem with that theory --- the U.S. constitution establishes the minimal qualifications to serve as president and Congress cannot expand on those --- that theory of the raid merely confirms conservatives' outrage over the DOJ's continued interference in American's electoral preferences.
 
 > The media is missing the really, really big reason why the raid today is a potential blockbuster in American politics.? [pic.twitter.com/3BdI9NA9Az](https://t.co/3BdI9NA9Az)
 >
@@ -37,7 +37,7 @@ Equally damned was the FISA Court which approved the four warrants based on doub
 
 The DOJ, FBI, and the courts likewise proved themselves untrustworthy in the case against Michael Flynn, a Lieutenant General who served this country with bravery and honor for decades. The FBI opened an investigation into Flynn shortly after receiving false information from Stefan Halper that implausibly claimed Flynn left Cambridge with a young woman with Russian roots. Then, after FBI agents decided to close the investigation against Flynn as unfounded, the 7th Floor intervened, and a kill shot was taken against Trump's incoming National Security Advisor.
 
-Special Counsel Robert Mueller's later extracted a plea from Flynn for purportedly lying about a conversation he had during the transition period, by threatening his son. Then, after an independent investigation of the Flynn case revealed there was no basis to charge Flynn, a federal court refused to dismiss the charges — again proving that the courts provide no check on a corrupted FBI.
+Special Counsel Robert Mueller's later extracted a plea from Flynn for purportedly lying about a conversation he had during the transition period, by threatening his son. Then, after an independent investigation of the Flynn case revealed there was no basis to charge Flynn, a federal court refused to dismiss the charges --- again proving that the courts provide no check on a corrupted FBI.
 
 This synopsis barely scratches the surface of the duplicity and lies advanced by the FBI and the DOJ to destroy a Lieutenant General and a CIA source, all to "get Trump." And the courts tolerated the abuse.
 

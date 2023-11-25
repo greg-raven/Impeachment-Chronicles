@@ -7,7 +7,7 @@ tags:
 
 Adam Schiff is a liar.
 
-Like most Democrats, he cares more about ousting Trump than the facts — so much, in fact, he's repeatedly turned a blind eye to the facts to smear Trump in the hopes of swaying public opinion against the man who dared to defeat Hillary Clinton in the 2016 election.
+Like most Democrats, he cares more about ousting Trump than the facts --- so much, in fact, he's repeatedly turned a blind eye to the facts to smear Trump in the hopes of swaying public opinion against the man who dared to defeat Hillary Clinton in the 2016 election.
 
 It's already been proven that Democrats have plotted the impeachment of Donald Trump since he first took office. For over three years they threw anything they could at him, and Schiff was doing his part to advance the narrative that Trump should be impeached by pushing bogus information and outright lying to the public. Below are seven examples of Schiff's lies designed to boost the impeachment of President Trump.
 
@@ -43,13 +43,13 @@ According to a report from Politico, Schiff "mischaracterized" impeachment evide
 
 **2. Claiming Ambassador Sondland's testimony proved there was a quid pro quo**
 
-On Tuesday, Schiff once again told a whopper by misrepresenting Ambassador Sondland's testimony. "Ambassador Sondland also said … that — we're often asked 'was there a quid pro quo?' the answer is 'yes there was a quid pro quo,' there was an absolute quid pro quo," Schiff said.
+On Tuesday, Schiff once again told a whopper by misrepresenting Ambassador Sondland's testimony. "Ambassador Sondland also said ... that --- we're often asked 'was there a quid pro quo?' the answer is 'yes there was a quid pro quo,' there was an absolute quid pro quo," Schiff said.
 
 Here's the problem: by Sondland's own testimony, he didn't know definitively that there was a quid pro, he was presuming there was.
 
 "Is that your testimony today, Ambassador Sondland, that you have evidence that Donald Trump tied the investigations to the aid? Because I don't think you're saying that." Rep. Mike Turner (R-Ohio) asked him.
 
-"I said repeatedly […] I was presuming," Sondland noted.
+"I said repeatedly [...] I was presuming," Sondland noted.
 
 After questions, Turner asked more pointedly, "So, you really have no testimony today that ties President Trump to a scheme to withhold aid from Ukraine in exchange for these investigations?"
 

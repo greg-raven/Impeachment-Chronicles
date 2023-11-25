@@ -17,11 +17,11 @@ Secret Service agents were never called to testify in public about whether forme
 
 Instead, the Jan. 6 committee put on hearsay testimony from Hutchinson and released partial transcripts or video snippets of testimony without allowing Republicans or Trump's own lawyers to cross-examine witnesses or challenge the narrative offered to the American public.
 
-"It's the first time this has happened in my lifetime since McCarthyism, and it's despicable," said famed Harvard law professor Alan Dershowitz, a lifelong Democrat who voted for Joe Biden in 2020. "The idea that they would interview this witness and allow her to testify to hearsay about the president jumping toward the wheel, without first asking the eye- and ear-witnesses. I've never heard of a lawyer doing that in my 16 years of practicing law. … It's not only unethical, it's not only unfair, it's bad lawyering."
+"It's the first time this has happened in my lifetime since McCarthyism, and it's despicable," said famed Harvard law professor Alan Dershowitz, a lifelong Democrat who voted for Joe Biden in 2020. "The idea that they would interview this witness and allow her to testify to hearsay about the president jumping toward the wheel, without first asking the eye- and ear-witnesses. I've never heard of a lawyer doing that in my 16 years of practicing law. ... It's not only unethical, it's not only unfair, it's bad lawyering."
 
-Dershowitz said the committee Democrats and two anti-Trump Republicans — Liz Cheney and Adam Kinzinger — created a clear perception with their performance of being "partisan zealots" rather than truth-seekers.
+Dershowitz said the committee Democrats and two anti-Trump Republicans --- Liz Cheney and Adam Kinzinger --- created a clear perception with their performance of being "partisan zealots" rather than truth-seekers.
 
-Former career federal prosecutor David Sullivan said Thursday that the entire Jan. 6 accountability process — both at the Justice Department and the congressional hearings — raised questions of fairness and gave viewers a reason to tune out what proved to be "very scripted" interrogations. He said Democrats likely would have gained more credibility and traction if they had let Republicans offer contrary evidence and engaged in true cross-examination.
+Former career federal prosecutor David Sullivan said Thursday that the entire Jan. 6 accountability process --- both at the Justice Department and the congressional hearings --- raised questions of fairness and gave viewers a reason to tune out what proved to be "very scripted" interrogations. He said Democrats likely would have gained more credibility and traction if they had let Republicans offer contrary evidence and engaged in true cross-examination.
 
 "Legal scholars are very troubled by the way these hearings are being conducted," Sullivan said. "There is no due process. For people who don't have an agenda to promote, these [hearings] are Stalinist. And I hate using that term."
 
@@ -29,15 +29,15 @@ Throughout the summer, Democrats have argued that Trump intended and eventually 
 
 But the hearings have been undercut by a fundamental fact: Trump's actions before the riot began included urging supporters to "peacefully and patriotically" express their opinions and ordering his top aides to ensure there was a large contingent of National Guard troops at the ready to ensure no trouble ensued.
 
-A Capitol Police timeline obtained by Just the News shows the Trump Pentagon first offered National Guard troops to the Capitol Police on Jan. 2, 2021, four full days before the event. The police turned down the offer but then began to have second thoughts. The Capitol Police then asked their political minders — the House sergeant at arms chief among them — for permission to accept the troops on Jan. 4 but were turned down on the ground that such a show of force would create bad "optics," the records show.
+A Capitol Police timeline obtained by Just the News shows the Trump Pentagon first offered National Guard troops to the Capitol Police on Jan. 2, 2021, four full days before the event. The police turned down the offer but then began to have second thoughts. The Capitol Police then asked their political minders --- the House sergeant at arms chief among them --- for permission to accept the troops on Jan. 4 but were turned down on the ground that such a show of force would create bad "optics," the records show.
 
 [USCP Jan. 6 Timeline](https://justthenews.com/sites/default/files/2022-06/USCPJan.6Timeline.pdf)
 
-But the most compelling piece of evidence that Trump wanted to thwart — rather than incite —violence is contained in a lengthy memo written by the Pentagon inspector general that chronicled the assistance the Defense Department offered Congress both ahead of and during the riot.
+But the most compelling piece of evidence that Trump wanted to thwart --- rather than incite ---violence is contained in a lengthy memo written by the Pentagon inspector general that chronicled the assistance the Defense Department offered Congress both ahead of and during the riot.
 
 In it, the IG recounts a fateful meeting on Jan. 3, 2021 in the White House when then-acting Defense Secretary Christopher Miller and Gen. Mark Milley, chairman of the Joint Chiefs of Staff, met with Trump on national security matters.
 
-The complete passage — hardly mentioned by Democrats at the hearings or the news media covering them — is worth absorbing in its entirety.
+The complete passage --- hardly mentioned by Democrats at the hearings or the news media covering them --- is worth absorbing in its entirety.
 
 "Mr. Miller and GEN Milley met with the President at the White House at 5:30 p.m.," the IG reported. "The primary topic they discussed was unrelated to the scheduled rally. GEN Milley told us that at the end of the meeting, the President told Mr. Miller that there would be a large number of protestors on January 6, 2021, and Mr. Miller should ensure sufficient National Guard or Soldiers would be there to make sure it was a safe event. Gen Milley told us that Mr. Miller responded, 'We've got a plan and we've got it covered.'"
 

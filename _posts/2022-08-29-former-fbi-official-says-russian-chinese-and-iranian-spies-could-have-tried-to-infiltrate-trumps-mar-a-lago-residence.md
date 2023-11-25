@@ -16,19 +16,19 @@ He was fired from the agency for sending anti-Trump text messages on his work ph
 
 During the show, Phang asked Strzok if he thought it was likely that Russia had "tried to infiltrate" Mar-a-Lago to obtain classified data. Phang had been referring to the classified documents that Trump had stored at his Florida home, which were seized during the FBI's raid on the property earlier this month.
 
-"Absolutely the Russians, but not just the Russians, any competent foreign intelligence service, whether that's those belonging to China, those belonging to Iran, to Cuba, certainly including Russia, are all — were interested, and are interested in gaining access to Mar-a-Lago," he responded.
+"Absolutely the Russians, but not just the Russians, any competent foreign intelligence service, whether that's those belonging to China, those belonging to Iran, to Cuba, certainly including Russia, are all --- were interested, and are interested in gaining access to Mar-a-Lago," he responded.
 
 Strzok added that he found it "especially concerning" that there had been an "absolute lack of any sort of control or memorialization of who had access to Mar-a-Lago at any given time."
 
 Whether or not classified documents had been kept on the property, it was still likely that foreign intelligence services would have attempted to gain access into Mar-a-Lago both during and after Trump's term as president, said Strzok.
 
-"And that's absolutely the sort of thing that the US intelligence community and the FBI, in particular, are going to concerned about — trying to establish who had access to the grounds, who had access to that storage area, and what they need to do to mitigate any sort of damage that might've occurred," he added.
+"And that's absolutely the sort of thing that the U.S. intelligence community and the FBI, in particular, are going to concerned about --- trying to establish who had access to the grounds, who had access to that storage area, and what they need to do to mitigate any sort of damage that might've occurred," he added.
 
 Strzok is known for having helped launch the investigation into whether there was Russian interference in the 2016 election.
 
 The then-Mueller investigator was fired by the FBI after his extramarital affair with his colleague, FBI lawyer Lisa Page, was publicized when the DOJ disclosed their messages to each other. These texts included anti-Trump messages and allusions to wanting to stop Trump from becoming president.
 
-Trump and Strzok have a bitter history — which includes the former president's recent attempt in July 2022 to try to sue both Page and Strzok. Strzok has also written a book about the former president, "Compromised: Counterintelligence and the Threat of Donald J. Trump."
+Trump and Strzok have a bitter history --- which includes the former president's recent attempt in July 2022 to try to sue both Page and Strzok. Strzok has also written a book about the former president, "Compromised: Counterintelligence and the Threat of Donald J. Trump."
 
 Strzok's comments came the same day news broke about the FBI's investigation into a Ukrainian woman who posed as a member of the Rothschild banking family and wandered around Mar-a-Lago with Trump.
 

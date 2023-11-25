@@ -15,13 +15,13 @@ The report states that Attorney General Merrick Garland and FBI Director Christo
 
 The whistleblowers describe the FBI's D.C. leadership as "rotted at its core," with a "systemic culture of unaccountability," and full of "rampant corruption, manipulation, and abuse" and that "the problem lies not with the majority of front-line agents who serve our country, but with the FBI's politicized bureaucracy."
 
-The whistleblowers allege that "the FBI prioritizes investigations and uses differing tactics based on political considerations—using aggressive tactics against political opponents of the Biden Administration while going softer on, or outright ignoring, allegations against the Administration's political allies."
+The whistleblowers allege that "the FBI prioritizes investigations and uses differing tactics based on political considerations---using aggressive tactics against political opponents of the Biden Administration while going softer on, or outright ignoring, allegations against the Administration's political allies."
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Federal Bureau of Investigation, under the stewardship of Director Christopher Wray and Attorney General Merrick Garland, is broken. <br><br>Read our 1,000 page report on just how bad it is. <a href="https://t.co/fKmSYWBdLb">https://t.co/fKmSYWBdLb</a></p>&mdash; Rep. Jim Jordan (@Jim_Jordan) <a href="https://twitter.com/Jim_Jordan/status/1588491175178403842?ref_src=twsrc%5Etfw">November 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The reports reveal that investigations into the Trump campaign and its associates were based on information from left-wing organizations. However, the nature of the sources was diluted in an official memo seeking probes, and the probe was approved by the FBI leadership.
 
-The report slams the FBI for abusing its authority under the Foreign Intelligence Surveillance Act to spy on US citizens associated with Donald Trump's 2016 campaign.
+The report slams the FBI for abusing its authority under the Foreign Intelligence Surveillance Act to spy on U.S. citizens associated with Donald Trump's 2016 campaign.
 
 The report also cites the DOJ and FBI conducting an unprecedented raid on President Trump's Mar-a-Lago residence as an instance of abuse of power and political bias.
 
@@ -45,7 +45,7 @@ There is mention of Meta CEO Mark Zuckerberg, conceding that an FBI warning led 
 
 The report also makes a broader point of the FBI's collaboration with social media platforms "to censor Americans' political speech."
 
-The report adds that "there is little indication the FBI has changed—or is willing to change—course" despite their abuse of power and politicization being extensively reported.
+The report adds that "there is little indication the FBI has changed---or is willing to change---course" despite their abuse of power and politicization being extensively reported.
 
 Whistleblowers also allege discrimination within the FBI toward those who "dissent from its woke, leftist agenda" and the suspension of the security clearances of these staff and questioning of their "allegiance to the United States."
 

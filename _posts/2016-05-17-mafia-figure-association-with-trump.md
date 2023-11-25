@@ -6,13 +6,13 @@ tags:
 - Tom Hamburger
 ---
 
-On the 24th floor of Trump Tower, in an office two floors below Donald Trump, Felix Sater was trying to revive his career. The Russian-born businessman had already done a stint in prison for stabbing a man in the face with the stem of a margarita glass, and he was now awaiting sentencing for his role in a Mafia-orchestrated stock fraud scheme — all the while serving as a government informant on the mob and mysterious matters of national security.
+On the 24th floor of Trump Tower, in an office two floors below Donald Trump, Felix Sater was trying to revive his career. The Russian-born businessman had already done a stint in prison for stabbing a man in the face with the stem of a margarita glass, and he was now awaiting sentencing for his role in a Mafia-orchestrated stock fraud scheme --- all the while serving as a government informant on the mob and mysterious matters of national security.
 
 But Sater and his business partners had an idea: They would build Trump towers in U.S. cities and across the former Soviet bloc. Sater pitched it to Trump, who gave Sater's company rights to explore projects in Moscow as well as in Florida and New York.
 
 "Anybody can come in and build a tower," Sater told potential investors, according to testimony in a 2008 court case. "I can build a Trump Tower, because of my relationship with Trump."
 
-Sater's "Trump card," as he called it, didn't work everywhere. The Moscow deal fell apart. But their relationship continued — though just how close they were is now in dispute.
+Sater's "Trump card," as he called it, didn't work everywhere. The Moscow deal fell apart. But their relationship continued --- though just how close they were is now in dispute.
 
 Trump has repeatedly said he barely remembers Sater. In sworn testimony in 2013, Trump said he wouldn't recognize Sater if they were sitting in the same room. In an interview last year with the Associated Press, he said, "Felix Sater, boy, I have to even think about it."
 
@@ -31,7 +31,7 @@ Sater arrived in Trump's orbit as the mogul was shifting his business model. Sei
 U.S. Republican presidential nominee Donald Trump speaks at a campaign event at Trump Doral golf course in Miami, Florida, U.S. July 27, 2016. REUTERS/Carlo Allegri (Carlo Allegri)
 Trump and his lawyers have said that he was not aware of Sater's criminal past when he first signed on to do business with Sater's firm, Bayrock Group. Sater's involvement in the stock fraud was kept secret for years by federal prosecutors because of his role as an informant.
 
-But even after elements of Sater's background were disclosed in a 2007 New York Times article, he remained in close proximity to Trump — at one point using Trump Organization office space and business cards.
+But even after elements of Sater's background were disclosed in a 2007 New York Times article, he remained in close proximity to Trump --- at one point using Trump Organization office space and business cards.
 
 Alan Garten, a lawyer for the Trump Organization, did not dispute Sater's account of the two men's relationship but said it differed from Trump's perception of events. He said Trump holds hundreds of meetings a year with people for whom the interactions are often more memorable than for the celebrity tycoon.
 
@@ -57,7 +57,7 @@ The two developed a rapport, Sater testified.
 
 He described the relationship as "friendly," saying he had met one-on-one with Trump "numerous times" in Trump's office to discuss various projects. In Phoenix, Sater testified, he met with local officials alongside Trump's son, Donald Jr. In New York, Sater said he met with Trump and Trump's staff "on a constant basis" to discuss possible deals in places such as Los Angeles, Ukraine and China.
 
-Documents show that Trump in 2005 extended Bayrock a one-year deal to develop a project in the Russian capital. Sater said he had located a group of interested Russian investors, as well as a possible site for a luxury high-rise — a shuttered pencil factory that had been named for American radicals Nicola Sacco and Bartolomeo Vanzetti, who were convicted of murder and executed during the "red scare" that swept the United States after World War I.
+Documents show that Trump in 2005 extended Bayrock a one-year deal to develop a project in the Russian capital. Sater said he had located a group of interested Russian investors, as well as a possible site for a luxury high-rise --- a shuttered pencil factory that had been named for American radicals Nicola Sacco and Bartolomeo Vanzetti, who were convicted of murder and executed during the "red scare" that swept the United States after World War I.
 
 "I handled all of the negotiations," Sater said of the Russia deal, which did not come to fruition. Asked whether there was paperwork drawn up on the deal, he responded: "It was more of verbal updates when I'd come back, pop my head into Mr. Trump's office and tell him, you know, 'Moving forward on the Moscow deal.' And he would say, 'All right.' "
 

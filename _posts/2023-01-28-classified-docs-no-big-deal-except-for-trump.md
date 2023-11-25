@@ -9,7 +9,7 @@ The Deep State FBI influenced *New York Times* is attempting to build their case
 
 The TGP [The Gateway Pundit] has reported since the Deep State FBI's illegal raid on President Trump's home that he had every right to take with him the documents he wanted to take per the Presidential Records Act. He also had the ability to classify or declassify any documents he wished while President.
 
-[…]
+[...]
 
 The Deep State FBI mouthpiece *The New York Times* does not see it this way. In a report yesterday, they say the following:
 
@@ -38,10 +38,10 @@ The Times says there are hazards to overclassification.
 > So what's the harm? Experts say there are several potential dangers to over-classification.
 > For one, it keeps potentially relevant information from the public, making it harder for voters and journalists to hold their leaders accountable. One example: Starting in the 2000s, the U.S. ran a highly classified drone program to identify, locate and hunt down suspected terrorists in the Middle East and South Asia. The program's existence was well known, and the destruction it caused was widely reported. Yet elected officials, including members of Congress briefed on the program, could answer few questions from constituents or reporters about it because the details were classified.
 >
-> Over-classification can also make it difficult for agencies to share information with others, whether they are other U.S. agencies or foreign partners. "There are national security concerns — in terms of information not getting shared that should be," said Elizabeth Goitein, senior director of the Brennan Center for Justice's Liberty and National Security Program.
+> Over-classification can also make it difficult for agencies to share information with others, whether they are other U.S. agencies or foreign partners. "There are national security concerns --- in terms of information not getting shared that should be," said Elizabeth Goitein, senior director of the Brennan Center for Justice's Liberty and National Security Program.
 >
 > And, of course, the recent discoveries show how hard it can be to track all of these classified documents. "We've just overloaded the system," Goitein said. "And that makes slippage inevitable."
 
-**See – the Deep State says that we classify too much. That is why Biden did nothing wrong. But orange man is bad.**
+**See --- the Deep State says that we classify too much. That is why Biden did nothing wrong. But orange man is bad.**
 
 Source: Joe Hoft, thegatewaypundit.com/2023/01/new-york-times-begins-case-classified-documents-no-big-deal-unless-president-trump-involved/

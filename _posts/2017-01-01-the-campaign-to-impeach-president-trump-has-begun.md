@@ -11,9 +11,9 @@ At the moment the new commander in chief was sworn in, a campaign to build publi
 
 The organizers behind the campaign, Free Speech for People and RootsAction, are hinging their case on Trump's insistence on maintaining ownership of his luxury hotel and golf course business while in office. Ethics experts have warned that his financial holdings could potentially lead to constitutional violations and undermine public faith in his decision-making.
 
-Their effort is early, strategists admit. But they insist it is not premature — even if it triggers an angry backlash from those who will argue that they are not giving the new president a chance.
+Their effort is early, strategists admit. But they insist it is not premature --- even if it triggers an angry backlash from those who will argue that they are not giving the new president a chance.
 
-"If we were to wait for all the ill effects that could come from this, too much damage to our democracy would occur," said Ron Fein, legal director at Free Speech for People. "It will undermine faith in basic institutions. If nothing else, it's important for Americans to trust that the president is doing what he thinks is the right thing … not that it would help jump-start a stalled casino project in another country."
+"If we were to wait for all the ill effects that could come from this, too much damage to our democracy would occur," said Ron Fein, legal director at Free Speech for People. "It will undermine faith in basic institutions. If nothing else, it's important for Americans to trust that the president is doing what he thinks is the right thing ... not that it would help jump-start a stalled casino project in another country."
 
 The impeachment drive comes as Democrats and liberal activists are mounting broad opposition to stymie Trump's agenda. Among the groups organizing challenges to the Trump administration is the American Civil Liberties Union, which plans to wield public-records requests and lawsuits as part of an aggressive action plan aimed at protecting immigrants and pushing for government transparency, among other issues.
 
@@ -25,7 +25,7 @@ Strategists behind the campaign for impeachment said they are confident that oth
 
 Fein cited several examples, including rent paid by the Industrial &amp; Commercial Bank of China for its space in Trump Tower in New York and potential ongoing spending by foreign diplomats at the Trump International Hotel in Washington and other Trump properties. In addition, he said, royalties collected by the Trump organization from the president's business partner in the Philippines, who was recently named a special envoy to the United States, could violate the clause.
 
-Trump's Washington hotel is hub of inaugural action — and potential conflicts
+Trump's Washington hotel is hub of inaugural action --- and potential conflicts
 
 Trump said this month that he would donate "profits" from foreign business clients to the U.S. Treasury. However, neither Trump nor representatives of the Trump Organization have provided details on how such payments would be tracked, collected, and disbursed.
 
@@ -35,7 +35,7 @@ But Fein noted that former Virginia governor Edmund Jennings Randolph, a delegat
 
 His group has mapped out a long-shot political strategy to build support for a vote in the House on articles of impeachment.
 
-The first step is fairly simple: getting a resolution introduced that calls for the House Judiciary Committee to investigate whether there are grounds to impeach Trump — a move that Fein said a number of members of Congress are interested in taking.
+The first step is fairly simple: getting a resolution introduced that calls for the House Judiciary Committee to investigate whether there are grounds to impeach Trump --- a move that Fein said a number of members of Congress are interested in taking.
 
 "Getting it introduced is not going to be a problem," he said.
 

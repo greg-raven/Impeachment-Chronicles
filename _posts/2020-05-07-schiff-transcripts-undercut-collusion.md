@@ -15,7 +15,7 @@ McCabe admitted at one point that while the FBI opened up the entire [Crossfire 
 
 So agents pivoted instead to another adviser, Carter Page, who had been the focus of Christopher Steele's now-discredited dossier, he explained.
 
-"Papadopoulos' comment didn't particularly indicate that he was the person that had had — that was interacting with the Russians," McCabe answered when asked by lawmakers why a Foreign Intelligence Surveillance Act warrant request in October 2016 focused only on Page and not the man the FBI originally predicated the Trump investigation upon.
+"Papadopoulos' comment didn't particularly indicate that he was the person that had had --- that was interacting with the Russians," McCabe answered when asked by lawmakers why a Foreign Intelligence Surveillance Act warrant request in October 2016 focused only on Page and not the man the FBI originally predicated the Trump investigation upon.
 
 It was one of the few extraordinary admissions from McCabe: The FBI opened up an entire counterintelligence probe of the Trump campaign on a figure agents did not believe was having contact with Moscow.
 
@@ -27,7 +27,7 @@ Sussmann acknowledged under questioning by Republican staff that in February 201
 
 What was your contact [redacted] about?" a lawyer asked Sussmann.
 
-"So the contact was about reporting to them information that was reported to me about possible contacts, covert or at least nonpublic, between Russian entities and various entities in the United States associated with the — or potentially associated with the Trump Organization," Sussmann answered.
+"So the contact was about reporting to them information that was reported to me about possible contacts, covert or at least nonpublic, between Russian entities and various entities in the United States associated with the --- or potentially associated with the Trump Organization," Sussmann answered.
 
 The lawyer followed up: "And when did that contact occur, month and year?"
 
@@ -53,7 +53,7 @@ Former Obama Attorney General Loretta Lynch testified that by the time she left 
 
 Former Acting Attorney General Sally Yates, who worked for both Obama and Trump, also acknowledged there had been no determination of any conspiracy to collude before she was fired. Her winding answer was typical of many of the witnesses.
 
-"I think you need to learn — if you want to get to the bottom line answer of was there collusion, conspiracy or coordination — if I got the three Cs right — then you also need to learn about who had contact, because you can't get to that collusion — the other — the three Cs there, until you figure out who's having contact with who," she said.
+"I think you need to learn --- if you want to get to the bottom line answer of was there collusion, conspiracy or coordination --- if I got the three Cs right --- then you also need to learn about who had contact, because you can't get to that collusion --- the other --- the three Cs there, until you figure out who's having contact with who," she said.
 
 Pressed to be more specific, Yates conceded there was no finding. "I don't believe anybody had reached a conclusion yet as to whether there was a nefarious alliance ... with the Russians. We were at the fact-gathering stage here, not the conclusion stage."
 

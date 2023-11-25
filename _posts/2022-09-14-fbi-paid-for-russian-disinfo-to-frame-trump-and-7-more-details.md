@@ -1,5 +1,5 @@
 ---
-title: "FBI paid for Russian disinfo to frame Trump — and 7 more details"
+title: "FBI paid for Russian disinfo to frame Trump --- and 7 more details"
 layout: post
 tags:
 - Margot Cleveland
@@ -87,7 +87,7 @@ According to Durham, Kuhlen is prepared to testify at Danchenko's trial that at 
 
 If six years after the fact prosecutors could locate and question Kuhlen, the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) team could have done the same for Steele's reporting, quickly disproving the dossier. If they wanted to, that is.
 
-**Steele Was Duped — That's Our Story and We're Sticking to It**
+**Steele Was Duped --- That's Our Story and We're Sticking to It**
 
 Yesterday's motion revealed another unsettling fact: Prosecutors appear poised to continue with the company storyline that Steele and in turn the FBI were duped. In its motion, the government notes that Danchenko "informed Steele that he met in person with Sergei Millian on two or three occasions," and that Danchenko "subsequently informed the FBI that he had not in fact met with Millian on any occasion."
 
@@ -109,7 +109,7 @@ The government presents a persuasive argument that these emails should be admitt
 
 A final takeaway from yesterday's filing stems from the special counsel's mention of Cyprus.
 
-"On June 10, 2016, Dolan, while in Cyprus meeting with Olga Galkina (another source for the defendant), emailed a U.S.-based acquaintance regarding efforts to assist the defendant in obtaining a U.S. visa," the motion says. It quotes the email: "Monday night I fly to Moscow and will meet with a Russian guy who is working with me on a couple of projects. He also works for a group of former MI 6 guys in London who do intelligence for business …. [H]e owes me as his Visa is being held up and I am having a word with the Ambassador."
+"On June 10, 2016, Dolan, while in Cyprus meeting with Olga Galkina (another source for the defendant), emailed a U.S.-based acquaintance regarding efforts to assist the defendant in obtaining a U.S. visa," the motion says. It quotes the email: "Monday night I fly to Moscow and will meet with a Russian guy who is working with me on a couple of projects. He also works for a group of former MI 6 guys in London who do intelligence for business .... [H]e owes me as his Visa is being held up and I am having a word with the Ambassador."
 
 The special counsel's office included these details to establish that Danchenko had lied to the FBI about facts beyond those contained in the indictment. This helps Durham's case by showing Danchenko's allegedly false statements were not mere mistakes. The reference to Cyprus, however, also raises an entirely new set of questions.
 

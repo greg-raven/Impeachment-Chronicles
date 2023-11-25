@@ -21,11 +21,11 @@ The Women's March followed the next day, and it took only about four months for 
 
 Green told BuzzFeed News last week:
 
-> My prayer is that the Senate will take the articles seriously, that the President will be found guilty, and he'll be removed from office, but if he isn't, the constitution allows for additional articles of impeachment to be filed. If the president commits impeachable offenses, the president can be impeached more than once … so if the Senate doesn't do its job and the President commits impeachable acts, he can still be impeached, and he can be impeached for impeachable acts that he's already perpetrated that were not a part of this impeachment.
+> My prayer is that the Senate will take the articles seriously, that the President will be found guilty, and he'll be removed from office, but if he isn't, the constitution allows for additional articles of impeachment to be filed. If the president commits impeachable offenses, the president can be impeached more than once ... so if the Senate doesn't do its job and the President commits impeachable acts, he can still be impeached, and he can be impeached for impeachable acts that he's already perpetrated that were not a part of this impeachment.
 
 Now as the House votes to impeach Trump, moving the effort to the Senate for a trail, the impeachment timeline stretches across all three years of his presidency.
 
-• May 10, 2017 – McClatchy
+• May 10, 2017 --- McClatchy
 
 > Democratic leaders aren't calling for the impeachment of President Donald Trump.
 >
@@ -35,13 +35,13 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 >
 > "We should maybe have an impeachment clock," Rep. Mark Pocan, D-Wis., said on Wednesday. "And if we did, I think yesterday moved us about an hour closer to having that need."
 
-• May 11, 2017 – CNN
+• May 11, 2017 --- CNN
 
 > Sen. Richard Blumenthal said Wednesday that President Donald Trump's decision to fire his FBI director could lead to possible impeachment proceedings in Congress.
 >
 > "It may well produce another *United States vs. Nixon* on a subpoena that went to United States Supreme Court," the Connecticut Democrat said on *Anderson Cooper 360*. "It may well produce impeachment proceedings, although we're very far from that possibility."
 
-• May 16, 2017 – CNN
+• May 16, 2017 --- CNN
 
 > CNN host Wolf Blitzer brought up the possibility of impeaching President Trump in an interview with Senator Angus King (I-Maine) Tuesday evening after a *New York Times* article alleged the president asked then-FBI Director Comey to end the FBI investigation of former National Security Adviser Michael Flynn.
 >
@@ -49,7 +49,7 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 >
 > "Reluctantly, Wolf, I have to say yes simply because obstruction of justice is such a serious offense," King responded.
 
-• May 16, 2017 – Washington Free Beacon
+• May 16, 2017 --- Washington Free Beacon
 
 > Rep. Maxine Waters (D., Calif.) on Tuesday spoke at the Center for American Progress Ideas Conference in Washington, where she claimed that Monday's *Washington Post* report on President Trump sharing classified intelligence with Russian diplomats moves Congress closer to impeaching him:
 >
@@ -57,7 +57,7 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 >
 > Waters added that she is not sure how the investigation into alleged collusion between the Trump campaign and Russian officials will develop, but she believes Congress is moving closer to impeachment after Monday's report.
 
-• May 17, 2017 – *The* *Hill*
+• May 17, 2017 --- *The* *Hill*
 
 > Rep. Justin Amash (R-MI) on Wednesday said if the reports about Trump's pressure on Comey are true, it would merit impeachment.
 >
@@ -69,13 +69,13 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 >
 > Jones suggested in an interview with The Hill on Wednesday that the allegations in the Comey memo could lead to a push for impeachment proceedings.
 
-• May 24, 2017 – *New York Daily News*
+• May 24, 2017 --- *New York Daily News*
 
 > The first congress member to call for President Trump's impeachment says he is now drafting the articles for it.
 >
 > Rep. Al Green (D-Texas) said Tuesday he is putting together the papers that would begin Trump's impeachment process for alleged obstruction of justice.
 
-• June 7, 2017 – Fox News
+• June 7, 2017 --- Fox News
 
 > In a press conference Wednesday, Rep. Al Green (D-TX), and Rep. Brad Sherman (D-CA) announced their intention to draft articles of impeachment.
 >
@@ -83,11 +83,11 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 >
 > "In the spirit of keeping the republic, I have concluded that the president has obstructed justice and in so doing, the remedy for obstruction of justice is impeachment," Green said. "The president will not be indicted while he is in office, and while there is some merit in talking about the judicial process, the impeachment process is the one that will bring him before the bar of justice."
 
-• July 12, 2017 – *The Hill*
+• July 12, 2017 --- *The Hill*
 
 > Rep. Brad Sherman (D-CA) formally introduced an article of impeachment against President Trump on Wednesday that accuses the president of obstructing justice during the federal investigation of Russia's 2016 election interference.
 
-• August 17, 2017 – *USA Today*
+• August 17, 2017 --- *USA Today*
 
 > Rep. Steve Cohen announced Thursday that he would introduce articles of impeachment against President Trump following the president's comments about the violent attacks in Charlottesville, Va., saying the president had "failed the presidential test of moral leadership."
 >
@@ -95,9 +95,9 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 
 • Nov. 2, 2017 –*The Mercury News*
 
-> [Tom] Steyer's campaign has gathered steam: In 14 days, his petition calling for Trump's impeachment has gathered more than 1.4 million signatures. His 60-second ad — which is playing nationwide on TV and online — argues that Trump has "obstructed justice" and "brought us to the brink of nuclear war," as video rolls of North Korean President Kim Jong-un. It has been viewed nearly 1.2 million times on YouTube and 474,000 times on Facebook.
+> [Tom] Steyer's campaign has gathered steam: In 14 days, his petition calling for Trump's impeachment has gathered more than 1.4 million signatures. His 60-second ad --- which is playing nationwide on TV and online --- argues that Trump has "obstructed justice" and "brought us to the brink of nuclear war," as video rolls of North Korean President Kim Jong-un. It has been viewed nearly 1.2 million times on YouTube and 474,000 times on Facebook.
 
-• Dec. 6, 2017 – National Public Radio
+• Dec. 6, 2017 --- National Public Radio
 
 > Texas Democrat Al Green forced a House vote on the impeachment of President Trump on Wednesday, but a broad bipartisan majority voted down the effort.
 >
@@ -107,13 +107,13 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 >
 > The effort failed on a 364-58 vote, with four Democrats voting present. House Minority Leader Nancy Pelosi and Minority Whip Steny Hoyer sided with Republicans in tabling Green's articles.
 
-• Jan. 19, 2018 – GovTrack.US website
+• Jan. 19, 2018 --- GovTrack.US website
 
 > "On Motion to Table: H.Res. 705: Impeaching Donald John Trump, President of the United States, of high misdemeanors."
 >
 > This was a vote to kill a resolution impeaching President Donald Trump. It was the second vote on impeachment since the President took office. As expected the resolution did not move forward, losing with 355 votes to kill the resolution. Most members of both parties voted to kill the resolution, with 66 Democrats and no Republicans voting for impeachment proceedings to begin.
 
-• Jan. 3, 2019 – *Today*
+• Jan. 3, 2019 --- *Today*
 
 > Incoming House Speaker Nancy Pelosi said she wouldn't rule out President Trump being indicted while in office, describing the topic as "an open discussion."
 >
@@ -123,7 +123,7 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 >
 > "I think that that is an open discussion. I think that is an open discussion in terms of the law," she said, on the eve of reclaiming her former title as speaker of the House. Pelosi will become the first lawmaker in recent history to hold that office twice when the 116th Congress convenes Thursday.
 
-• Jan. 3, 2019 – *Roll Call*
+• Jan. 3, 2019 --- *Roll Call*
 
 > Rep. Brad Sherman (D-CA) is wasting no time letting President Donald Trump feel the pressure from a Democrat-controlled House.
 >
@@ -131,11 +131,11 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 >
 > The articles accuse the president of obstructing justice by firing former FBI Director James B. Comey after Comey refused to stop investigating former Trump national security adviser Michael Flynn.
 
-• Jan. 4, 2019 – *The Guardian*
+• Jan. 4, 2019 --- *The Guardian*
 
 > Among them has been the Michigan congresswoman Rashida Tlaib, who had some strong words for the president. Speaking at an event shortly after being sworn in, Tlaib, the first Palestinian American elected to Congress, recalled a conversation she had after she won.
 >
-> She said: "And when your son looks at you and says, 'Mama, look, you won. Bullies don't win,' and I said, 'Baby, they don't' — because we're gonna go in there and we're going to impeach the motherfucker."
+> She said: "And when your son looks at you and says, 'Mama, look, you won. Bullies don't win,' and I said, 'Baby, they don't' --- because we're gonna go in there and we're going to impeach the motherfucker."
 >
 > Tlaib had been clear about her intentions in impeaching Trump throughout her campaign. She tweeted in March: "Why am I running? Because this is about electing the jury to impeach (POTUS) and I will make a heck of juror."
 

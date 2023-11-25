@@ -13,7 +13,7 @@ Ellison, who is locked in a competitive but largely amicable race with former Se
 
 "Donald Trump has already done a number of things which legitimately raise the question of impeachment," Ellison said.
 
-Though he largely stressed themes meant to unite the party, Perez, the perceived front-runner for the chairmanship, did indicate he would not intervene in Democratic primaries — a stand that most DNC candidates embraced as a result of the bad feelings surrounding the 2016 contest between Hillary Clinton and Sen. Bernie Sanders of Vermont. Many progressives believe that the DNC unfairly assisted Clinton in the primary by crafting the debate schedule in her favor and offering quiet strategic assistance to her campaign along the way.
+Though he largely stressed themes meant to unite the party, Perez, the perceived front-runner for the chairmanship, did indicate he would not intervene in Democratic primaries --- a stand that most DNC candidates embraced as a result of the bad feelings surrounding the 2016 contest between Hillary Clinton and Sen. Bernie Sanders of Vermont. Many progressives believe that the DNC unfairly assisted Clinton in the primary by crafting the debate schedule in her favor and offering quiet strategic assistance to her campaign along the way.
 
 "The role of the DNC chair is to let the process run its course," Perez said.
 
@@ -29,7 +29,7 @@ South Carolina Democratic Party chairman Jaime Harrison stressed his time as a p
 
 "We have to fight Republicans. We can't fight each other," he said.
 
-It is irresistible for some activists and journalists to frame the race for DNC chair as a second act of the prolonged 2016 contest of Sanders versus Clinton — with Ellison and Perez serving as respective symbolic stand-ins. But insiders who have worked at a party committee stress that the job is more about managerial prowess than message superiority or ideological purity.
+It is irresistible for some activists and journalists to frame the race for DNC chair as a second act of the prolonged 2016 contest of Sanders versus Clinton --- with Ellison and Perez serving as respective symbolic stand-ins. But insiders who have worked at a party committee stress that the job is more about managerial prowess than message superiority or ideological purity.
 
 "The people who are trying to make this symbolic between the left and the center or Hillary and Bernie are the people who need to stay away from this race. That's not what the party needs. That's creating false choices," says Mo Elleithee, a former DNC communications director. "What is going to help the party is someone who can build the party's infrastructure. It's the plug in the wall that everyone's going to get their power from."
 

@@ -51,7 +51,7 @@ Ohr revealed that he spoke to the FBI about the role of Fusion GPS in producing 
 
 Comey's FISA application to conduct surveillance did not specifically state that the FBI had information that Steele was being paid in connection with any U.S. political party, according to House documents and the redacted FISA application itself. The FISA warrant didn't mention Fusion GPS, either.
 
-The application also did not say that the FBI was provided with any information that would raise issues of bias concerning Steele. Instead, Comey's FISA application stated generally that "the FBI speculates" that Steele "was likely looking for information that could be used to discredit" Trump's campaign — a far cry from informing the court that the dossier utilized as central evidence was paid for by Trump's primary political opponents, namely Clinton and the Democratic National Committee (DNC).
+The application also did not say that the FBI was provided with any information that would raise issues of bias concerning Steele. Instead, Comey's FISA application stated generally that "the FBI speculates" that Steele "was likely looking for information that could be used to discredit" Trump's campaign --- a far cry from informing the court that the dossier utilized as central evidence was paid for by Trump's primary political opponents, namely Clinton and the Democratic National Committee (DNC).
 
 The phraseology that the FBI "speculates" on possible bias is at odds with Ohr's testimony that he directly told the FBI about several possible avenues of bias and that he had reason to believe Steele himself was biased.
 

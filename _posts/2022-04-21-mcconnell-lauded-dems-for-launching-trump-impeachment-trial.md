@@ -29,7 +29,7 @@ McConnell's duplicitous form of politics is not appreciated by many Republicans.
 
 On April 7, McConnell was questioned by fellow establishment member Jonathan Swan, an Axios reporter, about why Republicans "hate" him so much.
 
-"Recent polls show your approval ratings are in the 30s among Republicans, not Democrats — Republicans," Swan prefaced. "Why do they hate you?"
+"Recent polls show your approval ratings are in the 30s among Republicans, not Democrats --- Republicans," Swan prefaced. "Why do they hate you?"
 
 "My job is not to run up political popularity nationally," McConnell responded. "I'm not running for anything nationally."
 

@@ -9,7 +9,7 @@ tags:
 
 House Democrats overwhelmingly joined Republicans on Wednesday to defeat an attempt to impeach President Donald Trump. But 58 Democrats supported the bid to consider impeachment over the objections of House Democratic leaders, who viewed the measure as a distraction in a Republican-controlled Congress.
 
-The motion to sideline the measure — killing the effort — was approved 364-58, with four Democrats voting present.
+The motion to sideline the measure --- killing the effort --- was approved 364-58, with four Democrats voting present.
 
 The vote was forced by Rep. Al Green (D-Texas), who introduced articles of impeachment describing Trump as a bigot who incites hate and has demeaned the presidency.
 

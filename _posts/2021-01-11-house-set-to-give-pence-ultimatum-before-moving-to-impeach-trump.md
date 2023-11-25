@@ -17,13 +17,13 @@ Pence met with Trump Monday for the first time since the siege at the Capitol, w
 
 The assault on the Capitol Jan. 6 as Congress was certifying the Electoral College votes that made Joe Biden president-elect has put Trump and Republicans under pressure from all sides. Trump stoked his supporters' fury in a speech to them before the march to Capitol Hill and more than 100 Republicans in Congress signed on to object to counting the electoral votes from states the Biden won.
 
-Almost every Democrat in the House has expressed support for the impeachment resolution and one if its main sponsors, Rhode Island Representative David Cicilline, said he expected it also would draw Republican votes. Several GOP lawmakers, including Adam Kinzinger of Illinois, have denounced both the effort to object to the certification of electors — one of the main motivators for the crowd of Trump supporters — and the president fueling their anger.
+Almost every Democrat in the House has expressed support for the impeachment resolution and one if its main sponsors, Rhode Island Representative David Cicilline, said he expected it also would draw Republican votes. Several GOP lawmakers, including Adam Kinzinger of Illinois, have denounced both the effort to object to the certification of electors --- one of the main motivators for the crowd of Trump supporters --- and the president fueling their anger.
 
 "I expect we will have Republican support," Cicilline said Monday.
 
 Yet the number of Republicans is likely to be very small. Moderates like New York's Tom Reed have come out against impeachment, favoring a censure resolution instead.
 
-The four-page impeachment resolution includes a single article accusing Trump of high crimes and misdemeanors for "Incitement of Insurrection," and says he "willfully made statements that, in context, encouraged — and foreseeably resulted in — lawless action at the Capitol." It also cites Trump's telephone call to Georgia's secretary of state, Brad Raffensperger, urging that he "find" enough votes to overturn Biden's win there.
+The four-page impeachment resolution includes a single article accusing Trump of high crimes and misdemeanors for "Incitement of Insurrection," and says he "willfully made statements that, in context, encouraged --- and foreseeably resulted in --- lawless action at the Capitol." It also cites Trump's telephone call to Georgia's secretary of state, Brad Raffensperger, urging that he "find" enough votes to overturn Biden's win there.
 
 "In all this, President Trump gravely endangered the security of the United States and its institutions of government," the resolution says.
 

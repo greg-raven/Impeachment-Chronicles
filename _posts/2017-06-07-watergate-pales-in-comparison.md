@@ -37,7 +37,7 @@ The president's team, he said, was motivated by "extreme paranoia" about any mat
 
 Clapper was asked how Australia should approach its most important foreign policy relationship given the challenges posed by the Trump administration. He said the question was somewhat "imponderable."
 
-He observed there were people in the administration who could be trusted – nominating Jim Mattis, the defence secretary, John Kelly, the homeland security chief, and HR McMaster, the national security adviser. "They have understanding and respect for our institutions," he said.
+He observed there were people in the administration who could be trusted --- nominating Jim Mattis, the defence secretary, John Kelly, the homeland security chief, and HR McMaster, the national security adviser. "They have understanding and respect for our institutions," he said.
 
 He said he was reluctant to give Australia public advice about its foreign policy relationships but he said: "I just think Australia has to keep on and make decisions based on Australia's best national interests.
 

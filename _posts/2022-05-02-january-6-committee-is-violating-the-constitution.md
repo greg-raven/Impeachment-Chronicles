@@ -37,7 +37,7 @@ Transcript as follows:
 >
 > Liz Cheney, Adam Kinzinger, Bennie Thompson, Adam Schiff. They've all said that they're looking for criminal issues here to make a criminal referral to the Department of Justice. There is pressure being placed on the Attorney General of the United States who is highly partisan and political to issue some kind of charges against former President Trump and his closest associates.
 >
-> So what this January 6 Committee is doing is violating the Constitution — violating the Constitution, and quite frankly so is the executive branch. You can have a committee of Congress under the cover of legislating, conducting a criminal investigation, where people's due process rights, rights to challenge evidence and other rights are being absolutely destroyed while they are sending their names to the Justice Department to be charged for contempt of Congress for not responding to their subpoenas and their testimony. The whole thing is a horrific setup. It's absolutely un-American for Democratic Party operations, where they criminalize politics.
+> So what this January 6 Committee is doing is violating the Constitution --- violating the Constitution, and quite frankly so is the executive branch. You can have a committee of Congress under the cover of legislating, conducting a criminal investigation, where people's due process rights, rights to challenge evidence and other rights are being absolutely destroyed while they are sending their names to the Justice Department to be charged for contempt of Congress for not responding to their subpoenas and their testimony. The whole thing is a horrific setup. It's absolutely un-American for Democratic Party operations, where they criminalize politics.
 >
 > Donald Trump has committed no offenses whatsoever. How do I know? Because he's the most investigated man on the face of the Earth by all kinds of authorities.
 >
@@ -69,7 +69,7 @@ Transcript as follows:
 >
 > Was she asked if she wanted 10,000 to 20,000 National Guardsmen? She needs to testify under oath. We need to see her texts. Why the other Members of Congress? Because these other Members of Congress are using the January 6 Committee, not to investigate how to protect the Capitol, not to investigate what happened that day. They're using your tax dollars. They're using the official position of Committee members under this rogue committee to advance a political agenda against the former President, against his former staff, and against his family members, and it is time to put an end to this.
 >
-> Now they're leaking audio — audio of the Republican leader of the House of Representatives. Does anybody find this unethical? That somebody was recording conversations with the Republican Leader of the House of Representatives? Of course, the media don't care. The media are unethical, they're corrupt.
+> Now they're leaking audio --- audio of the Republican leader of the House of Representatives. Does anybody find this unethical? That somebody was recording conversations with the Republican Leader of the House of Representatives? Of course, the media don't care. The media are unethical, they're corrupt.
 >
 > But isn't there an issue here? Well, you know, Kevin McCarthy said one thing in private and another thing in public. Gee whiz, politicians never do that. And of course, reporters never do that.
 >
@@ -83,7 +83,7 @@ Transcript as follows:
 >
 > This same Congress, this same President who are shrinking the American economy, literally shrinking it. Talking about food shortages. What the hell have we become here?
 >
-> This is America under the Democratic Party and they're not done. Critical race theory with your children. Sexualizing babies in our public schools in a Disneyland? Oh, this is fantastic, isn't it? What a Civil Rights movement they've created, destroying women's sports — Title IX. That's right, guys should be able to be in women's sports. Why? Because they want to be and they say so. OK, that's perfectly fine.
+> This is America under the Democratic Party and they're not done. Critical race theory with your children. Sexualizing babies in our public schools in a Disneyland? Oh, this is fantastic, isn't it? What a Civil Rights movement they've created, destroying women's sports --- Title IX. That's right, guys should be able to be in women's sports. Why? Because they want to be and they say so. OK, that's perfectly fine.
 >
 > And this administration, undermining our alliances with the State of Israel, with moderate Arab states, while they're about to arm the Iranian regime with long range ICBM nuclear missiles. Oh, that's terrific.
 >

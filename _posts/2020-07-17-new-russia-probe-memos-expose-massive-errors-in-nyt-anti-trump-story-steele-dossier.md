@@ -22,11 +22,11 @@ Comments made by then-FBI agent Peter Strzok undercut a litany of claims made in
 
 **Note by Strzok:** "This statement is misleading and inaccurate as written. We have not seen evidence of any individuals in contact with Russians (both Governmental and non-Governmental)" and "There is no known intel affiliation, and little if any [government of Russia] affiliation[.] FBI investigation has shown past contact between [Trump campaign volunteer Carter] Page and the SVR [Foreign Intelligence Service of the Russian Federation], but not during his association with the Trump campaign."
 
-**Claim in NYT article:** "… one of the advisers picked up on the [intercepted] calls was Paul Manafort, who was Mr. Trump's campaign chairman for several months …"
+**Claim in NYT article:** "... one of the advisers picked up on the [intercepted] calls was Paul Manafort, who was Mr. Trump's campaign chairman for several months ..."
 
 **Note by Strzok:** "We are unaware of any calls with any Russian government official in which Manafort was a party."
 
-**Claim in NYT article:** "The FBI has obtained banking and travel records …"
+**Claim in NYT article:** "The FBI has obtained banking and travel records ..."
 
 **Note by Strzok:** "We do not yet have detailed banking records."
 
@@ -34,25 +34,25 @@ Comments made by then-FBI agent Peter Strzok undercut a litany of claims made in
 
 **Note by Strzok:** "Again, we are unaware of ANY Trump advisers engaging in conversations with Russian intel officials" and "Our coverage has not revealed contact between Russian intelligence officers and the Trump team."
 
-**Claim in NYT article:** "The FBI asked the NSA to collect as much information as possible about the Russian operatives on the phone calls …"
+**Claim in NYT article:** "The FBI asked the NSA to collect as much information as possible about the Russian operatives on the phone calls ..."
 
 **Note by Strzok:** "If they did we are not aware of those communications."
 
-**Claim in NYT article:** "The FBI has closely examined at least four other people close to Mr. Trump … Carter Page … Roger Stone… and Mr. Flynn."
+**Claim in NYT article:** "The FBI has closely examined at least four other people close to Mr. Trump ... Carter Page ... Roger Stone... and Mr. Flynn."
 
 **Note by Strzok:** "We have not investigated Roger Stone."
 
-Claim by NYT: "Senior FBI officials believe … Christopher Steele … has a credible track record."
+Claim by NYT: "Senior FBI officials believe ... Christopher Steele ... has a credible track record."
 
 **Note by Strzok:** "Recent interviews and investigation, however, reveal Steele may not be in a position to judge the reliability of subsource network."
 
 Claim by NYT: "The FBI's investigation into Mr. Manafort began last spring [2016]."
 
-**Note by Strzok:** "This is inaccurate … our investigation of Manafort was opened in August 2016."
+**Note by Strzok:** "This is inaccurate ... our investigation of Manafort was opened in August 2016."
 
 Claim by NYT: "The bureau did not have enough evidence to obtain a warrant for a wiretap of Mr. Manafort's communications, but it had the NSA closely scrutinize the communications of Ukrainian officials he had met."
 
-**Note by Strzok:** "This is inaccurate …"
+**Note by Strzok:** "This is inaccurate ..."
 
 There is as yet no explanation in the documents or from the New York Times as to the identities of the four "American officials" who apparently provided the misleading and false information; or what their motivation was.
 

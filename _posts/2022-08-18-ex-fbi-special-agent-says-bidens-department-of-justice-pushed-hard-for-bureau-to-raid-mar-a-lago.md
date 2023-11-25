@@ -5,7 +5,7 @@ tags:
 - Alastair Talbot
 ---
 
-- 'My guess would be the Bureau was the one going against the DOJ in this particular situation, because when you consider which entity has more to lose — FBI clearly has much more to lose from this situation,' the LA ex-FBI agent said
+- 'My guess would be the Bureau was the one going against the DOJ in this particular situation, because when you consider which entity has more to lose --- FBI clearly has much more to lose from this situation,' the LA ex-FBI agent said
 
 A former FBI special agent speculated the Department of Justice may have pushed hard for the bureau to raid Donald Trump's Mar-a-Lago resort earlier this month and implied they did so at the behest of the Biden administration.
 
@@ -13,15 +13,15 @@ On Thursday, ex-special agent Maureen O'Connell, who specialized in forensics, g
 
 'Sometimes I think it's just a real good idea to sit back and let the chips fall where they may,' O'Connell said on Fox News' Special Report Panel, hosted by the channel's former chief White House correspondent Bret Baier.
 
-'But when I look at the totality of the situation here, I really think when we talk about spirited conversations going on for a couple of weeks, and DOJ — it seems to me the DOJ is the heavy in this situation.
+'But when I look at the totality of the situation here, I really think when we talk about spirited conversations going on for a couple of weeks, and DOJ --- it seems to me the DOJ is the heavy in this situation.
 
 'That they were trying to push the [FBI] to do this warrant. They were trying to push the Bureau to really, really hit this situation hard.'
 
-'And my guess would be that the Bureau was the one going against the DOJ in this particular situation, because when you consider which entity has more to lose — the FBI clearly has much more to lose from this situation,' she added.
+'And my guess would be that the Bureau was the one going against the DOJ in this particular situation, because when you consider which entity has more to lose --- the FBI clearly has much more to lose from this situation,' she added.
 
 O'Connell's comments come after another retired FBI special agent said a raid of this level of sensitivity would need to be approved by Attorney General Merrick Garland.
 
-'I think there was inside information – call it an informant if you want,' Michael Tabman, who served the FBI for 24 years, exclusively told DailyMail.com.
+'I think there was inside information --- call it an informant if you want,' Michael Tabman, who served the FBI for 24 years, exclusively told DailyMail.com.
 
 'I believe either someone told them something or some other information was stumbled upon, which was kind of conclusive in their minds that they had to go now to get that or they're not getting it.'
 
@@ -33,11 +33,11 @@ FBI protocol, according to Tabman, is to move forward with seizing information o
 
 In order to obtain the warrant for a raid, the FBI would need to prove probable cause and conduct the search in a timely manner. Agents can't just 'poke around' someone's home in a case like this, Tabman added.
 
-He also claimed the FBI could have gotten the sense that Trump was just no longer being 'fully cooperative' with the investigation – leading them to see the raid approval.
+He also claimed the FBI could have gotten the sense that Trump was just no longer being 'fully cooperative' with the investigation --- leading them to see the raid approval.
 
 The ex-president was at Trump Tower in New York City when the FBI raided his Florida estate. His son Eric Trump told Fox News that he was the one to inform his father of the raid.
 
-Trump and his allies quickly sought to cast the search as a weaponization of the criminal justice system and a Democratic-driven effort to keep him from winning another term in 2024 – though the Biden White House said it had no prior knowledge and current FBI Director, Christopher Wray, was appointed by Trump five years ago.
+Trump and his allies quickly sought to cast the search as a weaponization of the criminal justice system and a Democratic-driven effort to keep him from winning another term in 2024 --- though the Biden White House said it had no prior knowledge and current FBI Director, Christopher Wray, was appointed by Trump five years ago.
 
 Trump spoke out about the search in a lengthy statement late on the day of the search, describing it as an 'unannounced raid' that he likened to 'prosecutorial misconduct.'
 
@@ -47,13 +47,13 @@ Trump spoke out about the search in a lengthy statement late on the day of the s
 
 'The establishment hated it. Now, as they watch my endorsed candidates win big victories, and see my dominance in all polls, they are trying to stop me, and the Republican Party, once more. The lawlessness, political persecution, and Witch Hunt must be exposed and stopped.'
 
-Trumps' home in Florida was raided by FBI – which is believed to have been carried out to retrieve documents that the former president took from the White House when he left in January 2021.
+Trumps' home in Florida was raided by FBI --- which is believed to have been carried out to retrieve documents that the former president took from the White House when he left in January 2021.
 
 By law, all presidential correspondence and documentation must be handed over to the National Archives, but it has been reported that the former President did not comply.
 
 FBI agents were reportedly inside the 128-room Florida estate for nine hours on August 8, with 30 agents roaming through the 3,000-square-foot private quarters.
 
-It's been said that investigators ransacked his office for several hours – even going so far as to search through Melania's wardrobe, Trump revealed in a social media post days after.
+It's been said that investigators ransacked his office for several hours --- even going so far as to search through Melania's wardrobe, Trump revealed in a social media post days after.
 
 He wrote that they 'went through the First Lady's closets and rummaged through her clothing and personal items,' adding, 'Surprisingly, they left the area in a relative mess.'
 
@@ -67,7 +67,7 @@ The DOJ's counterintelligence and export control section chief, Jay Bratt, was r
 
 At one point, the former president himself reportedly stopped in to say hello and 'make small talk' before leaving again, CNN reported.
 
-During the visit, Trump's team showed the government officials where he was storing documents – in a basement.
+During the visit, Trump's team showed the government officials where he was storing documents --- in a basement.
 
 Days later, the FBI reportedly sent a letter to his staff asking them to secure the room where they observed the documents being stored. Aides then padlocked the area, according to CNN.
 

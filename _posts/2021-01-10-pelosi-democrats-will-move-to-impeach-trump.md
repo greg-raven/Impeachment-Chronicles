@@ -8,7 +8,7 @@ tags:
 
 House Democrats will stage a vote to impeach President Trump for encouraging mob violence at the Capitol last Wednesday, Speaker Nancy Pelosi (D-Calif.) announced Sunday night.
 
-Pelosi said the Democrats' preferred response to the attack on the U.S. Capitol is for Vice President Mike Pence to remove Trump by invoking the 25th Amendment — an unlikely scenario less than two weeks before Trump is set to leave office.
+Pelosi said the Democrats' preferred response to the attack on the U.S. Capitol is for Vice President Mike Pence to remove Trump by invoking the 25th Amendment --- an unlikely scenario less than two weeks before Trump is set to leave office.
 
 But in a letter to fellow Democrats, the Speaker vowed to bring a vote on impeachment in the absence of action by Pence, setting the stage for an historic first: the impeachment of a president for the second time in his tenure.
 
@@ -18,7 +18,7 @@ The timing of the impeachment vote remains unclear.
 
 Pelosi, who was personally targeted by some members of the pro-Trump mob in Wednesday's insurrection, laid out the Democrats' strategy for the days ahead.
 
-On Monday, they will try to adopt Maryland Democratic Rep. Jamie Raskin's 25th Amendment resolution by unanimous consent — a gambit sure to be blocked by Trump's conservative allies.
+On Monday, they will try to adopt Maryland Democratic Rep. Jamie Raskin's 25th Amendment resolution by unanimous consent --- a gambit sure to be blocked by Trump's conservative allies.
 
 "If we do not receive Unanimous Consent, this [Raskin] legislation is planned to be brought up on the Floor the following day. We are calling on the Vice President to respond within 24 hours," Pelosi wrote.
 

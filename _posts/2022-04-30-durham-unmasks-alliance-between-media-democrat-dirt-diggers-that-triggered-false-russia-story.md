@@ -11,7 +11,7 @@ Just days after Hillary Clinton emissaries Christopher Steele and Michael Sussma
 
 "Gents good to see you yesterday," a Fusion GPS executive wrote the reporters. "Sounded like you might be interested in some of the attached russia-related material. these are internal, open source research drafts, as agreed, pls treat this as background/not for attribution. as you'll see it's all easily replicated anyway."
 
-The invitation to further dirty up Donald Trump continued: "Can also send you a [name]/Toronto memo once i dig it out. I'm skipping over [name] and [company name]. believe your guys have done that up … leave it to you to distribute internally, or not, as you see fit. don't believe sunny isles/hollywood or panama or toronto have been touched by brands xy or z. amazingly, don't think anyone has done up the trump tower poker ring story either. pretty vivid color there."
+The invitation to further dirty up Donald Trump continued: "Can also send you a [name]/Toronto memo once i dig it out. I'm skipping over [name] and [company name]. believe your guys have done that up ... leave it to you to distribute internally, or not, as you see fit. don't believe sunny isles/hollywood or panama or toronto have been touched by brands xy or z. amazingly, don't think anyone has done up the trump tower poker ring story either. pretty vivid color there."
 
 The missive is one of hundreds of emails that Special Counsel John Durham has obtained between Clinton campaign operatives and journalists that spread "unverified derogatory information" about Donald Trump, spawning the false Russia collusion narrative shortly before Election Day 2016. They've now been made public in court filings.
 
@@ -35,7 +35,7 @@ Whatever the coverage, Durham's filings make abundantly clear the Clinton campai
 
 The Clinton campaign and its opposition research team "triggered a sizeable outflow of unverified derogatory information into the media, the government, and the public," Durham wrote in one filing.
 
-In another he added: "The documents produced by Fusion GPS to date reflect hundreds of emails in which Fusion GPS employees shared raw, unverified, and uncorroborated information — including their own draft research and work product — with reporters. And they appear to have done so as part of a (largely successful) effort to trigger negative news stories about" Trump.
+In another he added: "The documents produced by Fusion GPS to date reflect hundreds of emails in which Fusion GPS employees shared raw, unverified, and uncorroborated information --- including their own draft research and work product --- with reporters. And they appear to have done so as part of a (largely successful) effort to trigger negative news stories about" Trump.
 
 Durham said the flooding of the news media was so egregious that it obliterated any claim by the Clinton campaign that Fusion's work was attorney-client privileged work designed to advise on libel issues.
 
@@ -53,7 +53,7 @@ Some of Durham's newly released information shows how the Clinton campaign point
 
 For instance, the prosecutor noted that a Fusion GPS executive urged a reporter at the Wall Street Journal to "call [a named U.S. Representative] or [a named U.S. Senator]," stating, "I bet they are concerned about what [Trump Advisor-1] was doing other than giving a speech over 3 days in Moscow."
 
-Rep. Jim Jordan of Ohio, the ranking Republican on the House Judiciary Committee, told Just the News on Friday that Durham is showing just how closely the media, the Democratic establishment and some rogue elements in U.S intelligence worked together to perpetrate the false Russia story in 2016 — a pattern he said was repeated when the same forces falsely portrayed the Hunter Biden laptop as disinformation in 2020.
+Rep. Jim Jordan of Ohio, the ranking Republican on the House Judiciary Committee, told Just the News on Friday that Durham is showing just how closely the media, the Democratic establishment and some rogue elements in U.S intelligence worked together to perpetrate the false Russia story in 2016 --- a pattern he said was repeated when the same forces falsely portrayed the Hunter Biden laptop as disinformation in 2020.
 
 "What we all suspected all along is that the Clinton campaign was really pushing this," he said. "And we didn't know that they just made it up out of whole cloth. But that looks like exactly what they did."
 

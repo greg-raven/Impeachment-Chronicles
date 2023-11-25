@@ -98,6 +98,6 @@ The cyber experts, who go by the pseudonyms "Max" and "Tea Leaves," have spoken 
 
 A cyber firm that Alfa Bank hired to investigate the server allegations determined that the computer records were likely fabricated by "threat actors" who wanted "to make it appear as though a connection existed" between the Trump Organization and Alfa Bank.
 
-"If true, this would constitute a potential violation of various US federal laws," Ankura, the cyber firm, wrote in a report released Friday.
+"If true, this would constitute a potential violation of various U.S. federal laws," Ankura, the cyber firm, wrote in a report released Friday.
 
 Source: Chuck Ross, dailycaller.com/2020/04/27/christopher-steele-dossier-alfa-bank-perkins-coie/

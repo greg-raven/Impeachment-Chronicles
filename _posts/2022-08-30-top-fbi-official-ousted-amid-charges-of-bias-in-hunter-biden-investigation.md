@@ -5,7 +5,7 @@ tags:
 - Peter Roff
 ---
 
-Washington, D.C. – A senior FBI official has abruptly resigned, The Washington Times reported late Monday, amidst allegations he showed improper political bias during the bureau's investigation into information recovered from the hard drive of a laptop left by Hunter Biden in a Delaware computer repair shop.
+Washington, D.C. --- A senior FBI official has abruptly resigned, The Washington Times reported late Monday, amidst allegations he showed improper political bias during the bureau's investigation into information recovered from the hard drive of a laptop left by Hunter Biden in a Delaware computer repair shop.
 
 Timothy Thibault, an assistant special agent in charge in the FBI's Washington field office was "forced to leave his post" the paper reported in an exclusive, saying two former bureau officials familiar with the situation had provided the information and description of his departure.
 
@@ -13,7 +13,7 @@ Citing eyewitness accounts provided by one of them, Thibault was escorted from t
 
 "It is not clear whether Thibault left on his own accord or was forced out of the bureau. The 25-year FBI veteran was on leave for at least a month over revelations about political statements he made while leading the public corruption unit," Pickett and Mordock wrote.
 
-The now apparently disgraced former agent has for some time been at the center of criticism levied by GOP lawmakers on Capitol Hill over what some have called "anti-Trump remarks" he made in social media posts in 2020 — at the same time, he was reportedly helping lead the FBI's probe of the younger Biden's activities during then-former Vice President Joe Biden's ultimately successful presidential bid.
+The now apparently disgraced former agent has for some time been at the center of criticism levied by GOP lawmakers on Capitol Hill over what some have called "anti-Trump remarks" he made in social media posts in 2020 --- at the same time, he was reportedly helping lead the FBI's probe of the younger Biden's activities during then-former Vice President Joe Biden's ultimately successful presidential bid.
 
 Whether the FBI conducted the inquiry fairly and dispassionately or put its thumb on the scale in a bid to damage Donald Trump's reelection bid has been hotly disputed in many quarters. The documents found on the younger Biden's laptop revealed what the Times referred to as "shady business dealings and potential influence peddling" that on their face appeared politically damaging. Public speculation on the matter, which reached a near-fever pitch following several stories broken by the New York Post was quickly suppressed after some influential social media platforms used technology available to them to suppress the spread of the story.
 

@@ -13,7 +13,7 @@ President Trump did end up abiding by these court orders, but that didn't stop D
 
 At current count, Democrats have proffered 96 different reasons for impeaching Trump.
 
-Below you'll see a news list we've cross-posted from our sister site, NewsLists.co — [the original is here](https://lists.grabien.com/list-things-democrats-have-said-trump-could-be-impeached) — which is displayed chronologically.
+Below you'll see a news list we've cross-posted from our sister site, NewsLists.co --- [the original is here](https://lists.grabien.com/list-things-democrats-have-said-trump-could-be-impeached) --- which is displayed chronologically.
 
 By far the Democrats coming up with the most reasons for impeachment are Rep. Maxine Waters (D-Calif.) and Rep. Al Green (D-Texas). At current count, Waters has produced 14 different reasons she thinks Trump's impeachable; Green's come up with 18.
 

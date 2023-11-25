@@ -1,5 +1,5 @@
 ---
-title: "H.Res.646 — Impeaching Donald John Trump, President of the United States, of high misdemeanors"
+title: "H.Res.646 --- Impeaching Donald John Trump, President of the United States, of high misdemeanors"
 layout: post
 tags:
 - Al Green
@@ -16,8 +16,8 @@ Green, on the other hand, focused on the misdemeanors side arguing that the Pres
 The resolution accuses the President of
 
 - bringing "disrepute, contempt, ridicule and disgrace on the Presidency"
-- "associating … the presidency with causes rooted in white supremacy, bigotry, racism, anti-Semitism, white nationalism"
-- "inciting hate and hostility … on the basis of race, national origin, religion, gender, and sexual orientation"
+- "associating ... the presidency with causes rooted in white supremacy, bigotry, racism, anti-Semitism, white nationalism"
+- "inciting hate and hostility ... on the basis of race, national origin, religion, gender, and sexual orientation"
 
 **What supporters say**
 
@@ -31,11 +31,11 @@ If Andrew Johnson could be impeached for his public behavior when it disgraced t
 
 **What opponents say**
 
-Both the Democratic leadership and the White House opposed these articles of impeachment. Rep. Nancy Pelosi (D-CA12), the House Minority Leader, said that impeachment should not move forward until or unless there is evidence of crimes. The White House, as one might expect, does not believe that President Trump is a bigot or that he has disgraced the office. Raj Shah, a White House spokesperson, told Politico "It's disappointing that extremists in Congress still refuse to accept the President's decisive victory in last year's election…Their time would be better spent focusing on tax relief for American families and businesses, and working to fund our troops and veterans through the holiday season rather than threaten a government shutdown."
+Both the Democratic leadership and the White House opposed these articles of impeachment. Rep. Nancy Pelosi (D-CA12), the House Minority Leader, said that impeachment should not move forward until or unless there is evidence of crimes. The White House, as one might expect, does not believe that President Trump is a bigot or that he has disgraced the office. Raj Shah, a White House spokesperson, told Politico "It's disappointing that extremists in Congress still refuse to accept the President's decisive victory in last year's election...Their time would be better spent focusing on tax relief for American families and businesses, and working to fund our troops and veterans through the holiday season rather than threaten a government shutdown."
 
 **Vote**
 
-The vote against the resolution was decisive, losing by 364–58. Neither of the other resolutions of impeachment introduced this session have gone anywhere either — nor are they expected to.
+The vote against the resolution was decisive, losing by 364–58. Neither of the other resolutions of impeachment introduced this session have gone anywhere either --- nor are they expected to.
 
 Articles of impeachment against the President and related sorts of resolutions aren't uncommon. President Obama faced at least one resolution of condemnation and President Bush a resolution of impeachment. Neither of those resolutions went anywhere either. The previous president, President Clinton, was impeached (but not subsequently convicted by the Senate).
 

@@ -5,7 +5,7 @@ tags:
 - Natalia Mittelstadt
 ---
 
-Just days before 2016 Clinton campaign attorney Michael Sussmann met with the FBI over alleged Trump-Russia collusion – inspired by what he described as his desire to be a concerned citizen – Sussmann bought and billed the campaign for two flash drives on which he stored data that he presented to the bureau, a prosecution witness testified Wednesday.
+Just days before 2016 Clinton campaign attorney Michael Sussmann met with the FBI over alleged Trump-Russia collusion --- inspired by what he described as his desire to be a concerned citizen --- Sussmann bought and billed the campaign for two flash drives on which he stored data that he presented to the bureau, a prosecution witness testified Wednesday.
 
 Sussmann is on trial for a single charge of lying to the FBI in the September 2016 meeting for allegedly failing to disclose that he in fact was there as a private attorney clients.
 

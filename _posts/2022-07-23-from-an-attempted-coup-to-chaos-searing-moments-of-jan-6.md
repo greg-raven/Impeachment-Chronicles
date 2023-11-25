@@ -25,11 +25,11 @@ It laid out the conclusion that the panel would come back to in every hearing: t
 
 Capitol Police Officer Caroline Edwards, one of two witnesses at the first hearing, described what she saw outside the Capitol on Jan. 6 as a "war scene." As some Republicans, including Trump, have tried to play down the violence of the insurrection, calling it "peaceful," Edwards recalled the brutality she experienced on the front lines. She suffered a traumatic head injury that day as some of the first protesters barreled through the flimsy bike rack barriers that she and other officers were trying to hold.
 
-"I couldn't believe my eyes," Edwards testified. "There were officers on the ground. You know, they were bleeding. They were throwing up. … It was carnage. It was chaos."
+"I couldn't believe my eyes," Edwards testified. "There were officers on the ground. You know, they were bleeding. They were throwing up. ... It was carnage. It was chaos."
 
 **'Detached from reality'**
 
-The committee has used clips of its interview with former Attorney General Bill Barr in almost every hearing, showing the public over and over his definitive statements that the election was not stolen by Biden — and Barr's description of Trump's resistance as he told the president the truth.
+The committee has used clips of its interview with former Attorney General Bill Barr in almost every hearing, showing the public over and over his definitive statements that the election was not stolen by Biden --- and Barr's description of Trump's resistance as he told the president the truth.
 
 At the second hearing, the committee showed a clip of Barr recalling how he told Trump to his face that the Justice Department had found no evidence of the widespread voter fraud that Trump was claiming. Barr said he thought Trump had become "detached from reality" if he really believed his own theories and said there was "never an indication of interest in what the actual facts were."
 
@@ -37,7 +37,7 @@ At the second hearing, the committee showed a clip of Barr recalling how he told
 
 **A tense conversation**
 
-One question going into the hearings was what Trump and Vice President Mike Pence talked about in a phone call the morning of Jan. 6. The conversation came after Trump had pressured his vice president for weeks to try and somehow object or delay as he presided over Biden's certification. Pence firmly resisted and would gavel down Trump's defeat — and his own — in the early hours of Jan. 7, after rioters had been cleared from the Capitol.
+One question going into the hearings was what Trump and Vice President Mike Pence talked about in a phone call the morning of Jan. 6. The conversation came after Trump had pressured his vice president for weeks to try and somehow object or delay as he presided over Biden's certification. Pence firmly resisted and would gavel down Trump's defeat --- and his own --- in the early hours of Jan. 7, after rioters had been cleared from the Capitol.
 
 While only Trump and Pence were on the Jan. 6 call, White House aides filled in some details at the committee's third hearing by recounting what they heard Trump say on his end of the line.
 
@@ -99,7 +99,7 @@ Hours later, at 1:42 a.m., Trump sent a tweet urging supporters to come for a "b
 
 The final hearing focused on what Trump was doing for 187 minutes that afternoon, between his speech at the rally and when he finally released a video telling the rioters to go home at 4:17 p.m.
 
-They showed that Trump was sitting at a dining room table near the Oval Office, watching Fox News coverage of the violence. But he made no calls for help — not to the Defense Department, the Homeland Security Department or the attorney general — even as his aides repeatedly told him to call it off.
+They showed that Trump was sitting at a dining room table near the Oval Office, watching Fox News coverage of the violence. But he made no calls for help --- not to the Defense Department, the Homeland Security Department or the attorney general --- even as his aides repeatedly told him to call it off.
 
 In the video released at 4:17 p.m., as some of the worst of the fighting was still happening down the street, Trump told rioters to go home but said they were "very special."
 

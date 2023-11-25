@@ -11,6 +11,6 @@ Strzok and Page's names are connected to meetings and phone calls in the UK and 
 
 The records also include a letter from Congress demanding the investigation into Hillary Clinton, James Comey and others, as well as a scathing email from the House Permanent Select Committee on Intelligence on the lack of cooperation from the DOJ/FBI.
 
-[…]
+[...]
 
 Source: judicialwatch.org/fusion-gps-steele-2015/

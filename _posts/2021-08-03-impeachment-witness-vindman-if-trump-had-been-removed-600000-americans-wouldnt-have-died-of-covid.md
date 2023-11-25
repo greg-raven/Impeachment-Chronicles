@@ -13,7 +13,7 @@ Retired Lt. Col. Alexander Vindman, who made waves as a witness during the Trump
 
 MSNBC's Willie Geist, who sat down with Vindman, didn't question or even respond to the claim.
 
-Vindman, who has been on a media tour to promote a new book, was an important witness for Democrats during the House impeachment inquiry. Vindman raised concerns over Trump's phone call with Ukrainian President Volodymyr Zelensky, in which he pressed Kiev to launch an investigation concerning presidential candidate Joe Biden's family. However, the Senate voted to acquit the president on both charges against him — abuse of power and obstruction of Congress.
+Vindman, who has been on a media tour to promote a new book, was an important witness for Democrats during the House impeachment inquiry. Vindman raised concerns over Trump's phone call with Ukrainian President Volodymyr Zelensky, in which he pressed Kiev to launch an investigation concerning presidential candidate Joe Biden's family. However, the Senate voted to acquit the president on both charges against him --- abuse of power and obstruction of Congress.
 
 Vindman was fired by the National Security Council and escorted off the White House grounds on Feb. 7, 2020, only two days after Trump was acquitted.
 

@@ -11,7 +11,7 @@ James B. Comey, the former FBI director, on Thursday disputed an article that ap
 
 Answering a question about the *Times* article during an appearance before the Senate Intelligence Committee, Mr. Comey said that "in the main, it was not true."
 
-The article was the first to reveal direct contacts between Trump advisers and Russian officials before the election — contacts that are now at the heart of FBI and congressional investigations. Multiple news outlets have since published accounts that support the main elements of The Times's article, including information about phone calls and in-person meetings between Mr. Trump's advisers and Russians, some believed to be connected to Russian intelligence.
+The article was the first to reveal direct contacts between Trump advisers and Russian officials before the election --- contacts that are now at the heart of FBI and congressional investigations. Multiple news outlets have since published accounts that support the main elements of The Times's article, including information about phone calls and in-person meetings between Mr. Trump's advisers and Russians, some believed to be connected to Russian intelligence.
 
 Mr. Comey did not say exactly what he believed was incorrect about the article, which was based on information from four current and former American officials, all of whom spoke on the condition of anonymity because the information was classified. The original sources could not immediately be reached after Mr. Comey's remarks, but in the months since the article was published, they have indicated that they believed the account was solid.
 

@@ -9,7 +9,7 @@ tags:
 - Kaitlan Collins
 ---
 
-Washington (CNN) — Senate Majority Leader Mitch McConnell has indicated that he believes that impeaching President Donald Trump will make it easier to get rid of the President and Trumpism from the Republican Party, according to a source with knowledge of the matter.
+Washington (CNN) --- Senate Majority Leader Mitch McConnell has indicated that he believes that impeaching President Donald Trump will make it easier to get rid of the President and Trumpism from the Republican Party, according to a source with knowledge of the matter.
 
 Another person with direct knowledge told CNN there's a reason McConnell has been silent on impeachment as other Republicans have pushed back: he's furious about last week's attack on the U.S. Capitol by the President's supporters, even more so that Trump has shown no contrition. His silence has been deliberate as he leaves open the option of supporting impeachment.
 
@@ -21,7 +21,7 @@ Several GOP sources said on Tuesday that if McConnell supports conviction, Trump
 
 "If Mitch is a yes, he's done," said one Senate GOP source who asked not to be named.
 
-Many Republican senators are staying quiet about whether they'll back conviction — a sign that they, too, could support conviction in an effort to rid Trump from their party.
+Many Republican senators are staying quiet about whether they'll back conviction --- a sign that they, too, could support conviction in an effort to rid Trump from their party.
 
 *The New York Times* was first to report on McConnell's thoughts about impeachment.
 
@@ -33,7 +33,7 @@ Another senior White House adviser said, "Resignation means admitting failure. S
 
 "We will get through the 20th and move on," the adviser said.
 
-The relationship between the Senate majority leader and the President — the two most powerful men in the Republican Party — has essentially collapsed, multiple sources told CNN.
+The relationship between the Senate majority leader and the President --- the two most powerful men in the Republican Party --- has essentially collapsed, multiple sources told CNN.
 
 A source familiar with the relationship between the two men told CNN that McConnell is furious with Trump. The source said McConnell "hates" Trump for what he did last week following the attacks on the Capitol that left at least five people dead including a Capitol Hill police officer.
 
@@ -43,7 +43,7 @@ McConnell couldn't get Trump on the phone when he refused to sign the stimulus b
 
 McConnell is also speaking with the President-elect about how the chamber should handle an impeachment trial against Trump.
 
-Biden is not trying to stop the impeachment proceedings, but he is trying to keep them from consuming his agenda and overshadowing the early days of his presidency. CNN has learned Biden called McConnell on Monday to discuss the possibility of "bifurcation" — doing impeachment proceedings alongside confirming his nominees and approving a sweeping Covid relief package.
+Biden is not trying to stop the impeachment proceedings, but he is trying to keep them from consuming his agenda and overshadowing the early days of his presidency. CNN has learned Biden called McConnell on Monday to discuss the possibility of "bifurcation" --- doing impeachment proceedings alongside confirming his nominees and approving a sweeping Covid relief package.
 
 The two men spoke frankly about a potential impeachment trial for Trump, people familiar with the call said, as both of them noted it would be far different from the trial they sat through in 1999 for then-President Bill Clinton.
 

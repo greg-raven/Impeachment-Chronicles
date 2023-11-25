@@ -17,11 +17,11 @@ This phone call started as a routine conversation between world leaders. Trump w
 
 Simple enough.
 
-But things get complicated when we dig into what Trump wants Zelensky to investigate — because it has to do with a conspiracy theory Trump has peddled.
+But things get complicated when we dig into what Trump wants Zelensky to investigate --- because it has to do with a conspiracy theory Trump has peddled.
 
-The theory is that, when Biden was vice president, he pushed to get Ukrainian prosecutor Viktor Shokin fired. This much is true, and Biden says as much; Shokin did not crack down on rampant corruption in Ukraine, and US leaders — including the Obama administration, top Democrats, and several Republican senators — wanted Shokin fired. But Trump has a theory that Biden pushed for Shokin to be fired because Shokin was investigating a company called Burisma — a company Biden's son, Hunter, worked for.
+The theory is that, when Biden was vice president, he pushed to get Ukrainian prosecutor Viktor Shokin fired. This much is true, and Biden says as much; Shokin did not crack down on rampant corruption in Ukraine, and US leaders --- including the Obama administration, top Democrats, and several Republican senators --- wanted Shokin fired. But Trump has a theory that Biden pushed for Shokin to be fired because Shokin was investigating a company called Burisma --- a company Biden's son, Hunter, worked for.
 
-The very short version of this is: Ukraine's top prosecutor was fired for not investigating corruption, but Trump is pushing a theory that he was fired for … investigating corruption.
+The very short version of this is: Ukraine's top prosecutor was fired for not investigating corruption, but Trump is pushing a theory that he was fired for ... investigating corruption.
 
 Once we get through all the confusion Trump has introduced, we get back to the simple thing Trump did wrong: He asked a foreign leader to investigate his political opponent.
 

@@ -33,7 +33,7 @@ The report says if the Clinton campaign knowingly supplied this false informatio
 
 So, again, months before the press started stampeding false claims of Russian collusion into three impeachment attempts that strangled Trump's ability to wield the power voters had given him, the heads of U.S. intelligence agencies, the sitting president and head of the Democratic Party, and Democrats' next president were aware it was a political disinformation operation with no basis in fact. The head of that same FBI that ran a multi-year spy operation against Trump based on this claim knew it was politically motivated disinformation before the lie even got its boots on.
 
-This goes far beyond agency "bias." It is the complete corruption of half of the nation's political party system and its federal law enforcement. It is the systematic disenfranchisement of Americans who don't agree with the national security blob — or wouldn't, if that blob allowed them to learn true facts about its evil machinations.
+This goes far beyond agency "bias." It is the complete corruption of half of the nation's political party system and its federal law enforcement. It is the systematic disenfranchisement of Americans who don't agree with the national security blob --- or wouldn't, if that blob allowed them to learn true facts about its evil machinations.
 
 It is the systematic weaponization of the U.S. national security apparatus against constitutional self-government. It is the end of government of the people, by the people, and for the people in the United States of America. That's what Durham's report shows. Anyone who doesn't treat this as a five-alarm fire set by saboteurs is helping fan the flames.
 
@@ -45,7 +45,7 @@ When the feds learned of a foreign influence operation seeking to target Hillary
 
 When the feds learned that a foreign influence operation might be seeking to target Trump, they warned almost everyone except the Trump campaign. The FBI, DOJ, and CIA not only gave Trump's campaign no defensive briefings on such potential threats, the report says, these agencies used the threats as an excuse to surveil Trump's campaign and boost Clinton's disinformation operation linking Trump to Russia in the press.
 
-"The speed with which surveillance of a U.S. person associated with Trump's campaign was authorized … are difficult to explain compared to the FBI's and the [Justice] Department's actions nearly two years earlier when confronted with corroborated allegations of attempted foreign influence involving Clinton, who at the time was still an undeclared candidate for the presidency," says the report on pages 73 and 74.
+"The speed with which surveillance of a U.S. person associated with Trump's campaign was authorized ... are difficult to explain compared to the FBI's and the [Justice] Department's actions nearly two years earlier when confronted with corroborated allegations of attempted foreign influence involving Clinton, who at the time was still an undeclared candidate for the presidency," says the report on pages 73 and 74.
 
 ## 3. Dismissing Foreign Funds Transfers for Clinton, Not for Trump
 
@@ -63,7 +63,7 @@ We already knew from the years The Federalist has spent unraveling Spygate that 
 
 Durham's report shows multiple instances of McCabe, Strzok, Page, and their superiors wielding federal law enforcement positions as weapons against Republicans. The [Durham Report]({% post_url 2023-05-12-durham-report %}) contains more evidence that high-level federal intelligence officials see it as routine to put powerful Democrats above the law.
 
-Besides the disparate treatment outlined above and many other such instances, Durham's report includes a telling text exchange between Strzok and Page. It shows them deciding not to apply the law to Hillary Clinton because of her powerful position. It seems that the powerful are indeed above the law in the United States — provided they're affiliated with the Democratic Party.
+Besides the disparate treatment outlined above and many other such instances, Durham's report includes a telling text exchange between Strzok and Page. It shows them deciding not to apply the law to Hillary Clinton because of her powerful position. It seems that the powerful are indeed above the law in the United States --- provided they're affiliated with the Democratic Party.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Report makes it clear that DOJ and FBI officials are afraid of Democrat retribution, but not of Republicans. See exchange between FBI's McCabe and Page: <a href="https://t.co/CUxd78rFRK">https://t.co/CUxd78rFRK</a> <a href="https://t.co/7kkSf4U5ai">pic.twitter.com/7kkSf4U5ai</a></p>&mdash; Joy Pullmann (@JoyPullmann) <a href="https://twitter.com/JoyPullmann/status/1658204003451150340?ref_src=twsrc%5Etfw">May 15, 2023</a></blockquote>
 
@@ -71,7 +71,7 @@ Besides the disparate treatment outlined above and many other such instances, Du
 
 Key FBI figures refused interviews with Durham's team, including Comey, Strzok, the Clinton campaign's Marc Elias, McCabe, Page, and Glenn Simpson of the opposition research firm that cooked up the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) for Clinton's campaign.
 
-Add that to the many instances of "former" FBI and CIA figures being employed in social media companies to assist with government censorship demands, and going on TV to fuel the Russiagate hoax and other lies to Americans about crucial public issues. It adds up to yet another indication of an intelligence state using its vast — and unconstitutional — powers on behalf of the Democrat Party.
+Add that to the many instances of "former" FBI and CIA figures being employed in social media companies to assist with government censorship demands, and going on TV to fuel the Russiagate hoax and other lies to Americans about crucial public issues. It adds up to yet another indication of an intelligence state using its vast --- and unconstitutional --- powers on behalf of the Democrat Party.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Oh, look, another FBI Counterintelligence Division guy smearing the Durham report that outed his former department -- acting like he's still working for the FBI <a href="https://t.co/AoaiCFdbg4">https://t.co/AoaiCFdbg4</a></p>&mdash; Joy Pullmann (@JoyPullmann) <a href="https://twitter.com/JoyPullmann/status/1658535493305286657?ref_src=twsrc%5Etfw">May 16, 2023</a></blockquote>
 
@@ -79,7 +79,7 @@ Add that to the many instances of "former" FBI and CIA figures being employed in
 
 ## 6. Refusing to Obey Congressional Subpoenas About Records on Biden Corruption
 
-Durham's report indicates that the FBI repeatedly sat on evidence the Clinton campaign was accepting bribes — payments in exchange for policy preferences. The FBI is still doing that with Joe Biden. According to several high-level members of Congress, the FBI has been refusing to release to them subpoenaed, non-classified information about how it handled documentation alleging that Biden also traded political favors for campaign donations.
+Durham's report indicates that the FBI repeatedly sat on evidence the Clinton campaign was accepting bribes --- payments in exchange for policy preferences. The FBI is still doing that with Joe Biden. According to several high-level members of Congress, the FBI has been refusing to release to them subpoenaed, non-classified information about how it handled documentation alleging that Biden also traded political favors for campaign donations.
 
 "We know the FBI relied on unverified claims to relentlessly target a Republican president. What did the FBI do to investigate claims involving a Democrat President?" asked Sen. Chuck Grassley, R-Iowa.
 
@@ -91,7 +91,7 @@ Congressional subpoenas have the force of law. Federal agencies operate at the d
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Durham report concludes that FBI had evidence the Steele Dossier could have been sourced to Russian disinformation and didn't disclose this fact to keep getting warrants to spy on Trump. <a href="https://t.co/61pbBO0kNb">pic.twitter.com/61pbBO0kNb</a></p>&mdash; Mark Hemingway (@Heminator) <a href="https://twitter.com/Heminator/status/1658197577223766018?ref_src=twsrc%5Etfw">May 15, 2023</a></blockquote>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was so disgusted by the Jan. 6 riot that I deleted my Twitter account. I wrote introspective pieces on wanting to be part of the solution. (And I never liked Trump, and I thought Biden beat him.)<br><br>The Durham Report is 100x worse than Jan. 6. It didn't reveal a handful of nuts… <a href="https://t.co/xYS4Kar9T6">pic.twitter.com/xYS4Kar9T6</a></p>&mdash; Political Sock (@politicalsock) <a href="https://twitter.com/politicalsock/status/1658245445183762433?ref_src=twsrc%5Etfw">May 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I was so disgusted by the Jan. 6 riot that I deleted my Twitter account. I wrote introspective pieces on wanting to be part of the solution. (And I never liked Trump, and I thought Biden beat him.)<br><br>The Durham Report is 100x worse than Jan. 6. It didn't reveal a handful of nuts... <a href="https://t.co/xYS4Kar9T6">pic.twitter.com/xYS4Kar9T6</a></p>&mdash; Political Sock (@politicalsock) <a href="https://twitter.com/politicalsock/status/1658245445183762433?ref_src=twsrc%5Etfw">May 15, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 It's been publicly known for decades that the FBI uses its surveillance, investigatory, and other law enforcement powers to manipulate American politics. Recall its surveillance of Martin Luther King Jr. and infamous FBI head J. Edgar Hoover's spying on the Supreme Court, Congress, and presidents.
 

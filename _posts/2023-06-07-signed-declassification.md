@@ -5,9 +5,9 @@ tags:
 - Jim Hoft
 ---
 
-- Signed Letter by President Trump Reveals He Declassified Docs on Obama Regime Spying on Him the Day Before He Left Office – Explains Why They Raided Mar-a-Lago – CONFIRMS Our Previous Reporting
+- Signed Letter by President Trump Reveals He Declassified Docs on Obama Regime Spying on Him the Day Before He Left Office --- Explains Why They Raided Mar-a-Lago --- CONFIRMS Our Previous Reporting
 
-DC Draino on Wednesday morning tweeted out a signed letter by President Trump dated January 19, 2021. This was the day before President Trump left office. The presidential letter declassifies all of the Crossfire Hurricane documents that prove Barack Obama, James Comey, John Brennan, James Clapper, the FBI, CIA, State Department and Deep State spied on him and knew the Trump-Russia collusion hoax was a scam.
+DC Draino on Wednesday morning tweeted out a signed letter by President Trump dated January 19, 2021. This was the day before President Trump left office. The presidential letter declassifies all of the [Crossfire Hurricane]({ %post_url 2016-07-31-crossfire-hurricane %}) documents that prove Barack Obama, James Comey, John Brennan, James Clapper, the FBI, CIA, State Department, and Deep State spied on him and knew the Trump-Russia collusion hoax was a scam.
 
 This is devastating news for the Biden regime. Don't expect this to make any headlines in the fake news today!
 
@@ -45,7 +45,7 @@ Cristina Laila reported this earlier today.
 
 Zero Hedge reported:
 
-> Twitter has suspended journalist Paul Sperry after he made several tweets about this week's FBI raid on Trump's Mar-a-Lago residence, where they spent up to 9 hours rifling through the former president's private office, Melania Trump's wardrobe, and eventually took 12 boxes of material…
+> Twitter has suspended journalist Paul Sperry after he made several tweets about this week's FBI raid on Trump's Mar-a-Lago residence, where they spent up to 9 hours rifling through the former president's private office, Melania Trump's wardrobe, and eventually took 12 boxes of material...
 >
 > Sperry: "DEVELOPING: Investigators reportedly met back in June w Trump & his lawyers in Mar-a-Lago storage rm to survey docs & things seemed copasetic but then FBI raids weeks later. Speculation on Hill FBI had PERSONAL stake & searching for classified docs related to its #Spygate scandal."
 >

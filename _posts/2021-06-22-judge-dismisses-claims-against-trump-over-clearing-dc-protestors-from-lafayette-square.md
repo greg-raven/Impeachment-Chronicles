@@ -17,7 +17,7 @@ In June 2020, Black Lives Matter DC sued Trump, Barr, and Esper after officers' 
 
 Friedrich found the claims against former President Trump and other federal officials to have failed on the merits of several different aspects. Friedrich said of the allegations that there wasn't enough evidence that the Trump administration committed conspiracy against the protesters, stating that evidence failed to find an "agreement or meeting of the minds" which violated the rights of protesters.
 
-"Here, the management of possible violence, enforcement of the impending curfew, and policing of demonstrators in Lafayette Square in advance of the President's travel across the Square generate 'obvious alternative explanation[s]'… for the defendants' communications and activities other than having formed an agreement to violate the plaintiffs' civil rights," Friedrich wrote.
+"Here, the management of possible violence, enforcement of the impending curfew, and policing of demonstrators in Lafayette Square in advance of the President's travel across the Square generate 'obvious alternative explanation[s]'... for the defendants' communications and activities other than having formed an agreement to violate the plaintiffs' civil rights," Friedrich wrote.
 
 Under the rule of law, federal officials cannot be sued over official actions; however, there is an exception to that rule if actions resulted in constitutional violations. This exception is called a "Bivens action."
 
@@ -35,7 +35,7 @@ According to the report, the operation to begin clearing the park started at 2:2
 
 "We found that the USPP had the authority and discretion to clear Lafayette Park and the surrounding areas on June 1," the report states. "The evidence we obtained did not support a finding that the USPP cleared the park to allow the President to survey the damage and walk to St. John's Church."
 
-"… the evidence we reviewed showed that the USPP cleared the park to allow the contractor to safely install the antiscale fencing in response to destruction of property and injury to officers occurring on May 30 and 31," said the report. "Further, the evidence showed that the USPP did not know about the President's potential movement until mid- to late afternoon on June 1—hours after it had begun developing its operational plan and the fencing contractor had arrived in the park."
+"... the evidence we reviewed showed that the USPP cleared the park to allow the contractor to safely install the antiscale fencing in response to destruction of property and injury to officers occurring on May 30 and 31," said the report. "Further, the evidence showed that the USPP did not know about the President's potential movement until mid- to late afternoon on June 1---hours after it had begun developing its operational plan and the fencing contractor had arrived in the park."
 
 The report also admits that while they did issue a dispersal warning, not everyone may have heard it, which contributed to the confusion that evening, and said "weaknesses in communication and coordination" between officers and commanders may have also contributed to the confusion.
 

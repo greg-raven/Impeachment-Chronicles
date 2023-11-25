@@ -14,7 +14,7 @@ Under the late Sen. John McCain, the Armed Services Committee engaged a former F
 
 The Senate committee, now under Democrats' control, successfully waged a secret federal court battle this summer to quash a subpoena that would have forced one of its staffers, Thomas Kirk McConnell, to turn over documents and testify about his dealings with former FBI analyst Dan Jones and his nonprofit, The Democracy Integrity Project, the records show.
 
-A spokesman for George Soros confirms the progressive megadonor was one of the financial backers of The Democracy Integrity Project. Tax records show the group raised more than $7 million in donations in 2017 and hired Fusion GPS — the same firm that produced the debunked Steele dossier for Hillary Clinton's campaign — to pursue allegations of foreign interference in elections.
+A spokesman for George Soros confirms the progressive megadonor was one of the financial backers of The Democracy Integrity Project. Tax records show the group raised more than $7 million in donations in 2017 and hired Fusion GPS --- the same firm that produced the debunked Steele dossier for Hillary Clinton's campaign --- to pursue allegations of foreign interference in elections.
 
 The episode, recounted in hundreds of pages of federal and D.C. Superior court records, provides extraordinary insight into how current and former government officials in multiple branches of government were able to sustain a Russia collusion theory on artificial life support for years after the FBI first dispelled it.
 
@@ -24,7 +24,7 @@ The FBI, the Russia collusion probe Special Counsel Robert Mueller, and now Durh
 
 Nonetheless, the court documents show, Jones continues to stake his reputation on the theory, insisting there was and is good reason to believe it. His lawyers argued in a recent court filing that Alfa Bank should not be allowed to release documents publicly chronicling Jones' dealings with the Senate, including the complete 600-plus page report he filed in October 2018 with the committee and his contacts with a Democratic staffer on the committee.
 
-"The report reached seven findings … Those findings are accurate," his lawyer William Taylor argued in a Sept. 14 court filing. The Armed Services Committee first engaged his client's services in spring 2017 while McCain was chairman, the filing revealed, and Jones performed his work free of charge for more than a year through The Democracy Integrity Project, also known as TDIP.
+"The report reached seven findings ... Those findings are accurate," his lawyer William Taylor argued in a Sept. 14 court filing. The Armed Services Committee first engaged his client's services in spring 2017 while McCain was chairman, the filing revealed, and Jones performed his work free of charge for more than a year through The Democracy Integrity Project, also known as TDIP.
 
 "TDIP and Mr. Jones's analysis was conducted confidentially and pursuant to TDIP's public interest mission," the filing added. "TDIP was not paid for its analysis." The final report was never made public by the committee.
 
@@ -52,7 +52,7 @@ According to the new court records obtained by Just the News, the Senate Armed S
 
 Jones spent "more than a year rigorously analyzing" the data to produce a 687-page research paper, an abridged version of which is an exhibit in the filing. He wasn't paid by the Senate for his work, which according to one congressional ethics expert could raise red flags under Senate ethics rules.
 
-"Generally speaking, the gift rule prohibits in-kind donation of services along with other things of value," said Jason Foster, a former investigator on Sen. Charles Grassley's staff and the current president of Empower Oversight, an organization supporting government whistleblowers. "The facts described in the filing — particularly that TDIP 'retained computer science experts to examine the data,' following a request from a Senate staffer and then provided the results of that analysis at no charge — raise questions about whether that arrangement was evaluated and approved by the Ethics Committee."
+"Generally speaking, the gift rule prohibits in-kind donation of services along with other things of value," said Jason Foster, a former investigator on Sen. Charles Grassley's staff and the current president of Empower Oversight, an organization supporting government whistleblowers. "The facts described in the filing --- particularly that TDIP 'retained computer science experts to examine the data,' following a request from a Senate staffer and then provided the results of that analysis at no charge --- raise questions about whether that arrangement was evaluated and approved by the Ethics Committee."
 
 Last week, Durham's special counsel investigation made public evidence suggesting the Alfa Bank story had been concocted to frame Trump as a Russian agent. In his 27-page indictment of Sussmann, Durham included emails between the former DOJ official and computer experts. The purpose of their research was to "give the base of a very useful narrative." The indictment alleged Sussmann brought the allegation to the FBI in September 2016 even after his team expressed concerns it was a "red herring."
 

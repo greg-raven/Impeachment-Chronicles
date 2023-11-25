@@ -13,6 +13,6 @@ The SPAC, Digital World Acquisition Corp., disclosed the investigation in a fili
 
 It added that in late October and early November, the Financial Industry Regulatory Authority requested information "surrounding events (specifically, a review of trading) that preceded the public announcement of" the SPAC's merger with Trump's company, Trump Media &amp; Technology Group.
 
-[…]
+[...]
 
 Source: Will Feuer, nypost.com/2021/12/06/trump-spac-under-investigation-by-feds-sec/

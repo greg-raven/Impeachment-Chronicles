@@ -5,7 +5,7 @@ tags:
 - Paul Sperry
 ---
 
-Barely two weeks after Donald Trump took office, Eric Ciaramella – the CIA analyst whose name was recently linked in a tweet by the president and mentioned by lawmakers as the anonymous "whistleblower" who touched off Trump's impeachment – was overheard in the White House discussing with another staffer how to remove the newly elected president from office, according to former colleagues.
+Barely two weeks after Donald Trump took office, Eric Ciaramella --- the CIA analyst whose name was recently linked in a tweet by the president and mentioned by lawmakers as the anonymous "whistleblower" who touched off Trump's impeachment --- was overheard in the White House discussing with another staffer how to remove the newly elected president from office, according to former colleagues.
 
 Sources told RealClearInvestigations the staffer with whom Ciaramella was speaking was Sean Misko. Both were Obama administration holdovers working in the Trump White House on foreign policy and national security issues. And both expressed anger over Trump's new "America First" foreign policy, a sea change from President Obama's approach to international affairs.
 
@@ -29,9 +29,9 @@ All unnamed sources for this article spoke only on condition that they not be fu
 
 Democrats based their impeachment case on the whistleblower complaint, which alleges that President Trump sought to help his re-election campaign by demanding that Ukraine's leader investigate former Vice President Joe Biden and his son Hunter in exchange for military aid. Yet Schiff, who heads the House Intelligence Committee, and other Democrats have insisted on keeping the identity of the whistleblower secret, citing concern for his safety, while arguing that his testimony no longer matters because other witnesses and documents have "corroborated" what he alleged in his complaint about the Ukraine call.
 
-Republicans have fought unsuccessfully to call him as a witness, arguing that his motivations and associations are relevant – and that the president has the same due-process right to confront his accuser as any other American.
+Republicans have fought unsuccessfully to call him as a witness, arguing that his motivations and associations are relevant --- and that the president has the same due-process right to confront his accuser as any other American.
 
-The whistleblower's candor is also being called into question. It turns out that the CIA operative failed to report his contacts with Schiff's office to the intelligence community's inspector general who fielded his whistleblower complaint. He withheld the information both in interviews with the inspector general, Michael Atkinson, and in writing, according to impeachment committee investigators. The whistleblower form he filled out required him to disclose whether he had "contacted other entities" — including "members of Congress." But he left that section blank on the disclosure form he signed.
+The whistleblower's candor is also being called into question. It turns out that the CIA operative failed to report his contacts with Schiff's office to the intelligence community's inspector general who fielded his whistleblower complaint. He withheld the information both in interviews with the inspector general, Michael Atkinson, and in writing, according to impeachment committee investigators. The whistleblower form he filled out required him to disclose whether he had "contacted other entities" --- including "members of Congress." But he left that section blank on the disclosure form he signed.
 
 The investigators say that details about how the whistleblower consulted with Schiff's staff and perhaps misled Atkinson about those interactions are contained in the transcript of a closed-door briefing Atkinson gave to the House Intelligence Committee last October. However, Schiff has sealed the transcript from public view. It is the only impeachment witness transcript out of 18 that he has not released.
 
@@ -49,7 +49,7 @@ An Obama holdover and registered Democrat, Ciaramella in early 2017 expressed ho
 
 At the time, the CIA operative worked on loan to the White House as a top Ukrainian analyst in the National Security Council, where he had previously served as an adviser on Ukraine to Vice President Biden. The whistleblower complaint cites Biden, alleging that Trump demanded Ukraine's newly elected leader investigate him and his son "to help the president's 2020 reelection bid."
 
-Two NSC co-workers told RCI that they overheard Ciaramella and Misko – who was also working at the NSC as an analyst – making anti-Trump remarks to each other while attending a staff-wide NSC meeting called by then-National Security Adviser Michael Flynn, where they sat together in the south auditorium of the Eisenhower Executive Office Building, part of the White House complex.
+Two NSC co-workers told RCI that they overheard Ciaramella and Misko --- who was also working at the NSC as an analyst --- making anti-Trump remarks to each other while attending a staff-wide NSC meeting called by then-National Security Adviser Michael Flynn, where they sat together in the south auditorium of the Eisenhower Executive Office Building, part of the White House complex.
 
 The "all hands" meeting, held about two weeks into the new administration, was attended by hundreds of NSC employees.
 
@@ -81,13 +81,13 @@ A CIA alumnus, Misko had previously assisted Biden's top national security aide 
 
 The February 2017 incident wasn't the only time the pair exhibited open hostility toward the president. During the following months, both were accused internally of leaking negative information about Trump to the media.
 
-But Trump's controversial call to the new president of Ukraine this past summer — in which he asked the foreign leader for help with domestic investigations involving the Obama administration, including Biden — gave them the opening they were looking for.
+But Trump's controversial call to the new president of Ukraine this past summer --- in which he asked the foreign leader for help with domestic investigations involving the Obama administration, including Biden --- gave them the opening they were looking for.
 
-A mutual ally in the National Security Council who was one of the White House officials authorized to listen in on Trump's July 25 conversation with Ukraine's president leaked it to Ciaramella the next day — July 26 — according to former NSC co-workers and congressional sources. The friend, Ukraine-born Lt. Col. Alexander Vindman, held Ciaramella's old position at the NSC as director for Ukraine. Although Ciaramella had left the White House to return to the CIA in mid-2017, the two officials continued to collaborate through interagency meetings.
+A mutual ally in the National Security Council who was one of the White House officials authorized to listen in on Trump's July 25 conversation with Ukraine's president leaked it to Ciaramella the next day --- July 26 --- according to former NSC co-workers and congressional sources. The friend, Ukraine-born Lt. Col. Alexander Vindman, held Ciaramella's old position at the NSC as director for Ukraine. Although Ciaramella had left the White House to return to the CIA in mid-2017, the two officials continued to collaborate through interagency meetings.
 
 Vindman leaked what he'd heard to Ciaramella by phone that afternoon, the sources said. In their conversation, which lasted a few minutes, he described Trump's call as "crazy," and speculated he had "committed a criminal act." Neither reviewed the transcript of the call before the White House released it months later.
 
-NSC co-workers said that Vindman, like Ciaramella, openly expressed his disdain for Trump, whose foreign policy was often at odds with the recommendations of "the interagency" — a network of agency working groups comprised of intelligence bureaucrats, experts and diplomats who regularly meet to craft and coordinate policy positions inside the federal government.
+NSC co-workers said that Vindman, like Ciaramella, openly expressed his disdain for Trump, whose foreign policy was often at odds with the recommendations of "the interagency" --- a network of agency working groups comprised of intelligence bureaucrats, experts and diplomats who regularly meet to craft and coordinate policy positions inside the federal government.
 
 Before he was detailed to the White House, Vindman served in the U.S. Army, where he once received a reprimand from a superior officer for badmouthing and ridiculing America in front of Russian soldiers his unit was training with during a joint 2012 exercise in Germany.
 
@@ -129,7 +129,7 @@ Laufman and Zaid are old friends who have worked together on legal matters in th
 
 Laufman recently defended Zaid on Twitter after Trump blasted Zaid for advocating a "coup" against him. "These attacks on Mark Zaid's patriotism are baseless, irresponsible and dangerous," Laufman tweeted. "Mark is an ardent advocate for his clients."
 
-After the CIA analyst was coached on how to file a complaint under Intelligence Community whistleblower protections, he was steered to another Obama holdover — former Justice Department attorney-turned-inspector general Michael Atkinson — who facilitated the processing of his complaint, despite numerous red flags raised by career Justice Department lawyers who reviewed it.
+After the CIA analyst was coached on how to file a complaint under Intelligence Community whistleblower protections, he was steered to another Obama holdover --- former Justice Department attorney-turned-inspector general Michael Atkinson --- who facilitated the processing of his complaint, despite numerous red flags raised by career Justice Department lawyers who reviewed it.
 
 The department's Office of Legal Counsel ruled that the complaint involved "foreign diplomacy," not intelligence, contained "hearsay" evidence based on "secondhand" information, and did not meet the definition of an "urgent concern" that needed to be reported to Congress. Still, Atkinson worked closely with Schiff to pressure the White House to make the complaint public.
 
@@ -173,7 +173,7 @@ Atkinson's office declined comment.
 
 **Another 'Co-Conspirator'?**
 
-During closed-door depositions taken in the impeachment inquiry, Ciaramella's confederate Misko was observed handing notes to Schiff's lead counsel for the impeachment inquiry, Daniel Goldman – another Obama Justice attorney and a major Democratic donor – as he asked questions of Trump administration witnesses, officials with direct knowledge of the proceedings told RealClearInvestigations. Misko also was observed sitting on the dais behind Democratic members during last month's publicly broadcast joint impeachment committee hearings.
+During closed-door depositions taken in the impeachment inquiry, Ciaramella's confederate Misko was observed handing notes to Schiff's lead counsel for the impeachment inquiry, Daniel Goldman --- another Obama Justice attorney and a major Democratic donor --- as he asked questions of Trump administration witnesses, officials with direct knowledge of the proceedings told RealClearInvestigations. Misko also was observed sitting on the dais behind Democratic members during last month's publicly broadcast joint impeachment committee hearings.
 
 Another Schiff recruit believed to be part of the clandestine political operation against Trump is Abby Grace, who also worked closely with Ciaramella at the NSC, both before and after Trump was elected. During the Obama administration, Grace was an assistant to Obama national security aide Ben Rhodes.
 

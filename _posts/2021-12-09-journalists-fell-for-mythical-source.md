@@ -7,13 +7,13 @@ tags:
 
 After Special Counsel John Durham last month charged the primary source of the [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) with lying to investigators about a Trump supporter providing its most explosive allegations, some high-profile journalists who made a connection between the supporter, Sergei Millian, and the dossier have retracted their published reporting.
 
-But others have resisted doing so — including Yahoo News' Michael Isikoff and *Mother Jones'* David Corn, who co-authored a book erroneously linking Millian to the dossier.
+But others have resisted doing so --- including Yahoo News' Michael Isikoff and *Mother Jones'* David Corn, who co-authored a book erroneously linking Millian to the dossier.
 
-In their 2018 bestseller, "Russian Roulette: The Inside Story of Putin's War on America and the Election of Donald Trump," the authors identified Millian as the source of the allegation that the Kremlin had a blackmail tape of Trump with prostitutes – the so-called "pee tape."
+In their 2018 bestseller, "Russian Roulette: The Inside Story of Putin's War on America and the Election of Donald Trump," the authors identified Millian as the source of the allegation that the Kremlin had a blackmail tape of Trump with prostitutes --- the so-called "pee tape."
 
 "Millian would come to play an oversized role in the Trump-Russia story by apparently making sensational and unverified claims about what had gone on inside a Moscow hotel room," Isikoff and Corn wrote. Only, Millian made no such claims.
 
-According to a federal grand jury indictment of Igor Danchenko, a former Brookings Institution analyst who provided much of the dossier's content, Danchenko falsely attributed the dirt to Millian. The Belarusian-American businessman was described in the dossier as a "close associate" of Trump, which also is untrue, giving unwarranted credibility to the salacious sex rumor. The indictment suggests that the real source was another Clinton operative – former Hillary Clinton campaign adviser Charles Dolan – who confessed to Durham's investigators there was nothing to the rumor.
+According to a federal grand jury indictment of Igor Danchenko, a former Brookings Institution analyst who provided much of the dossier's content, Danchenko falsely attributed the dirt to Millian. The Belarusian-American businessman was described in the dossier as a "close associate" of Trump, which also is untrue, giving unwarranted credibility to the salacious sex rumor. The indictment suggests that the real source was another Clinton operative --- former Hillary Clinton campaign adviser Charles Dolan --- who confessed to Durham's investigators there was nothing to the rumor.
 
 A few pages later, Isikoff and Corn reported, based on information passed on to them by paid Clinton campaign agent Glenn Simpson of Fusion GPS, that "Simpson would later learn from [ex-UK spy and dossier author Christopher] Steele the identity of Source D, the main source for the 'golden showers' allegation. It was Sergei Millian."
 
@@ -33,7 +33,7 @@ In an attempt to face up to his own part in pushing the dossier fables, Corn las
 
 Corn avoided mentioning Millian a single time in his 4,000-word essay and even cited "Russian Roulette" in his defense. In his telling, the fact that he and Isikoff showed some skepticism by reporting that the Justice Department watchdog revealed Steele may have exaggerated his most sensational allegations, makes up for repeating those stories in their book. Corn also continues to feature "Russian Roulette" as the backdrop to his Twitter page.
 
-Corn admits he "chased after some of the allegations" but "couldn't nail anything down." Even so, he called on the FBI to investigate Millian in a Jan. 19, 2017, *Mother Jones* story. Months earlier, Corn gave a copy of the dossier to then-FBI General Counsel James Baker, whom he knows socially. (The magazine has appended an editor's note to that article, stating: "Earlier *Mother Jones* reporting noted that Sergei Millian was reportedly a source for the Steele dossier … Content making reference to Millian has been appropriately updated.")
+Corn admits he "chased after some of the allegations" but "couldn't nail anything down." Even so, he called on the FBI to investigate Millian in a Jan. 19, 2017, *Mother Jones* story. Months earlier, Corn gave a copy of the dossier to then-FBI General Counsel James Baker, whom he knows socially. (The magazine has appended an editor's note to that article, stating: "Earlier *Mother Jones* reporting noted that Sergei Millian was reportedly a source for the Steele dossier ... Content making reference to Millian has been appropriately updated.")
 
 In an RCI interview, Millian said that in addition to correcting the record, both men owe him an apology.
 
@@ -45,7 +45,7 @@ While it would be impossible to correct print editions published long ago, neith
 
 Their publisher, Twelve, an imprint of Hachette Book Group, did not reply to emails seeking comment. On the book's official website, the New York-based publisher promotes "Russian Roulette" as a "# 1 NEW YORK TIMES BESTSELLER," but has not posted any updates or corrections to the webpage.
 
-The site quotes "praise" for the authors from Maddow, who gushed, "Two of the best and most accomplished investigative reporters of their generation, two of the best investigative reporters we have in this country. … [A] superpower reporting team."
+The site quotes "praise" for the authors from Maddow, who gushed, "Two of the best and most accomplished investigative reporters of their generation, two of the best investigative reporters we have in this country. ... [A] superpower reporting team."
 
 It also includes this blurb from a *New York Times* review: "Russian Roulette is the most thorough and riveting account."
 

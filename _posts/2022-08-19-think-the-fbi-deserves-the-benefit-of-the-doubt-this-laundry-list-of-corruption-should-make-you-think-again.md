@@ -159,7 +159,7 @@ Prosecutors indicted Stevens on charges that he had concealed that he did not pa
 
 Prosecutors, however, secured a conviction by hiding evidence that incriminated their own witnesses, one of whom came up with testimony right before trial, with inconsistent statements concealed from the defense, according to the D.C. paper.
 
-> Likewise, the government concealed evidence that its star witness had suborned perjury from an underage prostitute with whom the star witness had an illegal sexual relationship. And the government concealed evidence that another witness — whom the government flew back to Alaska away from the Washington, D.C., trial after their mock cross-examination of him went poorly — had told the senator that the bills he received and promptly paid included all of the work that was done. Government prosecutors mocked Stevens when he explained that on the stand — all the while knowing that they had a witness who would have supported him, but whom they had removed from the trial.
+> Likewise, the government concealed evidence that its star witness had suborned perjury from an underage prostitute with whom the star witness had an illegal sexual relationship. And the government concealed evidence that another witness --- whom the government flew back to Alaska away from the Washington, D.C., trial after their mock cross-examination of him went poorly --- had told the senator that the bills he received and promptly paid included all of the work that was done. Government prosecutors mocked Stevens when he explained that on the stand --- all the while knowing that they had a witness who would have supported him, but whom they had removed from the trial.
 
 **Rep. Jeff Fortenberry's Conviction**
 
@@ -179,7 +179,7 @@ The bureau turned instead to charging Mateen's widow, Noor Salman, with material
 
 Meanwhile, the New York Times reported on Salmon's 2018 trial:
 
-> Testimony from an F.B.I. agent revealed that prosecutors knew early on, but did not reveal, that one of their crucial initial pieces of evidence — that Ms. Salman had admitted driving by the nightclub with her husband in the days before the attack — most likely did not happen.
+> Testimony from an F.B.I. agent revealed that prosecutors knew early on, but did not reveal, that one of their crucial initial pieces of evidence --- that Ms. Salman had admitted driving by the nightclub with her husband in the days before the attack --- most likely did not happen.
 
 Salmon was ultimately acquitted after a 12-hour jury deliberation.
 

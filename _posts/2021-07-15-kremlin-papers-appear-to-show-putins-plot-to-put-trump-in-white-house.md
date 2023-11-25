@@ -25,11 +25,11 @@ The Guardian has shown the documents to independent experts who say they appear 
 
 The Kremlin responded dismissively. Putin's spokesman Dmitri Peskov said the idea that Russian leaders had met and agreed to support Trump in at the meeting in early 2016 was "a great pulp fiction" when contacted by the Guardian on Thursday morning.
 
-The report – "No 32-04 \\ vd" – is classified as secret. It says Trump is the "most promising candidate" from the Kremlin's point of view. The word in Russian is perspektivny.
+The report --- "No 32-04 \\ vd" --- is classified as secret. It says Trump is the "most promising candidate" from the Kremlin's point of view. The word in Russian is perspektivny.
 
 There is a brief psychological assessment of Trump, who is described as an "impulsive, mentally unstable and unbalanced individual who suffers from an inferiority complex".
 
-There is also apparent confirmation that the Kremlin possesses kompromat, or potentially compromising material, on the future president, collected – the document says – from Trump's earlier "non-official visits to Russian Federation territory".
+There is also apparent confirmation that the Kremlin possesses kompromat, or potentially compromising material, on the future president, collected --- the document says --- from Trump's earlier "non-official visits to Russian Federation territory".
 
 The paper refers to "certain events" that happened during Trump's trips to Moscow. Security council members are invited to find details in appendix five, at paragraph five, the document states. It is unclear what the appendix contains.
 
@@ -39,7 +39,7 @@ This would help bring about Russia's favoured "theoretical political scenario". 
 
 **The Kremlin summit**
 
-There is no doubt that the meeting in January 2016 took place – and that it was convened inside the Kremlin.
+There is no doubt that the meeting in January 2016 took place --- and that it was convened inside the Kremlin.
 
 An official photo of the occasion shows Putin at the head of the table, seated beneath a Russian Federation flag and a two-headed golden eagle. Russia's then prime minister, Dmitry Medvedev, attended, together with the veteran foreign minister, Sergei Lavrov.
 
@@ -49,7 +49,7 @@ According to a press release, the discussion covered the economy and Moldova.
 
 The document seen by the Guardian suggests the security council's real, covert purpose was to discuss the confidential proposals drawn up by the president's analytical service in response to U.S. sanctions against Moscow.
 
-The author appears to be Vladimir Symonenko, the senior official in charge of the Kremlin's expert department – which provides Putin with analytical material and reports, some of them based on foreign intelligence.
+The author appears to be Vladimir Symonenko, the senior official in charge of the Kremlin's expert department --- which provides Putin with analytical material and reports, some of them based on foreign intelligence.
 
 The papers indicate that on 14 January 2016 Symonenko circulated a three-page executive summary of his team's conclusions and recommendations.
 
@@ -67,9 +67,9 @@ There are paragraphs on how Russia might insert "media viruses" into American pu
 
 After the meeting, according to a separate leaked document, Putin issued a decree setting up a new and secret interdepartmental commission. Its urgent task was to realise the goals set out in the "special part" of document No 32-04 \\ vd.
 
-Members of the new working body were stated to include Shoigu, Fradkov and Bortnikov. Shoigu was named commission chair. The decree – ukaz in Russian – said the group should take practical steps against the U.S. as soon as possible. These were justified on national security grounds and in accordance with a 2010 federal law, 390-FZ, which allows the council to formulate state policy on security matters.
+Members of the new working body were stated to include Shoigu, Fradkov and Bortnikov. Shoigu was named commission chair. The decree --- ukaz in Russian --- said the group should take practical steps against the U.S. as soon as possible. These were justified on national security grounds and in accordance with a 2010 federal law, 390-FZ, which allows the council to formulate state policy on security matters.
 
-According to the document, each spy agency was given a role. The defence minister was instructed to coordinate the work of subdivisions and services. Shoigu was also responsible for collecting and systematising necessary information and for "preparing measures to act on the information environment of the object" – a command, it seems, to hack sensitive American cyber-targets identified by the SVR.
+According to the document, each spy agency was given a role. The defence minister was instructed to coordinate the work of subdivisions and services. Shoigu was also responsible for collecting and systematising necessary information and for "preparing measures to act on the information environment of the object" --- a command, it seems, to hack sensitive American cyber-targets identified by the SVR.
 
 The SVR was told to gather additional information to support the commission's activities. The FSB was assigned counter-intelligence. Putin approved the apparent document, dated 22 January 2016, which his chancellery stamped.
 

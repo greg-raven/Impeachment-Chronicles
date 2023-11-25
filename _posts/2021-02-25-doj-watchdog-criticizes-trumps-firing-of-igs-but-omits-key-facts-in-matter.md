@@ -5,7 +5,7 @@ tags:
 - Jeff Carlson
 ---
 
-Michael Horowitz, the Justice Department inspector general who wrote the Dec. 9, 2019, [Review of Four FISA Applications]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}), recently reaffirmed his earlier statements that Trump fired two inspectors general "for doing their jobs" and called Trump's presidency "a challenging time … particularly in the last year" during a Feb. 10 online discussion hosted by Harvard Law School and moderated by Jack Goldsmith.
+Michael Horowitz, the Justice Department inspector general who wrote the Dec. 9, 2019, [Review of Four FISA Applications]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}), recently reaffirmed his earlier statements that Trump fired two inspectors general "for doing their jobs" and called Trump's presidency "a challenging time ... particularly in the last year" during a Feb. 10 online discussion hosted by Harvard Law School and moderated by Jack Goldsmith.
 
 The interview came just a few weeks after Horowitz's office announced on Jan. 15 that it was "initiating a review to examine the role and activity of DOJ and its components in preparing for and responding to the events at the U.S. Capitol on Jan. 6, 2021." The IG's office also is investigating "whether any former or current DOJ official engaged in an improper attempt to have DOJ seek to alter the outcome of the 2020 Presidential Election."
 
@@ -47,7 +47,7 @@ Notably, Atkinson admitted in his letter that he "did not request access to reco
 
 Had he done so, he would have discovered numerous discrepancies between the complaint and the actual call by the president.
 
-These important details should have been well known to Horowitz—particularly given his status as the DOJ's inspector general. That Horowitz was either unaware of these crucial details or chose to simply ignore them is alarming.
+These important details should have been well known to Horowitz---particularly given his status as the DOJ's inspector general. That Horowitz was either unaware of these crucial details or chose to simply ignore them is alarming.
 
 In addition to his position on Atkinson, Horowitz also stood by an earlier finding that "the FBI complied with its policies in opening the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation in July 2016." This finding had been disputed by both former Attorney General Bill Barr and special counsel John Durham, both of whom felt strongly enough to issue statements on the matter.
 

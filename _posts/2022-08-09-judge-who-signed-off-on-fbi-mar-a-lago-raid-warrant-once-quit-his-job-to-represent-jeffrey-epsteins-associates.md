@@ -13,7 +13,7 @@ As the *Miami Herald* explained in 2018:
 
 > Jeffrey Epstein also hired Bruce Reinhart, then an assistant U.S. attorney in South Florida, now a U.S. magistrate. He left the U.S. Attorney's Office (which was prosecuting Epstein) on Jan. 1, 2008, and went to work representing Epstein's employees on Jan. 2, 2008, court records show. In 2011, Reinhart was named in the Crime Victims' Rights Act lawsuit, which accused him of violating Justice Department policies by switching sides, implying that he leveraged inside information about Epstein's investigation to curry favor with Epstein.
 >
-> […]
+> [...]
 >
 > Reinhart's defection was one of many highly unusual turns that the Epstein case took 12 years ago, moves that could merit examination as the multimillionaire's controversial non-prosecution agreement is dissected in the wake of his arrest last week on sex trafficking charges.
 

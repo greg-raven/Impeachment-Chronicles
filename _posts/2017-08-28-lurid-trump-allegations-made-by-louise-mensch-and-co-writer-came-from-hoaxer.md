@@ -17,7 +17,7 @@ The source's false tips included an allegation, which has been aggressively circ
 
 The hoaxer, who fed the information to Taylor by email, said she acted out of frustration over the "dissemination of fake news" by Taylor and Mensch. Their false stories about Trump have included a claim that he was already being replaced as president by Senator Orrin Hatch in a process kept secret from the American public.
 
-"Taylor asked no questions to verify my identity, did no vetting whatsoever, sought no confirmation from a second source – but instead asked leading questions to support his various theories, asking me to verify them," the source said in an email.
+"Taylor asked no questions to verify my identity, did no vetting whatsoever, sought no confirmation from a second source --- but instead asked leading questions to support his various theories, asking me to verify them," the source said in an email.
 
 After being approached for comment by the Guardian on Monday, Taylor posted what he described as a "mea culpa" on Twitter. "As a 'citizen journalist' I acknowledge my error and do apologize," he wrote.
 
@@ -53,9 +53,9 @@ After being asked by a follower for more information, Taylor claimed to know eve
 
 Taylor and Mensch also repeated an invented claim from the source that former president Bill Clinton knew of criminal wrongdoing by Trump's model agency and was preparing to testify for the prosecution. Taylor posted another series of tweets making lurid allegations about Trump's model agency that yet again matched invented claims supplied to him in emails from the hoaxer.
 
-Since Taylor posted the allegations about Trump's model agency, Mensch has pushed similar claims and pushed the hashtag "#PIMPOTUS" – a play on "pimp" and the acronym for president of the United States. Citing what she said were her own sources connected to the intelligence community, she published an article expanding on the allegations on 15 August, tagging the post with the label "Eric Schneiderman". Mensch had claimed to have knowledge of inquiries by Schneiderman's office before the hoaxer contacted Taylor.
+Since Taylor posted the allegations about Trump's model agency, Mensch has pushed similar claims and pushed the hashtag "#PIMPOTUS" --- a play on "pimp" and the acronym for president of the United States. Citing what she said were her own sources connected to the intelligence community, she published an article expanding on the allegations on 15 August, tagging the post with the label "Eric Schneiderman". Mensch had claimed to have knowledge of inquiries by Schneiderman's office before the hoaxer contacted Taylor.
 
-The source also falsely specified to Taylor that the state case was "proceeding under the NY version of a RICO statute" – referring to the federal Racketeering Influence and Corrupt Organizations Act – "which is called enterprise corruption."
+The source also falsely specified to Taylor that the state case was "proceeding under the NY version of a RICO statute" --- referring to the federal Racketeering Influence and Corrupt Organizations Act --- "which is called enterprise corruption."
 
 In another tweet on 22 July, Taylor claimed that "in point of fact" Schneiderman's office was "using New York's 'Enterprise Corruption' statutes which are that State's RICO corollary" in its apparent pursuit of Trump and his associates.
 
@@ -65,6 +65,6 @@ Taylor repeatedly asked the hoaxer whether Rudy Giuliani, the former New York Ci
 
 A few hours later, Taylor tweeted to claim that he had confirmed Giuliani was "a target of NYAG Trump Organization/money laundering/Russian Organized Crime investigation". He repeated several other false details provided by the source.
 
-[…]
+[...]
 
 Source: Jon Swaine, theguardian.com/us-news/2017/aug/28/trump-tweets-hoax-louise-mensch-claude-taylor

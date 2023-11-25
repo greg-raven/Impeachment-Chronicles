@@ -25,7 +25,7 @@ Other text messages released by Republican Sen. Ron Johnson, chairman of the Sen
 
 In another text from September of 2016, Strzok was informed that allegations that a Trump organization server was secretly communicating with Russian agents are "no longer pointing to any active mail server."
 
-Strzok also knew that there were "27 confirmed classified TOTAL (26 to ClintonEmail, 1 to Yahoo): -6 of the 27 were SECRET then (4 of which remain SECRET now and 2 of which are CONFIDENTIAL) – 21 of the 27 were CONFIDENTIAL then (16 of which remain CONFIDENTIAL now and 5 of which are UNCLASS or FOUO)" on Clinton's private email server.
+Strzok also knew that there were "27 confirmed classified TOTAL (26 to ClintonEmail, 1 to Yahoo): -6 of the 27 were SECRET then (4 of which remain SECRET now and 2 of which are CONFIDENTIAL) --- 21 of the 27 were CONFIDENTIAL then (16 of which remain CONFIDENTIAL now and 5 of which are UNCLASS or FOUO)" on Clinton's private email server.
 
 In addition to stoking the investigation into Russian collusion, Strzok is also responsible for reopening a criminal counterintelligence investigation into former National Security Advisor Gen. Michael Flynn even though an FBI memorandum previously closed the case after "no derogatory information was identified in FBI holdings."
 

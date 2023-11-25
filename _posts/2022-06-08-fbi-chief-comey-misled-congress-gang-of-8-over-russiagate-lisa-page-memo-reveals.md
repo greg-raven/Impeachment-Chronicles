@@ -5,7 +5,7 @@ tags:
 - Paul Sperry
 ---
 
-- Lisa Page, as an FBI lawyer in 2017, wrote "[talking points]({% post_url 2017-03-08-talking-points %})" for Director James Comey ahead of a briefing to Congress — a memo now exposed for its deceptions. Her lawyer, Amy Jeffress, is the wife of the judge for the trial of recently acquitted ex-Clinton lawyer Michael Sussmann.
+- Lisa Page, as an FBI lawyer in 2017, wrote "[talking points]({% post_url 2017-03-08-talking-points %})" for Director James Comey ahead of a briefing to Congress --- a memo now exposed for its deceptions. Her lawyer, Amy Jeffress, is the wife of the judge for the trial of recently acquitted ex-Clinton lawyer Michael Sussmann.
 
 The FBI deceived the House, Senate and the Justice Department about the substance and strength of evidence undergirding its counterintelligence investigation of President Trump, according to a recently declassified document and other material.
 
@@ -15,27 +15,27 @@ The talking points were prepared by Lisa Page, a senior FBI lawyer who later res
 
 Quoting from the reports, Comey told congressional leaders that the unidentified informant told the FBI that Manafort "initially 'managed' the relationship between Russian government officials and the Trump campaign, using Carter Page as an intermediary." He also told them that "Page was reported to have had 'secret meetings' in early July 2016 with a named individual in Russia's presidential administration during which they discussed Russia's release of damaging information on Hillary Clinton in exchange for alterations to the GOP platform regarding U.S. policy towards Ukraine."
 
-But previous FBI interviews with Carter Page and other key sources indicated that none of that was true – and the FBI knew it at the time of the congressional briefings.
+But previous FBI interviews with Carter Page and other key sources indicated that none of that was true --- and the FBI knew it at the time of the congressional briefings.
 
 The Lisa Page memo anticipated concerns about the quality of information Comey was relaying to Congress and suggested he preempt any concerns with another untruth. The memo advised Comey to tell lawmakers that "some" of the reporting "has been corroborated," and to point out that the informant's "reporting in this matter is derived primarily from a Russian-based source," which made it sound more credible.
 
 By this point, however, the FBI knew that the main source feeding unsubstantiated rumors to the informant, Christopher Steele, a former British intelligence agent paid by Hillary Clinton's campaign to dig up dirt on Trump, was American-based.
 
-The FBI first interviewed that source – a Russian national named Igor Danchenko who was living in the U.S. and had worked at the Brookings Institution – in January 2017. Danchenko had told them that the anti-Trump dirt he funneled to Steele was dubious hearsay passed along over drinks with his high school buddies and an old girlfriend named Olga Galkina, who had made up the accusations about Carter Page and Manafort that the FBI relayed to Congress.
+The FBI first interviewed that source --- a Russian national named Igor Danchenko who was living in the U.S. and had worked at the Brookings Institution --- in January 2017. Danchenko had told them that the anti-Trump dirt he funneled to Steele was dubious hearsay passed along over drinks with his high school buddies and an old girlfriend named Olga Galkina, who had made up the accusations about Carter Page and Manafort that the FBI relayed to Congress.
 
-Danchenko is now under criminal indictment in Special Counsel John Durham's ongoing investigation for lying about the sourcing for his information. The source to whom he attributed spurious charges against Trump – including his being compromised by a sex tape held by the Kremlin – was a fabrication, according to the indictment. He never spoke with the person as he claimed. Another source turned out to be a longtime Hillary Clinton campaign adviser.
+Danchenko is now under criminal indictment in Special Counsel John Durham's ongoing investigation for lying about the sourcing for his information. The source to whom he attributed spurious charges against Trump --- including his being compromised by a sex tape held by the Kremlin --- was a fabrication, according to the indictment. He never spoke with the person as he claimed. Another source turned out to be a longtime Hillary Clinton campaign adviser.
 
 The FBI did not tell the Gang of Eight that Danchenko was working for Steele and did not really have any sources inside the Kremlin, according to the script prepared for Comey, which was recently declassified as part of pre-trial discovery in Special Counsel John Durham's probe. The FBI also concealed Steele's identity and the fact he was working for the Clinton campaign.
 
 **'Crowning' Deception**
 
-Adding to the deception, Comey referred to the unnamed informant by the codename "CROWN," making it appear as if Steele's dossier was a product of British intelligence, although Steele had not worked for the British government for several years and was reporting entirely in a private capacity. According to the talking-points memo, Comey also withheld from Congress the fact that Steele had been fired by the FBI for leaking information to the media. Instead of sharing that critical information about his reliability and credibility – to say nothing of his political and financial motivations – Comey hid the truth about his star informant from the nation's top lawmakers.
+Adding to the deception, Comey referred to the unnamed informant by the codename "CROWN," making it appear as if Steele's dossier was a product of British intelligence, although Steele had not worked for the British government for several years and was reporting entirely in a private capacity. According to the talking-points memo, Comey also withheld from Congress the fact that Steele had been fired by the FBI for leaking information to the media. Instead of sharing that critical information about his reliability and credibility --- to say nothing of his political and financial motivations --- Comey hid the truth about his star informant from the nation's top lawmakers.
 
 "If asked about CROWN/Steele" during the briefing, the memo anticipated, Comey was to tell lawmakers only that "CROWN, a former FBI CHS, is a former friendly foreign intelligence service employee who reported for about three years, and some of whose reporting has been corroborated."
 
-Meanwhile, FBI headquarters officials were duping the Foreign Intelligence Surveillance Act (FISA) court in similar fashion in order to continue to obtain warrants to spy on Carter Page. They led judges on the secret surveillance court to believe Danchenko was "Russian-based" – and therefore presumably more credible.
+Meanwhile, FBI headquarters officials were duping the Foreign Intelligence Surveillance Act (FISA) court in similar fashion in order to continue to obtain warrants to spy on Carter Page. They led judges on the secret surveillance court to believe Danchenko was "Russian-based" --- and therefore presumably more credible.
 
-The official in charge of vetting the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) at the time – and interviewing him and his primary source Danchenko to corroborate their allegations – was FBI Supervisory Intelligence Analyst Brian Auten. By March 2017, Auten knew the "Russian-based" claim was untrue, and yet he let case agents slip it into two FISA renewal requests targeting Page.
+The official in charge of vetting the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) at the time --- and interviewing him and his primary source Danchenko to corroborate their allegations --- was FBI Supervisory Intelligence Analyst Brian Auten. By March 2017, Auten knew the "Russian-based" claim was untrue, and yet he let case agents slip it into two FISA renewal requests targeting Page.
 
 Auten seemed to become concerned about the falsehood only when the Senate Judiciary Committee asked to see the Page spy warrants. He then reviewed the FISA applications in advance of Comey briefing the panel on March 15 and raised concerns with then-FBI attorney Kevin Clinesmith, who was assisting with redactions to the documents before sharing them with Congress. Auten wondered in text messages whether a correction should be reported to the court. But no amendment was ever made.
 

@@ -17,11 +17,11 @@ The machinations are summarized in several memos and emails exchanged between th
 
 The most complete summary was contained in a lengthy letter dated May 10 that acting National Archivist Debra Steidel Wall sent Trump's lawyers summarizing the White House's involvement.
 
-"On April 11, 2022, the White House Counsel's Office — affirming a request from the Department of Justice supported by an FBI letterhead memorandum — formally transmitted a request that NARA provide the FBI access to the 15 boxes for its review within seven days, with the possibility that the FBI might request copies of specific documents following its review of the boxes," Wall wrote Trump defense attorney Evan Corcoran.
+"On April 11, 2022, the White House Counsel's Office --- affirming a request from the Department of Justice supported by an FBI letterhead memorandum --- formally transmitted a request that NARA provide the FBI access to the 15 boxes for its review within seven days, with the possibility that the FBI might request copies of specific documents following its review of the boxes," Wall wrote Trump defense attorney Evan Corcoran.
 
 That letter revealed Biden empowered the National Archives and Records Administration to waive any claims to executive privilege that Trump might assert to block DOJ from gaining access to the documents.
 
-"The Counsel to the President has informed me that, in light of the particular circumstances presented here, President Biden defers to my determination, in consultation with the Assistant Attorney General for the Office of Legal Counsel, regarding whether or not I should uphold the former President's purported 'protective assertion of executive privilege,'" Wall wrote. "… I have therefore decided not to honor the former President's 'protective' claim of privilege."
+"The Counsel to the President has informed me that, in light of the particular circumstances presented here, President Biden defers to my determination, in consultation with the Assistant Attorney General for the Office of Legal Counsel, regarding whether or not I should uphold the former President's purported 'protective assertion of executive privilege,'" Wall wrote. "... I have therefore decided not to honor the former President's 'protective' claim of privilege."
 
 The memos provide the most definitive evidence to date of the current White House's effort to facilitate a criminal probe of the man Joe Biden beat in the 2020 election and may face again as a challenger in 2024. That involvement included eliminating one of the legal defenses Trump might use to fight the FBI over access to his documents.
 
@@ -57,7 +57,7 @@ But a dozen days later, Wall informed Corcoran that she had the blessing of Bide
 
 "It has now been four weeks since we first informed you of our intent to provide the FBI access to the boxes so that it and others in the Intelligence Community can conduct their reviews. Notwithstanding the urgency conveyed by the Department of Justice and the reasonable extension afforded to the former President, your April 29 letter asks for additional time for you to review the materials in the boxes.
 
-"Accordingly, I have consulted with the Assistant Attorney General for the Office of Legal Counsel to inform my 'determination as to whether to honor the former President's claim of privilege or instead to disclose the Presidential records notwithstanding the claim of privilege.' … I have therefore decided not to honor the former President's 'protective' claim of privilege."
+"Accordingly, I have consulted with the Assistant Attorney General for the Office of Legal Counsel to inform my 'determination as to whether to honor the former President's claim of privilege or instead to disclose the Presidential records notwithstanding the claim of privilege.' ... I have therefore decided not to honor the former President's 'protective' claim of privilege."
 
 Within a couple of weeks of Wall's letter to Corocoran, the DOJ sent a grand jury subpoena to Trump's team demanding the return of any remaining national security documents, which precipitated a voluntary visit by the FBI to Mar-a-Lago on June 3, when agents picked a small amount of materials Trump's lawyers said were responsive to the subpoena
 

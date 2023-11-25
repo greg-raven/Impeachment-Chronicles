@@ -11,7 +11,7 @@ Even before formal articles of impeachment are drawn up, the proper result is cl
 
 Trump should be removed and disqualified from office for the precise set of reasons our Constitution's Framers created this extraordinary process: As he has told us repeatedly, he will seek and use information from foreign governments and agents to pervert our next presidential election to his personal, political, and pecuniary benefit.
 
-The facts — at least the broad outlines and necessary highlights — are already well known, so the question is not: What did the president say and when did he say it?
+The facts --- at least the broad outlines and necessary highlights --- are already well known, so the question is not: What did the president say and when did he say it?
 
 All but a handful of the president's most fervent congressional cheerleaders know the answers. We also know that what he said and did is not okay. And, by the time of the Senate trial, the question will no longer be: Is what he did and said impeachable? That process will by then be done.
 
@@ -34,14 +34,14 @@ When it comes to foreign election interference: Fool America once, shame on Trum
 
 As so often, the wisdom of our Constitutional Framers is instructive. Spoiler alert: Alexander Hamilton (in Federalist No. 72) knew Trump was coming:
 
-> An avaricious man, who might happen to fill the office, looking forward to … yield[ing] up the emoluments he enjoyed … might not scruple to have recourse to the most corrupt expedients.
+> An avaricious man, who might happen to fill the office, looking forward to ... yield[ing] up the emoluments he enjoyed ... might not scruple to have recourse to the most corrupt expedients.
 >
-> An ambitious man, too, when … seated on the summit of his country's honors, … would be … violently tempted to embrace a favorable conjuncture for attempting the prolongation of his power, at every personal hazard.
+> An ambitious man, too, when ... seated on the summit of his country's honors, ... would be ... violently tempted to embrace a favorable conjuncture for attempting the prolongation of his power, at every personal hazard.
 
-Put another way, Donald Trump likes how he can line his and his family's pockets with emoluments — at his D.C. hotel, his far-flung golf resorts, Mar-a-Lago. Now, with the potential of election loss next year, he makes "recourse to the most corrupt expedients." He is indeed "violently tempted" to every effort to prolong his power.
+Put another way, Donald Trump likes how he can line his and his family's pockets with emoluments --- at his D.C. hotel, his far-flung golf resorts, Mar-a-Lago. Now, with the potential of election loss next year, he makes "recourse to the most corrupt expedients." He is indeed "violently tempted" to every effort to prolong his power.
 
 Our Framers expected, our Constitution allows, and our national ideals demand that Donald Trump be prevented from cheating in the next election. Other than denying him the Republican party nomination, impeachment by the House and removal and disqualification by the Senate is the only remedy.
 
-[…]
+[...]
 
 Source: R. J. Lyman, thebulwark.com/this-is-the-single-best-argument-for-why-trump-should-be-impeached-and-removed/

@@ -7,7 +7,7 @@ tags:
 
 - Rep. Adam Schiff in an exclusive interview on 'Meet the Press' on Sunday defended the House Intelligence Committee continuing to look into the matter.
 
-WASHINGTON — Despite denials from some top intelligence officials that there was any evidence of collusion between associates of Donald Trump's presidential campaign and Russian operatives while Moscow tried to interfere with the 2016 election, Rep. Adam Schiff on Sunday defended the House Intelligence Committee continuing to look into the matter.
+WASHINGTON --- Despite denials from some top intelligence officials that there was any evidence of collusion between associates of Donald Trump's presidential campaign and Russian operatives while Moscow tried to interfere with the 2016 election, Rep. Adam Schiff on Sunday defended the House Intelligence Committee continuing to look into the matter.
 
 Two weeks ago on "Meet The Press," James Clapper, the Director of National Intelligence under President Obama, denied that any evidence of such collusion existed while he oversaw the work of U.S. intelligence agencies. The Trump administration has also reiterated those denials.
 
@@ -31,6 +31,6 @@ Trump then added:
 
 > "The real story that Congress, the FBI and all others should be looking into is the leaking of Classified information. Must find leaker now!"
 
-[…]
+[...]
 
 Source: Kailani Koenig, nbcnews.com/politics/politics-news/schiff-defends-committee-examining-russia-trump-connections-n735391

@@ -9,7 +9,7 @@ At the same time that Department of Justice officials were using spying and corr
 
 In 2016-2017, the evidence shows, the FBI raided the offices and intercepted the communications of Chi Ping "Patrick" Ho, a Chinese national suspected of espionage even as he was negotiating business deals with former Vice President Joe Biden's son Hunter and brother James.
 
-DOJ later used information obtained from the searches and wiretaps – which included conversations with the current President's son and brother – to convict Ho of bribery and money laundering, as part of a separate corruption case involving United Nations officials. But it declined to tap into its trove of evidence – including "over 100,000 emails" – to explore the connections between Ho and the Bidens, who received millions of dollars from Ho and a Chinese intelligence front and discussed sharing office space.
+DOJ later used information obtained from the searches and wiretaps --- which included conversations with the current President's son and brother --- to convict Ho of bribery and money laundering, as part of a separate corruption case involving United Nations officials. But it declined to tap into its trove of evidence --- including "over 100,000 emails" --- to explore the connections between Ho and the Bidens, who received millions of dollars from Ho and a Chinese intelligence front and discussed sharing office space.
 
 At Ho's 2018 trial, prosecutors hid Hunter's connection to Ho, redacting his name from court exhibits while describing Ho as "the person who flies around the world paying bribes to advance the interest of the oil company [CEFC China Energy]," according to hearing transcripts.
 
@@ -29,6 +29,6 @@ Other veterans of the bureau say the Obama and Biden administrations have politi
 
 An FBI spokeswoman said the agency had no comment on why it did not apply the foreign lobbying law equally. The Justice Department did not return requests for comment.
 
-[…]
+[...]
 
 Source: Paul Sperry, realclearinvestigations.com/articles/2023/03/15/feds\_foreign-agent\_double\_standard\_protective\_of\_bidens\_even\_as\_they\_bore\_down\_on\_trumpworld_885544.html

@@ -8,7 +8,7 @@ tags:
 
 House Democrats on Monday sent to the Senate their single impeachment article against former President Trump, officially putting the former president on trial for his role in the deadly mob attack on the Capitol earlier in the month.
 
-The ceremonial delivery — a somber cross-Capitol march performed by the nine Democratic House members who will prosecute the case — was a legal formality. The House had impeached Trump 12 days ago, and Senate leaders have agreed to postpone the start of the public trial until the week of Feb. 8.
+The ceremonial delivery --- a somber cross-Capitol march performed by the nine Democratic House members who will prosecute the case --- was a legal formality. The House had impeached Trump 12 days ago, and Senate leaders have agreed to postpone the start of the public trial until the week of Feb. 8.
 
 The timeline itself has been strategic, allowing the newly seated President Biden some breathing room to install several top Cabinet officials and advance the debate over another massive package of coronavirus relief before the Senate becomes consumed by the highly contentious impeachment trial.
 
@@ -16,7 +16,7 @@ The details of that trial remain opaque. Senate Majority Leader Charles Schumer 
 
 Then, the Republican-controlled Senate cleared Trump of both charges, with only one GOP senator, Utah's Mitt Romney, voting to convict the president on allegations that he'd abused his power.
 
-This time around, the landscape is different — and the math is expected to be as well.
+This time around, the landscape is different --- and the math is expected to be as well.
 
 Not only is Trump no longer in office, but his effort to rouse thousands of his supporters to march on the Capitol to block Congress from formalizing Biden's victory has been denounced by even some of his most devoted supporters.
 
@@ -62,6 +62,6 @@ More formalities will follow Tuesday, when all 100 senators will be sworn in as 
 
 It's highly unlikely that enough Republicans will join Democrats to meet the threshold for conviction, which requires two-thirds of the Senate. But Democratic leaders are hellbent on ensuring that senators are forced to pick a side, if only for the historical record.
 
-"There is only one question at stake — only one question that Senators of both parties will have to answer, before God and their own conscience: Is former President Trump guilty of inciting an insurrection against the United States?" Schumer said.
+"There is only one question at stake --- only one question that Senators of both parties will have to answer, before God and their own conscience: Is former President Trump guilty of inciting an insurrection against the United States?" Schumer said.
 
 Source: Mike Lillis and Scott Wong, thehill.com/homenews/house/535749-house-formally-sends-impeachment-to-senate-putting-trump-on-trial-for-capitol

@@ -13,10 +13,10 @@ For months, the National Archives and Records Administration has insisted it had
 
 The claim is important because it has been used by NARA as a reason why it doesn't have to answer any further questions from curious lawmakers. "Accordingly, NARA is unable to provide a briefing or any documents in response to your letter, and we refer you to the DOJ," Wall wrote last summer.
 
-But internal messages, emails and letters — some released in recent days under the Freedom of Information Act — tell a different story that raises questions about the Archives' official timeline in the Trump dispute.
+But internal messages, emails and letters --- some released in recent days under the Freedom of Information Act --- tell a different story that raises questions about the Archives' official timeline in the Trump dispute.
 
 For instance, new internal messages between Archives staff show that a full week after Wall's letter to Congress, a senior NARA official was still seeking data about the FBI probe.
 
-[…]
+[...]
 
 Source: justthenews.com/government/federal-agencies/internal-memos-call-question-national-archives-narrative-congress-trump

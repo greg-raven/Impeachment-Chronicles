@@ -9,7 +9,7 @@ Former CIA Director John Brennan personally edited a crucial section of the inte
 
 The explosive conclusion Brennan inserted into the report was used to help justify continuing the Trump-Russia "collusion" investigation, which had been launched by the FBI in 2016. It was picked up after the election by Special Counsel Robert Mueller, who in the end found no proof that Trump or his campaign conspired with Moscow.
 
-The Obama administration publicly released a declassified version of the report — known as the "Intelligence Community Assessment on Russian Activities and Intentions in Recent Elections (ICA)" — just two weeks before Trump took office, casting a cloud of suspicion over his presidency. Democrats and national media have cited the report to suggest Russia influenced the 2016 outcome and warn that Putin is likely meddling again to reelect Trump.
+The Obama administration publicly released a declassified version of the report --- known as the "Intelligence Community Assessment on Russian Activities and Intentions in Recent Elections (ICA)" --- just two weeks before Trump took office, casting a cloud of suspicion over his presidency. Democrats and national media have cited the report to suggest Russia influenced the 2016 outcome and warn that Putin is likely meddling again to reelect Trump.
 
 The ICA is a key focus of U.S. Attorney John Durham's ongoing investigation into the origins of the "collusion" probe. He wants to know if the intelligence findings were juiced for political purposes.
 
@@ -69,7 +69,7 @@ Durham's investigators have focused on people who worked at NIC during the draft
 
 The senior official who identified Kendall-Taylor said Brennan did not seek input from experts from CIA's so-called Russia House, a department within Langley officially called the Center for Europe and Eurasia, before arriving at the conclusion that Putin meddled in the election to benefit Trump.
 
-"It was not an intelligence assessment. It was not coordinated in the [intelligence] community or even with experts in Russia House," the official said. "It was just a small group of people selected and driven by Brennan himself … and Brennan did the editing."
+"It was not an intelligence assessment. It was not coordinated in the [intelligence] community or even with experts in Russia House," the official said. "It was just a small group of people selected and driven by Brennan himself ... and Brennan did the editing."
 
 The official noted that National Security Agency analysts also dissented from the conclusion that Putin personally sought to tilt the scale for Trump. One of only three agencies from the 17-agency intelligence community invited to participate in the ICA, the NSA had a lower level of confidence than the CIA and FBI, specifically on that bombshell conclusion.
 
@@ -101,7 +101,7 @@ Several Republican lawmakers and former Trump officials are clamoring for the de
 
 However, according to the intelligence official who worked on the ICA review, Brennan ensured that it would be next to impossible to declassify his sourcing for the key judgment on Putin. He said Brennan hid all sources and references to the underlying intelligence behind a highly sensitive and compartmented wall of classification.
 
-He explained that he and Clapper created two classified versions of the ICA – a highly restricted Top Secret/Sensitive Compartmented Information version that reveals the sourcing, and a more accessible Top Secret version that omits details about the sourcing.
+He explained that he and Clapper created two classified versions of the ICA --- a highly restricted Top Secret/Sensitive Compartmented Information version that reveals the sourcing, and a more accessible Top Secret version that omits details about the sourcing.
 
 Unless the classification of compartmented findings can be downgraded, access to Brennan's questionable sourcing will remain highly restricted, leaving the underlying evidence conveniently opaque, the official said.
 

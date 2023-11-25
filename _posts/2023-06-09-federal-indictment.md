@@ -19,7 +19,7 @@ Special counsel Jack Smith, who brought the charges against Trump and Nauta, sai
 
 Some of the charges, including the conspiracy and concealment counts, carry a maximum prison sentence of 20 years.
 
-Trump has denied any wrongdoing in the case, a stance he maintained Friday, writing in a social media post that, "Under the Presidential Records Act, I'm allowed to do all this." He also criticized Smith, calling him "a Trump Hater — a deranged 'psycho' that shouldn't be involved in any case having to do with 'Justice.'"
+Trump has denied any wrongdoing in the case, a stance he maintained Friday, writing in a social media post that, "Under the Presidential Records Act, I'm allowed to do all this." He also criticized Smith, calling him "a Trump Hater --- a deranged 'psycho' that shouldn't be involved in any case having to do with 'Justice.'"
 
 The indictment alleges that when Trump left the White House he took documents that "included information regarding defense and weapons capabilities of both the U.S. and foreign countries; United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for a possible retaliation in response to a foreign attack."
 
@@ -35,13 +35,13 @@ It quotes him saying "as president I could have declassified it," and "now I can
 
 "This is secret information. Look, look at this," he's quoted as saying at another point.
 
-In the second instance, Trump allegedly showed a member of his political action committee a "classified map related to a military operation." Trump told the person — who did not have a security clearance — he shouldn't be showing him the map, and told the person not get too close to it, the indictment said.
+In the second instance, Trump allegedly showed a member of his political action committee a "classified map related to a military operation." Trump told the person --- who did not have a security clearance --- he shouldn't be showing him the map, and told the person not get too close to it, the indictment said.
 
 Both of those alleged incidents occurred at Trump's New Jersey golf club, which means the documents would have been transported there from Florida.
 
 Read the full indictment.
 
-The indictment further alleges that the documents were stored haphazardly — including for two months in the Mar-a-Lago ballroom, where they were photographed on a stage. They were also kept in a business center, a bathroom and a shower, the filing says.
+The indictment further alleges that the documents were stored haphazardly --- including for two months in the Mar-a-Lago ballroom, where they were photographed on a stage. They were also kept in a business center, a bathroom and a shower, the filing says.
 
 A photo included in the court filing shows about 30 boxes in a bathroom crammed around a toilet and next to a shower with a chandelier hanging above.
 

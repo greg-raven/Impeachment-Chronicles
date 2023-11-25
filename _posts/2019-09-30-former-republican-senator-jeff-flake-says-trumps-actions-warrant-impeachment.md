@@ -21,7 +21,7 @@ Flake retired from Congress in late 2018, citing what he called the "undermining
 
 In his editorial for the Post, Flake said he would have preferred to serve another term as Arizona's senator but "not at the cost of supporting this man." He also encouraged Senate Republicans not to support Trump's 2020 White House bid.
 
-"At this point, the president's conduct in office should not surprise us. But truly devastating has been our tolerance of that conduct. Our embrace of it," Flake wrote. "From the ordeal of this presidency, perhaps the most horrible—and lasting—effect on our democracy will be that at some point we simply stopped being shocked."
+"At this point, the president's conduct in office should not surprise us. But truly devastating has been our tolerance of that conduct. Our embrace of it," Flake wrote. "From the ordeal of this presidency, perhaps the most horrible---and lasting---effect on our democracy will be that at some point we simply stopped being shocked."
 
 Few Republicans in Congress have spoken out against Trump during the Ukraine whistleblower debacle, and none have publicly supported impeachment proceedings. Representative Justin Amash, who used to be a Republican but became an Independent this year, is the only non-Democrat who has backed impeachment.
 

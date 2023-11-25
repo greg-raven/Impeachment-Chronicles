@@ -25,9 +25,9 @@ But it turns out to have been something of a hoax. As CNN reported on Thursday e
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">CNN Breaking: The 6 pages of WH switchboard logs for 1/6 are complete based on an official review of White House records, according to a source familiar with the matter. There are no missing pages &amp; the 7 hour gap is likely explained by use of WH landlines &amp; cell phones link👇🏻</p>&mdash; Jamie Gangel (@jamiegangel) <a href="https://twitter.com/jamiegangel/status/1509717629631619073?ref_src=twsrc%5Etfw">April 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[…]
+[...]
 
-In its story on the phone logs, CNN — using six reporters — reported that the so-called gap was not, in fact, unusual:
+In its story on the phone logs, CNN --- using six reporters --- reported that the so-called gap was not, in fact, unusual:
 
 > The mystery of the seven-hour gap has fueled furious speculation as to why calls are missing. That includes allegations that Trump was using "burner phones" (which he has denied) or that the logs were purposely suppressed.
 >
@@ -39,6 +39,6 @@ CNN also noted, citing a former aide to President Barack Obama, that Obama's cal
 
 Thus, despite the Post's suggestion that the "gap" was "worse than Watergate," the story seems to have ended the same way other "worse than Watergate" hoaxes about Trump, like the "Russia collusion" conspiracy theory, have ended: by being debunked.
 
-Despite puncturing the bubble about the seven-hour gap, CNN still began its article by reminding readers that Trump phoned Vice President Mike Pence that day, noting that the call is not in the records — perhaps because it was made by cell phone.
+Despite puncturing the bubble about the seven-hour gap, CNN still began its article by reminding readers that Trump phoned Vice President Mike Pence that day, noting that the call is not in the records --- perhaps because it was made by cell phone.
 
 Source: Joel B. Pollak, breitbart.com/the-media/2022/04/01/medias-7-hour-gap-story-in-white-house-logs-turns-out-to-be-hoax-cnn/

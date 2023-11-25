@@ -13,7 +13,7 @@ Zuckerberg first made the claim back in a Senate Committee hearing in October 20
 
 Zuckerberg insisted that, unlike Twitter, Facebook did not ban the story entirely. At the time, over 50 former intelligence officials signed a letter claiming that the story "had all the classic earmarks of a Russian information operation."
 
-"So we took a different path than Twitter. Basically the background here is the FBI, I think basically came to us – some folks on our team and was like, 'Hey, um, just so you know, like, you should be on high alert. There was the — we thought that there was a lot of Russian propaganda in the 2016 election. We have it on notice that basically there's about to be some kind of dump of — that's similar to that. So just be vigilant,'" he explained.
+"So we took a different path than Twitter. Basically the background here is the FBI, I think basically came to us --- some folks on our team and was like, 'Hey, um, just so you know, like, you should be on high alert. There was the --- we thought that there was a lot of Russian propaganda in the 2016 election. We have it on notice that basically there's about to be some kind of dump of --- that's similar to that. So just be vigilant,'" he explained.
 
 Zuckerberg continued to explain that Facebook uses third-party fact-checkers to determine if something is misinformation.
 

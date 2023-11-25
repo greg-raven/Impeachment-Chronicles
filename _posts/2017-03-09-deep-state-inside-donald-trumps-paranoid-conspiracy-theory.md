@@ -7,7 +7,7 @@ tags:
 
 - Everything you need to know about the supposed forces within the federal government that the President believes are out to get him
 
-As the Trump White House wheezes and lurches its way into actually governing, it's become clear that we are in a somewhat different era in American politics. Unlike the Obama administration, which kept things obscured from the public, the Trump team seems more likely to pop open that top button and let the world see what it's working with – which has proven to not always be the most effective method thus far.
+As the Trump White House wheezes and lurches its way into actually governing, it's become clear that we are in a somewhat different era in American politics. Unlike the Obama administration, which kept things obscured from the public, the Trump team seems more likely to pop open that top button and let the world see what it's working with --- which has proven to not always be the most effective method thus far.
 
 What constitutes a normal day in Trumpland usually includes a meeting, typically behind closed doors, which sometimes takes hours or even minutes to find its way into the Washington Post, Politico, or the New York Times. To wit: Sean Spicer called a meeting to crack down on leaks. The details of that meeting leaked within days, with a moment-by-moment recap appearing in Politico. Michael Flynn said that he didn't talk to Russia before the inauguration. News broke early February that he had, in fact done so, which led to his resignation just days later. We could go on, but you get the idea. After each story, the White House hammered the message: The leakers are the story.
 
@@ -43,7 +43,7 @@ Deep state theories, to Krauthammer, are part of the natural human desire to ord
 
 Essentially, the entrenched bureaucracy is the perpetual motion machine that keeps the government running. Mike Lofgren, a Republican-turned-independent critic of both parties that worked in Congress for 28 years as an aide, literally wrote the book on the deep state, says that it's a necessary part of any large country.
 
-"The deep state isn't necessarily bad," Lofgren says. "You want continuity in the sense that regardless of who is president you need someone to take out the garbage. You need the CDC to make sure that ebola doesn't get into the country. You need airline inspectors to make sure that planes don't crash. The deep state works like your heartbeat, your pulse, or your breathing. You're not even conscious of it. … These aren't evil people. They're just bureaucrats doing their job according to their life. It's only a dangerous development when it becomes separated from participatory democracy."
+"The deep state isn't necessarily bad," Lofgren says. "You want continuity in the sense that regardless of who is president you need someone to take out the garbage. You need the CDC to make sure that ebola doesn't get into the country. You need airline inspectors to make sure that planes don't crash. The deep state works like your heartbeat, your pulse, or your breathing. You're not even conscious of it. ... These aren't evil people. They're just bureaucrats doing their job according to their life. It's only a dangerous development when it becomes separated from participatory democracy."
 
 So the deep state is designed to keep democracy largely running as it does. That means maintaining status quo, which in the case of Trump's ascendancy means fighting against his attempts to change how American government works.
 
@@ -53,7 +53,7 @@ A few reasons. First, he campaigned on the slogan "drain the swamp." That means 
 
 Those cabinet leaders all also want to change how their departments operate. Betsy DeVos, who doesn't really believe in public schools, heads the Department of Education. Rick Perry wanted to disband the Department of Energy, which he now heads. Attorney General Jeff Sessions has been accused for years of racial discrimination.
 
-"Every business leader we've had in is saying not just taxes, but it is – it is also the regulation," Bannon said onstage at CPAC. "I think the consistent, if you look at these Cabinet appointees, they were selected for a reason and that is the deconstruction, the way the progressive left runs, is if they can't get it passed, they're just gonna put in some sort of regulation in – in an agency."
+"Every business leader we've had in is saying not just taxes, but it is --- it is also the regulation," Bannon said onstage at CPAC. "I think the consistent, if you look at these Cabinet appointees, they were selected for a reason and that is the deconstruction, the way the progressive left runs, is if they can't get it passed, they're just gonna put in some sort of regulation in --- in an agency."
 
 Trump also regularly attacked the competency intelligence community and military while on the campaign trail.
 

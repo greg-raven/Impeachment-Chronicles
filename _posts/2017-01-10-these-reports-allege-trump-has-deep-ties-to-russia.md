@@ -9,11 +9,11 @@ tags:
 
 - The [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), compiled by a person who has claimed to be a former British intelligence official, alleges Russia has compromising information on Trump. The allegations are unverified, and the report contains errors.
 
-A dossier making explosive — but unverified — allegations that the Russian government has been "cultivating, supporting and assisting" President-elect Donald Trump for years and gained compromising information about him has been circulating among elected officials, intelligence agents, and journalists for weeks.
+A dossier making explosive --- but unverified --- allegations that the Russian government has been "cultivating, supporting and assisting" President-elect Donald Trump for years and gained compromising information about him has been circulating among elected officials, intelligence agents, and journalists for weeks.
 
-The dossier, which is a collection of memos written over a period of months, includes specific, unverified, and potentially unverifiable allegations of contact between Trump aides and Russian operatives, and graphic claims of sexual acts documented by the Russians. BuzzFeed News reporters in the US and Europe have been investigating various alleged facts in the dossier but have not verified or falsified them. CNN reported Tuesday that a two-page synopsis of the report was given to President Obama and Trump.
+The dossier, which is a collection of memos written over a period of months, includes specific, unverified, and potentially unverifiable allegations of contact between Trump aides and Russian operatives, and graphic claims of sexual acts documented by the Russians. BuzzFeed News reporters in the U.S. and Europe have been investigating various alleged facts in the dossier but have not verified or falsified them. CNN reported Tuesday that a two-page synopsis of the report was given to President Obama and Trump.
 
-Now BuzzFeed News is publishing the full document so that Americans can make up their own minds about allegations about the president-elect that have circulated at the highest levels of the US government.
+Now BuzzFeed News is publishing the full document so that Americans can make up their own minds about allegations about the president-elect that have circulated at the highest levels of the U.S. government.
 
 The document was prepared for political opponents of Trump by a person who is understood to be a former British intelligence agent. It is not just unconfirmed: It includes some clear errors. The report misspells the name of one company, "Alpha Group," throughout. It is Alfa Group. The report says the settlement of Barvikha, outside Moscow, is "reserved for the residences of the top leadership and their close associates." It is not reserved for anyone, and it is also populated by the very wealthy.
 
@@ -23,7 +23,7 @@ The Trump administration's transition team did not immediately respond to BuzzFe
 
 And Trump shot back against the reports a short time later on Twitter.
 
-> FAKE NEWS — A TOTAL POLITICAL WITCH HUNT! — Donald J. Trump (@realDonaldTrump) January 11, 2017
+> FAKE NEWS --- A TOTAL POLITICAL WITCH HUNT! --- Donald J. Trump (@realDonaldTrump) January 11, 2017
 >
 > <cite>twitter.com/realDonaldTrump/status/818990655418617856</cite>
 

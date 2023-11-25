@@ -25,7 +25,7 @@ Joffe told Alfa Bank lawyers that he refused to answer questions before the gran
 
 **2. Joffe Seeks to Jump into the Sussmann Criminal Case**
 
-Friday also saw Joffe's attorneys, Steven Tyrrell and Eileen Citron, file notices of appearances for Joffe as a proposed "intervenor" in the special counsel's criminal case against Sussmann. Joffe could seek to intervene in the case to challenge a subpoena, to seek a protective order—maybe because of purported attorney-client communications Joffe had with Sussmann or to prevent Durham from discussing his alleged role in public filings—or to otherwise protect a legal right or interest.
+Friday also saw Joffe's attorneys, Steven Tyrrell and Eileen Citron, file notices of appearances for Joffe as a proposed "intervenor" in the special counsel's criminal case against Sussmann. Joffe could seek to intervene in the case to challenge a subpoena, to seek a protective order---maybe because of purported attorney-client communications Joffe had with Sussmann or to prevent Durham from discussing his alleged role in public filings---or to otherwise protect a legal right or interest.
 
 We should know more shortly, when Joffe's attorney files the related motion to intervene. That motion is likely to come within the next week or so, given that on Friday, the court in United States v. Sussmann scheduled a hearing for March 7, 2022, to address potential conflicts of interests between Sussmann and his current attorneys, and Joffe is likely interested in ensuring Durham's team does not further implicate him in the matter.
 
@@ -41,7 +41,7 @@ Joffe responded that he "can't remember having heard that term," before adding: 
 
 In posing these questions, Alfa Bank sought to connect Joffe to the reports of the supposed secret communication channel between it and the Trump administration and specifically to Slate's reporting from October 31, 2016, headlined: "Was a Trump Server Communicating With Russia?"
 
-Author Franklin Foer opened the article by highlighting "a small, tightly knit community of computer scientists … some at cybersecurity firms, some in academia, some with close ties to three-letter federal agencies," who claimed to have discovered the Alfa Bank-Trump server connections. Foer then quoted Indiana University computer scientist L. Jean Camp's "wry formulation" of the group: "We're the Union of Concerned Nerds."
+Author Franklin Foer opened the article by highlighting "a small, tightly knit community of computer scientists ... some at cybersecurity firms, some in academia, some with close ties to three-letter federal agencies," who claimed to have discovered the Alfa Bank-Trump server connections. Foer then quoted Indiana University computer scientist L. Jean Camp's "wry formulation" of the group: "We're the Union of Concerned Nerds."
 
 Apparently, Joffe was not in on Camp's joke, even if he was in on the research, as Durham's indictment of Sussmann suggests.
 

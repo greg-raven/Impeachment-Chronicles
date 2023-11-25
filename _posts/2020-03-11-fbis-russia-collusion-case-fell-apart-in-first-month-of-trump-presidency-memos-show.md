@@ -56,7 +56,7 @@ A recent order by FISC Chief Judge James Boasberg lays bare how devastating the 
 
 An FBI spreadsheet similarly found that nearly all of Steele's information in the dossier was either false, could not be proved, or amounted to Internet-based rumor, making it mostly worthless as actionable intelligence.
 
-Further eroding by January 2017 the FBI's "mosaic" (former FBI Director James Comey's term) of evidence cited for suspicions of collusion, the bureau had collected exculpatory statements in fall 2016 in which two central targets of the investigation — former Trump advisers Carter Page and George Papadopoulos — told undercover informants they were not colluding with Russia.
+Further eroding by January 2017 the FBI's "mosaic" (former FBI Director James Comey's term) of evidence cited for suspicions of collusion, the bureau had collected exculpatory statements in fall 2016 in which two central targets of the investigation --- former Trump advisers Carter Page and George Papadopoulos --- told undercover informants they were not colluding with Russia.
 
 Boasberg's ruling also slammed the FBI for hiding these statements from his court, saying they substantially undercut the FBI's predicate for the investigation, including the now-disproven allegation that Page had altered the RNC platform at the 2016 nominating convention to help Putin.
 

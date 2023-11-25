@@ -5,7 +5,7 @@ tags:
 - Paul Steinhauser
 ---
 
-NEWMARKET, N.H. – 2020 presidential candidate Julian Castro once again urged the House of Representatives on Monday to move forward with impeachment proceedings against President Trump.
+NEWMARKET, N.H. --- 2020 presidential candidate Julian Castro once again urged the House of Representatives on Monday to move forward with impeachment proceedings against President Trump.
 
 Castro, a Democrat who served as mayor of San Antonio, Texas, before joining then-President Obama's administration as Housing and Urban Development secretary, made his case hours after the release of a statement by hundreds of former federal prosecutors claiming Special Counsel Robert Mueller would have recommended indicting Trump for obstruction of justice if Trump weren't president.
 
@@ -17,7 +17,7 @@ Attorney General William Barr didn't push for obstruction charges against the pr
 
 Barr stood by his decision not to pursue obstruction charges during a contentious Senate Judiciary Committee hearing last week. Barr cancelled an apperance to testify in front of a House Judiciary hearing.
 
-Castro spotlighted that "the question is – is this president above the law? I believe the answer to that is no, and that's why impeachment is warranted."
+Castro spotlighted that "the question is --- is this president above the law? I believe the answer to that is no, and that's why impeachment is warranted."
 
 Castro was interviewed by Fox News during a campaign stop in Newmarket, New Hampshire. It was the candidate's fourth trip to the first-in-the-nation presidential primary state since he launched his White House bid this past January.
 

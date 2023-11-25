@@ -9,6 +9,6 @@ tags:
 
 Rob Reiner doesn't mince words when describing our national state of affairs: "Never before in our country's history has the truth been more under attack, and the press under attack. Just yesterday, [Trump] called the press, again, the enemy of the people. That's the classic authoritarian playbook, right there. We're living in a time that's really crazy."
 
-[…]
+[...]
 
 Source: Nick Schager, thedailybeast.com/rob-reiner-president-trump-is-a-russian-asset-and-we-are-in-dire-trouble

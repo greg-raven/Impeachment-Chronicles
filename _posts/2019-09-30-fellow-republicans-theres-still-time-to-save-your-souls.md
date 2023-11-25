@@ -23,7 +23,7 @@ Now for the easy decision. If the House decides against filing articles of impea
 
 I am not oblivious to the consequences that might accompany that decision. In fact, I am living those consequences. I would have preferred to represent the citizens of Arizona for another term in the Senate. But not at the cost of supporting this man. A man who has, now more than ever, proved to be so manifestly undeserving of the highest office that we have.
 
-At this point, the president's conduct in office should not surprise us. But truly devastating has been our tolerance of that conduct. Our embrace of it. From the ordeal of this presidency, perhaps the most horrible — and lasting — effect on our democracy will be that at some point we simply stopped being shocked. And in that, we have failed not just as stewards of the institutions to which we have been entrusted but also as citizens. We have failed each other, and we have failed ourselves.
+At this point, the president's conduct in office should not surprise us. But truly devastating has been our tolerance of that conduct. Our embrace of it. From the ordeal of this presidency, perhaps the most horrible --- and lasting --- effect on our democracy will be that at some point we simply stopped being shocked. And in that, we have failed not just as stewards of the institutions to which we have been entrusted but also as citizens. We have failed each other, and we have failed ourselves.
 
 Let us stop failing now, while there is still time.
 

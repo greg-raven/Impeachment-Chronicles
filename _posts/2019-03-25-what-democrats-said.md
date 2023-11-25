@@ -75,9 +75,9 @@ Nadler told ABC News March 3 that impeachment "is a long way down the road. We d
 
 "When you look at Donald Trump Jr., and what is on the record, there was clearly an intent to collude," Sen. Ron Wyden, D-Ore., said Dec. 14, 2017.
 
-Wyden's focus was more on Russian money and the Trump Organization — a follow-the-money approach.
+Wyden's focus was more on Russian money and the Trump Organization --- a follow-the-money approach.
 
-"Their portfolio consisted of a lot of Russian money," Wyden said. "Then the president didn't disclose his taxes … There's a lot to do here."
+"Their portfolio consisted of a lot of Russian money," Wyden said. "Then the president didn't disclose his taxes ... There's a lot to do here."
 
 Wyden called the Barr memo "little more than a public relations strategy."
 

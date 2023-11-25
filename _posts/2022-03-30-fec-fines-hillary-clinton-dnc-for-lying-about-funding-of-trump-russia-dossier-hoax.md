@@ -25,7 +25,7 @@ The memo also noted that on Feb. 17, the FEC received signed conciliation agreem
 
 The infamous dossier, once used to launch the FBI's Trump-Russia probe, became the subject of widespread scrutiny in the years following Trump's election to the presidency.
 
-Besides revelations that its contents were fabricated, the scandalous document was heavily scrutinized for its questionable sources — which ultimately turned out to be Hillary Clinton's campaign and her counterparts in the DNC.
+Besides revelations that its contents were fabricated, the scandalous document was heavily scrutinized for its questionable sources --- which ultimately turned out to be Hillary Clinton's campaign and her counterparts in the DNC.
 
 In the memo, the FEC found that the Clinton campaign and the DNC violated strict reporting laws when they claimed a combined $1,024,407 payment to law firm Perkins Coie LLP for Fusion GPS's information on the dossier was for legal reasons, and not opposition research.
 
@@ -37,7 +37,7 @@ Court records on the case are expected to be made public in the next month.
 
 Dan Backer, who brought the complaint on behalf of the Coolidge-Reagan Foundation, a nonprofit that focuses on free speech and the First Amendment, celebrated the FEC's decision.
 
-Backer told the Washington Examiner, "This may well be the first time that Hillary Clinton — one of the most evidently corrupt politicians in American history — has actually been held legally accountable, and I'm proud to have forced the FEC to do their job for once. The Coolidge Reagan Foundation proved that with pluck and grit, Americans who stand with integrity can stand up to the Clinton machine and other corrupt political elites."
+Backer told the Washington Examiner, "This may well be the first time that Hillary Clinton --- one of the most evidently corrupt politicians in American history --- has actually been held legally accountable, and I'm proud to have forced the FEC to do their job for once. The Coolidge Reagan Foundation proved that with pluck and grit, Americans who stand with integrity can stand up to the Clinton machine and other corrupt political elites."
 
 The FEC noted that neither the Clinton campaign nor the DNC conceded to lying in the reports but decided not to contest the findings.
 

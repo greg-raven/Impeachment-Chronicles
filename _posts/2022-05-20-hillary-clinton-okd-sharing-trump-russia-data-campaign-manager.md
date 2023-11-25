@@ -6,7 +6,7 @@ tags:
 - Bruce Golding
 ---
 
-WASHINGTON, DC — Hillary Clinton personally authorized her campaign to share since-debunked computer data linking Donald Trump with a Russian bank, according to bombshell testimony from her 2016 campaign manager Friday.
+WASHINGTON, DC --- Hillary Clinton personally authorized her campaign to share since-debunked computer data linking Donald Trump with a Russian bank, according to bombshell testimony from her 2016 campaign manager Friday.
 
 Robby Mook, testifying as a witness in defense of former Clinton campaign lawyer Michael Sussmann, told jurors that he discussed the matter with the Democratic nominee shortly before Election Day.
 
@@ -14,7 +14,7 @@ Mook described his end of the conversation with Clinton as him telling her, "Hey
 
 "She agreed to that," he said.
 
-The stunning disclosure is the first evidence showing Clinton was aware of allegations of a purported secret back channel between a Trump Organization server and Russia's Alfa Bank — before the theory emerged publicly eight days before the election.
+The stunning disclosure is the first evidence showing Clinton was aware of allegations of a purported secret back channel between a Trump Organization server and Russia's Alfa Bank --- before the theory emerged publicly eight days before the election.
 
 Mook also acknowledged that the campaign hadn't verified the accuracy of the data at the time.
 
@@ -38,7 +38,7 @@ After the sidebar, Cooper announced that he might allow prosecutor Andrew DeFili
 
 "Computer scientists have apparently uncovered a covert server linking the Trump Organization to a Russian-based bank," Clinton wrote.
 
-She also attached a statement from Sullivan — now President Biden's national security adviser — who said, "This secret hotline may be the key to unlocking the mystery of Trump's ties to Russia."
+She also attached a statement from Sullivan --- now President Biden's national security adviser --- who said, "This secret hotline may be the key to unlocking the mystery of Trump's ties to Russia."
 
 **Who's who in the case**
 
@@ -66,7 +66,7 @@ But Cooper said the jury hadn't yet been presented with evidence the Clinton cam
 
 Mook said he didn't know the identity of the reporter who received the Alfa Bank data but assumed it was Franklin Foer, who wrote the Slate article.
 
-On Wednesday, Laura Seago, a former analyst at the Fusion GPS firm — which commissioned the infamous "Steele dossier" of scurrilous allegations against Trump — testified that she was tasked with "translating" the information so it could be understood by "a lay audience."
+On Wednesday, Laura Seago, a former analyst at the Fusion GPS firm --- which commissioned the infamous "Steele dossier" of scurrilous allegations against Trump --- testified that she was tasked with "translating" the information so it could be understood by "a lay audience."
 
 Seago recalled that she, Fusion co-founder Peter Fritsch and another Fusion worker went to Foer's house to pitch the data, telling him it had been vetted by "highly credible computer scientists" who "seemed to think these allegations were credible."
 

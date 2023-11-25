@@ -7,11 +7,11 @@ tags:
 
 - "He did not pray," said Mariann E. Budde, the Episcopal bishop of Washington. "He did not mention George Floyd, he did not mention the agony of people who have been subjected to this kind of horrific expression of racism and white supremacy for hundreds of years."
 
-WASHINGTON — People who gathered outside the White House to protest police brutality spent Monday waving signs and screaming for justice. They watched as police officers and National Guard units flooded Lafayette Square, delivering on a threat made by President Trump. And just before the city's 7 p.m. curfew went into effect, they were hit with flash-bang explosions and doused with tear gas.
+WASHINGTON --- People who gathered outside the White House to protest police brutality spent Monday waving signs and screaming for justice. They watched as police officers and National Guard units flooded Lafayette Square, delivering on a threat made by President Trump. And just before the city's 7 p.m. curfew went into effect, they were hit with flash-bang explosions and doused with tear gas.
 
 It was because the president, who spent part of the weekend in a secure bunker as protests roiled, wanted to have his picture taken holding a Bible at a battered church just beyond the gates.
 
-That church, St. John's — the so-called Church of the Presidents because every one since James Madison has attended — had been briefly set ablaze as the protests devolved on Sunday evening. After Mr. Trump's aides spent much of Monday expressing outrage over the burning of a place of worship, Hope Hicks, a presidential adviser, eventually hatched a plan with others at the White House to have the president walk over to the building, according to an official familiar with the events.
+That church, St. John's --- the so-called Church of the Presidents because every one since James Madison has attended --- had been briefly set ablaze as the protests devolved on Sunday evening. After Mr. Trump's aides spent much of Monday expressing outrage over the burning of a place of worship, Hope Hicks, a presidential adviser, eventually hatched a plan with others at the White House to have the president walk over to the building, according to an official familiar with the events.
 
 As Mr. Trump delivered a speech in the Rose Garden vowing to send the military to states where governors could not bring rioting under control but calling himself "an ally of all peaceful protesters," the sound of explosions and the yells of demonstrators could be heard. After receiving repeated warnings to disperse before the city's curfew, the crowd was tear-gassed.
 

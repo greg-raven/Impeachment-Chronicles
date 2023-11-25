@@ -6,7 +6,7 @@ tags:
 - Evan Perez
 ---
 
-Washington (CNN) — For the first time, US investigators say they have corroborated some of the communications detailed in a 35-page dossier compiled by a former British intelligence agent, multiple current and former US law enforcement and intelligence officials tell CNN. As CNN first reported, then-President-elect Donald Trump and President Barack Obama were briefed on the existence of the dossier prior to Trump's inauguration.
+Washington (CNN) --- For the first time, US investigators say they have corroborated some of the communications detailed in a 35-page dossier compiled by a former British intelligence agent, multiple current and former US law enforcement and intelligence officials tell CNN. As CNN first reported, then-President-elect Donald Trump and President Barack Obama were briefed on the existence of the dossier prior to Trump's inauguration.
 
 None of the newly learned information relates to the salacious allegations in the dossier. Rather it relates to conversations between foreign nationals. The dossier details about a dozen conversations between senior Russian officials and other Russian individuals. Sources would not confirm which specific conversations were intercepted or the content of those discussions due to the classified nature of US intelligence collection programs.
 

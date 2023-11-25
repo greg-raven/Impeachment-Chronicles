@@ -31,7 +31,7 @@ And Musk was not the only one to call out Soros for his connection to the distri
 
 Constitutional expert and Georgetown University law professor Jonathan Turley noted in a column published on Saturday that the alleged coming indictment of former President Donald Trump by Manhattan District Attorney Alvin Bragg will be a "made-for-TV" event that, in reality, is "legally pathetic."
 
-"'The moment that we are waiting for, we made it to the finale together' — those familiar words from 'America's Got Talent' — could well be the opening line for Manhattan District Attorney Alvin Bragg next week, when he is expected to unveil an indictment of former President Trump," Turley said.
+"'The moment that we are waiting for, we made it to the finale together' --- those familiar words from 'America's Got Talent' --- could well be the opening line for Manhattan District Attorney Alvin Bragg next week, when he is expected to unveil an indictment of former President Trump," Turley said.
 
 "With Trump's reported announcement that he expects to be arrested on Tuesday, it would be a fitting curtain raiser for a case that has developed more like a television production than a criminal prosecution. Indeed, this indictment was repeatedly rejected only to be brought back by popular demand," he added.
 

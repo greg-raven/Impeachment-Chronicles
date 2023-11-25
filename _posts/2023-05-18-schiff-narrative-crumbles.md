@@ -11,15 +11,15 @@ Schiff, who previously led the House Intelligence Committee, pushed unproven all
 
 Durham's Monday report concluded the FBI had no proper basis for launching the Crossfire Hurricane investigation into Trump and Russia in 2016, trashed the FBI for deploying the dossier, and pointed to the involvement of Hillary Clinton's campaign in generating baseless collusion claims.
 
-Schiff claimed on Twitter on Tuesday that "the Durham investigation was flawed from the start" and that "it resulted in two spectacular failures at trial." He contended that the "FBI had a good reason to investigate — Durham didn't."
+Schiff claimed on Twitter on Tuesday that "the Durham investigation was flawed from the start" and that "it resulted in two spectacular failures at trial." He contended that the "FBI had a good reason to investigate --- Durham didn't."
 
 Robert Mueller's special counsel investigation "did not establish" any criminal collusion, but Schiff said Tuesday on MSNBC that "there were real things to investigate there, and the Mueller team did and we did in Congress" but that "the investigation of the investigators by Durham revealed little to nothing."
 
-Speaker Kevin McCarthy (R-CA) said Tuesday that the Durham report "really raises questions about" Schiff.
+Speaker Kevin McCarthy (R-CA) said Tuesday that the [Durham report]({% post_url 2023-05-12-durham-report %}) "really raises questions about" Schiff.
 
-"Remember when he told the American people he had proof? … And what he put America through and openly lied to us and now it is proven to us in this as well?" McCarthy said. "It raises a lot of questions about his character, his standing inside of Congress, and whether he should even be in Congress." The speaker also wondered if Schiff should be "expelled" from Congress.
+"Remember when he told the American people he had proof? ... And what he put America through and openly lied to us and now it is proven to us in this as well?" McCarthy said. "It raises a lot of questions about his character, his standing inside of Congress, and whether he should even be in Congress." The speaker also wondered if Schiff should be "expelled" from Congress.
 
-Rep. Anna Paulina Luna (R-FL) announced Wednesday she had filed a motion to have Schiff expelled from the House. She accused him of "knowingly using your position on House Intel to push a lie … and then proceeding to double down on the lie within days of the Durham report coming out makes you unfit for office."
+Rep. Anna Paulina Luna (R-FL) announced Wednesday she had filed a motion to have Schiff expelled from the House. She accused him of "knowingly using your position on House Intel to push a lie ... and then proceeding to double down on the lie within days of the Durham report coming out makes you unfit for office."
 
 Schiff, who is running for the Democratic nomination to succeed Sen. Dianne Feinstein (D-CA), used Luna's move as a fundraising opportunity.
 
@@ -63,7 +63,7 @@ Durham charged Danchenko, the main source for Steele's discredited dossier, with
 
 Schiff was asked during a November 2021 appearance on The View if he had any reflections on his role in promoting the dossier.
 
-"Well, first of all, whoever lied to the FBI or lied to Christopher Steele should be prosecuted — and they are," Schiff said, adding, "But at the beginning of the Russia investigation, I said that any allegations should be investigated. We couldn't have known, for example, people were lying to Christopher Steele."
+"Well, first of all, whoever lied to the FBI or lied to Christopher Steele should be prosecuted --- and they are," Schiff said, adding, "But at the beginning of the Russia investigation, I said that any allegations should be investigated. We couldn't have known, for example, people were lying to Christopher Steele."
 
 Danchenko was also found not guilty last year. Durham revealed that, even after the Steele dossier fiasco, Danchenko was on the FBI's payroll as a confidential human source from March 2017 to October 2020 before he was charged.
 

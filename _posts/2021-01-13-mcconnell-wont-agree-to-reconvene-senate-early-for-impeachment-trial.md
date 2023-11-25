@@ -15,7 +15,7 @@ The memo stated that unless there is unanimous consent from senators, Trump's im
 
 "It would require the consent of all 100 senators to conduct any business of any kind during the scheduled pro forma sessions prior to January 19," the memo states.
 
-"The Senate trial would therefor begin after President Trump's term has expired — either one hour after its expiration on Jan. 20 or twenty-five hours after its expiration on Jan. 21," it states.
+"The Senate trial would therefor begin after President Trump's term has expired --- either one hour after its expiration on Jan. 20 or twenty-five hours after its expiration on Jan. 21," it states.
 
 Schumer on Tuesday disputed that claim and said that he and McConnell could agree to reconvene the Senate in an emergency session in the next few days.
 
@@ -23,6 +23,6 @@ He says that legislation passed in 2004 allows the Senate majority and minority 
 
 "There was legislation passed in 2004 that allows the Senate minority and majority leader to jointly reconvene the Senate in times of emergency. This is a time of emergency," Schumer said.
 
-"I've asked him to call the Senate back — all he needs is my agreement, I'm still minority leader," he said.
+"I've asked him to call the Senate back --- all he needs is my agreement, I'm still minority leader," he said.
 
 Source: Alexander Bolton, thehill.com/homenews/senate/534053-mcconnell-wont-agree-to-reconvene-senate-early-for-impeachment-trial

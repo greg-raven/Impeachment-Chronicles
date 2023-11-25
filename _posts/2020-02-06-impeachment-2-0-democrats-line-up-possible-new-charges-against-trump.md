@@ -27,7 +27,7 @@ Mr. Trump said of Mr. Nadler: "I always beat him, and I had to beat him another 
 
 "The unwillingness of the Democrats to accept the results of their gross abuse of their constitutional power is a crime against the public trust," John M. Dowd, Mr. Trump's former defense counsel, told The Washington Times.
 
-Mr. Schiff, chairman of the House Permanent Select Committee on Intelligence, announced an anti-Trump staff investigation on Feb. 6, 2019, upon taking control of the committee. Some of his allegations mirror claims pushed by opposition research firm Fusion GPS and its co-founder Glenn Simpson — organizers of the discredited Democratic Party-funded dossier spread all over Washington.
+Mr. Schiff, chairman of the House Permanent Select Committee on Intelligence, announced an anti-Trump staff investigation on Feb. 6, 2019, upon taking control of the committee. Some of his allegations mirror claims pushed by opposition research firm Fusion GPS and its co-founder Glenn Simpson --- organizers of the discredited Democratic Party-funded dossier spread all over Washington.
 
 Mr. Schiff's Trump plans came one month before former special counsel Robert Mueller released an extensive report whose bottom line was: no Trump-Russia election conspiracy.
 

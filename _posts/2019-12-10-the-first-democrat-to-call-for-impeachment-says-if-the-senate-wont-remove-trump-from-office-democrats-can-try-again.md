@@ -9,7 +9,7 @@ tags:
 
 - Texas Rep. Al Green was the first to support impeaching Trump. He's not planning on dropping it anytime soon.
 
-WASHINGTON — In May of 2017, Texas Rep. Al Green became the first Democrat in Congress to support impeaching President Donald Trump. Trump had, at the time, been in office for just four months.
+WASHINGTON --- In May of 2017, Texas Rep. Al Green became the first Democrat in Congress to support impeaching President Donald Trump. Trump had, at the time, been in office for just four months.
 
 Since then, he's forced a House vote on impeachment three times, each one garnering more support than the last.
 
@@ -21,9 +21,9 @@ Barring some unforeseen, earth-shattering revelation, it seems very unlikely the
 
 But not Green.
 
-"My prayer is that the Senate will take the articles seriously, that the President will be found guilty, and he'll be removed from office, but if he isn't, the constitution allows for additional articles of impeachment to be filed," Green told BuzzFeed News on Tuesday. "If the president commits impeachable offenses, the president can be impeached more than once … so if the Senate doesn't do its job and the President commits impeachable acts, he can still be impeached, and he can be impeached for impeachable acts that he's already perpetrated that were not a part of this impeachment."
+"My prayer is that the Senate will take the articles seriously, that the President will be found guilty, and he'll be removed from office, but if he isn't, the constitution allows for additional articles of impeachment to be filed," Green told BuzzFeed News on Tuesday. "If the president commits impeachable offenses, the president can be impeached more than once ... so if the Senate doesn't do its job and the President commits impeachable acts, he can still be impeached, and he can be impeached for impeachable acts that he's already perpetrated that were not a part of this impeachment."
 
-The narrow construction of the House's current articles of impeachment — they address only abuse of power related to Ukraine and Trump's refusal to comply with the inquiry — gives Green a lot of wiggle room.
+The narrow construction of the House's current articles of impeachment --- they address only abuse of power related to Ukraine and Trump's refusal to comply with the inquiry --- gives Green a lot of wiggle room.
 
 For example, he said, if the president is not removed from office and goes on to actually shoot someone on Fifth Avenue, as Trump famously remarked he could, "if he did that with malice aforethought," he could be impeached again.
 
@@ -45,7 +45,7 @@ While the House has already passed a resolution [condemning racist comments](htt
 
 "There is a body of evidence indicating that the President is a recidivist, and his recidivism is something that should not go unnoticed because of the harm it is causing to American people," he said.
 
-And despite his yearslong conviction that Trump should be impeached and removed from office, Green said Tuesday that he won't hold it against any of his colleagues who may choose to vote against articles or — [as Politico reported](https://www.politico.com/news/2019/12/10/democrats-censure-impeachment-080311) — potentially push for a censure resolution, which would merely reprimand the president, instead.
+And despite his yearslong conviction that Trump should be impeached and removed from office, Green said Tuesday that he won't hold it against any of his colleagues who may choose to vote against articles or --- [as Politico reported](https://www.politico.com/news/2019/12/10/democrats-censure-impeachment-080311) --- potentially push for a censure resolution, which would merely reprimand the president, instead.
 
 "I think this is a question of conscience, and if we all do [what our] conscience dictates [we should do], we will be able to live with ourselves," he said. But, he added, "My personal opinion is that my conscience would not allow me to conclude that that is sufficient given the President's behavior."
 

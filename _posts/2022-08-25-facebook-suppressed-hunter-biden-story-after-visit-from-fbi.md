@@ -13,7 +13,7 @@ Zuckerberg dropped that bombshell news during an interview on "The Joe Rogan Exp
 
 Zuckerberg was asked about Facebook's suppression of the New York Post's reporting that exposed shady foreign business dealings of the son of then-candidate Joe Biden. The laptop was also filled with videos and photographs that were sexual in nature and others that portrayed the president's son doing drugs.
 
-"Basically, the background here is the FBI, I think, basically came to us – some folks on our team and was like, 'Hey, just so you know, like, you should be on high alert… We thought that there was a lot of Russian propaganda in the 2016 election. We have it on notice that, basically, there's about to be some kind of dump of that's similar to that. So just be vigilant,'" Zuckerberg told host Joe Rogan.
+"Basically, the background here is the FBI, I think, basically came to us --- some folks on our team and was like, 'Hey, just so you know, like, you should be on high alert... We thought that there was a lot of Russian propaganda in the 2016 election. We have it on notice that, basically, there's about to be some kind of dump of that's similar to that. So just be vigilant,'" Zuckerberg told host Joe Rogan.
 
 Twitter completely banned users from sharing the New York Post story about the laptop.
 

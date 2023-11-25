@@ -24,7 +24,7 @@ These include:
 
 A growing number of Democrats have criticized Trump for not doing more to slow the spread of the coronavirus, leaving healthcare workers with a lack of safety equipment when dealing with the sick, and hastily rushing toward the reopening of a virtually shut down American economy.
 
-"His denial at the beginning was deadly, his delaying of getting equipment … to where it is needed is deadly, and now the best thing would be to do is to prevent more loss of life, rather than open things up so that, because we just don't know," said House Speaker Nancy Pelosi late last month.
+"His denial at the beginning was deadly, his delaying of getting equipment ... to where it is needed is deadly, and now the best thing would be to do is to prevent more loss of life, rather than open things up so that, because we just don't know," said House Speaker Nancy Pelosi late last month.
 
 Presumptive Democratic nominee for president, Joe Biden, has said on more than one occasion the virus's arrival to the United States is not Trump's fault, but he has mishandled the resulting national crisis.
 
@@ -40,6 +40,6 @@ Meanwhile, "get back to work" protesters have been storming state capitols in st
 
 "We just have to reject any calls for a return to normal," Pressley said in the video.
 
-[…]
+[...]
 
 Source: Dominick Mastrangelo, washingtonexaminer.com/news/pressley-trump-guilty-of-war-crimes-in-handling-of-coronavirus-crisis

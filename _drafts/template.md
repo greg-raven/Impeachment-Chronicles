@@ -1,10 +1,10 @@
 ---
-title: "Title"
+title: "<#Title#>"
 layout: post
 tags:
-- Author
+- <#Author#>
 ---
 
-Content-text
+<#Content#>
 
-Source: Author, URL
+Source: <#Author#>, <#URL#>

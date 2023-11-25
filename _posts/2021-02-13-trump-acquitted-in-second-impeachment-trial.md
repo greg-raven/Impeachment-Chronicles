@@ -15,7 +15,7 @@ All 43 senators who voted to acquit Trump are Republicans. All Democrats voted t
 
 "After hearing the arguments presented, I voted to not convict for a number of reasons, including the fact that I don't think the Senate has the authority to try a private citizen."
 
-"The House Impeachment Managers launched an unconstitutional show trial to humiliate the former President and his supporters. The Impeachment Managers have accomplished nothing but to extend the pain of the American people. They achieved one thing — Donald J. Trump's acquittal," added Sen. Marsha Blackburn (R-Tenn.), another acquittal vote.
+"The House Impeachment Managers launched an unconstitutional show trial to humiliate the former President and his supporters. The Impeachment Managers have accomplished nothing but to extend the pain of the American people. They achieved one thing --- Donald J. Trump's acquittal," added Sen. Marsha Blackburn (R-Tenn.), another acquittal vote.
 
 Democrats alleged many Republicans already had their minds set on acquitting Trump even before the trial started.
 

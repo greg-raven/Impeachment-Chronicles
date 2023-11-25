@@ -15,7 +15,7 @@ According to Fox News:
 
 "This is a continuation of the cover-up," Clinton declared. It was not immediately clear what Clinton was implying that Stone could have divulged to prosecutors; Special Counsel Robert Mueller and federal prosecutors never alleged that Stone had engaged in a criminal conspiracy with any Russian actor.
 
-Although Clinton didn't provide evidence to support her theory, she went on to assure viewers on the primetime show that Russia had successfully swung votes to Trump in 2016 — and will try to do so again.
+Although Clinton didn't provide evidence to support her theory, she went on to assure viewers on the primetime show that Russia had successfully swung votes to Trump in 2016 --- and will try to do so again.
 
 It's also unclear how the Russians were responsible for Hillary failing to campaign in Wisconsin.
 

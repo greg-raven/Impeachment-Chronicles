@@ -7,13 +7,13 @@ tags:
 
 Tom Steyer was sitting on a plane waiting to take off from SFO to LAX last week when he got a text: The president had just tweeted about him.
 
-For most people, having Donald Trump call them out on Twitter as "wacky &amp; totally unhinged" — as the president did of Steyer — isn't exactly a good way to start your day.
+For most people, having Donald Trump call them out on Twitter as "wacky &amp; totally unhinged" --- as the president did of Steyer --- isn't exactly a good way to start your day.
 
-But for Steyer, a billionaire hedge fund chief and philanthropist running an $11 million ad campaign calling for Trump's impeachment, that tweet was more than welcome — introducing him and his movement to the president's 41 million followers.
+But for Steyer, a billionaire hedge fund chief and philanthropist running an $11 million ad campaign calling for Trump's impeachment, that tweet was more than welcome --- introducing him and his movement to the president's 41 million followers.
 
 "I think it was a kind of defensive reaction from a guy who under the surface knows he's doing a terrible job," Steyer said in an interview on Wednesday.
 
-Steyer's campaign has gathered steam: In 14 days, his petition calling for Trump's impeachment has gathered more than 1.4 million signatures. His 60-second ad — which is playing nationwide on TV and online — argues that Trump has "obstructed justice" and "brought us to the brink of nuclear war," as video rolls of North Korean President Kim Jong-un. It has been viewed nearly 1.2 million times on YouTube and 474,000 times on Facebook.
+Steyer's campaign has gathered steam: In 14 days, his petition calling for Trump's impeachment has gathered more than 1.4 million signatures. His 60-second ad --- which is playing nationwide on TV and online --- argues that Trump has "obstructed justice" and "brought us to the brink of nuclear war," as video rolls of North Korean President Kim Jong-un. It has been viewed nearly 1.2 million times on YouTube and 474,000 times on Facebook.
 
 The campaign also drastically raises Steyer's profile just as he's considering challenging Sen. Dianne Feinstein in next year's election.
 
@@ -23,7 +23,7 @@ But Steyer insists that the campaign is "not about me."
 
 "I'm just the vehicle," he said. "The American people are very scared by the behavior of this president."
 
-It was no coincidence that the ad was shown on "Fox &amp; Friends," Trump's favorite TV show — it's aimed at reaching more than just the liberal faithful who already believe Trump should be kicked out of the Oval Office, Steyer said.
+It was no coincidence that the ad was shown on "Fox &amp; Friends," Trump's favorite TV show --- it's aimed at reaching more than just the liberal faithful who already believe Trump should be kicked out of the Oval Office, Steyer said.
 
 When the ad came on during several World Series games over the last week, Twitter lit up with people asking, basically, who the hell is Tom Steyer?
 
@@ -39,13 +39,13 @@ Michael Ahrens, a spokesman for the Republican National Committee, called Steyer
 
 A handful of members of Congress, including Rep. Brad Sherman, D-Sherman Oaks, have tried to push forward articles of impeachment against Trump, but found little traction so far. Several other California House members, such as Rep. Jackie Speier, D-San Mateo, have already called for Trump to be removed from office through the 25th Amendment, a separate process that would have to be initiated by the president's Cabinet.
 
-Sherman emphasized in an interview that advocating for impeachment was a long-term strategy, and said just talking about impeaching Trump has helped constrain the president's actions. He said Steyer's campaign could be a powerful tool — especially if Steyer uses his 1.4 million-person list as the base of a larger movement, instead of just collecting their signatures.
+Sherman emphasized in an interview that advocating for impeachment was a long-term strategy, and said just talking about impeaching Trump has helped constrain the president's actions. He said Steyer's campaign could be a powerful tool --- especially if Steyer uses his 1.4 million-person list as the base of a larger movement, instead of just collecting their signatures.
 
 "You gotta hand it to Tom, he moves big and quick," Sherman said. "It's nice to be a billionaire."
 
 Some Congressional Democrats worry that spending time on the question of impeachment takes away from their party's larger economic message. House Minority Leader Nancy Pelosi has told her caucus that Steyer's ad campaign is a distraction, Politico reported Wednesday.
 
-Steyer said he wants to marshal support for impeachment among the broader public, not just members of Congress — most of whom, he says, are too scared to come out and back impeachment even if they personally believe Trump should be removed from office.
+Steyer said he wants to marshal support for impeachment among the broader public, not just members of Congress --- most of whom, he says, are too scared to come out and back impeachment even if they personally believe Trump should be removed from office.
 
 "We're not going to go to the elected officials who feel politically hamstrung from telling the truth about this," Steyer said. "We're going directly to the American people."
 

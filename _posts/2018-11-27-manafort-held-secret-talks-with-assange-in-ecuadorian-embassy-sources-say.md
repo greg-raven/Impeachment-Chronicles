@@ -8,7 +8,7 @@ tags:
 
 Donald Trump's former campaign manager Paul Manafort held secret talks withJulian Assange inside the Ecuadorian embassy in London, and visited around the time he joined Trump's campaign, the Guardian has been told.
 
-Sources have said Manafort went to see Assange in 2013, 2015, and in spring 2016 — during the period when he was made a key figure in Trump's push for the White House.
+Sources have said Manafort went to see Assange in 2013, 2015, and in spring 2016 --- during the period when he was made a key figure in Trump's push for the White House.
 
 In a statement, Manafort denied meeting Assange. He said: "I have never met Julian Assange or anyone connected to him. I have never been contacted by anyone connected to WikiLeaks, either directly or indirectly. I have never reached out to Assange or WikiLeaks on any matter."
 
@@ -40,7 +40,7 @@ The revelation could shed new light on the sequence of events in the run-up to s
 
 The previously unreported Manafort-Assange connection is likely to be of interest to Mueller, who has been investigating possible contacts between WikiLeaks and associates of Trump including the political lobbyist Roger Stone and Donald Trump Jr.
 
-One key question is when the Trump campaign was aware of the Kremlin's hacking operation — and what, if anything, it did to encourage it. Trump has repeatedly denied collusion.
+One key question is when the Trump campaign was aware of the Kremlin's hacking operation --- and what, if anything, it did to encourage it. Trump has repeatedly denied collusion.
 
 Earlier this year Mueller indicted 12 GRU intelligence officers for carrying out the hack, which began in March 2016.
 
@@ -50,7 +50,7 @@ According to sources, Manafort's acquaintance with Assange goes back at least fi
 
 Why Manafort might have sought out Assange in 2013 is unclear. During this period the veteran consultant was involved in black operations against Yanukovych's chief political rival, Yulia Tymoshenko, whom Yanukovych had jailed. Manafort ran an extensive lobbying operation featuring European former politicians.
 
-He flew frequently from the U.S. to Ukraine's capital, Kiev — usually via Frankfurt but sometimes through London, flight records seen by the Guardian show.
+He flew frequently from the U.S. to Ukraine's capital, Kiev --- usually via Frankfurt but sometimes through London, flight records seen by the Guardian show.
 
 Manafort is currently in jail in Alexandria, Virginia. In August a jury convicted him of crimes arising from his decade-long activities in Ukraine. They include large-scale money laundering and failure to pay U.S. tax. Manafort pleaded guilty to further charges in order to avoid a second trial in Washington.
 
@@ -66,7 +66,7 @@ As a candidate Trump warmly welcomed the dump of DNC emails by Assange. In Octob
 
 The Trump White House subsequently sent out mixed messages over Assange and his legal fate. In 2017 and behind the scenes Assange tried to reach a deal with Trump's Department of Justice that might see him avoid U.S. prison.
 
-In May 2017, Manafort flew to Ecuador to hold talks with the country's president-elect Lenín Moreno. The discussions, days before Moreno was sworn in, and before Manafort was indicted — were ostensibly about a large-scale Chinese investment.
+In May 2017, Manafort flew to Ecuador to hold talks with the country's president-elect Lenín Moreno. The discussions, days before Moreno was sworn in, and before Manafort was indicted --- were ostensibly about a large-scale Chinese investment.
 
 However, one source in Quito suggests that Manafort also discreetly raised Assange's plight. Another senior foreign ministry source said he was sceptical Assange was mentioned. At the time Moreno was expected to continue support for him.
 

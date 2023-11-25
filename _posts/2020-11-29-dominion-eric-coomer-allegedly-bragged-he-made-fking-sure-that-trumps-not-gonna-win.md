@@ -15,11 +15,11 @@ Oltmann alleged to reporters that one of the participants on the conference call
 
 As the call ramped up, Oltmann said he was told that one of the participants would be "Eric from Dominion" would be on the call. He later stated he was confident the identify of that person was Dominion employee Eric Coomer.
 
-According to Oltmann, one participant on the conference call asked, "What are we gonna do if f—king Trump wins?"
+According to Oltmann, one participant on the conference call asked, "What are we gonna do if f---king Trump wins?"
 
-Oltmann, paraphrasing Coomer's purported response, indicated that Coomer said, "Don't worry about the election, Trump's not gonna win. I made f—king sure of that!"
+Oltmann, paraphrasing Coomer's purported response, indicated that Coomer said, "Don't worry about the election, Trump's not gonna win. I made f---king sure of that!"
 
-The left-wing "fact checking" website Snopes – which some have linked to deep pockets on the Left and which has consistently supported left-leaning narratives, currently declares the allegation as "unproven." They state that they "don't know whether Oltmann's allegations against Coomer are accurate or not."
+The left-wing "fact checking" website Snopes --- which some have linked to deep pockets on the Left and which has consistently supported left-leaning narratives, currently declares the allegation as "unproven." They state that they "don't know whether Oltmann's allegations against Coomer are accurate or not."
 
 So far, Oltmann has offered only social media posts belonging to Coomer to back-up the veracity of his claims. These posts do not specifically prove or disprove the key allegation made by Oltmann, that Coomer boasted about rigging the election, although it is strongly inferred.
 
