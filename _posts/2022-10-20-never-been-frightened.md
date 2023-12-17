@@ -7,7 +7,7 @@ tags:
 
 > Never been frightened? Then why do you say the same thing, over and over?
 >
-> <cite>CasuallyGreg, via Twitter (twitter.com/CasuallyGreg/status/1583113442667671553)</cite>
+> <cite>CasuallyGreg, via [&#x1D54F;](https://x.com) (twitter.com/CasuallyGreg/status/1583113442667671553)</cite>
 
 ![Rob Reiner being frightened](/assets/2022-10-20-CasuallyGreg.jpg "Rob Reiner being frightened")
 

@@ -9,4 +9,4 @@ Talk of impeachment is NOT enough. This election was STOLEN. That means Pence wo
 
 ![Talk of impeachment is not enough](/assets/2017-02-04-bdd.jpg "Talk of impeachment is not enough")
 
-Source: BrooklynDad Defiant!, via Twitter (H/T ifunny.co/picture/brooklyndad-defiant-mmpadellan-talk-of-impeachment-is-not-enough-this-IoWpmijD9)
+Source: BrooklynDad Defiant!, via [&#x1D54F;](https://x.com) (H/T ifunny.co/picture/brooklyndad-defiant-mmpadellan-talk-of-impeachment-is-not-enough-this-IoWpmijD9)

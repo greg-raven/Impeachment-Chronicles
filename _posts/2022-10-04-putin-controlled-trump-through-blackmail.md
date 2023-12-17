@@ -13,7 +13,7 @@ tags:
 >
 > And here we have Collins' corporate colleague, Joe Scarborough, joining with Nancy Pelosi to spread the absolutely batshit insane conspiracy theory that Putin controlled Trump through blackmail: even as Trump armed Ukraine and waged war on Nord Stream 2:
 >
-> <cite>Glenn Greenwald, via Twitter</cite>
+> <cite>Glenn Greenwald, via [&#x1D54F;](https://x.com)</cite>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">And here's Collins' corporate employer, NBC News, broadcasting one of Collins' corporate colleagues -- former CIA Director John Brennan -- lying to liberals by telling them Mueller was coming to arrest the Trump family for colluding with Russia:<a href="https://t.co/nPlaq5YVxf">pic.twitter.com/nPlaq5YVxf</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1577355414651523072?ref_src=twsrc%5Etfw">October 4, 2022</a></blockquote>
 

@@ -15,4 +15,4 @@ German Foreign Minister Heiko Maas could be seen smirking alongside his colleagu
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump accused Germany of becoming &quot;totally dependent&quot; on Russian energy at the U.N. The Germans just smirked. <a href="https://t.co/PLBRlNPSfR">https://t.co/PLBRlNPSfR</a></p>&mdash; The Washington Post (@washingtonpost) <a href="https://twitter.com/washingtonpost/status/1044676392007454721?ref_src=twsrc%5Etfw">September 25, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Source: Rick Noack (The Washington Post), via Twitter
+Source: Rick Noack (The Washington Post), via [&#x1D54F;](https://x.com)

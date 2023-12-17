@@ -9,7 +9,7 @@ The Constitution is clear. The 25th amendment must be invoked. The President is 
 
 ![Greg Pinelo](/assets/2020-10-02-Twitter.jpg "Greg Pinelo: The Constitution is clear")
 
-Source: Greg Pinelo, via Twitter
+Source: Greg Pinelo, via [&#x1D54F;](https://x.com)
 
 **Note:** Greg Pinelo is a Democratic strategist and a former ad maker for Obama.
 

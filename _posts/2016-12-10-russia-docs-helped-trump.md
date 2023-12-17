@@ -7,4 +7,4 @@ tags:
 
 > CIA concludes Russia released stolen docs to hurt HRC &amp; help Trump. Apparently it pays to play footsie with Putin #Rigged
 >
-> <cite>Hakeem Jeffries, via Twitter</cite>
+> <cite>Hakeem Jeffries, via [&#x1D54F;](https://x.com)</cite>

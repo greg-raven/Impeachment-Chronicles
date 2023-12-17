@@ -9,4 +9,4 @@ tags:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">45&#39;s Election Integrity Commission is the real FRAUD. They should investigate his so-called victory</p>&mdash; Hakeem Jeffries (@RepJeffries) <a href="https://twitter.com/RepJeffries/status/907712510131875840?ref_src=twsrc%5Etfw">September 12, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Source: Hakeem Jeffries, via Twitter
+Source: Hakeem Jeffries, via [&#x1D54F;](https://x.com)

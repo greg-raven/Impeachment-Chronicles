@@ -9,4 +9,4 @@ tags:
 >
 > <cite>Kamala Harris</cite>
 
-Source: Mark Dice, via Twitter (twitter.com/MarkDice/status/1217952918789181440)
+Source: Mark Dice, via [&#x1D54F;](https://x.com) (twitter.com/MarkDice/status/1217952918789181440)

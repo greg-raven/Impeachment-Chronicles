@@ -9,4 +9,4 @@ It was a coup attempt. Trump was the instigator.
 
 ![Ruben Garcia](/assets/2021-07-15-ruben-garcia.jpg "Ruben Garcia: It was a coup attempt.")
 
-Source: Ruben Garcia, via Twitter
+Source: Ruben Garcia, via [&#x1D54F;](https://x.com)
