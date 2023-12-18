@@ -9,4 +9,4 @@ tags:
 >
 > <cite>Den Lewis ⭐⭐⭐ #VoteDemOut (@Denlewis01), [January 19, 2020](https://twitter.com/Denlewis01/status/1219004146487001095?ref_src=twsrc%5Etfw) (twitter.com/Denlewis01/status/1219004146487001095)</cite>
 
-Source: Den Lewis (quoting Maxine Waters), via [&#x1D54F;](https://x.com)
+Source: Den Lewis (quoting Maxine Waters), via [𝕏](https://x.com)

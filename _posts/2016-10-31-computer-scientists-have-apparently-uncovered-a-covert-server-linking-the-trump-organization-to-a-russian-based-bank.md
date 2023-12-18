@@ -25,4 +25,4 @@ Line of Communication to Russia</b>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Computer scientists have apparently uncovered a covert server linking the Trump Organization to a Russian-based bank. <a href="https://t.co/8f8n9xMzUU">pic.twitter.com/8f8n9xMzUU</a></p>&mdash; Hillary Clinton (@HillaryClinton) <a href="https://twitter.com/HillaryClinton/status/793250312119263233?ref_src=twsrc%5Etfw">November 1, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Source: Hillary Clinton, via [&#x1D54F;](https://x.com)
+Source: Hillary Clinton, via [𝕏](https://x.com)

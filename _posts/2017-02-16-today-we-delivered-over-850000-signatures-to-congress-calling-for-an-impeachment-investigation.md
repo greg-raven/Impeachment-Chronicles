@@ -23,6 +23,6 @@ Earlier in the day, John Bonifaz and Ron Fein of Free Speech For People were int
 
 > Today [@JohnBonifaz](https://twitter.com/JohnBonifaz?ref_src=twsrc%5Etfw) &amp; I had a great conversation with @bpshow about <https://t.co/X0H6NnmvO0> &amp; <https://t.co/U0zD6DKgdH>! [@fsfp](https://twitter.com/FSFP?ref_src=twsrc%5Etfw) [@impeachdtnow](https://twitter.com/impeachdtnow?ref_src=twsrc%5Etfw) <https://t.co/b1LbyumRRr>
 >
-> <cite>Ron Fein (@ronfein), via [&#x1D54F;](https://x.com) [February 16, 2017](https://twitter.com/ronfein/status/832335626028593152?ref_src=twsrc%5Etfw)</cite>
+> <cite>Ron Fein (@ronfein), via [𝕏](https://x.com) [February 16, 2017](https://twitter.com/ronfein/status/832335626028593152?ref_src=twsrc%5Etfw)</cite>
 
 Source: impeachdonaldtrumpnow.org/2017/02/16/today-delivered-850000-signatures-congress-calling-impeachment-investigation/

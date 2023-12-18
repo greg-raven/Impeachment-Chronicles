@@ -95,7 +95,7 @@ Krass is not the only Russiagate-tied official who has resurfaced in the Biden a
 
 Sullivan, 45, played a pivotal role in the baseless Alfa Bank story as the Clinton campaign's foreign policy adviser.
 
-He is the "foreign policy adviser" referenced in the Sussmann indictment as one of the campaign officials who was briefed on the scheme to cook up the debunked rumor that Trump and Russian President Vladimir Putin were secretly communicating through Alfa Bank's computer servers. Sullivan promoted the "secret hotline" hoax in a campaign statement via [&#x1D54F;](https://x.com) just days before the November 2016 election, claiming, "This could be the most direct link yet between Donald Trump and Moscow." He even called on "federal authorities" to investigate.
+He is the "foreign policy adviser" referenced in the Sussmann indictment as one of the campaign officials who was briefed on the scheme to cook up the debunked rumor that Trump and Russian President Vladimir Putin were secretly communicating through Alfa Bank's computer servers. Sullivan promoted the "secret hotline" hoax in a campaign statement via [𝕏](https://x.com) just days before the November 2016 election, claiming, "This could be the most direct link yet between Donald Trump and Moscow." He even called on "federal authorities" to investigate.
 
 Former Clinton campaign manager Robby Mook testified at Sussmann's trial that he discussed the Alfa Bank project with Sullivan before going to Clinton herself for approval to publicize it.
 

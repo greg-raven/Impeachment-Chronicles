@@ -9,7 +9,7 @@ tags:
 >
 > Also, given the fact that the Russians sought to manipulate the US election campaign using hacked material and a disinformation campaign, it was not stupid for the FBI to take the Steele dossier seriously. Was a mistake to publish it, but that wasn't the FBI's fault.
 >
-> <cite>Anne Applebaum, via [&#x1D54F;](https://x.com)</cite>
+> <cite>Anne Applebaum, via [𝕏](https://x.com)</cite>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Also, given the fact that the Russians sought to manipulate the US election campaign using hacked material and a disinformation campaign, it was not stupid for the FBI to take the Steele dossier seriously. Was a mistake to publish it, but that wasn't the FBI's fault.</p>&mdash; Anne Applebaum (@anneapplebaum) <a href="https://twitter.com/anneapplebaum/status/1460951783359102984?ref_src=twsrc%5Etfw">November 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

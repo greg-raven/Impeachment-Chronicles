@@ -15,4 +15,4 @@ The more we learn about 2016 election the more ILLEGITIMATE it becomes. America 
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Source: Hakeem Jeffries, via [&#x1D54F;](https://x.com)
+Source: Hakeem Jeffries, via [𝕏](https://x.com)

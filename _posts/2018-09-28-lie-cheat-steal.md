@@ -15,4 +15,4 @@ LIE (more than any administration in the history of the Republic). CHEAT (2016 e
 </blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Source: Hakeem Jeffries, via [&#x1D54F;](https://x.com)
+Source: Hakeem Jeffries, via [𝕏](https://x.com)

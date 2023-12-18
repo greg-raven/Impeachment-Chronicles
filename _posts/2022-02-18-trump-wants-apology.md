@@ -9,4 +9,4 @@ When is Lesley Stahl of 60 Minutes going to apologize for saying that my campaig
 
 ![When is Lesley Stahl of 60 Minutes going to apologize?](/assets/2022-02-18-donald-trump.jpg "When is Lesley Stahl of 60 Minutes going to apologize?")
 
-Source: Donald Trump, via [&#x1D54F;](https://x.com)
+Source: Donald Trump, via [𝕏](https://x.com)
