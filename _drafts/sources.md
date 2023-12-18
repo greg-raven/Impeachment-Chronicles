@@ -24,7 +24,7 @@ Crickets - https://youtu.be/4x-GGF7GI6M?si=PCcIvp6FaFWbFrQQ
 
 [Liz Cheney Unveils Her Delusional Plan To Get Donald Trump Arrested To Keep Him From Running In 2024 – enVolve](https://en-volve.com/2022/07/04/liz-cheney-unveils-her-delusional-plan-to-get-donald-trump-arrested-to-keep-him-from-running-in-2024/)
 
-[Chelsea Clinton Attacks Trump Over His Weight, Says the Republican Party is the Party of “White Supremacists” (VIDEO) - Survival Magazine & News - Bushcraft Prepper Offgrid SHTF Blog & Conservative News](https://survivalmagazine.org/news/chelsea-clinton-attacks-trump-over-his-weight-says-the-republican-party-is-the-party-of-white-supremacists-video/)
+[Chelsea Clinton Attacks Trump Over His Weight, Says the Republican Party is the Party of "White Supremacists" (VIDEO) - Survival Magazine & News - Bushcraft Prepper Offgrid SHTF Blog & Conservative News](https://survivalmagazine.org/news/chelsea-clinton-attacks-trump-over-his-weight-says-the-republican-party-is-the-party-of-white-supremacists-video/)
 
 [U.S. Justice Dept Says IRS Must Provide Former President Donald Trump's Tax Returns to Congress | Newsmax.com](https://www.newsmax.com/politics/trump-tax-returns-congress/2021/07/30/id/1030605/)
 

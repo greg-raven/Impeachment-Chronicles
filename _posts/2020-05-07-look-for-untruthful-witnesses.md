@@ -23,11 +23,11 @@ Among them are former Obama deputy national security adviser Ben Rhodes, former 
 
 "I think for the good guy side and the real investigators that are trying to get to the bottom of the Russia hoax and who was involved in it, there will be likely people who were not so truthful to Congress, let's just say," Nunes added later.
 
-The Republicans, who were in command of the House Intelligence Committee at the time, released a report in April 2018 that said they found no collusion in their investigation into links between the Trump campaign and the Russians. Democrats argued the investigation was shut down prematurely. A year later, special counsel Robert Mueller said his team's investigation “did not establish” any criminal conspiracy between the Trump campaign and the Kremlin.
+The Republicans, who were in command of the House Intelligence Committee at the time, released a report in April 2018 that said they found no collusion in their investigation into links between the Trump campaign and the Russians. Democrats argued the investigation was shut down prematurely. A year later, special counsel Robert Mueller said his team's investigation "did not establish" any criminal conspiracy between the Trump campaign and the Kremlin.
 
 As for when exactly Schiff will release the transcripts, Nunes doubts it will be any time soon because he believes "90% of the media" are "covering this up" and won't hold the chairman accountable.
 
-"So, you ask when you’re going to see them. I guess if some of the Russia hoaxers ask, 'Hey, are we going to see these transcripts?', they’ll be out in a nanosecond. If no one does, they’ll delay as long as possible, and they'll release them on a Friday night, you know, before Thanksgiving or, you know, over Thanksgiving weekend or something," he said.
+"So, you ask when you're going to see them. I guess if some of the Russia hoaxers ask, 'Hey, are we going to see these transcripts?', they'll be out in a nanosecond. If no one does, they'll delay as long as possible, and they'll release them on a Friday night, you know, before Thanksgiving or, you know, over Thanksgiving weekend or something," he said.
 
 Schiff released 57 transcripts and related material from the investigation on Thursday.
 

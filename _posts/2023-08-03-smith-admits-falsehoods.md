@@ -11,7 +11,7 @@ Mr. Smith's team said in a July 31 court filing (pdf) in its classified document
 
 "On July 27, as part of the preparation for the superseding indictment coming later that day and the discovery production for Defendant De Oliveira, the Government learned that this footage had not been processed and uploaded to the platform established for the defense to view the subpoenaed footage," Mr. Smith's team wrote in the July 31 filing.
 
-"The Government’s representation at the July 18 hearing that all surveillance footage the Government had obtained pre-indictment had been produced was therefore incorrect."
+"The Government's representation at the July 18 hearing that all surveillance footage the Government had obtained pre-indictment had been produced was therefore incorrect."
 
 Under what is called the Brady rule, prosecutors in a criminal trial have a constitutional duty to disclose all evidence to a defendant's legal team, including information that is favorable to the accused and could reduce a potential sentence.
 

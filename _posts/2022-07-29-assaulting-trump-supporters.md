@@ -14,11 +14,11 @@ But producer Dan Przygoda's threats aren't 50 or 60 years old. In fact, they app
 
 The House Select Committee on January 6th hired Przygoda in June 2022 to assist the staging of a series of hearings televised to the American public, many in prime time. Przygoda previously worked for ABC News, Bloomberg, and Good Morning America.
 
-On the afternoon Trump's inauguration --- as AntiFa activists rampaged through the nation's capital --- Przygoda tweeted that he would be "getting this new attachment for my car when I drive around Trump country…" Included in the tweet was a short, black-and-white animation, or "gif," of a car punching pedestrians as it passes with an automatic, metal arm.
+On the afternoon Trump's inauguration --- as AntiFa activists rampaged through the nation's capital --- Przygoda tweeted that he would be "getting this new attachment for my car when I drive around Trump country ..." Included in the tweet was a short, black-and-white animation, or "gif," of a car punching pedestrians as it passes with an automatic, metal arm.
 
 Similarly, in November of 2016, while appearing to reference a variety of movies including Men in Black, he created a scenario whereby then Vice President-elect Mike Pence gets punched in the head.
 
-""welcome to Miami!" *punches Pence in the head as he climbs out of his spacecraft*," he wrote to his Twitter followers.
+"'welcome to Miami!' *punches Pence in the head as he climbs out of his spacecraft*," he wrote to his Twitter followers.
 
 The January 6th committee's recent production staff hire is also an Emmy-nominated news producer whose résumé includes stints as a producer and editor at outlets including Bloomberg and ABC News.
 
