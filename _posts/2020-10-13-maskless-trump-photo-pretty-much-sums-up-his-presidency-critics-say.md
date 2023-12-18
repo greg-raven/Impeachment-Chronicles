@@ -21,7 +21,7 @@ Trump announced on Oct. 2 that he had tested positive for the virus. The federal
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a> boards Air Force One at Joint Base Andrews, Md, for a campaign rally in Orlando, Florida. <a href="https://t.co/PbKvSYoahf">pic.twitter.com/PbKvSYoahf</a></p>&mdash; Doug Mills (@dougmillsnyt) <a href="https://twitter.com/dougmillsnyt/status/1315754211834028034?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
 
-Critics were outraged that Trump ― who was protecting himself from the rain with an umbrella ― opted not to wear a face mask to protect those around him from the coronavirus that he could still be shedding.
+Critics were outraged that Trump --- who was protecting himself from the rain with an umbrella --- opted not to wear a face mask to protect those around him from the coronavirus that he could still be shedding.
 
 > The recklessness of Trump's presidency, summarized in one unbelievable picture.
 >

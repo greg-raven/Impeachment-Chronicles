@@ -13,9 +13,21 @@ Congressman Jamie Raskin (D-MD) received all 860,000 names at his office in the 
 
 Across Twitter, news of the petition drop spread quickly.
 
+> Today, @FSFP & @Roots_Action are presenting a 850k+ signature petition to the House asking for a presidential impeachment investigation.
+>
+> <cite>alexis ford, via [𝕏](https://x.com)</cite>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today, <a href="https://twitter.com/FSFP?ref_src=twsrc%5Etfw">@FSFP</a> &amp; <a href="https://twitter.com/Roots_Action?ref_src=twsrc%5Etfw">@Roots_Action</a> are presenting a 850k+ signature petition to the House asking for a presidential impeachment investigation. <a href="https://t.co/V1dmtJsLVI">pic.twitter.com/V1dmtJsLVI</a></p>&mdash; alexis ford (@alexisdford) <a href="https://twitter.com/alexisdford/status/832241820604235776?ref_src=twsrc%5Etfw">February 16, 2017</a></blockquote>
 
+> @potus was repeatedly warned that he must fully divest from his businesses or face impeachment
+>
+> <cite>Edward Erikson quoting John Bonifaz, via [𝕏](https://x.com)</cite>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/JohnBonifaz?ref_src=twsrc%5Etfw">@JohnBonifaz</a> &quot;<a href="https://twitter.com/POTUS?ref_src=twsrc%5Etfw">@potus</a> was repeatedly warned that he must fully divest from his businesses or face impeachment&quot; <a href="https://t.co/JkfcassULi">pic.twitter.com/JkfcassULi</a></p>&mdash; Edward Erikson (@EdwardErikson) <a href="https://twitter.com/EdwardErikson/status/832241652307783680?ref_src=twsrc%5Etfw">February 16, 2017</a></blockquote>
+
+> Around the U.S. the people believe that when the people lead, congress will follow
+>
+> <cite>Edward Erikson, via [𝕏](https://x.com)</cite>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Around the U.S. the people believe that when the people lead, congress will follow&quot; <a href="https://twitter.com/Roots_Action?ref_src=twsrc%5Etfw">@Roots_Action</a> <a href="https://twitter.com/hashtag/ImpeachTrump?src=hash&amp;ref_src=twsrc%5Etfw">#ImpeachTrump</a> <a href="https://t.co/CBgPdabS1J">pic.twitter.com/CBgPdabS1J</a></p>&mdash; Edward Erikson (@EdwardErikson) <a href="https://twitter.com/EdwardErikson/status/832243162122944512?ref_src=twsrc%5Etfw">February 16, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

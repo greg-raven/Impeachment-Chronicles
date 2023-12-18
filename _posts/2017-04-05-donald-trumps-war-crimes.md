@@ -17,11 +17,11 @@ One week after his inauguration, Trump bemoaned the death of a U.S. Navy Seal in
 
 Over the past month, the U.S.-led coalition has killed an inordinate number of civilians.
 
-"Almost 1,000 non-combatant deaths have already been alleged from coalition actions across Iraq and Syria in March ― a record claim," according to Airwars, a non-governmental organization (NGO) that monitors civilian casualties from airstrikes in the Middle East. "These reported casualty levels are comparable with some of the worst periods of Russian activity in Syria."
+"Almost 1,000 non-combatant deaths have already been alleged from coalition actions across Iraq and Syria in March --- a record claim," according to Airwars, a non-governmental organization (NGO) that monitors civilian casualties from airstrikes in the Middle East. "These reported casualty levels are comparable with some of the worst periods of Russian activity in Syria."
 
 Airwars says that U.S. aircraft have inflicted most of the casualties in the coalition strikes.
 
-Indeed, so many civilians have died from coalition airstrikes since Trump took office, Airwars is reducing its work on "alleged Russian actions in Syria ― so as best to focus our limited resources on continuing to properly monitor and assess reported casualties from the U.S. and its allies."
+Indeed, so many civilians have died from coalition airstrikes since Trump took office, Airwars is reducing its work on "alleged Russian actions in Syria --- so as best to focus our limited resources on continuing to properly monitor and assess reported casualties from the U.S. and its allies."
 
 During the last part of March alone:
 
@@ -66,7 +66,7 @@ Regardless of the guidance, however, the coalition is still constrained by inter
 
 "Self-defense," under Article 51 of the United Nations Charter, is a narrow exception to the Charter's prohibition of the use of force. Countries may engage in individual or collective self-defense only in the face of an armed attack. To the extent the United States claims the right to kill suspected terrorists or their allies before they act, there must exist "a necessity of self-defense, instant, overwhelming, leaving no choice of means, and no moment for deliberation," under the well-established Caroline Case. Trump's targeted killings do not meet this standard.
 
-Drone attacks off the battlefield violate well-established principles of international law. Targeted or political assassinations ― sometimes known as extra-judicial executions ― run afoul of the Geneva Conventions, which include willful killing as a grave breach. Grave breaches of Geneva are punishable as war crimes under the U.S. War Crimes Act.
+Drone attacks off the battlefield violate well-established principles of international law. Targeted or political assassinations --- sometimes known as extra-judicial executions --- run afoul of the Geneva Conventions, which include willful killing as a grave breach. Grave breaches of Geneva are punishable as war crimes under the U.S. War Crimes Act.
 
 The United States has ratified the International Covenant on Civil and Political Rights, which states: "Every human being has the inherent right to life. This right shall be protected by law. No one shall be arbitrarily deprived of his life." The Covenant also guarantees those accused of a crime the rights to be presumed innocent and to a fair trial by an impartial tribunal. Targeted killings abrogate these rights.
 
@@ -98,7 +98,7 @@ And Trump made the troubling assertion that he would consider killing innocent f
 
 The Trump administration will likely relax the rules of engagement for targeted killing, resulting in the deaths of increasingly large numbers of civilians, in violation of U.S. and international law.
 
-Under the doctrine of command responsibility, commanders ― all the way up the chain of command to the Commander-in-Chief ― can be liable for war crimes if they knew or should have known their subordinates would commit them and did nothing to stop or prevent them. Command responsibility is enshrined in Supreme Court case law and the U.S. Army Field Manual.
+Under the doctrine of command responsibility, commanders --- all the way up the chain of command to the Commander-in-Chief --- can be liable for war crimes if they knew or should have known their subordinates would commit them and did nothing to stop or prevent them. Command responsibility is enshrined in Supreme Court case law and the U.S. Army Field Manual.
 
 Trump and other high officials in his administration should be held accountable for war crimes.
 
