@@ -11,6 +11,8 @@ description: Attacks on our 45th president and republic.
 
 theme: minima
 
+url: "https://www.impeachment.network" # the base hostname & protocol for your site
+
 plugins:
   - jekyll-archives
   - jekyll-feed
