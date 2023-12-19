@@ -5,10 +5,8 @@ tags:
 - Hakeem Jeffries
 ---
 
-> The Insurrectionist-in-Chief continues to lie about the 2020 election. Over the weekend, once again, the former twice-impeached, disgraced, so-called president of the United States of America falsely claimed that he actually won the election and that it was stolen from Joe Biden. *[sic]*
->
-> <cite>Hakeem Jeffries, via [𝕏](https://x.com)</cite>
+> Is anyone else tired of hearing the Insurrectionist-in-Chief continue to lie about the 2020 election? Over the weekend, once again, the former, twice-impeached, disgraced, so-called President of the United States of America falsely claimed that he actually won the election and that it was stolen from Joe Biden. *[sic]* Something is really wrong with this guy, and I need some help in trying to figure it out. Is Donald Trump a) a pathological liar, b) a sociopath, c) a malignant narcissist [...]
 
-<iframe width="512" height="350" src="https://www.c-span.org/video/standalone/?c5044769/user-clip-hakeem-jeffries-calls-trump-so-called-president"></iframe>
+<div class="embed-responsive embed-responsive-16by9"><video class="embed-responsive-item" controls src="/assets/2021-07-26-Hakeem-Jeffries.mp4" poster="/assets/2021-07-26-Hakeem-Jeffries.jpg"></video></div>
 
-Source: C-SPAN
+Source: Hakeem Jeffries, via C-SPAN
