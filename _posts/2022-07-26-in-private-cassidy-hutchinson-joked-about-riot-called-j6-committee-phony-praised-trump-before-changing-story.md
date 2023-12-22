@@ -44,7 +44,7 @@ By March, she was joking about placing a prominent image of Trump addressing his
 
 Hutchinson also aimed fire at Committee Vice Chair Liz Cheney, the Wyoming Republican so consumed by her opposition to Trump and his voters that polls show she is about to lose her re-election bid. The two women publicly embraced in the committee room immediately after Hutchinson's testimony, an unusual interaction for congressional proceedings purporting to be legitimate. In a gauzy puff piece for The New York Times, the two were described as forming an "unlikely bond." It was particularly unlikely given what Hutchinson was saying about Cheney until recently.
 
-In September, Hutchinson disparaged Cheney and Illinois Rep. Adam Kinzinger, the two Republicans hand-picked to serve on the committee by Pelosi, as a "crop of losers." Discussing how other anti-Trump extremists had declined to run for re-election rather than face certain defeat at the hands of Republican voters, Hutchinson said she didn't think Kinzinger or Cheney would take that approach because, "Their egos are too [f------] big." She mocked their self-conception as "The REPUBLICAN MARTYRS."
+In September, Hutchinson disparaged Cheney and Illinois Rep. Adam Kinzinger, the two Republicans hand-picked to serve on the committee by Pelosi, as a "crop of losers." Discussing how other anti-Trump extremists had declined to run for re-election rather than face certain defeat at the hands of Republican voters, Hutchinson said she didn't think Kinzinger or Cheney would take that approach because, "Their egos are too [f---] big." She mocked their self-conception as "The REPUBLICAN MARTYRS."
 
 "I think Liz being the 'future of the GOP' is a massive stretch," Hutchinson wrote in one string of messages just two months before her appearance. "I think she does have the power to cement the anti-Trump, RINO movement and really capitalize off it on a national scale. She'll never ever turn the tides in her favor. Ever."
 
@@ -80,7 +80,7 @@ Hutchinson wrote that a series of tweets adding commentary to a piece from Polit
 
 When another friend joked that Cheney was portraying her as John Dean, she replied, "It's honestly nauseating."
 
-Hutchinson claimed CNN's Jim Acosta contacted her and said to her, "Thank you for your bravery and courage. We and the American people look forward to learning more from your testimony." Hutchinson said she had "about twenty snarky responses typed to respond back but just let it go ... Like stop WARPING everything you [f------] [j---–] ... and also I couldn't give less of a [f---] what cnn thinks of me. Truly."
+Hutchinson claimed CNN's Jim Acosta contacted her and said to her, "Thank you for your bravery and courage. We and the American people look forward to learning more from your testimony." Hutchinson said she had "about twenty snarky responses typed to respond back but just let it go ... Like stop WARPING everything you [f---] [j---] ... and also I couldn't give less of a [f---] what cnn thinks of me. Truly."
 
 Within weeks, Hutchinson would be basking in the glow of effusive praise from Acosta and other partisans at CNN, many of whom described her as more important than CNN contributor John Dean.
 

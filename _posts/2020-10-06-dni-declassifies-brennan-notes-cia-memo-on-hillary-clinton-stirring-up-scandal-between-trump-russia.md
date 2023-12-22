@@ -43,7 +43,7 @@ Ratcliffe informed the committee last week that the Obama administration obtaine
 
 According to Ratcliffe's letter, the intelligence included the "alleged approval by Hillary Clinton on July 26, 2016, of a proposal from one of her foreign policy advisers to vilify Donald Trump by stirring up a scandal claiming interference by Russian security services."
 
-Nick Merrill, Clinton's spokesperson, called the allegations "baseless b---------t."
+Nick Merrill, Clinton's spokesperson, called the allegations "baseless b---t."
 
 But Ratcliffe, in a statement released after the information was made public, pushed back on the idea he was advancing "Russian disinformation."
 
