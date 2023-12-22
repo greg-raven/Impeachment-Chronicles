@@ -1,5 +1,5 @@
 ---
-title: "This is not a coincidence"
+title: "Trump parrots Hitler"
 layout: post
 tags:
 - Biden-Harris HQ
