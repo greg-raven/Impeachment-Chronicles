@@ -25,7 +25,7 @@ Senate Majority Leader Mitch McConnell (R-Ky.) on Friday sent a letter to Republ
 
 The majority leader noted that "without unanimous consent, the Senate may not conduct any business of any kind during pro forma sessions, including beginning to act on received articles of impeachment from the House."
 
-Should the House impeach Trump for a second time---which requires a simple majority vote---the Senate will receive a notice that the House impeached the president while the Senate is in recess. According to McConnell, all 100 senators would have to agree to conduct "any business of any kind."
+Should the House impeach Trump for a second time --- which requires a simple majority vote --- the Senate will receive a notice that the House impeached the president while the Senate is in recess. According to McConnell, all 100 senators would have to agree to conduct "any business of any kind."
 
 "Assuming such unanimous consent is not given, the following would take place under the Senate Impeachment Rules when the Senate resumes regular session on January 19," McConnell wrote, adding that unless both the House and Senate move quickly, the Senate trial would not start until "after President Trump's term has expired."
 

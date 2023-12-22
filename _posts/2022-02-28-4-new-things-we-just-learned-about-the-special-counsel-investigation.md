@@ -25,7 +25,7 @@ Joffe told Alfa Bank lawyers that he refused to answer questions before the gran
 
 **2. Joffe Seeks to Jump into the Sussmann Criminal Case**
 
-Friday also saw Joffe's attorneys, Steven Tyrrell and Eileen Citron, file notices of appearances for Joffe as a proposed "intervenor" in the special counsel's criminal case against Sussmann. Joffe could seek to intervene in the case to challenge a subpoena, to seek a protective order---maybe because of purported attorney-client communications Joffe had with Sussmann or to prevent Durham from discussing his alleged role in public filings---or to otherwise protect a legal right or interest.
+Friday also saw Joffe's attorneys, Steven Tyrrell and Eileen Citron, file notices of appearances for Joffe as a proposed "intervenor" in the special counsel's criminal case against Sussmann. Joffe could seek to intervene in the case to challenge a subpoena, to seek a protective order --- maybe because of purported attorney-client communications Joffe had with Sussmann or to prevent Durham from discussing his alleged role in public filings --- or to otherwise protect a legal right or interest.
 
 We should know more shortly, when Joffe's attorney files the related motion to intervene. That motion is likely to come within the next week or so, given that on Friday, the court in United States v. Sussmann scheduled a hearing for March 7, 2022, to address potential conflicts of interests between Sussmann and his current attorneys, and Joffe is likely interested in ensuring Durham's team does not further implicate him in the matter.
 

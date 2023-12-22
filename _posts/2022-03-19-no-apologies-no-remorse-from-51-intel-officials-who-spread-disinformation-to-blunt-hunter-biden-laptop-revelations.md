@@ -53,7 +53,7 @@ They didn't lie. Not exactly. In fact, they explicitly stated that they have no 
 
 ![Richard Grenell](/assets/2022-03-19-Richard-Grenell.jpg "Richard Grenell: These people manipulated intelligence for partisan political gain.")
 
-The doubt these "intel officials" cast, though, was enough---as intended---for the partisan hacktavists in media to run with. Personally, I would have stopped taking the letter seriously at this paragraph, as would any thinking person.
+The doubt these "intel officials" cast, though, was enough --- as intended --- for the partisan hacktavists in media to run with. Personally, I would have stopped taking the letter seriously at this paragraph, as would any thinking person.
 
 From this carefully designed bit of propaganda successfully crafted to provide their media mouthpieces cover, the baton passed to Big Tech, who grasped it with glee and immediately began cancelling and deplatforming any person or entity, including the New York Post itself, for spreading this "Russian disinformation."
 

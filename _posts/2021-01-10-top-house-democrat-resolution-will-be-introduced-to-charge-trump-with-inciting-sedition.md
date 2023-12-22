@@ -19,7 +19,7 @@ Senate Majority Leader Mitch McConnell (R-Ky.) on Friday sent a letter to Republ
 
 The majority leader noted that "without unanimous consent, the Senate may not conduct any business of any kind during pro forma sessions, including beginning to act on received articles of impeachment from the House."
 
-Should the House impeach Trump for a second time---which requires a simple majority vote---the Senate will receive a notice that the House impeached the president while the Senate is in recess. According to McConnell, all 100 senators would have to agree to conduct "any business of any kind."
+Should the House impeach Trump for a second time --- which requires a simple majority vote --- the Senate will receive a notice that the House impeached the president while the Senate is in recess. According to McConnell, all 100 senators would have to agree to conduct "any business of any kind."
 
 "Assuming such unanimous consent is not given, the following would take place under the Senate Impeachment Rules when the Senate resumes regular session on January 19," McConnell wrote, adding that unless both the House and Senate move quickly, the Senate trial would not start until "after President Trump's term has expired."
 
@@ -31,7 +31,7 @@ According to a letter sent to her Democratic caucus, Pelosi spoke with Democrats
 
 Should an impeachment procedure be initiated, Democrats will likely focus on Trump's speech to protesters on Jan. 6, where he said that the election was stolen and made note of allegations of voter fraud, irregularities, and unconstitutional balloting laws.
 
-"We will never give up. We will never concede," Trump said. The president, meanwhile, did not tell the protesters to enter the Capitol or use violence---on the contrary, in a twitter video deleted by the platform he told them to be peaceful and to go home, and later denounced the Capitol breach. Critics have claimed that his allegations of voter fraud and irregularities was an incitement to violence.
+"We will never give up. We will never concede," Trump said. The president, meanwhile, did not tell the protesters to enter the Capitol or use violence --- on the contrary, in a twitter video deleted by the platform he told them to be peaceful and to go home, and later denounced the Capitol breach. Critics have claimed that his allegations of voter fraud and irregularities was an incitement to violence.
 
 The *Epoch Times* has reached out to the White House comment.
 

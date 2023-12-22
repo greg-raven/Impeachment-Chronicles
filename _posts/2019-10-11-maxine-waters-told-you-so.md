@@ -25,7 +25,7 @@ We have a president of the United States who would dare create this kind of chao
 
 This man is dangerous. I've always known that he was not worthy of the presidency. He should not be in that seat. And so I started early, and I know that a lot of people, thought, Why is she talking about impeachment? Maybe they didn't even understand that the Constitution gives us the responsibility to make a determination about whether someone holding that position is dangerous, whether they are worthy, whether or not they are acting in the best interest of their country, whether or not they are lying with foreigners and foreign interests.
 
-And he was dangerous before he was president. Look at the way he treated African Americans---denying them the ability to rent the apartments from him and his father. The way that he basically committed fraud and took money from students who thought they could get an education at his fake university. It's just so much.
+And he was dangerous before he was president. Look at the way he treated African Americans --- denying them the ability to rent the apartments from him and his father. The way that he basically committed fraud and took money from students who thought they could get an education at his fake university. It's just so much.
 
 **That's the question too, isn't it? There is so much that's been out there. There's so much incredible reporting that's been done to uncover his corruption, so why this? Why now? You've been calling for impeachment since the beginning. Why is this call with Ukraine the thing that pushed people over the edge?**
 

@@ -36,7 +36,7 @@ It's important to note that Siegel wrote:
 
 **In "Time Perspective Therapy" Terms**
 
-Through our observations, we can see Trump as embodying an unconstrained present hedonist---living only in the present moment and saying whatever it takes to pump up his ego and assuage his inherent low self-esteem, without thought of past reality or potentially devastating future consequences. He is the poster boy for a time perspective that is totally unbalanced. Unfortunately, given his personality type, there is little hope of reversal or any meaningful improvement.
+Through our observations, we can see Trump as embodying an unconstrained present hedonist --- living only in the present moment and saying whatever it takes to pump up his ego and assuage his inherent low self-esteem, without thought of past reality or potentially devastating future consequences. He is the poster boy for a time perspective that is totally unbalanced. Unfortunately, given his personality type, there is little hope of reversal or any meaningful improvement.
 
 **Our Future**
 

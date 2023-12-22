@@ -9,7 +9,7 @@ In 2016, Burisma Holdings was being investigated by Ukraine's then-Prosecutor Ge
 
 Biden argued that his actions were above board because he was carrying out the "official policy" of the Obama administration to root out corruption in Ukraine. "It was a fully transparent policy carried out in front of the whole world and fully, fully embraced by the international community of democracies," he claimed.
 
-But according to official memos seen by Just The News, this is not the case. Instead, these memos indicate that U.S. State Department officials were "impressed" with Shokin's anti-corruption plan and fully supportive of his efforts---undermining a key narrative during the Democrats' first partisan impeachment of President Trump.
+But according to official memos seen by Just The News, this is not the case. Instead, these memos indicate that U.S. State Department officials were "impressed" with Shokin's anti-corruption plan and fully supportive of his efforts --- undermining a key narrative during the Democrats' first partisan impeachment of President Trump.
 
 During the trial, House Democrats maintained that Shokin was fired because State Department officials weren't happy with his anti-corruption efforts, not because he was investigating Burisma. But these memos obtained by Just the News and the Southeastern Legal Foundation under a Freedom of Information Act (FOIA) request show that senior State Department officials, including then-Secretary of State John Kerry, were "impressed" with Shokin's efforts.
 

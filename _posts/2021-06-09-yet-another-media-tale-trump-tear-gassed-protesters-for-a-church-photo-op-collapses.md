@@ -33,7 +33,7 @@ The detailed IG report elaborated on the timeline even more extensively. It was 
 
 The clearing of the Park, said the IG Report, had nothing to do with Trump or his intended visit to the Church; in fact, those responsible for doing this did not have any knowledge of Trump's intentions:
 
-> The evidence we reviewed showed that the USPP cleared the park to allow the contractor to safely install the anti-scale fencing in response to destruction of property and injury to officers occurring on May 30 and 31. Further, the evidence showed that the USPP did not know about the President's potential movement until mid- to late afternoon on June 1---hours after it had begun developing its operational plan and the fencing contractor had arrived in the park.
+> The evidence we reviewed showed that the USPP cleared the park to allow the contractor to safely install the anti-scale fencing in response to destruction of property and injury to officers occurring on May 30 and 31. Further, the evidence showed that the USPP did not know about the President's potential movement until mid- to late afternoon on June 1 --- hours after it had begun developing its operational plan and the fencing contractor had arrived in the park.
 
 Beyond that, planning for that operation began at least two days before Trump decided to visit the church. "The fencing contractor told us and emails we reviewed confirmed that on May 30, the assistant division chief of the Secret Service's Procurement Division discussed with the contractor how quickly the contractor could deliver anti-scale fencing to Lafayette Park," the Report found.
 

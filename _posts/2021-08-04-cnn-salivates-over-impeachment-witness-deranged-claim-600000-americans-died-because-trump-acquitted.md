@@ -27,7 +27,7 @@ In fact, Vindman's nutty statements were celebrated by CNN. Keilar fawned over h
 >
 > VINDMAN: Well without any doubt I can say a second Trump term would have put us on that trajectory, clearly on that trajectory ...
 
-Does CNN realize Trump isn't president anymore? The cherry on top was Keilar's final question to the partisan actor: "[Y]our future obviously has taken a very different course than you expected, but I wonder what it holds for you. Are you---would you consider running for office?
+Does CNN realize Trump isn't president anymore? The cherry on top was Keilar's final question to the partisan actor: "[Y]our future obviously has taken a very different course than you expected, but I wonder what it holds for you. Are you --- would you consider running for office?
 
 The buttered-up Vindman boasted how he's been asked this before, and how he's not "discounting that possibility" to do "some good." Well CNN does have an embarrassing track record of propping up foes of the former president for political office.
 
@@ -51,6 +51,6 @@ Read the relevant transcript portion below:
 >
 > VINDMAN: Well without any doubt I can say a second Trump term would have put us on that trajectory, clearly on that trajectory. Absent accountability for the misdeeds of the last administration, so that's the onus on the Biden administration to pursue accountability, we could be in the same weakened position moving forward into a different administration in the future, one that we might not be able to cope with. If Trump was ham handed and ineffective, the next wannabe tyrant, next wannabe authoritarian can be a lot more effective in undermining, in further undermining the good governance and we could find ourselves in a completely different country. Unfortunately, kind of country that I've had a lot of experience operating in and trying to help this country manage, that includes Russia.
 >
-> KEILAR: Finally before I let you go, your future obviously has taken a very different course than you expected, but I wonder what it holds for you. Are you---would you consider running for office?
+> KEILAR: Finally before I let you go, your future obviously has taken a very different course than you expected, but I wonder what it holds for you. Are you --- would you consider running for office?
 
 Source: Kristine Marsh, newsbusters.org/blogs/nb/kristine-marsh/2021/08/04/cnn-salivates-over-impeachment-witnesss-deranged-claim-600000

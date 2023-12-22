@@ -27,7 +27,7 @@ Sipher got into arguments with former acting DNI Richard Grenell and others on T
 
 He also wrote that "the letter didn't say the laptop was disinformation," but, in May 2021, he posted a link to the Politico story that did say that.
 
-Nick Shapiro, once a top aide to former CIA Director John Brennan---both Shapiro and Brennan signed the missive---and who provided it to Politico, didn't respond to requests for comment from The Epoch Times by press time.
+Nick Shapiro, once a top aide to former CIA Director John Brennan --- both Shapiro and Brennan signed the missive --- and who provided it to Politico, didn't respond to requests for comment from The Epoch Times by press time.
 
 Most of the other signers didn't respond to requests for comment or declined the requests, the Post reported.
 
@@ -35,6 +35,6 @@ Former DNI James Clapper told the paper that he stands by the statement "made AT
 
 "I think sounding such a cautionary note AT THE TIME was appropriate," Clapper said.
 
-"The letter explicitly stated that we didn't know if the emails were genuine, but that we were concerned about Russian disinformation efforts," said Russ Travers, former acting director of the National Counterterrorism Center. "I spent 25 years as a Soviet/Russian analyst. Given the context of what the Russians were doing at the time (and continue to do---Ukraine being just the latest example), I considered the cautionary warning to be prudent."
+"The letter explicitly stated that we didn't know if the emails were genuine, but that we were concerned about Russian disinformation efforts," said Russ Travers, former acting director of the National Counterterrorism Center. "I spent 25 years as a Soviet/Russian analyst. Given the context of what the Russians were doing at the time (and continue to do --- Ukraine being just the latest example), I considered the cautionary warning to be prudent."
 
 Source: Zachary Stieber, theepochtimes.com/cia-officer-who-signed-hunter-biden-laptop-letter-claims-credit-for-trump-loss\_4369180.html

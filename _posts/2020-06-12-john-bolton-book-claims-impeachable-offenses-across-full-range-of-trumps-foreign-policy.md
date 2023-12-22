@@ -9,7 +9,7 @@ According to a press release put out by publishing giant Simon &amp; Schuster, B
 
 From the release:
 
-> What Bolton saw astonished him: a president for whom getting reelected was the only thing that mattered, even if it meant endangering or weakening the nation. "I am hard-pressed to identify any significant Trump decision during my tenure that wasn't driven by reelection calculations," he writes. In fact, he argues that the House committed impeachment malpractice by keeping their prosecution focused narrowly on Ukraine when Trump's Ukraine-like transgressions existed across the full range of his foreign policy---and Bolton documents exactly what those were, and attempts by him and others in the Administration to raise alarms about them.
+> What Bolton saw astonished him: a president for whom getting reelected was the only thing that mattered, even if it meant endangering or weakening the nation. "I am hard-pressed to identify any significant Trump decision during my tenure that wasn't driven by reelection calculations," he writes. In fact, he argues that the House committed impeachment malpractice by keeping their prosecution focused narrowly on Ukraine when Trump's Ukraine-like transgressions existed across the full range of his foreign policy --- and Bolton documents exactly what those were, and attempts by him and others in the Administration to raise alarms about them.
 
 The White House has reportedly tried to pull out all the stops to keep Bolton's book from being released --- claiming that Bolton is divulging classified information. But Simon &amp; Schuster says the book will be out on June 23 nonetheless.
 

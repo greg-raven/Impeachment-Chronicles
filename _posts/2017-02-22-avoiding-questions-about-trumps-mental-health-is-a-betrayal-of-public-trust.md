@@ -31,7 +31,7 @@ Frances concludes his argument that no mental health professional who has not ex
 
 Six and a half years ago, the Times entered this morass, in a Sunday Review piece speculating about the mental state of former president Obama. Drew Westen, a professor of psychology at Emory University, wrote about what he saw as Obama's passivity, a trait that progressives and some liberals had loudly complained about. Calling it a "character defect," Westen speculated that Obama suffered from a "deep-seated aversion to conflict," was caught in a "pattern of presenting inconsistent positions with no apparent recognition of their incoherence," and displayed "tic-like gestures of compromise." He finished his essay by stating that Obama did not "know who he is and what he believes in."
 
-There was indeed an outcry against Westen for presuming to speculate about Obama's state of mind---though Westen hid the term "psychology" in the folds of the word "character." It is quaint now, almost surreal, to think of Obama as mentally unfit to be president. But at the time, Westen's essay, for all the anger and indignation it provoked in some quarters, was accepted as part of the legitimate democratic discourse about a president's state of mind and motives.
+There was indeed an outcry against Westen for presuming to speculate about Obama's state of mind --- though Westen hid the term "psychology" in the folds of the word "character." It is quaint now, almost surreal, to think of Obama as mentally unfit to be president. But at the time, Westen's essay, for all the anger and indignation it provoked in some quarters, was accepted as part of the legitimate democratic discourse about a president's state of mind and motives.
 
 ---
 
