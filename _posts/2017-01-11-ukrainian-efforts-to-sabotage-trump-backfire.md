@@ -110,7 +110,7 @@ While it's not uncommon for outside operatives to serve as intermediaries betwee
 
 Documents released by an independent Ukrainian government agency --- and publicized by a parliamentarian --- appeared to show $12.7 million in cash payments that were earmarked for Manafort by the Russia-aligned party of the deposed former president, Yanukovych.
 
-The New York Times, in the August story revealing the ledgers' existence, reported that the payments earmarked for Manafort were "a focus" of an investigation by Ukrainian anti-corruption officials, while CNN reported days later that the FBI was pursuing an overlapping inquiry.
+*The New York Times,* in the August story revealing the ledgers' existence, reported that the payments earmarked for Manafort were "a focus" of an investigation by Ukrainian anti-corruption officials, while CNN reported days later that the FBI was pursuing an overlapping inquiry.
 
 Clinton's campaign seized on the story to advance Democrats' argument that Trump's campaign was closely linked to Russia. The ledger represented "more troubling connections between Donald Trump's team and pro-Kremlin elements in Ukraine," Robby Mook, Clinton's campaign manager, said in a statement. He demanded that Trump "disclose campaign chair Paul Manafort's and all other campaign employees' and advisers' ties to Russian or pro-Kremlin entities, including whether any of Trump's employees or advisers are currently representing and or being paid by them."
 

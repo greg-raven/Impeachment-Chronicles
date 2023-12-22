@@ -9,7 +9,7 @@ tags:
 
 Consequently, the authors claim, Trump's presidency represents an emergency which not only allows, but requires psychiatrists in the United States to raise alarms. While it has been repeatedly claimed that they have broken the American Psychiatric Association's Goldwater rule --- which states that it is unethical for psychiatrists to give professional opinions about public figures without examining them in person, --- the authors maintain that pointing out danger and calling for an evaluation is different from diagnosis. They have criticized the American Psychiatric Association for changing professional norms and standards, stating that it is dangerous to turn reasonable ethical guidelines into a gag rule under political pressure.
 
-The book was an instant New York Times Best Seller, and high demand led to a second edition, with 10 additional mental health professionals and some non-professionals (who are not counted in the "37"). Lee has maintained that the book remains strictly a public service, and all royalties were donated to the public good to remove any conflict of interest.
+The book was an instant *New York Times* Best Seller, and high demand led to a second edition, with 10 additional mental health professionals and some non-professionals (who are not counted in the "37"). Lee has maintained that the book remains strictly a public service, and all royalties were donated to the public good to remove any conflict of interest.
 
 **Various opinions**
 

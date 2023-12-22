@@ -5,7 +5,7 @@ tags:
 - Ian Schwartz
 ---
 
-CNN host Wolf Blitzer brought up the possibility of impeaching President Trump in an interview with Senator Angus King (I-Maine) Tuesday evening after a New York Times article alleged the president asked then-FBI Director Comey to end the FBI investigation of former National Security Adviser Michael Flynn.
+CNN host Wolf Blitzer brought up the possibility of impeaching President Trump in an interview with Senator Angus King (I-Maine) Tuesday evening after a *New York Times* article alleged the president asked then-FBI Director Comey to end the FBI investigation of former National Security Adviser Michael Flynn.
 
 The White House denies the report.
 

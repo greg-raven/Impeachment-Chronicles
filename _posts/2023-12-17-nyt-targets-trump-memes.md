@@ -7,7 +7,7 @@ tags:
 
 It's that time of the US election cycle again: what were formerly known as "newspapers of record" attempting to, for political reasons, promote odd ideas like regulating jokes.
 
-It's the New York Times this time, looking like it's terrified that Donald Trump might be successful in his new presidential bid, and so going guns blazing after what it calls his "troll army."
+It's *The New York Times* this time, looking like it's terrified that Donald Trump might be successful in his new presidential bid, and so going guns blazing after what it calls his "troll army."
 
 And "troll" here means --- meme creators. As for the memes themselves, the NYT either pretends not to or doesn't get the joke --- namely, that they are jokes, and basically treats them as sinister tools for peddling misinformation and deepfakes.
 

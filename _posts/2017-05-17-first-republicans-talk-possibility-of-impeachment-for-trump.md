@@ -11,7 +11,7 @@ While Republicans are choosing their words carefully, the fact that impeachment 
 
 Rep. Justin Amash (R-Mich.) on Wednesday said if the reports about Trump's pressure on Comey are true, it would merit impeachment.
 
-Amash spoke a day after The New York Times on Tuesday reported that Trump tried to pressure Comey to stop investigating Flynn.
+Amash spoke a day after *The New York Times* on Tuesday reported that Trump tried to pressure Comey to stop investigating Flynn.
 
 According to a memo written by Comey after the February meeting, the president told Comey "I hope you can let this go."
 

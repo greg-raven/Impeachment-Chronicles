@@ -31,7 +31,7 @@ Sater arrived in Trump's orbit as the mogul was shifting his business model. Sei
 U.S. Republican presidential nominee Donald Trump speaks at a campaign event at Trump Doral golf course in Miami, Florida, U.S. July 27, 2016. REUTERS/Carlo Allegri (Carlo Allegri)
 Trump and his lawyers have said that he was not aware of Sater's criminal past when he first signed on to do business with Sater's firm, Bayrock Group. Sater's involvement in the stock fraud was kept secret for years by federal prosecutors because of his role as an informant.
 
-But even after elements of Sater's background were disclosed in a 2007 New York Times article, he remained in close proximity to Trump --- at one point using Trump Organization office space and business cards.
+But even after elements of Sater's background were disclosed in a 2007 *New York Times* article, he remained in close proximity to Trump --- at one point using Trump Organization office space and business cards.
 
 Alan Garten, a lawyer for the Trump Organization, did not dispute Sater's account of the two men's relationship but said it differed from Trump's perception of events. He said Trump holds hundreds of meetings a year with people for whom the interactions are often more memorable than for the celebrity tycoon.
 
@@ -73,7 +73,7 @@ Sater said he also attended social events where Trump had been present and had v
 
 Sater attended a glitzy launch party with Trump in 2007 celebrating Trump Soho, a 46-story Manhattan project that Bayrock helped develop.
 
-When the New York Times first linked Sater to the mob stock and money laundering scheme later that year, Trump expressed surprise.
+When *The New York Times* first linked Sater to the mob stock and money laundering scheme later that year, Trump expressed surprise.
 
 "We do as much of a background check as we can on the principals. I didn't really know him very well," Trump told the Times, adding that he dealt primarily with other Bayrock executives.
 
