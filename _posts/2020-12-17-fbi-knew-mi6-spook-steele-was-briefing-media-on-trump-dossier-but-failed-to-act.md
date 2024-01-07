@@ -19,7 +19,7 @@ One message indicates that Strzok saw Steele's hand behind a Yahoo News story in
 
 "Looking at the Yahoo article, I would definitely say at a minimum Steele's reports should be viewed as intended to influence as well as to inform," he wrote in September 2016.
 
-The FBI cut Steele out of the loop after he leaked more material to website Mother Jones for an article published on 31 October, 2016.
+The FBI cut Steele out of the loop after he leaked more material to website *Mother Jones* for an article published on 31 October, 2016.
 
 The messages show Strzok and others at the agency had advance knowledge of CNN's 10 January, 2017, story about then-FBI director James Comey's January 6 briefing to Trump on the dossier, in which Comey warned the president-elect that Russia had a sex tape that it could use to blackmail him.
 

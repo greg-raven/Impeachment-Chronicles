@@ -83,7 +83,7 @@ The easing of longstanding restrictions on intelligence-sharing set off a massiv
 
 The FBI didn't have much time to exploit the raw intercepts before Trump put his own people in place. So in a last-minute scramble, it asked both the CIA and NSA to search their holdings and collect as much information as possible on Russian oligarchs and other figures for any links to Trump and his advisers --- namely, Gen. Michael Flynn, Paul Manafort, and Carter Page.
 
-The information was hastily processed and compiled into analytical reports and shared with other agencies, as well as Congress, putting Trump and his presidency under suspicion before he could even take the oath of office. Some of the material also was leaked to the New York Times, CNN, the Washington Post and other major media --- even though it was largely unsubstantiated.
+The information was hastily processed and compiled into analytical reports and shared with other agencies, as well as Congress, putting Trump and his presidency under suspicion before he could even take the oath of office. Some of the material also was leaked to the New York Times, CNN, the *Washington Post* and other major media --- even though it was largely unsubstantiated.
 
 In short, the new rules that Krass, along with other intelligence agency lawyers, helped draft making it easier to share raw streams of communications also made it easier to frame Trump as a Russian stooge before Obama left office.
 

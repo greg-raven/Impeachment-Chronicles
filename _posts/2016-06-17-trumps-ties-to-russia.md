@@ -29,7 +29,6 @@ The dynamic illustrates the extent to which Trump's worldview has been formed th
 
 It also reflects Trump's willingness to see world leaders through his own personal connections. In a Republican Party in which an ability to stand up to Putin has been seen as a test of toughness, Trump's relationship with the Russian leader is instead one of mutual flattery. Putin said in December that Trump was a "colorful and talented" person, a compliment that Trump said at the time was an "honor."
 
-Watch: Donald Trump and Vladimir Putin: A bromance (Video: Gillian Brockell/The Washington Post)
 The back-and-forth has continued. In a mid-June rally, Trump cited those comments as the reason he will not reject the Russian leader. "A guy calls me a genius, and I'm going to renounce?" Trump said. "I'm not going to renounce him." The next day in St. Petersburg, Putin again called Trump a "colorful person" and said he welcomed Trump's proposal for a "full-scale resumption" of U.S.-Russia ties.
 
 On the campaign trail, Trump has called for a new partnership with Moscow, overhauling NATO, the allied military force seen as the chief protector of pro-Western nations near Russia. And Trump has surrounded himself with a team of advisers who have had financial ties to Russia.
@@ -38,7 +37,7 @@ This account of Trump's 30-year history of business with Russia --- and that of 
 
 The coming together of Trump's business and political agendas was evident during his 2013 Moscow trip, in which he was seeking deals at the same time he was starting to ponder a presidential run.
 
-Agalarov and his son, Russian pop musician Emin Agalarov, told The Washington Post that they befriended Trump after the pageant and listened as he described his views of U.S.-Russia relations.
+Agalarov and his son, Russian pop musician Emin Agalarov, told *The Washington Post* that they befriended Trump after the pageant and listened as he described his views of U.S.-Russia relations.
 
 "He kept saying, 'Every time there is friction between United States and Russia, it's bad for both countries. For the people to benefit, this should be fixed. We should be friends,' " Emin Agalarov recalled.
 

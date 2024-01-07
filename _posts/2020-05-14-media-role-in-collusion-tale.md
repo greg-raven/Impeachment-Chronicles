@@ -75,7 +75,7 @@ Sept. 23, 2016:
 : Michael Isikoff and Yahoo News report "U.S. intel officials probe ties between Trump adviser [Carter Page] and Kremlin." It is later revealed that the FBI improperly wiretapped Page for a year.
 
 Early October 2016:
-: Steele, the author of anti-Trump "dossier," meets in New York with David Corn, Washington bureau chief of Mother Jones.
+: Steele, the author of anti-Trump "dossier," meets in New York with David Corn, Washington bureau chief of *Mother Jones.*
 
 Oct. 14, 2016:
 : At the FBI, Strzok emails Page, discussing talking points to convince Deputy Director McCabe to persuade a high-ranking Department of Justice official to sign a warrant to wiretap Page. "At a minimum, that keeps the hurry the F up pressure on him," Strzok emails Page less than four weeks before Election Day.
@@ -87,10 +87,10 @@ Oct. 24, 2016:
 : Benjamin Wittes, confidant of FBI Director James Comey and editor-in-chief of the blog Lawfare, writes of the need for an "insurance policy" in case Trump wins. It's the same phrase FBI officials Page and Strzok used when discussing the possibility of a Trump win.
 
 Late Oct. 2016:
-: Steele again briefs reporter from Mother Jones by Skype about Trump political opposition research.
+: Steele again briefs reporter from *Mother Jones* by Skype about Trump political opposition research.
 
 Oct. 30, 2016:
-: Mother Jones writer Corn is first to report on the anti-Trump "dossier," quoting unidentified former spy, presumed to be Steele. FBI General Counsel James Baker had reportedly been in touch with Corn, but Corn later denies Baker provided him information.
+: *Mother Jones* writer Corn is first to report on the anti-Trump "dossier," quoting unidentified former spy, presumed to be Steele. FBI General Counsel James Baker had reportedly been in touch with Corn, but Corn later denies Baker provided him information.
 
 Oct. 31, 2016:
 : *New York Times* reports FBI is investigating Trump and found no illicit connections to Russia.
@@ -198,7 +198,7 @@ Sept. 13, 2017:
 : Under questioning from Congress, Obama's former National Security Adviser Susan Rice reportedly admits having requested to see the protected identities of Trump transition officials "incidentally" captured by government surveillance.
 
 Dec. 19, 2017:
-: McCabe repeatedly testifies that the wiretap against Trump campaign official Carter Page would not have been approved without the Fusion GPS/Steele dossier info. FBI General Counsel James Baker, who is himself subject of an Inspector General probe into his alleged leaks to the press, attends as McCabe's attorney. McCabe acknowledges that if Baker had met with Mother Jones reporter David Corn, it would have been inappropriate. Baker is reassigned amid investigation into his alleged contacts with media.
+: McCabe repeatedly testifies that the wiretap against Trump campaign official Carter Page would not have been approved without the Fusion GPS/Steele dossier info. FBI General Counsel James Baker, who is himself subject of an Inspector General probe into his alleged leaks to the press, attends as McCabe's attorney. McCabe acknowledges that if Baker had met with *Mother Jones* reporter David Corn, it would have been inappropriate. Baker is reassigned amid investigation into his alleged contacts with media.
 
 Feb. 2, 2018:
 : House Intelligence Committee Republican memo summarizes classified documents revealing for the first time that Fusion GPS political opposition research was used, in part, to justify Carter Page wiretap; along with Michael Isikoff Yahoo News article based on the same opposition research.<br>Ex-CIA Director Brennan signs on as a contributor to NBC and MSNBC, where he provides routine criticism of Trump and his associates, including providing false information.

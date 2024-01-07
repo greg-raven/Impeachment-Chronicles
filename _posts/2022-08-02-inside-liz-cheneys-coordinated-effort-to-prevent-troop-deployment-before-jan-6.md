@@ -11,7 +11,7 @@ Days before the Capitol riot provoked a years-long effort to impeach, prosecute,
 
 Cheney has blamed Trump for not ordering the National Guard to defend the Capitol complex, even though multiple sources confirm that he authorized their deployment days prior to the Jan. 6 rally at the White House and riot at the Capitol. Security officials in charge of the Capitol declined to call up troops to protect it, government records show.
 
-Yet Cheney herself seems to have orchestrated opposition to use of the military to quell election-related unrest, allegedly organizing a Washington Post op-ed on Jan. 3, 2021, signed by every living former defense secretary.
+Yet Cheney herself seems to have orchestrated opposition to use of the military to quell election-related unrest, allegedly organizing a *Washington Post* op-ed on Jan. 3, 2021, signed by every living former defense secretary.
 
 "All 10 living former defense secretaries: Involving the military in election disputes would cross into dangerous territory," the headline read. It went on to threaten any military official who thought any use of the military might be a good idea. "Civilian and military officials who direct or carry out such measures would be accountable, including potentially facing criminal penalties, for the grave consequences of their actions on our republic," the op-ed warned.
 

@@ -77,11 +77,11 @@ A week later, the FBI agents also wrote that they suspected that the illegal lea
 
 "I'm sorry to hear that," another FBI agent responded sarcastically. "I'll resume my duties as Chief Morale Officer and rectify that."
 
-"Published this morning by Ignatius," an agent said, referencing the Jan. 12 column from Washington Post writer David Ignatius that included leaked top-secret information about Flynn's calls with Kislyak.
+"Published this morning by Ignatius," an agent said, referencing the Jan. 12 column from *Washington Post* writer David Ignatius that included leaked top-secret information about Flynn's calls with Kislyak.
 
 "It's got to be someone on staff," an agent wrote. "[Presidential Daily Briefing] staff. Or WH seniors."
 
-To date, not a single person has been charged with illegally leaking that information to the Washington Post as a way of damaging Flynn and the incoming Trump administration.
+To date, not a single person has been charged with illegally leaking that information to the *Washington Post* as a way of damaging Flynn and the incoming Trump administration.
 
 Following a review of the federal government's investigation by U.S. Attorney Jeff Jensen, which was ordered by Attorney General William Barr, the government moved to dismiss all charges against Flynn that had been previously brought by former Special Counsel Robert Mueller.
 

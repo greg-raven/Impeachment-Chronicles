@@ -29,7 +29,7 @@ In that interview, Isikoff indicated blandly that some of the information he was
 
 Isikoff once tweeted a link to his book "Russian Roulette" to President Trump, arguing "here is what is true, Mr. President." Currently atop his Twitter page, Isikoff still has a pinned 2018 tweet thanking MSNBC host Rachel Maddow for helping propel the book to No. 1 on Amazon.
 
-In an attempt to face up to his own part in pushing the dossier fables, Corn last month penned a lengthy piece in Mother Jones arguing that just because the dossier turned out to be fiction doesn't mean the Russiagate narrative is a hoax. He insisted Trump is still "guilty" of betraying America by cozying up to Russia.
+In an attempt to face up to his own part in pushing the dossier fables, Corn last month penned a lengthy piece in *Mother Jones* arguing that just because the dossier turned out to be fiction doesn't mean the Russiagate narrative is a hoax. He insisted Trump is still "guilty" of betraying America by cozying up to Russia.
 
 Corn avoided mentioning Millian a single time in his 4,000-word essay and even cited "Russian Roulette" in his defense. In his telling, the fact that he and Isikoff showed some skepticism by reporting that the Justice Department watchdog revealed Steele may have exaggerated his most sensational allegations, makes up for repeating those stories in their book. Corn also continues to feature "Russian Roulette" as the backdrop to his Twitter page.
 
@@ -49,7 +49,7 @@ The site quotes "praise" for the authors from Maddow, who gushed, "Two of the be
 
 It also includes this blurb from a *New York Times* review: "Russian Roulette is the most thorough and riveting account."
 
-Steele first fed the false allegations to the authors in 2016. That fall, Simpson booked a private room at the Tabard Inn in Washington, where he introduced them to Steele. There, the former MI6 agent spilled his secret "intelligence" about Trump and Russia, Isikoff and Corn acknowledged in their book. Steele met for the off-the-record chats with *The New York Times,* *The New Yorker,* CNN, the Washington Post and Yahoo News and *Mother Jones,* but only Yahoo News and *Mother Jones* bit on his wild and unsubstantiated rumors back then.
+Steele first fed the false allegations to the authors in 2016. That fall, Simpson booked a private room at the Tabard Inn in Washington, where he introduced them to Steele. There, the former MI6 agent spilled his secret "intelligence" about Trump and Russia, Isikoff and Corn acknowledged in their book. Steele met for the off-the-record chats with *The New York Times,* *The New Yorker,* CNN, the *Washington Post,* and Yahoo News and *Mother Jones,* but only Yahoo News and *Mother Jones* bit on his wild and unsubstantiated rumors back then.
 
 "US intel officials probe ties between Trump adviser and Kremlin," proclaimed a Yahoo headline over the story Isikoff wrote on Sept. 23, 2016, a story the FBI shockingly used to help corroborate Steele's reporting cited in a warrant to spy on that same Trump adviser, Page, despite the fact that Steele was the main source for Isikoff's article.
 

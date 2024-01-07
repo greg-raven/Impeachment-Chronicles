@@ -55,7 +55,7 @@ A Senate investigator told RCI that Laufman was the "mastermind" behind the stra
 
 Laufman signed off on the wiretapping of Trump campaign adviser Carter Page, which the Department of Justice inspector general determined was conducted under false pretenses involving doctored email, suppression of exculpatory evidence, and other malfeasance.
 
-Suddenly resurfacing as a media surrogate for the Justice Department defending the Mar-a-Lago raid, Laufman has been a key source for stories by the Washington Post, CNN, and other outlets.
+Suddenly resurfacing as a media surrogate for the Justice Department defending the Mar-a-Lago raid, Laufman has been a key source for stories by the *Washington Post,* CNN, and other outlets.
 
 On CNN, for instance, he claimed the documents seized from Trump's storage were "particularly stunning and particularly egregious," and their discovery "completely validates the government's investigation" into the former president --- though he quickly added, "Whether this investigation transforms into an outright criminal prosecution remains to be seen."
 

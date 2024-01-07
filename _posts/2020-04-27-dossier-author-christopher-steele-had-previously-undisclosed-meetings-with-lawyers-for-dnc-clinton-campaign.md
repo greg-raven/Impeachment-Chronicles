@@ -70,9 +70,9 @@ That assessment, if true, would have fit into Steele's theory that the Trump cam
 
 The Slate story appeared as rumors gained steam that the Trump campaign was somehow involved in the hack and release of emails from the DNC and Clinton campaign. On Sept. 23, 2016, Yahoo! News published a story alleging that Trump campaign aide Carter Page met secretly with Kremlin insiders to discuss exchanging material on Hillary Clinton.
 
-On the day the Slate story appeared, Mother Jones reporter David Corn published a report citing a "former Western intelligence officer" who claimed that the Russian government had compromising material on Trump.
+On the day the Slate story appeared, *Mother Jones* reporter David Corn published a report citing a "former Western intelligence officer" who claimed that the Russian government had compromising material on Trump.
 
-It is now known that Steele was involved in one way or the other in all three of the stories. He has acknowledged in court proceedings to meeting with both reporters from Mother Jones and Yahoo, and had investigated the allegations central to the Slate story.
+It is now known that Steele was involved in one way or the other in all three of the stories. He has acknowledged in court proceedings to meeting with both reporters from *Mother Jones* and Yahoo, and had investigated the allegations central to the Slate story.
 
 To further spread the Alfa Bank story, Sussmann contacted James Baker, his former DOJ colleague who then served as general counsel for the FBI. Baker told House investigators on Oct. 18, 2018 that Sussmann contacted him to share the information and that they met on Sept. 19, 2016.
 

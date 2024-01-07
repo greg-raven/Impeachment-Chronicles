@@ -23,15 +23,15 @@ And, most chilling of all, with a massive assist from the Russian military, whic
 
 Some people were motivated to vote for Trump because they believed Russian lies about Hillary Clinton's health or email. But at least they got to cast their votes, and have them counted.
 
-Others, many who planned to vote against Trump, were kept from the ballot entirely. In Wisconsin, as Mother Jones has reported, discriminatory ID laws prevented 45,000 eligible voters from participating in the election, including 23,000 in two heavily Democratic counties. Trump won Wisconsin by 22,000 votes.
+Others, many who planned to vote against Trump, were kept from the ballot entirely. In Wisconsin, as *Mother Jones* has reported, discriminatory ID laws prevented 45,000 eligible voters from participating in the election, including 23,000 in two heavily Democratic counties. Trump won Wisconsin by 22,000 votes.
 
 The attorney general of Wisconsin, Brad Schimel, even boasted recently that Trump won Wisconsin chiefly because tens of thousands of eligible voters were turned away.
 
-We've long known that Russian hackers attempted to break into the nation's voter databases. But NBC reported this year that they succeeded. Senior intelligence officials said that Russia compromised seven states, including California, Florida, Illinois and Texas.
+We've long known that Russian hackers attempted to break into the nation's voter databases. But NBC reported this year that they succeeded. Senior intelligence officials said that Russia compromised seven states, including California, Florida, Illinois, and Texas.
 
 There are other good reasons to ask questions about the election. In Florida, exit polls on election day had Clinton winning by 1.3 % of the vote. When the votes were tallied, Trump beat her by 1.2%.
 
-None of this data is conclusive. But it absolutely does not suggest that American citizens should shut up, forget it, and will away all the evidence that something's rotten in our electoral system. If it didn't hurt your candidate this time, next time it might.
+None of this data is [*sic*] conclusive. But it absolutely does not suggest that American citizens should shut up, forget it, and will away all the evidence that something's rotten in our electoral system. If it didn't hurt your candidate this time, next time it might.
 
 When, in 1974, President Gerald Ford pardoned former President Richard Nixon, he sounded noble. He claimed that to put Nixon on trial would cost the nation its newfound "tranquility." Why rock the boat by bringing Nixon, who'd already been subject to so much "degradation," to trial?
 

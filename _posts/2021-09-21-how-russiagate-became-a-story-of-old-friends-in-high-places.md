@@ -39,11 +39,11 @@ Baker suggested it was a mystery why Sussmann reached out to him --- and then re
 
 For his part, Sussmann told congressional investigators that when he met with Baker, he told him "I wasn't looking for the FBI to do anything. I had no ask. I had no requests."
 
-Sussmann wasn't the only old friend feeding Russia conspiracy stories to James Baker. In the fall of 2016, another Washingtonian with the general counsel's ear was David Corn, the Washington bureau chief of the left-wing magazine Mother Jones.
+Sussmann wasn't the only old friend feeding Russia conspiracy stories to James Baker. In the fall of 2016, another Washingtonian with the general counsel's ear was David Corn, the Washington bureau chief of the left-wing magazine *Mother Jones.*
 
 "David had part of what is now referred to as the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) and he talked to me about that and wanted to provide that to the FBI," Baker told lawmakers. "And so, even though he was my friend, I was also an FBI official. He knew that. And so he wanted to somehow get that into the hands of the FBI."
 
-How did a Mother Jones reporter/columnist get chosen to drop a dime on Trump with the FBI?
+How did a *Mother Jones* reporter/columnist get chosen to drop a dime on Trump with the FBI?
 
 "David is a friend of mine"
 
@@ -72,6 +72,6 @@ Ohr wasn't the only official Steele cultivated; he had also become pals with Jon
 
 He also promoted Steele himself: "Toria and Paul, Three reports from Orbis," Winer wrote in a November 2014 email, showing his nickname and first-name basis with "Toria" Nuland and Paul W. Jones, her deputy. He added, "The man behind them and Orbis, Chris Steele (as previously mentioned, former MI6 Russia expert, and a trusted friend of mine) is in DC next couple of days. If you'd like to meet with him, let me know and I can put it together." Winer promoted Steele's dossier with no less vigor and enthusiasm, distributing it among his friends at State.
 
-From Michael Sussmann's relationship with the FBI's general counsel, Jim Baker, to Baker's friendship with David Corn of Mother Jones; from Bruce Ohr's long connection with Christopher Steele to Steele's decade-long association with Jonathan Winer, the stealthy dissemination of allegations against Trump, his businesses and his staff remains a blueprint of how Washington works.
+From Michael Sussmann's relationship with the FBI's general counsel, Jim Baker, to Baker's friendship with David Corn of *Mother Jones;* from Bruce Ohr's long connection with Christopher Steele to Steele's decade-long association with Jonathan Winer, the stealthy dissemination of allegations against Trump, his businesses and his staff remains a blueprint of how Washington works.
 
 Source: Eric Felten, realclearinvestigations.com/articles/2021/09/22/how\_russiagate\_became\_a\_story\_of\_old\_friends\_indeed\_795476.html)

@@ -9,7 +9,7 @@ Here's a semi-comprehensive list we'll be updating of the many notable Republica
 
 **Senators**
 
-Susan Collins: The Maine senator wrote an op-ed in The Washington Post on August 8 stating that although she is a lifelong Republican, she will not support the party's nominee --- a decision she says she does not take "lightly." "Donald Trump does not reflect historical Republican values nor the inclusive approach to governing that is critical to healing the divisions in our country," Collins wrote.
+Susan Collins: The Maine senator wrote an op-ed in *The Washington Post* on August 8 stating that although she is a lifelong Republican, she will not support the party's nominee --- a decision she says she does not take "lightly." "Donald Trump does not reflect historical Republican values nor the inclusive approach to governing that is critical to healing the divisions in our country," Collins wrote.
 
 Mark Kirk: The Illinois senator said June 8 that he "cannot and will not support" Trump --- who he said "does not have the temperament" to be commander in chief. Kirk faces a tough challenge in November from Illinois Democratic Rep. Tammy Duckworth.
 
@@ -72,9 +72,9 @@ Maria Comella: Chris Christie's longtime aide told CNN August 2 she will vote fo
 
 Meg Whitman: The president and CEO of Hewlett-Packard and a major GOP donor said August 2 that she will support Clinton over Trump --- stating that Trump's "demagoguery has undermined the fabric of our national character." The former California gubernatorial candidate said she would contribute to Clinton's campaign and its allied super PACs.
 
-Hank Paulson: The Republican Treasury secretary endorsed Clinton June 24, writing in an op-ed in The Washington Post that "a Trump presidency is unthinkable." "To my Republican friends: I know I'm not alone," Paulson wrote.
+Hank Paulson: The Republican Treasury secretary endorsed Clinton June 24, writing in an op-ed in *The Washington Post* that "a Trump presidency is unthinkable." "To my Republican friends: I know I'm not alone," Paulson wrote.
 
-Marc Racicot: The former governor of Montana and former chairman of the Republican National Committee wrote in an op-ed in The Washington Post that he "cannot endorse or support" Trump.
+Marc Racicot: The former governor of Montana and former chairman of the Republican National Committee wrote in an op-ed in *The Washington Post* that he "cannot endorse or support" Trump.
 
 Mark Salter: The former top adviser to Sen. John McCain tweeted his support for Clinton on May 3, writing; "the GOP is going to nominate for President a guy who reads the National Enquirer and thinks it's on the level. I'm with her."
 
