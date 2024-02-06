@@ -25,13 +25,13 @@ She has already made up her mind on January 6 and yet she is allowed to preside 
 
 Recall, Judge Chutkan on Friday warned Trump's lawyers that politics have no place in her courtroom.
 
-"There are limits, regardless of what is going on in, I hate to say it, his day job. This is a criminal case. The need for this criminal case to proceed in the normal order and protect witnesses and integrity of the process means there are going to be limits on the defendant's speech." – the Judge said arguing the First Amendment is "not absolute."
+"There are limits, regardless of what is going on in, I hate to say it, his day job. This is a criminal case. The need for this criminal case to proceed in the normal order and protect witnesses and integrity of the process means there are going to be limits on the defendant's speech." --- the Judge said arguing the First Amendment is "not absolute."
 
 Judge Chutkan said she doesn't care that gagging Trump will impact his presidential campaign.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chutkan: &quot;I cannot and I will not factor into my decisions the influence it will have on a political campaign on either side.&quot;</p>&mdash; 𝚁𝚎𝚋𝚎𝚌𝚌𝚊 𝙱𝚎𝚒𝚝𝚜𝚌𝚑 (@RebeccaBeitsch) <a href="https://twitter.com/RebeccaBeitsch/status/1690006608644907009?ref_src=twsrc%5Etfw">August 11, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Judge Tanya Chutkan is treating President Trump worse than other defendants – including a meth dealer.
+Judge Tanya Chutkan is treating President Trump worse than other defendants --- including a meth dealer.
 
 Noted attorney Techno Fog looked through Judge Chutkan's recent history and provided evidence of bias after she denied the gag order hearing dates requested by Trump's lawyers.
 

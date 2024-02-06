@@ -23,7 +23,7 @@ Anyone who reads that quote and thinks he's talking about Jews is simply being l
 
 Moving on, "poisoning the blood of our country" was a politically dumb thing to say, but again, when you look at Trump's actual quote, the context doesn't justify a comparison to Hitler.
 
-"They let — I think the real number is 15, 16 million people into our country. When they do that, we got a lot of work to do. They're poisoning the blood of our country," Trump told the crowd at a rally in New Hampshire. "That's what they've done. They poison mental institutions and prisons all over the world, not just in South America, not just to three or four countries that we think about, but all over the world. They're coming into our country from Africa, from Asia, all over the world."
+"They let --- I think the real number is 15, 16 million people into our country. When they do that, we got a lot of work to do. They're poisoning the blood of our country," Trump told the crowd at a rally in New Hampshire. "That's what they've done. They poison mental institutions and prisons all over the world, not just in South America, not just to three or four countries that we think about, but all over the world. They're coming into our country from Africa, from Asia, all over the world."
 
 Now, maybe someone will read the above statement and still find it objectionable for other reasons, but he's not talking about an "inferior race" poisoning the literal bloodline of the country. He says exactly what he means in the very next sentence, which is that mass illegal immigration is bringing in crime.
 

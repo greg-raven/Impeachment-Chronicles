@@ -1,5 +1,5 @@
 ---
-title: "Supreme Court dismisses clash over trump hotel docs"
+title: "Supreme Court dismisses clash over Trump Hotel docs"
 layout: post
 tags:
 - Reuters
