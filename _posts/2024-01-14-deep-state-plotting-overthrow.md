@@ -2,7 +2,7 @@
 title: "The Deep State is quietly devising plans to overthrow the Constitution"
 layout: post
 tags:
-- <#Author#>
+- NBC News
 ---
 
 A network of public interest groups and lawmakers, nervous about former President Trump’s potential return to power, is quietly devising plans to foil any effort on his part to pressure the U.S. military to carry out his political agenda.

@@ -3,7 +3,7 @@ title: "Trump campaign aides had repeated contacts with Russian intelligence"
 layout: post
 tags:
 - Michael S. Schmidt
-- Mark, Mazzetti
+- Mark Mazzetti
 - Matt Apuzzo
 ---
 
