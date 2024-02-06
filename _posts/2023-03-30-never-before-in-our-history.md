@@ -9,4 +9,4 @@ Never before in American history has a President been indicted on criminal charg
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Never before in American history has a President been indicted on criminal charges. <br><br>This is election interference.<br><br>This is political persecution.<br><br>This is the weaponization of the justice system, not just against Trump but against all of us. <br><br>This is war.</p>&mdash; Benny Johnson (@bennyjohnson) <a href="https://twitter.com/bennyjohnson/status/1641573246997876743?ref_src=twsrc%5Etfw">March 30, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Source: Benny Johnson, twitter.com/bennyjohnson/status/1641573246997876743
+Source: Benny Johnson, via [𝕏](https://x.com)

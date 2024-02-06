@@ -37,4 +37,4 @@ Alright, one more. This might've been the most celebrated New York Times op-ed o
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Alright, one more. This might&#39;ve been the most celebrated New York Times op-ed of December 2016, when the Electoral College subversion scheme was really gaining elite momentum. Anyone who tries to tell you this stuff didn&#39;t happen is lying <a href="https://t.co/ouzJW08r0F">pic.twitter.com/ouzJW08r0F</a></p>&mdash; Michael Tracey (@mtracey) <a href="https://twitter.com/mtracey/status/1331673582930440193?ref_src=twsrc%5Etfw">November 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Source: Michael Tracey, twitter.com/mtracey/status/1331430550557650952
+Source: Michael Tracey, via [𝕏](https://x.com)

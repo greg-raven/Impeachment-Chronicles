@@ -17,4 +17,4 @@ If Trump uses the power of his office to shut down investigation into these ques
 
 And in that case, how can anyone consider this presidency legitimate? Very, very scary --- and could happen within days 6/
 
-Source: Paul Krugman, twitter.com/paulkrugman/status/924374507858661377
+Source: Paul Krugman, via [𝕏](https://x.com)

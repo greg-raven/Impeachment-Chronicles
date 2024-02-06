@@ -16,4 +16,4 @@ tags:
 
 Source: Adam Schiff, abcnews.go.com/Politics/week-transcript-27-18-sen-marco-rubio-rep/story?id=55444994
 
-H/T: RNC Research, twitter.com/RNCResearch
+H/T: RNC Research, via [𝕏](https://x.com)
