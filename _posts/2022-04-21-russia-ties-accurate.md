@@ -2,7 +2,7 @@
 title: "Schiff defends Steele Dossier comments, saying Russia ties 'proved all too accurate'"
 layout: post
 tags:
-- TŽa Kvetenadze
+- TÃ©a Kvetenadze
 ---
 
 House Intelligence Committee Chairman Rep. Adam Schiff (D-CA) defended past comments he made touting the infamous [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) --- a report compiled by former British intelligence officer Christopher Steele alleging close ties between the Donald Trump camp and Russia in the course of the 2016 campaign --- during an appearance on Meet the Press Sunday, days after an analyst behind the study was arrested for lying to the FBI about his sources.
@@ -31,4 +31,4 @@ Buzzfeed News first published the so-called Steele dossier in January 2017, whic
 
 [...]
 
-Source: TŽa Kvetenadze, forbes.com/sites/teakvetenadze/2021/11/14/schiff-defends-steele-dossier-comments-saying-russia-ties-proved-all-too-accurate/
+Source: TÃ©a Kvetenadze, forbes.com/sites/teakvetenadze/2021/11/14/schiff-defends-steele-dossier-comments-saying-russia-ties-proved-all-too-accurate/
