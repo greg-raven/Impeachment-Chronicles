@@ -1,12 +1,12 @@
 ---
-title: "He Wants To Build Alligator Moats, Electrify The Fence"
+title: "He wants to build alligator moats, electrify the fence"
 layout: post
 tags:
 - Ian Schwartz
 - Robert Garcia
 ---
 
-REP. ROBERT GARCIA (D-CA):
+Rep. Robert Garcia (D-CA):
 
 > So let's review the majority’s border ideas, that they've actually presented. Here they are:
 >
