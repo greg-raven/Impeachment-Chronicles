@@ -1,5 +1,5 @@
 ---
-title: "New anti-Trump cabal"
+title: "Hoffman funding anti-Trump cabal"
 layout: post
 tags:
 - Paul Sperry
