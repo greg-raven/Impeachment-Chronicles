@@ -8,7 +8,7 @@ tags:
 
 Rep. Robert Garcia (D-CA):
 
-> So let's review the majority’s border ideas, that they've actually presented. Here they are:
+> So let's review the majority's border ideas, that they've actually presented. Here they are:
 >
 > Donald Trump actually has said that he wants to build alligator moats along the border. That's one of his incredible ideas.
 >
