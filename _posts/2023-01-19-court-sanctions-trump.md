@@ -29,4 +29,3 @@ Middlebrooks' sanctions, issued late Thursday, direct Habba and Trump to pay $93
 The judge also cautioned Trump's attorneys that they could face sanctions over their separate lawsuit targeting New York Attorney General Letitia James, who in September filed a $250 million suit against Trump and his family members for allegedly defrauding lenders and others with false and misleading financial statements.
 
 Source: Katherine Faulders and Olivia Rubin, abcnews.go.com/US/judge-fines-trump-attorney-1-million-filing-revenge/story?id=96554509
-

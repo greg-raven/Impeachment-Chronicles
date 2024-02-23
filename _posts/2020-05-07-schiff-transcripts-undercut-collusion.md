@@ -25,7 +25,7 @@ But perhaps the biggest piece of previously unreported news came from Michael Su
 
 Sussmann acknowledged under questioning by Republican staff that in February 2017 he shared dirt he had gotten on the Trump organization's possible ties to Russia with the CIA. The agency's name was redacted from the transcript but confirmed to Just the News by multiple U.S. officials.
 
-What was your contact [redacted] about?" a lawyer asked Sussmann.
+What was your contact \[redacted\] about?" a lawyer asked Sussmann.
 
 "So the contact was about reporting to them information that was reported to me about possible contacts, covert or at least nonpublic, between Russian entities and various entities in the United States associated with the --- or potentially associated with the Trump Organization," Sussmann answered.
 
@@ -33,7 +33,7 @@ The lawyer followed up: "And when did that contact occur, month and year?"
 
 "February 2017," Sussmann answered.
 
-"Where did you get that information from to relay to [redacted]?" he was asked.
+"Where did you get that information from to relay to \[redacted\]?" he was asked.
 
 "From a client of mine," he answered, declining to be more specific.
 
@@ -49,7 +49,7 @@ Former Obama Attorney General Loretta Lynch testified that by the time she left 
 
 "I don't recall anything being briefed up to me, and it's just my recollection at this point is not," she said. She added that what officials had was mostly fears Russia might be working with Trump.
 
-"Certainly the information that was given in [redacted] was concerning to me and indicated that there was a goal to have coordinated activity," she said.
+"Certainly the information that was given in \[redacted\] was concerning to me and indicated that there was a goal to have coordinated activity," she said.
 
 Former Acting Attorney General Sally Yates, who worked for both Obama and Trump, also acknowledged there had been no determination of any conspiracy to collude before she was fired. Her winding answer was typical of many of the witnesses.
 

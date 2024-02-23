@@ -119,7 +119,7 @@ Page did not respond to questions from The Post. In an interview this year with 
 
 The Agalarovs, too, expressed enthusiasm for what Trump has told them.
 
-"He keeps underlining that he thinks President Putin is a strong leader," Emin Agalarov said. "This could be an amazing breakthrough. If [Trump] becomes president and actually becomes friends with Putin, we would avoid 10 wars every year at least."
+"He keeps underlining that he thinks President Putin is a strong leader," Emin Agalarov said. "This could be an amazing breakthrough. If \[Trump\] becomes president and actually becomes friends with Putin, we would avoid 10 wars every year at least."
 
 Source: Tom Hamburger, Rolalind S. Helderman, Michael Birnbaum, washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html
 

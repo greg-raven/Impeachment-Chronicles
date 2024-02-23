@@ -27,7 +27,7 @@ A hearing is scheduled for next Tuesday.
 
 The new FBI evidence was turned over late Wednesday and included a stunning revelation that FBI agents originally planned to close Flynn's probe, known as Crossfire Razor, on Nov. 8, 2016, nearly a year before he was charged with lying to the FBI.
 
-"He said shut down Razor" and "so glad they're closing Razor," an FBI official texted that day. "However [redacted] was silent though, so who knows what he will want."
+"He said shut down Razor" and "so glad they're closing Razor," an FBI official texted that day. "However \[redacted\] was silent though, so who knows what he will want."
 
 By January, the FBI analysts were alarmed that their agency was engaged in misconduct that could be discovered by President Trump's new attorney general.
 

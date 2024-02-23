@@ -26,4 +26,3 @@ Special Counsel Robert Mueller released his investigation into Trump-Russia coll
 Waters' office did not respond to a request for comment.
 
 Source: Patrick Hauf, foxnews.com/politics/durham-report-contradicts-guarantee-maxine-waters-trump-colluded-russia
-

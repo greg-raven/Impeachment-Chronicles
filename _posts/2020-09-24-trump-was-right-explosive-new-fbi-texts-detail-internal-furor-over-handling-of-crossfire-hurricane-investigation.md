@@ -29,7 +29,7 @@ The FBI agents also discussed how the investigation's leadership was consumed wi
 
 "I'm tellying [sic] man, if this thing ever gets FOIA'd, there are going to be some tough questions asked," one agent wrote. "[A]nd a great deal of those will be related to Brian having a scope way outside the boundaries of logic[.]"
 
-"[REDACTED] is one of the worst offenders of the rabbit holes and conspiracy theories," an agent texted. "This guy traveled with that guy, who put down 3rd guy as his visa sponsor. 3rd guy lives near a navy base, therefore...[.]"
+"\[REDACTED\] is one of the worst offenders of the rabbit holes and conspiracy theories," an agent texted. "This guy traveled with that guy, who put down 3rd guy as his visa sponsor. 3rd guy lives near a navy base, therefore...[.]"
 
 Several texts show that the order to close the criminal investigation against Flynn came as early as Nov. 8, 2016, the same day as the 2016 presidential election. It was later re-opened in early January of 2017.
 

@@ -49,7 +49,7 @@ For instance, Steele wrote the following in Report 102, based on a conversation 
 
 For comparison, here is what the FBI stated in all of its wiretap applications, using virtually the same language, except referring to the Russia-born Trump associate as "Sub-Source E":
 
-> Sub-Source E reported that the above-described leak of the DNC e-mails to WikiLeaks had been done, at least in part, as an attempt to swing supporters of an identified individual who had been running against [Clinton] for their political party's nomination, away from [Clinton] and to [Trump]. Sub-Source E reported that this objective had been conceived and promoted by, among other things, Page, who had discussed the objective directly with Sub-Source E."
+> Sub-Source E reported that the above-described leak of the DNC e-mails to WikiLeaks had been done, at least in part, as an attempt to swing supporters of an identified individual who had been running against [Clinton] for their political party's nomination, away from [Clinton] and to \[Trump\]. Sub-Source E reported that this objective had been conceived and promoted by, among other things, Page, who had discussed the objective directly with Sub-Source E."
 
 Sub-Source E was later revealed to be an American real estate man and Trump booster named Sergei Millian. Despite the implication, Millian was not an FBI source. Instead, he allegedly provided a stream of bombshell claims to Danchenko, who then fed them to Steele.
 

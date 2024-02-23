@@ -97,7 +97,7 @@ According to the *Intelligencer,* Trump repeatedly dismissing the legitimacy of 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ex9oWcQWkd0?si=4tmkv03cJOx6DhZ2" title="Elizabeth Warren lying about Trump" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-**11\. James Clyburn: '[Trump] is Mussolini. Putin is Hitler'**
+**11\. James Clyburn: '\[Trump\] is Mussolini. Putin is Hitler'**
 
 *Democrat and House Majority Whip*
 

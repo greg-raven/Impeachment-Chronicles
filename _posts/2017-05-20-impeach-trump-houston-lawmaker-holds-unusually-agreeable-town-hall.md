@@ -33,7 +33,7 @@ Green, who is black, received threats after his speech in Washington. He began S
 
 When video of Green's speech to Congress was shown there was warm applause. One woman asked whether he thought Mike Pence, Trump's vice-president, should also be a target. Green said the focus must be on Trump. Another attendee expressed concern about what she saw as the politicization of the FBI.
 
-"I'm very proud of him, speaking up as he is for impeachment of the current president," said Phyllis Frye, an attorney, before the meeting. "The main thing that troubles me is that [Trump] doesn't act presidential. He's constantly, at three and four and five o'clock in the morning, tweeting all kinds of silliness. I wish they would take his phone away."
+"I'm very proud of him, speaking up as he is for impeachment of the current president," said Phyllis Frye, an attorney, before the meeting. "The main thing that troubles me is that \[Trump\] doesn't act presidential. He's constantly, at three and four and five o'clock in the morning, tweeting all kinds of silliness. I wish they would take his phone away."
 
 Vivian Lee, a peer counselor at the Houston Center for Independent Living, said Trump should be impeached "if he gets any worse, yeah. And I don't see it getting any better before it gets any worse. Once the healthcare act falls apart then we'll have people who will literally die because they will not have insurance."
 

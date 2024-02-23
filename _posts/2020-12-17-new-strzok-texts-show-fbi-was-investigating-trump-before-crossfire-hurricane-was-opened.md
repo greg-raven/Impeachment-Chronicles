@@ -19,7 +19,7 @@ Former FBI Director James Comey denied knowledge of any investigation until "som
 
 Previously declassified communications from Strzok, however, show the FBI employees' strong dislike and criticism of Trump as a presidential candidate. In a string of 2016 messages, just weeks after the formal investigation was opened, Page asked Strzok, "[Trump's] not ever going to become president, right? Right?!" to which he replied: "No. No he's not. We'll stop it."
 
-Strzok was told via text in December of 2016 that the DOJ's Office of Intelligence, "made it clear [REDACTED] would not support even our discussions let alone a[] [FISA] app" relating to Papadopoulos.
+Strzok was told via text in December of 2016 that the DOJ's Office of Intelligence, "made it clear \[REDACTED\] would not support even our discussions let alone a[] [FISA] app" relating to Papadopoulos.
 
 Other text messages released by Republican Sen. Ron Johnson, chairman of the Senate Homeland Security and Governmental Affairs Committee, and Sen. Chuck Grassley, chairman of the Senate Finance Committee, on Thursday show more information related to the FBI's investigation into now-disproven Russian collusion by the Trump campaign as well as former Secretary of State Hillary Clinton's private email server very early into the investigations.
 
