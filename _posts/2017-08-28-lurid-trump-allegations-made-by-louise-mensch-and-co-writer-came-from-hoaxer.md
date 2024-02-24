@@ -65,6 +65,6 @@ Taylor repeatedly asked the hoaxer whether Rudy Giuliani, the former New York Ci
 
 A few hours later, Taylor tweeted to claim that he had confirmed Giuliani was "a target of NYAG Trump Organization/money laundering/Russian Organized Crime investigation". He repeated several other false details provided by the source.
 
-[...]
+\[...\]
 
 Source: Jon Swaine, theguardian.com/us-news/2017/aug/28/trump-tweets-hoax-louise-mensch-claude-taylor

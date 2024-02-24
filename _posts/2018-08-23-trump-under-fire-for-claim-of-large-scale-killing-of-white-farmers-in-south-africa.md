@@ -17,6 +17,6 @@ The Trump administration has yet to appoint an ambassador to South Africa, but t
 
 "The president of the U.S. needs political distractions to turn our gaze away from his criminal cabal, and so he's attacking South Africa with the disproven racial myth of 'large scale killings of farmers,'" Gaspard tweeted. "This man has never visited the continent and has no discernible Africa policy."
 
-[...]
+\[...\]
 
 Source: Alastair Jamieson, nbcnews.com/politics/donald-trump/trump-under-fire-claim-large-scale-killing-white-farmers-south-n903171

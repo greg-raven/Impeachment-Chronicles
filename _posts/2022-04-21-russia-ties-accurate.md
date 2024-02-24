@@ -29,6 +29,6 @@ Buzzfeed News first published the so-called Steele dossier in January 2017, whic
 
 "I'm prepared to accept that not everything in the dossier is 100% accurate," Steele told ABC News in an interview last month.
 
-[...]
+\[...\]
 
 Source: Téa Kvetenadze, forbes.com/sites/teakvetenadze/2021/11/14/schiff-defends-steele-dossier-comments-saying-russia-ties-proved-all-too-accurate/

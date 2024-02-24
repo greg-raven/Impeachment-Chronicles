@@ -39,7 +39,7 @@ Sun Nov 5, 2017: "Three sources" close to the Flynn investigation leak this to N
 
 In case @GenFlynn didn't get this "message", look at the photo ABC news use to highlight the story. Flynn with his son. "Three" sources "close to the investigation" leaked this, to Collusion/Fusion GPS friendly reporters. An investigation that at the time almost nobody knew about
 
-[...]
+\[...\]
 
 By the time Covington follow up with the SCO after this weekend of light reading of veiled threats for the Flynn family, they've already agreed to bring Flynn in for a "proffer" --- a prelude to pleading guilty to the false statements offense
 

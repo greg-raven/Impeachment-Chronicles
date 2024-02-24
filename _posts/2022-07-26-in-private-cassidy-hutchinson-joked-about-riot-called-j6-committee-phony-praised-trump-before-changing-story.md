@@ -38,7 +38,7 @@ By March, she was joking about placing a prominent image of Trump addressing his
 
 "I'm gonna position myself so I'm sitting in mike's chair," she joked.
 
-[...]
+\[...\]
 
 **Before Their Public Embrace, A Different View Of Liz Cheney**
 

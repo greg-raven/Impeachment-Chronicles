@@ -50,7 +50,7 @@ The allegation came from Danchenko, who attributed it to his sources --- one fro
 
 As to Sergei Millian (more on him later), Durham will show that Danchenko falsely stated to the FBI that this information from Millian "came from a single ten, or fifteen minute anonymous phone call that allegedly took place in late-July 2016." That timing is of particular importance, as explained by Durham:
 
-[...]
+\[...\]
 
 Then there are Danchenko's false statements about Charles Dolan, an influential Democrat executive with ties to the Clintons. Interestingly, it was Dolan who was given a tour of the Ritz-Carlton Presidential Suite, which was the supposed location of "Trump's alleged lurid sexual activities."
 
@@ -67,7 +67,7 @@ In support of the theory that Danchenko engaged in an "over-arching 'plan' to de
 
 There's more. Back in February 2016, nearly a year before his FBI interview and months before he started collecting information for Christopher Steele, Danchenko told a former employer how to fabricate sources:
 
-[...]
+\[...\]
 
 The relevance of that e-mail? Danchenko's advice to "attach multiple sources to information and obscure one's own role as a source for information is consistent with [Danchenko's] alleged false statements in which he denied or fabricated the roles of these individuals."
 

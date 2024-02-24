@@ -21,6 +21,6 @@ Despite the FBI's internal corroboration, 51 former US intelligence agency leade
 
 Most news outlets ignored the laptop's contents until well after Biden won the 2020 election, with the *Washington Post* and *New York Times* saying only in March 2022 that they had confirmed the authenticity of files.
 
-[...]
+\[...\]
 
 Source: Steven Nelson, nypost.com/2023/06/22/fbi-verified-authenticity-of-hunter-bidens-abandoned-laptop-in-november-2019-irs-whistleblower-gary-shapley/

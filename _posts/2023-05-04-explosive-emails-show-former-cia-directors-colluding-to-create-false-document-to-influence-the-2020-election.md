@@ -17,6 +17,6 @@ WATCH:
 
 The email reveals that Morrell wanted Brennan to sign the letter in order to give the Biden campaign a "talking point to push back on Trump on this issue" during the presidential debate. This stunning admission shows that the letter was nothing more than a political ploy, designed to help the Biden campaign.
 
-[...]
+\[...\]
 
 Source: Chris, trendingpoliticsnews.com/breaking-explosive-emails-show-former-cia-directors-colluding-to-create-false-document-to-influence-the-2020-election-mace/

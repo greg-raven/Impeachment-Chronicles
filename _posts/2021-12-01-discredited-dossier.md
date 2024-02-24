@@ -35,7 +35,7 @@ No corroborating evidence has emerged in intervening years to support many of th
 
 When the F.B.I. interviewed Mr. Danchenko in 2017, he told the bureau that he thought the tenor of the dossier was more conclusive than was justified; for example, Mr. Danchenko portrayed the blackmail tape story as rumors and speculation that he was not able to confirm. He also said a key source had called him without identifying himself, and that he had guessed at the source's identity. The indictment accuses Mr. Danchenko of lying about that call and of concealing that a Democratic Party-linked public relations executive was his source for a claim about Trump campaign office politics.
 
-[...]
+\[...\]
 
 **Did the F.B.I. take any investigative step based on the dossier?**
 
@@ -43,7 +43,7 @@ Yes. The F.B.I. took the dossier seriously based on Mr. Steele's reputation, and
 
 While the dossier-tainted wiretap of Mr. Page has received significant attention, it was a small part of the overall investigation, which issued more than 2,800 subpoenas, executed nearly 500 search-and-seizure warrants, obtained more than 230 orders for communications records, made 13 requests to foreign governments under mutual legal assistance treaties, and interviewed about 500 witnesses. Mr. Page was not charged with a crime, and only a handful of the 448 pages in the Mueller report focus on him.
 
-[...]
+\[...\]
 
 **What was the main impact of the dossier?**
 

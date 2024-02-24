@@ -19,6 +19,6 @@ Waters accused Trump of adoring Russian President Vladimir Putin and blamed Russ
 
 Waters' remarks follow Secretary of State Mike Pompeo accusing Russian-linked hackers of carrying out the cyberattack that involved several federal agencies and private businesses.
 
-[...]
+\[...\]
 
 Source: Joshua Caplan, breitbart.com/politics/2020/12/21/maxine-waters-decries-missed-opportunity-impeach-trump-treason/

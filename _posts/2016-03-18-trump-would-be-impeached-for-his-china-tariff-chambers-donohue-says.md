@@ -13,6 +13,6 @@ Speaking with Bloomberg TV's David Westin and calling it an overstatement to mak
 
 Trump, the leading candidate for the Republican Party's presidential nomination, has hammered at the U.S. trade deficit with China and vowed to "make lots of great deals for the American people."
 
-[...]
+\[...\]
 
 Source: bloomberg.com/news/articles/2016-03-18/trump-china-tariff-bad-for-business-consumers-chamber-s-donohue

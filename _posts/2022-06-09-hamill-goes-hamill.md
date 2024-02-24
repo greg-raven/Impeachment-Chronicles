@@ -7,7 +7,7 @@ tags:
 
 Star Wars franchise star Mark Hamill has once again espoused his belief that former U.S. President Donald Trump incited both a "violent insurrection" and a "coup" on the day at the center of the upcoming January 6th Committee hearings.
 
-[...]
+\[...\]
 
 Ahead of this first hearing, Hammill took to Twitter in the early morning hours of June 9th to both share his anticipation at the day's upcoming proceedings and, as he has done many times before, accuse Trump of having engaged in treasonous behavior.
 
@@ -27,6 +27,6 @@ In February 2021, Hamill encouraged his readers to read a piece from the New Yor
 
 "It all started with #TheBigLie that the election was stolen & he owns it," he declared. "ALL of it."
 
-[...]
+\[...\]
 
 Source: Spencer Baculi, boundingintocomics.com/2022/06/09/mark-hamill-goes-full-mark-hamill-claims-former-president-donald-trump-incited-a-violent-insurrection-and-a-coup-on-january-6th/

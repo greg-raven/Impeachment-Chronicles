@@ -9,6 +9,6 @@ Here's a riddle for you: more than a year into his presidency, why has Donald Tr
 
 According to Bloomberg, the story that Trump told former F.B.I. director James Comey, first in Trump Tower in December 2016, and then again during an unexpectedly intimate dinner at the White House, re: why allegations about a tape could not be possible, is a total fabrication. In Trump's telling, a tape of him orchestrating a golden shower in Moscow in some sort of attempt to get back at the object of his obsession could not possibly exist because he did not spend the night in question at the hotel. While he concedes to being there for the Miss Universe pageant on Saturday, November 9, 2013, he told Comey that he arrived in the morning, "did events, then showered and dressed for the pageant at the hotel ... [and] returned only to get his things because [he] departed for New York by plane that same night." But according to flight records obtained by Bloomberg, Trump arrived in Moscow Friday morning and didn't leave until early Sunday morning, November 10, throwing his there wouldn't have been time for a golden shower even if I'd wanted one! defense into question. Also throwing things into question? His apparent obsession with the tape, which he was seemingly desperate for Comey to investigate just to prove it didn't exist. You know, for Melania's sake.
 
-[...]
+\[...\]
 
 Source: Bess Levin, vanityfair.com/news/2018/04/trumps-pee-tape-alibi-is-falling-apart

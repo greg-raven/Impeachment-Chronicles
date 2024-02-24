@@ -25,7 +25,7 @@ Another public document, however, lists Bank of China as a creditor on 1290 Aven
 
 The Bank of China said it was listed because of a "technical error," a statement that on Monday was confirmed by Wells Fargo, which services the mortgage and which had the document in question filed on its behalf.]
 
-[...]
+\[...\]
 
 Source: Marc Caputo, Meridith Mcgraw, and Anita Kumar, politico.com/news/2020/04/24/trump-biden-china-debt-205475
 

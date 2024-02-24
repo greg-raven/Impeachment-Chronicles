@@ -13,6 +13,6 @@ Former CIA Director John Brennan on Friday blasted President Trump for his defen
 
 His remarks came in response to tweets sent by Trump on Friday morning, in which he defended his efforts to build a Trump Tower in Moscow during the presidential election as "very legal & very cool."
 
-[...]
+\[...\]
 
 Source: Aris Folley, thehill.com/homenews/administration/419115-ex-cia-chief-rips-into-trump-for-iceberg-of-lies-deceit-corruption/

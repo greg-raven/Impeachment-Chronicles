@@ -19,7 +19,7 @@ Tlaib had been clear about her intentions in impeaching Trump throughout her cam
 
 Tlaib came under swift criticism from Republicans and what the new Democratic party rebels often see as the old brand of milquetoast Democrats, for so-called incivility, but for supporters on the left, it's exactly the type of opposition to Trump they have been waiting for.
 
-[...]
+\[...\]
 
 Source: Luke O'Neil, theguardian.com/us-news/2019/jan/04/democrats-congress-trump-impeach-rashida-tlaib
 

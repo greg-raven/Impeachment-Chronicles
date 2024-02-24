@@ -27,6 +27,6 @@ In response, many ridiculed the left-wing filmmaker over his comments.
 
 "Because everyone knows San Francisco is MAGA country," mocked author Larry Alex Taunton.
 
-[...]
+\[...\]
 
 Source: Joshua Klein, breitbart.com/politics/2022/10/30/rob-reiner-claims-trump-directly-responsible-attack-paul-pelosi-calls-indictment/

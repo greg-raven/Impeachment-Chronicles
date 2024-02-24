@@ -25,6 +25,6 @@ Estelle Freedman, the Robinson Professor in U.S. History at Stanford University,
 
 > This insightful collection is grounded in historical consciousness of the ways professionals have responded to fascist leaders and unstable politicians in the past. It is a valuable primary source documenting the critical turning point when American psychiatry reassessed the ethics of restraining commentary on the mental health of public officials in light of the "duty to warn' of imminent danger. Medical and legal experts thoughtfully assess diagnoses of Trump's behavior and astutely explore how to scrutinize political candidates, address client fears, and assess the 'Trump Effect' on our social fabric.
 
-[...]
+\[...\]
 
 Source: en.wikipedia.org/wiki/The\_Dangerous\_Case\_of\_Donald\_Trump

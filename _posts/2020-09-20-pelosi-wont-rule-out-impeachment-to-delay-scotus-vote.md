@@ -13,10 +13,10 @@ Speaking with ABC's "This Week," host George Stephanopoulos asked Pelosi about s
 
 "Well, we have our options," Pelosi said. "We have arrows in our quiver that I'm not about to discuss right now, but the fact is we have a big challenge in our country. This president has threatened to not even accept the results of the election with statements that he and his henchmen have made."
 
-[...]
+\[...\]
 
 "Yeah. We have a responsibility. We've taken an oath to protect and defend the Constitution of the United States," she said. We have a responsibility to meet the needs of the American people. That is when we weigh the equities of protecting our democracy requires us to use every arrow in our quiver."
 
-[...]
+\[...\]
 
 Source: Allan Smith, nbcnews.com/politics/congress/pelosi-won-t-rule-out-new-impeachment-delay-scotus-vote-n1240568

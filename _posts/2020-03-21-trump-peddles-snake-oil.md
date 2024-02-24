@@ -21,6 +21,6 @@ Maybe clinical trials of these therapies will show promising results. We surely 
 
 His specific pitch focused on antiviral drugs used to treat other diseases. But none of them has yet shown safe and effective against COVID-19, said Dr. Anthony Fauci, the nation's leading immunologist and a member of the White House's anti-coronavirus task force.
 
-[...]
+\[...\]
 
 Source: usatoday.com/story/opinion/todaysdebate/2020/03/21/coronavirus-cure-dr-donald-trump-snake-oil-chloroquine-editorials-debates/2883640001/

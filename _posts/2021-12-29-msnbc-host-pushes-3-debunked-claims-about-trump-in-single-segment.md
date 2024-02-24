@@ -15,7 +15,7 @@ The first phony claim Wallace promoted was regarding Trump's appearance at Lafay
 
 Wallace devoted a full segment to criticizing the Trump family for its alleged disdain of the Bible.
 
-"Hyper-masculine, real men show their faith by gassing protesters in Lafayette Square in order to --- for the sole purpose of --- being able to hoist a Bible above Trump's head as a photo prop, upside-down I believe, in front of St. John's church," she said. [...]
+"Hyper-masculine, real men show their faith by gassing protesters in Lafayette Square in order to --- for the sole purpose of --- being able to hoist a Bible above Trump's head as a photo prop, upside-down I believe, in front of St. John's church," she said. \[...\]
 
 Last June 1, President Trump visited the St. John's Episcopal Church, often called "the church of presidents," which rioters set fire to during arson-tinged unrest.
 

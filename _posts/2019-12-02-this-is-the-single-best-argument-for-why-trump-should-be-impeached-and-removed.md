@@ -42,6 +42,6 @@ Put another way, Donald Trump likes how he can line his and his family's pockets
 
 Our Framers expected, our Constitution allows, and our national ideals demand that Donald Trump be prevented from cheating in the next election. Other than denying him the Republican party nomination, impeachment by the House and removal and disqualification by the Senate is the only remedy.
 
-[...]
+\[...\]
 
 Source: R. J. Lyman, thebulwark.com/this-is-the-single-best-argument-for-why-trump-should-be-impeached-and-removed/

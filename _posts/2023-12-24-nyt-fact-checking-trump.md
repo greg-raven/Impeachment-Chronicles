@@ -21,6 +21,6 @@ But even with legitimate lines of attack, Mr. Trump has at times turned to basel
 
 Here's a fact check.
 
-[...]
+\[...\]
 
 Source: Angelo Fichera, nytimes.com/2023/12/24/us/politics/trump-immigration-fact-check.html?smid=tw-nytimes&smtyp=cur

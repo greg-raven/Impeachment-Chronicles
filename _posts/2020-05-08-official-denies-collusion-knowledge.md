@@ -7,7 +7,7 @@ tags:
 
 Evelyn Farkas, a former Obama administration official who previously encouraged congressional staffers to gather evidence of alleged collusion between President Trump's 2016 campaign and Russia and said she "knew" there was additional such information out there, admitted she did not know such information existed in a 2017 interview with congressional investigators.
 
-[...]
+\[...\]
 
 Farkas, who previously served as the deputy assistant secretary of Defense for Russia/Ukraine/Eurasia, said on MSNBC in 2017 that she "was urging my former colleagues, and, frankly speaking, the people on the Hill ... Get as much information as you can, get as much intelligence as you can, before President Obama leaves the administration, because I had a fear that somehow that information would disappear with the senior people that left. So it would be hidden away in the bureaucracy."
 

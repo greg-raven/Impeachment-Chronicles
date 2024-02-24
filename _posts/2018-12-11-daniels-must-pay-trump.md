@@ -11,7 +11,7 @@ Mr. Trump's lawyers had requested about $389,000 in legal fees, but the judge, S
 
 In a statement, one of Mr. Trump's lawyers, Charles J. Harder, said, "The court's order, along with the court's prior order dismissing Stormy Daniels' defamation case against the president, together constitute a total victory for the president, and a total defeat for Stormy Daniels in this case."
 
-[...]
+\[...\]
 
 Source: Andrew R. Chow, nytimes.com/2018/12/11/us/stormy-daniels-donald-trump.html
 

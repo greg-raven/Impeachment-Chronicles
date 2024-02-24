@@ -11,6 +11,6 @@ Incoming House Speaker Nancy Pelosi said she wouldn't rule out President Trump b
 
 During an exclusive interview with TODAY's Savannah Guthrie, the House Democratic leader said it's possible that special counsel Robert Mueller could seek an indictment against the sitting president, despite Justice Department guidelines against such action.
 
-[...]
+\[...\]
 
 Source: Eun Kyung Kim, today.com/news/nancy-pelosi-says-she-won-t-rule-out-indictment-impeachment-t146197

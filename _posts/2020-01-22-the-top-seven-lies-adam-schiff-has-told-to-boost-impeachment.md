@@ -49,7 +49,7 @@ Here's the problem: by Sondland's own testimony, he didn't know definitively tha
 
 "Is that your testimony today, Ambassador Sondland, that you have evidence that Donald Trump tied the investigations to the aid? Because I don't think you're saying that." Rep. Mike Turner (R-Ohio) asked him.
 
-"I said repeatedly [...] I was presuming," Sondland noted.
+"I said repeatedly \[...\] I was presuming," Sondland noted.
 
 After questions, Turner asked more pointedly, "So, you really have no testimony today that ties President Trump to a scheme to withhold aid from Ukraine in exchange for these investigations?"
 

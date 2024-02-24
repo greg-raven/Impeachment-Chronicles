@@ -46,9 +46,9 @@ In 2013, the Obama administration promulgated a Presidential Policy Guidance for
 
 The guidance allows the targeting of a person who poses a "continuing, imminent threat" not just to "U.S. persons" but also to "another country's persons." A 2011 Department of Justice white paper, leaked in 2013, said a U.S. citizen could be killed even when there is no "clear evidence that a specific attack on U.S. persons and interests will take place in the immediate future." This makes a mockery of the "imminent threat" requirement. There is presumably an even lower bar for noncitizens.
 
-In addition, the guidance requires "near certainty that an identified HVT [high-value target] or other lawful terrorist target" is present before using lethal force against him. Yet, like the Obama administration, the Trump regime probably mounts "signature strikes" that don't necessarily target individuals, but rather all males of military age present in an area of suspicious activity.
+In addition, the guidance requires "near certainty that an identified HVT \[high-value target\] or other lawful terrorist target" is present before using lethal force against him. Yet, like the Obama administration, the Trump regime probably mounts "signature strikes" that don't necessarily target individuals, but rather all males of military age present in an area of suspicious activity.
 
-And the guidance says there must be "near certainty that non-combatants [civilians] will not be injured or killed." Given the large number of civilian casualties from drone strikes and other targeted killings, the Trump administration does not appear to be complying with this requirement.
+And the guidance says there must be "near certainty that non-combatants \[civilians\] will not be injured or killed." Given the large number of civilian casualties from drone strikes and other targeted killings, the Trump administration does not appear to be complying with this requirement.
 
 Now, the Pentagon is proposing to expand "the battlefield" beyond Iraq, Afghanistan and Syria, so that other designated countries won't be considered "outside areas of active hostilities." The threshold for protecting civilians would thus be lowered from "near certainty" that civilians won't be injured or killed to a "reasonable certainty." This will invariably result in even more civilian casualties.
 
@@ -92,7 +92,7 @@ The administration reportedly plans to lift the troop caps of 5,000 in Iraq and 
 
 Trump is asking Congress to add $54 billion annually to the military budget for what he refers to as his "public safety and national security budget."
 
-Disturbingly, Trump has not ruled out the use of nuclear weapons as he prosecutes his "war on terror." In an interview on MSNBC, he wondered, "Somebody hits us within ISIS [also known as Daesh], you wouldn't fight back with a nuke?"
+Disturbingly, Trump has not ruled out the use of nuclear weapons as he prosecutes his "war on terror." In an interview on MSNBC, he wondered, "Somebody hits us within ISIS \[also known as Daesh\], you wouldn't fight back with a nuke?"
 
 And Trump made the troubling assertion that he would consider killing innocent families of suspected terrorists, declaring, "When you get these terrorists, you have to take out their families." Targeting civilians violates the Geneva Conventions.
 

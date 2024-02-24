@@ -11,6 +11,6 @@ These charts illustrate dozens of those links, including meetings between Russia
 
 There's nothing inherently damning about most of the ties illustrated below. But they do reveal the vast and mysteriously complex web behind a story that has vexed Trump's young presidency from its start --- and is certain to shake the White House for months to come.
 
-[...]
+\[...\]
 
 Source: Michael Crowley, politico.com/magazine/story/2017/03/connections-trump-putin-russia-ties-chart-flynn-page-manafort-sessions-214868/

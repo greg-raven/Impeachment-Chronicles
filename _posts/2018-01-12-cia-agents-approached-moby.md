@@ -11,6 +11,6 @@ Talking with WFPK's Kyle Meredith, Moby cited "active and former CIA agents" who
 
 He added, "It's really disturbing and it's going to get quite a lot darker. Like the depths of the Trump family in business and their involvement with organized crime, sponsored terrorism, Russian oligarchs, it's really dark. I guess we should all, like, fasten our seat belts and hold on."
 
-[...]
+\[...\]
 
 Source: Pitchfork, yahoo.com/entertainment/moby-says-cia-agents-asked-195127223.html

@@ -35,7 +35,7 @@ In June 2023, the DOJ said it knew in December 2019 that the laptop was "not man
 
 The admission revealed the DOJ knew the laptop was not manipulated nearly a year before the intelligence officials and President Biden declared it was planted as part of a Russian disinformation campaign.
 
-[...]
+\[...\]
 
 In September, Hunter filed a lawsuit against Rudy Giuliani, alleging the former President Trump lawyer violated his privacy rights by illegally disseminating content from the laptop.
 
