@@ -1,5 +1,5 @@
 ---
-title: "Jim Clyburn blames trump for a 2015 shooting"
+title: "Jim Clyburn blames Trump for a 2015 shooting"
 layout: post
 tags:
 - Jim Clyburn
