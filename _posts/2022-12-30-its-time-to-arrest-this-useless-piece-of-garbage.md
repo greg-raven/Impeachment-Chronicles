@@ -1,5 +1,5 @@
 ---
-title: It's time to arrest this Lying Piece of Garbage
+title: It's time to arrest this lying piece of garbage
 layout: post
 tags:
 - Rob Reiner

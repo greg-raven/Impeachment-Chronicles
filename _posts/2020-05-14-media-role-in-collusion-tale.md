@@ -123,10 +123,10 @@ January 2017:
 : The FBI interviews a main source of Steele's "dossier" and learns his information was merely barroom gossip and rumor never meant to be taken as fact or submitted to the FBI and the Foreign Intelligence Surveillance Court to wiretap Page. (The FBI does not notify the court and applies for, and receives, another wiretap against Page).
 
 Jan. 10, 2017:
-: The 35-page Fusion GPS anti-Trump "dossier" is leaked to the media and published.<br>A CIA official makes a Flynn unmasking request.
+: The 35-page Fusion GPS anti-Trump "dossier" is leaked to the media and published.<br>A CIA official makes a Flynn [unmasking request]({% post_url 2020-05-08-follow-up-unmasking-requests-re-former-national-security-advisor-michael-flynn %}).
 
 Jan. 11, 2017:
-: Power makes another Flynn unmasking request.
+: Power makes another Flynn [unmasking request]({% post_url 2020-05-08-follow-up-unmasking-requests-re-former-national-security-advisor-michael-flynn %}).
 
 Jan. 12, 2017:
 : Obama administration finalizes new rules allowing NSA to spread "certain intel to" other U.S. intel agencies without normal privacy protections.<br>Vice President Biden and Treasury Secretary Jacob Lew request the unmasking of Flynn in intelligence communications.<br>Someone leaks to David Ignatius of the *Washington Post* that Flynn had called Russia's ambassador. "What did Flynn say, and did it undercut the U.S. sanctions?" asked Ignatius in the article.
