@@ -7,7 +7,7 @@ tags:
 
 Just think, this was on Thursday night, so the week from hell for MSNBC's Hardball and host Chris Matthews was far from over with. Thursday's installment featured he and various guests demanding that "we cannot allow" "a potential criminal" in President Trump to appoint another conservative Supreme Court justice because he'll keep Trump from prison and do his bidding "for three decades."
 
-Pivoting from an update on from The Capital Gazette newspaper shooting, Matthews screeched that "[i]t's impossible to see another decision that will have greater or sure will greater shape the kind of country we do live in."
+Pivoting from an update on from *The Capital Gazette* newspaper shooting, Matthews screeched that "[i]t's impossible to see another decision that will have greater or sure will greater shape the kind of country we do live in."
 
 When it comes to conservative (and not liberal) justices, Matthews declared that the Supreme Court will always make political decisions on things like "decid[ing] presidential elections, the number of guns in the country, the power of money in our politics and on and on."
 
