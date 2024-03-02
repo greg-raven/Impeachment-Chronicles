@@ -47,19 +47,19 @@ Wallace said Trump's alleged hostility to the Bible sounded like "a direct echo"
 
 "If you read and adhere to the teachings of the Bible, you're a sucker."
 
-An article published in The Atlantic in September 2020 asserted that President Trump canceled a visit to the Aisne-Marne American Cemetery near Paris "because he did not believe it important to honor American war dead."
+An article published in *The Atlantic* in September 2020 asserted that President Trump canceled a visit to the Aisne-Marne American Cemetery near Paris "because he did not believe it important to honor American war dead."
 
 It went on to cite anonymous sources who claimed President Trump said, "Why should I go to that cemetery? It's filled with losers."
 
-But no fewer than 10 people --- including former National Security Adviser John Bolton, who became an indefatigable Trump foe --- went on the record to say The Atlantic's story wasn't true."
+But no fewer than 10 people --- including former National Security Adviser John Bolton, who became an indefatigable Trump foe --- went on the record to say *The Atlantic's* story wasn't true."
 
 It was entirely a weather-related decision, and I thought the proper thing to do," said Bolton."
 
 I never heard he made that kind of comment about another country's forces either, no."
 
-Former presidential counselor Johnny DeStefano said plainly, "I was on this trip. The Atlantic bit is not true. Period." Former acting White House Chief of Staff Mick Mulvaney said Trump "was outwardly in awe of the accomplishments of the Allied Forces, and the sacrifices they paid," as he surveyed the battlefield on the 75th anniversary of D-Day.
+Former presidential counselor Johnny DeStefano said plainly, "I was on this trip. *The Atlantic* bit is not true. Period." Former acting White House Chief of Staff Mick Mulvaney said Trump "was outwardly in awe of the accomplishments of the Allied Forces, and the sacrifices they paid," as he surveyed the battlefield on the 75th anniversary of D-Day.
 
-The Atlantic's owner, Laurene Powell Jobs, has donated more than $1.2 million to Democratic candidates since 2019.
+*The Atlantic's* owner, Laurene Powell Jobs, has donated more than $1.2 million to Democratic candidates since 2019.
 
 Wallace has repeatedly accused Fox News and other conservative news outlets of spreading "misinformation."
 

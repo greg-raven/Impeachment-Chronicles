@@ -73,7 +73,7 @@ In other words, it's pretty normal. Prominent examples of the so-called deep sta
 
 A couple things. As we said, he's installing his own people to head the bureaucratic departments that comprise the deep state. He's also apparently tapping Steven Feinberg, head of Cerberus Capital Management, to review American intelligence agencies. ProPublica reports that Trump has quietly installed around 400 lobbyists to various administrative roles within the government. He's able to do that because his "lobbying ban" was in fact a weakening of Obama's anti-lobbying rules. These people talk out of both sides of their mouth, we had better get used to it.
 
-Another step that they're taking is just not filling vacancies. The Atlantic ran a long story about how understaffed the State Department is. Key roles have yet to be filled, and the guidance from above is incredibly unclear, so many employees just hang around all day. That's not good for productivity, and it's also not good for not having a bunch of people around with access to secrets.
+Another step that they're taking is just not filling vacancies. *The Atlantic* ran a long story about how understaffed the State Department is. Key roles have yet to be filled, and the guidance from above is incredibly unclear, so many employees just hang around all day. That's not good for productivity, and it's also not good for not having a bunch of people around with access to secrets.
 
 ## Trending
 
