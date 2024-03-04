@@ -1,5 +1,5 @@
 ---
-title: How Democrats could disqualify Trump if the Supreme Court doesn't
+title: "How Democrats could disqualify Trump if the Supreme Court doesn't"
 layout: post
 tags:
 - Russell Berman

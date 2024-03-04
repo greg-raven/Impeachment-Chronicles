@@ -9,7 +9,7 @@ tags:
 
 Fox News' Hillary Vaughn asked House Minority Leader Hakeem Jeffries, Reps. Nancy Pelosi, D-Calif., Katie Porter, D-Calif., Eric Swalwell, D-Calif., and Jamaal Bowman, D-N.Y., if they had any concerns over President Biden's age back in 2023.
 
-[A new piece published in *The Atlantic* this week]({% post_url 2024-02-23-disqualifying-trump.md %}) floated the idea that there might be room for House Democrats to vote against certifying former President Trump for office if he wins re-election.
+[A new piece published in *The Atlantic* this week]({% post_url 2024-02-23-disqualifying-trump %}) floated the idea that there might be room for House Democrats to vote against certifying former President Trump for office if he wins re-election.
 
 The article, written by staff writer Russell Berman, argued that if the Supreme Court declined to weigh in on whether Trump is eligible to run for office under the 14th Amendment, then House Democrats could take it upon themselves to vote against certifying him, as it's up to them to say he's ineligible.
 
