@@ -7,7 +7,7 @@ tags:
 
 - Without clear guidance from the Court, House Democrats suggest that they might not certify a Trump win on January 6.
 
-Near the end of the Supreme Court's oral arguments about whether Colorado could exclude former President Donald Trump from its ballot as an insurrectionist, the attorney representing voters from the state offered a warning to the justices—one evoking the January 6 riot that had set the case in motion.
+Near the end of the Supreme Court's oral arguments about whether Colorado could exclude former President Donald Trump from its ballot as an insurrectionist, the attorney representing voters from the state offered a warning to the justices --- one evoking the January 6 riot that had set the case in motion.
 
 By this point in the hearing, the justices had made clear that they didn't like the idea of allowing a single state to kick Trump out of the presidential race, and they didn't appear comfortable with the Court doing so either. Sensing that Trump would likely stay on the ballot, the attorney, Jason Murray, said that if the Supreme Court didn't resolve the question of Trump's eligibility, "it could come back with a vengeance" --- after the election, when Congress meets once again to count and certify the votes of the Electoral College.
 

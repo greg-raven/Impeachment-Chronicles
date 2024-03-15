@@ -31,7 +31,7 @@ Here are some facts about Carroll's story that the establishment media do not wa
 
 "And that's why the date's moved around. This is the 80s. Is it the 90s? Is it the 2000s? President Trump has consistently stated that he was falsely accused, and he has the right to defend himself," he added.
 
-6\.  She never came forward with these allegations over the years despite constantly being open about sexuality, posting things that were very sexual in nature on social media --- many of which Trump has shared. They include remarks such as "How do you know your 'unwanted sexual advance' is unwanted, until you advance it?" and "Sex Tip I Learned From My Dog: When in heat, chase the male until he collapses with exhaustion … then jump him!"
+6\.  She never came forward with these allegations over the years despite constantly being open about sexuality, posting things that were very sexual in nature on social media --- many of which Trump has shared. They include remarks such as "How do you know your 'unwanted sexual advance' is unwanted, until you advance it?" and "Sex Tip I Learned From My Dog: When in heat, chase the male until he collapses with exhaustion ... then jump him!"
 
 7\.  She said she was never raped, telling the New York Times' podcast, The Daily, "Every woman gets to choose her word. Every woman gets to choose how she describes it. This is my way of saying it. This is my word. My word is 'fight.' My word is not the 'victim' word. I have not --- I have not been raped," she continued. "I have --- something has not been done to me. I fought. That's the thing."
 

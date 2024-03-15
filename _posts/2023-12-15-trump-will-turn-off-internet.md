@@ -11,9 +11,9 @@ Miles Taylor, Trump's former chief of staff at the Department of Homeland Securi
 
 "The possibilities are almost limitless," Taylor said. "The biggest concerns for me are on the national security side. I think Americans still don't understand the full extent of the president's powers and things Donald Trump could do, bubble-wrapped in legalese, that would be damaging to the republic."
 
-"He could invoke powers we've never heard a President of the United States invoke—potentially to shut down companies or turn off the internet or deploy the U.S. military on U.S. soil," he added. "We don't know because the things that are in there, the emergency powers of the president, aren't widely known to the American people.
+"He could invoke powers we've never heard a President of the United States invoke --- potentially to shut down companies or turn off the internet or deploy the U.S. military on U.S. soil," he added. "We don't know because the things that are in there, the emergency powers of the president, aren't widely known to the American people.
 
-"That's a big worry for people like me and others who worry about what he could do. But that weaponization of the government could extend across the interagency to places where we haven't seen it before—the Department of Education, the Department of Veterans Affairs—ways to wield that power and those budgets to help his allies and to hurt his enemies."
+"That's a big worry for people like me and others who worry about what he could do. But that weaponization of the government could extend across the interagency to places where we haven't seen it before --- the Department of Education, the Department of Veterans Affairs --- ways to wield that power and those budgets to help his allies and to hurt his enemies."
 
 Newsweek reached out to representatives of Donald Trump via email for comment.
 

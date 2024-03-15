@@ -13,7 +13,7 @@ A report released on Monday delved into depth regarding the information and evid
 
 > During its initial review of records archived by the Select Committee, the Subcommittee discovered a letter from Fulton County District Attorney Fani Willis to the Select Committee dated December 17, 2021.273 In this letter, Willis requested access to any Select Committee records relevant to her investigation into President Trump's actions to challenge the 2020 presidential election, including "recordings and transcripts of witness interviews and depositions, electronic and print records of communications, and records of travel."
 >
-> Based on public reporting, the Select Committee shared important records with Willis and the Fulton County District Attorney's Office. According to the Atlanta Journal Constitution, the Select Committee provided "Fulton County prosecutors…key evidence about what former President Trump and his top advisers knew" with respect to Georgia's 2020 election results.
+> Based on public reporting, the Select Committee shared important records with Willis and the Fulton County District Attorney's Office. According to the Atlanta Journal Constitution, the Select Committee provided "Fulton County prosecutors ... key evidence about what former President Trump and his top advisers knew" with respect to Georgia's 2020 election results.
 >
 > Politico also reported that Fani Willis' staff met with the Select Committee in April 2022 and participated in multiple phone calls with the Fulton County District Attorney's Office. The same video recordings that the Fulton County District Attorney requested were never archived by the Select Committee.
 >

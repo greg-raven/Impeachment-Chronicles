@@ -25,7 +25,7 @@ Daily Beast reported at the time:
 >
 > Judge Hal Greenwald ruled in that case that the 2001 confidentiality agreement had been too vaguely defined to stop her from writing about the sitting president and noted that her publisher had not been a signatory to that agreement. Robert Trump died in August 2020.
 
-The judge ruled in May that reporters were "entitled to engage in legal and ordinary news-gathering activities without fear or tort liability — as their actions are at the very core of protected first amendment activity."
+The judge ruled in May that reporters were "entitled to engage in legal and ordinary news-gathering activities without fear or tort liability --- as their actions are at the very core of protected first amendment activity."
 
 On Friday, Judge Robert Reed ruled against former President Donald Trump, ordering him to pay $392,638.69 to *The New York Times.*
 
@@ -37,7 +37,7 @@ The hefty financial penalty imposed on Trump covers all attorney fees, legal exp
 
 Law and Crime reported:
 
-> The claim from Trump was dismissed by a New York Supreme Court judge last May, who found that reporters were "entitled to engage in legal and ordinary news-gathering activities without fear or tort liability — as their actions are at the very core of protected first amendment activity."
+> The claim from Trump was dismissed by a New York Supreme Court judge last May, who found that reporters were "entitled to engage in legal and ordinary news-gathering activities without fear or tort liability --- as their actions are at the very core of protected first amendment activity."
 >
 > In an email, Danielle Rhoades Ha, the senior vice president for external communications at the *Times* told said the judge's decision "shows that the state's newly amended anti-SLAPP statute can be a powerful force for protecting press freedom."
 >
