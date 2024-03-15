@@ -2,7 +2,7 @@
 title: "Peacefully and patriotically"
 layout: post
 tags:
-- Donald Trump
+- Donald J. Trump
 ---
 
 THE PRESIDENTIAL ELECTION OF 2020 WAS RIGGED AND STOLEN!

@@ -2,7 +2,7 @@
 title: "Donald Trump's full statement on impeachment trial acquittal"
 layout: post
 tags:
-- Donald Trump
+- Donald J. Trump
 ---
 
 I want to first thank my team of dedicated lawyers and others for their tireless work upholding justice and defending truth.

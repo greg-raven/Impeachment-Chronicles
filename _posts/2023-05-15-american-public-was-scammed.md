@@ -2,7 +2,7 @@
 title: "The American public was scammed"
 layout: post
 tags:
-- Donald Trump
+- Donald J. Trump
 ---
 
 WOW! After extensive research, Special Counsel John Durham concludes the FBI never should have launched the Trump-Russia Probe! In other words, the American Public was scammed, just as it is being scammed right now by those who don't want to see GREATNESS for AMERICA!

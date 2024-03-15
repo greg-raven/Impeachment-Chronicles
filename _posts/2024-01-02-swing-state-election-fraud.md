@@ -2,7 +2,7 @@
 title: "Summary of Election Fraud in the 2020 Presidential Election in the Swing States"
 layout: post
 tags:
-- Donald Trump
+- Donald J. Trump
 ---
 
 > "Out of fraud no action arises."

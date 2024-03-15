@@ -2,7 +2,7 @@
 title: "Declassification of Certain Materials Related to the FBI's Crossfire Hurricane Investigation"
 layout: post
 tags:
-- Donald Trump
+- Donald J. Trump
 ---
 
 Memorandum of January 19, 2021

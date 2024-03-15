@@ -2,7 +2,7 @@
 title: "Durham Report Verdicts"
 layout: post
 tags:
-- Donald Trump
+- Donald J. Trump
 ---
 
 [Durham Report]({% post_url 2023-05-12-durham-report %}) Verdicts:

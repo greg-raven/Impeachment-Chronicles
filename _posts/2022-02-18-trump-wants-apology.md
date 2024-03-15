@@ -2,7 +2,7 @@
 title: "When is Lesley Stahl of 60 Minutes going to apologize?"
 layout: post
 tags:
-- Donald Trump
+- Donald J. Trump
 ---
 
 When is Lesley Stahl of 60 Minutes going to apologize for saying that my campaign was not spied upon? On top of that, they spied on the White House!

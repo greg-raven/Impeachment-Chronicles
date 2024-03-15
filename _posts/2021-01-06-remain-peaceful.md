@@ -2,7 +2,7 @@
 title: "Remain peaceful. No violence."
 layout: post
 tags:
-- Donald Trump
+- Donald J. Trump
 ---
 
 I am asking for everyone at the U.S. Capitol to remain peaceful. No violence! Remember, WE are the Party of Law &amp; Order --- respect the Law and our great men and women in Blue. Thank you!
