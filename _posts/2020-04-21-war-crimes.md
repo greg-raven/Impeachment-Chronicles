@@ -2,7 +2,7 @@
 title: "War crimes"
 layout: post
 tags:
-- RNC Research
+- Ayanna Pressley
 ---
 
 UNHINGED: Squad member Rep. Ayanna Pressley accuses the Trump administration of "war crimes"
