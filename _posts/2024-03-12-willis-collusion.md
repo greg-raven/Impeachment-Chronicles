@@ -35,6 +35,6 @@ Previously, the district attorney's office criticized House Republicans' proposa
 
 President Trump has been hit with a series of charges in Georgia, with prosecutors accusing him of illegally seeking to sway the 2020 election outcome. The former president has pleaded not guilty, claiming the allegations are an effort to interfere in the 2024 election.
 
-[...]
+\[...\]
 
 Source: The Politics Brief, thepoliticsbrief.com/house-republicans-publish-new-report-on-fani-willis-collusion-with-j6-committee/

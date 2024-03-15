@@ -5,7 +5,7 @@ tags:
 - Joe Biden
 ---
 
-Trump poses many threats to our country: The right to choose, civil rights, voting rights, and America’s standing in the world.
+Trump poses many threats to our country: The right to choose, civil rights, voting rights, and America's standing in the world.
 
 But the greatest threat he poses is to our democracy.
 

@@ -7,15 +7,15 @@ tags:
 
 - Federal prosecutors filed court documents on Tuesday urging a judge not to grant Hunter Biden's request to dismiss charges against him
 
-Federal prosecutors further acknowledged in court documents filed Tuesday that the laptop Hunter Biden dropped off at a computer store is in fact real, adding that the contents on the laptop matched what had previously been obtained through a search warrant on the president’s son’s Apple iCloud.
+Federal prosecutors further acknowledged in court documents filed Tuesday that the laptop Hunter Biden dropped off at a computer store is in fact real, adding that the contents on the laptop matched what had previously been obtained through a search warrant on the president's son's Apple iCloud.
 
-In the court documents, the Department of Justice said the IRS and FBI obtained a search warrant for tax violations in August 2019 and were able to get access to Hunter’s Apple iCloud account.
+In the court documents, the Department of Justice said the IRS and FBI obtained a search warrant for tax violations in August 2019 and were able to get access to Hunter's Apple iCloud account.
 
 By September 2021, Apple produced backups of data from various electronic devices Hunter backed up to his iCloud account.
 
 "Investigators also later came into possession of the defendant's Apple MacBook Pro, which he left at a computer store," the court filing reads. "A search warrant was also obtained for his laptop and the results of the search were largely duplicative of information investigators had already obtained from Apple."
 
-In 2020, John Paul Mac Isaac, a computer repair shop owner who turned over the laptop belonging to the president’s son to authorities and members of the press, said a man he believed to be Hunter dropped off three laptops in his store in April 2019. Only one of the laptops was salvageable, and while repairing the laptop, Mac Isaac said he discovered disturbing material.
+In 2020, John Paul Mac Isaac, a computer repair shop owner who turned over the laptop belonging to the president's son to authorities and members of the press, said a man he believed to be Hunter dropped off three laptops in his store in April 2019. Only one of the laptops was salvageable, and while repairing the laptop, Mac Isaac said he discovered disturbing material.
 
 Mac Isaac could not get in touch with the customer, and said he first searched the emails by keyword in June or July 2019.
 
@@ -29,7 +29,7 @@ Twitter and Facebook blocked or limited sharing of the *New York Post's* article
 
 But in February 2023, the first son admitted that the laptop at the center of a federal investigation belonged to him in a letter from his lawyers.
 
-At the time, journalist Miranda Devine, who authored the book "Laptop from Hell," tweeted about Hunter’s admission, saying it was not Russian disinformation or a "plant," as the president and 51 dishonest former intel officials pretended. The 51 intel officials she referred to were the 51 intelligence experts who signed a letter casting doubt on the scandal.
+At the time, journalist Miranda Devine, who authored the book "Laptop from Hell," tweeted about Hunter's admission, saying it was not Russian disinformation or a "plant," as the president and 51 dishonest former intel officials pretended. The 51 intel officials she referred to were the 51 intelligence experts who signed a letter casting doubt on the scandal.
 
 In June 2023, the DOJ said it knew in December 2019 that the laptop was "not manipulated in any way" and contained "reliable evidence," but was "obstructed" from seeing all available information, according to an IRS whistleblower involved in the probe.
 
