@@ -1,5 +1,5 @@
 ---
-title: "<#Title#>"
+title: "Trump is not a victim"
 layout: post
 tags:
 - Jen Psaki

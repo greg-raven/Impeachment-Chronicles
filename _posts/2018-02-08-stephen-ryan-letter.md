@@ -1,5 +1,5 @@
 ---
-title: "<#Title#>"
+title: "Stephen Ryan's letter to the FEC on behalf of Michael Cohen"
 layout: post
 tags:
 - Stephen M. Ryan

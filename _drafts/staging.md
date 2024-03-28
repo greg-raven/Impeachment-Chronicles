@@ -36,14 +36,4 @@
 
 2020-07-09 [No, Trump didn’t tell Americans infected with the coronavirus to drink bleach](https://www.politifact.com/factchecks/2020/jul/11/joe-biden/no-trump-didnt-tell-americans-infected-coronavirus/)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Flashback to 2019 when AOC tried to get Trump for UNDERVALUING his assets.😂 <a href="https://t.co/bPlwrJc50N">pic.twitter.com/bPlwrJc50N</a></p>&mdash; MAZE (@mazemoore) <a href="https://twitter.com/mazemoore/status/1772308296281522552?ref_src=twsrc%5Etfw">March 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Francis Scott Key Bridge spanned the lower Patapsco River.<br><br>Crazy coincidence…<br>On 3.24 Trump mentioned the flag at Trump National Golf Club. The plaque under it says, The River of Blood.” Trump’s timestamp was 8:47 and Q847 = “WATCH the water.“<br><br>Note Francis Scott… <a href="https://t.co/oHLCS6p0C3">pic.twitter.com/oHLCS6p0C3</a></p>&mdash; Cowboyw2b (@Cowboyw2b2) <a href="https://twitter.com/Cowboyw2b2/status/1772599795712143481?ref_src=twsrc%5Etfw">March 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If it is true that Donald Trump’s net worth just increased by more than a billion dollars the public deserves to know why. This is likely the biggest financial windfall for a politician in world history, so it requires a detailed and transparent explanation.</p>&mdash; Brian Schatz (@brianschatz) <a href="https://twitter.com/brianschatz/status/1772385462742642817?ref_src=twsrc%5Etfw">March 25, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 2024-03-26 [‘Assured failure’: Ex-White House lawyer provides new details of final days of Trump’s 2020 election gambit - POLITICO](https://www.politico.com/news/2024/03/26/white-house-trump-2020-00149195)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨EXCLUSIVE BOMBSHELL REPORT🚨<br><br>Judge Merchan’s daughter has <a href="https://twitter.com/KamalaHarris?ref_src=twsrc%5Etfw">@KamalaHarris</a> as a Client at her company that focuses on Campaigns and elections!!! <br><br>Judge Merchan, the NY State Supreme Court Judge who issued a GAG ORDER against President Trump today has a daughter named Loren… <a href="https://t.co/Jr0FzWyJv6">pic.twitter.com/Jr0FzWyJv6</a></p>&mdash; Laura Loomer (@LauraLoomer) <a href="https://twitter.com/LauraLoomer/status/1772739965320913189?ref_src=twsrc%5Etfw">March 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
