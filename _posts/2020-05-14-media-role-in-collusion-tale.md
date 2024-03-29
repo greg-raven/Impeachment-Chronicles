@@ -27,7 +27,7 @@ April 26, 2016:
 : Isikoff publishes story on Yahoo News about Manafort's business dealings with a Russian oligarch.
 
 April 27, 2016:
-: The BBC publishes an article titled, "Why Russians Love Donald Trump."
+: The BBC publishes an article titled, "[Why Russians Love Donald Trump]({% post_url 2016-04-28-russians-prefer-trump %})."
 
 April 28, 2016:
 : Chalupa is invited to discuss her research about Manafort with 68 investigative journalists from Ukraine at Library of Congress for Open World Leadership Center, a U.S. congressional agency. Chalupa invites Isikoff to "connect(s) him to the Ukrainians." After the event, Isikoff accompanies Chalupa to Ukrainian embassy reception.
@@ -42,7 +42,8 @@ June 7, 2016:
 : Hillary Clinton locks up Democratic nomination.
 
 June 17, 2016:
-: *Washington Post* publishes front page story linking Trump to Russia: "Inside Trump's Financial Ties to Russia and His Unusual Flattery of Vladimir Putin."
+: *Washington Post* publishes front page story linking Trump to Russia: "[Inside Trump's Financial Ties to Russia and His Unusual Flattery of Vladimir Putin]({% post_url 2016-06-17-trumps-ties-to-russia %})
+."
 
 July 2016:
 : Ukraine minister of internal affairs Arsen Avakov attacks Trump and Trump campaign adviser Paul Manafort on Twitter and Facebook, calling Trump "an even bigger danger to the U.S. than terrorism."<br>Former Ukrainian Prime Minister Arseny Yatseniuk writes on Facebook that Trump has "challenged the very values of the free world."
