@@ -25,6 +25,18 @@ iframe {
 	margin-bottom: 1em;
 }
 
+q {
+    quotes: "“" "”" "‘" "’";
+}
+
+q::before {
+    content: open-quote;
+}
+
+q::after {
+    content: close-quote;
+}
+
 table {
     background-color: transparent
 }

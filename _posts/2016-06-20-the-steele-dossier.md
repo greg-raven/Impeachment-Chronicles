@@ -1,6 +1,8 @@
 ---
 title: "The Steele Dossier"
 layout: post
+tags:
+- Christopher Steele
 ---
 
 ## COMPANY INTELLIGENCE REPORT 2016/080
@@ -495,3 +497,5 @@ The Kremlin insider was unsure of the identities of the PA officials with whom C
 13 December 2016
 
 <iframe class="pdf" src="/assets/2016-Steele-Dossier.pdf"></iframe>
+
+Source: Christopher Steele
