@@ -17,7 +17,7 @@ Miles Taylor, Trump's former chief of staff at the Department of Homeland Securi
 
 Newsweek reached out to representatives of Donald Trump via email for comment.
 
-Trump is currently leading in the GOP primaries with 61.4 percent of the vote share, according to polling aggregator FiveThirtyEight. A number of national polls have suggested he will win a presidential election against Joe Biden in a hypothetical matchup, with a Morning Consult/Bloomberg News poll predicting he is leading by 47 to 42 percent across seven key swing states as a whole.
+[...]
 
 In a 2015 campaign rally, Trump suggested he was open to restricting the internet in certain cases.
 

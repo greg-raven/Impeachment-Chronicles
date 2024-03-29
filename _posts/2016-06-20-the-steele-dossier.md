@@ -33,6 +33,8 @@ layout: post
 
 20 June 2016
 
+---
+
 ## COMPANY INTELLIGENCE REPORT 2016/086
 
 **RUSSIA/CYBER CRIME: A SYNOPSIS OF RUSSIAN STATE-SPONSORED AND OTHER CYBER OFFENSIVE (CRIMINAL) OPERATIONS**
@@ -67,6 +69,8 @@ layout: post
 
 26 July 2015
 
+---
+
 ## COMPANY INTELLIGENCE REPORT 2016/094
 
 **RUSSIA: SECRET KREMLIN MEETINGS ATTENDED BY TRUMP ADVISOR, CARTER PAGE IN MOSCOW (JULY 2016)**
@@ -90,6 +94,8 @@ layout: post
 4. However, the Kremlin official close to S. IVANOV added that s/he believed DIVEYKIN also had hinted (or indicated more strongly) that the Russian leadership also had "kompromat" on TRUMP which the latter should bear in mind in his dealings with them.
 
 19 July 2016
+
+---
 
 ## COMPANY INTELLIGENCE REPORT 2016/095
 
@@ -123,6 +129,8 @@ layout: post
 
 [no date]
 
+---
+
 ## COMPANY INTELLIGENCE REPORT 2016/097
 
 **RUSSIA-U.S. PRESIDENTIAL ELECTION: KREMLIN CONCERN THAT POLITICAL FALLOUT FROM DNC E-MAIL HACKING AFFAIR SPIRALLING OUT OF CONTROL**
@@ -149,6 +157,8 @@ layout: post
 
 30 July 2016
 
+---
+
 ## COMPANY INTELLIGENCE REPORT 2016/100
 
 **GROWING BACKLASH IN KREMLIN TO DNC HACKING AND TRUMP SUPPORT OPERATIONS**
@@ -174,6 +184,8 @@ layout: post
 4. According to the first source, close to IVANOV, there had been talk in the Kremlin of TRUMP being forced to withdraw from the presidential race altogether as a result of recent events, ostensibly on grounds of his state and unsuitability for high office. This might not be so bad for Russia in the circumstances but in the view of the source, it remained largely wishful thinking on the part of those in the regime opposed to PESKOV and his "botched" operations, at least for the time being.
 
 5 August 2016
+
+---
 
 ## COMPANY INTELLIGENCE REPORT 2016/101
 
@@ -202,6 +214,8 @@ layout: post
 
 10 August 2016
 
+---
+
 ## COMPANY INTELLIGENCE REPORT 2016/102
 
 **RUSSIA/U.S. PRESIDENTIAL ELECTION: REACTION IN TRUMP CAMP TO RECENT NEGATIVE PUBLICITY ABOUT RUSSIAN INTERFERENCE AND LIKELY RESULTING TACTICS GOING FORWARD**
@@ -223,6 +237,8 @@ layout: post
 3. However, associate also admitted that there was a fair amount of anger and resentment within the Republican candidate's team at what was perceived by PUTIN as going beyond the objective of weakening CLINTON and bolstering TRUMP, by attempting to exploit the situation to undermine the U.S. government and democratic system more generally. It was unclear at present how this aspect of the situation would play out in the weeks to come.
 
 10 August 2016
+
+---
 
 ## COMPANY INTELLIGENCE REPORT 2016/136
 
@@ -250,6 +266,8 @@ We reported previously, in our Company Intelligence Report 2016/135 of 19 Octobe
 
 20 October 2016
 
+---
+
 ## COMPANY INTELLIGENCE REPORT 2016/105
 
 **THE DEMISE OF CAMPAIGN MANAGER PAUL MANAFORT**
@@ -271,6 +289,8 @@ We reported previously, in our Company Intelligence Report 2016/135 of 19 Octobe
 3. Speaking separately, also in late August 2016, an American political figure associated with Donald TRUMP and his campaign outlined the reasons behind MANAFORT's recent demise. S/he said it was true that the Ukraine corruption revelations had played a part in this but also, several senior players close to TRUMP had wanted MANAFORT out, primarily to loosen his control on strategy and policy formulation. Of particular importance in this regard was MANAFORT's predecessor as campaign manager, Corey LEWANDOWSKI, who hated MANAFORT personally and remained close to TRUMP with whom he discussed the presidential campaign on a regular basis.
 
 22 August 2016
+
+---
 
 ## COMPANY INTELLIGENCE REPORT 2016/111
 
@@ -300,11 +320,13 @@ We reported previously, in our Company Intelligence Report 2016/135 of 19 Octobe
 
 5. Finally, speaking separately to the same compatriot, a senior Russian MFA official reported that as a prophylactic measure, a leading Russian diplomat, Mikhail KULAGIN, had been withdrawn from Washington at short notice because Moscow feared his heavy involvement in the U.S. presidential election operation, including the so-called veterans' pensions ruse (reported previously), would be exposed in the media there. His replacement, Andrei BONDAREV however was clean in this regard.
 
-Company Comment
+### Company Comment
 
 The substance of what was reported by the senior Russian PA official in paras 1 and 2 above, including the reasons for Sergei IVANOV's dismissal, was corroborated independently by a former top-level Russian intelligence officer and Kremlin insider, also in mid-September.
 
 14 September 2016
+
+---
 
 ## COMPANY INTELLIGENCE REPORT 2016/112
 
@@ -328,6 +350,8 @@ The substance of what was reported by the senior Russian PA official in paras 1 
 
 14 September 2016
 
+---
+
 ## COMPANY INTELLIGENCE REPORT 2016/113
 
 **RUSSIA/U.S. PRESIDENTIAL ELECTION --- REPUBLICAN CANDIDATE TRUMP'S PRIOR ACTIVITIES IN ST PETERSBURG**
@@ -347,6 +371,8 @@ The substance of what was reported by the senior Russian PA official in paras 1 
 3. The two St Petersburg figures cited believed an Azeri business figure, Araz AGALAROV (with offices in Baku and London) had been closely involved with TRUMP in Russia and would know most of the details of what the Republican presidential candidate had got up to there.
 
 14 September 2016
+
+---
 
 ## COMPANY INTELLIGENCE REPORT 2016/130
 
@@ -373,6 +399,8 @@ The substance of what was reported by the senior Russian PA official in paras 1 
 4. Asked to explain why PUTIN and the Kremlin had launched such an aggressive TRUMP support operation in the first place, the MFA official said that Russia needed to meet the liberal international status quo, including on Ukraine-related sanctions, which was seriously disadvantaging the country. TRUMP was viewed as divisive in disrupting the whole U.S. political system; anti-Establishment, and; a pragmatist with whom they could do business. As the TRUMP support operation had gained momentum, control of it had passed from the MFA to the FSB and then into the presidential administration whore it remained, a reflection of its growing significance over time. There was still a view in the Kremlin that TRUMP would continue as a {divisive} political force even if he lost the presidency and may run for and be elected to another public office.
 
 12 October 2016
+
+---
 
 ## COMPANY INTELLIGENCE REPORT 2016/134
 
@@ -406,6 +434,8 @@ Company Comment
 
 15 October 2016
 
+---
+
 ## COMPANY INTELLIGENCE REPORT 2016/135
 
 **RUSSIA/U.S. PRESIDENTIAL ELECTION: THE IMPORTANT ROLE OF TRUMP LAWYER, COHEN IN SECRET LIAISON WITH THE KREMLIN**
@@ -435,6 +465,8 @@ Company Comment
 The Kremlin insider was unsure of the identities of the PA officials with whom COHEN met secretly in August, or the exact date/s and locations of the meeting/s. There were significant internal security barriers being erected in the PA as the TRUMP issue became more controversial and damaging. However, s/he continued to try to obtain these.
 
 19 October 2016
+
+---
 
 ## COMPANY INTELLIGENCE REPORT 2016/166
 
