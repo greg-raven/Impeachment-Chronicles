@@ -27,7 +27,7 @@ April 26, 2016:
 : Isikoff publishes story on Yahoo News about Manafort's business dealings with a Russian oligarch.
 
 April 27, 2016:
-: The BBC publishes an article titled, "[Why Russians Love Donald Trump]({% post_url 2016-04-28-russians-prefer-trump %})."
+: The BBC publishes an article titled, "[Why Russians Love Donald Trump]({% post_url 2016-04-28-russians-love-trump %})."
 
 April 28, 2016:
 : Chalupa is invited to discuss her research about Manafort with 68 investigative journalists from Ukraine at Library of Congress for Open World Leadership Center, a U.S. congressional agency. Chalupa invites Isikoff to "connect(s) him to the Ukrainians." After the event, Isikoff accompanies Chalupa to Ukrainian embassy reception.
