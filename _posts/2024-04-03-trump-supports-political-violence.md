@@ -1,5 +1,5 @@
 ---
-title: "<#Title#>"
+title: "Donald Trump won't denounce political violence"
 layout: post
 tags:
 - Joe Biden
