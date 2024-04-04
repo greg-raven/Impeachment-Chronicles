@@ -1,5 +1,5 @@
 ---
-title: "Trump wants to serve three terms as President"
+title: "Trump wants three terms as President"
 layout: post
 tags:
 - The Bulwark
