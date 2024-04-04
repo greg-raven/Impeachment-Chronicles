@@ -39,3 +39,4 @@ https://youtu.be/Zrf1AColf8M?si=UOUtyK1DblgBHva7
 2024-03-01 [MSNBC Goes Full Racist on President Trump's WHITE RURAL Voters aka People living in the Country - Accused of WHITE RURAL RAGE](https://rumble.com/v4gisu6-msnbc-goes-full-racist-on-pres-trumps-white-rural-voters-aka-people-living-.html)
 2023-12-22 [Trump recorded pressuring Wayne Co. canvassers not to certify 2020 vote](https://www.detroitnews.com/story/news/politics/2023/12/21/donald-trump-recorded-pressuring-wayne-canvassers-not-to-certify-2020-vote-michigan/72004514007/)
 2020-07-09 [No, Trump didn't tell Americans infected with the coronavirus to drink bleach](https://www.politifact.com/factchecks/2020/jul/11/joe-biden/no-trump-didnt-tell-americans-infected-coronavirus/)
+2024-04-01 [Trump Gag Order Is Expanded to Stop Attacks on Judge Merchan’s Family - The New York Times](https://www.nytimes.com/2024/04/01/nyregion/trump-gag-order-juan-merchan.html)
