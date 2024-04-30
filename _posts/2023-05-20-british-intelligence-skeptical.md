@@ -1,6 +1,3 @@
-[](https://)  May 20, 2023
-
-
 ---
 title: "British intelligence found FBI Russia collusion probe so absurd it stopped helping"
 layout: post

@@ -52,15 +52,20 @@ I'll conclude by noting the immense damage the politicized bureaucracy has done 
 Thus, as we'll learn in these hearings:
 
 - After expressing skepticism of foreign aid and concern about foreign corruption on the campaign trail, President Trump outraged the bureaucracy by acting skeptically about foreign aid and expressing concerns about foreign corruption.
+
 - Officials' alarm at the President's actions was typically based on second-hand, third-hand, and even fourth-hand rumors and innuendo.
+
 - They believed it was an outrage for President Trump to fire an ambassador, even though the President has full authority to retain or remove diplomats for any reason at any time.
+
 - Officials showed a surprising lack of interest in the indications of Ukrainian election meddling that deeply concerned the President at whose pleasure they serve.
+
 - Despite all their dissatisfaction with President Trump's Ukraine policy, the President approved the supply of weapons to Ukraine, unlike the previous administration, which provided blankets as defense against invading Russians.
 
 By undermining the President who they are supposed to be serving, elements of the FBI, the Department of Justice, and now the State Department, have lost the confidence of millions of Americans who believe that their vote should count for something. It will take years, if not decades, to restore faith in these institutions.
 
 This spectacle is doing great damage to our country. It's nothing more than an impeachment process in search of a crime.
 
-<div class="embed-responsive embed-responsive-16by9"><video class="embed-responsive-item" controls src="/assets/2022-12-11-nunes-v-schiff.mp4" poster="/assets/2022-12-11-nunes-v-schiff.jpg"></video></div>
+<video controls src="/assets/2022-12-11-nunes-v-schiff.mp4" poster="/assets/2022-12-11-nunes-v-schiff.jpg">
+</video>
 
 Source: Devin Nunes
