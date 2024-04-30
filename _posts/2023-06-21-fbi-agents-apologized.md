@@ -5,11 +5,11 @@ tags:
 - Arjun Singh
 ---
 
-Former Special Counsel John Durham on Wednesday said FBI agents had "apologized" to him for the [Crossfire Hurricane]({ %post_url 2016-07-31-crossfire-hurricane %}) investigation into former President Donald Trump and his campaign from 2016 to 2019, per his testimony to the House Judiciary Committee.
+Former Special Counsel John Durham on Wednesday said FBI agents had "apologized" to him for the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation into former President Donald Trump and his campaign from 2016 to 2019, per his testimony to the House Judiciary Committee.
 
 Durham, who was appointed Special Counsel to investigate the origins of the investigation into Trump's campaign --- which later revealed that Trump had not colluded with Russia to win the election --- interviewed FBI agents who were involved in the investigation. Those FBI agents were ashamed of their work on the investigation, according to Durham, who also said that several other agents had apologized to him for the FBI's conduct. (RELATED:  ['Uncorroborated Intelligence': Durham Report Torches FBI, DOJ For Handling Of Trump-Russia Probe]({% post_url 2023-05-15-uncorroborated-intel %}))
 
-"Let me give you some real-life views: I have had any number of FBI agents ... who have come to me and apologized for the manner in which that investigation [Crossfire Hurricane]({ %post_url 2016-07-31-crossfire-hurricane %}) was undertaken. These are good, hard-working, decent people," Durham said in response to a question asked by Republican Rep. Mike Johnson of Louisiana, who asked about Durham's opening testimony where he said that the conclusions of his report were "sobering."
+"Let me give you some real-life views: I have had any number of FBI agents ... who have come to me and apologized for the manner in which that investigation [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) was undertaken. These are good, hard-working, decent people," Durham said in response to a question asked by Republican Rep. Mike Johnson of Louisiana, who asked about Durham's opening testimony where he said that the conclusions of his report were "sobering."
 
 Durham noted another instance where FBI agents expressed recrimination for the investigation. In an exchange with Judiciary Committee Chairman Jim Jordan, Durham said that one of the Supervisory Special Agents of the Crossfire Hurricane investigation "became emotional" when presented with a memorandum about the Hillary Clinton campaign's efforts to promote the idea Russia was supporting Trump, which then-FBI Director James Comey did not share with the agents.
 

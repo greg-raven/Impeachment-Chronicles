@@ -25,6 +25,6 @@ Durham told the committee that the Mueller report "did not" support Lieu's claim
 
 Nadler, Schiff, Swalwell and Lieu all serve on the House Judiciary Committee, with Nadler and Schiff having been physically present to hear their claims rebutted. During Kiley's questioning, Schiff repeatedly asked "Would the gentleman yield?" to Kiley, for time to clarify his remarks, but Kiley refused to yield.
 
-Durham appeared before the Judiciary Committee to testify about the conclusions of his report on his investigation into the origins of the [Crossfire Hurricane]({ %post_url 2016-07-31-crossfire-hurricane %}) investigation of Donald Trump's campaign and its contacts with Russia during the 2016 election. The investigation of Trump produced no evidence that he had cooperated with Russia to win the election, and Durham's investigation concluded that the FBI had acted without "strict fidelity to the law" in opening its investigation of Trump.
+Durham appeared before the Judiciary Committee to testify about the conclusions of his report on his investigation into the origins of the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation of Donald Trump's campaign and its contacts with Russia during the 2016 election. The investigation of Trump produced no evidence that he had cooperated with Russia to win the election, and Durham's investigation concluded that the FBI had acted without "strict fidelity to the law" in opening its investigation of Trump.
 
 Source: Arjun Singh, dailycaller.com/2023/06/21/durham-trump-russia-collusion-claims/

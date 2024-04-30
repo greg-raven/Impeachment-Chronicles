@@ -19,7 +19,7 @@ The real-life implication is that some Trump supporters will see the Durham repo
 
 **Failures at the FBI**
 
-Durham slammed the FBI's investigation --- dubbed [Crossfire Hurricane]({ %post_url 2016-07-31-crossfire-hurricane %}) --- into the Trump campaign for its "serious lack of analytic rigor" and a "cavalier attitude" for accuracy.
+Durham slammed the FBI's investigation --- dubbed [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) --- into the Trump campaign for its "serious lack of analytic rigor" and a "cavalier attitude" for accuracy.
 
 "... We conclude that the Department and the FBI failed to uphold their important mission of strict fidelity to the law in connection with certain events and activities described in this report," Durham wrote.
 
@@ -27,7 +27,7 @@ For its part, the FBI does not dispute the report's findings, but says it has al
 
 Durham also called out the role of the (now-discredited) [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}), the opposition research gathered for the Hillary Clinton campaign that was in turn given to the FBI. Durham said the dossier was "unvetted and unverified," yet was used as justification for surveillance.
 
-"Indeed, based on the evidence gathered in multiple exhaustive and costly federal investigations of these matters, including the instant investigation, neither U.S. law enforcement nor the Intelligence Community appears to have possessed any actual evidence of collusion in their holdings at the commencement of the [Crossfire Hurricane]({ %post_url 2016-07-31-crossfire-hurricane %}) investigation," the report stated.
+"Indeed, based on the evidence gathered in multiple exhaustive and costly federal investigations of these matters, including the instant investigation, neither U.S. law enforcement nor the Intelligence Community appears to have possessed any actual evidence of collusion in their holdings at the commencement of the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation," the report stated.
 
 The political implications are clear, and the report highlights the favoritism shown to the Clinton campaign over Trump's.
 

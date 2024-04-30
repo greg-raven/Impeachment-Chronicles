@@ -7,7 +7,7 @@ tags:
 
 - Signed Letter by President Trump Reveals He Declassified Docs on Obama Regime Spying on Him the Day Before He Left Office --- Explains Why They Raided Mar-a-Lago --- CONFIRMS Our Previous Reporting
 
-DC Draino on Wednesday morning tweeted out a signed letter by President Trump dated January 19, 2021. This was the day before President Trump left office. The presidential letter declassifies all of the [Crossfire Hurricane]({ %post_url 2016-07-31-crossfire-hurricane %}) documents that prove Barack Obama, James Comey, John Brennan, James Clapper, the FBI, CIA, State Department, and Deep State spied on him and knew the Trump-Russia collusion hoax was a scam.
+DC Draino on Wednesday morning tweeted out a signed letter by President Trump dated January 19, 2021. This was the day before President Trump left office. The presidential letter declassifies all of the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) documents that prove Barack Obama, James Comey, John Brennan, James Clapper, the FBI, CIA, State Department, and Deep State spied on him and knew the Trump-Russia collusion hoax was a scam.
 
 This is devastating news for the Biden regime. Don't expect this to make any headlines in the fake news today!
 

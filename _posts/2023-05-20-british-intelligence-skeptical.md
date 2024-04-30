@@ -24,7 +24,7 @@ The FBI legat in London "went on to tell the Inspection Division that in discuss
 
 The Brits' concern escalated throughout 2016 and 2017, eventually resulted in a UK intelligence officer refusing to aid the FBI any further, Durham's report revealed.
 
-"Later in the Fall of 2016, UK ALAT-1 was at FBI Headquarters with some of his British Intelligence Service-I counterparts. While there, members of the [Crossfire Hurricane]({ %post_url 2016-07-31-crossfire-hurricane %}) team played the audio/visual recordings of CHS-1's August 20, 2016 meeting with Carter Page," Durham wrote. "UK ALAT-1 said the effect on the British Intelligence Service-I personnel was not positive because of the lack of any evidence corning out of the conversation."
+"Later in the Fall of 2016, UK ALAT-1 was at FBI Headquarters with some of his British Intelligence Service-I counterparts. While there, members of the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) team played the audio/visual recordings of CHS-1's August 20, 2016 meeting with Carter Page," Durham wrote. "UK ALAT-1 said the effect on the British Intelligence Service-I personnel was not positive because of the lack of any evidence corning out of the conversation."
 
 "UK ALAT-1 told the OIG that after watching the video one of his British colleagues said, 'For [expletive] sake, man. You went through a lot of trouble to get him to say nothing,'" the report said.
 
