@@ -456,7 +456,7 @@ investigation-election-law),' Just the News, 2021.
 
 50. '[LIVE: Investigator Michael Gableman](https://www.youtube.com/live/tIKfnvSZK4E?si=mP77-SYUO0Il9z_0&t=2249),' YouTube, March 1, 2022.
 
-51. Office of the Special Counsel [Second Interim Investigative Report On the Apparatus & Procedures of the Wisconsin Elections System](https://www.wpr.org/sites/default/files/osc-second-interim-report.pdf) Delivered to the Wisconsin State Assembly on March 1, 2022.
+51. Office of the Special Counsel [Second Interim Investigative Report On the Apparatus & Procedures of the Wisconsin Elections System](https://www.documentcloud.org/documents/21747255-wisconsin-office-of-the-special-counsel-second-interim-investigative-report-20220301) Delivered to the Wisconsin State Assembly on March 1, 2022.
 
 52. '[Wisconsin Safe Voting Plan 2020](https://www.techandciviclife.org/wp-content/uploads/2020/07/Approved-Wisconsin-Safe-Voting-
 Plan-2020.pdf), Submitted to the Center for Tech & Civic Life, June 15, 2020.'
