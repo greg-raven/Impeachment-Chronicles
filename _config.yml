@@ -43,7 +43,7 @@ minima:
   # social_links:
   #   - { platform: github,         user_url: "https://github.com/greg-raven" }
   #   - { platform: keybase,        user_url: "https://keybase.io/gregraven" }
-  #   - { platform: twitter,        user_url: "https://twitter.com/gregraven" }
+  #   - { platform: x,              user_url: "https://x.com/gregraven" }
   #   - { platform: youtube,        user_url: "https://www.youtube.com/@GregRaven" }
 
 # If you want to link only specific pages in your header, uncomment this
