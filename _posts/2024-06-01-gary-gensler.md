@@ -1,5 +1,5 @@
 ---
-title: "Gary Gensler"
+title: "Rewarded for facilitating the Steele dossier"
 layout: post
 tags:
 - Jack Posobiec
