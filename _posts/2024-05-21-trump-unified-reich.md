@@ -2,7 +2,7 @@
 title: "Trump's 'unified Reich'"
 layout: post
 tags:
-- Biden/Harris
+- Biden-Harris HQ
 ---
 
 Last night, Donald Trump posted a video to his social media suggesting a second term for him would create a "unified Reich" in America.
@@ -17,4 +17,4 @@ We don't want to trivialize this at all. But we are going to use this opportunit
 
 Because if we don't have the resources to win, we won't. And this is the one thing you can do right now to make sure Trump doesn't get the chance to take this country backward. So please:
 
-Source: Biden/Harris
+Source: Biden-Harris HQ
