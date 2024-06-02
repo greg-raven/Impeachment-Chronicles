@@ -1,5 +1,5 @@
 ---
-title: "<#Title#>"
+title: "Comments by former FEC Chairman Brad Smith"
 layout: post
 tags:
 - Brad Smith
@@ -35,9 +35,9 @@ Or suppose a business owner wants to settle pending lawsuits against his busines
 
 The answer, obviously, is no---even though there is no legal obligation to pay them, and the settlements would be paid specifically to "influence an election." In fact, in each of these examples, it would be unlawful to make the payments with campaign funds. /12
 
-This is because FECA also prohibits using campaign funds for "personal use." What is "personal use?" Under Federal Election Commission regulations---and the FEC has primary authority-for interpreting the law-it is any obligation that would exist "irrespective" of the candidacy /13
+This is because FECA also prohibits using campaign funds for "personal use." What is "personal use?" Under Federal Election Commission regulations---and the FEC has primary authority---for interpreting the law---it is any obligation that would exist "irrespective" of the candidacy /13
 
-Indeed the FEC regulations make clear that a mixed motive doesn't make something a campaign expense-if the obligation would exist "irrespective" of the campaign, paying it with campaign funds is "personal use," and therefore illegal. /14
+Indeed the FEC regulations make clear that a mixed motive doesn't make something a campaign expense---if the obligation would exist "irrespective" of the campaign, paying it with campaign funds is "personal use," and therefore illegal. /14
 
 Certainly Daniels used the campaign to pressure Trump and for the most $$ she could. The timing affected the *value* of her allegations, but the *obligation* did not exist because Trump was a candidate. It predated his candidacy, & was not created by him being a candidate. /15
 
