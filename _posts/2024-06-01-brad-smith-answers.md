@@ -5,7 +5,7 @@ tags:
 - Brad Smith
 ---
 
-Comments by former FEC Chairman, whose testimony Judge Merchan refused to allow in the Trump "hush money" trial.
+Comments by Brad Smith, whose testimony Judge Merchan refused to allow in the Trump "hush money" trial.
 
 ---
 
