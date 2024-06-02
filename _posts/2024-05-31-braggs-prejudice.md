@@ -1,5 +1,5 @@
 ---
-title: "Did Alvin Bragg Campaign on a Promise To Prosecute Trump? What We Know"
+title: "Did Alvin Bragg campaign on a promise to prosecute Trump? What we know"
 layout: post
 tags:
 - Theo Burman
@@ -15,7 +15,7 @@ Sen. Susan Collins, Republican of Maine, issued a statement after the verdict: "
 
 House Speaker Mike Johnson, a staunch Trump supporter, described the verdict as a "shameful day in American history," claiming that the charges were based on dubious testimony and aimed solely at discrediting the leading GOP candidate. "This was a purely political exercise, not a legal one," Johnson said in a statement.
 
-Representative Thomas Massie echoed these sentiments, posting on X (formerly Twitter), "Bragg's actions are clearly politically motivated. The American people see this for what it is: an attempt to interfere in the 2024 election".
+Representative Thomas Massie echoed these sentiments, posting on 𝕏 (formerly Twitter), "Bragg's actions are clearly politically motivated. The American people see this for what it is: an attempt to interfere in the 2024 election".
 
 Florida Governor Ron DeSantis accused Bragg of being a leftist prosecutor who manipulated the legal system for political gains, saying: "[If the defendant were not Donald Trump, this case would never have been brought]({% post_url 2024-05-30-desantis-on-verdict %})."
 
