@@ -66,6 +66,7 @@ https://youtu.be/NfNl--ZBItE?si=HSJjHmnGg54DoT7f
 [Dozens of lawsuits accuse Trump of not paying his bills, reports claim | Fox News](https://www.foxnews.com/politics/dozens-of-lawsuits-accuse-trump-of-not-paying-his-bills-reports-claim)
 
 [Was the FBI really ready to shoot Donald Trump as part of the Mar-a-Lago raid? *UPDATE* - American Thinker](https://www.americanthinker.com/blog/2024/05/was_the_fbi_really_ready_to_shoot_donald_trump_as_part_of_the_mar_a_lago_raid.html)
+
 [Now even leftists think putting Stormy Daniels on the stand trashed Alvin Bragg's case against Trump - American Thinker](https://www.americanthinker.com/blog/2024/05/now_even_leftists_think_putting_stormy_daniels_on_the_stand_trashed_alvin_bragg_s_case_against_trump.html)
 
 https://www.youtube.com/watch?v=7h22LwleKj4&list=WL&index=23&pp=gAQBiAQB
@@ -100,6 +101,3 @@ https://www.youtube.com/watch?v=HUqXtPpxRm8&list=WL&index=18&pp=gAQBiAQB
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Final volume of Senate Intelligence bipartisan &amp; thorough investigation into Russian 2016 efforts is now public<a href="https://t.co/nuPuYifaa4">https://t.co/nuPuYifaa4</a><br> <br>We found no evidence of “collusion”<br><br>But we did find troubling actions by the FBI, particularly their willingness to rely on “Steele Dossier” <a href="https://t.co/S5hiKDgURB">pic.twitter.com/S5hiKDgURB</a></p>&mdash; Marco Rubio (@marcorubio) <a href="https://twitter.com/marcorubio/status/1295711197300428801?ref_src=twsrc%5Etfw">August 18, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
-
-[Was the FBI really ready to shoot Donald Trump as part of the Mar-a-Lago raid? *UPDATE* - American Thinker](https://www.americanthinker.com/blog/2024/05/was_the_fbi_really_ready_to_shoot_donald_trump_as_part_of_the_mar_a_lago_raid.html)
