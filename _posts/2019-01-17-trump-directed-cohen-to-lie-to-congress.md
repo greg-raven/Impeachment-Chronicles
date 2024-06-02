@@ -1,5 +1,5 @@
 ---
-title: "President Trump Directed His Attorney Michael Cohen To Lie To Congress About The Moscow Tower Project"
+title: "President Trump directed his attorney Michael Cohen to lie to congress about the Moscow Tower Project"
 layout: post
 tags:
 - Jason Leopold
