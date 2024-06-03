@@ -2,7 +2,7 @@
 title: "Biden press conference"
 layout: post
 tags:
-- Biden-Harris HQ
+- Biden Campaign
 ---
 
 The Biden campaign is holding a press conference soon outside of the Manhattan courthouse, where Trump’s defense team is set to give closing arguments. Trump arrived there earlier this morning:
@@ -11,4 +11,4 @@ The Biden campaign is holding a press conference soon outside of the Manhattan c
 
 Source: Shelby Talcott, via [𝕏](https://x.com)
 
-Note the incorrect date on this obviously politically-motivated Biden-Harris HQ announcement.
+Note the incorrect date on this obviously politically-motivated Biden Campaign announcement.

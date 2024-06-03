@@ -2,7 +2,7 @@
 title: "Statement on Trump's Press Conference"
 layout: post
 tags:
-- Biden-Harris HQ
+- Biden Campaign
 ---
 
 ***Biden-Harris 2024 Spokesperson James Singer** released the following statement on Trump's press conference this afternoon:*
@@ -17,4 +17,4 @@ tags:
 
 ![Statement on Trump's Press Conference](/assets/2024-03-25-biden-harris.png "Statement on Trump's Press Conference")
 
-Source: Biden-Harris HQ
+Source: Biden Campaign
