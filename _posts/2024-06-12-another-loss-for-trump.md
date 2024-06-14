@@ -2,7 +2,7 @@
 title: "Another loss for Trump"
 layout: post
 tags:
-- <#Author#>
+- Maggie Haberman
 ---
 
 @nytimes and @CNN try to sell Hunter Biden's conviction on federal gun charges as a loss... for @realDonaldTrump.
