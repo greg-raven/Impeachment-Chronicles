@@ -11,7 +11,7 @@ I am very happy that Matt Taibbi, Michael Shellenberger and Alex Gutentag are pu
 
 - WMD, Part II: CIA "Cooked The Intelligence" To Hide That Russia Favored Clinton, Not Trump In 2016
 
-Matt, Michael and Alex are doing a great service by hammering on this issue. But it was not confined to Donald Trump, at least not initially. In the summer of 2015, U.S. intelligence was being used to collect on all major candidates, including Marco Rubio, Ted Cruz and even Bernie Sanders. It was only when it became clear that Trump was going to be the nominee that the CIA formed a Task Force and concentrated on Trump. This effort included direct coordination with British intelligence — MI6 to be precise — and was coordinated in London by the CIA Chief of Station, Gina Haspel. I look forward to the rest of PUBLIC's reporting on this issue.
+Matt, Michael and Alex are doing a great service by hammering on this issue. But it was not confined to Donald Trump, at least not initially. In the summer of 2015, U.S. intelligence was being used to collect on all major candidates, including Marco Rubio, Ted Cruz and even Bernie Sanders. It was only when it became clear that Trump was going to be the nominee that the CIA formed a Task Force and concentrated on Trump. This effort included direct coordination with British intelligence --- MI6 to be precise --- and was coordinated in London by the CIA Chief of Station, Gina Haspel. I look forward to the rest of PUBLIC's reporting on this issue.
 
 So why am I tooting my own horn? I first wrote about this in 2017. That is seven years ago. What follows is the piece I published on Sonar21.com and The Gateway Pundit in February 2022, two weeks before the start of the Special Military Operation in Ukraine. My, how time flies.
 
