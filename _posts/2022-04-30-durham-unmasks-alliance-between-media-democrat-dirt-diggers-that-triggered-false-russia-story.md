@@ -7,11 +7,11 @@ tags:
 
 - Court filings show plan to introduce evidence that Clinton campaign flooded media with "unverified derogatory information" on Trump.
 
-Just days after Hillary Clinton emissaries Christopher Steele and Michael Sussmann approached the FBI in September 2016 with dirt that would infuse the Russia collusion probe, the campaign's opposition research firm sent some of the same information to New York Times journalists.
+Just days after Hillary Clinton emissaries Christopher Steele and Michael Sussmann approached the FBI in September 2016 with dirt that would infuse the Russia collusion probe, the campaign's opposition research firm sent some of the same information to *New York Times* journalists.
 
-"Gents good to see you yesterday," a Fusion GPS executive wrote the reporters. "Sounded like you might be interested in some of the attached russia-related material. these are internal, open source research drafts, as agreed, pls treat this as background/not for attribution. as you'll see it's all easily replicated anyway."
+"Gents good to see you yesterday," a Fusion GPS executive wrote the reporters. "Sounded like you might be interested in some of the attached Russia-related material. These are internal, open source research drafts, as agreed, pls treat this as background/not for attribution. As you'll see it's all easily replicated anyway."
 
-The invitation to further dirty up Donald Trump continued: "Can also send you a [name]/Toronto memo once i dig it out. I'm skipping over [name] and [company name]. believe your guys have done that up ... leave it to you to distribute internally, or not, as you see fit. don't believe sunny isles/hollywood or panama or toronto have been touched by brands xy or z. amazingly, don't think anyone has done up the trump tower poker ring story either. pretty vivid color there."
+The invitation to further dirty up Donald Trump continued: "Can also send you a [name]/Toronto memo once I dig it out. I'm skipping over [name] and [company name]. Believe your guys have done that up ... leave it to you to distribute internally, or not, as you see fit. Don't believe Sunny Isles/Hollywood or Panama or Toronto have been touched by brands xy or z. Amazingly, don't think anyone has done up the Crump Tower poker ring story either. pretty vivid color there."
 
 The missive is one of hundreds of emails that Special Counsel John Durham has obtained between Clinton campaign operatives and journalists that spread "unverified derogatory information" about Donald Trump, spawning the false Russia collusion narrative shortly before Election Day 2016. They've now been made public in court filings.
 
