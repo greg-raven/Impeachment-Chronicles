@@ -5,7 +5,7 @@ tags:
 - Glenn Greenwald
 ---
 
-> And here's Collins' corporate employer, NBC News, broadcasting one of Collins' corporate colleagues -- former CIA Director John Brennan -- lying to liberals by telling them Mueller was coming to arrest the Trump family for colluding with Russia:
+> And here's Collins' corporate employer, NBC News, broadcasting one of Collins' corporate colleagues --- former CIA Director John Brennan --- lying to liberals by telling them Mueller was coming to arrest the Trump family for colluding with Russia:
 >
 > Here's a completely fabricated and laughably stupid conspiracy theory from Ben Collins' corporate employer, NBC News, claiming that Russia was going to hand over Edward Snowden to the U.S. as a "gift" to Trump:
 >

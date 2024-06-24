@@ -29,7 +29,7 @@ tags:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Or maybe my favorites are the 2,472,547 &quot;Russia collusion hoax&quot; stories all based on completely sketchy anonymous sources and all totally false, for which our media gave themselves awards. And then pretended it was all NBD once they were exposed as hacks.</p>&mdash; Mollie (@MZHemingway) <a href="https://twitter.com/MZHemingway/status/1371714627080441857?ref_src=twsrc%5Etfw">March 16, 2021</a></blockquote>
 
-> But *The Atlantic's* anonymously sourced Aisne-Marne Cemetery/Trump hates soldiers story -- completely refuted by common sense, massive on-the-record rebuttals, government emails, and historical weather reports -- was pretty bad, too, and quite consequential.
+> But *The Atlantic's* anonymously sourced Aisne-Marne Cemetery/Trump hates soldiers story --- completely refuted by common sense, massive on-the-record rebuttals, government emails, and historical weather reports --- was pretty bad, too, and quite consequential.
 >
 > <cite>Mollie Hemingway, via [𝕏](https://x.com)</cite>
 
