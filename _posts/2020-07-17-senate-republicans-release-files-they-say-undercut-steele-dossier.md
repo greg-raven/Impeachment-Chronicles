@@ -7,7 +7,7 @@ tags:
 
 - The Senate Judiciary Committee on Friday released newly declassified documents
 
-The Republicans on the Senate Judiciary Committee on Friday released newly declassified documents that they say "significantly undercut" the "reliability" of the infamous Steele dossier from the Russia probe, as well as the accuracy and reliability of the factual assertions in the Foreign Intelligence Surveillance Act (FISA) warrants against former Trump campaign aide Carter Page.
+The Republicans on the Senate Judiciary Committee on Friday released newly declassified documents that they say "significantly undercut" the "reliability" of the infamous [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) from the Russia probe, as well as the accuracy and reliability of the factual assertions in the Foreign Intelligence Surveillance Act (FISA) warrants against former Trump campaign aide Carter Page.
 
 The first document, which the committee said spanned 57 pages, is a summary of a three-day interview with ex-British intelligence officer Christopher Steele's primary sub-source. Steele authored the unverified anti-Trump dossier of claims about alleged ties between Donald Trump and Russia that served as the basis for FISA warrants obtained against Page.
 

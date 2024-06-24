@@ -17,7 +17,7 @@ Clapper told the House Intelligence Committee that "anecdotal" evidence had emer
 
 Yet later in his testimony, he added that "we didn't have any evidence of collusion certainly that met the evidentiary threshold that would make its way into the Intelligence Community assessment."
 
-Rep. Adam Schiff (D-CA) --- then the Ranking Member of the committee --- attempted to soften the admission, asking Clapper: "So if there was evidence of collusion, it would not necessarily have been brought to your attention?" He also cited the (now-discredited) Steele dossier, asking whether it had been "corroborated at least in part" --- to which Clapper replied, "It would appear so."
+Rep. Adam Schiff (D-CA) --- then the Ranking Member of the committee --- attempted to soften the admission, asking Clapper: "So if there was evidence of collusion, it would not necessarily have been brought to your attention?" He also cited the (now-discredited) [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}), asking whether it had been "corroborated at least in part" --- to which Clapper replied, "It would appear so."
 
 Clapper also said that he believed evidence of collusion would eventually emerge.
 

@@ -35,7 +35,7 @@ While many of Mueller's lawyers may have been motivated by a hatred of Trump, Ba
 
 We now know that Agent Barnett's testimony and his documentary evidence is a component U.S. Attorney John Durham's criminal investigation into the origins of the FBI's Russia probe. This same evidence will also be presented in federal court Tuesday, as Flynn's lawyers and the Justice Department present arguments that the case against him should be dismissed. The joint motion must be granted if U.S. District Judge Emmet Sullivan has any integrity.
 
-All of this comes at the same time as the release of another set of declassified documents detailing how the infamous "Steele dossier" alleging Trump-Russia collusion actually originated from a suspected Russian spy who was designated as a possible "national security threat."
+All of this comes at the same time as the release of another set of declassified documents detailing how the infamous "[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %})" alleging Trump-Russia collusion actually originated from a suspected Russian spy who was designated as a possible "national security threat."
 
 In simple terms, the phony collusion narrative appears to have been the clever product of Russian lies and disinformation designed to damage Trump and funded by the Clinton campaign and Democrats. This is precisely what I argued in my book, "Witch Hunt: The Story of The Greatest Mass Delusion in American Political History."
 

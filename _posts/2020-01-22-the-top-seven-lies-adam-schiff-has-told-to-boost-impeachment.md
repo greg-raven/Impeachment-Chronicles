@@ -13,7 +13,7 @@ It's already been proven that Democrats have plotted the impeachment of Donald T
 
 **7. Promoting the bogus Steele dossier he knew was not credible**
 
-Any idiot could have read the Clinton-funded Steele dossier and known it wasn't credible. Schiff also had to know the information in it was uncorroborated and full of inaccuracies, embellishments, and lies. Nevertheless, he promoted the dossier as a legitimate piece of anti-Trump intelligence.
+Any idiot could have read the Clinton-funded [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) and known it wasn't credible. Schiff also had to know the information in it was uncorroborated and full of inaccuracies, embellishments, and lies. Nevertheless, he promoted the dossier as a legitimate piece of anti-Trump intelligence.
 
 Except it never was. According to [Inspector General Michael Horowitz's report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}) on FISA abuse, the FBI had "corroborated limited information in Steele's election reporting" and that the CIA "viewed it as 'internet rumor.'" Rolling Stone even noted that the report "is especially hostile to Schiff's claim that the FBI 'provided additional information obtained through multiple independent sources that corroborated Steele's reporting.'"
 

@@ -13,7 +13,7 @@ At the time, CrowdStrike was not the only Clinton campaign contractor focusing o
 
 These two Clinton campaign contractors, working directly for two Clinton campaign attorneys, would go on to play highly consequential roles in the ensuing multi-year Russia investigation.
 
-Working secretly for the Clinton campaign, Fusion GPS planted Trump-Russia conspiracy theories in the FBI and U.S. media via its subcontractor, former British spy Christopher Steele. The FBI used the Fusion GPS's now debunked "Steele dossier" for investigative leads and multiple surveillance applications putatively targeting Trump campaign volunteer Carter Page.
+Working secretly for the Clinton campaign, Fusion GPS planted Trump-Russia conspiracy theories in the FBI and U.S. media via its subcontractor, former British spy Christopher Steele. The FBI used the Fusion GPS's now debunked "[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %})" for investigative leads and multiple surveillance applications putatively targeting Trump campaign volunteer Carter Page.
 
 CrowdStrike, reporting to Sussmann, also proved critical to the FBI's work. Rather than examine the DNC servers for itself, the FBI relied on CrowdStrike's forensics as mediated by Sussmann.
 

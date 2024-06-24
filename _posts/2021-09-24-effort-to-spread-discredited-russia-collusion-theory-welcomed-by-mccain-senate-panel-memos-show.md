@@ -14,7 +14,7 @@ Under the late Sen. John McCain, the Armed Services Committee engaged a former F
 
 The Senate committee, now under Democrats' control, successfully waged a secret federal court battle this summer to quash a subpoena that would have forced one of its staffers, Thomas Kirk McConnell, to turn over documents and testify about his dealings with former FBI analyst Dan Jones and his nonprofit, The Democracy Integrity Project, the records show.
 
-A spokesman for George Soros confirms the progressive megadonor was one of the financial backers of The Democracy Integrity Project. Tax records show the group raised more than $7 million in donations in 2017 and hired Fusion GPS --- the same firm that produced the debunked Steele dossier for Hillary Clinton's campaign --- to pursue allegations of foreign interference in elections.
+A spokesman for George Soros confirms the progressive megadonor was one of the financial backers of The Democracy Integrity Project. Tax records show the group raised more than $7 million in donations in 2017 and hired Fusion GPS --- the same firm that produced the debunked [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) for Hillary Clinton's campaign --- to pursue allegations of foreign interference in elections.
 
 The episode, recounted in hundreds of pages of federal and D.C. Superior court records, provides extraordinary insight into how current and former government officials in multiple branches of government were able to sustain a Russia collusion theory on artificial life support for years after the FBI first dispelled it.
 

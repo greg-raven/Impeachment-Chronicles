@@ -61,7 +61,7 @@ Mary McCord, the former assistant attorney general for national security, also t
 
 "I can't recall if there was information, any information or evidence at the time I left about conspiring to take part in the actual intrusion," she said.
 
-On a related matter, McCabe also gave some of the first testimony that alerted Congress to the existence of an FBI spreadsheet tracking all the claims in the Steele dossier.
+On a related matter, McCabe also gave some of the first testimony that alerted Congress to the existence of an FBI spreadsheet tracking all the claims in the [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}).
 
 While McCabe's testimony defended using Steele's dossier to support the FISA warrant, a subsequent Justice Department inspector general investigation found the spreadsheet showed Steele's dossier was filled with uncorroborated and false information and some potential Russian disinformation that did not support the FISA warrant and misled the FISA court.
 

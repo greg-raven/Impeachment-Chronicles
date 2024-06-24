@@ -9,7 +9,7 @@ tags:
 
 Federal Bureau of Investigation (FBI) agents tasked by fired former Director James Comey to take down Donald Trump during and after the 2016 election were so concerned about the agency's potentially illegal behavior that they purchased liability insurance to protect themselves less than two weeks before Trump was inaugurated president, previously hidden FBI text messages show. The explosive new communications and internal FBI notes were disclosed in federal court filings today from Sidney Powell, the attorney who heads Michael Flynn's legal defense team.
 
-"[W]e all went and purchased professional liability insurance," one agent texted on Jan. 10, 2017, the same day CNN leaked details that then-President-elect Trump had been briefed by Comey about the bogus Christopher Steele dossier. That briefing of Trump was used as a pretext to legitimize the debunked dossier, which was funded by the Democratic National Committee and the Clinton campaign and compiled by a foreign intelligence officer who was working for a sanctioned Russian oligarch.
+"[W]e all went and purchased professional liability insurance," one agent texted on Jan. 10, 2017, the same day CNN leaked details that then-President-elect Trump had been briefed by Comey about the bogus Christopher [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}). That briefing of Trump was used as a pretext to legitimize the debunked dossier, which was funded by the Democratic National Committee and the Clinton campaign and compiled by a foreign intelligence officer who was working for a sanctioned Russian oligarch.
 
 "Holy crap," an agent responded. "All the analysts too?"
 

@@ -59,7 +59,7 @@ One commonality, present for nearly every departing member of the chamber, is on
 
 Paul Singer, billionaire hedge fund manager and co-CEO of Elliott Management, a firm responsible for over $50 Billion in assets. Singer is worth a reported $6 Billion. In 2016, the establishment Republican billionaire dumped $2.5 Million into Marco Rubio's failed Presidential campaign through a PAC called 'Our Principles.' See evidence of those donations below,
 
-Singer's attempts to derail Trump did not stop after Trump's victory in the 2016 Election. Singer is also attributed with the initial creation of the highly questionable research included in the Steele Dossier through the Washington Free Beacon and Fusion GPS.
+Singer's attempts to derail Trump did not stop after Trump's victory in the 2016 Election. Singer is also attributed with the initial creation of the highly questionable research included in the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) through the *Washington Free Beacon* and Fusion GPS.
 
 In the 2024 Presidential Election, Singer chose to donate to Nikki Haley's campaign through the SFA Fund PAC. The billionaire gave Haley an astounding $5,000,000 donation on December 18th, 2023. See evidence of that donation below,
 

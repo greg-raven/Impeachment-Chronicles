@@ -75,7 +75,7 @@ The liberal media and Wikipedia omitted the facts. For example, they state that 
 
 US Intelligence and the Justice Department, including the FBI, were indeed spying on candidate Trump in 2015.
 
-We now know, for instance, that corrupt DOJ attorney and number four at the DOJ, Bruce Ohr, set aside time to meet with Christopher Steele in his calendar in early October of 2015. Steele is the alleged author of the fake Steele dossier used to obtain a FISA warrant to spy on the Trump campaign, transition team and Presidency. Ohr's calendar shows this meeting:
+We now know, for instance, that corrupt DOJ attorney and number four at the DOJ, Bruce Ohr, set aside time to meet with Christopher Steele in his calendar in early October of 2015. Steele is the alleged author of the fake [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) used to obtain a FISA warrant to spy on the Trump campaign, transition team and Presidency. Ohr's calendar shows this meeting:
 
 \[...\]
 
