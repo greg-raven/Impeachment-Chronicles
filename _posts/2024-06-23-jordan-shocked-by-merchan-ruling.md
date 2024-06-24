@@ -12,4 +12,4 @@ At a House Judiciary Committee hearing held last week, Rep. Scott Fitzgerald (R-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jYaSWnE2T74?si=yE7kypHpJLdGTMQV" title="Jordan shocked by Judge Merchan ruling" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Source: Scott Fitzgerald, Jim Jordan, James E. Trainor III, and Elizabeth Foley, youtu.be/jYaSWnE2T74?si=yE7kypHpJLdGTMQV
+Source: Scott Fitzgerald, Jim Jordan, James E. Trainor III, and [Elizabeth Foley]({% post_url 2024-06-13-elizabeth-foley-testimony %}), youtu.be/jYaSWnE2T74?si=yE7kypHpJLdGTMQV
