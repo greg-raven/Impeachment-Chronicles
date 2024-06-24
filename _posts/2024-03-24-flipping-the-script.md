@@ -49,7 +49,7 @@ At least until narrative needs change again, with the prior narrative to be "mem
 
 By the way, here's what an electoral immaculate conception looks like:
 
-[...]
+\[...\]
 
 Now, a critical word about CISA. Most of us had not heard of it until after the 2020 coup d'etat, at which time the media presented it as an agency dedicated to cyber-security. Well, we now know, "not so much." In fact, in a recent interview with Mike Benz and Tucker Carlson, CISA was actually created and operates as a, if not the, "tip of the spear" for the Deep State division of the Globalist-CCP Axis. (P.S. This is a "must watch" interview --- in its entirety!)
 

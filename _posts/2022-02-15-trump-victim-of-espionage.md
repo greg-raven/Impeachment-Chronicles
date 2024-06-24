@@ -9,7 +9,7 @@ The recent Durham revelations that people working for Hillary Clinton spied on D
 
 In March 2017 I appeared on RT (i.e., Russia Today) to comment on Donald Trump's now proven claim that he and his campaign had been spied on. Here is what I said on Sunday, March 5, 2017:
 
-[...]
+\[...\]
 
 Pay close attention. After I gave this interview there was ZERO reaction/response from the media in the United States. They ignored it. It did not create a ripple on social media. Hell, even the Trump folks ignored it.
 

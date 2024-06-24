@@ -17,7 +17,7 @@ Miles Taylor, Trump's former chief of staff at the Department of Homeland Securi
 
 Newsweek reached out to representatives of Donald Trump via email for comment.
 
-[...]
+\[...\]
 
 In a 2015 campaign rally, Trump suggested he was open to restricting the internet in certain cases.
 

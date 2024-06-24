@@ -34,4 +34,4 @@ Reporter: I'm sorry sir, I didn't understand what you were saying, you were sayi
 
 Trump: No, no. There were people in that rally --- and I looked the night before --- if you look, there were people protesting very quietly the taking down of the statue of Robert E. Lee. I'm sure in that group there was some bad ones. The following day it looked like they had some rough, bad people. Neo-Nazis, white nationalists, whatever you wanna call them. But you had a lot of people in that group that were there to innocently protest --- and very legally protest --- because I don't know if you know, they had a permit. The other group didn't have a permit. So I only tell you this, there are two sides to a story. I thought what took place was a horrible moment for our country. A horrible moment. But there are two sides to the country.
 
-Source: Terry PerryCook, snopes.com/fact-check/trump-very-fine-people/?utm_medium=Social&utm_source=Twitter#Echobox=1718905525-1
+Source: Terry PerryCook, snopes.com/fact-check/trump-very-fine-people/

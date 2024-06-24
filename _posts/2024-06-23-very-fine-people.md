@@ -20,4 +20,4 @@ The goal of the fact check was to confirm Trump's statement, not the accuracy of
 
 The fact checker said that Trump's comments, taken out of context, "spread like wildfire" and were used by President Joe Biden in his 2020 campaign.
 
-Source: Madeleine Hubbard, justthenews.com/accountability/watchdogs/left-leaning-fact-checker-says-trump-never-called-charlottesville-neo?utm_source=mux&utm_medium=social-media&utm_campaign=social-media-autopost
+Source: Madeleine Hubbard, justthenews.com/accountability/watchdogs/left-leaning-fact-checker-says-trump-never-called-charlottesville-neo

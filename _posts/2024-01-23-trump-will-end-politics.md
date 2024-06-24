@@ -15,6 +15,6 @@ Maddow argued that Trump is increasingly being honest about his dictatorial ambi
 
 The MSNBC anchor summarized the deal that American voters would get in the scenario that Trump wins the 2024 election and causes, in her view, the collapse of the American political system.
 
-[...]
+\[...\]
 
 Source: Jeffrey Clark, msn.com/en-us/news/politics/msnbc-s-rachel-maddow-predicts-country-doomed-if-trump-wins-again-that-s-the-end-of-politics/ar-BB1h7Qd6

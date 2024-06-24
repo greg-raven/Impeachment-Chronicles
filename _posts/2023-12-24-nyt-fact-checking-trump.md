@@ -23,4 +23,4 @@ Here's a fact check.
 
 \[...\]
 
-Source: Angelo Fichera, nytimes.com/2023/12/24/us/politics/trump-immigration-fact-check.html?smid=tw-nytimes&smtyp=cur
+Source: Angelo Fichera, nytimes.com/2023/12/24/us/politics/trump-immigration-fact-check.html

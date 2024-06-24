@@ -10,6 +10,6 @@ As America closes in on a major election, mistrust is brewing around the mysteri
 
 We went on a road trip to find out. As we met the Americans who are being dismissed as public enemies, we discovered that they are ... us. They like Taylor Swift. They dance bachata. They go to bed at night watching "Star Trek" reruns. They go to work and do their jobs: saving us from Armageddon.
 
-[...]
+\[...\]
 
 Source: Adam Westbrook and Lindsay Crouse, nytimes.com/2024/03/19/opinion/trump-deep-state.html

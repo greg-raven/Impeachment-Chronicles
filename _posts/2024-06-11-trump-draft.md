@@ -20,7 +20,7 @@ Christopher Miller, who led the Pentagon during the chaotic closure of Trump's t
 
 Trump has been complimentary of Miller's performance during his administration and suggested that, if there is a second term, he might reprise his role as defense secretary, a powerful Cabinet post with sway over Pentagon policy. And though the former president has not weighed in on this Heritage strategy document, he did embrace many of the organization's proposals at the outset of his first term.
 
-[...]
+\[...\]
 
 On Tuesday, after publication of this report, Trump wrote on social media that the idea he would call for mandatory military service was "ridiculous" and attacked The Washington Post for what he said was a "failed attempt to damage me with the Voters."
 
@@ -32,7 +32,7 @@ Trump's campaign sought to tamp down speculation about his agenda. In a statemen
 
 Spokespeople for the Heritage Foundation did not respond to requests for comment before publication of this article. After it appeared online, a spokesperson said that Project 2025 does not "speak for President Trump or his campaign, who alone set his agenda."
 
-[...]
+\[...\]
 
 Source: Juliann Ventura and Julian Andreone, washingtonpost.com/national-security/2024/06/10/trump-military-draft-mandatory-service/
 

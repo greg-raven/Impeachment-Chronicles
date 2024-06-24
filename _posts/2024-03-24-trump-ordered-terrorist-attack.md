@@ -11,7 +11,7 @@ Many claims have been made about Trump and the events on the day certifying the 
 
 Trump has not been formally charged with insurrection despite multiple cases and investigations against him claiming he incited the riots at the U.S. Capitol. There are two ongoing lawsuits related to Trump's election fraud claims --- one from the Department of Justice and one in Fulton County, Georgia.
 
-[...]
+\[...\]
 
 Asked to make the argument against independent voters supporting Trump in 2024, AOC told CNN: 'Has there ever been a president, Republican or Democrat, that has been subject to this level of criminal charges, indictments and investigations? This is not about party. This is not about politics. This is about corruption and criminality.'
 
@@ -19,7 +19,7 @@ Asked to make the argument against independent voters supporting Trump in 2024, 
 
 'That is not about being a Republican. It is not about being a Democrat,' the New York lawmaker said. 'It's about being unethical and ... unfortunately, this is the state that we're in.'
 
-[...]
+\[...\]
 
 Democrats still claim that the Capitol attack should disqualify Trump from running for president in 2024.
 
