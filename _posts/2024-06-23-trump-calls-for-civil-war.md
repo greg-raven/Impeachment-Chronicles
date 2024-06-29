@@ -5,7 +5,6 @@ tags:
 - Hayden Cunningham
 ---
 
-
 - "I'm concerned about the safety of so many people in this country, particularly people of color."
 
 In a recent interview with MSNBC, California Representative Maxine Waters claimed that supporters of Donald Trump may engage in violence should the presumptive GOP nominee not win a second term in November. "I'm concerned about the safety of so many people in this country, particularly people of color," Waters claimed.
