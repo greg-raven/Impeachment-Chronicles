@@ -1,5 +1,5 @@
 ---
-title: "Remarks by President Biden at a campaign event"
+title: "Remarks by Joe Biden at a campaign event"
 layout: post
 tags:
 - Joe Biden
