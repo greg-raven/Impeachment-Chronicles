@@ -21,7 +21,7 @@ In January, *The Wall Street Journal* reported that Cohen arranged the payment w
 
 A week later, *In Touch* published a 2011 interview with Daniels in which she claimed she and Trump had a sexual encounter after meeting at a golf tournament in Lake Tahoe, Nev., a year after his marriage to Melania Trump, his third wife.
 
-At the end of January, Daniels said in [a written statement](% post_url 2018-01-30-official-statement-of-stormy-daniels %}) that the alleged affair never occurred. But in an appearance on Jimmy Kimmel Live!, Daniels appeared to disown that statement, saying she didn't know where it came from and the signature didn't look like hers.
+At the end of January, Daniels said in [a written statement]({% post_url 2018-01-30-official-statement-of-stormy-daniels %}) that the alleged affair never occurred. But in an appearance on Jimmy Kimmel Live!, Daniels appeared to disown that statement, saying she didn't know where it came from and the signature didn't look like hers.
 
 Source: Charles Ventura, usatoday.com/story/news/politics/2018/02/14/trump-lawyer-michael-cohen-paid-stormy-daniels-out-my-own-pocket/336122002/
 

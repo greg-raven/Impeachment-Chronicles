@@ -1,4 +1,27 @@
 https://rumble.com/v420qgu-deep-state-panics-after-fox-news-blows-up-damning-timeline-of-trump-witch-h.html - 2023-12-18
+https://www.youtube.com/shorts/AcDKUUPYyjk
+https://www.youtube.com/watch?v=_0TKnDMOLIE
+https://www.youtube.com/watch?v=_qGb1JgnG1o
+https://www.youtube.com/watch?v=5NGrkt-9nRM
+https://www.youtube.com/watch?v=7h22LwleKj4
+https://www.youtube.com/watch?v=agnKwculbIE
+https://www.youtube.com/watch?v=DO5KIZA3ppU
+https://www.youtube.com/watch?v=ECsOUIAeyMA
+https://www.youtube.com/watch?v=EtTb4DZ9EWE
+https://www.youtube.com/watch?v=fbiPFwzpG80
+https://www.youtube.com/watch?v=Fc7Ev_yUFcY
+https://www.youtube.com/watch?v=HUqXtPpxRm8
+https://www.youtube.com/watch?v=jJmguAxJxCk
+https://www.youtube.com/watch?v=ksXjBxf_sGU
+https://www.youtube.com/watch?v=lkgTd5Gq6w0
+https://www.youtube.com/watch?v=M9udT058zug
+https://www.youtube.com/watch?v=mLhUHsxnsjA Trump has dementia
+https://www.youtube.com/watch?v=NkfWJ8_j14s
+https://www.youtube.com/watch?v=rJNj_gdlWWI
+https://www.youtube.com/watch?v=uXs48ojqU6c
+https://www.youtube.com/watch?v=v48ClOQbV6s
+https://www.youtube.com/watch?v=VNw-RzSwhqo
+https://www.youtube.com/watch?v=zwN_dLD8ecU
 https://youtu.be/_KC_7oZFyWA
 https://youtu.be/3OlRH8Yw7q4
 https://youtu.be/4x-GGF7GI6M?si=PCcIvp6FaFWbFrQQ
@@ -14,45 +37,27 @@ https://youtu.be/hcVUFzhBUh4?si=w66JxbAYmG5VbsnW
 https://youtu.be/iENRjiRzLS4
 https://youtu.be/iJbUNc6yvAU
 https://youtu.be/IRiUARRqT-o?si=9SgT7N5uIHCM-6dQ
-https://youtu.be/j6JEPEuRhMs?si=ca3zOhSNNKA0-nfU
 https://youtu.be/J347JQqFPtw
+https://youtu.be/j6JEPEuRhMs?si=ca3zOhSNNKA0-nfU
 https://youtu.be/kF1SNJgX6ZA?si=HBFQ0dVl-gj8XIbB
 https://youtu.be/LmTvn7C8c7E?si=GLS63zOgmt6TJey-
 https://youtu.be/Ls1vZH2KPk0
+https://youtu.be/lxjvUzb1f7k?si=ozzF-7o93KOXyKWU
+https://youtu.be/mqR-Lc3pUHw?si=5DPu5Zj6PenNnF1d
+https://youtu.be/NfH1ZUHLwfQ?si=LMY-2pdepv-OXKI9
+https://youtu.be/NfNl--ZBItE?si=HSJjHmnGg54DoT7f
 https://youtu.be/oRXbFaUXJs0
 https://youtu.be/QAEqG9PVarw
 https://youtu.be/qQODPrZLS_g?si=aUKlNZIdcV-xgD74
 https://youtu.be/S9_miTqxBeM
 https://youtu.be/ttl4ocWdAj8
+https://youtu.be/uS4Z3GZEtC0?si=WNxAINydwxWNPmbH
 https://youtu.be/VJFhBM9YYvs?si=JEI4vWr5Nd3W_70L
 https://youtu.be/Zg1kbeeigg0
 https://youtu.be/ZPlS9MvaeXE?si=bSGo8Y_Lw7F190Ry
 https://youtu.be/Zrf1AColf8M?si=UOUtyK1DblgBHva7
-https://youtu.be/uS4Z3GZEtC0?si=WNxAINydwxWNPmbH
-https://youtu.be/lxjvUzb1f7k?si=ozzF-7o93KOXyKWU
-https://youtu.be/NfH1ZUHLwfQ?si=LMY-2pdepv-OXKI9
-https://www.youtube.com/watch?v=zwN_dLD8ecU
-https://www.youtube.com/watch?v=DO5KIZA3ppU
-https://www.youtube.com/watch?v=_0TKnDMOLIE
-https://www.youtube.com/watch?v=7h22LwleKj4
-https://www.youtube.com/watch?v=agnKwculbIE
-https://www.youtube.com/watch?v=EtTb4DZ9EWE
-https://www.youtube.com/watch?v=fbiPFwzpG80
-https://www.youtube.com/watch?v=M9udT058zug
-https://www.youtube.com/watch?v=NkfWJ8_j14s
-https://www.youtube.com/shorts/AcDKUUPYyjk
-https://youtu.be/NfNl--ZBItE?si=HSJjHmnGg54DoT7f
-https://www.youtube.com/watch?v=VNw-RzSwhqo
-https://www.youtube.com/watch?v=5NGrkt-9nRM
-https://www.youtube.com/watch?v=jJmguAxJxCk
-https://www.youtube.com/watch?v=lkgTd5Gq6w0
-https://youtu.be/mqR-Lc3pUHw?si=5DPu5Zj6PenNnF1d
-https://www.youtube.com/watch?v=ECsOUIAeyMA
-https://www.youtube.com/watch?v=HUqXtPpxRm8
-https://www.youtube.com/watch?v=uXs48ojqU6c
-https://www.youtube.com/watch?v=Fc7Ev_yUFcY
-https://www.youtube.com/watch?v=rJNj_gdlWWI
 
+---
 
 2024-03-10 [Fanni Willis & her lover Wade met with White House BEFORE they indicted Trump | Armstrong Economics](https://www.armstrongeconomics.com/armstrongeconomics101/deep-state/fanni-willis-her-lover-wade-met-with-white-house-before-they-indicted-trump/)
 2024-03-09 [Ex-CIA head Brennan hints at intel community withholding 'sensitive' info from Trump after he gets nomination | Fox News](https://www.foxnews.com/media/ex-cia-head-brennan-hints-intel-community-withholding-sensitive-info-trump-gets-nomination)
@@ -135,14 +140,6 @@ https://www.youtube.com/watch?v=AXfTSua2WS4
 so then you look at something else people are concerned about uh inflation 16 Nobel laurates came out this week and said that if what's his name we're elected president with his fiscal policies inflation would just increase enormously in our country and you have Joe Biden on the other side of that screen leading the world in reducing inflation in our country. Nancy Pelosi
 
 ---
-
-https://www.youtube.com/watch?v=ksXjBxf_sGU
-
-https://www.youtube.com/watch?v=mLhUHsxnsjA Trump has dementia
-
-https://www.youtube.com/watch?v=v48ClOQbV6s
-
-https://www.youtube.com/watch?v=_qGb1JgnG1o
 
 [Timothy Snyder: 'Unless Trump Loses, America Ends' - Comic Sands](https://www.comicsands.com/timothy-snyder-trump-america-ends-2668680948.html)
 
