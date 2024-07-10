@@ -113,25 +113,19 @@ Trump can't raise money, isn't campaigning, and is letting convicts and conspira
 
 ---
 
-Andrew McCarthy: “BRAGG’S PROSECUTION OF TRUMP VIOLATES NEW YORK STATE’S CONSTITUTION ... Congress gave the Justice Department and the FEC exclusive enforcement authority over federal campaign law to ensure uniform application nationally of what is an esoteric, constitutionally fraught area of law. To allow any local prosecutor in the country, despite having no federal jurisdiction, to implicate these laws and impose his own version of them is the antithesis of what Congress intended ... Bragg’s prosecution violates the U.S. Constitution because he is trying Trump on a crime --- conspiracy to steal an election by violating federal campaign law --- that is not charged in the indictment and is not even a New York crime ...
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Andrew McCarthy: “BRAGG’S PROSECUTION OF TRUMP VIOLATES NEW YORK STATE’S CONSTITUTION…Congress gave the Justice Department and the FEC exclusive enforcement authority over federal campaign law to ensure uniform application nationally of what is an esoteric, constitutionally…</p>&mdash; Donald J. Trump Posts From His Truth Social (@TrumpDailyPosts) <a href="https://twitter.com/TrumpDailyPosts/status/1787219946315063437?ref_src=twsrc%5Etfw">May 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 BIDEN HARRIS
 FOR IMMEDIATE RELEASE
 May 12, 2024
 VIDEO: This Mother's Day, Do the Moms in Your Life a Favor. Stop Trump
 Daughters Have Fewer Rights than their Mothers or Grandmothers Did Because of Donald Trump
 
-https://www.youtube.com/watch?v=-charvnq2FU
-
 ---
 
-[If Joe Biden Were as Ruthless About Immunity as Donald Trump … | The New Republic](https://newrepublic.com/article/183422/joe-biden-ruthless-immunity-donald-trump)
+[Joe Biden Drops Brutal Mother's Day Ad Attacking Donald Trump](https://www.msn.com/en-us/news/politics/joe-biden-drops-brutal-mothers-day-ad-attacking-donald-trump/ar-BB1mgzqy)
 
-[If I was Biden l'd hurry up and have Trump murdered on the basis that he is a threat to America's security #SCOTUS - Search / X](https://x.com/search)
+https://www.youtube.com/watch?v=-charvnq2FU
+
+[If Joe Biden Were as Ruthless About Immunity as Donald Trump … | The New Republic](https://newrepublic.com/article/183422/joe-biden-ruthless-immunity-donald-trump)
 
 ---
 
@@ -140,9 +134,3 @@ https://www.youtube.com/watch?v=AXfTSua2WS4
 so then you look at something else people are concerned about uh inflation 16 Nobel laurates came out this week and said that if what's his name we're elected president with his fiscal policies inflation would just increase enormously in our country and you have Joe Biden on the other side of that screen leading the world in reducing inflation in our country. Nancy Pelosi
 
 ---
-
-[Timothy Snyder: 'Unless Trump Loses, America Ends' - Comic Sands](https://www.comicsands.com/timothy-snyder-trump-america-ends-2668680948.html)
-
-[America First Legal Releases Documents Highlighting Glaring Legal Errors in Alvin Bragg’s Prosecution of President Donald J. Trump - America First Legal](https://aflegal.org/america-first-legal-releases-documents-highlighting-glaring-legal-errors-in-alvin-braggs-prosecution-of-president-donald-j-trump/)
-
-[Analysis: Trump election win could add 4bn tonnes to US emissions by 2030 - Carbon Brief](https://www.carbonbrief.org/analysis-trump-election-win-could-add-4bn-tonnes-to-us-emissions-by-2030/)
