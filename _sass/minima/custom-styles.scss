@@ -10,6 +10,15 @@ blockquote .small, blockquote cite, blockquote footer, blockquote small
 }
 
 blockquote .small:before, blockquote cite:before, blockquote footer:before, blockquote small:before { content: "\2014 \00A0"; }
+
+caption
+{
+	padding-top: 8px;
+	padding-bottom: 8px;
+	color: #777;
+	text-align: left;
+}
+
 dt { font-weight: bold; }
 
 dd
@@ -39,15 +48,8 @@ table th[class *=col-]
 	float: none;
 }
 
-caption
-{
-	padding-top: 8px;
-	padding-bottom: 8px;
-	color: #777;
-	text-align: left;
-}
-
 th { text-align: left; }
+video { margin-bottom: 1em; }
 
 .embed-responsive
 {
