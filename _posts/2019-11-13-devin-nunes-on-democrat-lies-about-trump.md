@@ -24,10 +24,15 @@ In the blink of an eye, we're asked to simply:
 And yet now we're supposed to take these people at face value when they trot out a new batch of allegations. But anyone familiar with the Democrats' scorched-earth war against President Trump would not be surprised to see all the typical signs that this is just a carefully orchestrated media smear campaign. For example:
 
 - After vowing publicly that impeachment requires bipartisan support, Democrats are pushing impeachment forward without the backing of a single House Republican.
+
 - The witnesses deemed suitable for television by the Democrats were put through a closed-door audition process in a cult-like atmosphere in the basement of the Capitol, where the Democrats conducted secret depositions, released a flood of misleading and one-sided leaks, and later selectively released transcripts in a highly staged manner.
+
 - Violating their own guidelines, the Democrats repeatedly redacted from the transcripts the name of Alexandra Chalupa, a contractor for the Democratic National Committee who worked with Ukrainian officials to collect dirt on the Trump campaign, which she provided to the DNC and the Hillary Clinton campaign.
+
 - The Democrats rejected most of the Republicans' witness requests, resulting in a horrifically one-sided process where crucial witnesses are denied a platform if their testimony doesn't support the Democrats' absurd accusations. Notably, they are trying to impeach the President for inquiring about Hunter Biden's activities, yet they refused our request to hear from Biden himself.
+
 - The whistleblower was acknowledged to have a bias against President Trump, and his attorney touted a "coup" against the President and called for his impeachment just weeks after his election.
+
 - At a prior hearing, Democrats on this committee read out a purely fictitious rendition of the President's phone call with President Zelensky. They clearly found the real conversation to be insufficient for their impeachment narrative, so they just made up a new one.
 
 And most egregiously, the staff of Democrats on this committee had direct discussions with the whistleblower before his or her complaint was submitted to the Inspector General, and Republicans cannot get a full account of these contacts because the Democrats broke their promise to have the whistleblower testify to this committee. Democrat members hid these contacts from Republicans and lied about them to the American people on national television.
@@ -35,12 +40,15 @@ And most egregiously, the staff of Democrats on this committee had direct discus
 I've noted before that the Democrats have a long habit of accusing Republicans of offences they themselves are committing. Recall that:
 
 - For years they accused the Trump campaign of colluding with Russia when they themselves were colluding with Russia by funding and spreading the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}), which relied on Russian sources.
+
 - And now they accuse President Trump of malfeasance in Ukraine when they themselves are culpable. The Democrats cooperated in Ukrainian election meddling, and they defend Hunter Biden's securing of a lavishly paid position with a corrupt Ukrainian company, all while his father served as vice president.
 
 Despite this hypocrisy, the Democrats are advancing their impeachment sham. But we should not hold any hearings at all until we get answers to three crucial questions the Democrats are determined to avoid asking:
 
 - First, what is the full extent of the Democrats' prior coordination with the Whistleblower and who else did the Whistleblower coordinate this effort with?
+
 - Second, what is the full extent of Ukraine's election meddling against the Trump campaign?
+
 - And third, why did Burisma hire Hunter Biden, what did he do for them, and did his position affect any U.S. government actions under the Obama administration?
 
 These questions will remain outstanding because Republicans were denied the right to call witnesses who know the answers.
@@ -65,7 +73,6 @@ By undermining the President who they are supposed to be serving, elements of th
 
 This spectacle is doing great damage to our country. It's nothing more than an impeachment process in search of a crime.
 
-<video controls src="https://www.glockspiel.com/impeach45/2022-12-11-nunes-v-schiff.mp4" poster="https://www.glockspiel.com/impeach45/2022-12-11-nunes-v-schiff.jpg">
-</video>
+<div class="embed-responsive embed-responsive-16by9"><video class="embed-responsive-item" controls src="https://www.glockspiel.com/impeach45/2019-11-13-nunes-v-schiff.mp4" poster="https://www.glockspiel.com/impeach45/2019-11-13-nunes-v-schiff.jpg"></video></div>
 
 Source: Devin Nunes

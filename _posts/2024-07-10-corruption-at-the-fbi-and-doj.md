@@ -7,9 +7,7 @@ tags:
 
 Former FBI Director James Comey claims that Trump wants to corrupt the FBI and DOJ, but the facts show that these agencies have been mired in corruption for decades.
 
-<video controls src="https://www.glockspiel.com/impeach45/2024-07-10-epstein-v-trump.mp4" poster="https://www.glockspiel.com/impeach45/2024-07-10-epstein-v-trump.jpg">
-</video>
-
+<div class="embed-responsive embed-responsive-16by9"><video class="embed-responsive-item" controls src="https://www.glockspiel.com/impeach45/2024-07-10-epstein-v-trump.mp4" poster="https://www.glockspiel.com/impeach45/2024-07-10-epstein-v-trump.jpg"></video></div>
 
 SOURCES:
 
