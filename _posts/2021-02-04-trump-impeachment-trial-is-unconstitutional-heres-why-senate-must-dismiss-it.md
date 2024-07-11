@@ -17,7 +17,7 @@ Additionally, the lawyers show a lack of causation between the law-breaking riot
 
 The argument is that because removal from office by the Senate of a U.S. president is a condition precedent which must occur before, and jointly with, "disqualification" to hold future office, the fact that the Senate is currently unable to remove from office the 45th President, whose term has ended, means that there is no issue --- by definition --- to bring before the Senate.
 
-Even if the Senate does not dismiss the impeachment brought before them by House Democrats, they must acquit President Trump because the overwhelming evidence shows that President Trump absolutely did not incite an insurrection on January 6th, 2021 as Schoen and Castor explain in the filing.
+Even if the Senate does not dismiss the impeachment brought before them by House Democrats, they must acquit President Trump because the overwhelming evidence shows that President Trump absolutely did not incite an [insurrection](/insurrection.html) on January 6th, 2021 as Schoen and Castor explain in the filing.
 
 It goes without saying, of course, that the violence which took place that day must be condemned, and those responsible for breaking the law must be held responsible.
 

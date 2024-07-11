@@ -23,9 +23,9 @@ Berman continued: "In interviews, senior House Democrats would not commit to cer
 
 He also noted that "Democrats have a serious chance of winning a majority in Congress in November," so they would have the power to do something.
 
-Additionally, he reminded readers that "in early 2021, every House Democrat (along with 10 Republicans) voted to impeach Trump for 'incitement of insurrection,' and a significant majority of those lawmakers will still be in Congress next year."
+Additionally, he reminded readers that "in early 2021, every House Democrat (along with 10 Republicans) voted to impeach Trump for 'incitement of [insurrection](/insurrection.html),' and a significant majority of those lawmakers will still be in Congress next year."
 
-Given those factors, Democrats who believe that Trump committed insurrection and have the majority in Congress might feel compelled to decide whether Trump enters office, if the Court declines to declare he's eligible.
+Given those factors, Democrats who believe that Trump committed [insurrection](/insurrection.html) and have the majority in Congress might feel compelled to decide whether Trump enters office, if the Court declines to declare he's eligible.
 
 Berman asked Rep. Adam Schiff, D-Calif., currently a leading contender for the U.S. Senate in California, what would happen if the Supreme Court declined to weigh in on Trump's eligibility. "I don't want to get into the chaos hypothetical," Schiff replied, though he did note that if the court said Trump was eligible, he would certify him.
 

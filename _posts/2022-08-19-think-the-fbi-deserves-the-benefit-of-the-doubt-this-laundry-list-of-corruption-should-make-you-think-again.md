@@ -119,7 +119,7 @@ The presence of Vice President Mike Pence and then-Sen. Kamala Harris at the U.S
 
 **March 4, 2021**
 
-The FBI released a joint memo with the Department of Homeland Security warning that "domestic extremists" were preparing to launch an insurrection by overwhelming the Capitol and removing Democratic lawmakers "on or about the 4th of March."
+The FBI released a joint memo with the Department of Homeland Security warning that "domestic extremists" were preparing to launch an [insurrection](/insurrection.html) by overwhelming the Capitol and removing Democratic lawmakers "on or about the 4th of March."
 
 Nothing happened.
 

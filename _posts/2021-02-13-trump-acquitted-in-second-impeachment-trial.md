@@ -5,7 +5,7 @@ tags:
 - Zachary Stieber
 ---
 
-Former President Donald Trump was acquitted of an insurrection incitement charge by the Senate on Saturday.
+Former President Donald Trump was acquitted of an [insurrection](/insurrection.html) incitement charge by the Senate on Saturday.
 
 Fifty-seven senators voted to convict Trump. A conviction requires a 67 vote supermajority.
 
@@ -21,11 +21,11 @@ Democrats alleged many Republicans already had their minds set on acquitting Tru
 
 "They were clearly in the position that regardless of the evidence right they were going to vote," Sen. Chris Van Hollen (D-Md.) told reporters after the vote.
 
-The House of Representatives impeached Trump on Jan. 13 while he was still in office on a single article of impeachment, incitement of insurrection, alleging he was behind the storming of the U.S. Capitol one week prior.
+The House of Representatives impeached Trump on Jan. 13 while he was still in office on a single article of impeachment, incitement of [insurrection](/insurrection.html), alleging he was behind the storming of the U.S. Capitol one week prior.
 
 Democrats in the House served as impeachment managers, or de facto prosecutors, trying to convince the Senate to convict Trump on the charge.
 
-"Senators, what greater offense could one commit then to incite a violent insurrection at our seat of government during the peaceful transfer of power?" Rep. Jamie Raskin (D-Md.), the lead impeachment manager, said during the trial.
+"Senators, what greater offense could one commit then to incite a violent [insurrection](/insurrection.html) at our seat of government during the peaceful transfer of power?" Rep. Jamie Raskin (D-Md.), the lead impeachment manager, said during the trial.
 
 Trump not only provoked a mob to storm the U.S. Capitol, but then sat back and watched "in delight" as the building was attacked, he claimed, "violating a sacred oath and engaging in a profound dereliction and desertion of duty."
 

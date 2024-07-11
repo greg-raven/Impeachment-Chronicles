@@ -23,7 +23,7 @@ Donald Trump is an existential threat to every fundamental American value.
 
 He won't defend democracy. He's a dangerous mob leader who attacked the foundation of our nation, encouraging a violent group of supporters to march on the Capitol to prevent the peaceful transfer of power.
 
-I didn't just watch the insurrection on TV --- I lived through it. I felt the presence of evil on that day.
+I didn't just watch the [insurrection](/insurrection.html) on TV --- I lived through it. I felt the presence of evil on that day.
 
 We can't retreat to our partisan corners. We can't sit quietly and hope that Donald Trump is defeated. No, now is the time to work together to be part of the solution. We all must take an active role in supporting Joe Biden's campaign, which is why I will ask you again: Will you pitch in $25 or any amount so President Biden has the resources to defeat Donald Trump?
 

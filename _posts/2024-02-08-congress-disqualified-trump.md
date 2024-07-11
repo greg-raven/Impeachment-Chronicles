@@ -28,7 +28,7 @@ Legally, the insurrectionist is disqualified the moment he engages in insurrecti
 
 Yet if we are going to look for some additional fact-based determination on whether Trump engaged in insurrection --- especially one that can be applied nationally --- Congress has already provided us with one, and the Supreme Court should look no further.
 
-The congressional votes regarding Trump should satisfy those who say we should "let the voters decide" rather than applying the Constitution and removing Trump from the ballot; the voters already decided. Our elected representatives convened, heard from both sides and voted that January 6 was an insurrection and that Donald Trump not only engaged in it but incited it. This was the conclusion of 232 of 435 representatives and 57 of 100 senators.
+The congressional votes regarding Trump should satisfy those who say we should "let the voters decide" rather than applying the Constitution and removing Trump from the ballot; the voters already decided. Our elected representatives convened, heard from both sides and voted that January 6 was an [insurrection](/insurrection.html) and that Donald Trump not only engaged in it but incited it. This was the conclusion of 232 of 435 representatives and 57 of 100 senators.
 
 Those majorities already represent the will of the American people. True, it was not enough for impeachment, which requires a two-thirds majority in the Senate, but it is more than enough for disqualification, where no supermajority is stipulated and thus a simple majority should suffice.
 

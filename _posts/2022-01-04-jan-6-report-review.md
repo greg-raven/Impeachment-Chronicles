@@ -5,7 +5,7 @@ tags:
 - Lloyd Green
 ---
 
-Whether fomenting insurrection, standing accused of rape or stiffing the IRS, Donald Trump remains in the news. On Monday, the House select committee voted to issue its final report. Three days later, after releasing witness transcripts, the committee delivered the full monty. Bennie Thompson, Liz Cheney and the rest of committee name names and flash receipts. At 845 pages, the report is damning --- and monumental.
+Whether fomenting [insurrection](/insurrection.html), standing accused of rape or stiffing the IRS, Donald Trump remains in the news. On Monday, the House select committee voted to issue its final report. Three days later, after releasing witness transcripts, the committee delivered the full monty. Bennie Thompson, Liz Cheney and the rest of committee name names and flash receipts. At 845 pages, the report is damning --- and monumental.
 
 Trumpworld is a crime scene, a tableau lifted from Goodfellas. Joshua Green of Bloomberg nailed that in The Devil's Bargain, his 2017 take on Trump's winning campaign. The gang was always transgressive, fear and violence part of its repertoire.
 

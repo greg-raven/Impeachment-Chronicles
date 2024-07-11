@@ -38,7 +38,7 @@ Rumble("play", {"video":"v3qqe8s","div":"rumble_v3qqe8s"});</script>
 
 J6 defendant Treniss Evans wrote the response to the latest set of lies by the Colorado prosecuting attorneys in their opening statement!
 
-> Treniss Evans has already been bludgeoned by the January 6th "Un-Select" Committee in Washington DC. During their hearings, they slandered his image and actions, implying he was involved in what they call an "insurrection."
+> Treniss Evans has already been bludgeoned by the January 6th "Un-Select" Committee in Washington DC. During their hearings, they slandered his image and actions, implying he was involved in what they call an "[insurrection](/insurrection.html)."
 >
 > The committee played video footage showing Evans repeating a tweet posted by President Trump over his megaphone at the steps of the US Capitol. This footage provided a time stamp that was falsified in order to push the narrative of unhinged Democrats and Liz Cheney.
 >

@@ -17,6 +17,6 @@ The comments are the latest line of attack from Biden and his campaign to deflec
 
 Aside from questioning his mental state, Biden hit Trump from other angles as well.
 
-"Freedom is under assault. The freedom to vote, the freedom to choose, and so much more," he said. "The lies about the 2020 election, the plot to overturn it, to embrace the Jan. 6 insurrection pose the greatest threat to our democracy since the American Civil War. In 2020, they failed, but ... the threat remains."
+"Freedom is under assault. The freedom to vote, the freedom to choose, and so much more," he said. "The lies about the 2020 election, the plot to overturn it, to embrace the Jan. 6 [insurrection](/insurrection.html) pose the greatest threat to our democracy since the American Civil War. In 2020, they failed, but ... the threat remains."
 
 Source: Brady Knox, washingtonexaminer.com/news/white-house/2924475/biden-slams-trump-too-old-mentally-unfit-gridiron-dinner/

@@ -7,7 +7,7 @@ tags:
 
 Through eight hearings, 20 live witnesses and dozens of hours of recorded testimony, the House Jan. 6 committee has focused its case squarely on former President Donald Trump.
 
-The committee has disclosed stunning evidence about the Capitol insurrection over six weeks of hearings, laying out in vivid detail what it calls an "attempted coup" by Trump as he desperately sought to overturn Democrat Joe Biden's victory in the 2020 election. Culling material from more than 1,000 witnesses, lawmakers have shown that officials inside the government fought Trump's schemes at every turn, calling them "nuts" and "unhinged."
+The committee has disclosed stunning evidence about the Capitol [insurrection](/insurrection.html) over six weeks of hearings, laying out in vivid detail what it calls an "attempted coup" by Trump as he desperately sought to overturn Democrat Joe Biden's victory in the 2020 election. Culling material from more than 1,000 witnesses, lawmakers have shown that officials inside the government fought Trump's schemes at every turn, calling them "nuts" and "unhinged."
 
 From jaw-dropping testimony to shocking video and never-before-seen documents, revelations came fast during the tightly scripted hearings.
 
@@ -17,13 +17,13 @@ The moments that stood out:
 
 The first hearing, aired in prime time and watched by more than 20 million viewers, set the stage for the next seven.
 
-It laid out the conclusion that the panel would come back to in every hearing: that Trump conspired to overturn his own defeat, taking actions that sparked the violent insurrection at the Capitol on Jan. 6, 2021, when hundreds of his supporters beat police and broke through windows and doors to interrupt the certification of Biden's victory.
+It laid out the conclusion that the panel would come back to in every hearing: that Trump conspired to overturn his own defeat, taking actions that sparked the violent [insurrection](/insurrection.html) at the Capitol on Jan. 6, 2021, when hundreds of his supporters beat police and broke through windows and doors to interrupt the certification of Biden's victory.
 
 "January 6th was the culmination of an attempted coup, a brazen attempt, as one rioter put it shortly after January 6th, to overthrow the government," said the committee chairman, Rep. Bennie Thompson, D-Miss. "The violence was no accident. It represents seeing Trump's last stand, most desperate chance to halt the transfer of power."
 
 **'Carnage' at the Capitol**
 
-Capitol Police Officer Caroline Edwards, one of two witnesses at the first hearing, described what she saw outside the Capitol on Jan. 6 as a "war scene." As some Republicans, including Trump, have tried to play down the violence of the insurrection, calling it "peaceful," Edwards recalled the brutality she experienced on the front lines. She suffered a traumatic head injury that day as some of the first protesters barreled through the flimsy bike rack barriers that she and other officers were trying to hold.
+Capitol Police Officer Caroline Edwards, one of two witnesses at the first hearing, described what she saw outside the Capitol on Jan. 6 as a "war scene." As some Republicans, including Trump, have tried to play down the violence of the [insurrection](/insurrection.html), calling it "peaceful," Edwards recalled the brutality she experienced on the front lines. She suffered a traumatic head injury that day as some of the first protesters barreled through the flimsy bike rack barriers that she and other officers were trying to hold.
 
 "I couldn't believe my eyes," Edwards testified. "There were officers on the ground. You know, they were bleeding. They were throwing up. ... It was carnage. It was chaos."
 

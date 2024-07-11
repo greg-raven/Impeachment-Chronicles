@@ -11,7 +11,7 @@ tags:
 
 WASHINGTON (AP) --- President Joe Biden is ordering the release of Trump White House visitor logs to the House committee investigating the riot of Jan. 6, 2021, once more rejecting former President Donald Trump's claims of executive privilege.
 
-The committee has sought a trove of data from the National Archives, including presidential records that Trump had fought to keep private. The records being released to Congress are visitor logs showing appointment information for individuals who were allowed to enter the White House on the the day of the insurrection.
+The committee has sought a trove of data from the National Archives, including presidential records that Trump had fought to keep private. The records being released to Congress are visitor logs showing appointment information for individuals who were allowed to enter the White House on the the day of the [insurrection](/insurrection.html).
 
 In a letter sent Monday to the National Archives, White House counsel Dana Remus said Biden had considered Trump's claim that because he was president at the time of the attack on the U.S. Capitol, the records should remain private, but decided that it was "not in the best interest of the United States" to do so.
 

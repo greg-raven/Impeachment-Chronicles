@@ -21,7 +21,7 @@ The political/media establishment has been rolling out, without evidence, the co
 
 "If they stick to that type of message, which is the theory of the case, the facts of the matter of what happened, and they get a little help...taking that message all around the country, letting the race be dictated on those terms, I think that is a winning message," Amandi continued.
 
-"Let me talk about the help, though, because it's one thing to try to disqualify a Republican Party that no longer believes in democracy, but you need a little bit of help. If the Department of Justice and the Attorney General Merrick Garland do not start issuing indictments, not to the front-line Proud Boys and picnickers on January 6th that led an insurrection, but to the perpetrators of the crime, the members of Congress who we now know through text messages were plotters, the ringleaders at the top echelon of the Republican Party, up and to and including the Republican President Donald Trump, voters are not going to believe that --- they're gonna just think it's just political back and forth.
+"Let me talk about the help, though, because it's one thing to try to disqualify a Republican Party that no longer believes in democracy, but you need a little bit of help. If the Department of Justice and the Attorney General Merrick Garland do not start issuing indictments, not to the front-line Proud Boys and picnickers on January 6th that led an [insurrection](/insurrection.html), but to the perpetrators of the crime, the members of Congress who we now know through text messages were plotters, the ringleaders at the top echelon of the Republican Party, up and to and including the Republican President Donald Trump, voters are not going to believe that --- they're gonna just think it's just political back and forth.
 
 "The Justice Department needs to hold the perpetrators accountable. The Democrats need to tell the truth. We saved your life, we saved your job, we're trying now to save the economy, and to save democracy," he concluded.
 
@@ -29,7 +29,7 @@ Given how every agency under the Biden administration has adopted a radical left
 
 There has already been an attempt by the left to kick some Republican lawmakers, such as U.S. Rep. Marjorie Taylor Greene of Georgia, off the ballot pursuant to Section 3 of the 14th Amendment.
 
-Coincidentally or not, HBO "Real Time" host Bill Maher has also complained about the lack of federal indictments for the so-called insurrection, although he also admitted that voters are more concerned with issues such as immigration and inflation.
+Coincidentally or not, HBO "Real Time" host Bill Maher has also complained about the lack of federal indictments for the so-called [insurrection](/insurrection.html), although he also admitted that voters are more concerned with issues such as immigration and inflation.
 
 According to the Associated Press, however, "More than 200 people have pleaded guilty and more than 80 have already been sentenced," as of mid-February, for J6-realted offenses. Many were charged, however, with trespass-related crimes.
 

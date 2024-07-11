@@ -10,7 +10,7 @@ tags:
 - Nomaan Merchant
 ---
 
-WASHINGTON (AP) --- Attorney General Merrick Garland named a special counsel on Friday to oversee the Justice Department's investigation into the presence of classified documents at former President Donald Trump's Florida estate as well as key aspects of a separate probe involving the Jan. 6, 2021, insurrection and efforts to undo the 2020 election.
+WASHINGTON (AP) --- Attorney General Merrick Garland named a special counsel on Friday to oversee the Justice Department's investigation into the presence of classified documents at former President Donald Trump's Florida estate as well as key aspects of a separate probe involving the Jan. 6, 2021, [insurrection](/insurrection.html) and efforts to undo the 2020 election.
 
 The appointment of veteran prosecutor Jack Smith, announced just three days after Trump formally launched his 2024 candidacy, is a recognition of the unmistakable political implications of two investigations that involve not only a former president but also a current White House hopeful. It installs a new chain of command over sensitive probes seen as likely to accelerate now that the midterm elections have concluded, with Garland citing Trump's entry into the race and President Joe Biden's stated intention to run again as reasons for Smith's sudden appointment.
 

@@ -7,7 +7,7 @@ tags:
 
 It's Robert De Niro.
 
-I still can't believe Donald Trump got elected president. Four years of sucking up to tyrants, supporting racists, ending Roe v. Wade, lying about the election when he lost, and calling for insurrection to stop the peaceful transfer of power.
+I still can't believe Donald Trump got elected president. Four years of sucking up to tyrants, supporting racists, ending Roe v. Wade, lying about the election when he lost, and calling for [insurrection](/insurrection.html) to stop the peaceful transfer of power.
 
 Thank God Joe Biden defeated him and restored decency, compassion, and honest, intelligent leadership to the presidency.
 

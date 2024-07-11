@@ -29,7 +29,7 @@ Harry Dunn, a former U.S. Capitol Police officer who also testified before the s
 
 The Trump campaign did not respond directly to questions about whether Trump intends to pursue arrests of the Jan. 6 committee members.
 
-"Joe Biden, Nancy Pelosi, Liz Cheney, and the Corrupt Democrats on the sham January 6th Committee have lied to the American public for years, denied key witnesses from testifying to the truth, and covered up evidence that proved President Trump, nor any of his supporters, ever engaged in an alleged 'insurrection.' Their entire narrative is a lie and Americas know that Joe Biden is the true threat to democracy," a Trump spokeswoman said in a statement to CBS News.
+"Joe Biden, Nancy Pelosi, Liz Cheney, and the Corrupt Democrats on the sham January 6th Committee have lied to the American public for years, denied key witnesses from testifying to the truth, and covered up evidence that proved President Trump, nor any of his supporters, ever engaged in an alleged '[insurrection](/insurrection.html).' Their entire narrative is a lie and Americas know that Joe Biden is the true threat to democracy," a Trump spokeswoman said in a statement to CBS News.
 
 Trump's March 18 social media post prompted criticism from scholars who study the rhetoric and practices of authoritarian regimes.
 
@@ -39,7 +39,7 @@ Frantz said when political figures talk about jailing some critics, it can have 
 
 "It's intended to invoke fear among them and deter them from speaking out against Trump," she said. "The more that critics are silenced, the more leaders with authoritarian ambitions are able to get away with their power grab."
 
-The select committee executed a high-profile investigation of Trump that included a series of nationally televised public hearings. The committee spoke with hundreds of witnesses, including Trump's top White House aides, as it reviewed his efforts to overturn the results of the 2020 election. The committee voted to refer criminal charges to the Justice Department for Trump and accused him of threatening the future of democracy and inciting the violent Jan. 6 insurrection at the Capitol.
+The select committee executed a high-profile investigation of Trump that included a series of nationally televised public hearings. The committee spoke with hundreds of witnesses, including Trump's top White House aides, as it reviewed his efforts to overturn the results of the 2020 election. The committee voted to refer criminal charges to the Justice Department for Trump and accused him of threatening the future of democracy and inciting the violent Jan. 6 [insurrection](/insurrection.html) at the Capitol.
 
 The committee was disbanded in late 2022, after Republicans won control of the House. Two of its members lost their campaigns for reelection, including Cheney. Two others retired from the House.
 

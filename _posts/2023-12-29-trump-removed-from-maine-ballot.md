@@ -13,9 +13,9 @@ The decision makes Maine the second state to disqualify Trump from office, after
 
 Bellows, a Democrat, issued the decision Thursday after presiding over an administrative hearing earlier this month about Trump's eligibility for office. A bipartisan group of former state lawmakers filed the challenge against Trump.
 
-"I do not reach this conclusion lightly," Bellows wrote. "Democracy is sacred ... I am mindful that no Secretary of State has ever deprived a presidential candidate of ballot access based on Section Three of the Fourteenth Amendment. I am also mindful, however, that no presidential candidate has ever before engaged in insurrection."
+"I do not reach this conclusion lightly," Bellows wrote. "Democracy is sacred ... I am mindful that no Secretary of State has ever deprived a presidential candidate of ballot access based on Section Three of the Fourteenth Amendment. I am also mindful, however, that no presidential candidate has ever before engaged in [insurrection](/insurrection.html)."
 
-Ratified after the Civil War, the 14th Amendment says American officials who "engage in" insurrection can't hold future office. But the provision is vague and doesn't say how the ban should be enforced.
+Ratified after the Civil War, the 14th Amendment says American officials who "engage in" [insurrection](/insurrection.html) can't hold future office. But the provision is vague and doesn't say how the ban should be enforced.
 
 Most legal experts believe the US Supreme Court will settle the issue for the entire country.
 
@@ -29,7 +29,7 @@ In her decision, Bellows concluded that she has a legal obligation to adhere to 
 
 "The oath I swore to uphold the Constitution comes first above all, and my duty under Maine's election laws ... is to ensure that candidates who appear on the primary ballot are qualified for the office they seek," she said.
 
-Explaining her reasoning, Bellows wrote that the challengers presented compelling evidence that the January 6 insurrection "occurred at the behest of" Trump --- and that the US Constitution "does not tolerate an assault on the foundations of our government."
+Explaining her reasoning, Bellows wrote that the challengers presented compelling evidence that the January 6 [insurrection](/insurrection.html) "occurred at the behest of" Trump --- and that the US Constitution "does not tolerate an assault on the foundations of our government."
 
 "The record establishes that Mr. Trump, over the course of several months and culminating on January 6, 2021, used a false narrative of election fraud to inflame his supporters and direct them to the Capitol to prevent certification of the 2020 election and the peaceful transfer of power," Bellows wrote. "I likewise conclude that Mr. Trump was aware of the likelihood for violence and at least initially supported its use given he both encouraged it with incendiary rhetoric and took no timely action to stop it."
 

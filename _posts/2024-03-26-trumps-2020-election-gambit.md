@@ -12,7 +12,7 @@ Philbin, who testified for about two hours on Tuesday, described Clark as wildly
 
 "I believe that he felt that he essentially had a duty," Philbin said. "I think Jeff's view was that there was a real crisis in the country and that he was being given an opportunity to do something about it."
 
-When Philbin warned Clark that there would be riots in every major American city if Trump reversed the outcome of the election, Clark responded, "Well, Pat, that's what the Insurrection Act is for," Philbin recalled.
+When Philbin warned Clark that there would be riots in every major American city if Trump reversed the outcome of the election, Clark responded, "Well, Pat, that's what the [Insurrection](/insurrection.html) Act is for," Philbin recalled.
 
 Clark, in Philbin's telling, was referring to a 19th-century federal law that permits the president to use the military to quell civil unrest, an indication that he recognized the grave implications of his efforts. Though it was Philbin's first time publicly discussing the exchange, the conversation was captured in special counsel Jack Smith's indictment of Trump --- without naming either Philbin or Clark, though the identities of both speakers were easily discerned. On Tuesday, Philbin was asked to elaborate on this discussion.
 

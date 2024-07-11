@@ -11,7 +11,7 @@ WASHINGTON --- President Biden said on Friday that he would bar his predecessor,
 
 The move was the first time that a former president had been cut out of the briefings, which are provided partly as a courtesy and partly for the moments when a sitting president reaches out for advice. Currently, the briefings are offered on a regular basis to Jimmy Carter, Bill Clinton, George W. Bush and Barack Obama.
 
-Mr. Biden, speaking to Norah O'Donnell of CBS News, said Mr. Trump's behavior worried him "unrelated to the insurrection" that gave rise to the second impeachment of Mr. Trump.
+Mr. Biden, speaking to Norah O'Donnell of CBS News, said Mr. Trump's behavior worried him "unrelated to the [insurrection](/insurrection.html)" that gave rise to the second impeachment of Mr. Trump.
 
  "I just think that there is no need for him to have the intelligence briefings," Mr. Biden said.
 

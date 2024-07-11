@@ -27,7 +27,7 @@ You can see his [posts here]({% post_url 2024-07-01-trump-will-end-america %}).
 
 Snyder has issued a warning for years about the threats Trump poses to the country and in 2021 said that Trump's claims the 2020 election was stolen had relied on “personal charisma and signals to his followers and a few people in the Justice Department and hope.”
 
-At the time, he noted that a Trump 2024 campaign would have “institutional machinery” behind him, warning that the January 6 insurrection was merely a "trial run" for a successful coup attempt:
+At the time, he noted that a Trump 2024 campaign would have “institutional machinery” behind him, warning that the January 6 [insurrection](/insurrection.html) was merely a "trial run" for a successful coup attempt:
 
 > What we know historically is that a failed coup is a trial run for a successful coup. Usually, when you fail in a coup, something happens to you --- and Mr. Trump, nothing has happened to him.
 

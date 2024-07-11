@@ -23,7 +23,7 @@ Almost every Democrat in the House has expressed support for the impeachment res
 
 Yet the number of Republicans is likely to be very small. Moderates like New York's Tom Reed have come out against impeachment, favoring a censure resolution instead.
 
-The four-page impeachment resolution includes a single article accusing Trump of high crimes and misdemeanors for "Incitement of Insurrection," and says he "willfully made statements that, in context, encouraged --- and foreseeably resulted in --- lawless action at the Capitol." It also cites Trump's telephone call to Georgia's secretary of state, Brad Raffensperger, urging that he "find" enough votes to overturn Biden's win there.
+The four-page impeachment resolution includes a single article accusing Trump of high crimes and misdemeanors for "Incitement of [Insurrection](/insurrection.html)," and says he "willfully made statements that, in context, encouraged --- and foreseeably resulted in --- lawless action at the Capitol." It also cites Trump's telephone call to Georgia's secretary of state, Brad Raffensperger, urging that he "find" enough votes to overturn Biden's win there.
 
 "In all this, President Trump gravely endangered the security of the United States and its institutions of government," the resolution says.
 

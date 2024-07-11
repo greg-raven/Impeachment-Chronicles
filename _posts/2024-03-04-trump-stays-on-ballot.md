@@ -5,13 +5,13 @@ tags:
 - David G. Savage
 ---
 
-The Supreme Court ruled Monday that former President Trump may not be disqualified from appearing on state ballots despite allegations he "engaged in insurrection" after losing the 2020 election and thereby should be barred under the Constitution from holding office.
+The Supreme Court ruled Monday that former President Trump may not be disqualified from appearing on state ballots despite allegations he "engaged in [insurrection](/insurrection.html)" after losing the 2020 election and thereby should be barred under the Constitution from holding office.
 
 Reversing a ruling by Colorado judges, the high court said states do not have the authority to interpret the post-Civil War 14th Amendment or use it to remove from the state ballot a presidential candidate.
 
 It was an unsigned, unanimous decision.
 
-In December, the Colorado Supreme Court decided that Trump was disqualified from running for president because he violated Section 3 of the 14th Amendment. It says no person may "hold any office, civil or military" who took an oath to support the Constitution and then engaged in "insurrection or rebellion" against the United States.
+In December, the Colorado Supreme Court decided that Trump was disqualified from running for president because he violated Section 3 of the 14th Amendment. It says no person may "hold any office, civil or military" who took an oath to support the Constitution and then engaged in "[insurrection](/insurrection.html) or rebellion" against the United States.
 
 Legal scholars and historians told the court in friend-of-the-court briefs that the Reconstruction Congress sought to prevent "insurrectionists" from gaining power and subverting American democracy.
 

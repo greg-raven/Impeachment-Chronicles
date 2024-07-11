@@ -33,7 +33,7 @@ The lawmaker noted that the anger that sparked the Capitol breach was, in part, 
 
 Trump told the crowd beforehand that their protest suggests "the kind of pride and boldness that they need to take back our country" and "let us walk down Pennsylvania Avenue." The president didn't tell the protesters to breach the Capitol or commit acts of violence and later condemned the violence that did occur. Trump told the protesters to "peacefully and patriotically make your voices be heard."
 
-Also on Jan. 11, House Democrats introduced an article of impeachment and charged the president with "incitement of insurrection."
+Also on Jan. 11, House Democrats introduced an article of impeachment and charged the president with "incitement of [insurrection](/insurrection.html)."
 
 "He also willfully made statements that, in context, encouraged --- and foreseeably resulted in --- lawless action at the Capitol," the resolution stated, adding that "members of the crowd he had addressed, in an attempt to, among other objectives, interfere with the Joint Session's solemn constitutional duty to certify the results of the 2020 Presidential election, unlawfully breached and vandalized the Capitol, injured and killed law enforcement personnel, menaced Members of Congress, the Vice President, and Congressional personnel, and engaged in other violent, deadly, destructive, and seditious acts."
 

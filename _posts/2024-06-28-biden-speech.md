@@ -37,9 +37,9 @@ Well, the time for that --- .
 
 Look, the thing that bothers me maybe most about him: He has no respect for women or the law. He doesn't.
 
-And then, his biggest lie. He lied about how he had nothing to do with the insurrection on January the 6th.
+And then, his biggest lie. He lied about how he had nothing to do with the [insurrection](/insurrection.html) on January the 6th.
 
-We all saw with our own eyes. We watched it on television. We saw thousands of insurrection attack the Capitol. We saw police being attacked, the Capitol being ransacked, the mob hunting for Speaker Pelosi, gallows literally set up for Mike Pence. And then, he told them as he sat in the dining room --- the one di- --- one --- the private dining one door off my Oval Office. He sat there for three hours watching the TV. He did not a single thing to stop it --- nothing, nothing at all.
+We all saw with our own eyes. We watched it on television. We saw thousands of [insurrection](/insurrection.html) attack the Capitol. We saw police being attacked, the Capitol being ransacked, the mob hunting for Speaker Pelosi, gallows literally set up for Mike Pence. And then, he told them as he sat in the dining room --- the one di- --- one --- the private dining one door off my Oval Office. He sat there for three hours watching the TV. He did not a single thing to stop it --- nothing, nothing at all.
 
 And now —
 

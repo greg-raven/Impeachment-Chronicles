@@ -5,13 +5,13 @@ tags:
 - Ivan Pentchoukov
 ---
 
-Democrats in the House of Representatives, joined by ten Republicans, voted to impeach President Donald Trump for a second time, in a 232–197 vote on Jan. 13. The single article of impeachment alleges that the president incited an insurrection that resulted in the breach of the U.S. Capitol on Jan. 6.
+Democrats in the House of Representatives, joined by ten Republicans, voted to impeach President Donald Trump for a second time, in a 232–197 vote on Jan. 13. The single article of impeachment alleges that the president incited an [insurrection](/insurrection.html) that resulted in the breach of the U.S. Capitol on Jan. 6.
 
 The impeachment, accomplished in a single seven-hour session, was the fastest in U.S. history. It is also the first time in the nation's history that a president was impeached twice.
 
 Republicans criticized the rush, arguing that it offered no due process to the president and no confidence in the proceedings to the American people. Democrats justified the truncated process by alleging that Trump poses a danger to the nation every day he is in office.
 
-"We know that the president of the United States incited this insurrection, this armed rebellion, against our common country," House Speaker Nancy Pelosi (D-Calif.) alleged. "He must go. He is a clear and present danger to the nation that we all love."
+"We know that the president of the United States incited this [insurrection](/insurrection.html), this armed rebellion, against our common country," House Speaker Nancy Pelosi (D-Calif.) alleged. "He must go. He is a clear and present danger to the nation that we all love."
 
 Every Democrat voted in favor of impeachment.
 

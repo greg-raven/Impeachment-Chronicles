@@ -16,7 +16,7 @@ But in a letter to fellow Democrats, the Speaker vowed to bring a vote on impeac
 
 The timing of the impeachment vote remains unclear.
 
-Pelosi, who was personally targeted by some members of the pro-Trump mob in Wednesday's insurrection, laid out the Democrats' strategy for the days ahead.
+Pelosi, who was personally targeted by some members of the pro-Trump mob in Wednesday's [insurrection](/insurrection.html), laid out the Democrats' strategy for the days ahead.
 
 On Monday, they will try to adopt Maryland Democratic Rep. Jamie Raskin's 25th Amendment resolution by unanimous consent --- a gambit sure to be blocked by Trump's conservative allies.
 

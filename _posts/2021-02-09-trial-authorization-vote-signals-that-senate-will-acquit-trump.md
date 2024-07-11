@@ -21,7 +21,7 @@ Sen. Mike Braun (R-Ind.) said the Tuesday vote was a predictor for the ultimate 
 
 Tuesday's vote mirrors one cast last month when 45 Republicans voted to declare the trial unconstitutional.
 
-House Democrats, joined by 10 Republicans, voted on Jan. 13 to impeach Trump on a single charge of inciting an insurrection, alleging that the president directed the mob which breached the Capitol on Jan. 6.
+House Democrats, joined by 10 Republicans, voted on Jan. 13 to impeach Trump on a single charge of inciting an [insurrection](/insurrection.html), alleging that the president directed the mob which breached the Capitol on Jan. 6.
 
 Trump denies the charges. In a speech given on the day of the Capitol breach, the president told supporters to "peacefully and patriotically" make their voices heard.
 

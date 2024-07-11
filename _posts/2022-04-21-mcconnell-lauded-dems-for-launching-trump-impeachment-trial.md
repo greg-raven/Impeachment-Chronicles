@@ -11,7 +11,7 @@ Following the incident, McConnell was grateful to Democrats for taking action ag
 
 "The Democrats are going to take care of the son of a bitch for us," McConnell purportedly said. "If this isn't impeachable, I don't know what is."
 
-McConnell, who used the media's framing to purvey January 6 as a "violent insurrection," conveyed he would support Trump's impeachment in the Senate. "Several senior Republicans, including John Thune of South Dakota and Rob Portman of Ohio, told confidants that Mr. McConnell was leaning that way," the Times reported.
+McConnell, who used the media's framing to purvey January 6 as a "violent [insurrection](/insurrection.html)," conveyed he would support Trump's impeachment in the Senate. "Several senior Republicans, including John Thune of South Dakota and Rob Portman of Ohio, told confidants that Mr. McConnell was leaning that way," the Times reported.
 
 The articles of impeachment were soon sent to the Senate, where the debate began between the Washington, DC, establishment and conservatives. Defenders of the president maintained the impeachment trial was inappropriate because Trump was no longer president. Biden had already assumed office.
 

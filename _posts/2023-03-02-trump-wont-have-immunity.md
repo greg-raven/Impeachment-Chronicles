@@ -6,7 +6,7 @@ tags:
 - Alanna Durkin Richer
 ---
 
-WASHINGTON (AP) --- Former President Donald Trump can be sued by injured Capitol Police officers and Democratic lawmakers over the Jan. 6, 2021, insurrection at the U.S. Capitol, the Justice Department said Thursday in a federal court case testing Trump's legal vulnerability for his speech before the riot.
+WASHINGTON (AP) --- Former President Donald Trump can be sued by injured Capitol Police officers and Democratic lawmakers over the Jan. 6, 2021, [insurrection](/insurrection.html) at the U.S. Capitol, the Justice Department said Thursday in a federal court case testing Trump's legal vulnerability for his speech before the riot.
 
 The Justice Department told a Washington federal appeals court in a legal filing that it should allow the lawsuits to move forward, rejecting Trump's argument that he is immune from the claims.
 
@@ -36,7 +36,7 @@ One of the lawsuits, filed by Rep. Eric Swalwell, D-Calif., alleges that "Trump 
 
 The House Democrats' lawsuit cites a federal civil rights law that was enacted to counter the Ku Klux Klan's intimidation of officials. The cases describe in detail how Trump and others spread baseless claims of election fraud, both before and after the 2020 presidential election was declared, and charge that they helped to rile up the thousands of rioters before they stormed the Capitol.
 
-The lawsuits seek damages for the physical and emotional injuries the plaintiffs sustained during the insurrection.
+The lawsuits seek damages for the physical and emotional injuries the plaintiffs sustained during the [insurrection](/insurrection.html).
 
 Even if the appeals court agrees that Trump can be sued, those who brought the lawsuit still face an uphill battle. They would need to show there was more than fiery rhetoric, but a direct and intentional call for imminent violence, said Laurie Levenson, a Loyola Law School professor and former federal prosecutor.
 

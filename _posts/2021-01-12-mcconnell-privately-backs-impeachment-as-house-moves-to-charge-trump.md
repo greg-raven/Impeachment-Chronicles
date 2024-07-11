@@ -41,7 +41,7 @@ The White House expected roughly two dozen Republicans to support the charge, ac
 
 Forgoing a lengthy investigation, Democrats released a 76-page report collecting public information about the attack --- including social media posts, news articles and other statements --- and laying out a legal justification for impeachment.
 
-"It is true that the president's remaining term is limited --- but a president capable of fomenting a violent insurrection in the Capitol is capable of greater dangers still," they wrote. "He must be removed from office as swiftly as the Constitution allows. He must also be disqualified to prevent the recurrence of the extraordinary threat he presents."
+"It is true that the president's remaining term is limited --- but a president capable of fomenting a violent [insurrection](/insurrection.html) in the Capitol is capable of greater dangers still," they wrote. "He must be removed from office as swiftly as the Constitution allows. He must also be disqualified to prevent the recurrence of the extraordinary threat he presents."
 
 In the clearest sign to date that Ms. Pelosi plans to press the case to trial just as quickly as she brought it, she named nine Democrats as "managers" to serve as prosecutors in the Senate. Representative Jamie Raskin, Democrat of Maryland, will be the lead manager, she said. He will be joined by Representatives Diana DeGette of Colorado, David Cicilline of Rhode Island, Joaquin Castro of Texas, Eric Swalwell of California, Ted Lieu of California, Stacey Plaskett of the Virgin Islands, Joe Neguse of Colorado and Madeleine Dean of Pennsylvania.
 
@@ -49,7 +49,7 @@ Mr. McConnell has indicated he wants to see the specific article of impeachment 
 
 David Popp, a spokesman for Mr. McConnell, declined to comment on Tuesday, instead pointing a reporter to a speech the Kentucky Republican made when he returned to the Senate floor after Wednesday's siege.
 
-"This failed attempt to obstruct the Congress, this failed insurrection, only underscores how crucial the task before us is for our republic," Mr. McConnell said as the Senate reconvened to complete the electoral count disrupted by the mob. "Our nation was founded precisely so that the free choice of the American people is what shapes our self-government and determines the destiny of our nation."
+"This failed attempt to obstruct the Congress, this failed [insurrection](/insurrection.html), only underscores how crucial the task before us is for our republic," Mr. McConnell said as the Senate reconvened to complete the electoral count disrupted by the mob. "Our nation was founded precisely so that the free choice of the American people is what shapes our self-government and determines the destiny of our nation."
 
 On Monday, Mr. Biden telephoned Mr. McConnell to ask whether it would be possible to set up a dual track that would allow the Senate to confirm Mr. Biden's cabinet nominees and hold a Senate trial at the same time, according to officials briefed on the conversation who disclosed it on the condition of anonymity. Far from avoiding the topic of impeaching Mr. Trump, Mr. McConnell said it was a question for the Senate parliamentarian, and promised Mr. Biden a quick answer.
 

@@ -27,7 +27,7 @@ But Romney on Sunday threw cold water on both arguments, telling CNN that it's "
 
 When asked during a news conference last week whether she worried prosecuting Trump would alienate his supporters, Pelosi said no.
 
-"The fact is, the president of the United States committed an act of incitement of insurrection," Pelosi said during the news conference at the Capitol. "I don't think it's very unifying to say, 'Let's just forget it and move on.'"
+"The fact is, the president of the United States committed an act of incitement of [insurrection](/insurrection.html)," Pelosi said during the news conference at the Capitol. "I don't think it's very unifying to say, 'Let's just forget it and move on.'"
 
 She added: "Just because he's gone now --- thank God --- you don't say to a president, 'Do whatever you want in the last months of your administration, you're going to get a get out of jail card free,' because people think we should make nice-nice and forget that people died here on Jan. 6, that the attempt to undermine our election, to undermine our democracy, to dishonor our Constitution ... I think that would be harmful to unity."
 

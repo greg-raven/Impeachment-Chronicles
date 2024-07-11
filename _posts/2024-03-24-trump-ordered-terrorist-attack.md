@@ -9,7 +9,7 @@ Rep. Alexandria Ocasio-Cortez (D-N.Y.) said Sunday that the January 6, 2021 Capi
 
 Many claims have been made about Trump and the events on the day certifying the 2020 presidential election, but Rep. AOC saying the former president directed a terrorist attack against the U.S. government is a lofty claim.
 
-Trump has not been formally charged with insurrection despite multiple cases and investigations against him claiming he incited the riots at the U.S. Capitol. There are two ongoing lawsuits related to Trump's election fraud claims --- one from the Department of Justice and one in Fulton County, Georgia.
+Trump has not been formally charged with [insurrection](/insurrection.html) despite multiple cases and investigations against him claiming he incited the riots at the U.S. Capitol. There are two ongoing lawsuits related to Trump's election fraud claims --- one from the Department of Justice and one in Fulton County, Georgia.
 
 \[...\]
 

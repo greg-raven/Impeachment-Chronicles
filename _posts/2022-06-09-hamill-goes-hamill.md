@@ -5,7 +5,7 @@ tags:
 - Spencer Baculi
 ---
 
-Star Wars franchise star Mark Hamill has once again espoused his belief that former U.S. President Donald Trump incited both a "violent insurrection" and a "coup" on the day at the center of the upcoming January 6th Committee hearings.
+Star Wars franchise star Mark Hamill has once again espoused his belief that former U.S. President Donald Trump incited both a "violent [insurrection](/insurrection.html)" and a "coup" on the day at the center of the upcoming January 6th Committee hearings.
 
 \[...\]
 

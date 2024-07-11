@@ -7,9 +7,9 @@ tags:
 
 With the result of the second impeachment charade a forgone conclusion in Washington, let us now turn to the final partisan tool remaining in Democrats' torture closet: The 14th Amendment.
 
-This amendment allows Congress to banish from future federal office any current or former politician deemed by congress to have "engaged in insurrection." Its adoption after the Civil War was designed to prevent officers or political leaders of the Confederate regime from being elected to Congress or the presidency.
+This amendment allows Congress to banish from future federal office any current or former politician deemed by congress to have "engaged in [insurrection](/insurrection.html)." Its adoption after the Civil War was designed to prevent officers or political leaders of the Confederate regime from being elected to Congress or the presidency.
 
-In a normal world, it would be impossible for Congress to punish a man for engaging in "insurrection" after Congress had just acquitted the same man of engaging in the same insurrection. Or, as Senate Majority Leader Chuck Schumer recently called it on the Senate floor, "inciting the erection."
+In a normal world, it would be impossible for Congress to punish a man for engaging in "[insurrection](/insurrection.html)" after Congress had just acquitted the same man of engaging in the same [insurrection](/insurrection.html). Or, as Senate Majority Leader Chuck Schumer recently called it on the Senate floor, "inciting the erection."
 
 But this is Washington and the man in question is former President Donald Trump, whose Latin name is Swampus Horribilis.
 
@@ -35,7 +35,7 @@ One small problem with their precious 14th Amendment is that it did not recogniz
 
 The other really great thing about the 14th Amendment is that it includes a way out for Congress.
 
-While the amendment allows Congress to cancel anyone who has "engaged in insurrection or rebellion," it also gives Congress the power to un-cancel anyone as they see fit. Congress "may, by a vote of two-thirds of each house, remove such disability," according to the amendment.
+While the amendment allows Congress to cancel anyone who has "engaged in [insurrection](/insurrection.html) or rebellion," it also gives Congress the power to un-cancel anyone as they see fit. Congress "may, by a vote of two-thirds of each house, remove such disability," according to the amendment.
 
 You see, some insurrections are worse than others.
 
@@ -43,6 +43,6 @@ Take Jefferson Davis and Robert E. Lee, the two most influential leaders of the 
 
 Then-Sen. Joseph R. Biden, Delaware Democrat, voted to absolve both men.
 
-Because, after all, that wasn't really an insurrection. I mean, not like this one.
+Because, after all, that wasn't really an [insurrection](/insurrection.html). I mean, not like this one.
 
 Source: Charles Hurt, breitbart.com/politics/2021/02/13/charles-hurt-after-impeachment-farce-ends-next-comes-14th-amendment/

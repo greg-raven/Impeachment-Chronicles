@@ -11,7 +11,7 @@ All but five GOP senators sided with an effort proposed by Sen. Rand Paul (R-Ky.
 
 Republican Sens. Mitt Romney (Utah), Ben Sasse (Neb.), Susan Collins (Maine), Lisa Murkowski (Alaska), and Pat Toomey (Pa.) voted with Democrats to reject Paul's order, suggesting the five senators will vote to convict Trump. Romney was the only Republican senator to vote to convict Trump during his first impeachment trial in early 2020.
 
-The Senate ultimately voted 55–45 to table Paul's point of order, meaning that the impeachment trial will go forward. The House voted to impeach Trump earlier this month on the sole impeachment charge of "incitement of insurrection," with Democrats claiming he incited violence at the U.S. Capitol earlier this month. Trump called on the protesters not to engage in violent acts and later told them to "go home in peace."
+The Senate ultimately voted 55–45 to table Paul's point of order, meaning that the impeachment trial will go forward. The House voted to impeach Trump earlier this month on the sole impeachment charge of "incitement of [insurrection](/insurrection.html)," with Democrats claiming he incited violence at the U.S. Capitol earlier this month. Trump called on the protesters not to engage in violent acts and later told them to "go home in peace."
 
 Trump is the first president to be impeached twice, and the first president to undergo an impeachment trial after leaving office.
 

@@ -26,7 +26,7 @@ The single article charges Trump with "willfully inciting violence against the g
 
 The trial phase puts Senate Republicans in a jam, forced to choose between defending their party's standard-bearer or sending a message to future presidents that encouraging mobs to nullify state-certified elections won't go unpunished. Adding to the pressure on GOP senators has been the long list of Republican figures outside Congress voicing outrage at Trump's actions.
 
-"What we had was an incitement to riot at the United States Capitol. We had people killed, and to me there's not a whole lot of question here," former New Jersey Gov. Chris Christie, one of Trump's earliest GOP backers, said just after the riot. "If inciting to insurrection isn't [impeachable], I don't really know what it is."
+"What we had was an incitement to riot at the United States Capitol. We had people killed, and to me there's not a whole lot of question here," former New Jersey Gov. Chris Christie, one of Trump's earliest GOP backers, said just after the riot. "If inciting to [insurrection](/insurrection.html) isn't [impeachable], I don't really know what it is."
 
 Still, the former president retains enormous sway over base voters in the GOP, the majority of whom blame Biden for the Capitol siege.
 
@@ -36,7 +36,7 @@ And Senate Republicans are already lining up against Trump's conviction. Some ma
 
 Those arguments have been roundly rejected by Democrats, who say Trump committed crimes of sedition on live TV and must face the consequences. While he is no longer in office, they're fighting for a Senate conviction to bar him from running again.
 
-"We must not give Donald Trump a pass for inciting a deadly insurrection on our Capitol just a few weeks ago," House Judiciary Committee Chairman Jerry Nadler (D-N.Y.), a key figure in Trump's first impeachment, said Monday. "He must be held accountable."
+"We must not give Donald Trump a pass for inciting a deadly [insurrection](/insurrection.html) on our Capitol just a few weeks ago," House Judiciary Committee Chairman Jerry Nadler (D-N.Y.), a key figure in Trump's first impeachment, said Monday. "He must be held accountable."
 
 Unlike Trump's last impeachment, where Supreme Court Chief Justice John Roberts presided, Sen. Patrick Leahy (D-Vt.), the Senate pro tempore and a frequent Trump critic, will be presiding over this trial. But Leahy pushed back on any suggestion he would tip the scale in favor of the prosecuting Democrats.
 
@@ -46,7 +46,7 @@ The formal transmission of the article came near the close of a hectic and histo
 
 Five people died in the Capitol attack, including Capitol Police officer Brian Sicknick. And scores of officers from both the Capitol Police and the D.C. Metropolitan Police forces were injured.
 
-During Monday's solemn ceremony, acting Sergeant-at-Arms Timothy Blodgett and Clerk of the House Cheryl Johnson led the procession of the nine impeachment managers through some of the same ornate, historical spaces the rioters had poured into during the Jan. 6 insurrection.
+During Monday's solemn ceremony, acting Sergeant-at-Arms Timothy Blodgett and Clerk of the House Cheryl Johnson led the procession of the nine impeachment managers through some of the same ornate, historical spaces the rioters had poured into during the Jan. 6 [insurrection](/insurrection.html).
 
 The managers, all wearing matching black masks, passed through Statuary Hall, the old House chamber; walked past the Speaker's Office, where some rioters had ripped Speaker Nancy Pelosi's (D-Calif.) nameplate off the wall; through the majestic Rotunda, where assailants engaged in hand-to-hand combat with police; and finally to the doors of the Senate chamber, which rioters breached in their failed quest to overturn the election.
 
@@ -62,6 +62,6 @@ More formalities will follow Tuesday, when all 100 senators will be sworn in as 
 
 It's highly unlikely that enough Republicans will join Democrats to meet the threshold for conviction, which requires two-thirds of the Senate. But Democratic leaders are hellbent on ensuring that senators are forced to pick a side, if only for the historical record.
 
-"There is only one question at stake --- only one question that Senators of both parties will have to answer, before God and their own conscience: Is former President Trump guilty of inciting an insurrection against the United States?" Schumer said.
+"There is only one question at stake --- only one question that Senators of both parties will have to answer, before God and their own conscience: Is former President Trump guilty of inciting an [insurrection](/insurrection.html) against the United States?" Schumer said.
 
 Source: Mike Lillis and Scott Wong, thehill.com/homenews/house/535749-house-formally-sends-impeachment-to-senate-putting-trump-on-trial-for-capitol
