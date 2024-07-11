@@ -73,6 +73,6 @@ By undermining the President who they are supposed to be serving, elements of th
 
 This spectacle is doing great damage to our country. It's nothing more than an impeachment process in search of a crime.
 
-<div class="embed-responsive embed-responsive-16by9"><video class="embed-responsive-item" controls src="https://www.glockspiel.com/impeach45/2019-11-13-nunes-v-schiff.mp4" poster="https://www.glockspiel.com/impeach45/2019-11-13-nunes-v-schiff.jpg"></video><br></div>
+<div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 1em;"><video class="embed-responsive-item" controls src="https://www.glockspiel.com/impeach45/2019-11-13-nunes-v-schiff.mp4" poster="https://www.glockspiel.com/impeach45/2019-11-13-nunes-v-schiff.jpg"></video><br></div>
 
 Source: Devin Nunes
