@@ -17,6 +17,6 @@ This sort of agenda, Beschloss warned, is "much more the language of Mussolini a
 
 "All I am saying is, anyone who does not understand what this means --- a year from November, we could have lockups, we could have fascists, we could have a dictator," added Beschloss. "That is what all this really means, and what happens between now and then, largely as a result of how people react today trials, is going to determine the fate."
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qW2YDIcVq-0?si=1SEnYiuAT9awAVsh" title="Michael Beschloss tells Ali Velshi Trump plans a presidential dictatorship" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qW2YDIcVq-0?si=1SEnYiuAT9awAVsh" title="Michael Beschloss tells Ali Velshi Trump plans a presidential dictatorship" allowfullscreen></iframe>
 
 Source: Matthew Chapman, rawstory.com/trump-history-dictator/

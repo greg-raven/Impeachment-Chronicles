@@ -27,7 +27,7 @@ So here's a list of all the experts and politicians we can find who've made the 
 
 Last month, Biden compared Trump to German Nazi politician and Reich Minister of Propaganda, Joseph Goebbels:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7kk-BiG0Aes?si=krmW71ZZlhRvubAb" title="Joe Biden compares Donald Trump to Joseph Goebbels" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7kk-BiG0Aes?si=krmW71ZZlhRvubAb" title="Joe Biden compares Donald Trump to Joseph Goebbels" allowfullscreen></iframe>
 
 **2\. Ruth Ben-Ghiat: 'He slowly chipped away at democratic institutions'**
 
@@ -63,7 +63,7 @@ Sanders added:
 
 Bill Clinton compared Donald Trump with foreign dictators and warned about the dangers of his repeated sowing of distrust in the media:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X7flefV8tec?si=5B17IOqY7SEC3aah" title="Bill Clinton lying about Trump and immigration" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X7flefV8tec?si=5B17IOqY7SEC3aah" title="Bill Clinton lying about Trump and immigration" allowfullscreen></iframe>
 
 **6\. Glenn Beck: 'Trump is a dangerous man'**
 
@@ -95,7 +95,7 @@ According to the *Intelligencer,* Trump repeatedly dismissing the legitimacy of 
 
 *Democratic senator*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ex9oWcQWkd0?si=4tmkv03cJOx6DhZ2" title="Elizabeth Warren lying about Trump" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ex9oWcQWkd0?si=4tmkv03cJOx6DhZ2" title="Elizabeth Warren lying about Trump" allowfullscreen></iframe>
 
 **11\. James Clyburn: '\[Trump\] is Mussolini. Putin is Hitler'**
 
@@ -115,7 +115,7 @@ After Donald Trump re-entered the White House since recovering from coronavirus,
 
 Moore's 2018 film *Fahrenheit 11/9* compares Trump's rise in the U.S. to Adolf Hitler:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ry1GLCamQ1U?si=uir6jyJr-5mT5JtV" title="Michael Moore comparing Trump to Hitler" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ry1GLCamQ1U?si=uir6jyJr-5mT5JtV" title="Michael Moore comparing Trump to Hitler" allowfullscreen></iframe>
 
 **14\. Sadiq Khan: 'I'm not talking about Vladimir Putin or Kim Jong-un'**
 
@@ -147,7 +147,7 @@ Speaking about Trump's response to Nancy Pelosi launching impeachment proceeding
 
 Watch his full interview with CNN:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c4MTns3MyxQ?si=P5cfK73bjZEUgpsl" title="Jason Stanley on Trump" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c4MTns3MyxQ?si=P5cfK73bjZEUgpsl" title="Jason Stanley on Trump" allowfullscreen></iframe>
 
 Scary stuff.
 

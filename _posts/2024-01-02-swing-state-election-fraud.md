@@ -395,8 +395,7 @@ voting earlier than Republicans.
 
 23. David Cross, '[Suspected Election Day Fraud in Fulton County](https://rumble.com/vxr5x3-suspected-election-day-fraud-in-fulton-county-november-2020.html),' 2022.
 
-24. Kevin Moncla, '[Fulton County: Massive Last-Minute Order of Over 1M Ballots Discovered](https://www.uncoverdc.com/2021/10/25/fulton-county-massive-last-minute-order-
-of-over-1m-ballots-discovered/),' UnCoverDC, 2021.
+24. Kevin Moncla, '[Fulton County: Massive Last-Minute Order of Over 1M Ballots Discovered](https://www.uncoverdc.com/2021/10/25/fulton-county-massive-last-minute-order-of-over-1m-ballots-discovered/),' UnCoverDC, 2021.
 
 25. See Chapter 16, 'Report on Widespread Fraud in the Georgia 2020 Presidential Election.'
 
@@ -426,15 +425,11 @@ of-over-1m-ballots-discovered/),' UnCoverDC, 2021.
 
 38. Ibid.
 
-39. Wisconsin Election Commission, '[November 3, 2020 Election Data Report](https://www.wispolitics.com/wp-content/uploads/2021/01/D.-November-2020-Election-Data-Report-
-Updated.pdf),' Feb. 3, 2021.
+39. Wisconsin Election Commission, '[November 3, 2020 Election Data Report](https://www.wispolitics.com/wp-content/uploads/2021/01/D.-November-2020-Election-Data-Report-Updated.pdf),' Feb. 3, 2021.
 
-40. Alison Dirr, '[Are drop boxes secure, where are ballots stored and who has access to them? Answers to your questions about voting in Milwaukee](https://www.jsonline.com/
-story/news/politics/elections/2020/10/19/how-milwaukee-ensures-absentee-ballots-voting-machines-
-secured/5937160002/),' Milwaukee Journal Sentinel, 2020.
+40. Alison Dirr, '[Are drop boxes secure, where are ballots stored and who has access to them? Answers to your questions about voting in Milwaukee](https://www.jsonline.com/story/news/politics/elections/2020/10/19/how-milwaukee-ensures-absentee-ballots-voting-machines-secured/5937160002/),' Milwaukee Journal Sentinel, 2020.
 
-41. [Special Report Delivery of Absentee Ballots by Intermediaries to Milwaukee County Area Drop Boxes October 20](https://legis.wisconsin.gov/assembly/22/brandtjen/
-media/m3wnlto0/5-combined-files-for-melodie.pdf) --- November 3, 2020, March 18, 2022.
+41. [Special Report Delivery of Absentee Ballots by Intermediaries to Milwaukee County Area Drop Boxes October 20](https://legis.wisconsin.gov/assembly/22/brandtjen/media/m3wnlto0/5-combined-files-for-melodie.pdf) --- November 3, 2020, March 18, 2022.
 
 42. Ibid.
 
@@ -444,11 +439,9 @@ media/m3wnlto0/5-combined-files-for-melodie.pdf) --- November 3, 2020, March 18,
 
 45. Supreme Court of Wisconsin, [Case no. 2020AP557-OA](https://www.wicourts.gov/sc/opinion/DisplayDocument.pdf?content=pdf&seqNo=315283), 2020.
 
-46. Brendan Cullerton, '[Racine sheriff says he found proof of felonies by Wisconsin Election Commission in 2020](https://www.cbs58.com/news/racine-sheriff-says-he-found-proof-of-felonies-by-
-wisconsin-election-commission-in-2020),' CBS58, 2021.
+46. Brendan Cullerton, '[Racine sheriff says he found proof of felonies by Wisconsin Election Commission in 2020](https://www.cbs58.com/news/racine-sheriff-says-he-found-proof-of-felonies-by-wisconsin-election-commission-in-2020),' CBS58, 2021.
 
-47. Sophie Mann, '[County sheriff in Wisconsin reveals evidence of felony election law violations](https://justthenews.com/politics-policy/elections/wisconsin-county-sheriff-reveals-findings-
-investigation-election-law),' Just the News, 2021.
+47. Sophie Mann, '[County sheriff in Wisconsin reveals evidence of felony election law violations](https://justthenews.com/politics-policy/elections/wisconsin-county-sheriff-reveals-findings-investigation-election-law),' Just the News, 2021.
 
 48. '[The full Racine County Sheriff's press conference on alleged nursing home election fraud](https://www.youtube.com/watch?v=ZLWDupvtrrU&t=1s),' YouTube, 2021. 45:44
 
@@ -458,18 +451,15 @@ investigation-election-law),' Just the News, 2021.
 
 51. Office of the Special Counsel [Second Interim Investigative Report On the Apparatus & Procedures of the Wisconsin Elections System](https://www.documentcloud.org/documents/21747255-wisconsin-office-of-the-special-counsel-second-interim-investigative-report-20220301) Delivered to the Wisconsin State Assembly on March 1, 2022.
 
-52. '[Wisconsin Safe Voting Plan 2020](https://www.techandciviclife.org/wp-content/uploads/2020/07/Approved-Wisconsin-Safe-Voting-
-Plan-2020.pdf), Submitted to the Center for Tech & Civic Life, June 15, 2020.'
+52. '[Wisconsin Safe Voting Plan 2020](https://www.techandciviclife.org/wp-content/uploads/2020/07/Approved-Wisconsin-Safe-Voting-Plan-2020.pdf), Submitted to the Center for Tech & Civic Life, June 15, 2020.'
 
 53. Michael Gableman, '[Why Many Wisconsin Voters Still Doubt the 2020 Election Results](https://legis.wisconsin.gov/assembly/22/brandtjen/media/xc4ofiaz/gableman-powerpoint.pdf),' March 1, 2022.
 
-54. M.D. Kittle, '[SPECIAL INVESTIGATION: INFILTRATING THE ELECTION](https://web.archive.org/web/20210313025127/https://wisconsinspotlight.com/special-
-investigation-infiltrating-the-election/),' Wisconsin Spotlight, March 9, 2021.
+54. M.D. Kittle, '[SPECIAL INVESTIGATION: INFILTRATING THE ELECTION](https://web.archive.org/web/20210313025127/https://wisconsinspotlight.com/special-investigation-infiltrating-the-election/),' Wisconsin Spotlight, March 9, 2021.
 
 55. Verity Vote, '[Pennsylvania Voter Deficit](https://verityvote.us/pennsylvania-voter-deficit/),' Feb. 10, 2021.
 
-56. '[DOS responds to Republican lawmakers' claim of election numbers discrepancy](https://wjactv.com/news/local/pa-republican-lawmakers-analysis-finds-presidential-
-election-numbers-dont-add-up),' NBC 6 WJAC TV, Dec. 28, 2020.
+56. '[DOS responds to Republican lawmakers' claim of election numbers discrepancy](https://wjactv.com/news/local/pa-republican-lawmakers-analysis-finds-presidential-election-numbers-dont-add-up),' NBC 6 WJAC TV, Dec. 28, 2020.
 
 57. Zach Montellaro, '[Pennsylvania's top election officer says just 10,000 ballots were received after Nov. 3](https://www.politico.com/news/2020/11/10/pennsylvanias-top-election-officer-says-just-10-000-ballots-were-received-after-nov-3-435972),' Politico, Nov. 10, 2020.
 
@@ -533,9 +523,7 @@ election-numbers-dont-add-up),' NBC 6 WJAC TV, Dec. 28, 2020.
 
 87. Jim Hoft, 'Exclusive: [The TCF Center Election Fraud --- Newly Discovered Video Shows Late Night Deliveries of Tens of Thousands of Illegal Ballots 8 Hours After Deadline](https://www.thegatewaypundit.com/2021/02/exclusive-tcf-center-election-fraud-newly-recovered-video-shows-late-night-deliveries-tens-thousands-illegal-ballots-michigan-arena/),' The Gateway Pundit, Feb. 5, 2021.
 
-88. '[Report on the November 2020 Election in Michigan](https://committees.senate.michigan.gov/testimony/2021-2022/
-Senate%20Committee%20on%20Oversight%20Report%20on%20the%20November%202020%20Ele
-ction%20in%20Michigan,%20adopted.pdf),' Michigan House Oversight Committee.
+88. '[Report on the November 2020 Election in Michigan](https://committees.senate.michigan.gov/testimony/2021-2022/Senate%20Committee%20on%20Oversight%20Report%20on%20the%20November%202020%20Election%20in%20Michigan,%20adopted.pdf), Michigan House Oversight Committee.
 
 89. Natalia Mittelstadt and John Solomon, "[Zuckerberg group gave Detroit $7.4 million to 'dramatically' expand vote in city key to Biden win](https://justthenews.com/politics-policy/elections/zuckerbergs-group-gave-whopping-74-million-detroit-expand-voting-city-key)," Just the News, April 10, 2021.
 
@@ -557,8 +545,7 @@ ction%20in%20Michigan,%20adopted.pdf),' Michigan House Oversight Committee.
 
 98. Benjamin Wetmore and Patty McMurray, '[HERE'S THE PROOF: The FBI and Attorney General Nessel Hid These from the People of Michigan --- Piles of Fraudulent-Manufactured Ballot Registrations from the 2020 Election](https://www.thegatewaypundit.com/2023/08/here-are-photos-fbi-attorney-general-nessel-hid/),' The Gateway Pundit, Aug. 24, 2023.
 
-99. '[Former WH Official Andrew Kloster CONFIRMS Reports Of Mass Cover-Up Of Election Fraud In Detroit](https://rumble.com/v368qun-former-wh-official-andrew-kloster-confirms-
-reports-of-mass-cover-up-of-elec.html),' Rumble, 2023.
+99. '[Former WH Official Andrew Kloster CONFIRMS Reports Of Mass Cover-Up Of Election Fraud In Detroit](https://rumble.com/v368qun-former-wh-official-andrew-kloster-confirms-reports-of-mass-cover-up-of-elec.html),' Rumble, 2023.
 
 ---
 

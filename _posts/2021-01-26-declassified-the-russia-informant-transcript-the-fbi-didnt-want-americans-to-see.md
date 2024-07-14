@@ -53,7 +53,7 @@ Page answered: "Even if I had --- which I didn't do by the way," Page answered.
 
 It has been known since December 2019 that Halper recorded conversations with Page that were considered exculpatory and never turned over to the FISA court. The Justice Department inspector general concluded the failure to disclose the material to the judges was a major failure of the FBI's Russia probe.
 
-[DOJ/OIG report on Russia FISA.pdf](<https://justthenews.com/sites/default/files/2020-03/DOJOIG report on Russia FISA.pdf>)
+[DOJ/OIG report on Russia FISA.pdf](<https://justthenews.com/sites/default/files/2020-03/DOJOIG%20report%20on%20Russia%20FISA.pdf>)
 
 But the exact details of Halper's conversations with Page have remained shrouded from public view until well after the Nov. 3, 2020 election, much to the consternation of conservatives and Republicans who wanted to make more of the Russia collusion false narrative during last year's election.
 
