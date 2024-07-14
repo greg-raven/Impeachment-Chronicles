@@ -134,3 +134,13 @@ https://www.youtube.com/watch?v=AXfTSua2WS4
 so then you look at something else people are concerned about uh inflation 16 Nobel laurates came out this week and said that if what's his name we're elected president with his fiscal policies inflation would just increase enormously in our country and you have Joe Biden on the other side of that screen leading the world in reducing inflation in our country. Nancy Pelosi
 
 ---
+
+[Former teen beauty queens: Donald Trump barged in on us changing | Fox News](https://www.foxnews.com/entertainment/former-teen-beauty-queens-donald-trump-barged-in-on-us-changing)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Busted! Trump shaking hands with the head of the Project 2025 parent group, Heritage Foundation President Kevin Roberts.<br><br>Trump now claims he doesn’t know “who is behind” Project 2025. <a href="https://t.co/hI6f5cPGDP">pic.twitter.com/hI6f5cPGDP</a></p>&mdash; Derek Friday 🇺🇦🇮🇱 (@DerekFriday) <a href="https://twitter.com/DerekFriday/status/1809556445639082089?ref_src=twsrc%5Etfw">July 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In the video below, Trump acknowledges that <a href="https://twitter.com/hashtag/Project2025?src=hash&amp;ref_src=twsrc%5Etfw">#Project2025</a> was coming and that the Heritage Foundation was the source. <a href="https://t.co/gqHNWboZMp">pic.twitter.com/gqHNWboZMp</a></p>&mdash; ✭ 🅑🅤🅑🅑🅐 ✭ (@BubbatheOG) <a href="https://twitter.com/BubbatheOG/status/1812148620101398730?ref_src=twsrc%5Etfw">July 13, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Mississippi congressman's staffer says 'don’t miss next time’ after Trump assassination attempt | Just The News](https://justthenews.com/nation/states/center-square/mississippi-congressmans-field-director-says-dont-miss-next-time)
+
+[Opinion | Yes, it’s okay to compare Trump to Hitler. Don’t let me stop you. - The Washington Post](https://www.washingtonpost.com/opinions/2023/12/20/godwins-law-trump-hitler-comparisons/)
