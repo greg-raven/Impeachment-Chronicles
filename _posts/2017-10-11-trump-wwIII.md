@@ -19,7 +19,7 @@ Make no mistake, this is not just a side-show spat between Trump and Corker. Thi
 
 This week, Trump is expected to "decertify" --- wonk speak for undermine --- the one deal that is peacefully and effectively containing Iran's nuclear program. Trump's act would put the fate of the deal in the hands of Congress, an unjustified and dangerous move.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wall Street Journal: Corker&#39;s views on Trump are &quot;widely held on Capitol Hill&quot; <a href="https://t.co/zPIBIlA0T9">https://t.co/zPIBIlA0T9</a> <a href="https://t.co/sacw5F5B1c">pic.twitter.com/sacw5F5B1c</a></p>&mdash; The Hill (@thehill) <a href="https://twitter.com/thehill/status/918063904089092096?ref_src=twsrc%5Etfw">October 11, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wall Street Journal: Corker&#39;s views on Trump are &quot;widely held on Capitol Hill&quot; <a href="https://t.co/zPIBIlA0T9">https://t.co/zPIBIlA0T9</a> <a href="https://t.co/sacw5F5B1c">pic.twitter.com/sacw5F5B1c</a></p>&mdash; The Hill (@thehill) <a href="https://twitter.com/thehill/status/918063904089092096?ref_src=twsrc%5Etfw">October 11, 2017</a></blockquote>
 
 This 2015 agreement is supported by Great Britain, Germany, France, Russia, China, all of our NATO allies and the United Nations. Secretary of State Tillerson, Secretary of Defense Mattis, the U.S. military and intelligence services all support this deal. Why? Because it is working. It is keeping Iran well away from the ability to produce nuclear weapons.
 
@@ -47,7 +47,7 @@ Corker may have been referring to such talks when he said: "I know (Trump) has h
 
 President Trump, like all presidents in the nuclear age, has sole authority to launch U.S. nuclear weapons, enough firepower to end life as we know it. Most Americans do not believe this, and assume that Congress would be able to intervene and stop Trump from initiating a unilateral nuclear attack. Not so. Trump could launch nuclear weapons on his own authority in about the time it takes to send a tweet.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">JUST IN: Corker tears into Trump: He&#39;s setting up the country for World War III <a href="https://t.co/LlqETVM2K1">https://t.co/LlqETVM2K1</a> <a href="https://t.co/DwRxS9OCkJ">pic.twitter.com/DwRxS9OCkJ</a></p>&mdash; The Hill (@thehill) <a href="https://twitter.com/thehill/status/917199205806026752?ref_src=twsrc%5Etfw">October 9, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">JUST IN: Corker tears into Trump: He&#39;s setting up the country for World War III <a href="https://t.co/LlqETVM2K1">https://t.co/LlqETVM2K1</a> <a href="https://t.co/DwRxS9OCkJ">pic.twitter.com/DwRxS9OCkJ</a></p>&mdash; The Hill (@thehill) <a href="https://twitter.com/thehill/status/917199205806026752?ref_src=twsrc%5Etfw">October 9, 2017</a></blockquote>
 
 Unless Congress acts. Sen. Ed Markey (D-Mass.) and Rep. Ted Lieu (D-Calif.) have introduced legislation to prevent the first use of nuclear weapons unless authorized by Congress. The time has come to pass this bill.
 
@@ -56,3 +56,5 @@ Despite all this, Corker seems calm: "As long as there are people like (Tillerso
 The hope of continuous adult supervision is a thin reed to hang the world on. President Trump is not listening to his wise men. He is acting on his own.
 
 Source: Tom Z. Collina, thehill.com/opinion/national-security/354994-this-is-how-trump-could-start-world-war-iii/
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
