@@ -1,11 +1,10 @@
 ---
-title: "<#Title#>"
+title: "It's time to talk about the Secret Service problem we saw yesterday"
 layout: post
 tags:
 - Andrea Widburg
 ---
 
-It's time to talk about the Secret Service problem we saw yesterday *UPDATED*
 Preliminarily, let me say what I wrote yesterday: Trump's near miss seems to have an element of Divine Providence to it, reminiscent of how George Washington invariably emerged from the heat of battle unscathed. Just sayin'. Now, to the topic at hand, which is the Secret Service's performance before, during, and after the assassination attempt. It wasn't good.
 
 Ironically, just yesterday, I finished reading Lee Child's Without Fail, which was published in 2008. In it, Jack Reacher works with the female head of the Vice President's Secret Service detail to help foil an assassination attempt. Unlike most Reacher novels, this one had no fistfights. Instead, it focuses tightly on what the Secret Service does to protect politicians.
