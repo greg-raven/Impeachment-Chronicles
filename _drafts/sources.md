@@ -150,14 +150,6 @@ https://www.youtube.com/watch?v=NgJDbzXo3rQ
 
 [Insurrections and the Leviathan State - American Thinker](https://www.americanthinker.com/articles/2024/07/insurrections_and_the_leviathan_state.html)
 
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“He [Trump] has to be eliminated.&quot; - Congressman Dan Goldman (D-NY), 2023 <a href="https://t.co/TuoanEYi66">pic.twitter.com/TuoanEYi66</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1812411819580862729?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrat congressman Dan Goldman: President Trump “cannot see public office again . . . and he has to be eliminated.” <a href="https://t.co/oTCDHanaqf">pic.twitter.com/oTCDHanaqf</a></p>&mdash; Arthur Schwartz (@ArthurSchwartz) <a href="https://twitter.com/ArthurSchwartz/status/1812471779773800807?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
 [BREAKING: Judge Cannon DISMISSES Trump/Classified Docs Case, Calls Jack Smith Appt. Unconstitutional – Twitchy](https://twitchy.com/samj/2024/07/15/judge-aileen-cannon-dismissed-trumpclassified-docs-case-saying-that-jack-smiths-appt-unconstitutional-n2398385)
 
 [It Just Gets WORSE ---> Secret Service Detail Diverted From PA Trump Rally ... to Jill Biden and WTAF – Twitchy](https://twitchy.com/samj/2024/07/15/jill-biden-secret-service-resources-who-made-the-call-n2398370)
@@ -173,18 +165,6 @@ https://www.youtube.com/watch?v=NgJDbzXo3rQ
 [Party That Called Trump 'Hitler' For 8 Years Shocked As Someone Tries To Assassinate Him | Babylon Bee](https://babylonbee.com/news/political-party-that-called-trump-hitler-shocked-someone-would-try-to-shoot-him)
 
 [Joy Reid suggest Biden recovering from COVID is 'exactly the same thing' as Trump surviving an assassination](https://www.msn.com/en-us/news/opinion/joy-reid-suggest-biden-recovering-from-covid-is-exactly-the-same-thing-as-trump-surviving-an-assassination/ar-BB1qblgY)
-
----
-
-We have two choices for the future of our country come November.
-
-1. We can let Trump win and enact his Project 2025 agenda: Ban abortion nationwide; give tax handouts to the ultra-wealthy while cutting health care and Social Security; and dismantle checks and balances.
-
-2. OR, we can build on the historic progress President Biden and Vice President Harris have delivered over the past three and a half years and restore reproductive freedom across the country; build a tax system that supports middle-class and working families and makes corporations pay their fair share; and protect voting rights to uphold American democracy.
-
-Source: Biden Campaign, e-mail 7/18/2024
-
----
 
 https://www.youtube.com/watch?v=HotPL809GKo
 https://www.youtube.com/watch?v=zYMaGViu0-I
