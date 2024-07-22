@@ -5,7 +5,7 @@ tags:
 - Sherri
 ---
 
-Meet Sherri, a teacher at @ColtonJUSD. She appears to be very angry, distraught, and disappointed that the sh**ter missed.
+Meet Sherri, a teacher at @ColtonJUSD. She appears to be very angry, distraught, and disappointed that the shooter missed.
 
 These are the people teaching your kids.
 
