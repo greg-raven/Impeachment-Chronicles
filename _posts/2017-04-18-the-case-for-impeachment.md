@@ -2,7 +2,7 @@
 title: "The Case for Impeachment"
 layout: post
 tags:
-- wikipedia.org
+- Wikipedia
 ---
 
 ![The Case for Impeachment](/assets/The-Case-for-Impeachment.jpg "The Case for Impeachment")

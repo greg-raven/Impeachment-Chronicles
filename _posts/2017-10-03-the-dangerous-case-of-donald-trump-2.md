@@ -2,7 +2,7 @@
 title: "The Dangerous Case of Donald Trump"
 layout: post
 tags:
-- wikipedia.org
+- Wikipedia
 ---
 
 *The Dangerous Case of Donald Trump* is a 2017 book edited by Bandy X. Lee, a forensic psychiatrist, containing essays from 27 psychiatrists, psychologists, and other mental health professionals describing the "clear and present danger" that U.S. President Donald Trump's mental health poses to the "nation and individual well being." Authors argue that the President's mental health was affecting the mental health of the people of the United States and that he places the country at grave risk of involving it in a war, and of undermining democracy itself due to his dangerous pathology.
