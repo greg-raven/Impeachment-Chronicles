@@ -210,43 +210,6 @@ https://www.youtube.com/watch?v=WB7Y-bg4IT8
 
 [Trump’s history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
 
----
-
-Defeat Trump, stop Project 2025, and continue our progress for the American people.
-
-Folks --- we must hold Trump to account for Project 2025. But first, let me cut to the chase.
-
-This race is about you and your family. It's about your freedom. And it's about our democracy.
-
-We stand for the proposition that all people are created equal --- and I'll be damned if I let Donald Trump walk this nation away from it.
-
-\[...\]
-
-You may have noticed that since the debate the press has been hammering me --- and the focus has shifted from Donald Trump.
-
-Well, it's time to shift the focus back to Donald Trump.
-
-Donald Trump is a convicted criminal. Donald Trump was found liable for sexual assault. Donald Trump is a business fraud.
-
-Just look at Project 2025, the blueprint for a second Trump term. It's the biggest attack on our government and our personal freedom ever proposed in this country:
-
-- It will ban abortion nationwide.
-- It will cut Social Security and Medicare.
-- It will abolish the Department of Education.
-- It will eliminate protections for people with pre-existing conditions.
-- It will give a massive tax cut to the very wealthy.
-- It will allow companies to stop paying overtime to many workers.
-- It will round up 10 million people in detention camps.
-
-Folks, this is not a game. Project 2025 is serious.
-
-America needs to wake up and realize what Trump and the MAGA Republicans are trying to do. Project 2025 is what they'll do. And it will fundamentally change your life.
-
-Source: Joe Biden, email
-
----
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Not even a scratch! But milk it for all you can! <a href="https://t.co/GRPLkj8ASU">https://t.co/GRPLkj8ASU</a></p>&mdash; John Leguizamo (@JohnLeguizamo) <a href="https://twitter.com/JohnLeguizamo/status/1813068113883353431?ref_src=twsrc%5Etfw">July 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Disney's 'Star Wars' Star Mark Hamill Cracks Jokes About Trump's Ear Bandage Following Assassination Attempt](https://www.breitbart.com/entertainment/2024/07/16/disneys-star-wars-star-mark-hamill-cracks-jokes-about-trumps-ear-bandage-following-assassination-attempt/)
 
