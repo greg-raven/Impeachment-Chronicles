@@ -1,5 +1,5 @@
 ---
-title: "A dead body is more cometent than Trump"
+title: "A dead body is more competent than Trump"
 layout: post
 tags:
 - Sim Gill
