@@ -137,3 +137,168 @@ so then you look at something else people are concerned about uh inflation 16 No
 
 [Former teen beauty queens: Donald Trump barged in on us changing | Fox News](https://www.foxnews.com/entertainment/former-teen-beauty-queens-donald-trump-barged-in-on-us-changing)
 
+https://www.youtube.com/watch?v=_ghBItoSmSg
+https://www.youtube.com/watch?v=mf9LYD9gHk0
+https://www.youtube.com/watch?v=LVDKtPhUhSY
+https://www.youtube.com/watch?v=NgJDbzXo3rQ
+
+---
+
+[James Clapper, Mr. October Surprise: How Obama's Intel Czar Rigged 2016 and 2020 Debates Against Trump | RealClearInvestigations](https://www.realclearinvestigations.com/articles/2024/06/26/james_clapper_mr_october_surprise_how_obamas_intel_czar_rigged_2016_and_2020_debates_against_trump_1040444.html)
+
+[Clapper and the Spooks – Enemies Foreign and Domestic - American Thinker](https://www.americanthinker.com/articles/2024/07/clapper_and_the_spooks_enemies_foreign_and_domestic.html)
+
+[Insurrections and the Leviathan State - American Thinker](https://www.americanthinker.com/articles/2024/07/insurrections_and_the_leviathan_state.html)
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“He [Trump] has to be eliminated.&quot; - Congressman Dan Goldman (D-NY), 2023 <a href="https://t.co/TuoanEYi66">pic.twitter.com/TuoanEYi66</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1812411819580862729?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrat congressman Dan Goldman: President Trump “cannot see public office again . . . and he has to be eliminated.” <a href="https://t.co/oTCDHanaqf">pic.twitter.com/oTCDHanaqf</a></p>&mdash; Arthur Schwartz (@ArthurSchwartz) <a href="https://twitter.com/ArthurSchwartz/status/1812471779773800807?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+[BREAKING: Judge Cannon DISMISSES Trump/Classified Docs Case, Calls Jack Smith Appt. Unconstitutional – Twitchy](https://twitchy.com/samj/2024/07/15/judge-aileen-cannon-dismissed-trumpclassified-docs-case-saying-that-jack-smiths-appt-unconstitutional-n2398385)
+
+[It Just Gets WORSE ---> Secret Service Detail Diverted From PA Trump Rally ... to Jill Biden and WTAF – Twitchy](https://twitchy.com/samj/2024/07/15/jill-biden-secret-service-resources-who-made-the-call-n2398370)
+
+[Eric Holder on Republicans: ‘When they go low, we kick them’ | CNN Politics](https://www.cnn.com/2018/10/10/politics/eric-holder-republicans-when-they-go-low/index.html)
+
+[Sen. Jon Tester On How To Handle Trump: ‘Punch Him In The Face’ | The Daily Caller](https://dailycaller.com/2019/07/18/jon-tester-handle-trump-punch-him-face/)
+
+[Rep. Maxine Waters says she wants to 'take out' Trump | Fox News](https://www.foxnews.com/politics/rep-maxine-waters-says-she-wants-to-take-out-trump)
+
+[Pelosi: This Is Not A Normal Election, Trump Must Be Stopped | Video | RealClearPolitics](https://www.realclearpolitics.com/video/2024/07/02/pelosi_this_is_not_a_normal_election_trump_must_be_stopped.html)
+
+[Party That Called Trump 'Hitler' For 8 Years Shocked As Someone Tries To Assassinate Him | Babylon Bee](https://babylonbee.com/news/political-party-that-called-trump-hitler-shocked-someone-would-try-to-shoot-him)
+
+[Joy Reid suggest Biden recovering from COVID is 'exactly the same thing' as Trump surviving an assassination](https://www.msn.com/en-us/news/opinion/joy-reid-suggest-biden-recovering-from-covid-is-exactly-the-same-thing-as-trump-surviving-an-assassination/ar-BB1qblgY)
+
+---
+
+We have two choices for the future of our country come November.
+
+1. We can let Trump win and enact his Project 2025 agenda: Ban abortion nationwide; give tax handouts to the ultra-wealthy while cutting health care and Social Security; and dismantle checks and balances.
+
+2. OR, we can build on the historic progress President Biden and Vice President Harris have delivered over the past three and a half years and restore reproductive freedom across the country; build a tax system that supports middle-class and working families and makes corporations pay their fair share; and protect voting rights to uphold American democracy.
+
+Source: Biden Campaign, e-mail 7/18/2024
+
+---
+
+https://www.youtube.com/watch?v=HotPL809GKo
+https://www.youtube.com/watch?v=zYMaGViu0-I
+https://www.youtube.com/watch?v=Kumo170Ts4g
+https://www.youtube.com/watch?v=hV6f_xmwb-0
+https://www.youtube.com/watch?v=LbVQfPCKrJU
+https://www.youtube.com/watch?v=eGA_QYPj8Jk
+https://www.youtube.com/watch?v=z8RBsu0OXWo
+https://www.youtube.com/watch?v=sbZnmJF5io4
+https://www.youtube.com/watch?v=TxYWNSk35t8
+https://www.youtube.com/watch?v=8InUQ6-9qtw
+https://www.youtube.com/watch?v=NQfqSl3ai_U
+https://www.youtube.com/watch?v=Ty3W2NQBIqM
+https://www.youtube.com/watch?v=cXBTRYzepNo
+https://www.youtube.com/watch?v=RAyJVR95MPE
+https://www.youtube.com/watch?v=mCuHO6mCRqM
+https://www.youtube.com/watch?v=Rn5LM5P9OiU
+https://www.youtube.com/watch?v=ro994KDlXZM
+https://www.youtube.com/watch?v=a1bCLpLiItI
+https://www.youtube.com/watch?v=WB7Y-bg4IT8
+
+[Trump rally shooting being investigated as attempt on his life as spectator killed | Donald Trump | The Guardian](https://www.theguardian.com/us-news/article/2024/jul/13/trump-rally-gun-shots-pennsylvania)
+
+[Trump’s history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
+
+---
+
+Defeat Trump, stop Project 2025, and continue our progress for the American people.
+
+Folks --- we must hold Trump to account for Project 2025. But first, let me cut to the chase.
+
+This race is about you and your family. It's about your freedom. And it's about our democracy.
+
+We stand for the proposition that all people are created equal --- and I'll be damned if I let Donald Trump walk this nation away from it.
+
+\[...\]
+
+You may have noticed that since the debate the press has been hammering me --- and the focus has shifted from Donald Trump.
+
+Well, it's time to shift the focus back to Donald Trump.
+
+Donald Trump is a convicted criminal. Donald Trump was found liable for sexual assault. Donald Trump is a business fraud.
+
+Just look at Project 2025, the blueprint for a second Trump term. It's the biggest attack on our government and our personal freedom ever proposed in this country:
+
+- It will ban abortion nationwide.
+- It will cut Social Security and Medicare.
+- It will abolish the Department of Education.
+- It will eliminate protections for people with pre-existing conditions.
+- It will give a massive tax cut to the very wealthy.
+- It will allow companies to stop paying overtime to many workers.
+- It will round up 10 million people in detention camps.
+
+Folks, this is not a game. Project 2025 is serious.
+
+America needs to wake up and realize what Trump and the MAGA Republicans are trying to do. Project 2025 is what they'll do. And it will fundamentally change your life.
+
+Source: Joe Biden, email
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Not even a scratch! But milk it for all you can! <a href="https://t.co/GRPLkj8ASU">https://t.co/GRPLkj8ASU</a></p>&mdash; John Leguizamo (@JohnLeguizamo) <a href="https://twitter.com/JohnLeguizamo/status/1813068113883353431?ref_src=twsrc%5Etfw">July 16, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Disney's 'Star Wars' Star Mark Hamill Cracks Jokes About Trump's Ear Bandage Following Assassination Attempt](https://www.breitbart.com/entertainment/2024/07/16/disneys-star-wars-star-mark-hamill-cracks-jokes-about-trumps-ear-bandage-following-assassination-attempt/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fact check: One-third of Democrat voters DO believe that Trump set up the assassination attempt, thanks in part to <a href="https://twitter.com/JoyAnnReid?ref_src=twsrc%5Etfw">@JoyAnnReid</a> and careless posts like Helt&#39;s.<br><br>The narrative gives the CIA/Secret Service plausible deniability &amp; keeps the hatred stoked against Trump. Convenient.</p>&mdash; Kyle Becker (@kylenabecker) <a href="https://twitter.com/kylenabecker/status/1814366469087723833?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+FOLKS, The choice this November is clear:
+
+Joe Biden, who wants to build an America where everyone can prosper.
+
+OR
+
+Donald Trump, who is running to serve himself and his billionaire friends.
+
+If elected, Trump plans to ...
+
+- SIGN A NATIONWIDE ABORTION BAN
+- GUT CHECKS AND BALANCES
+- GIVE HANDOUTS TO THE ULTRA WEALTHY PAID FOR BY WORKING FAMILIES
+- AND MUCH, MUCH MORE. ...
+
+We must do everything we can to defeat him at the ballot box.
+
+Source: Biden HQ, e-mail
+
+July 21, 2024
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So let me see if I have this Crowdstrike story straight….<br><br>When Hillary Clinton was Sec. of State, she was illegally funneling sophisticated weapons through Libya to terrorists in the MidEast in an effort to take out Assad in Syria for Israel. When the weapons transfer went…</p>&mdash; Harrison H. Smith ✞ (@HarrisonHSmith) <a href="https://twitter.com/HarrisonHSmith/status/1814863467901223360?ref_src=twsrc%5Etfw">July 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Detroit resident brags on Facebook: <br><br>&quot; I work for Wayne county Michigan and I threw out every Trump ballot I saw&quot; <a href="https://t.co/PToCBl4698">pic.twitter.com/PToCBl4698</a></p>&mdash; JOSH DUNLAP (@JDunlap1974) <a href="https://twitter.com/JDunlap1974/status/1814480557390131614?ref_src=twsrc%5Etfw">July 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🔥🚨 BREAKING: The woman at the York Fair in Pennsylvania who openly called for the assassination of Trump HAS BEEN IDENTIFIED as one <br><br>Susan Craft. She is a data management worker at a hospital, and her husband, Jim Broach, is a professor at Penn State University. <a href="https://t.co/P2go4rmxzE">pic.twitter.com/P2go4rmxzE</a></p>&mdash; The Patriot Oasis™ (@ThePatriotOasis) <a href="https://twitter.com/ThePatriotOasis/status/1814855398303715686?ref_src=twsrc%5Etfw">July 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Madonna: Let’s blow up the White House. <br><br>Peter Fonda: Lock up 10 year old Barron Trump in a cage with child molesters. <br><br>Johnny Depp: we need another John Wilkes Booth. <br><br>Tom Arnold: I fantasize about standing over Don Jr.’s dead body. <br><br>Joe Biden: I would like to take Trump…</p>&mdash; Insurrection Barbie (@DefiyantlyFree) <a href="https://twitter.com/DefiyantlyFree/status/1814499222726574206?ref_src=twsrc%5Etfw">July 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Google buries Trump campaign site as GOP convention kicks off - Rebel News](https://www.rebelnews.com/google_buries_trump_campaign_site_as_gop_convention_kicks_off)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is your daily reminder that the &#39;key witness’ in Trumps impeachment hearing, and otherwise POS Alexander Vindman, doesn’t want you to be reminded that he was busted for a $12 million defense contract deal with UKRAINE! <a href="https://t.co/baLes6iTDZ">https://t.co/baLes6iTDZ</a></p>&mdash; Joel Fischer 🇺🇸 (@realJoelFischer) <a href="https://twitter.com/realJoelFischer/status/1753988951902175354?ref_src=twsrc%5Etfw">February 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[BREAKING: Secret Service DENIED requests for more security at Trump rallies before assassination attempt: report | The Post Millennial | thepostmillennial.com](https://thepostmillennial.com/breaking-secret-service-denied-requests-for-more-security-at-trump-rallies-before-assassination-attempt-report)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">January 21, 2017. Keith Olbermann claimed that Russia invaded us and installed Trump. He said just because you didn’t see it, doesn’t mean it didn’t happen.<br><br>Keith doesn’t believe that Trump was shot. <br><br>Keith thinks you are a conspiracy theorist. <a href="https://t.co/UMNhTe5VZ5">pic.twitter.com/UMNhTe5VZ5</a></p>&mdash; MAZE (@mazemoore) <a href="https://twitter.com/mazemoore/status/1814877901906468940?ref_src=twsrc%5Etfw">July 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Keith Olbermann Roasted for Posting 'F*ck Trump Forever' During RNC Speech](https://www.breitbart.com/sports/2024/07/19/keith-olbermann-roasted-for-posting-fck-trump-forever-during-rnc-speech/)
+
+[Keith Olbermann Pushes Insane Trump Shooting Conspiracy Theory | OutKick](https://www.outkick.com/culture/keith-olbermann-donald-trump-shooting-conspiracy)
+
+[Keith Olbermann accused of saying he hopes Trump will be assassinated](https://nypost.com/2024/03/19/us-news/keith-olbermann-accused-of-saying-he-hopes-trump-will-be-assassined/)
+
+https://www.threads.net/@countdownwithkeitholbermann/post/C9kdstJRx8s
+
+[Supreme Court Gives Joe Biden The Legal OK To Assassinate Donald Trump | HuffPost Latest News](https://www.huffpost.com/entry/supreme-court-immunity-trump-biden-assassinate_n_66831f73e4b06575b36641d8)
