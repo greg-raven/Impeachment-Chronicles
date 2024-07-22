@@ -250,8 +250,6 @@ Source: Joe Biden, email
 
 [Disney's 'Star Wars' Star Mark Hamill Cracks Jokes About Trump's Ear Bandage Following Assassination Attempt](https://www.breitbart.com/entertainment/2024/07/16/disneys-star-wars-star-mark-hamill-cracks-jokes-about-trumps-ear-bandage-following-assassination-attempt/)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fact check: One-third of Democrat voters DO believe that Trump set up the assassination attempt, thanks in part to <a href="https://twitter.com/JoyAnnReid?ref_src=twsrc%5Etfw">@JoyAnnReid</a> and careless posts like Helt&#39;s.<br><br>The narrative gives the CIA/Secret Service plausible deniability &amp; keeps the hatred stoked against Trump. Convenient.</p>&mdash; Kyle Becker (@kylenabecker) <a href="https://twitter.com/kylenabecker/status/1814366469087723833?ref_src=twsrc%5Etfw">July 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ---
 
 FOLKS, The choice this November is clear:
@@ -277,28 +275,12 @@ July 21, 2024
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So let me see if I have this Crowdstrike story straight….<br><br>When Hillary Clinton was Sec. of State, she was illegally funneling sophisticated weapons through Libya to terrorists in the MidEast in an effort to take out Assad in Syria for Israel. When the weapons transfer went…</p>&mdash; Harrison H. Smith ✞ (@HarrisonHSmith) <a href="https://twitter.com/HarrisonHSmith/status/1814863467901223360?ref_src=twsrc%5Etfw">July 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Detroit resident brags on Facebook: <br><br>&quot; I work for Wayne county Michigan and I threw out every Trump ballot I saw&quot; <a href="https://t.co/PToCBl4698">pic.twitter.com/PToCBl4698</a></p>&mdash; JOSH DUNLAP (@JDunlap1974) <a href="https://twitter.com/JDunlap1974/status/1814480557390131614?ref_src=twsrc%5Etfw">July 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🔥🚨 BREAKING: The woman at the York Fair in Pennsylvania who openly called for the assassination of Trump HAS BEEN IDENTIFIED as one <br><br>Susan Craft. She is a data management worker at a hospital, and her husband, Jim Broach, is a professor at Penn State University. <a href="https://t.co/P2go4rmxzE">pic.twitter.com/P2go4rmxzE</a></p>&mdash; The Patriot Oasis™ (@ThePatriotOasis) <a href="https://twitter.com/ThePatriotOasis/status/1814855398303715686?ref_src=twsrc%5Etfw">July 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Madonna: Let’s blow up the White House. <br><br>Peter Fonda: Lock up 10 year old Barron Trump in a cage with child molesters. <br><br>Johnny Depp: we need another John Wilkes Booth. <br><br>Tom Arnold: I fantasize about standing over Don Jr.’s dead body. <br><br>Joe Biden: I would like to take Trump…</p>&mdash; Insurrection Barbie (@DefiyantlyFree) <a href="https://twitter.com/DefiyantlyFree/status/1814499222726574206?ref_src=twsrc%5Etfw">July 20, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [Google buries Trump campaign site as GOP convention kicks off - Rebel News](https://www.rebelnews.com/google_buries_trump_campaign_site_as_gop_convention_kicks_off)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is your daily reminder that the &#39;key witness’ in Trumps impeachment hearing, and otherwise POS Alexander Vindman, doesn’t want you to be reminded that he was busted for a $12 million defense contract deal with UKRAINE! <a href="https://t.co/baLes6iTDZ">https://t.co/baLes6iTDZ</a></p>&mdash; Joel Fischer 🇺🇸 (@realJoelFischer) <a href="https://twitter.com/realJoelFischer/status/1753988951902175354?ref_src=twsrc%5Etfw">February 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [BREAKING: Secret Service DENIED requests for more security at Trump rallies before assassination attempt: report | The Post Millennial | thepostmillennial.com](https://thepostmillennial.com/breaking-secret-service-denied-requests-for-more-security-at-trump-rallies-before-assassination-attempt-report)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">January 21, 2017. Keith Olbermann claimed that Russia invaded us and installed Trump. He said just because you didn’t see it, doesn’t mean it didn’t happen.<br><br>Keith doesn’t believe that Trump was shot. <br><br>Keith thinks you are a conspiracy theorist. <a href="https://t.co/UMNhTe5VZ5">pic.twitter.com/UMNhTe5VZ5</a></p>&mdash; MAZE (@mazemoore) <a href="https://twitter.com/mazemoore/status/1814877901906468940?ref_src=twsrc%5Etfw">July 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Keith Olbermann Roasted for Posting 'F*ck Trump Forever' During RNC Speech](https://www.breitbart.com/sports/2024/07/19/keith-olbermann-roasted-for-posting-fck-trump-forever-during-rnc-speech/)
 
 [Keith Olbermann Pushes Insane Trump Shooting Conspiracy Theory | OutKick](https://www.outkick.com/culture/keith-olbermann-donald-trump-shooting-conspiracy)
 
-[Keith Olbermann accused of saying he hopes Trump will be assassinated](https://nypost.com/2024/03/19/us-news/keith-olbermann-accused-of-saying-he-hopes-trump-will-be-assassined/)
-
 https://www.threads.net/@countdownwithkeitholbermann/post/C9kdstJRx8s
-
-[Supreme Court Gives Joe Biden The Legal OK To Assassinate Donald Trump | HuffPost Latest News](https://www.huffpost.com/entry/supreme-court-immunity-trump-biden-assassinate_n_66831f73e4b06575b36641d8)
