@@ -250,31 +250,6 @@ Source: Joe Biden, email
 
 [Disney's 'Star Wars' Star Mark Hamill Cracks Jokes About Trump's Ear Bandage Following Assassination Attempt](https://www.breitbart.com/entertainment/2024/07/16/disneys-star-wars-star-mark-hamill-cracks-jokes-about-trumps-ear-bandage-following-assassination-attempt/)
 
----
-
-FOLKS, The choice this November is clear:
-
-Joe Biden, who wants to build an America where everyone can prosper.
-
-OR
-
-Donald Trump, who is running to serve himself and his billionaire friends.
-
-If elected, Trump plans to ...
-
-- SIGN A NATIONWIDE ABORTION BAN
-- GUT CHECKS AND BALANCES
-- GIVE HANDOUTS TO THE ULTRA WEALTHY PAID FOR BY WORKING FAMILIES
-- AND MUCH, MUCH MORE. ...
-
-We must do everything we can to defeat him at the ballot box.
-
-Source: Biden HQ, e-mail
-
-July 21, 2024
-
----
-
 [Google buries Trump campaign site as GOP convention kicks off - Rebel News](https://www.rebelnews.com/google_buries_trump_campaign_site_as_gop_convention_kicks_off)
 
 [BREAKING: Secret Service DENIED requests for more security at Trump rallies before assassination attempt: report | The Post Millennial | thepostmillennial.com](https://thepostmillennial.com/breaking-secret-service-denied-requests-for-more-security-at-trump-rallies-before-assassination-attempt-report)
