@@ -202,3 +202,9 @@ https://www.youtube.com/watch?v=WB7Y-bg4IT8
 [Keith Olbermann Pushes Insane Trump Shooting Conspiracy Theory | OutKick](https://www.outkick.com/culture/keith-olbermann-donald-trump-shooting-conspiracy)
 
 https://www.threads.net/@countdownwithkeitholbermann/post/C9kdstJRx8s
+
+[Democrats Immediately Start Calling Trump Too Old - Newsweek](https://www.newsweek.com/democrats-donald-trump-old-joe-biden-age-1928586)
+
+[Fact Check: Did Joe Biden Say He Would Fight Donald Trump? - Newsweek](https://www.newsweek.com/joe-biden-back-barn-donald-trump-tiktok-video-fact-check-1839170)
+
+[Trump’s history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)

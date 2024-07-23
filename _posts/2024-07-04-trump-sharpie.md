@@ -9,6 +9,6 @@ Trump will take a sharpie to the Declaration of Independence and our Constitutio
 
 Remember that.
 
-![Remember Trump's Sharpie](/assets/2024-07-04-trump-sharpie.jpg "2024-07-04-trump-sharpie.jpg")
+![Remember Trump's Sharpie](/assets/2024-07-04-trump-sharpie.jpg "George Takei")
 
 Source: George Takei, via [𝕏](https://x.com)

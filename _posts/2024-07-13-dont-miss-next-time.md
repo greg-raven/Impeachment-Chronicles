@@ -7,7 +7,7 @@ tags:
 
 I don't condone violence but please get you some shooting lessons so you don't miss next time ooops that wasn't me talking
 
-![Don't miss next time](/assets/2024-07-13-jacqueline-marsaw.jpg "2024-07-13-jacqueline-marsaw.jpg")
+![Don't miss next time](/assets/2024-07-13-jacqueline-marsaw.jpg "Jacqueline Marsaw")
 
 Source: Jacqueline Marsaw, via [𝕏](https://x.com) (since deleted)
 
