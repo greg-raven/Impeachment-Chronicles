@@ -190,7 +190,6 @@ https://www.youtube.com/watch?v=WB7Y-bg4IT8
 
 [Trump’s history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
 
-
 [Disney's 'Star Wars' Star Mark Hamill Cracks Jokes About Trump's Ear Bandage Following Assassination Attempt](https://www.breitbart.com/entertainment/2024/07/16/disneys-star-wars-star-mark-hamill-cracks-jokes-about-trumps-ear-bandage-following-assassination-attempt/)
 
 [Google buries Trump campaign site as GOP convention kicks off - Rebel News](https://www.rebelnews.com/google_buries_trump_campaign_site_as_gop_convention_kicks_off)
