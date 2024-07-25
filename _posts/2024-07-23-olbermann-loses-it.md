@@ -1,5 +1,5 @@
 ---
-title: "Keith Olbermann loses it Over Cardinal's Fist Gesture"
+title: "Keith Olbermann: Cardinals = Trump Nazis"
 layout: post
 tags:
 - Amy Curtis

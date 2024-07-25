@@ -1,5 +1,5 @@
 ---
-title: "Keith Olbermann accuses MLB team of being Nazis, gets basic facts wrong"
+title: "Keith Olbermann gets basic facts wrong"
 layout: post
 tags:
 - Keith Olbermann
