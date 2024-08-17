@@ -1,5 +1,5 @@
 ---
-title: "Trumps cognitive decline"
+title: "Trump's cognitive decline"
 layout: post
 tags:
 - Keith Olbermann
