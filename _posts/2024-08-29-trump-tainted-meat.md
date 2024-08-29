@@ -1,8 +1,8 @@
 ---
-title: "<#Title#>"
+title: "People have died because of Trump's deregulations"
 layout: post
 tags:
-- <#Author#>
+- Veterans For Responsible Leadership
 ---
 
 8 people have died from tainted meat because Trump deregulated Boar's Head
