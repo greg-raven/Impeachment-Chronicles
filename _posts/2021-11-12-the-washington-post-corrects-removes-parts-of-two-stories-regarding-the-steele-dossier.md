@@ -47,7 +47,7 @@ The [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was a basis f
 
 The 2017 and 2019 stories were written by veteran reporters Rosalind S. Helderman and Tom Hamburger. They declined to comment.
 
-The Wall Street Journal first identified Millian as Steele's source in early 2017. A spokesman, Steve Severinghaus, said the paper is "aware of the serious questions raised by the allegations and continue[s] to report and to follow the investigation closely."
+The Wall Street Journal first identified Millian as Steele's source in early 2017. A spokesman, Steve Severinghaus, said the paper is "aware of the serious questions raised by the allegations and continue\[s\] to report and to follow the investigation closely."
 
 Buzbee became The Post's executive editor earlier this year. The two Millian stories were published under her predecessor, Martin Baron.
 

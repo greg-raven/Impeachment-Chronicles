@@ -10,7 +10,7 @@ tags:
 
 Nearly 18 months of private chats between friends from the Trump White House show that Jan. 6 Committee star witness Cassidy Hutchinson dramatically changed her story about what she knew and how she felt about what she witnessed as a White House staffer.
 
-When Hutchinson testified in Speaker of the House Nancy Pelosi's Soviet-style show trial last month, the former White House aide to Chief of Staff Mark Meadows said she "still struggle[s] to work through the emotions" of Jan. 6.
+When Hutchinson testified in Speaker of the House Nancy Pelosi's Soviet-style show trial last month, the former White House aide to Chief of Staff Mark Meadows said she "still struggle\[s\] to work through the emotions" of Jan. 6.
 
 "As an American, I was disgusted. It was unpatriotic," Hutchinson said. "We were watching the Capitol building get defaced over a lie, and it was something that was really hard in that moment to digest."
 

@@ -15,7 +15,7 @@ March 25, 2016:
 : Ukrainian-American operative for the Democratic National Committee (DNC) Alexandra Chalupa meets with top Ukrainian officials at Ukrainian Embassy in Washington D.C. to "expose ties between Trump, top campaign aide Paul Manafort and Russia," according to Politico. Ukrainian embassy proceeds to work "directly with reporters researching Trump, Manafort and Russia to point them in the right directions," according to an embassy official (though other officials later deny engaging in election-related activities).
 
 March 30, 2016:
-: Chalupa briefs DNC staff on Russia ties to Manafort and Trump. Ukrainian embassy officials and Chalupa "coordinat[e] an investigation with the Hillary team" into Manafort, according to a source in Politico. This effort reportedly includes working with U.S. media.
+: Chalupa briefs DNC staff on Russia ties to Manafort and Trump. Ukrainian embassy officials and Chalupa "coordinat\[e\] an investigation with the Hillary team" into Manafort, according to a source in Politico. This effort reportedly includes working with U.S. media.
 
 April 2016:
 : Ukrainian member of parliament Olga Bielkova reportedly seeks meetings with five dozen members of U.S. Congress and reporters including former *New York Times* reporter Judy Miller, David Sanger of *New York Times,* David Ignatius of *Washington Post,* and *Washington Post* editorial page editor Fred Hiatt.
@@ -64,7 +64,7 @@ Aug. 19, 2016:
 : Paul Manafort resigns as Trump campaign chairman.<br>Ukrainian parliament member Sergii Leshchenko holds news conference to draw attention to Paul Manafort and Trump's "pro-Russia" ties.
 
 Sept. 2, 2016:
-: FBI officials Lisa Page and Peter Strzok text that "[President Obama] wants to know everything we're doing."
+: FBI officials Lisa Page and Peter Strzok text that "\[President Obama\] wants to know everything we're doing."
 
 Sept. 23, 2016:
 : Yahoo News publishes article by Isikoff about Carter Page's July 2016 trip to Moscow. (The article is apparently based on leaked info from Fusion GPS Steele anti-Trump "dossier" political opposition research.)
@@ -208,7 +208,7 @@ Feb. 9, 2018:
 : Former FBI Director Comey assistant Josh Campbell leaves FBI for job at CNN.
 
 April 2018:
-: A House Intelligence Committee report suggests that Clapper, former Director of National Intelligence and now a CNN analyst, had leaked information from the so-called [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) to CNN, though he denied it to Congress. The report stated that Clapper gave "inconsistent testimony" to Congress when he denied ever "discuss[ing] the dossier or any other intelligence related to Russia hacking of the 2016 election with journalists." Clapper later admitted he discussed the "dossier with CNN journalist Jake Tapper" and indicated he may have discussed the material with other journalists.
+: A House Intelligence Committee report suggests that Clapper, former Director of National Intelligence and now a CNN analyst, had leaked information from the so-called [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) to CNN, though he denied it to Congress. The report stated that Clapper gave "inconsistent testimony" to Congress when he denied ever "discuss\[ing\] the dossier or any other intelligence related to Russia hacking of the 2016 election with journalists." Clapper later admitted he discussed the "dossier with CNN journalist Jake Tapper" and indicated he may have discussed the material with other journalists.
 
 May 4, 2018:
 : Amid allegations that he was responsible for improper leaks, FBI general counsel Baker resigns and joins the Brookings Institution, writing for "Lawfare," the anti-Trump blog that first discussed the need for an "insurance policy" in case Trump got elected.

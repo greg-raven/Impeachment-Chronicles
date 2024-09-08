@@ -27,7 +27,7 @@ The Brits' concern escalated throughout 2016 and 2017, eventually resulted in a 
 
 By the time Robert Mueller was named special counsel to take over the FBI investigation, British intelligence had had enough.
 
-"At a later point in time, after the Mueller Special Counsel team was in place, UK ALAT-1 said that 'the Brits finally had enough,' and in response to a request for some assistance '[a British Intelligence Service-I person] basically said there was no \[expletive\] way in hell they were going to do it.'"
+"At a later point in time, after the Mueller Special Counsel team was in place, UK ALAT-1 said that 'the Brits finally had enough,' and in response to a request for some assistance '\[a British Intelligence Service-I person\] basically said there was no \[expletive\] way in hell they were going to do it.'"
 
 Retired FBI intelligence chief Kevin Brock told Just the News last week that Durham exposed just how much the discredited Russia collusion probe "disrupted the country and besmirched the good reputation of the FBI.
 

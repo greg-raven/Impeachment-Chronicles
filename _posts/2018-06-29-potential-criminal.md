@@ -9,7 +9,7 @@ Just think, this was on Thursday night, so the week from hell for MSNBC's Hardba
 
 Pivoting from an update on from *The Capital Gazette* newspaper shooting, Matthews screeched that "\[i\]t's impossible to see another decision that will have greater or sure will greater shape the kind of country we do live in."
 
-When it comes to conservative (and not liberal) justices, Matthews declared that the Supreme Court will always make political decisions on things like "decid[ing] presidential elections, the number of guns in the country, the power of money in our politics and on and on."
+When it comes to conservative (and not liberal) justices, Matthews declared that the Supreme Court will always make political decisions on things like "decid\[ing\] presidential elections, the number of guns in the country, the power of money in our politics and on and on."
 
 Matthews later teed up Hollywood director and walking Notable Quotable Rob Reiner by fretting that the Supreme Court "will decide the fate very well of this President" on "\[a\]ll kinds of issues, obstruction of justice and possible collusion with the Russians" and yet the Senate will be "let\[ting\] him pick one of the people to decide his own fate."
 

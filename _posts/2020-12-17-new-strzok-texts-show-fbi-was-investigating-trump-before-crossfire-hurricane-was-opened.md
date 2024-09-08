@@ -7,7 +7,7 @@ tags:
 
 Newly declassified text messages from former FBI agent Peter Strzok suggest that the FBI began investigating then-presidential candidate Donald Trump and his campaign before the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation was opened.
 
-While the FBI claims that investigations into Trump's campaign began with the opening of [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) on July 31, 2016, communications between Strzok and his alleged mistress, FBI special counsel Lisa Page, show that the agent asked Page to discuss "[o]ur open C[counter-]I[ntelligence] investigations relating to Trump's Russian connections" with him on [July 28, 2016]({% post_url 2016-07-28-text-peter-strzok-to-lisa-page %}).
+While the FBI claims that investigations into Trump's campaign began with the opening of [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) on July 31, 2016, communications between Strzok and his alleged mistress, FBI special counsel Lisa Page, show that the agent asked Page to discuss "\[o\]ur open C\[counter-\]I\[ntelligence\] investigations relating to Trump's Russian connections" with him on [July 28, 2016]({% post_url 2016-07-28-text-peter-strzok-to-lisa-page %}).
 
 > The timeline here suggests the FBI was not honest when it claimed anti-Trump investigations began on July 31, and only because of alleged information about George Papadopoulos. Strzok's July 28 text to Page about ongoing anti-Trump probes shows otherwise. https://t.co/D6nLO7ZhZB
 >
@@ -17,7 +17,7 @@ Corporate media such as the New York Times suggested that there was no evidence 
 
 Former FBI Director James Comey denied knowledge of any investigation until "sometime towards the end of September 2016."
 
-Previously declassified communications from Strzok, however, show the FBI employees' strong dislike and criticism of Trump as a presidential candidate. In a string of 2016 messages, just weeks after the formal investigation was opened, Page asked Strzok, "[Trump's] not ever going to become president, right? Right?!" to which he replied: "No. No he's not. We'll stop it."
+Previously declassified communications from Strzok, however, show the FBI employees' strong dislike and criticism of Trump as a presidential candidate. In a string of 2016 messages, just weeks after the formal investigation was opened, Page asked Strzok, "\[Trump's\] not ever going to become president, right? Right?!" to which he replied: "No. No he's not. We'll stop it."
 
 Strzok was told via text in December of 2016 that the DOJ's Office of Intelligence, "made it clear \[REDACTED\] would not support even our discussions let alone a \[FISA\] app" relating to Papadopoulos.
 

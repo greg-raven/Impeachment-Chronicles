@@ -27,7 +27,7 @@ In fact, Vindman's nutty statements were celebrated by CNN. Keilar fawned over h
 >
 > VINDMAN: Well without any doubt I can say a second Trump term would have put us on that trajectory, clearly on that trajectory ...
 
-Does CNN realize Trump isn't president anymore? The cherry on top was Keilar's final question to the partisan actor: "[Y]our future obviously has taken a very different course than you expected, but I wonder what it holds for you. Are you --- would you consider running for office?
+Does CNN realize Trump isn't president anymore? The cherry on top was Keilar's final question to the partisan actor: "\[Y\]our future obviously has taken a very different course than you expected, but I wonder what it holds for you. Are you --- would you consider running for office?
 
 The buttered-up Vindman boasted how he's been asked this before, and how he's not "discounting that possibility" to do "some good." Well CNN does have an embarrassing track record of propping up foes of the former president for political office.
 
