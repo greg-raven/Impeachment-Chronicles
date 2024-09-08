@@ -1,5 +1,5 @@
 ---
-title: "<#Title#>"
+title: "Trump disrespected sacred ground"
 layout: post
 tags:
 - Kamala Harris
