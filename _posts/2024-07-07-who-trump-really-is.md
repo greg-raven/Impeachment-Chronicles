@@ -29,6 +29,6 @@ It's our shared responsibility to defeat Trump once and for all and save our dem
 
 The MAGA Right has stockpiled millions of dollars to spread absurd falsehoods, and we must respond with strength.
 
-\[...\]
+[...]
 
 Source: Team Biden-Harris, via e-mail

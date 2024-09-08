@@ -9,7 +9,7 @@ President Biden: Traveling across the country, visiting every major battleground
 
 Trump:
 
-\[schedule image\]
+[schedule image]
 
 - hair
 

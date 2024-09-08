@@ -19,6 +19,6 @@ Trump raised his fist, face bloody, telling his supporters to "fight." It's an i
 
 It's not hard to see the causes. First, 'Trump derangement syndrome' still afflicts the Left. Second, the media is peddling conspiracy theories, from Trump wasn't shot to questioning the bandage on Trump's ear:
 
-\[...\]
+[...]
 
 Source: Matt Vespa, townhall.com/tipsheet/mattvespa/2024/07/19/one-third-of-dems-think-trump-staged-assassination-attempt-n2642167

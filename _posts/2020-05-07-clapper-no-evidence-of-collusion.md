@@ -47,9 +47,9 @@ He said the same thing to Dana Bash on CNN's State of the Union (via CNN):
 
 In his 2018 book that summer, *Facts and Fears: Hard Truths from a Life in Intelligence,* Clapper did not accuse Trump directly of collusion, but said that Trump made himself look guilty because of his objections to FBI investigations of his campaign aides.
 
-"\[I\]f Trump was not involved with their Russian collusion, he should have welcomed the FBI's work to protect him and his campaign from Russian influence. But once again, Donald Trump did not act like an innocent man," Clapper wrote (original emphasis).
+"[I]f Trump was not involved with their Russian collusion, he should have welcomed the FBI's work to protect him and his campaign from Russian influence. But once again, Donald Trump did not act like an innocent man," Clapper wrote (original emphasis).
 
-In May 2018, Clapper told MSNBC's Rachel Maddow that he believed Russia had swung the election for Trump: "It just stretched logic to me that \[Russia\] didn't have a huge impact on the election," he said.
+In May 2018, Clapper told MSNBC's Rachel Maddow that he believed Russia had swung the election for Trump: "It just stretched logic to me that [Russia] didn't have a huge impact on the election," he said.
 
 In March 2019, after Attorney General William Barr released his summary of Special Counsel Robert Mueller's report, which showed no evidence of any Russian collusion, Clapper told CNN he had "no regrets."
 

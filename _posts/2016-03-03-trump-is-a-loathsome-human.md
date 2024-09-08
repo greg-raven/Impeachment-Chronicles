@@ -7,22 +7,22 @@ tags:
 ---
 
 FBI Special Counsel Lisa Page
-: "God \[T\]rump is a loathsome human."
+: "God [T]rump is a loathsome human."
 
 FBI Deputy Assistant Director for Counterintelligence Peter Strzok
-: "Yet he may win \[the Republican nomination\]. Good for Hillary."
+: "Yet he may win [the Republican nomination]. Good for Hillary."
 
 Page
 : "It is."
 
 Strzok
-: "Would he be a worse president than \[C\]ruz?"
+: "Would he be a worse president than [C]ruz?"
 
 Page
 : "Trump? Yes, I think so."
 
 Strzok
-: "I'm not sure. Omg \[Trump's\] an idiot".
+: "I'm not sure. Omg [Trump's] an idiot".
 
 Page
 : "He's awful".

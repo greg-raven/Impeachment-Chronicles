@@ -75,7 +75,7 @@ He noted that Trump in October 2020 authorized the declassification of all the i
 
 Patel noted that the [Horowitz report]({% post_url 2019-12-09-review-of-four-fisa-applications-and-other-aspects-of-the-fbis-crossfire-hurricane-investigation %}) indicated FBI analyst Auten hid exculpatory information about Trump's adviser Page from other investigators and the FISA court, which should be more than enough to keep him at arm's length from other investigations involving Trump.
 
-"And to top it all off, this guy admits \[to Horowitz's investigators\] he's unrepentant about his role in making up the biggest hoax in election history, and Wray still lets him be a supervisor at the FBI," he said. "It's just insane."
+"And to top it all off, this guy admits [to Horowitz's investigators] he's unrepentant about his role in making up the biggest hoax in election history, and Wray still lets him be a supervisor at the FBI," he said. "It's just insane."
 
 The Justice Department's national security division has ultimate authority over the grand-jury probe of Trump for possible violations of the Espionage Act, including alleged mishandling of classified material --- the same statutes invoked in the Clinton email investigation. (In that case, in contrast, the FBI never searched the former secretary of state's Chappaqua, N.Y., mansion, where she set up an unsecured basement server to send and receive at least 110 classified emails and where she also received government documents by fax.)
 

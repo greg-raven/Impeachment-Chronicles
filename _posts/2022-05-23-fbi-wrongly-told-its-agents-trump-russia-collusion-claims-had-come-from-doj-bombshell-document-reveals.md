@@ -20,7 +20,7 @@ Sands, who testified late Monday afternoon, told jurors that she believed Heide 
 
 The error was seized on by Sussmann's defense attorney Michael Bosworth, who grilled Sands about whether Heide had lied to her --- or if someone had lied to him about the source of the material.
 
-"You haven't been interviewed in that \[Durham\] investigation?" Bosworth asked at one point. "No," Sands responded.
+"You haven't been interviewed in that [Durham] investigation?" Bosworth asked at one point. "No," Sands responded.
 
 Testifying for the prosecution Monday, FBI agent Ryan Gaynor revealed that bureau honchos shielded Sussmann's identity from field agents who investigated the claims of a link between Trump and Alfa-Bank as part of a longstanding practice known as a "close hold."
 
@@ -28,7 +28,7 @@ Gaynor told prosecutor Andrew DeFilippis that the decision to hide where the inf
 
 After the information was handed over to the Chicago squad, a more senior FBI agent at headquarters asked Gaynor, who had volunteered to "track" the investigation, to determine if the hold was affecting or hindering the investigation, he testified.
 
-Gaynor determined he could "not make an argument that we needed to pull the hold \[reveal Sussmann as the source\] at the time" because they were waiting for information from the spam email company that was actually behind the supposed secret back channel between the Trump Organization and Alfa-Bank, he testified.
+Gaynor determined he could "not make an argument that we needed to pull the hold [reveal Sussmann as the source] at the time" because they were waiting for information from the spam email company that was actually behind the supposed secret back channel between the Trump Organization and Alfa-Bank, he testified.
 
 Prosecutors then introduced a series of emails from agents in the Chicago field office who were investigating or overseeing the matter and requesting they be given access to the source.
 

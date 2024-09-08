@@ -5,7 +5,7 @@ tags:
 - Joe Biden
 ---
 
-\[...\]
+[...]
 
 Now, folks, I don't know what you did last night, but I spent 90 stages --- 90 minutes on the stage debating the guy who has the morals of an alley cat.
 
@@ -23,7 +23,7 @@ He tried to deny it. But let me ask you, are you going to believe a four-star Ma
 
 My son was one of those people --- not in World War I but in the v ---
 
-\[...\]
+[...]
 
 How about the fact that 40 out of his 44 top advisors, including the vice president, aren't supporting him this time around? The people who know him best --- 40 of them said, "I will not support the man I worked for this time around." It tells you a lot about --- the person who knows him.
 
@@ -69,7 +69,7 @@ Then, to add insult to injury, he wants to raise taxes on the average family $2,
 
 And most dangerously, though, we learned that Donald Trump will not respect this year's election outcome. He's still not --- he rejected the last time out.
 
-No, think about it. Every court in the nand \[*sic*\] ruled that it was a fair election. He's still denying it, still telling lies.
+No, think about it. Every court in the nand [*sic*] ruled that it was a fair election. He's still denying it, still telling lies.
 
 Three times, Trump was asked last night by the moderators: Would he respect the election results if he lost this time? Three times, he refused to answer. Three times.
 
@@ -105,7 +105,7 @@ Folks, let me close with this. I know I'm not a young man --- to state the obvio
 
 Well, I know.
 
-\[...\]
+[...]
 
 Folks, I don't walk as easy as I used to. I don't speak as smoothly as I used to. I don't deba --- debate as well as I used to. But I know what I do know: I know how to tell the truth.
 
@@ -147,6 +147,6 @@ Donald Trump is the first president I've heard of that stood up there and runnin
 
 No, I'm serious. A failing --- I don't know a president who wouldn't trade places with America in a heartbeat. He's dead wrong. America is not a losing nation. America is winning.
 
-\[...\]
+[...]
 
 Source: Joe Biden, whitehouse.gov/briefing-room/speeches-remarks/2024/06/28/remarks-by-president-biden-at-a-campaign-event-raleigh-nc/

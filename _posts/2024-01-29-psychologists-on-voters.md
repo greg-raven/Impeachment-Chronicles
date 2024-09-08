@@ -15,11 +15,11 @@ People at the extrinsic end of the spectrum are more attracted to prestige, stat
 
 Trump exemplifies extrinsic values. From the tower bearing his name in gold letters to his gross overstatements of his wealth; from his endless ranting about "winners" and "losers" to his reported habit of cheating at golf; from his extreme objectification of women, including his own daughter, to his obsession with the size of his hands; from his rejection of public service, human rights and environmental protection to his extreme dissatisfaction and fury, undiminished even when he was president of the United States, Trump, perhaps more than any other public figure in recent history, is a walking, talking monument to extrinsic values.
 
-\[...\]
+[...]
 
 Ever since Ronald Reagan came to power, on a platform that ensured society became sharply divided into "winners" and "losers," and ever more people, lacking public provision, were allowed to fall through the cracks, US politics has become fertile soil for extrinsic values. As Democratic presidents, following Reagan, embraced most of the principles of neoliberalism, the ratchet was scarcely reversed. The appeal to extrinsic values by the Democrats, Labour and other once-progressive parties is always self-defeating. Research shows that the further towards the extrinsic end of the spectrum people travel, the more likely they are to vote for a rightwing party.
 
-\[...\]
+[...]
 
 Trump might well win again --- God help us if he does. If so, his victory will be due not only to the racial resentment of ageing white men, or to his weaponisation of culture wars or to algorithms and echo chambers, important as these factors are. It will also be the result of values embedded so deeply that we forget they are there.
 

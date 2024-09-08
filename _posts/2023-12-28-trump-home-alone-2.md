@@ -23,6 +23,6 @@ But Mr Trump said the filmmakers were "begging" him to appear.
 
 "If they felt bullied, or didn't want me, why did they put me in, and keep me there, for over 30 years?" Mr Trump added. "Because I was, and still am, great for the movie, that's why!"
 
-\[...\]
+[...]
 
 Source: Bernd Debusmann Jr, bbc.com/news/world-us-canada-67834817

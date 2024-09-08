@@ -15,7 +15,7 @@ Attempting to solve a problem that does not exist, Politico tries to resolve the
 >
 > Yes, there is. A good way to start would be to cancel the day we mark today: "Presidents Day."
 >
-> \[...\]
+> [...]
 >
 > The name suggests we honor Lincoln and Washington no less than Richard Nixon or Warren G. Harding or Donald Trump.
 

@@ -11,6 +11,6 @@ Washington, --- House Speaker Nancy Pelosi did not write off the possibility of 
 
 Pelosi made her comments in an interview with CNN's Manu Raju at the Peter G. Peterson Foundation's Fiscal Summit.
 
-\[...\]
+[...]
 
 Source: Eli Watkins, cnn.com/2019/06/11/politics/impeachment-democrats-pelosi/index.html

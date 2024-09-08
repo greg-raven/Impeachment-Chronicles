@@ -6,7 +6,7 @@ tags:
 - Robert Mueller
 ---
 
-> \[...\] investigation did not establish that members of the Trump Campaign conspired or coordinated with the Russian government in its election interference activities.
+> [...] investigation did not establish that members of the Trump Campaign conspired or coordinated with the Russian government in its election interference activities.
 
 <iframe src="https://www.justice.gov/storage/report_volume1.pdf" class="pdf"></iframe>
 

@@ -34,7 +34,7 @@ When it comes to foreign election interference: Fool America once, shame on Trum
 
 As so often, the wisdom of our Constitutional Framers is instructive. Spoiler alert: Alexander Hamilton (in Federalist No. 72) knew Trump was coming:
 
-> An avaricious man, who might happen to fill the office, looking forward to ... yield\[ing\] up the emoluments he enjoyed ... might not scruple to have recourse to the most corrupt expedients.
+> An avaricious man, who might happen to fill the office, looking forward to ... yield[ing] up the emoluments he enjoyed ... might not scruple to have recourse to the most corrupt expedients.
 >
 > An ambitious man, too, when ... seated on the summit of his country's honors, ... would be ... violently tempted to embrace a favorable conjuncture for attempting the prolongation of his power, at every personal hazard.
 
@@ -42,6 +42,6 @@ Put another way, Donald Trump likes how he can line his and his family's pockets
 
 Our Framers expected, our Constitution allows, and our national ideals demand that Donald Trump be prevented from cheating in the next election. Other than denying him the Republican party nomination, impeachment by the House and removal and disqualification by the Senate is the only remedy.
 
-\[...\]
+[...]
 
 Source: R. J. Lyman, thebulwark.com/this-is-the-single-best-argument-for-why-trump-should-be-impeached-and-removed/

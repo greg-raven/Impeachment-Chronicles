@@ -21,15 +21,15 @@ That was one month before an FBI official looking into Steele's reliability met 
 
 The documents show the FBI query looking into Steele received both positive and negative reviews from those work colleagues.
 
-The positive comments described Steele as "smart," a "person of integrity," and "\[i\]f he reported it, he believed it."
+The positive comments described Steele as "smart," a "person of integrity," and "[i]f he reported it, he believed it."
 
 The criticism, however, was quite damning when it came to the colleagues' opinion of Steele's work collecting information.
 
-Colleagues said Steele "\[d\]emonstrates lack of self-awareness," exercised "poor judgment," and was "\[k\]een to help" but that willingness was "underpinned by poor judgment."
+Colleagues said Steele "[d]emonstrates lack of self-awareness," exercised "poor judgment," and was "[k]een to help" but that willingness was "underpinned by poor judgment."
 
-Other negatives collected from Steele's work colleagues included "Judgment: pursuing people with political risk but no intel value," and "\[d\]idn't always exercise great judgment sometimes \[he\] believes he knows best."
+Other negatives collected from Steele's work colleagues included "Judgment: pursuing people with political risk but no intel value," and "[d]idn't always exercise great judgment sometimes [he] believes he knows best."
 
-Also, the colleagues told the FBI that Steele does "\[r\]eporting in good faith, but not clear what he would have done to validate."
+Also, the colleagues told the FBI that Steele does "[r]eporting in good faith, but not clear what he would have done to validate."
 
 There is no indication in the declassified FISA applications that any of these assessments were reported to the court by the FBI in three renewal applications that were filed for months after the agency learned about the criticisms of Steele's work. Instead, the warrants continued to vouch for Steele's reliability.
 

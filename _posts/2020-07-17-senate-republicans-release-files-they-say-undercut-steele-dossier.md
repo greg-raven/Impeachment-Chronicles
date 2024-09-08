@@ -67,7 +67,7 @@ But the annex noted that Steele's reporting was "not developed by the layered su
 
 Another footnote, which was previously redacted in its entirety, further raised doubt on the credibility of Steele's main sources.
 
-"When interviewed by the FBI, the Primary Sub-source stated that he/she did not view his/her contacts as a network of sources, \[REDACTED\] with whom he/she has conversations about current events and government relations," one of the previously hidden footnotes reads.
+"When interviewed by the FBI, the Primary Sub-source stated that he/she did not view his/her contacts as a network of sources, [REDACTED] with whom he/she has conversations about current events and government relations," one of the previously hidden footnotes reads.
 
 Horowitz, though, had asserted that Steele's primary sub-source "used his/her network of sub-sources to gather information that was then passed to Steele."
 

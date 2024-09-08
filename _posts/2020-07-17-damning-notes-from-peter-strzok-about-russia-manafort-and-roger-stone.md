@@ -9,7 +9,7 @@ tags:
 >
 > NYT claimed that Trump campaign had repeated contacts w/ senior Russian intelligence officials before election.
 >
-> Strzok: "misleading and inaccurate... no evidence \[of this\]."
+> Strzok: "misleading and inaccurate... no evidence [of this]."
 >
 > Full doc: https://scribd.com/document/469507412/Annotated-New-York-Times-Article
 

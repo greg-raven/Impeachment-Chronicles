@@ -15,7 +15,7 @@ The Senate Judiciary Committee on Sunday released a document it says shows the F
 
 The document in question contains the draft talking points the FBI used to brief the Senate Intelligence Committee in February 2018, including an assessment that the primary sub-source of the information contained in the [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) had backed up the former MI-6 agent's reporting.
 
-The primary sub-source "did not cite any significant concerns with the way his reporting was characterized in the dossier to the extent he could identify it," the FBI memo claimed. "... At minimum, our discussions with \[the Primary Sub-source\] confirm that the dossier was not fabricated by Steele."
+The primary sub-source "did not cite any significant concerns with the way his reporting was characterized in the dossier to the extent he could identify it," the FBI memo claimed. "... At minimum, our discussions with [the Primary Sub-source] confirm that the dossier was not fabricated by Steele."
 
 You can read the document here.
 

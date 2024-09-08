@@ -6,7 +6,7 @@ tags:
 ---
 
 - Rosenberg on infamous pee tape: "It involved CIA and NSA. It involved Trump and involved that ridiculous, like, 'pee tape', which of course doesn't exist."
-- Rosenberg: "I think there's like a real internal tug of war \[at *NYT*\] between, like the reasonable people and some of the crazier leftist sh\*t that's worked its way in there."
+- Rosenberg: "I think there's like a real internal tug of war [at *NYT*] between, like the reasonable people and some of the crazier leftist sh\*t that's worked its way in there."
 - Rosenberg said his collogues at the *NYT* were "not the clearest thinkers, some of them" before calling the people that end up at the paper "very neurotic people."
 - Rosenberg on colleague Adam Goldman: "He's a terrible writer...He's just not good at conceptualizing things. He's not good with words. It's a skill. It's a hard one."
 - Rosenberg on the *NYT*'s ongoing lawsuit with Project Veritas: "James O'Keefe, that was a f\*ck up. We may well lose that one."

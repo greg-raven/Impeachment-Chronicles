@@ -21,6 +21,6 @@ Trump took the cognitive test in 2018 at his own request, Jackson told reporters
 
 The Montreal Cognitive Assessment that Trump took includes remembering a list of spoken words; listening to a list of random numbers and repeating them backward; naming as many words that begin with, say, the letter F as possible within a minute; accurately drawing a cube; and describing concrete ways that two objects --- like a train and a bicycle --- are alike.
 
-\[...\]
+[...]
 
 Source: NPR, npr.org/2024/06/16/g-s1-4673/trump-challenges-biden-to-cognitive-test-but-confuses-name-of-doctor-who-tested-him

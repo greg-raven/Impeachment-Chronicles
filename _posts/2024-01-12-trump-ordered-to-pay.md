@@ -33,7 +33,7 @@ The hefty financial penalty imposed on Trump covers all attorney fees, legal exp
 
 "This court granted the moving defendants' motion, dismissed plaintiff's claims as asserted against them, and directed plaintiff Donald Trump to pay the accumulated attorneys' fees, legal expenses, and costs of the moving defendants, pursuant to, and in accordance with, the provisions of NY Civil Rights Law," the court document read.
 
-\[...\]
+[...]
 
 Law and Crime reported:
 

@@ -53,8 +53,8 @@ We know for a fact that each of the six swing states changed its election rules 
 
 So it stands to reason that these unprecedented last-minute changes to voting procedures likely resulted in a flood of fraudulent ballots being counted. It also stands to reason that widespread mail-in voter fraud in the 2020 election disproportionately benefitted Joe Biden, seeing that he received more than twice as many mail-in votes as Trump.
 
-When considering all these factors, it seems obvious that Biden's 2020 victory was aided and abetted by rampant mail-in voter fraud. \[...\]
+When considering all these factors, it seems obvious that Biden's 2020 victory was aided and abetted by rampant mail-in voter fraud. [...]
 
-\[...\]
+[...]
 
 Source: Chris Talgo, theblaze.com/columns/opinion/trump-likely-won-the-2020-election-after-all

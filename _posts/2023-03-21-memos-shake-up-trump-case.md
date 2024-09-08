@@ -10,6 +10,6 @@ An attorney who advised disgraced Trump organization lawyer Michael Cohen provid
 
 "Cohen said he had no information against Trump," one memo summarizing attorney Robert Costello's interactions with Cohen stated. That memo, dated April 2019, recounted Costello's interview with federal prosecutors about conversations he and colleagues had with Cohen a year earlier.
 
-\[...\]
+[...]
 
 Source: Nick Givas and John Solomon, justthenews.com/politics-policy/all-things-trump/wcohen-wanted-trump-pay-legal-bills-had-no-incriminating-evidence

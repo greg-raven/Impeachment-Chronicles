@@ -9,6 +9,6 @@ The Colorado Supreme Court ruled to remove former President Donald Trump from th
 
 "Because he is disqualified, it would be wrongful act under the Election Code for the Colorado Secretary of State to list him as a candidate on the presidential primary ballot," the court said.
 
-\[...\]
+[...]
 
 Source: Marshall Cohen, cnn.com/politics/live-news/colorado-trump-14th-amendment-12-19-23/h_852c7b7ac92f2f01f6bf1e43a08b350e

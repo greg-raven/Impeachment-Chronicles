@@ -17,7 +17,7 @@ The Office of the Director of National Intelligence transmitted the declassified
 
 A source familiar with the documents explained that Brennan's handwritten notes were taken after briefing Obama on the matter.
 
-"We're getting additional insight into Russian activities from \[REDACTED\]," Brennan notes read. "CITE \[summarizing\] alleged approved by Hillary Clinton a proposal from one of her foreign policy advisers to vilify Donald Trump by stirring up a scandal claiming interference by the Russian security service," Brennan's notes read.
+"We're getting additional insight into Russian activities from [REDACTED]," Brennan notes read. "CITE [summarizing] alleged approved by Hillary Clinton a proposal from one of her foreign policy advisers to vilify Donald Trump by stirring up a scandal claiming interference by the Russian security service," Brennan's notes read.
 
 The notes state "on 28 of July." In the margin, Brennan writes "POTUS," but that section of the notes is redacted.
 
@@ -35,7 +35,7 @@ That referral was sent to Comey and then-Deputy Assistant Director of Counterint
 
 "This memorandum contains sensitive information that could be source revealing. It should be handled with particular attention to compartmentation and need-to-know. To avoid the possible compromise of the source, any investigative action taken in response to the information below should be coordinated in advance with Chief Counterintelligence Mission Center, Legal," the memo, which was sent to Comey and Strzok, read. "It may not be used in any legal proceeding --- including FISA applications --- without prior approval ..."
 
-"Per FBI verbal request, CIA provides the below examples of information the [CROSSFIRE HURRICANE]({% post_url 2016-07-31-crossfire-hurricane %}) fusion cell has gleaned to date," the memo continued. "An exchange \[REDACTED\] discussing U.S. presidential candidate Hillary Clinton's approval of a plan concerning U.S. presidential candidate Donald Trump and Russian hackers hampering U.S. elections as a means of distracting the public from her use of a private email server."
+"Per FBI verbal request, CIA provides the below examples of information the [CROSSFIRE HURRICANE]({% post_url 2016-07-31-crossfire-hurricane %}) fusion cell has gleaned to date," the memo continued. "An exchange [REDACTED] discussing U.S. presidential candidate Hillary Clinton's approval of a plan concerning U.S. presidential candidate Donald Trump and Russian hackers hampering U.S. elections as a means of distracting the public from her use of a private email server."
 
 The memo is heavily redacted.
 
@@ -59,7 +59,7 @@ The source added that the Brennan notes are significant because it is "their own
 
 Meanwhile, last week, during a hearing before the Senate Judiciary Committee, Comey was asked whether he received an investigative referral on Clinton from 2016, but he said it didn't "ring any bells."
 
-"You don't remember getting an investigatory lead from the intelligence community? Sept. 7, 2016, U.S. intelligence officials forwarded an investigative referral to James Comey and Strzok regarding Clinton's approval of a plan \[about\] Trump...as a means of distraction?" Graham asked Comey.
+"You don't remember getting an investigatory lead from the intelligence community? Sept. 7, 2016, U.S. intelligence officials forwarded an investigative referral to James Comey and Strzok regarding Clinton's approval of a plan [about] Trump...as a means of distraction?" Graham asked Comey.
 
 "That doesn't ring any bells with me," Comey said.
 

@@ -15,7 +15,7 @@ Intelligence officials in the United Kingdom evidently shared Durham's assessmen
 
 Durham highlighted an exchange between an intelligence official and the FBI's legal attache office in London (ALAT) in which the latter relayed concerns about the flimsiness of the evidence, especially as it related to former Trump campaign aides George Papadopoulos and Carter Page.
 
-"Dude, are we telling them \[British Intelligence Service-1\]  everything we know, or is there more to this?" he asked "Supervisory Special Agent-1." "That's all we have ... not holding anything back," was the reply, prompting ALAT to retort "Damn that's thin."
+"Dude, are we telling them [British Intelligence Service-1]  everything we know, or is there more to this?" he asked "Supervisory Special Agent-1." "That's all we have ... not holding anything back," was the reply, prompting ALAT to retort "Damn that's thin."
 
 The FBI legat in London "went on to tell the Inspection Division that in discussing the matter with a senior British Intelligence Service-I official, the official was openly skeptical, said the FBI's plan for an operation made no sense, and asked UK ALAT-1 why the FBI did not just go to  Papadopoulos and ask him what they wanted to know, a sentiment UK ALA T-I told investigators that he shared," he wrote.
 
@@ -23,11 +23,11 @@ The Brits' concern escalated throughout 2016 and 2017, eventually resulted in a 
 
 "Later in the Fall of 2016, UK ALAT-1 was at FBI Headquarters with some of his British Intelligence Service-I counterparts. While there, members of the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) team played the audio/visual recordings of CHS-1's August 20, 2016 meeting with Carter Page," Durham wrote. "UK ALAT-1 said the effect on the British Intelligence Service-I personnel was not positive because of the lack of any evidence corning out of the conversation."
 
-"UK ALAT-1 told the OIG that after watching the video one of his British colleagues said, 'For \[expletive\] sake, man. You went through a lot of trouble to get him to say nothing,'" the report said.
+"UK ALAT-1 told the OIG that after watching the video one of his British colleagues said, 'For [expletive] sake, man. You went through a lot of trouble to get him to say nothing,'" the report said.
 
 By the time Robert Mueller was named special counsel to take over the FBI investigation, British intelligence had had enough.
 
-"At a later point in time, after the Mueller Special Counsel team was in place, UK ALAT-1 said that 'the Brits finally had enough,' and in response to a request for some assistance '\[a British Intelligence Service-I person\] basically said there was no \[expletive\] way in hell they were going to do it.'"
+"At a later point in time, after the Mueller Special Counsel team was in place, UK ALAT-1 said that 'the Brits finally had enough,' and in response to a request for some assistance '[a British Intelligence Service-I person] basically said there was no [expletive] way in hell they were going to do it.'"
 
 Retired FBI intelligence chief Kevin Brock told Just the News last week that Durham exposed just how much the discredited Russia collusion probe "disrupted the country and besmirched the good reputation of the FBI.
 

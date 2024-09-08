@@ -33,7 +33,7 @@ Rep. Jim Jordan (R-Ohio), the ranking Republican on the House Judiciary Committe
 
 Alan Dershowitz, the famed Harvard law professor emeritus and lifelong Democrat, reviewed some of the correspondence at Just the News' request. He said the Biden White House's eagerness to waive Trump's claims of privilege could have future implications for generations of presidents to come.
 
-"I was very surprised," Dershowitz said after reading the text of Wall's letter. "The current president should not be able to waive the executive privilege of a predecessor, without the consent of the former president. Otherwise, \[privilege\] means nothing. What president will ever discuss anything in private if he knows the man who beat him can and will disclose it."
+"I was very surprised," Dershowitz said after reading the text of Wall's letter. "The current president should not be able to waive the executive privilege of a predecessor, without the consent of the former president. Otherwise, [privilege] means nothing. What president will ever discuss anything in private if he knows the man who beat him can and will disclose it."
 
 While some courts have upheld the notion of a successor president waiving privilege for a predecessor, Dershowitz said the matter remains to be decided definitively by the U.S. Supreme Court.
 

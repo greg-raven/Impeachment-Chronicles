@@ -7,7 +7,7 @@ tags:
 
 Evelyn Farkas, a former Obama administration official who previously encouraged congressional staffers to gather evidence of alleged collusion between President Trump's 2016 campaign and Russia and said she "knew" there was additional such information out there, admitted she did not know such information existed in a 2017 interview with congressional investigators.
 
-\[...\]
+[...]
 
 Farkas, who previously served as the deputy assistant secretary of Defense for Russia/Ukraine/Eurasia, said on MSNBC in 2017 that she "was urging my former colleagues, and, frankly speaking, the people on the Hill ... Get as much information as you can, get as much intelligence as you can, before President Obama leaves the administration, because I had a fear that somehow that information would disappear with the senior people that left. So it would be hidden away in the bureaucracy."
 
@@ -37,7 +37,7 @@ Farkas' interview with the committee took place just a couple of months after he
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If it&#39;s what you say I love it especially in November<a href="https://twitter.com/DonaldJTrumpJr?ref_src=twsrc%5Etfw">@DonaldJTrumpJr</a> wants accountability?<br><br>Send me to Congress and let&#39;s give him some: <a href="https://t.co/jQvh69Y2Lm">https://t.co/jQvh69Y2Lm</a> <a href="https://t.co/24PviGtGKY">https://t.co/24PviGtGKY</a></p>&mdash; Evelyn Farkas (@EvelynNFarkas) <a href="https://twitter.com/EvelynNFarkas/status/1258802948479619084?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-"On TV she said sh\[e\] had it but ... Under Oath, Evelyn Farkas Admitted She Never Had Any Evidence," Trump Jr. tweeted. "All these clowns did the same. Where's the accountability?"
+"On TV she said sh[e] had it but ... Under Oath, Evelyn Farkas Admitted She Never Had Any Evidence," Trump Jr. tweeted. "All these clowns did the same. Where's the accountability?"
 
 "If it's what you say I love it especially in November," Farkas retorted, quoting comments Trump Jr. made in an email in summer 2016 that was part of a conversation about getting dirt on Hillary Clinton from a Russian source.
 

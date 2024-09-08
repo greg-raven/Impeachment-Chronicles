@@ -11,7 +11,7 @@ Olbermann has been on an incredible run of stupid content in the wake of the att
 
 I completely debunk the claim Trump was hit by glass in the Instagram post below. Now, Olbermann is setting his sights on the St. Louis Cardinals over yet another situation he's gotten completely wrong.
 
-\[...\]
+[...]
 
 **Keith Olbermann calls the Cardinals Nazis over DJ celebration**
 
@@ -21,7 +21,7 @@ Yes, Keith Olberamann asked the MLB to blow up Busch Stadium because he thought 
 
 "F*CK THE ST. LOUIS CARDINALS," Olbermann further wrote.
 
-\[...\]
+[...]
 
 There's just one major problem with Olbermann's insane tweet. The celebration wasn't modeled after Trump getting up following a bullet striking him in the ear.
 

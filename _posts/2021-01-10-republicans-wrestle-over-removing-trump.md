@@ -21,7 +21,7 @@ Romney, the only Republican senator to vote to convict Trump on an article of im
 
 Rep. Garrett Graves (R-La.) on Friday called for Trump to step back from the duties of his office, though he said he did not support impeaching the president or invoking the 25th Amendment.
 
-"He effectively needs to resign. And what I mean by that is, effectively, he will not be out there talking, speaking, wielding the full authority and power of the White House, maybe even technically finding a way to hand over the keys to \[Vice President\] Pence," he said.
+"He effectively needs to resign. And what I mean by that is, effectively, he will not be out there talking, speaking, wielding the full authority and power of the White House, maybe even technically finding a way to hand over the keys to [Vice President] Pence," he said.
 
 Sen. Ben Sasse (R-Neb.), a prominent conservative and potential presidential candidate in 2024, said Thursday he would consider voting to convict Trump on an article of impeachment --- something he voted against less than a year ago when House Democrats impeached Trump, charging him with abuse of power and obstructing justice.
 

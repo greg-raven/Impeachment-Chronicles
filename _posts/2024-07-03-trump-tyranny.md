@@ -23,7 +23,7 @@ Writing on X, formerly Twitter, Snyder said:
 
 You can see his [posts here]({% post_url 2024-07-01-trump-will-end-america %}).
 
-\[...\]
+[...]
 
 Snyder has issued a warning for years about the threats Trump poses to the country and in 2021 said that Trump's claims the 2020 election was stolen had relied on “personal charisma and signals to his followers and a few people in the Justice Department and hope.”
 
@@ -37,7 +37,7 @@ Many have echoed his warnings.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The Supreme Court has shown itself to be governed, not by allegiance to the rule of constitution and law, but by slavish allegiance to a self-declared tyrant in waiting. Shame, shame, shame on these servants of the enemies of democracy. <a href="https://t.co/L51n17vbqr">https://t.co/L51n17vbqr</a></p>&mdash; Dan Little (@dlittle30) <a href="https://twitter.com/dlittle30/status/1807941685164532216?ref_src=twsrc%5Etfw">July 2, 2024</a></blockquote>
 
-\[...\]
+[...]
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">THIS resonated with me a little too much. Our enemies know that Trump election = end of American democracy, they support Trump so they can mock us and our claims of freedom afterwards. <a href="https://twitter.com/hashtag/maga_fascism?src=hash&amp;ref_src=twsrc%5Etfw">#maga_fascism</a> <a href="https://twitter.com/hashtag/TrumpImmunity?src=hash&amp;ref_src=twsrc%5Etfw">#TrumpImmunity</a> <a href="https://t.co/EiBNURm8yA">https://t.co/EiBNURm8yA</a></p>&mdash; Irm Haleem 🇺🇸 (@irmhaleem) <a href="https://twitter.com/irmhaleem/status/1808019662028132435?ref_src=twsrc%5Etfw">July 2, 2024</a></blockquote>
 
@@ -45,7 +45,7 @@ Many have echoed his warnings.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is always been the most perplexing part for me. If our GREATEST enemies support 45, why do you? <a href="https://t.co/DNQ0dyq8tP">https://t.co/DNQ0dyq8tP</a></p>&mdash; here4pinot (@here4pinot) <a href="https://twitter.com/here4pinot/status/1807954854851367096?ref_src=twsrc%5Etfw">July 2, 2024</a></blockquote>
 
-\[...\]
+[...]
 
 Trump's legal team believes that this ruling might significantly undermine special counsel Jack Smith's case, arguing that any communications Trump had with then-Vice President Mike Pence or Department of Justice officials could now be considered official, thus inadmissible at trial.
 

@@ -19,7 +19,7 @@ Eric Trump said the raid was predicated on fear of his father.
 
 Trump also invoked the Fifth Amendment while at a scheduled deposition with New York Attorney General Letitia James. The Attorney General scheduled the deposition to question the 45th President as part of a three-year civil lawsuit regarding the Trump Organization's business dealings, specifically whether the business improperly inflated the value of its assets.
 
-"\[James\] campaigned right before getting into the attorney general's office," said Eric Trump. "She campaigned on a promise. I'm going to go after Trump. I'm going to go after his children. I'm going to get him. I'm going to take him down."
+"[James] campaigned right before getting into the attorney general's office," said Eric Trump. "She campaigned on a promise. I'm going to go after Trump. I'm going to go after his children. I'm going to get him. I'm going to take him down."
 
 Despite the legal battles, Eric Trump said his father has raised more money in the last few days than he has in the history of his campaign.
 

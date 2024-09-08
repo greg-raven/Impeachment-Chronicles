@@ -15,7 +15,7 @@ District Judge Sarah Wallace wrote that Trump had played a role in this [insurre
 
 At the time the 14th Amendment was ratified, an [insurrection](/insurrection.html) was "understood to refer to any public use of force or threat of force by a group of people to hinder or prevent the execution of law," wrote Wallace in her 102-page opinion. The "events on and around January 6, 2021, easily satisfy this definition of '[insurrection](/insurrection.html),'" she concluded.
 
-The lawsuit before Wallace to try to keep Trump off the ballot under the 14th Amendment was filed in September by six Colorado voters. But Wallace did not disqualify Trump from standing for election in the state, writing that "for whatever reason the drafters of Section Three \[of the 14th Amendment to the US Constitution\] did not intend to include a person who had only taken the presidential oath."
+The lawsuit before Wallace to try to keep Trump off the ballot under the 14th Amendment was filed in September by six Colorado voters. But Wallace did not disqualify Trump from standing for election in the state, writing that "for whatever reason the drafters of Section Three [of the 14th Amendment to the US Constitution] did not intend to include a person who had only taken the presidential oath."
 
 That seems to fly in the face of reason. It's hard to believe that the framers of the 14th Amendment sought to disqualify from the ballot members of Congress but not a president who engaged in an [insurrection](/insurrection.html). Thankfully, the attorneys for the plaintiffs have said they will appeal this part of the ruling to the Colorado Supreme Court.
 

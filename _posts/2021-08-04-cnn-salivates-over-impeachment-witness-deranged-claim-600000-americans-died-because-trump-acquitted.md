@@ -27,7 +27,7 @@ In fact, Vindman's nutty statements were celebrated by CNN. Keilar fawned over h
 >
 > VINDMAN: Well without any doubt I can say a second Trump term would have put us on that trajectory, clearly on that trajectory ...
 
-Does CNN realize Trump isn't president anymore? The cherry on top was Keilar's final question to the partisan actor: "\[Y\]our future obviously has taken a very different course than you expected, but I wonder what it holds for you. Are you --- would you consider running for office?
+Does CNN realize Trump isn't president anymore? The cherry on top was Keilar's final question to the partisan actor: "[Y]our future obviously has taken a very different course than you expected, but I wonder what it holds for you. Are you --- would you consider running for office?
 
 The buttered-up Vindman boasted how he's been asked this before, and how he's not "discounting that possibility" to do "some good." Well CNN does have an embarrassing track record of propping up foes of the former president for political office.
 
@@ -45,7 +45,7 @@ Read the relevant transcript portion below:
 >
 > ALEXANDER VINDMAN: I do. I think he's an individual that tests --- that automatically tests boundaries and pushes as far as he can go. And the signals he received from his acquittal emboldened him going into management of the pandemic. I said it before, the president was --- believed he could about with impunity, he believed he could disregard all of the warning signs about an unfolding pandemic and his mismanagement resulted in needless deaths of hundreds of thousands of people. Certainly we could still have people dying because of pandemic, but it was the president's mismanagement. If he had been removed, if he had been censured, if he was on his back heels we would not have those kinds of casualties and wouldn't have had a second impeachment and wouldn't have riots in the streets that the president himself inflamed, we wouldn't have an insurrection. That's not just the failure of the president, that's a failure of the people that enabled the president.
 >
-> \[CNN graphic appears on screen: VINDMAN: 600,000 WOULD STILL BE ALIVE IF SENATE CONVICTED TRUMP\]
+> [CNN graphic appears on screen: VINDMAN: 600,000 WOULD STILL BE ALIVE IF SENATE CONVICTED TRUMP]
 >
 > KEILAR: I was speaking with someone recently who has experience with the regimes that you have experience with, right, in your area of expertise with eastern Europe and with Russia. Authoritarian governments. And that person said that, you know, most Americans haven't seen those up close. So they don't necessarily recognize the hallmarks of them, in the Trump administration or they aren't alarmed by them, but that Americans don't see a slide toward it when it's happening. Do you think that there is a slide toward authoritarianism happening in the U.S.?
 >

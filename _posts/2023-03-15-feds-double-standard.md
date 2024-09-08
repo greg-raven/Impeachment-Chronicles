@@ -29,6 +29,6 @@ Other veterans of the bureau say the Obama and Biden administrations have politi
 
 An FBI spokeswoman said the agency had no comment on why it did not apply the foreign lobbying law equally. The Justice Department did not return requests for comment.
 
-\[...\]
+[...]
 
 Source: Paul Sperry, realclearinvestigations.com/articles/2023/03/15/feds\_foreign-agent\_double\_standard\_protective\_of\_bidens\_even\_as\_they\_bore\_down\_on\_trumpworld_885544.html

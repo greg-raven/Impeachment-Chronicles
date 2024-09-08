@@ -15,7 +15,7 @@ The former president doesn't care about our country. He doesn't care about you. 
 
 So, here I am, a Republican asking millions of Americans to rush a donation to help reelect a Democratic president. Will you donate $25 or even more to President Biden's campaign before tonight's debate? We desperately need President Biden in the Oval Office to protect what makes this country great: our democracy.
 
-\[...\]
+[...]
 
 My entire life has been guided by the conviction that America is a beacon of liberty, freedom, and democracy.
 

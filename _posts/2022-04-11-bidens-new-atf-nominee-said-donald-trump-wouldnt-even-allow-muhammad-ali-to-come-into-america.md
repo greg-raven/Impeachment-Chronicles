@@ -11,6 +11,6 @@ People are already scouring the Twitter feed of Biden's new pick, Steve Dettelba
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We salute <a href="https://twitter.com/hashtag/MuhammadAli?src=hash&amp;ref_src=twsrc%5Etfw">#MuhammadAli</a> as a great American. Sadly, we need to acknowledge that Donald Trump wouldn't even allow him to come into America.</p>&mdash; Steve Dettelbach (@SteveDettelbach) <a href="https://twitter.com/SteveDettelbach/status/739622713724002305?ref_src=twsrc%5Etfw">June 6, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-\[...\]
+[...]
 
 Source: twitchy.com/brettt-3136/2022/04/11/flashback-bidens-new-atf-nominee-said-donald-trump-wouldnt-even-allow-muhammad-ali-to-come-into-america/

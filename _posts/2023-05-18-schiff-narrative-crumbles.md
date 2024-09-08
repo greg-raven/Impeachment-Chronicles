@@ -25,7 +25,7 @@ Schiff, who is running for the Democratic nomination to succeed Sen. Dianne Fein
 
 "I stood up to Donald Trump and held extreme MAGA forces accountable. Now they want payback," Schiff tweeted.
 
-Andrew McCarthy, a contributing editor at National Review and a former federal prosecutor, told the Washington Examiner that Schiff had used his "privilege" as House Intelligence leader "to perpetuate a partisan smear, knowing his \[GOP\] opposition could not correct him for fear of being accused of exposing classified information.
+Andrew McCarthy, a contributing editor at National Review and a former federal prosecutor, told the Washington Examiner that Schiff had used his "privilege" as House Intelligence leader "to perpetuate a partisan smear, knowing his [GOP] opposition could not correct him for fear of being accused of exposing classified information.
 
 "He'd known all the while there was no Trump-Russia conspiracy," McCarthy said.
 
@@ -49,7 +49,7 @@ Horowitz released a report in December 2019 that concluded the FBI's Trump-Russi
 
 Ex-FBI lawyer Kevin Clinesmith admitted to Durham in August 2020 that he falsified a document during the bureau's efforts to renew FISA surveillance authority against Carter Page, fraudulently editing a CIA email in 2017 to state that Page was "not a source" for the agency.
 
-Schiff quickly attacked the Durham investigation after the then-Connecticut federal prosecutor was picked by former Attorney General William Barr to investigate in 2019. He told the National Press Club that summer that Durham was part of a "desire to provide cover for the president \[Trump\] by investigating the investigators."
+Schiff quickly attacked the Durham investigation after the then-Connecticut federal prosecutor was picked by former Attorney General William Barr to investigate in 2019. He told the National Press Club that summer that Durham was part of a "desire to provide cover for the president [Trump] by investigating the investigators."
 
 Schiff attacked Durham's investigation again in October 2019 following reports the inquiry had shifted into a "criminal" investigation.
 

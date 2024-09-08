@@ -72,6 +72,6 @@ From Catherine's affidavit:
 
 Catherine and [True the Vote](https://truethevote.org) published her affidavit that confirms Georgia Secretary of State Brad Raffensperger lied to President Trump during their phone call on Jan. 2, 2021.
 
-\[...\]
+[...]
 
 Source: Jim Hoft, thegatewaypundit.com/2023/12/breaking-now-theres-proof-brad-raffensperger-lied-president/

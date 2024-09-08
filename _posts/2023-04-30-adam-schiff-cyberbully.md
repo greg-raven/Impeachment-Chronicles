@@ -5,7 +5,7 @@ tags:
 - Paul Sperry
 ---
 
-\[...\] In articles for RealClearlnvestigations, I outed Schiff's anonymous "whistleblower" from the first impeachment of President Trump. It was Eric Ciaramella, a Democrat who had worked in the Trump White House as an Obama holdover. I also exposed Ciaramella's prior relationship with Sean Misko, one of Schiff's top staffers on the impeachment committee.
+[...] In articles for RealClearlnvestigations, I outed Schiff's anonymous "whistleblower" from the first impeachment of President Trump. It was Eric Ciaramella, a Democrat who had worked in the Trump White House as an Obama holdover. I also exposed Ciaramella's prior relationship with Sean Misko, one of Schiff's top staffers on the impeachment committee.
 
 My reporting cast fresh doubts on Schiff's claims that the 2019 impeachment process happened organically. *The New York Times* had already revealed that Schiff had not been forthcoming about prior contacts with the whistleblower. Initially, Schiff publicly stated that his office had never spoken with the whistleblower before he filed his complaint against President Trump, when, in fact, a Schiff staffer had huddled with him --- something that Schiff's spokesman Patrick Boland was forced to admit after the *Times* broke the story. (The staffer was never identified.) The prior contacts led to suspicions that Schiff's office helped the whistleblower craft his complaint as part of a partisan operation.
 
@@ -33,6 +33,6 @@ In 2019, the scathing Horowitz Report proved that it was Nunes who was telling t
 
 More recently, Schiff pushed the false claim that the infamous Hunter Biden laptop was "Russian disinformation."
 
-\[...\]
+[...]
 
 Source: Paul Sperry, RealClearInvestigations.com (via Unum)

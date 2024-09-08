@@ -11,7 +11,7 @@ Rough transcript:
 
 Mr. Speaker, I take my duties as Wyoming's lone congressional representative very seriously, and my obligation to be honest and trustworthy is the foundation of my ability to carry them out.
 
-This privileged resolution isn't about politics, it is about the seriousness of being honest and forthright as a member of Congress and upholding the oath of office that we all take upon being sworn in. It is true that the gentleman from California \[Adam Schiff\] wouldn't be the first member of Congress to exaggerate or stretch the truth, but willfully lying about serious issues our country has faced is something entirely different, and claiming that a sitting president has committed what amounts to treason is beyond simple hyperbole.
+This privileged resolution isn't about politics, it is about the seriousness of being honest and forthright as a member of Congress and upholding the oath of office that we all take upon being sworn in. It is true that the gentleman from California [Adam Schiff] wouldn't be the first member of Congress to exaggerate or stretch the truth, but willfully lying about serious issues our country has faced is something entirely different, and claiming that a sitting president has committed what amounts to treason is beyond simple hyperbole.
 
 This member's lies led to the wasting of millions of taxpayer dollars for unnecessary investigations and the deflection of our attention from the most pressing issues at hand to focus on a made-up crisis.
 

@@ -25,7 +25,7 @@ Second, the paperwork violation in question came well after Trump's 2016 electio
 
 Third, it is not obvious that the reason for the payment and the reimbursement to Cohen was to influence the election, thus failing the "objective standard" of law. "It has to be something that anybody on the street can look at and say the only reason you did that was to influence the campaign," said Trainor. "There's a lot of reasons that he could have done it that aren't related to him being a candidate for president, and so therefore, it wouldn't have met the standard as campaign expenditure under federal law," he added.
 
-\[...\]
+[...]
 
 <iframe class="scribd_iframe_embed" title="7313_27" src="https://www.scribd.com/embeds/636346683/content?start_page=1&view_mode=scroll&access_key=key-SsJHnKzCVywl1Ux7JAWc" tabindex="0" data-auto-height="true" data-aspect-ratio="0.7729220222793488" scrolling="no" width="100%" height="600"></iframe><p style=" margin: 12px auto 6px auto; font-family: Helvetica,Arial,Sans-serif; font-style: normal; font-variant: normal; font-weight: normal; font-size: 14px; line-height: normal; font-size-adjust: none; font-stretch: normal; -x-system-font: none; display: block;" ><a title="View 7313_27 on Scribd" href="https://www.scribd.com/document/636346683/7313-27#from_embed" style="text-decoration: underline;">7313_27</a> by <a title="View Washington Examiner's profile on Scribd" href="https://www.scribd.com/publisher/19396213/Washington-Examiner#from_embed" style="text-decoration: underline;">Washington Examiner</a></p>
 

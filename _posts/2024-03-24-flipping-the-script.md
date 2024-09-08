@@ -29,7 +29,7 @@ Many of us recall that shortly after the stolen election of 2020 --- a/k/a "the 
 
 To be more specific, on November 12, 2020, CISA issued an unambiguous statement, declaring:
 
-"The November 3rd election was the most secure in American history ..." \[And then in bold font\] "There is no evidence that any voting system deleted or lost votes, changed votes, or was in any way compromised."
+"The November 3rd election was the most secure in American history ..." [And then in bold font] "There is no evidence that any voting system deleted or lost votes, changed votes, or was in any way compromised."
 
 CISA, mere days after the election, also cooed reassuringly: "While we know there are many unfounded claims and opportunities for misinformation about the process of our elections, we can assure you we have the utmost confidence in the security and integrity of our elections, and you should too. When you have questions, turn to elections officials as trusted voices as they administer elections."
 
@@ -43,13 +43,13 @@ As was *The New York Times!*
 
 Yet, in the overnight hours following the polls closing in 2020, there was something resembling an electoral immaculate conception of new machines and accompanying software, for immediately after that CISA and the legacy media determined that the machines' security, performance and accuracy are henceforth unquestionable, unassailable. The machines are perfect, they were and remain without sin.
 
-\[Never mind those Serbians behind the curtain; it's all in your imagination.\]
+[Never mind those Serbians behind the curtain; it's all in your imagination.]
 
 At least until narrative needs change again, with the prior narrative to be "memory holed."
 
 By the way, here's what an electoral immaculate conception looks like:
 
-\[...\]
+[...]
 
 Now, a critical word about CISA. Most of us had not heard of it until after the 2020 coup d'etat, at which time the media presented it as an agency dedicated to cyber-security. Well, we now know, "not so much." In fact, in a recent interview with Mike Benz and Tucker Carlson, CISA was actually created and operates as a, if not the, "tip of the spear" for the Deep State division of the Globalist-CCP Axis. (P.S. This is a "must watch" interview --- in its entirety!)
 

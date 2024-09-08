@@ -15,6 +15,6 @@ Biden spun the "Charlottesville very fine people hoax" again on Monday night at 
 
 This is Biden's script on Charlottesville, which he has memorized, and which he never changes, even when challenged:
 
-\[...\]
+[...]
 
 Source: Joel B. Pollack, breitbart.com/2020-election/2020/10/05/fact-check-joe-biden-repeats-the-charlottesville-very-fine-people-hoax-lester-holt-does-not-correct/

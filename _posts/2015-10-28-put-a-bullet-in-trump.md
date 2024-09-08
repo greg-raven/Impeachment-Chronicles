@@ -11,7 +11,7 @@ In an interview with MSNBC's Chris Hayes, Wilson conceded that "Trump is still a
 
 "They're still going to have to go out and put a bullet in Donald Trump," Wilson said. "And that's a fact."
 
-\[...\]
+[...]
 
 Source: Tony Lee, breitbart.com/politics/2015/10/28/gop-establishments-rick-wilson-donor-class-must-put-a-bullet-in-donald-trump/
 

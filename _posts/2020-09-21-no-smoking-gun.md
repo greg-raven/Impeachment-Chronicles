@@ -14,6 +14,6 @@ To hear Trump-Russia conspiracy advocates tell it, Kilimnik was the elusive miss
 But the plain text of the Senate report contains no concrete evidence to support its conclusions. Instead, with a heavy dose of caveats and innuendo, reminiscent of much of the torrent of investigative verbiage in the Russiagate affair, the report goes to great lengths to cast a pall of suspicion around Kilimnik, much of which is either unsupported or contradicted by publicly available information.
 
 
-\[...\]
+[...]
 
 Source: Aaron Maté, realclearinvestigations.com/articles/2020/09/21/analysis\_that\_senate\_collusion\_report\_has\_no\_smoking\_gun\_\_but\_it\_does\_have\_a\_fog\_machine_125229.html

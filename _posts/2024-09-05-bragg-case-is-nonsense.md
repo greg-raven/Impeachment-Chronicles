@@ -21,7 +21,7 @@ Users who went to share the video on Facebook were hit with the following messag
 
 Other users got the message: "We removed your content ... It looks like you tried to gather sensitive information from others ... This goes against our Community Standards on cybersecurity."
 
-Gerald Morgan, CEO of Louder with Crowder, addressed the censorship directly, stating, "We broke a massive story today on the Department of Justice ... and a lot of you haven't \[seen it\]," Morgan stated. Morgan continued, "Facebook is back in the business of making sure you do not see information that pertains to the election and Donald Trump and this administration."
+Gerald Morgan, CEO of Louder with Crowder, addressed the censorship directly, stating, "We broke a massive story today on the Department of Justice ... and a lot of you haven't [seen it]," Morgan stated. Morgan continued, "Facebook is back in the business of making sure you do not see information that pertains to the election and Donald Trump and this administration."
 
 According to Morgan, Facebook's actions mirror its role in censoring the Hunter Biden laptop story, suggesting a pattern of withholding crucial information.
 

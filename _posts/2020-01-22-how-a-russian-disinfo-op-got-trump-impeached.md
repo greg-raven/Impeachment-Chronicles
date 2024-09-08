@@ -11,7 +11,7 @@ Three weeks after Election Day 2016, the Kremlin officially floated a theory tha
 
 "Ukraine seriously complicated the work of Trump's election by planting information" aimed at damaging his campaign chairman Paul Manafort, a spokeswoman for Russia's Foreign Ministry told reporters on Nov. 30, 2016, accusing the Ukrainian government of scheming to help elect Hillary Clinton.
 
-\[...\]
+[...]
 
 Cindy Otis, a former political and military analyst at the CIA who now leads the disinformation analysis program at Nisos, a cyber security firm, says that Moscow may even have planted the seeds even earlier than Zakharova's news conference.
 
@@ -21,11 +21,11 @@ Cindy Otis, a former political and military analyst at the CIA who now leads the
 
 As is typical of Russia's disinformation operations, it hinged on a kernel of truth --- the reports cited donations her charity had received from Ukrainian oligarch Viktor Pinchuk beginning in 2008, which were initially reported by the Wall Street Journal.
 
-\[...\]
+[...]
 
 In January 2017, however, when POLITICO published a story titled "[Ukrainian efforts to sabotage Trump backfire]({% post_url 2017-01-11-ukrainian-efforts-to-sabotage-trump-backfire %})," some of Trump's allies seized on elements of the reporting --- sporadic criticism of the Republican candidate by Ukrainian officials and meetings with a DNC consultant --- while ignoring the caveat that the investigation found "little evidence of such a top-down effort by Ukraine."
 
-\[...\]
+[...]
 
 In that post-election news conference in 2016, Zakharova, the Foreign Ministry spokeswoman, said something that sounds eerily prophetic in hindsight.
 

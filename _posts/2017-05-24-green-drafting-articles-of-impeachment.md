@@ -35,6 +35,6 @@ Several Republican House members last week also suggested Trump might have commi
 
 The White House story about Comey's firing changed several times in the chaotic days afterward, but Trump and his team have denied any attempt to halt the FBI probe.
 
-\[...\]
+[...]
 
 Source: Jason Silverstein, nydailynews.com/news/politics/rep-al-green-drafting-trump-impeachment-articles-article-1.3192811

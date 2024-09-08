@@ -19,7 +19,7 @@ Internal communications revealed that Twitter censored the New York Post's story
 
 Roth, who at the time was Twitter's head of trust and safety, acknowledged the situation is "emerging," as "the facts remain unclear," but justified the censorship based on "the SEVERE risks here and lessons of 2016." Twitter's then-Deputy General Counsel Jim Baker agreed that "we need more facts to assess whether the materials were hacked," but nonetheless concluded that "it is reasonable for us to assume they may have been and that caution is warranted."
 
-Baker added: "\[T\]here are some facts that indicate that the materials may have been hacked, while there are others indicating that the computer was either abandoned and/or the owner consented to allow the repair shop to access it for at least some purposes. We simply need more information."
+Baker added: "[T]here are some facts that indicate that the materials may have been hacked, while there are others indicating that the computer was either abandoned and/or the owner consented to allow the repair shop to access it for at least some purposes. We simply need more information."
 
 None of the documents Taibbi released detailed the "facts" Baker or others at Twitter thought "indicate" the materials may have been hacked. Taibbi added, though, that while "several sources recalled hearing about a 'general' warning from federal law enforcement that summer about possible foreign hacks, there's no evidence --- that I've seen --- of any government involvement in the laptop story."
 
@@ -37,9 +37,9 @@ Twitter's letter to the FEC further explained that it was "the prior warnings of
 
 In this letter, then, Twitter itself is confirming that intelligence agencies warned the company to prepare for an October "hack-and-leak operation," rumored to involve Hunter Biden, and that that warning prompted Twitter to censor the Post story.
 
-Warnings from the FBI likewise prompted Facebook to censor the Hunter Biden story, according to founder Mark Zuckerberg. During an August 2020 interview with Joe Rogan, in explaining how Facebook handles controversial news such as the Hunter Biden laptop story, Zuckerberg began by providing his host with a backdrop to Facebook's decision to limit distribution of the New York Post's story, explaining: "The FBI basically came to us, some folks on our team, \[saying,\] 'Hey just so you know, you should be on high alert."
+Warnings from the FBI likewise prompted Facebook to censor the Hunter Biden story, according to founder Mark Zuckerberg. During an August 2020 interview with Joe Rogan, in explaining how Facebook handles controversial news such as the Hunter Biden laptop story, Zuckerberg began by providing his host with a backdrop to Facebook's decision to limit distribution of the New York Post's story, explaining: "The FBI basically came to us, some folks on our team, [saying,] 'Hey just so you know, you should be on high alert."
 
-Zuckerberg continued, explaining that the bureau told Facebook, "\[W\]e thought there was a lot of Russian propaganda in the 2016 election" and that "we have it on notice that basically there's about to be some kind of dump similar to that so just be vigilant."
+Zuckerberg continued, explaining that the bureau told Facebook, "[W]e thought there was a lot of Russian propaganda in the 2016 election" and that "we have it on notice that basically there's about to be some kind of dump similar to that so just be vigilant."
 
 "Hey, look, if the FBI --- which I still view as a legitimate institution in this country, it's a very professional law enforcement --- they come to us and tell us we need to be on guard about something, I want to take that seriously," Zuckerberg explained. "So, when the New York Post broke the Hunter Biden laptop story on Oct. 14, 2020, Facebook treated the story as potentially misinformation, important misinformation for five to seven days while the tech giant's team could determine whether it was false."
 

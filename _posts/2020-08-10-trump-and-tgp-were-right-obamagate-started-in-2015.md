@@ -67,7 +67,7 @@ The mainstream media was interested. They were interested in accusing President 
 
 To this day Wikipedia (which supports crazy far-left and dishonest positions in anything related to President Trump) calls this work, a conspiracy and "Spygate" a conspiracy.
 
-\[...\]
+[...]
 
 Wikipedia calls the above story a conspiracy and *The Gateway Pundit* a conspiracy media outlet. However, they don't call CNN, NBC, MSNBC, CNBC, ABC, *The New York Times, Washington Post,* and the many other far-left sites conspiracy outlets for pushing the Trump --- Russia collusion for more than two years.
 
@@ -77,17 +77,17 @@ US Intelligence and the Justice Department, including the FBI, were indeed spyin
 
 We now know, for instance, that corrupt DOJ attorney and number four at the DOJ, Bruce Ohr, set aside time to meet with Christopher Steele in his calendar in early October of 2015. Steele is the alleged author of the fake [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) used to obtain a FISA warrant to spy on the Trump campaign, transition team and Presidency. Ohr's calendar shows this meeting:
 
-\[...\]
+[...]
 
 Based on his calendar and his wife Nellie's testimony, we know that Bruce Ohr lied in front Congress. Ohr lied about Nellie's start date with Fusion GPS. The demoted and disgraced DOJ attorney Bruce Ohr stated in his testimony before Congress that Nellie started with Fusion GPS in November of 2015:
 
-\[...\]
+[...]
 
 General Flynn's attorney Sidney Powell gave us another clue in September of 2019.
 
 In her filing with the court, she requests that the U.S. government provide her and her client, General Mike Flynn, documents related to Deep State spy Joseph Mifsud from an event in late 2015 –
 
-\[...\]
+[...]
 
 Notice that Powell refers to "302s" regarding the dinner event in 2015 that General Flynn attended, which means that the FBI was interviewing Mifsud as early as 2015 and knew EXACTLY who Mifsud was. Notice also that the timing of this event was at the same time as Strzok's text in December of 2015!
 

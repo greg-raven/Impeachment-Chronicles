@@ -25,6 +25,6 @@ He tried deleting this post, but the Internet is forever, Keith.
 
 ![Keith Olbermann loses it](/assets/2024-07-23-keith-olbermann.jpg "2024-07-23-keith-olbermann.jpg")
 
-\[...\]
+[...]
 
 Source: Amy Curtis, https://twitchy.com/amy-curtis/2024/07/23/keith-olbermann-mad-at-cardinals-using-trump-fist-gesture-n2398718

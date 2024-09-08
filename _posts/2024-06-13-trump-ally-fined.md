@@ -13,6 +13,6 @@ Orban, a right-wing lawmaker and strong ally of former U.S. President Donald Tru
 
 "It seems that illegal #migrants are more important to the Brussels bureaucrats than their own European citizens," Orban said.
 
-\[...\]
+[...]
 
 Source: Nick Mordowanec, newsweek.com/trump-orban-hungary-eu-asylum-migrants-1912543

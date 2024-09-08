@@ -7,7 +7,7 @@ tags:
 
 My very minor status as an authority on Adolf Hitler comparisons stems from having coined "Godwin's Law" about three decades ago. I originally framed this "law" as a pseudoscientific postulate: "As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches one." (That is, its likelihood approaches 100 percent.)
 
-\[...\]
+[...]
 
 But when people draw parallels between Donald Trump's 2024 candidacy and Hitler's progression from fringe figure to Great Dictator, we aren't joking. Those of us who hope to preserve our democratic institutions need to underscore the resemblance before we enter the twilight of American democracy.
 

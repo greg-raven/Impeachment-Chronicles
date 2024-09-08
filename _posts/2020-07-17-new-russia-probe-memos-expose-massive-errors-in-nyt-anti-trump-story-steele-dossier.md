@@ -20,9 +20,9 @@ Comments made by then-FBI agent Peter Strzok undercut a litany of claims made in
 
 **Claim in NYT article:** "Phone records and intercepted calls show that members of Donald J. Trump's presidential campaign and other Trump associates had repeated contacts with senior Russian intelligence officials in the year before the election, according to four current and former American officials."
 
-**Note by Strzok:** "This statement is misleading and inaccurate as written. We have not seen evidence of any individuals in contact with Russians (both Governmental and non-Governmental)" and "There is no known intel affiliation, and little if any \[government of Russia\] affiliation\[.\] FBI investigation has shown past contact between \[Trump campaign volunteer Carter\] Page and the SVR \[Foreign Intelligence Service of the Russian Federation\], but not during his association with the Trump campaign."
+**Note by Strzok:** "This statement is misleading and inaccurate as written. We have not seen evidence of any individuals in contact with Russians (both Governmental and non-Governmental)" and "There is no known intel affiliation, and little if any [government of Russia] affiliation[.] FBI investigation has shown past contact between [Trump campaign volunteer Carter] Page and the SVR [Foreign Intelligence Service of the Russian Federation], but not during his association with the Trump campaign."
 
-**Claim in NYT article:** "... one of the advisers picked up on the \[intercepted\] calls was Paul Manafort, who was Mr. Trump's campaign chairman for several months ..."
+**Claim in NYT article:** "... one of the advisers picked up on the [intercepted] calls was Paul Manafort, who was Mr. Trump's campaign chairman for several months ..."
 
 **Note by Strzok:** "We are unaware of any calls with any Russian government official in which Manafort was a party."
 
@@ -46,7 +46,7 @@ Claim by NYT: "Senior FBI officials believe ... Christopher Steele ... has a cre
 
 **Note by Strzok:** "Recent interviews and investigation, however, reveal Steele may not be in a position to judge the reliability of subsource network."
 
-Claim by NYT: "The FBI's investigation into Mr. Manafort began last spring \[2016\]."
+Claim by NYT: "The FBI's investigation into Mr. Manafort began last spring [2016]."
 
 **Note by Strzok:** "This is inaccurate ... our investigation of Manafort was opened in August 2016."
 

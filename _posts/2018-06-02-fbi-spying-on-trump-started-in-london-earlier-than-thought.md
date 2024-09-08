@@ -17,7 +17,7 @@ Not only is the timeline moved up from the summer of 2016 to spring, Solomon pro
 >
 > The new timeline makes one wonder: Did the FBI follow its rules governing informants?
 
-"The revelation of purposeful contact initiated by alleged confidential human sources prior to any FBI investigation is troublesome," Rep. Mark Meadows (R-N.C.), an ally of President Trump and chairman of a House subcommittee that's taking an increasingly aggressive oversight role in the scandal, told me. "This new information begs the questions: Who were the informants working for, who were they reporting to and why has the \[Department of Justice\] and FBI gone to such great lengths to hide these contacts?"
+"The revelation of purposeful contact initiated by alleged confidential human sources prior to any FBI investigation is troublesome," Rep. Mark Meadows (R-N.C.), an ally of President Trump and chairman of a House subcommittee that's taking an increasingly aggressive oversight role in the scandal, told me. "This new information begs the questions: Who were the informants working for, who were they reporting to and why has the [Department of Justice] and FBI gone to such great lengths to hide these contacts?"
 
 Source: Tyler Durden, zerohedge.com/news/2018-06-02/fbi-spying-trump-started-london-earlier-thought-new-texts-implicate-obama-white (behind paywall)
 

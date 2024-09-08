@@ -20,7 +20,7 @@ Pelosi, who was personally targeted by some members of the pro-Trump mob in Wedn
 
 On Monday, they will try to adopt Maryland Democratic Rep. Jamie Raskin's 25th Amendment resolution by unanimous consent --- a gambit sure to be blocked by Trump's conservative allies.
 
-"If we do not receive Unanimous Consent, this \[Raskin\] legislation is planned to be brought up on the Floor the following day. We are calling on the Vice President to respond within 24 hours," Pelosi wrote.
+"If we do not receive Unanimous Consent, this [Raskin] legislation is planned to be brought up on the Floor the following day. We are calling on the Vice President to respond within 24 hours," Pelosi wrote.
 
 "Next, we will proceed with bringing impeachment legislation to the Floor."
 
@@ -28,7 +28,7 @@ But the Speaker did not say when the impeachment vote might happen.
 
 And Rep. Jim Clyburn (S.C.), the Democratic whip, suggested earlier Sunday that Democrats could impeach Trump now but delay sending the articles to the Senate, granting incoming President Joe Biden the time to seat his Cabinet and launch his 100-day agenda before an impeachment trial bogs down Congress for an indeterminate length of time.
 
-"We will take the vote that we should take in the House. And \[Pelosi\] will make the determination as to when is the best time to get that vote and get the managers appointed and move that legislation over to the Senate," Clyburn told CNN's Jake Tapper on Sunday.
+"We will take the vote that we should take in the House. And [Pelosi] will make the determination as to when is the best time to get that vote and get the managers appointed and move that legislation over to the Senate," Clyburn told CNN's Jake Tapper on Sunday.
 
 "Let's give President-elect Biden the 100 days he needs to get his agenda off and running," Clyburn added. "And maybe we will send the articles some time after that."
 

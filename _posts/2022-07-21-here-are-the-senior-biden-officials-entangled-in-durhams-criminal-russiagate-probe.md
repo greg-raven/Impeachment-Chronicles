@@ -13,7 +13,7 @@ It's not known whether these Biden appointees have been interviewed by Durham's 
 
 Just as the Democrats have used their control of Congress to cast President Trump and the Jan. 6 assault on the U.S. Capitol as threats to American democracy, Republicans are vowing if they regain power after November's congressional elections to investigate the years-long effort to question Trump's 2016 victory and undermine his presidency.
 
-The top Republican on the House Intelligence Committee, Rep. Mike Turner, recently pledged to hold hearings and issue subpoenas "to get to the bottom of \[Russiagate\] so this never happens again, so we never have Americans having to distrust their own government because of the politicization of the FBI \[and\] of our intelligence community."
+The top Republican on the House Intelligence Committee, Rep. Mike Turner, recently pledged to hold hearings and issue subpoenas "to get to the bottom of [Russiagate] so this never happens again, so we never have Americans having to distrust their own government because of the politicization of the FBI [and] of our intelligence community."
 
 RealClearInvestigations has learned that Congress has referred to the Special Counsel's Office at least a dozen cases of potential perjury involving former Clinton campaign officials and Obama administration officials who have testified behind closed doors about their involvement in Russiagate. Hill lawyers and investigators have met with Durham's staff about the criminal referrals stemming from the sworn depositions.
 
@@ -35,7 +35,7 @@ Krass allegedly told Sussmann she would consider the information for inclusion i
 
 The ICA became a foundational document for subsequent Trump-Russia probes and has been used by Democrats and the media to suggest the 2016 election was stolen from Clinton.
 
-"The greatest concern with the role of Krass is her 'interest' \[in Sussmann's tip\] despite the lack of foundational support \[for it\]," George Washington University law professor Jonathan Turley told RCI. "As with the FBI, the Clinton campaign found eager \[Obama\] officials to move on any such allegation \[against Trump\]."
+"The greatest concern with the role of Krass is her 'interest' [in Sussmann's tip] despite the lack of foundational support [for it]," George Washington University law professor Jonathan Turley told RCI. "As with the FBI, the Clinton campaign found eager [Obama] officials to move on any such allegation [against Trump]."
 
 On Feb. 9, 2017, Sussmann secured a sit-down meeting at CIA headquarters with "a representative from the Office of General Counsel," according to documents reviewed by RCI, where he turned over more dubious material allegedly linking Trump to Russia. The CIA lawyer he met with worked under Krass, who did not leave the agency until several months later, despite the change in administrations.
 
@@ -61,7 +61,7 @@ Federal campaign records reveal that Krass donated at least $3,575 to Hillary Cl
 
 Brennan's handwritten notes were turned up by Durham and opened a new track in his investigation, which early on had appeared to clear the CIA of wrongdoing. But now Durham is actively investigating this CIA front, according to one of his pre-trial filings. His grand jury has interviewed at least eight current and former CIA employees, and he is seeking out other agency employees who may have attended the meeting with Sussmann.
 
-"The government has been undertaking additional steps to determine if additional personnel were, in fact, present at this \[Feb. 9\] meeting with \[CIA\] employees," Durham noted. "In addition, the Special Counsel's Office maintains an active, ongoing criminal investigation of these and other matters that is not limited to the offense charged in the \[Sussmann\] indictment."
+"The government has been undertaking additional steps to determine if additional personnel were, in fact, present at this [Feb. 9] meeting with [CIA] employees," Durham noted. "In addition, the Special Counsel's Office maintains an active, ongoing criminal investigation of these and other matters that is not limited to the offense charged in the [Sussmann] indictment."
 
 It could not be determined if Krass is among former CIA employees interviewed by Durham's team. Durham's office remains tight-lipped, and neither the CIA nor Pentagon responded to requests for comment. Attempts to reach Krass were also unsuccessful.
 
@@ -69,7 +69,7 @@ During his 2017 House Intelligence Committee interview, Sussmann and his lawyer 
 
 Meanwhile, Judicial Watch is suing the CIA for all its records of contacts with Sussmann under the Freedom of Information Act. The Washington-based watchdog group recently filed the lawsuit after the CIA failed last year to reply to a request for the records, including notes, related to agency phone conversations and meetings with the Clinton campaign attorney.
 
-"The CIA is in cover-up mode about its communications with the \[Clinton\] lawyer implicated in a shady spy operation against President Trump," Judicial Watch President Tom Fitton said. "What is the CIA hiding about its role in this plot against Trump?"
+"The CIA is in cover-up mode about its communications with the [Clinton] lawyer implicated in a shady spy operation against President Trump," Judicial Watch President Tom Fitton said. "What is the CIA hiding about its role in this plot against Trump?"
 
 Fitton maintains that what happened at the CIA could be an even bigger scandal than what happened at the FBI.
 
@@ -103,7 +103,7 @@ Sullivan is also the "foreign policy adviser" cited in U.S. and Russian intellig
 
 Now operating out of the West Wing as Biden's national security adviser, Sullivan is under scrutiny for potentially false testimony he gave to Congress regarding his knowledge of, and role in, the campaign's opposition research efforts against Trump. Lying to Congress is a felony, although it's rarely prosecuted.
 
-"He has the gall to come into Congress --- I took so many of those depositions --- and say he had no idea how the \[Clinton-funded Steele\] dossier was created, or who the $10 million \[that\] Jake Sullivan and the DNC were paying was being utilized \[by\] to collect fraudulent information \[on Trump and his advisers\]," said Patel, a former federal prosecutor, who had worked for GOP intelligence chair Devin Nunes when he took the depositions. "So, I think John Durham's on his case."
+"He has the gall to come into Congress --- I took so many of those depositions --- and say he had no idea how the [Clinton-funded Steele] dossier was created, or who the $10 million [that] Jake Sullivan and the DNC were paying was being utilized [by] to collect fraudulent information [on Trump and his advisers]," said Patel, a former federal prosecutor, who had worked for GOP intelligence chair Devin Nunes when he took the depositions. "So, I think John Durham's on his case."
 
 An attorney for Sullivan did not respond to questions, while a spokeswoman for the National Security Council declined comment.
 

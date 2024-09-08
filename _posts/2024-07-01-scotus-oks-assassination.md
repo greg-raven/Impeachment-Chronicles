@@ -15,10 +15,10 @@ Legal experts said Monday that yes, as horrific and authoritarian as that sounds
 
 Making matters worse, said Dean, is that the court ruled that "official acts" by a president can't be used as evidence of criminal conduct for "unofficial acts." So in a hypothetical scenario involving Biden ordering people to kill Trump, his actual giving of the order would be potentially unavailable for evidence, he said.
 
-\[...\]
+[...]
 
 "Orders the Navy's Seal Team 6 to assassinate a political rival? Immune. Organizes a military coup to hold onto power? Immune. Takes a bribe in exchange for a pardon? Immune. Immune, immune, immune," Sotomayor wrote.
 
-\[...\]
+[...]
 
 Source: Jennifer Bendery, huffpost.com/entry/supreme-court-immunity-trump-biden-assassinate_n_66831f73e4b06575b36641d8

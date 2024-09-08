@@ -21,7 +21,7 @@ Nadler agreed with Stephanopoulos' assertion that whether or not the House is co
 
 The congressman said the impeachment resolutions being considered involve violations of the emoluments clause and Trump's "failure to defend the constitution against continuing Russian attacks."
 
-"We are investigating whether to report or approve articles of impeachments," Nadler continued. "We have impeachment resolutions before the \[House Judiciary\] committee. We are conducting investigations to determine whether we should report those to the House or whether we should draft our own and report them to the House."
+"We are investigating whether to report or approve articles of impeachments," Nadler continued. "We have impeachment resolutions before the [House Judiciary] committee. We are conducting investigations to determine whether we should report those to the House or whether we should draft our own and report them to the House."
 
 Nadler dismissed criticism that Democrats had made a "mistake" by having Mueller testify publicly. He accused Attorney General William Barr and Trump of deploying a widespread disinformation campaign to distract and "lie to the American people" about exoneration.
 

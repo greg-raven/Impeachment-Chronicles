@@ -52,7 +52,7 @@ Antifa protester John Sullivan was caught on video posing as a Trump supporter d
 
 Sullivan also organized an Antifa rally on January 6th near the U.S. Capitol. This has been ignored by the media.
 
-\[...\]
+[...]
 
 Despite all of the reports indicating that Antifa played a role in the January 6 riot, the media continues to blame President Trump and his supporters.
 

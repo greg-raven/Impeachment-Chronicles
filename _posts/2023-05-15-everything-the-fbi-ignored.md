@@ -15,6 +15,6 @@ For more than six years now, corrupt corporate media and Democrats have rallied 
 
 Despite repeated smears and pushback from the ruling class and professional hoaxing outlets like *The New York Times,* Durham uncovered several red flags that should have dissuaded the FBI from opening its "seriously flawed" [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation into the Trump campaign --- but didn't because the agency was too wrapped up in its hatred for the 2016 Republican presidential candidate.
 
-\[...\]
+[...]
 
 Source: Jonathan Boyd, thefederalist.com/2023/05/15/heres-everything-the-fbi-deliberately-ignored-to-get-trump-in-russian-collusion-hoax-according-to-durham/

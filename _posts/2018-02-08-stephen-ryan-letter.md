@@ -23,4 +23,4 @@ Stephen M. Ryan<br>Counsel for Michael Cohen
 
 Source: Stephen M. Ryan
 
-\[**Webmaster note:** Stephanie A. Gregory Clifford is AKA Stormy Daniels.\]
+[**Webmaster note:** Stephanie A. Gregory Clifford is AKA Stormy Daniels.]

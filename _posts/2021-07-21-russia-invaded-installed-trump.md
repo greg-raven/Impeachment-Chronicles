@@ -8,7 +8,7 @@ tags:
 
 Keith Olbermann claimed that Russia invaded us and installed Trump. He said just because you didn't see it, doesn't mean it didn't happen.
 
-\[...\]
+[...]
 
 > **Bill Maher:** And when John Lewis says he was not a legitimate president, I assume you're on that page.
 >

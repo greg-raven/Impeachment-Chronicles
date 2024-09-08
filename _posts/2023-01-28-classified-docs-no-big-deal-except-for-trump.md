@@ -9,7 +9,7 @@ The Deep State FBI influenced *New York Times* is attempting to build their case
 
 The TGP [The Gateway Pundit] has reported since the Deep State FBI's illegal raid on President Trump's home that he had every right to take with him the documents he wanted to take per the Presidential Records Act. He also had the ability to classify or declassify any documents he wished while President.
 
-\[...\]
+[...]
 
 The Deep State FBI mouthpiece *The New York Times* does not see it this way. In a report yesterday, they say the following:
 

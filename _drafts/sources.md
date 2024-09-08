@@ -105,7 +105,7 @@ March 21, 2024
 Not a Winning Campaign: Broke Don Hides
 in Basement
 Trump can't raise money, isn't campaigning, and is letting convicts and conspiracy theorists run his campaign
-\[...\]
+[...]
 
 [Julian Assange tells Megyn Kelly why WikiLeaks isn't releasing dirt on Donald Trump | The Week](https://theweek.com/speedreads/645239/julian-assange-tells-megyn-kelly-why-wikileaks-isnt-releasing-dirt-donald-trump)
 

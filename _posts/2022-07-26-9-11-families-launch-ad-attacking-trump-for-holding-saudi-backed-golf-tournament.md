@@ -37,9 +37,9 @@ The 9/11 families group had written directly to Trump and heard from an aide thi
 
 Politico reported that an aide called 9/11 Justice President Brett Eagleson and acknowledged receipt.
 
-She 'just \[repeated\] the same talking points, one being that the contract is binding and there is no way out of it.'
+She 'just [repeated] the same talking points, one being that the contract is binding and there is no way out of it.'
 
-'And when I pressed on when \[the contract\] was signed, she said she didn't know and just continued to say that the president was flattered with the letter, which was a weird thing to say, since it was not a very flattering letter. It called him a hypocrite essentially,' Eagleson told Politico.
+'And when I pressed on when [the contract] was signed, she said she didn't know and just continued to say that the president was flattered with the letter, which was a weird thing to say, since it was not a very flattering letter. It called him a hypocrite essentially,' Eagleson told Politico.
 
 Eagleson later said that while he appreciated getting the call from an unnamed Trump aide, it wasn't enough.
 

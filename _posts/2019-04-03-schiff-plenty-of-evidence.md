@@ -8,7 +8,7 @@ tags:
 
 Rep. Adam B. Schiff continued to double down on his claims Wednesday that there was "plenty of evidence of collusion" between the 2016 Trump campaign and Russia but added it wasn't enough for special counsel Robert Mueller to pursue charges.
 
-"There is plenty of evidence of collusion and corrupt co-mingling of work between the Trump campaign and the Russians, but I fully accept that as a prosecutor that he couldn't prove beyond a reasonable doubt \[of\] that crime," the California Democrat and chairman of the House Permanent Select Committee on Intelligence said on MSNBC's "Morning Joe" show.
+"There is plenty of evidence of collusion and corrupt co-mingling of work between the Trump campaign and the Russians, but I fully accept that as a prosecutor that he couldn't prove beyond a reasonable doubt [of] that crime," the California Democrat and chairman of the House Permanent Select Committee on Intelligence said on MSNBC's "Morning Joe" show.
 
 The chairman listed evidence of collusion, including a meeting between Mr. Trump's former campaign chairman Paul Manafort and a Russian connected to political consultant Konstantin Kilimnik, Donald Trump Jr.'s Trump Tower meeting, and Mr. Trump asking Russia to find his political rival Hillary Clinton's "missing emails."
 

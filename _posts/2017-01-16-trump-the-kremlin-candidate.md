@@ -13,6 +13,6 @@ Throughout the documentary, Sweeney interviews intelligence and security analyst
 
 After the film's initial release, it was featured at the [International Journalism Festival](https://en.wikipedia.org/wiki/International_Journalism_Festival) in [Perugia, Italy](https://en.wikipedia.org/wiki/Perugia,_Italy), in April 2017. *[The Guardian](https://en.wikipedia.org/wiki/The_Guardian)* selected the documentary among "Monday's best TV", and *[The National](https://en.wikipedia.org/wiki/The_National_(Scotland))* featured it as "TV Pick of the Day". The *[Times Union](https://en.wikipedia.org/wiki/Times_Union_(Albany))* called the film's revelations, "shocking and alarming". The documentary garnered an official response in the form of a critical statement from the [Russian Embassy in London](https://en.wikipedia.org/wiki/Embassy_of_Russia,_London); Russia's state-sponsored outlets *[Russia Today](https://en.wikipedia.org/wiki/Russia_Today)* (RT) and *Sputnik News* put out critical reports the same day.
 
-\[...\]
+[...]
 
 Source: en.wikipedia.org/wiki/Trump:\_The\_Kremlin\_Candidate

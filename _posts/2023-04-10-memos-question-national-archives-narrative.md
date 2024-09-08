@@ -17,6 +17,6 @@ But internal messages, emails and letters --- some released in recent days under
 
 For instance, new internal messages between Archives staff show that a full week after Wall's letter to Congress, a senior NARA official was still seeking data about the FBI probe.
 
-\[...\]
+[...]
 
 Source: justthenews.com/government/federal-agencies/internal-memos-call-question-national-archives-narrative-congress-trump

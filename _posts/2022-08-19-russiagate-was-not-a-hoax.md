@@ -13,6 +13,6 @@ While Mueller received all the hype, the Senate Select Committee on Intelligence
 
 Credit largely goes to Mark Warner, the ranking Democrat on the SSCI, who shrewdly orchestrated the proceedings. Cultivating a close relationship with the SSCI's Republican chair, Richard Burr, he worked to keep the investigation deliberately low-key. (The committee did the bulk of its work behind closed doors, without leaks.) As a result, the committee on the whole miraculously avoided the politicization that tainted the broader debate over Russian interference. Each of its findings won bipartisan approval prior to publication. Instead of rushing forward, the committee left the incendiary question of collusion for last.
 
-\[...\]
+[...]
 
 Source: Franklin Foer, theatlantic.com/ideas/archive/2020/08/russiagate-wasnt-a-hoax/615373/

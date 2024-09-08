@@ -33,7 +33,7 @@ Green, who is black, received threats after his speech in Washington. He began S
 
 When video of Green's speech to Congress was shown there was warm applause. One woman asked whether he thought Mike Pence, Trump's vice-president, should also be a target. Green said the focus must be on Trump. Another attendee expressed concern about what she saw as the politicization of the FBI.
 
-"I'm very proud of him, speaking up as he is for impeachment of the current president," said Phyllis Frye, an attorney, before the meeting. "The main thing that troubles me is that \[Trump\] doesn't act presidential. He's constantly, at three and four and five o'clock in the morning, tweeting all kinds of silliness. I wish they would take his phone away."
+"I'm very proud of him, speaking up as he is for impeachment of the current president," said Phyllis Frye, an attorney, before the meeting. "The main thing that troubles me is that [Trump] doesn't act presidential. He's constantly, at three and four and five o'clock in the morning, tweeting all kinds of silliness. I wish they would take his phone away."
 
 Vivian Lee, a peer counselor at the Houston Center for Independent Living, said Trump should be impeached "if he gets any worse, yeah. And I don't see it getting any better before it gets any worse. Once the healthcare act falls apart then we'll have people who will literally die because they will not have insurance."
 
@@ -43,6 +43,6 @@ Her group helps people with disabilities find housing. Budget cuts and uncertain
 
 For Lee, the concept of obstruction of justice is not simply about what the president's coterie may or may not have discussed with Russians and figures in faraway Washington; it is also about government policy that impedes the civil rights of people in need that she meets on a daily basis.
 
-"If nothing else, \[impeachment\] is our answer," she said. "Because the answers we've been given don't make you feel any better --- I mean that he's taking money from housing and education and medical to fund a war that we don't need. I need local answers."
+"If nothing else, [impeachment] is our answer," she said. "Because the answers we've been given don't make you feel any better --- I mean that he's taking money from housing and education and medical to fund a war that we don't need. I need local answers."
 
 Source: Tom Dart, theguardian.com/us-news/2017/may/20/impeach-trump-al-green-town-hall-texas

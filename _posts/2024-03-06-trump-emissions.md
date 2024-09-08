@@ -182,7 +182,7 @@ It suggests that a price on emissions, described as a "carbon fee", could signif
 
 An additional point of leverage is the EU's carbon border adjustment mechanism (CBAM), which will put a carbon price on US exports unless they face an equivalent price domestically, according to Democratic senator Sheldon Whitehouse, speaking at a launch event for the study:
 
-"The 2025 opportunity when the Trump tax cuts collapse \[creates\] huge room for negotiation. Then you've got the CBAM happening in Europe that puts enormous pressure to get a price of carbon, if you want to avoid being tariffed at the EU and UK level."
+"The 2025 opportunity when the Trump tax cuts collapse [creates] huge room for negotiation. Then you've got the CBAM happening in Europe that puts enormous pressure to get a price of carbon, if you want to avoid being tariffed at the EU and UK level."
 
 Whether a second-term Biden administration would attempt to put a price on carbon or not, it would be likely to push forward new policies in pursuit of US climate targets.
 
@@ -196,7 +196,7 @@ The increases in cumulative emissions under the "Trump" scenario are so large th
 
 In 2022, the Intergovernmental Panel on Climate Change (IPCC) sixth assessment report (AR6) said that it would be "impossible" to stay below 1.5C without strengthening current pledges:
 
-> "\[F\]ollowing current NDCs until 2030 ... \[would make\] it impossible to limit warming to 1.5C with no or limited overshoot and strongly increas\[e\] the challenge to likely limit warming to 2C."
+> "[F]ollowing current NDCs until 2030 ... [would make] it impossible to limit warming to 1.5C with no or limited overshoot and strongly increas[e] the challenge to likely limit warming to 2C."
 
 The corollary of this is that if the US --- the world's second-largest emitter --- misses its 2030 target by a wide margin, then it would be likely to end any hope of keeping global warming below 1.5C.
 

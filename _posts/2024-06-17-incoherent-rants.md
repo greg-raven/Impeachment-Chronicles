@@ -15,13 +15,13 @@ Last week, CNBC featured a reporter who told us about a meeting Trump had had wi
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reporter: I just spoke to a number of CEOs who met with Donald Trump. They thought they may support him at first, but they walked out of the meeting saying he was remarkably meandering, could not keep a straight thought, and was all over the map <a href="https://t.co/M6rx7i4zX0">pic.twitter.com/M6rx7i4zX0</a></p>&mdash; Biden-Harris HQ (@BidenHQ) <a href="https://twitter.com/BidenHQ/status/1801791667793469759?ref_src=twsrc%5Etfw">June 15, 2024</a></blockquote>
 
-\[...\]
+[...]
 
 Rep. Ted Lieu apparently heard the CEO story and weighed in Monday:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dear CEOs: Part of your job is to know the news. If you are “startled” when you see Trump’s incoherent rants in person, then that means you are consuming far too much right wing news.<br><br>Go outside your biased information bubble. Your company and your country will thank you for it. <a href="https://t.co/d5w01rkkDj">https://t.co/d5w01rkkDj</a></p>&mdash; Ted Lieu (@tedlieu) <a href="https://twitter.com/tedlieu/status/1802755089192648907?ref_src=twsrc%5Etfw">June 17, 2024</a></blockquote>
 
-\[...\]
+[...]
 
 Source: Brett T., twitchy.com/brettt/2024/06/17/rep-ted-lieu-says-ceos-shouldnt-be-surprised-by-trumps-incoherent-rants-n2397375
 

@@ -13,6 +13,6 @@ We saw the damage he inflicted on our country last time. He separated families a
 
 It was awful.
 
-\[...\]
+[...]
 
 Source: Team Biden-Harris, e-mail

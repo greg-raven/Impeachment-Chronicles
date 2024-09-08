@@ -40,7 +40,7 @@ The British government "hand-delivered" a letter to Flynn's team that "totally d
 
 Flynn himself has no memory of receiving the communique, but people around him at the time do and confirmed the existence of the document, Powell explained. Flynn was questioned about it during his debriefings by Mueller's team, she added.
 
-"I was told that a copy of the document would have been given to \[then-National Security Adviser\] Susan Rice as well," she added. "So the Obama administration knew full well that the entire Russia collusion mess was a farce."
+"I was told that a copy of the document would have been given to [then-National Security Adviser] Susan Rice as well," she added. "So the Obama administration knew full well that the entire Russia collusion mess was a farce."
 
 Instead of responding to the British government's warning by abandoning the Russia collusion narrative and sparing her client the years-long ordeal of being targeted for investigation, top U.S. intelligence officials hid the communication, Powell said.
 

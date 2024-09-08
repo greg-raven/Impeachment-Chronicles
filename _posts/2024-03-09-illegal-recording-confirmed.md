@@ -67,6 +67,6 @@ Favorito shares that there are social media posts showing that she was in Florid
 
 This could very well be a crime.  Was sharing the recording obtained illegally also a crime?
 
-\[...\]
+[...]
 
 Source: Jim Hoft, thegatewaypundit.com/2024/03/new-report-confirms-brad-raffenspergers-office-committed-crime/

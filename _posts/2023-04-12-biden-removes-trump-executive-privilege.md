@@ -21,7 +21,7 @@ This week more evidence came out that Biden was involved with the raid on Mar-a-
 >
 > It appears that the Biden White House and DOJ coordinated to obtain the Trump records and perhaps create a pretext for the law enforcement raid by way of a "special access request."
 
-\[...\]
+[...]
 
 Memos released last August also revealed the Biden White House worked directly with the DOJ and National Archives to instigate a criminal investigation into Trump's handling of documents.
 
@@ -43,6 +43,6 @@ Bannon at the 17:00 mark points out that the timelines show The Regime knew abou
 
 > When this comes out there is going to be impeachable crimes by President Biden...he weaponized the Justice Department to go after Trump ... **This is impeachable.**
 
-\[...\]
+[...]
 
 Source: Joe Hoft, thegatewaypundit.com/2023/04/biden-caught-this-is-impeachable-removed-president-trumps-executive-privilege-to-raid-mar-a-lago-in-effort-to-cover-up-his-illegal-possession-of-classified-docs/

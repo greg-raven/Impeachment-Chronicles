@@ -25,6 +25,6 @@ AOC's words of warning came after AAA announced last week that gas prices were o
 
 The national average for a gallon of gas was nearly $3.62, up from $2.39 on Jan. 20, 2021, when the president was sworn in. Gas prices for part of 2022 --- a year after Biden took office --- were double what they were when he was sworn in. According to AAA, the highest recorded average price for unleaded gas in the U.S. was on June 14, 2022, when a gallon cost consumers $5.016.
 
-\[...\]
+[...]
 
 Source: Sarah Rumpf-Whitten, foxnews.com/politics/aoc-claims-trumps-re-election-would-mean-higher-gas-prices-fuel-costs-hit-record-high-under-biden

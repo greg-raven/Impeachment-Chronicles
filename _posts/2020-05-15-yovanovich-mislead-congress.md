@@ -31,7 +31,7 @@ When asked about what options Congress has for holding accountable Yovanovitch a
 
 "There should be investigations and accountability," he said, suggesting DOJ should investigate.
 
-"If the tables were turned, and it was \[former Director of National Intelligence\] James Clapper lying and \[former U.N. Ambassador Samantha\] Power lying and these others lying, to take out a President Hillary Clinton or a President Barack Obama ... there would undoubtedly be perjury investigations," he said. "There need to be consequences about double standards."
+"If the tables were turned, and it was [former Director of National Intelligence] James Clapper lying and [former U.N. Ambassador Samantha] Power lying and these others lying, to take out a President Hillary Clinton or a President Barack Obama ... there would undoubtedly be perjury investigations," he said. "There need to be consequences about double standards."
 
 For Yovanovitch specifically, Zeldin said that an investigation would require figuring out if the ambassador had reviewed any of the documents that she claimed to have no recollection of receiving. If it can be determined that she did review them, it becomes easier to prove that she lied to Congress.
 

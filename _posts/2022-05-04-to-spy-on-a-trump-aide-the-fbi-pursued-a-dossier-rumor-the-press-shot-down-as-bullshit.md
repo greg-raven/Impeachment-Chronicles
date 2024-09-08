@@ -47,7 +47,7 @@ But later that day, Solomon reported back that "Page is neither confirming nor d
 
 Three days later, Fusion's attempts to plant their rumor in influential media outlets hit more resistance. Another Journal alumnus, Tom Hamburger, said he was "getting kick back" while trying to confirm the rumor for the Washington Post, where he worked on the paper's national desk.
 
-"That Page met with Sechin or Ivanov. 'Its \[*sic*\] bullshit. Impossible,' said one of our Moscow sources," Hamburger reported back to Fusion co-founder Glenn Simpson, who also previously worked for the Journal. (The rumor included Sergei Ivanov, a top Putin aide.) The Post's Moscow bureau chief at the time was David Filipov. Hamburger added that another reporter he knew "doesn't like this story" and was passing on it.
+"That Page met with Sechin or Ivanov. 'Its [*sic*] bullshit. Impossible,' said one of our Moscow sources," Hamburger reported back to Fusion co-founder Glenn Simpson, who also previously worked for the Journal. (The rumor included Sergei Ivanov, a top Putin aide.) The Post's Moscow bureau chief at the time was David Filipov. Hamburger added that another reporter he knew "doesn't like this story" and was passing on it.
 
 "No worries, I don't expect lots of people to believe it," Simpson replied. "It is, indeed, hard to believe."
 

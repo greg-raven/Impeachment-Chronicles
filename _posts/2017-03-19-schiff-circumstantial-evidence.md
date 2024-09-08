@@ -31,6 +31,6 @@ Trump then added:
 
 > "The real story that Congress, the FBI and all others should be looking into is the leaking of Classified information. Must find leaker now!"
 
-\[...\]
+[...]
 
 Source: Kailani Koenig, nbcnews.com/politics/politics-news/schiff-defends-committee-examining-russia-trump-connections-n735391

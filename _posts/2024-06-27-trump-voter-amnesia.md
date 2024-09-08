@@ -17,7 +17,7 @@ Biden campaign co-chair Rep. Veronica Escobar, a Texas Democrat, told CNN on Tue
 >
 > ESCOBAR: It does. I do think that people have amnesia. And as I've been talking to communities across the country for the campaign, especially Latino communities, I have reminded them that about what we experienced for four years under Trump, what Trump left the current president, President Biden with, but also what he's promising to do, which will raise their costs.
 
-\[...\]
+[...]
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Biden Campaign Co-Chair Veronica Escobar: Voters Who Think They Were Better Off With Trump Have &quot;Amnesia&quot;<a href="https://t.co/rqVlrPNVGT">https://t.co/rqVlrPNVGT</a> <a href="https://t.co/xK1yKY1lR7">pic.twitter.com/xK1yKY1lR7</a></p>&mdash; RCP Video (@rcpvideo) <a href="https://twitter.com/rcpvideo/status/1805990175643693296?ref_src=twsrc%5Etfw">June 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

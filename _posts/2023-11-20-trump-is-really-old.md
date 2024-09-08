@@ -15,6 +15,6 @@ Trump's cultural references are dated, and only getting more so. Elton John and 
 
 The same goes for his political touchstones. His view of immigration, in which foreign countries dispatch their undesirables en masse, seems to be shaped largely by the 1980 Mariel boatlift. His trade policy is steeped in '80s-era fears of Japan. He rails against "Communists" and "Marxists" like a Cold Warrior of yore (only with a peculiar affection for the Russians, rather than enmity).
 
-\[...\]
+[...]
 
 Source: David A. Graham, theatlantic.com/ideas/archive/2023/11/donald-trump-old-age-biden/676052/

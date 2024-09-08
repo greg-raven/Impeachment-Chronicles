@@ -15,7 +15,7 @@ Maddow appeared on "The View" Tuesday, when host Joy Behar discussed the alarm M
 
 "So you said recently that you thought that you, as an outspoken critic, could be a target yourself. Some people think that sounds overdramatic, but I'm right there with you," Behar informed Maddow.
 
-"I think that he is so vindictive that he will go after \[us\], however he has to, through the IRS maybe, or even through sponsors, to get us off the air maybe, or you."
+"I think that he is so vindictive that he will go after [us], however he has to, through the IRS maybe, or even through sponsors, to get us off the air maybe, or you."
 
 Maddow and the other women on set nodded in agreement:
 

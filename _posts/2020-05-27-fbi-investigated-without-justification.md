@@ -13,7 +13,7 @@ Those of us who have speculated there was insufficient cause for beginning the i
 
 Keep in mind the FBI cannot begin to investigate anyone, especially a U.S. citizen or entity, without first creating a document that lists the reasonably suspicious factors that would legally justify the investigation. That's FBI 101, taught Day 1 at the FBI Academy at Quantico, Va.
 
-To the untrained eye, the FBI document that launched [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) can be confusing, and it may be difficult to discern how it might be inadequate. To the trained eye, however, it is a train wreck. There are a number of reasons why it is so bad. Two main ones are offered below (\[...\]):
+To the untrained eye, the FBI document that launched [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) can be confusing, and it may be difficult to discern how it might be inadequate. To the trained eye, however, it is a train wreck. There are a number of reasons why it is so bad. Two main ones are offered below ([...]):
 
 First, the document is oddly constructed. In a normal, legitimate FBI Electronic Communication, or EC, there would be a "To" and a "From" line. The [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) EC has only a "From" line; it is from a part of the FBI's Counterintelligence Division whose contact is listed as Peter Strzok. The EC was drafted also by Peter Strzok. And, finally, it was approved by Peter Strzok. Essentially, it is a document created by Peter Strzok, approved by Peter Strzok, and sent from Peter Strzok to Peter Strzok.
 

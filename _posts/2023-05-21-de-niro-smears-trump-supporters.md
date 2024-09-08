@@ -17,7 +17,7 @@ The actor told reporters that evil still exists in the world, and former preside
 
 Later, he reportedly added: "Look, with Trump, there are people who still think he can do a good job. Imagine how insane that is."
 
-\[...\]
+[...]
 
 During the Trump administration, Robert De Niro frequently expressed his personal hatred of the president, often using profanity.
 

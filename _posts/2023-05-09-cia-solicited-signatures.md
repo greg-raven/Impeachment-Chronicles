@@ -23,6 +23,6 @@ Sean Davis reports:
 
 CNN contributor James Clapper said that?
 
-\[...\]
+[...]
 
 Source: Brett T., twitchy.com/brettt-3136/2023/05/09/testimony-cia-solicited-signatures-for-russian-disinformation-letter/

@@ -39,6 +39,6 @@ Orfalea is an artist: a highly creative and unorthodox videographer. The videos 
 
 The free trailer, available to all, is below. The full mini-documentary, for subscribers only, follows after that. Above all else, it demonstrates the key point about this new discourse about "disinformation." Those who most flamboyantly warn of the dangers of disinformation and seek to censor the internet in the name of fighting it are, (through such tactics as the defunct-for-now Homeland Security Disinformation Board) in fact, the most aggressive and destructive purveyors of disinformation in the world.
 
-\[...\]
+[...]
 
 Source: Glenn Greenwald, greenwald.substack.com/p/the-typhoid-mary-of-disinformation

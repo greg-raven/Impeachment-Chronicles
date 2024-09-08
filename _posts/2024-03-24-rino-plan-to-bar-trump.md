@@ -63,7 +63,7 @@ Singer's attempts to derail Trump did not stop after Trump's victory in the 2016
 
 In the 2024 Presidential Election, Singer chose to donate to Nikki Haley's campaign through the SFA Fund PAC. The billionaire gave Haley an astounding $5,000,000 donation on December 18th, 2023. See evidence of that donation below,
 
-\[...\]
+[...]
 
 Haley of course dropped out of the Presidential race on March 6th, 2024, less than 3 months after receiving Singer's astounding $5,000,000 donation.
 
@@ -77,7 +77,7 @@ By all measures, the push to remove Trump from the 2024 ballot has already begun
 
 Further investigation of the four Republican Representatives that have retired from the House prior to the 2024 Election show us the Singer has donated to Mike Gallagher, Kevin McCarthy, and Ken Buck. There is only one Republican that has retired, or is retiring prior to the 2024 Election that hasn't taken money from Singer. See evidence of Singer's donation to Gallagher, McCarthy, and Buck below,
 
-\[...\]
+[...]
 
 It's no secret that Paul Singer has been working to undermine Donald Trump since he first came down the Trump Tower escalator on June 16th, 2015. Could he be spearheading the mass retirement of GOP officials heading into 2024, ceding control of the House to the Democratic Party, and setting up Trump to be removed from the Presidential ballot prior to the election?
 

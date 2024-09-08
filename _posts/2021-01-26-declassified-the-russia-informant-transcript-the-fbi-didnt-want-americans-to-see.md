@@ -79,7 +79,7 @@ Despite such evidence, only one former FBI official, Clinesmith, has been prosec
 
 Remarkably, the FBI documents declassified by Trump state the FBI planned to drop its interest in Page if Halper's undercover work did not get the Trump adviser to admit to collusion.
 
-"If CD \[Page\] does not provide tangible information during the meeting of if CD explicitly states he does not know of any RF \[Russian Federation\] involvement in the campaign, the FBI will focus on a second target of the investigation," stated an Aug. 24, 2016 "operational plan" for Halper's interactions with Page.
+"If CD [Page] does not provide tangible information during the meeting of if CD explicitly states he does not know of any RF [Russian Federation] involvement in the campaign, the FBI will focus on a second target of the investigation," stated an Aug. 24, 2016 "operational plan" for Halper's interactions with Page.
 
 You can read that memo here:
 

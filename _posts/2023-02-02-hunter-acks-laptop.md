@@ -17,6 +17,6 @@ Mac Isaac declined to comment when reached by The Associated Press on Wednesday 
 
 The request for the DOJ to open a criminal inquiry does not commit federal prosecutors to take any actions, but represents a shift in legal strategy and a rare public response by the younger Biden and his legal team to years of attacks by Republican officials and conservative media, scrutiny expected to continue now that the GOP has taken over the House. The letter to the Justice Department was addressed to its top national security official, Matthew Olsen. It cites possible violations of statutes prohibiting the unauthorized access of a computer or stored electronic communication as well as the transport of stolen data across state lines and the publication of restricted personal data with the intent to intimidate or threaten. A Justice Department spokesperson declined to comment. Pictured: Screenshot of graphic content from Hunter's laptop.
 
-\[...\]
+[...]
 
 Source: Daily Mail, dailymail.co.uk/galleries/article-11705309/Hunter-Biden-finally-admits-infamous-laptop-writes-DOJ.html

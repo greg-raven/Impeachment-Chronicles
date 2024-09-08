@@ -15,13 +15,13 @@ The first phony claim Wallace promoted was regarding Trump's appearance at Lafay
 
 Wallace devoted a full segment to criticizing the Trump family for its alleged disdain of the Bible.
 
-"Hyper-masculine, real men show their faith by gassing protesters in Lafayette Square in order to --- for the sole purpose of --- being able to hoist a Bible above Trump's head as a photo prop, upside-down I believe, in front of St. John's church," she said. \[...\]
+"Hyper-masculine, real men show their faith by gassing protesters in Lafayette Square in order to --- for the sole purpose of --- being able to hoist a Bible above Trump's head as a photo prop, upside-down I believe, in front of St. John's church," she said. [...]
 
 Last June 1, President Trump visited the St. John's Episcopal Church, often called "the church of presidents," which rioters set fire to during arson-tinged unrest.
 
-Although the legacy media --- and candidate Joe Biden --- accused the president of ordering the U.S. Park Police to spray people with tear gas in order to stage a "photo op," an official government report released under the Biden administration cleared Trump of those charges. "The evidence we reviewed showed that the USPP cleared the park to allow a contractor to safely install antiscale fencing in response to destruction of \[f\]ederal property and injury to officers that occurred on May 30 and May 31," the report said.
+Although the legacy media --- and candidate Joe Biden --- accused the president of ordering the U.S. Park Police to spray people with tear gas in order to stage a "photo op," an official government report released under the Biden administration cleared Trump of those charges. "The evidence we reviewed showed that the USPP cleared the park to allow a contractor to safely install antiscale fencing in response to destruction of [f]ederal property and injury to officers that occurred on May 30 and May 31," the report said.
 
-USPP officials "made those decisions" and began clearing the area "several hours before they knew of a potential \[p\]residential visit to the park, which occurred later that day."
+USPP officials "made those decisions" and began clearing the area "several hours before they knew of a potential [p]residential visit to the park, which occurred later that day."
 
 Wallace then moved on to another false claim about Trump and the Bible.
 
@@ -39,7 +39,7 @@ Next, Wallace pushed another discredited claim about Trump's feelings on the mil
 
 She repeated the long-discredited, anti-Trump canard that Donald Trump refused to visit a military cemetery and called fallen U.S. soldiers "losers."
 
-Wallace said Trump's alleged hostility to the Bible sounded like "a direct echo" of "an earlier Atlantic \[magazine\] piece about Donald Trump calling those who served our country in the military suckers. ...
+Wallace said Trump's alleged hostility to the Bible sounded like "a direct echo" of "an earlier Atlantic [magazine] piece about Donald Trump calling those who served our country in the military suckers. ...
 
 "He had horrible things to say about anyone who had been injured or lost their life serving this country.
 

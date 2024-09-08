@@ -15,9 +15,9 @@ But as much as Waters is vindicated, she is also under fire. The representative 
 
 **Glamour: From the beginning, you have been a voice in the wilderness, warning America about this president.**
 
-Rep. Maxine Waters: I watched this president all during the primaries and the way that he treated his peers. I watched him talk about grabbing women by their private parts. I've watched him name-call --- he name-called me. I watched him promote violence at his rallies. I watched him embrace \[Russian president Vladimir\] Putin and refuse to denounce him even after our intelligence committee basically confirmed that the Russians had hacked into our election system.
+Rep. Maxine Waters: I watched this president all during the primaries and the way that he treated his peers. I watched him talk about grabbing women by their private parts. I've watched him name-call --- he name-called me. I watched him promote violence at his rallies. I watched him embrace [Russian president Vladimir] Putin and refuse to denounce him even after our intelligence committee basically confirmed that the Russians had hacked into our election system.
 
-And now I'm watching him, with this telephone call that really has gotten a lot more people into understanding and believing how dangerous he is, how corrupt he is. A tough call where he tried to talk the Ukrainian president into getting involved in some kind of phony investigation so that he could get dirt on \[former vice president Joe\] Biden.
+And now I'm watching him, with this telephone call that really has gotten a lot more people into understanding and believing how dangerous he is, how corrupt he is. A tough call where he tried to talk the Ukrainian president into getting involved in some kind of phony investigation so that he could get dirt on [former vice president Joe] Biden.
 
 **Trump has tweeted that the whistleblower should be executed for treason. He's suggested a civil war will break out if he is impeached. He has refused to cooperate with this probe. What is going to happen?**
 
@@ -29,11 +29,11 @@ And he was dangerous before he was president. Look at the way he treated African
 
 **That's the question too, isn't it? There is so much that's been out there. There's so much incredible reporting that's been done to uncover his corruption, so why this? Why now? You've been calling for impeachment since the beginning. Why is this call with Ukraine the thing that pushed people over the edge?**
 
-The call connects the dots. I think that it's helped people to understand that really Trump was asking a foreign power to get involved, to get dirt on what he thought would be his opponent. Then \[Speaker of the House\] Nancy Pelosi, who had been against impeachment, saw that more of the members of Congress were saying, "Oh my goodness, now is the time." And then of course the public also has continued to come onboard.
+The call connects the dots. I think that it's helped people to understand that really Trump was asking a foreign power to get involved, to get dirt on what he thought would be his opponent. Then [Speaker of the House] Nancy Pelosi, who had been against impeachment, saw that more of the members of Congress were saying, "Oh my goodness, now is the time." And then of course the public also has continued to come onboard.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unfortunately, many Members of Congress whisper the President should be impeached but have not supported my call for impeachment. Only a few of us dare to continue to urge both Dems and Repubs to impeach this dangerous president. I will keep trying. The public needs to demand!</p>&mdash; Maxine Waters (@RepMaxineWaters) <a href="https://twitter.com/RepMaxineWaters/status/1108747760566714368?ref_src=twsrc%5Etfw">March 21, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-It's all coming together around the call. And now that we know that the Secretary of State \[Mike Pompeo\] and the Attorney General \[William Barr\] were involved in this corruption, I believe that this formal inquiry is going to lead to a resolution of impeachment that will be voted on by the House Judiciary Committee. The six committee chairs, who have been doing an investigation, will be involved in helping to identify what should go into any impeachment resolution.
+It's all coming together around the call. And now that we know that the Secretary of State [Mike Pompeo] and the Attorney General [William Barr] were involved in this corruption, I believe that this formal inquiry is going to lead to a resolution of impeachment that will be voted on by the House Judiciary Committee. The six committee chairs, who have been doing an investigation, will be involved in helping to identify what should go into any impeachment resolution.
 
 **Do you think it will be successful?**
 
@@ -67,7 +67,7 @@ But I'm not discouraged. I just listen to what they have to say and think to mys
 
 **This week of news has already been insane. Where do we go from here?**
 
-I think the focus will be on Pompeo and \[Rudy\] Giuliani and Barr and even Pence. I don't know how they're going to legitimately escape having to be subpoenaed, having to get their documents, having to get their records.
+I think the focus will be on Pompeo and [Rudy] Giuliani and Barr and even Pence. I don't know how they're going to legitimately escape having to be subpoenaed, having to get their documents, having to get their records.
 
 I think we're in another era of a possible impeachment in which they could be charged with obstruction. And the consequences of not responding are going to be different.
 

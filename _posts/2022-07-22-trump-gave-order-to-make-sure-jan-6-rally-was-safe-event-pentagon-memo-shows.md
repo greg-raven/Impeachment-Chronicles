@@ -23,7 +23,7 @@ Dershowitz said the committee Democrats and two anti-Trump Republicans --- Liz C
 
 Former career federal prosecutor David Sullivan said Thursday that the entire Jan. 6 accountability process --- both at the Justice Department and the congressional hearings --- raised questions of fairness and gave viewers a reason to tune out what proved to be "very scripted" interrogations. He said Democrats likely would have gained more credibility and traction if they had let Republicans offer contrary evidence and engaged in true cross-examination.
 
-"Legal scholars are very troubled by the way these hearings are being conducted," Sullivan said. "There is no due process. For people who don't have an agenda to promote, these \[hearings\] are Stalinist. And I hate using that term."
+"Legal scholars are very troubled by the way these hearings are being conducted," Sullivan said. "There is no due process. For people who don't have an agenda to promote, these [hearings] are Stalinist. And I hate using that term."
 
 Throughout the summer, Democrats have argued that Trump intended and eventually succeeded in inciting the violence on Jan. 6. "The select committee has found evidence about a lot more than incitement here, and we're gonna be laying out the evidence about all of the actors who were pivotal to what took place on Jan. 6," Rep. Jamie Raskin (D-Md.) said at outset of the hearings.
 
