@@ -65,13 +65,13 @@ https://youtu.be/Zrf1AColf8M?si=UOUtyK1DblgBHva7
 2024-03-01 [MSNBC Goes Full Racist on President Trump's WHITE RURAL Voters aka People living in the Country - Accused of WHITE RURAL RAGE](https://rumble.com/v4gisu6-msnbc-goes-full-racist-on-pres-trumps-white-rural-voters-aka-people-living-.html)
 2023-12-22 [Trump recorded pressuring Wayne Co. canvassers not to certify 2020 vote](https://www.detroitnews.com/story/news/politics/2023/12/21/donald-trump-recorded-pressuring-wayne-canvassers-not-to-certify-2020-vote-michigan/72004514007/)
 2020-07-09 [No, Trump didn't tell Americans infected with the coronavirus to drink bleach](https://www.politifact.com/factchecks/2020/jul/11/joe-biden/no-trump-didnt-tell-americans-infected-coronavirus/)
-2024-04-01 [Trump Gag Order Is Expanded to Stop Attacks on Judge Merchan’s Family - The New York Times](https://www.nytimes.com/2024/04/01/nyregion/trump-gag-order-juan-merchan.html)
+2024-04-01 [Trump Gag Order Is Expanded to Stop Attacks on Judge Merchan's Family - The New York Times](https://www.nytimes.com/2024/04/01/nyregion/trump-gag-order-juan-merchan.html)
 
 [Trump attacks judge after gag order in hush money case | AP News](https://apnews.com/article/donald-trump-judge-merchan-hush-money-gag-order-truth-social-daughter-578a0c6334b206d81dc2ebf6a410a502)
 
 [Now even leftists think putting Stormy Daniels on the stand trashed Alvin Bragg's case against Trump - American Thinker](https://www.americanthinker.com/blog/2024/05/now_even_leftists_think_putting_stormy_daniels_on_the_stand_trashed_alvin_bragg_s_case_against_trump.html)
 
-[Judge in Trump Case Says She’s Concerned With Special Counsel Jack Smith | The Epoch Times](https://www.theepochtimes.com/us/judge-in-trump-case-says-shes-concerned-with-special-counsel-jack-smith-5653302)
+[Judge in Trump Case Says She's Concerned With Special Counsel Jack Smith | The Epoch Times](https://www.theepochtimes.com/us/judge-in-trump-case-says-shes-concerned-with-special-counsel-jack-smith-5653302)
 
 The mainstream media can never be trusted - https://rumble.com/v4wx0gw-the-mainstream-media-can-never-be-trusted.html
 
@@ -109,7 +109,7 @@ Trump can't raise money, isn't campaigning, and is letting convicts and conspira
 
 [Julian Assange tells Megyn Kelly why WikiLeaks isn't releasing dirt on Donald Trump | The Week](https://theweek.com/speedreads/645239/julian-assange-tells-megyn-kelly-why-wikileaks-isnt-releasing-dirt-donald-trump)
 
-[CNN Debate Moderator’s Ex-Husband Among 51 Spies Who Lied to the Public About Hunter Laptop to Steal 2020 Election Breaking Digest](https://breakingdigest.com/cnn-debate-moderators-ex-husband-among-51-spies-who-lied-to-the-public-about-hunter-laptop-to-steal-2020-election/)
+[CNN Debate Moderator's Ex-Husband Among 51 Spies Who Lied to the Public About Hunter Laptop to Steal 2020 Election Breaking Digest](https://breakingdigest.com/cnn-debate-moderators-ex-husband-among-51-spies-who-lied-to-the-public-about-hunter-laptop-to-steal-2020-election/)
 
 ---
 
@@ -154,9 +154,9 @@ https://www.youtube.com/watch?v=NgJDbzXo3rQ
 
 [It Just Gets WORSE ---> Secret Service Detail Diverted From PA Trump Rally ... to Jill Biden and WTAF – Twitchy](https://twitchy.com/samj/2024/07/15/jill-biden-secret-service-resources-who-made-the-call-n2398370)
 
-[Eric Holder on Republicans: ‘When they go low, we kick them’ | CNN Politics](https://www.cnn.com/2018/10/10/politics/eric-holder-republicans-when-they-go-low/index.html)
+[Eric Holder on Republicans: 'When they go low, we kick them' | CNN Politics](https://www.cnn.com/2018/10/10/politics/eric-holder-republicans-when-they-go-low/index.html)
 
-[Sen. Jon Tester On How To Handle Trump: ‘Punch Him In The Face’ | The Daily Caller](https://dailycaller.com/2019/07/18/jon-tester-handle-trump-punch-him-face/)
+[Sen. Jon Tester On How To Handle Trump: 'Punch Him In The Face' | The Daily Caller](https://dailycaller.com/2019/07/18/jon-tester-handle-trump-punch-him-face/)
 
 [Rep. Maxine Waters says she wants to 'take out' Trump | Fox News](https://www.foxnews.com/politics/rep-maxine-waters-says-she-wants-to-take-out-trump)
 
@@ -188,7 +188,7 @@ https://www.youtube.com/watch?v=WB7Y-bg4IT8
 
 [Trump rally shooting being investigated as attempt on his life as spectator killed | Donald Trump | The Guardian](https://www.theguardian.com/us-news/article/2024/jul/13/trump-rally-gun-shots-pennsylvania)
 
-[Trump’s history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
+[Trump's history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
 
 [Disney's 'Star Wars' Star Mark Hamill Cracks Jokes About Trump's Ear Bandage Following Assassination Attempt](https://www.breitbart.com/entertainment/2024/07/16/disneys-star-wars-star-mark-hamill-cracks-jokes-about-trumps-ear-bandage-following-assassination-attempt/)
 
@@ -206,4 +206,60 @@ https://www.threads.net/@countdownwithkeitholbermann/post/C9kdstJRx8s
 
 [Fact Check: Did Joe Biden Say He Would Fight Donald Trump? - Newsweek](https://www.newsweek.com/joe-biden-back-barn-donald-trump-tiktok-video-fact-check-1839170)
 
-[Trump’s history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
+[Trump's history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
+
+https://www.youtube.com/watch?v=C0n_8IpI6Cs
+
+[Despite Trump claim and 2020 tweet showing support, Harris never donated to Minnesota Freedom Fund - CBS Minnesota](https://www.cbsnews.com/minnesota/news/donald-trump-kamala-harris-minnesota-freedom-fund-donation/)
+
+['Direct attack': Critics say Trump is prepping 'much bigger insurrection' - Raw Story](https://www.rawstory.com/trump-direct-democracy-insurrection/)
+
+[New photos of Trump's ear have left-wingers doubling down on conspiracy he wasn't shot](https://www.elhayat-life.com/2024/07/new-photos-of-trumps-ear-have-left.html)
+
+[Here's Why Everyone Is Calling Trump And Vance Weird](https://www.buzzfeed.com/alanavalko/trump-vance-weird)
+
+https://www.youtube.com/watch?v=--6dEsv64gQ
+https://www.youtube.com/watch?v=Xs6OFgRLJ4k
+https://www.youtube.com/watch?v=Um9SocQx9K0
+https://www.youtube.com/watch?v=XW8AC4MmaAc
+https://www.youtube.com/watch?v=m3DqodkTKQ0
+https://www.youtube.com/watch?v=wBNQMBcpSEQ
+https://www.youtube.com/watch?v=y3ZtrFaa8Tw
+https://www.youtube.com/watch?v=TEtl6U7-aoQ
+https://www.youtube.com/watch?v=zEbfnla7uX4
+https://www.youtube.com/watch?v=u0uoPD8rKKM
+https://www.youtube.com/watch?v=FUXeM07dcW8
+https://www.youtube.com/watch?v=dtvalAbdYUg
+https://www.youtube.com/watch?v=S2rBEnJlM0I
+https://www.youtube.com/watch?v=jrg5YUFRby4
+https://www.youtube.com/watch?v=pj1RIr0HWhE
+https://www.youtube.com/watch?v=Wwa-8KYxTX4
+https://www.youtube.com/watch?v=FirPuyFkSGQ
+
+https://www.westernjournal.com/google-admits-changing-search-results-trump-assassination-searches-much/
+
+[Donald Trump Says He Will Go to Venezuela if He Loses Election - Newsweek](https://www.newsweek.com/donald-trump-flee-venezuela-loses-election-elon-musk-interview-1938321)
+
+[What's Happened In Silicon Valley Is Insane,' Says Mark Cuban – 'They Want Trump To Be The CEO Of The United States of America' - Benzinga](https://www.benzinga.com/startups/24/08/40429719/whats-happened-in-silicon-valley-is-insane-says-mark-cuban-they-want-trump-to-be-the-ceo-of-the-unit)
+
+[VFW blasts Donald Trump Medal of Honor statement as 'assinine'](https://thehill.com/homenews/4832324-vfw-donald-trump-medal-honor-statement/)
+
+[Trump Says It's Hard to Talk Policy With Obamas Attacking Him](https://www.msn.com/en-us/news/politics/trump-says-it-s-hard-to-talk-policy-with-obamas-attacking-him/ar-AA1pcGT9)
+
+[Mark Zuckerberg admits Biden admin pressured Facebook to censor COVID content, says it was wrong to suppress Hunter laptop coverage](https://nypost.com/2024/08/27/us-news/mark-zuckerberg-admits-biden-admin-pressured-facebook-to-censor-covid-content-says-it-was-wrong-to-suppress-hunter-laptop-coverage/)
+
+[Opinion | Here are 18 reasons Trump could be a Russian asset - The Washington Post](https://www.washingtonpost.com/opinions/here-are-18-reasons-why-trump-could-be-a-russian-asset/2019/01/13/45b1b250-174f-11e9-88fe-f9f77a3bcb6c_story.html)
+
+https://www.theatlantic.com/entertainment/archive/2017/01/madonna-trump-blow-up-the-white-house-womens-march-speech/514106/
+
+[Donald Trump Says He Never Swore Oath 'to Support the Constitution' - Newsweek](https://www.newsweek.com/donald-trump-oath-support-constitution-colorado-insurrection-1847482)
+
+[Trump Says He Had 'Every Right' to Interfere With Election - Newsweek](https://www.newsweek.com/donald-trump-every-right-interfere-presidential-election-1947342)
+
+[Pennsylvania is slipping out of Trump's reach - UnHerd](https://unherd.com/2024/09/pennsylvania-is-slipping-out-of-trumps-reach/)
+
+https://www.youtube.com/watch?v=DGt1I-6UcGE
+
+https://www.youtube.com/watch?v=5NGrkt-9nRM
+
+https://youtu.be/Xza-Z-ENJo0?si=xZ8uYjc4wD3DCs7K (from 1:14)
