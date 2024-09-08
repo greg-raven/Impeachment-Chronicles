@@ -77,7 +77,7 @@ Bill Clinton compared Donald Trump with foreign dictators and warned about the d
 
 *Anthropologist and historian*
 
-> Like Trump, [Mussolini] had very little in the way of strong ideological beliefs himself, and knew the power of emotional rather than rational appeals, and of the power of repeating simple, emotionally powerful yet substantively empty phrases.
+> Like Trump, \[Mussolini\] had very little in the way of strong ideological beliefs himself, and knew the power of emotional rather than rational appeals, and of the power of repeating simple, emotionally powerful yet substantively empty phrases.
 
 **8\. Kamala Harris: 'Trump's no better than any other dictator'**
 
@@ -89,7 +89,7 @@ Bill Clinton compared Donald Trump with foreign dictators and warned about the d
 
 According to the *Intelligencer,* Trump repeatedly dismissing the legitimacy of the election makes it 'clear to us that he wants to stay in power illegally':
 
-> [This is] characteristic of an authoritarian or pre-authoritarian situation.
+> \[This is\] characteristic of an authoritarian or pre-authoritarian situation.
 
 **10\. Elizabeth Warren: 'A two-bit dictator'**
 
@@ -143,7 +143,7 @@ Speaking about Trump's response to Nancy Pelosi launching impeachment proceeding
 
 *Professor of Philosophy at Yale University and author of* How Fascism Works
 
-> We don't have a fascist regime. But arguably, Trumpism is something akin to a fascist social and political movement and at the very least, we have massive use of fascist tactics. We've got militias roaming the streets, we have one of our political parties turning into a cult of its leader --- the RNC platform was just whatever Trump wants --- [and] that's an extremely worrisome sign.
+> We don't have a fascist regime. But arguably, Trumpism is something akin to a fascist social and political movement and at the very least, we have massive use of fascist tactics. We've got militias roaming the streets, we have one of our political parties turning into a cult of its leader --- the RNC platform was just whatever Trump wants --- \[and\] that's an extremely worrisome sign.
 
 Watch his full interview with CNN:
 

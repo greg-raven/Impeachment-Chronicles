@@ -15,7 +15,7 @@ The caller then suggested that impeachment might still be worthwhile because the
 
 That was an apparent reference to Democrat beliefs in a dramatic and unsubstantiated theory that Trump conspired with Russia to steal the 2016 presidential election. He promised it would also be an avenue that Democrats would pursue vigorously at the launch of the new Congress.
 
-Nadler said Russia investigations would be under a broad umbrella of holding Trump "accountable," since it's a more palatable argument than impeachment, that they would be going "all-in," and much of what they get to would be "depending on what [special counsel Robert] Mueller finds." Still, he said the Judiciary Committee would only be in a supportive role to Rep. Adam Schiff and the Intelligence Committee, which has "a way ahead start on that." Still, he said Judiciary "will have a role" in the Russia investigations.
+Nadler said Russia investigations would be under a broad umbrella of holding Trump "accountable," since it's a more palatable argument than impeachment, that they would be going "all-in," and much of what they get to would be "depending on what \[special counsel Robert\] Mueller finds." Still, he said the Judiciary Committee would only be in a supportive role to Rep. Adam Schiff and the Intelligence Committee, which has "a way ahead start on that." Still, he said Judiciary "will have a role" in the Russia investigations.
 
 \[...\]
 

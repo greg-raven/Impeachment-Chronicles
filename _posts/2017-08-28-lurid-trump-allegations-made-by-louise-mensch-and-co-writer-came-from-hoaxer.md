@@ -47,7 +47,7 @@ Taylor posted a lightly edited version of this to Twitter two days later. He quo
 
 In the same email, the source gave Taylor false details of how multiple inquiries into Trump were under way across Schneiderman's OCTF and financial crimes bureau. She said that Trump's modelling agency was under scrutiny. Taylor relayed all this without verification to his almost 200,000 followers in a pair of tweets.
 
-"There are a number of investigations being coordinated by NYAG Schneiderman office under both the Financial Crimes Bureau and the Organized Crime Task Force. According to my source one of the more intriguing ones is an inverstigation [sic] into the Trump Modeling Agency," Taylor said.
+"There are a number of investigations being coordinated by NYAG Schneiderman office under both the Financial Crimes Bureau and the Organized Crime Task Force. According to my source one of the more intriguing ones is an inverstigation \[*sic*\] into the Trump Modeling Agency," Taylor said.
 
 After being asked by a follower for more information, Taylor claimed to know even more than the hoaxer had told him. "I have few details but apparently the possibility exists that our president has been a sex trafficker," he said. Mensch then weighed in, reposting this false claim by Taylor and adding a vague allegation of her own that the full story was even worse.
 

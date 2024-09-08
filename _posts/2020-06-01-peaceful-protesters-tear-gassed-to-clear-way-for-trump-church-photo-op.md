@@ -31,7 +31,7 @@ The church has long been known for its support of social justice causes, and in 
 
 A former St. John's minister, Gini Gerbasi, was among those attending to the protesters in front of the church when the police moved in.
 
-"We were literally DRIVEN OFF of the St. John's, Lafayette Square patio with tear gas and concussion grenades and police in full riot gear," she wrote in a Facebook post. "PEOPLE WERE HURT SO THAT [President Trump] COULD HAVE A PHOTO OPPORTUNITY IN FRONT OF THE CHURCH!!! HE WOULD HAVE HAD TO STEP OVER THE MEDICAL SUPPLIES WE LEFT BEHIND BECAUSE WE WERE BEING TEAR GASSED!!!!"
+"We were literally DRIVEN OFF of the St. John's, Lafayette Square patio with tear gas and concussion grenades and police in full riot gear," she wrote in a Facebook post. "PEOPLE WERE HURT SO THAT \[President Trump\] COULD HAVE A PHOTO OPPORTUNITY IN FRONT OF THE CHURCH!!! HE WOULD HAVE HAD TO STEP OVER THE MEDICAL SUPPLIES WE LEFT BEHIND BECAUSE WE WERE BEING TEAR GASSED!!!!"
 
 In a statement Monday evening, the Episcopal Church Presiding Bishop Michael Curry joined in the criticism of Trump's visit.
 

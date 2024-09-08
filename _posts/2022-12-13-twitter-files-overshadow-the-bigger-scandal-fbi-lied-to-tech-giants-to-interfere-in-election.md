@@ -37,7 +37,7 @@ Twitter's letter to the FEC further explained that it was "the prior warnings of
 
 In this letter, then, Twitter itself is confirming that intelligence agencies warned the company to prepare for an October "hack-and-leak operation," rumored to involve Hunter Biden, and that that warning prompted Twitter to censor the Post story.
 
-Warnings from the FBI likewise prompted Facebook to censor the Hunter Biden story, according to founder Mark Zuckerberg. During an August 2020 interview with Joe Rogan, in explaining how Facebook handles controversial news such as the Hunter Biden laptop story, Zuckerberg began by providing his host with a backdrop to Facebook's decision to limit distribution of the New York Post's story, explaining: "The FBI basically came to us, some folks on our team, [saying,] 'Hey just so you know, you should be on high alert."
+Warnings from the FBI likewise prompted Facebook to censor the Hunter Biden story, according to founder Mark Zuckerberg. During an August 2020 interview with Joe Rogan, in explaining how Facebook handles controversial news such as the Hunter Biden laptop story, Zuckerberg began by providing his host with a backdrop to Facebook's decision to limit distribution of the New York Post's story, explaining: "The FBI basically came to us, some folks on our team, \[saying,\] 'Hey just so you know, you should be on high alert."
 
 Zuckerberg continued, explaining that the bureau told Facebook, "[W]e thought there was a lot of Russian propaganda in the 2016 election" and that "we have it on notice that basically there's about to be some kind of dump similar to that so just be vigilant."
 

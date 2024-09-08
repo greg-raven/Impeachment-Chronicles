@@ -31,7 +31,7 @@ We've long known that Russian hackers attempted to break into the nation's voter
 
 There are other good reasons to ask questions about the election. In Florida, exit polls on election day had Clinton winning by 1.3 % of the vote. When the votes were tallied, Trump beat her by 1.2%.
 
-None of this data is [*sic*] conclusive. But it absolutely does not suggest that American citizens should shut up, forget it, and will away all the evidence that something's rotten in our electoral system. If it didn't hurt your candidate this time, next time it might.
+None of this data is \[*sic*\] conclusive. But it absolutely does not suggest that American citizens should shut up, forget it, and will away all the evidence that something's rotten in our electoral system. If it didn't hurt your candidate this time, next time it might.
 
 When, in 1974, President Gerald Ford pardoned former President Richard Nixon, he sounded noble. He claimed that to put Nixon on trial would cost the nation its newfound "tranquility." Why rock the boat by bringing Nixon, who'd already been subject to so much "degradation," to trial?
 

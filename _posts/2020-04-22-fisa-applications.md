@@ -7,7 +7,7 @@ tags:
 
 Newly declassified documents raise serious questions about James Comey potentially withholding damning information regarding the credibility of Russia collusion charges repeatedly relied upon to obtain four successive warrants to spy on a member of Donald Trump's 2016 presidential campaign.
 
-The documents, reviewed in full by Breitbart News, show that a senior official in the FBI under Comey was told early on from professional colleagues of dossier author Christopher Steele that they found Steele to possess traits evidencing "poor judgement," a "lack of self-awareness" and issues with validating claims. The official was provided this assessment as part of an FBI review of Steele's reliability.
+The documents, reviewed in full by Breitbart News, show that a senior official in the FBI under Comey was told early on from professional colleagues of dossier author Christopher Steele that they found Steele to possess traits evidencing "poor judgment," a "lack of self-awareness" and issues with validating claims. The official was provided this assessment as part of an FBI review of Steele's reliability.
 
 Yet the FBI saw fit to repeatedly rely in part upon now debunked Russia collusion charges that originated in a series of wild claims collected by Steele when the agency successfully applied for Foreign Intelligence Surveillance Act (FISA) warrants to spy on Carter Page, a tangential foreign policy adviser to Donald Trump's 2016 presidential campaign.
 
@@ -21,15 +21,15 @@ That was one month before an FBI official looking into Steele's reliability met 
 
 The documents show the FBI query looking into Steele received both positive and negative reviews from those work colleagues.
 
-The positive comments described Steele as "smart," a "person of integrity," and "[i]f he reported it, he believed it."
+The positive comments described Steele as "smart," a "person of integrity," and "\[i\]f he reported it, he believed it."
 
 The criticism, however, was quite damning when it came to the colleagues' opinion of Steele's work collecting information.
 
-Colleagues said Steele "[d]emonstrates lack of self-awareness," exercised "poor judgment," and was "[k]een to help" but that willingness was "underpinned by poor judgment."
+Colleagues said Steele "\[d\]emonstrates lack of self-awareness," exercised "poor judgment," and was "\[k\]een to help" but that willingness was "underpinned by poor judgment."
 
-Other negatives collected from Steele's work colleagues included "Judgment: pursuing people with political risk but no intel value," and "[d]idn't always exercise great judgment sometimes [he] believes he knows best."
+Other negatives collected from Steele's work colleagues included "Judgment: pursuing people with political risk but no intel value," and "\[d\]idn't always exercise great judgment sometimes \[he\] believes he knows best."
 
-Also, the colleagues told the FBI that Steele does "[r]eporting in good faith, but not clear what he would have done to validate."
+Also, the colleagues told the FBI that Steele does "\[r\]eporting in good faith, but not clear what he would have done to validate."
 
 There is no indication in the declassified FISA applications that any of these assessments were reported to the court by the FBI in three renewal applications that were filed for months after the agency learned about the criticisms of Steele's work. Instead, the warrants continued to vouch for Steele's reliability.
 

@@ -73,7 +73,7 @@ End of September 2016:
 : Fusion GPS' Glenn Simpson and former British spy Christopher Steele meet with reporters, including *New York Times, Washington Post,* Yahoo News, the *New Yorker,* and CNN or ABC. One meeting is at office of Democratic National Committee general counsel.
 
 Sept. 23, 2016:
-: Michael Isikoff and Yahoo News report "U.S. intel officials probe ties between Trump adviser [Carter Page] and Kremlin." It is later revealed that the FBI improperly wiretapped Page for a year.
+: Michael Isikoff and Yahoo News report "U.S. intel officials probe ties between Trump adviser \[Carter Page\] and Kremlin." It is later revealed that the FBI improperly wiretapped Page for a year.
 
 Early October 2016:
 : Steele, the author of anti-Trump "dossier," meets in New York with David Corn, Washington bureau chief of *Mother Jones.*

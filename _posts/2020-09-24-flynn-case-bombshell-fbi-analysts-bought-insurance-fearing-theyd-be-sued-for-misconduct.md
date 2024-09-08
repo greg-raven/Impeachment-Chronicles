@@ -35,6 +35,6 @@ By January, the FBI analysts were alarmed that their agency was engaged in misco
 
 A follow-up string of messages suggested the bureau would be exposed for "rabbit holes and conspiracy theories" if the Russia casework was ever exposed because of its lack of evidence.
 
-"I'm tellying [sic] man, if this thing ever gets FOIA'd, there are going to be some tough questions asked," one official wrote.
+"I'm tellying \[*sic*\] man, if this thing ever gets FOIA'd, there are going to be some tough questions asked," one official wrote.
 
 Source: John Solomon, justthenews.com/accountability/russia-and-ukraine-scandals/flynn-case-bombshell-fbi-analysts-bought-insurance

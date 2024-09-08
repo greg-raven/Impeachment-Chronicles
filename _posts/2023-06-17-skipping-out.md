@@ -15,7 +15,7 @@ Journalists were quick to claim Trump skipped out on a promise to buy supporters
 
 The "update" quietly added to the pieces.
 
-"A spokesperson for Trump [said] the former president had 'offered to buy food' for his supporters but they 'followed him outside' when he was leaving 'and did not place orders themselves,'" admitted Insider in an amended version of their article, adding that Trump's advance team "paid for any to-go meals ordered."
+"A spokesperson for Trump \[said\] the former president had 'offered to buy food' for his supporters but they 'followed him outside' when he was leaving 'and did not place orders themselves,'" admitted Insider in an amended version of their article, adding that Trump's advance team "paid for any to-go meals ordered."
 
 Nevertheless, the headline of Insider's report still suggests Trump "left without paying for anything" as of the time of publication.
 

@@ -27,7 +27,7 @@ Of course, we all know that the [Mueller report]({% post_url 2019-03-22-mueller-
 
 **5. Denying FISA abuse even though he knew it happened**
 
-Back in 2017, then-House Intelligence Committee Chairman Devin Nunes (R-Calif.) revealed that evidence of FISA "abuse" had been uncovered by investigators. "We have had an ongoing investigation into DOJ [Department of Justice] and FBI since mid-summer for both FISA [Foreign Intelligence Surveillance Court] abuse and other matters that we can't get into too much. But it is very concerning," he said.
+Back in 2017, then-House Intelligence Committee Chairman Devin Nunes (R-Calif.) revealed that evidence of FISA "abuse" had been uncovered by investigators. "We have had an ongoing investigation into DOJ \[Department of Justice\] and FBI since mid-summer for both FISA \[Foreign Intelligence Surveillance Court\] abuse and other matters that we can't get into too much. But it is very concerning," he said.
 
 A couple of months later, the House Intelligence Committee released a memo on surveillance abuses by the Obama administration. For Schiff, any abuse of the FISA court system might undermine any impeachment narrative that might present itself with regard to the 2016 election and Russian collusion. So, Schiff had to mock the Nunes memo relentlessly to keep the message on track. Schiff denied that any abuses had occurred in his own memo released shortly thereafter. As the ranking Democrat on the committee at the time, Schiff had access to the same information as Nunes, so he knew the Nunes memo was accurate.
 

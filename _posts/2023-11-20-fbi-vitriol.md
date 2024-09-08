@@ -19,7 +19,7 @@ The whistleblower said Mr. Veltri, who served as acting deputy assistant directo
 
 The whistleblower's allegations are serious and deserve further investigation, said Chris Swecker, a lawyer and law enforcement professional who served as assistant director of the FBI's criminal investigative division during the George W. Bush administration.
 
-"Let's say half of that is true. If they wiped his social media clean, that's something that needs to be looked at by the DOJ and the [Office of] Inspectors General," he told The Times. "It's highly improper to wipe things clean that shows some kind of bias. I know they want it off, but then there could have been an inquiry about it, and it could have held up the promotion."
+"Let's say half of that is true. If they wiped his social media clean, that's something that needs to be looked at by the DOJ and the \[Office of\] Inspectors General," he told The Times. "It's highly improper to wipe things clean that shows some kind of bias. I know they want it off, but then there could have been an inquiry about it, and it could have held up the promotion."
 
 The FBI rejected the whistleblower's allegations and said Mr. Veltri was promoted through a process by the book.
 

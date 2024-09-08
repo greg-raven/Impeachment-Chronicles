@@ -21,6 +21,6 @@ But impeachment talk is likely to hang in the backdrop for the next two years in
 
 Sherman says he's not worried that introducing the resolution --- the first of what could be several articles filed --- would box his colleagues into answering a difficult political question.
 
-"Every member of the House will have to address [the issue] whether there are formal articles of impeachment pending," he said.
+"Every member of the House will have to address \[the issue\] whether there are formal articles of impeachment pending," he said.
 
 Source: Jennifer Haberkort, latimes.com/politics/la-na-pol-congress-impeachment-20190103-story.html

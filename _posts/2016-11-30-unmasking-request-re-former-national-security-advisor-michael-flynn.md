@@ -1,5 +1,5 @@
 ---
-title: "Unmasking request re former National Security Advisor [Michael Flynn]"
+title: "Unmasking request re former National Security Advisor \[Michael Flynn\]"
 layout: post
 tags:
 - Paul M. Nakasone

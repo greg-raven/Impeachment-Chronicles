@@ -9,7 +9,7 @@ tags:
 
 Federal Bureau of Investigation (FBI) agents tasked by fired former Director James Comey to take down Donald Trump during and after the 2016 election were so concerned about the agency's potentially illegal behavior that they purchased liability insurance to protect themselves less than two weeks before Trump was inaugurated president, previously hidden FBI text messages show. The explosive new communications and internal FBI notes were disclosed in federal court filings today from Sidney Powell, the attorney who heads Michael Flynn's legal defense team.
 
-"[W]e all went and purchased professional liability insurance," one agent texted on Jan. 10, 2017, the same day CNN leaked details that then-President-elect Trump had been briefed by Comey about the bogus Christopher [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}). That briefing of Trump was used as a pretext to legitimize the debunked dossier, which was funded by the Democratic National Committee and the Clinton campaign and compiled by a foreign intelligence officer who was working for a sanctioned Russian oligarch.
+"\[W\]e all went and purchased professional liability insurance," one agent texted on Jan. 10, 2017, the same day CNN leaked details that then-President-elect Trump had been briefed by Comey about the bogus Christopher [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}). That briefing of Trump was used as a pretext to legitimize the debunked dossier, which was funded by the Democratic National Committee and the Clinton campaign and compiled by a foreign intelligence officer who was working for a sanctioned Russian oligarch.
 
 "Holy crap," an agent responded. "All the analysts too?"
 
@@ -17,17 +17,17 @@ Federal Bureau of Investigation (FBI) agents tasked by fired former Director Jam
 
 "[C]an I ask who are the most likely litigators?" an agent responded. "[A]s far as potentially suing y'all[?]"
 
-"[H]aha, who knows ... I think [t]he concern when we got it was that there was a big leak at DOJ and the NYT among others was going to do a piece," the first agent said.
+"[H]aha, who knows ... I think \[t\]he concern when we got it was that there was a big leak at DOJ and the NYT among others was going to do a piece," the first agent said.
 
 While the names of the agents responsible for the texts are redacted, the legal filing from Powell, quoting communications from the Department of Justice (DOJ), states that the latest document production included handwritten notes and texts from Peter Strzok, Andrew McCabe, Lisa Page, and FBI analysts who worked on the FBI's investigation of Flynn.
 
 Agents also said they were worried about how a new attorney general might view the actions taken against Trump during the investigation. Shortly after then-Sen. Jeff Sessions (R-Ala.) was confirmed to be Trump's new attorney general, congressional Democrats, media, and Obama holdovers within DOJ immediately moved to force Sessions to recuse himself from overseeing the department's investigations against Trump.
 
-"[T]he new AG might have some questions ... then yada yada yada ... we all get screwed," one agent wrote.
+"\[T\]he new AG might have some questions ... then yada yada yada ... we all get screwed," one agent wrote.
 
 The FBI agents also discussed how the investigation's leadership was consumed with conspiracy theories rather than evidence.
 
-"I'm tellying [sic] man, if this thing ever gets FOIA'd, there are going to be some tough questions asked," one agent wrote. "[A]nd a great deal of those will be related to Brian having a scope way outside the boundaries of logic[.]"
+"I'm tellying \[*sic*\] man, if this thing ever gets FOIA'd, there are going to be some tough questions asked," one agent wrote. "[A]nd a great deal of those will be related to Brian having a scope way outside the boundaries of logic[.]"
 
 "\[REDACTED\] is one of the worst offenders of the rabbit holes and conspiracy theories," an agent texted. "This guy traveled with that guy, who put down 3rd guy as his visa sponsor. 3rd guy lives near a navy base, therefore...[.]"
 
@@ -53,7 +53,7 @@ The new disclosures made by DOJ also show that the FBI used so-called national s
 
 The explosive new text messages also show agents believed the investigation was being run by FBI officials who were in the tank for Hillary Clinton.
 
-"[D]oing all this election research --- I think some of these guys want a [C]linton presidency," one agent wrote on Aug. 11, shortly after the FBI opened the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation against Trump.
+"\[D\]oing all this election research --- I think some of these guys want a \[C\]linton presidency," one agent wrote on Aug. 11, shortly after the FBI opened the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) investigation against Trump.
 
 In one series of texts sent the same day as the infamous Jan. 5 Oval Office meeting between Obama, Biden, Comey, Sally Yates, and Susan Rice, one agent admits that "Trump was right" when he tweeted that the FBI was delaying his briefings as incoming president so they could cook up evidence against him. As The Federalist first reported last May, that Jan. 5 meeting was the key to understanding the entire anti-Trump operation run out of Obama's FBI.
 
@@ -61,15 +61,15 @@ In one series of texts sent the same day as the infamous Jan. 5 Oval Office meet
 
 "So razor is going to stay open???" an agent wrote on Jan. 5.
 
-"[Y]ep," another FBI agent responded. "[C]rimes report being drafted."
+"\[Y\]ep," another FBI agent responded. "[C]rimes report being drafted."
 
 "F," the first agent wrote back.
 
-"[W]hat's the word on how [Obama's] briefing went?" one agent asked, referring to the Jan. 5 meeting.
+"\[W\]hat's the word on how \[Obama's\] briefing went?" one agent asked, referring to the Jan. 5 meeting.
 
 "Dont know but people here are scrambling for info to support certain things and its a mad house," an FBI agent responded.
 
-"[J]esus," an agent wrote back. "[T]rump was right. [S]till not put together....why do we do this to ourselves. [W]hat is wrong with these people[?]?
+"\[J\]esus," an agent wrote back. "\[T\]rump was right. \[S\]till not put together ... why do we do this to ourselves. \[W\]hat is wrong with these people\[?\]"
 
 A week later, the FBI agents also wrote that they suspected that the illegal leak of top secret information about Flynn's phone calls with Russian ambassador to the U.S. Sergei Kislyak to the news media came directly from the White House.
 
@@ -79,7 +79,7 @@ A week later, the FBI agents also wrote that they suspected that the illegal lea
 
 "Published this morning by Ignatius," an agent said, referencing the Jan. 12 column from *Washington Post* writer David Ignatius that included leaked top-secret information about Flynn's calls with Kislyak.
 
-"It's got to be someone on staff," an agent wrote. "[Presidential Daily Briefing] staff. Or WH seniors."
+"It's got to be someone on staff," an agent wrote. "\[Presidential Daily Briefing\] staff. Or WH seniors."
 
 To date, not a single person has been charged with illegally leaking that information to the *Washington Post* as a way of damaging Flynn and the incoming Trump administration.
 

@@ -13,7 +13,7 @@ The Trump-Russia scandal made its formal launch on January 6th, 2017, when the o
 
 Release of the ICA dominated headlines, fixed Donald Trump in the minds of millions of Americans as a Manchurian candidate controlled by Vladamir Putin, and upended his in-coming administration.
 
-The report declared that Russia and Putin interfered in the 2016 presidential election to "denigrate" Hillary Clinton and "harm her electability," thanks to their "clear preference for President-elect [Donald] Trump."
+The report declared that Russia and Putin interfered in the 2016 presidential election to "denigrate" Hillary Clinton and "harm her electability," thanks to their "clear preference for President-elect \[Donald\] Trump."
 
 It was powerful stuff. And it was dead wrong.
 

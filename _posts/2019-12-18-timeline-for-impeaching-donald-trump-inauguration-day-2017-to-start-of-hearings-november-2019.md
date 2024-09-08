@@ -95,7 +95,7 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 
 • Nov. 2, 2017 –*The Mercury News*
 
-> [Tom] Steyer's campaign has gathered steam: In 14 days, his petition calling for Trump's impeachment has gathered more than 1.4 million signatures. His 60-second ad --- which is playing nationwide on TV and online --- argues that Trump has "obstructed justice" and "brought us to the brink of nuclear war," as video rolls of North Korean President Kim Jong-un. It has been viewed nearly 1.2 million times on YouTube and 474,000 times on Facebook.
+> \[Tom\] Steyer's campaign has gathered steam: In 14 days, his petition calling for Trump's impeachment has gathered more than 1.4 million signatures. His 60-second ad --- which is playing nationwide on TV and online --- argues that Trump has "obstructed justice" and "brought us to the brink of nuclear war," as video rolls of North Korean President Kim Jong-un. It has been viewed nearly 1.2 million times on YouTube and 474,000 times on Facebook.
 
 • Dec. 6, 2017 --- National Public Radio
 

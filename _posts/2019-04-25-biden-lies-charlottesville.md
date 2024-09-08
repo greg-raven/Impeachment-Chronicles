@@ -15,7 +15,7 @@ Following his formal announcement, Biden's first television interview will take 
 
 Biden opened his announcement video quoting from the Declaration of Independence.
 
-"We haven't always lived up to these ideals. [Thomas] Jefferson himself didn't. But we've never before walked away from them," Biden says in the video.
+"We haven't always lived up to these ideals. \[Thomas\] Jefferson himself didn't. But we've never before walked away from them," Biden says in the video.
 
 Biden contrasts Jefferson's hometown, Charlottesville, with the deadly clash between white nationalists and counterprotesters that occurred there in August 2017. He quotes President Donald Trump in the video, referring to the president's "very fine people on both sides" quote in the wake of the death of Heather Heyer.
 

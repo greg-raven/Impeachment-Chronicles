@@ -7,13 +7,13 @@ tags:
 
 Just think, this was on Thursday night, so the week from hell for MSNBC's Hardball and host Chris Matthews was far from over with. Thursday's installment featured he and various guests demanding that "we cannot allow" "a potential criminal" in President Trump to appoint another conservative Supreme Court justice because he'll keep Trump from prison and do his bidding "for three decades."
 
-Pivoting from an update on from *The Capital Gazette* newspaper shooting, Matthews screeched that "[i]t's impossible to see another decision that will have greater or sure will greater shape the kind of country we do live in."
+Pivoting from an update on from *The Capital Gazette* newspaper shooting, Matthews screeched that "\[i\]t's impossible to see another decision that will have greater or sure will greater shape the kind of country we do live in."
 
 When it comes to conservative (and not liberal) justices, Matthews declared that the Supreme Court will always make political decisions on things like "decid[ing] presidential elections, the number of guns in the country, the power of money in our politics and on and on."
 
-Matthews later teed up Hollywood director and walking Notable Quotable Rob Reiner by fretting that the Supreme Court "will decide the fate very well of this President" on "[a]ll kinds of issues, obstruction of justice and possible collusion with the Russians" and yet the Senate will be "let[ting] him pick one of the people to decide his own fate."
+Matthews later teed up Hollywood director and walking Notable Quotable Rob Reiner by fretting that the Supreme Court "will decide the fate very well of this President" on "\[a\]ll kinds of issues, obstruction of justice and possible collusion with the Russians" and yet the Senate will be "let\[ting\] him pick one of the people to decide his own fate."
 
-Reiner implored liberals to let go of their feelings about the Merrick Garland nomination because "[w]e have a President of the United States that, right now, is under investigation for possibly conspiring with a ... foreign enemy power to disrupt our democracy and steal an election."
+Reiner implored liberals to let go of their feelings about the Merrick Garland nomination because "\[w\]e have a President of the United States that, right now, is under investigation for possibly conspiring with a ... foreign enemy power to disrupt our democracy and steal an election."
 
 Behold the ridiculousness from Meathead:
 
@@ -51,7 +51,7 @@ He started by declaring that the pick replacing Anthony Kennedy will do "his wil
 >
 > MATTHEWS: Rob, thank you for joining us. I have --- there's another lay of concern here. This Supreme Court, when it's full up with nine justices, will decide the fate very well of this President. We've got a special counsel loaded for bear. All kinds of issues, obstruction of justice and possible collusion with the Russians and how --- what materials and what testimonies have to be accepted, whether he has to testify or not and they are going to let him pick one of the people to decide his own fate.
 >
-> ROB REINER: That's the biggest problem. I don't think we should get hung up on the egregious --- effects of what Mitch McConnell did to Barack Obama and a tit-for-tat kind of thing. We have a President of the United States that, right now, is under investigation for possibly conspiring with a firent *[sic]* --- foreign enemy power to disrupt our democracy and steal an election. I don't think we want as Americans to allow somebody who is possibly colluding with a foreign enemy to making choices that are going to affect our lives for the next 30, 40 years. That's the issue and make no mistake about it. We cannot allow this. We have to see what happens with the Mueller investigation, whether or not Donald Trump is guilty or not guilty of major, major crimes and if he is, he should not be allowed to pick the next Supreme Court justice.
+> ROB REINER: That's the biggest problem. I don't think we should get hung up on the egregious --- effects of what Mitch McConnell did to Barack Obama and a tit-for-tat kind of thing. We have a President of the United States that, right now, is under investigation for possibly conspiring with a firent *\[*sic*\]* --- foreign enemy power to disrupt our democracy and steal an election. I don't think we want as Americans to allow somebody who is possibly colluding with a foreign enemy to making choices that are going to affect our lives for the next 30, 40 years. That's the issue and make no mistake about it. We cannot allow this. We have to see what happens with the Mueller investigation, whether or not Donald Trump is guilty or not guilty of major, major crimes and if he is, he should not be allowed to pick the next Supreme Court justice.
 >
 > (....)
 >

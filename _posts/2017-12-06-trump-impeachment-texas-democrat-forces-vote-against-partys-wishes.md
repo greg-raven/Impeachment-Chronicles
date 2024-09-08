@@ -23,7 +23,7 @@ Among the higher-ranking Democrats voting in favor of impeachment: Assistant Dem
 
 In a joint statement issued shortly after Green introduced his impeachment articles on the House floor, Pelosi and Hoyer rejected Green's argument.
 
-"Legitimate questions have been raised about [Trump's] fitness to lead this nation," they wrote, but added that "right now, Congressional committees continue to be deeply engaged in investigations into the President's actions both before and after his inauguration. The special counsel's investigation is moving forward as well, and those inquiries should be allowed to continue. Now is not the time to consider articles of impeachment."
+"Legitimate questions have been raised about \[Trump's\] fitness to lead this nation," they wrote, but added that "right now, Congressional committees continue to be deeply engaged in investigations into the President's actions both before and after his inauguration. The special counsel's investigation is moving forward as well, and those inquiries should be allowed to continue. Now is not the time to consider articles of impeachment."
 
 Green argued that regardless of the various investigations' findings, Trump's actions and statements have met the political bar for removal from office. "Impeachment is a political remedy, not a judicial remedy, thus it may be a high misdemeanor, which may or may not be a crime," he wrote.
 
@@ -33,7 +33,7 @@ Green's step widens a growing rift within the Democratic Party and its progressi
 
 Most House Democrats want nothing to do with impeachment efforts right now and worry that publicly backing them as Mueller's investigation continues would make any eventual impeachment push look partisan.
 
-"Electing a president of the United States is the most important act American citizens take in setting the policies of their country. That should not be overturned except for the most egregious and demonstrable facts," Hoyer recently told reporters. "Do we disagree with [Trump's] policies? We do. But disagreeing with the policies is not enough to overturn an election --- a free and fair election --- of the American people."
+"Electing a president of the United States is the most important act American citizens take in setting the policies of their country. That should not be overturned except for the most egregious and demonstrable facts," Hoyer recently told reporters. "Do we disagree with \[Trump's\] policies? We do. But disagreeing with the policies is not enough to overturn an election --- a free and fair election --- of the American people."
 
 It's not just entrenched leaders like Hoyer and Pelosi who feel that way. "Here's what I say to my colleagues: If a Republican were to say that they were never going to vote to impeach Trump no matter what Bob Mueller found, we would say that's totally unreasonable," said California Rep. Ro Khanna, a progressive freshman representing Silicon Valley. "You have to look at the evidence. Similarly, there's no way we should be saying that we could vote for impeachment without the end of Mueller's findings. Let's wait to see what he's going to do. Let him finish his job."
 

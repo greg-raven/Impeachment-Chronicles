@@ -25,7 +25,7 @@ Here are some facts about Carroll's story that the establishment media do not wa
 
 3\.  Carroll first came forward --- conveniently --- with the allegations while promoting her book *What Do We Need Men For?* in 2019, which featured a list of "The Most Hideous Men of My Life."
 
-4\.  Carroll was unable to remember when this alleged attack even occurred. She told her lawyer in 2023, "This question, the when, the when, the date, has been something I've [been] constantly trying to pin down." She has jumped years --- originally beginning with 1994, then moving to 1995, and even floating to 1996. She cannot remember the season in which the alleged attack occurred either.
+4\.  Carroll was unable to remember when this alleged attack even occurred. She told her lawyer in 2023, "This question, the when, the when, the date, has been something I've \[been\] constantly trying to pin down." She has jumped years --- originally beginning with 1994, then moving to 1995, and even floating to 1996. She cannot remember the season in which the alleged attack occurred either.
 
 5\.  The Donna Karan blazer dress she claims to have worn during the alleged incident was not even available at the time of her claims. Trump Attorney Boris Epshteyn told reporters, "She said, 'This is the dress I wore in 1994.' They went back, they checked. The dress wasn't even made in 1994."
 

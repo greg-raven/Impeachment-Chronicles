@@ -6,7 +6,7 @@ tags:
 - Karine Jean-Pierre
 ---
 
-**Host Chris Matthews:** "I want an answer. Do you think [President Trump] is guilty?"
+**Host Chris Matthews:** "I want an answer. Do you think \[President Trump\] is guilty?"
 
 **Karine Jean-Pierre:** "I think he's ... he's crazy."
 

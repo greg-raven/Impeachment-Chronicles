@@ -29,7 +29,7 @@ Democratic leaders in the House reacted with caution to Sherman's move. Most fel
 
 "Leader Pelosi has repeatedly called for an outside, independent commission to get to the bottom of Trump's connection to Russia's interference in our election and to examine ways to protect the integrity of our democracy from foreign meddling in the future," Ashley Etienne, a spokeswoman for House Minority Leader Nancy Pelosi (D-Calif.), said in a statement.
 
-"Recent revelations, coupled with [the] president's unprecedented campaign of dishonesty and secrecy, give greater urgency to the need for House Republicans [to] bring a vote to the floor immediately to establish an outside, independent commission."
+"Recent revelations, coupled with \[the\] president's unprecedented campaign of dishonesty and secrecy, give greater urgency to the need for House Republicans \[to\] bring a vote to the floor immediately to establish an outside, independent commission."
 
 Introduction of the article of impeachment comes a day after Trump's eldest son, Donald Trump Jr., released a chain of emails showing his effort to meet with a Russian lawyer claiming to have damaging information about Democratic presidential nominee Hillary Clinton during last year's campaign. Some critics charge that the emails are evidence of collusion between Trump's campaign and the Russians.
 

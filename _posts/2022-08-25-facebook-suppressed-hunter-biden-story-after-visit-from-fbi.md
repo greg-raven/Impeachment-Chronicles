@@ -17,11 +17,11 @@ Zuckerberg was asked about Facebook's suppression of the New York Post's reporti
 
 Twitter completely banned users from sharing the New York Post story about the laptop.
 
-Zuckerberg said Facebook users were "still allowed to share" the Post's reporting on the Hunter Biden laptop even as their "third-party fact-checking program" was looking into whether it was misinformation, but acknowledged that the "ranking in [the] news feed was a little bit less" and that "fewer people saw it than would've otherwise."
+Zuckerberg said Facebook users were "still allowed to share" the Post's reporting on the Hunter Biden laptop even as their "third-party fact-checking program" was looking into whether it was misinformation, but acknowledged that the "ranking in \[the\] news feed was a little bit less" and that "fewer people saw it than would've otherwise."
 
 "By what percentage?" Rogan asked.
 
-"I don't know off the top of my head, but it's- it's meaningful," Zuckerberg responded. "But we weren't sort of as black and white about it as Twitter. We just kind of thought hey look, if the FBI, which I still view is a legitimate institution in this country, it's a very professional law enforcement- they come to us and tell us that we need to be on guard about something then I want to take that seriously."
+"I don't know off the top of my head, but it's ... it's meaningful," Zuckerberg responded. "But we weren't sort of as black and white about it as Twitter. We just kind of thought hey look, if the FBI, which I still view is a legitimate institution in this country, it's a very professional law enforcement- they come to us and tell us that we need to be on guard about something then I want to take that seriously."
 
 Meanwhile, FBI whistleblowers have told Republican lawmakers that they were given strict instructions not to pursue any investigations surrounding the laptop.
 

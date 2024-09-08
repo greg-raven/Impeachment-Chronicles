@@ -21,7 +21,7 @@ Remarkably, search terms like "MAGA" and "Trump" were reportedly created by a fi
 
 While the name of the origin bank remains undisclosed, sources confirm that FinCEN passed those terms to other banks to support similar searches.
 
-"While we are still looking into the details of these events, [January 6] we understand that these FinCEN Exchange events included government and private sector representatives who voluntarily participated in discussions and information exchanges focused on identifying the perpetrators of this attack and providing support to ongoing law enforcement investigations," the letter reads.
+"While we are still looking into the details of these events, \[January 6\] we understand that these FinCEN Exchange events included government and private sector representatives who voluntarily participated in discussions and information exchanges focused on identifying the perpetrators of this attack and providing support to ongoing law enforcement investigations," the letter reads.
 
 > "... to the extent key words or phrases were suggested, it was expected they would be used alongside other factors and data that banks regularly analyze as part of their AML programs to detect and report suspicious activity."
 

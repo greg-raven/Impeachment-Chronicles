@@ -5,7 +5,7 @@ tags:
 - Joe Biden
 ---
 
-[...]
+\[...\]
 
 Now, folks, I don't know what you did last night, but I spent 90 stages --- 90 minutes on the stage debating the guy who has the morals of an alley cat.
 
@@ -23,7 +23,7 @@ He tried to deny it. But let me ask you, are you going to believe a four-star Ma
 
 My son was one of those people --- not in World War I but in the v ---
 
-[...]
+\[...\]
 
 How about the fact that 40 out of his 44 top advisors, including the vice president, aren't supporting him this time around? The people who know him best --- 40 of them said, "I will not support the man I worked for this time around." It tells you a lot about --- the person who knows him.
 
@@ -33,21 +33,21 @@ And then, I pointed out that the only convicted criminal on the stage last night
 
 When I've thought about his 34 felony convictions, his sexual assault on a woman in a public place, his being fined $400 million for business fraud, I thought to myself, "Donald Trump isn't just a convicted felon. Donald Trump is a one-man crime wave." And he's got more trials --- he's got more trials coming up.
 
-Well, the time for that --- .
+Well, the time for that ...
 
 Look, the thing that bothers me maybe most about him: He has no respect for women or the law. He doesn't.
 
 And then, his biggest lie. He lied about how he had nothing to do with the [insurrection](/insurrection.html) on January the 6th.
 
-We all saw with our own eyes. We watched it on television. We saw thousands of [insurrection](/insurrection.html) attack the Capitol. We saw police being attacked, the Capitol being ransacked, the mob hunting for Speaker Pelosi, gallows literally set up for Mike Pence. And then, he told them as he sat in the dining room --- the one di- --- one --- the private dining one door off my Oval Office. He sat there for three hours watching the TV. He did not a single thing to stop it --- nothing, nothing at all.
+We all saw with our own eyes. We watched it on television. We saw thousands of [insurrection](/insurrection.html) attack the Capitol. We saw police being attacked, the Capitol being ransacked, the mob hunting for Speaker Pelosi, gallows literally set up for Mike Pence. And then, he told them as he sat in the dining room --- the one di ... one --- the private dining one door off my Oval Office. He sat there for three hours watching the TV. He did not a single thing to stop it --- nothing, nothing at all.
 
-And now —
+And now ---
 
 And now, he wants to pardon all those convicted criminals.
 
-But, folks, for all his lies, we did learn some- --- we learned some important truths about Donald Trump last night. We learned he's still proud of being the person who killed Roe v. Wade.
+But, folks, for all his lies, we did learn some ... we learned some important truths about Donald Trump last night. We learned he's still proud of being the person who killed Roe v. Wade.
 
-We learned —
+We learned ---
 
 No. We learned he's still proud about the pain and cruelty he's inflicted on America's women.
 
@@ -55,7 +55,7 @@ We learned he still believes that politicians, not doctors and women, should mak
 
 We learned that if he's elected again and the MAGA Republicans pass a national ban on abortion, he will sign it.
 
-Donald Trump says he thinks Roe v. Wo- --- Roe --- overturning Roe v. Wade was a beautiful thing.
+Donald Trump says he thinks Roe v. Wo ... Roe --- overturning Roe v. Wade was a beautiful thing.
 
 I think it was a nightmare. No, I really mean it. A nightmare.
 
@@ -69,7 +69,7 @@ Then, to add insult to injury, he wants to raise taxes on the average family $2,
 
 And most dangerously, though, we learned that Donald Trump will not respect this year's election outcome. He's still not --- he rejected the last time out.
 
-No, think about it. Every court in the nand [land] ruled that it was a fair election. He's still denying it, still telling lies.
+No, think about it. Every court in the nand \[*sic*\] ruled that it was a fair election. He's still denying it, still telling lies.
 
 Three times, Trump was asked last night by the moderators: Would he respect the election results if he lost this time? Three times, he refused to answer. Three times.
 
@@ -85,7 +85,7 @@ Are we going to let Donald Trump attack our democracy again?
 
 I don't think so.
 
-Folks —
+Folks ---
 
 Folks, we've come a long way. We've come a long way from the mess that Donald Trump left us. We came out of the pandemic. We're a long way from where --- Donald Trump telling us to inject bleach in our skin, that COVID is not that dangerous.
 
@@ -95,7 +95,7 @@ I know we have more to do to get prices down. We have to take on corporate greed
 
 We got to make housing more affordable --- provide childcare --- make the tax code fair.
 
-Sixteen Nobel winners of the economic mo- --- Nobel Prize have looked at my economy --- economic plan. This week, they've i- --- issued a report. And on Trump's plan.
+Sixteen Nobel winners of the economic mo ... Nobel Prize have looked at my economy --- economic plan. This week, they've i ... issued a report. And on Trump's plan.
 
 Here's what they concluded. They said that my plan would continue to grow the economy and bring down inflation. Sixteen Nobel laureates. And that Trump's plan would send the nation into recession and inflation soaring through the roof.
 
@@ -105,7 +105,7 @@ Folks, let me close with this. I know I'm not a young man --- to state the obvio
 
 Well, I know.
 
-[...]
+\[...\]
 
 Folks, I don't walk as easy as I used to. I don't speak as smoothly as I used to. I don't deba --- debate as well as I used to. But I know what I do know: I know how to tell the truth.
 
@@ -127,7 +127,7 @@ He's literally a threat for everything America stands for.
 
 Look, he doesn't understand what I think all of you do. America is the finest, the most unique nation in the world.
 
-We're the only nation in the world --- and I mean this sincerely. It's a fact statement, not a hyper- --- hyperbolic statement. It's fact. We're the only nation in the world built on an idea. All other nations are built on ethnicity, geography, and other --- religion. But we're built on an idea that we're all created equal --- and deserve to be treated equally throughout our lives.
+We're the only nation in the world --- and I mean this sincerely. It's a fact statement, not a hyper ... hyperbolic statement. It's fact. We're the only nation in the world built on an idea. All other nations are built on ethnicity, geography, and other --- religion. But we're built on an idea that we're all created equal --- and deserve to be treated equally throughout our lives.
 
 We've never fully lived up, but I'll be damned in the year 2024, just two years --- just two years before the 250th anniversary of our Declaration of Independence that I'll let Donald Trump walk away from it.
 
@@ -147,6 +147,6 @@ Donald Trump is the first president I've heard of that stood up there and runnin
 
 No, I'm serious. A failing --- I don't know a president who wouldn't trade places with America in a heartbeat. He's dead wrong. America is not a losing nation. America is winning.
 
-[...]
+\[...\]
 
 Source: Joe Biden, whitehouse.gov/briefing-room/speeches-remarks/2024/06/28/remarks-by-president-biden-at-a-campaign-event-raleigh-nc/

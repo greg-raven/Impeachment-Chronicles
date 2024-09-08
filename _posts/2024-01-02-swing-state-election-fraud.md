@@ -145,7 +145,7 @@ Since, investigations across the country have uncovered an avalanche of irregula
 
 - Scott McDonell, the Democrat clerk of Dane County, which encompasses the area of Madison, told all residents they could identify themselves as indefinitely confined because of COVID, specifically citing it as a way to get around the Voter ID law.
 
-- McDonell previously blamed Wisconsin's voter ID law for President Trump's victory in 2016, claiming in a 2018 Twitter post that "thousands of voters [were] deterred from voting due to [the] ID law." <sup>[44]</sup>
+- McDonell previously blamed Wisconsin's voter ID law for President Trump's victory in 2016, claiming in a 2018 Twitter post that "thousands of voters \[were\] deterred from voting due to \[the\] ID law." <sup>[44]</sup>
 
 - In 2020, McDonell urged all voters to declare themselves indefinitely confined in order to obtain an absentee ballot and "skip the step of uploading an ID" in the April 2020 primary election. Once a voter is identified as indefinitely confined, they continue to receive absentee ballots automatically for subsequent elections. "I urge all voters who request a ballot and have trouble presenting a valid ID to indicate that they are indefinitely confined," McDonell said in a Facebook post.
 
@@ -197,7 +197,7 @@ Since, investigations across the country have uncovered an avalanche of irregula
 
 - The SURE system was checked and downloaded weekly with updated voter histories from the general Election until all the counties uploaded their vote histories, which was not completed until February 2021. At this time there were still over 121,000 votes that did not have a corresponding voter in the SURE system.
 
-- The statement by the Department of State "that the voting would reconcile, once the counties completed their SURE uploads, was incorrect," according to Verity Vote. "When the final county finished uploading their voter histories and closed the election in SURE, it was February 1, 2021, which was the same day that [Secretary of State Kathy] Boockvar announced her resignation. At the time that Philadelphia closed the election in SURE, the voter histories showed that the county accepted at least 7,944 ballots that could not be associated with a registered voter."
+- The statement by the Department of State "that the voting would reconcile, once the counties completed their SURE uploads, was incorrect," according to Verity Vote. "When the final county finished uploading their voter histories and closed the election in SURE, it was February 1, 2021, which was the same day that \[Secretary of State Kathy\] Boockvar announced her resignation. At the time that Philadelphia closed the election in SURE, the voter histories showed that the county accepted at least 7,944 ballots that could not be associated with a registered voter."
 
 - Pennsylvania credited 71,893 people for voting who returned mail-in ballots *after* Election Day, and these individuals were included in the voter history files. This includes 50,285 received between Nov. 4 and Nov. 6; 11,570 received between Nov. 7 and Nov. 11; and 10,038 that were received on or after Nov. 12. Boockvar claimed only 10,000 ballots were received between the close of the polls on Election Day and Nov. 6. <sup>[57]</sup>
 
@@ -273,9 +273,9 @@ Since, investigations across the country have uncovered an avalanche of irregula
 
 - Daugherity, who has received over $2.8 million in grant funding and was previously consulted as a computer expert by *The New York Times, Washington Post,* IBM Federal Systems Division, the Texas Department of Agriculture, U.S. Customs Service, as well as classified work, discovered "significant and systematic decline in the cumulative ratio as counting progresses," in the early mail-in and in-person votes for the Presidential Election results in Maricopa County and Pima County.
 
-- For example, the "first block of ballots being 75 [percent] for a candidate, the
-next block of ballots being 74 [percent] for a candidate, the next block of ballots
-being 73 [percent] for a candidate, and so on, systematically declining all the
+- For example, the "first block of ballots being 75 \[percent\] for a candidate, the
+next block of ballots being 74 \[percent\] for a candidate, the next block of ballots
+being 73 \[percent\] for a candidate, and so on, systematically declining all the
 way to Election Day."
 
 - Daugherity's expert opinion is that the downward sloping line in the sequence

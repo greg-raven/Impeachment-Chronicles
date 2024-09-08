@@ -19,7 +19,7 @@ Castor revealed that the defense team will use some video clips of top Democrats
 
 Castor noticed that some Democrats nationwide cheered when the rioters were burning down the cities and attacked the federal law enforcement officers last summer in the aftermath of the death of George Floyd.
 
-"Many of them [Democrats] in Washington using really the most inflammatory rhetoric as possible to use," he said. "But here when you have the president of the United States give a speech and says 'you should peacefully make your thinking known to the people in Congress,' he all of a sudden the villain. So you better be careful what you wish for."
+"Many of them \[Democrats\] in Washington using really the most inflammatory rhetoric as possible to use," he said. "But here when you have the president of the United States give a speech and says 'you should peacefully make your thinking known to the people in Congress,' he all of a sudden the villain. So you better be careful what you wish for."
 
 During his Jan. 6 speech which later became the focus of the Democrats' impeachment against him, Trump told his supporters: "I know that everyone here will soon be marching over to the Capitol building to peacefully and patriotically make your voices heard."
 

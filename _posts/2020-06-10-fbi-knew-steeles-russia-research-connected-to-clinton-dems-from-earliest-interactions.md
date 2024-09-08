@@ -29,7 +29,7 @@ For instance, the agent in London contacted an Assistant Special Agent in Charge
 
 The agent sought advice on July 13, 2016, on how to handle the sensitive election-year allegations from the supervisor in New York, where the FBI had already opened a probe of Page that would eventually be assumed by Washington headquarters.
 
-"ASAC 1's notes from his July 13 call with Handling Agent 1 closely track the contents of Report 80, identify Simpson as a client of a law firm, and include the following: 'law firm works for the Republican party or Hillary and will use [the information described in Report 80] at some point,'" the Horowitz report stated. "ASAC 1 told us that he would not have made this notation if Handling Agent 1 had not stated it to him."
+"ASAC 1's notes from his July 13 call with Handling Agent 1 closely track the contents of Report 80, identify Simpson as a client of a law firm, and include the following: 'law firm works for the Republican party or Hillary and will use \[the information described in Report 80\] at some point,'" the Horowitz report stated. "ASAC 1 told us that he would not have made this notation if Handling Agent 1 had not stated it to him."
 
 Footnote 223 in the report reveals a second line of evidence that came to the FBI from a confidential human source (CHS) suggesting the Steele-Simpson-Fusion project was tied to Democrats. That warning was immediately sent to Agent Peter Strzok, the case agent for the [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %}) probe investigating whether Trump and Russia colluded to hijack the 2016 election.
 

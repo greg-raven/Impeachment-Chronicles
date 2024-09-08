@@ -5,7 +5,7 @@ tags:
 - Joseph Simonson
 ---
 
-LOS ANGELES --- Joe Biden continued his attacks on President Trump after speaking at a union conference on Friday afternoon [September 19, 2019], calling the president "unhinged" and saying he was "concerned" over what Trump will do next.
+LOS ANGELES --- Joe Biden continued his attacks on President Trump after speaking at a union conference on Friday afternoon \[September 19, 2019\], calling the president "unhinged" and saying he was "concerned" over what Trump will do next.
 
 "We gotta get something straight: All this talk from the president about corruption comes from the most corrupt president we've had in modern history. He's the definition of corruption," Biden said at the Unions for All Summit hosted by the Service Workers International Union in Los Angeles.
 

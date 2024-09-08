@@ -43,6 +43,6 @@ Her group helps people with disabilities find housing. Budget cuts and uncertain
 
 For Lee, the concept of obstruction of justice is not simply about what the president's coterie may or may not have discussed with Russians and figures in faraway Washington; it is also about government policy that impedes the civil rights of people in need that she meets on a daily basis.
 
-"If nothing else, [impeachment] is our answer," she said. "Because the answers we've been given don't make you feel any better --- I mean that he's taking money from housing and education and medical to fund a war that we don't need. I need local answers."
+"If nothing else, \[impeachment\] is our answer," she said. "Because the answers we've been given don't make you feel any better --- I mean that he's taking money from housing and education and medical to fund a war that we don't need. I need local answers."
 
 Source: Tom Dart, theguardian.com/us-news/2017/may/20/impeach-trump-al-green-town-hall-texas

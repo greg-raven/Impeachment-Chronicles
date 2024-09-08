@@ -13,7 +13,7 @@ In testimony to MPs, the MI6 veteran accused the government led by May and in wh
 
 Steele first presented a dossier about Trump to senior UK intelligence figures in late 2016, who he says took it seriously at first. But, he writes, "on reaching top political decision-makers, a blanket appeared to be thrown over it."
 
-"No inquiries were made or actions taken thereafter on the substance of the intelligence in the dossier by HMG [Her Majesty's government]," Steele says in the critical document.
+"No inquiries were made or actions taken thereafter on the substance of the intelligence in the dossier by HMG \[Her Majesty's government\]," Steele says in the critical document.
 
 The allegation is contained in a short summary of a larger file of information presented in August 2018 by Steele to parliament's intelligence and security committee (ISC), inquiring into Kremlin infiltration into British politics and public life.
 

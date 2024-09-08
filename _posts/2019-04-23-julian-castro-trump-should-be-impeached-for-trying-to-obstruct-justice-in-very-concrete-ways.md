@@ -21,7 +21,7 @@ Democratic presidential hopefuls have given varying answers on the question of i
 
 Sen. Kamala Harris (D-Calif.) said Congress should "take the steps toward impeachment" at a CNN town hall Monday evening, while Sen. Elizabeth Warren (D-Mass.) called on the House to begin impeachment proceedings last week.
 
-Rep. Eric Swalwell (D-Calif.) on Tuesday said that the House is "on that road" in the wake of the Mueller report, while Miramar, Fla., Mayor Wayne Messam (D) also endorsed impeachment Monday. Castro has previously told CNN's Anderson Cooper that "Bob Mueller in his report left [impeachment] in the hands of Congress."
+Rep. Eric Swalwell (D-Calif.) on Tuesday said that the House is "on that road" in the wake of the Mueller report, while Miramar, Fla., Mayor Wayne Messam (D) also endorsed impeachment Monday. Castro has previously told CNN's Anderson Cooper that "Bob Mueller in his report left \[impeachment\] in the hands of Congress."
 
 House Speaker Nancy Pelosi (D-Calif.) and House Majority Leader Steny Hoyer (D-Md.), however, have both downplayed the possibility of impeachment proceedings.
 

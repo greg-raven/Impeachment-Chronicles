@@ -10,7 +10,7 @@ tags:
 
 Former President Donald Trump was wounded on a Pennsylvania campaign stage by a sniper's bullet Saturday night in an apparent assassination attempt that nearly claimed his life, law enforcement sources told *The Post.*
 
-Trump, who was speaking at a packed outdoors rally in Butler, Pa. when bullets started flying, later posted on his Truth Social site saying he "felt the bullet ripping through [his] skin," and that it "pierced the upper part of my right ear."
+Trump, who was speaking at a packed outdoors rally in Butler, Pa. when bullets started flying, later posted on his Truth Social site saying he "felt the bullet ripping through \[his\] skin," and that it "pierced the upper part of my right ear."
 
 "I knew immediately that something was wrong in that I heard a whizzing sound, shots, and immediately felt the bullet ripping through the skin," said the 78-year-old presumptive Republican presidential nominee. "Much bleeding took place, so I realized then what was happening."
 

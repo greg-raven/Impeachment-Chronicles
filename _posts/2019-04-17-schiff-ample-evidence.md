@@ -7,7 +7,7 @@ tags:
 
 Top Democratic Rep. Adam Schiff (CA), chairman of the House Intelligence Committee, told CNN's Jake Tapper on Sunday that there was "ample evidence collusion in plain sight" after being asked by the host whether he thinks special counsel Robert "Mueller got it wrong" when he came to the opposite conclusion in his report into Russian election meddling and possible collusion between President Donald Trump's campaign team and Kremlin officials.
 
-"You've been criticized a great deal for saying that you still see 'evidence of collusion,' even though according to Attorney General [William] Barr, the Mueller report says 'the investigation did not establish that members of the Trump campaign conspired or coordinated with Russian government in its election interference activities,'" Tapper said, before asking Schiff whether he's "saying that Mueller got it wrong?"
+"You've been criticized a great deal for saying that you still see 'evidence of collusion,' even though according to Attorney General \[William\] Barr, the Mueller report says 'the investigation did not establish that members of the Trump campaign conspired or coordinated with Russian government in its election interference activities,'" Tapper said, before asking Schiff whether he's "saying that Mueller got it wrong?"
 
 "No," Schiff clarified, before explaining that "what I've said on your show and others for over a year now is that, yes, there's ample evidence of collusion in plain sight but that is not the same thing as proof of a criminal conspiracy beyond a reasonable doubt, and I would defer to Bob Mueller's judgment and I do."
 

@@ -21,7 +21,7 @@ The dissenting analysts found that Moscow preferred Clinton because it judged sh
 
 These same analysts argued the Kremlin was generally trying to sow discord and disrupt the American democratic process during the 2016 election cycle. They also noted that Russia tried to interfere in the 2008 and 2012 races, many years before Trump threw his hat in the ring.
 
-"They complained Brennan took a thesis [that Putin supported Trump] and decided he was going to ignore dissenting data and exaggerate the importance of that conclusion, even though they said it didn't have any real substance behind it," said a senior U.S intelligence official who participated in a 2018 review of the spycraft behind the assessment, which President Obama ordered after the 2016 election.
+"They complained Brennan took a thesis \[that Putin supported Trump\] and decided he was going to ignore dissenting data and exaggerate the importance of that conclusion, even though they said it didn't have any real substance behind it," said a senior U.S intelligence official who participated in a 2018 review of the spycraft behind the assessment, which President Obama ordered after the 2016 election.
 
 He elaborated that the analysts said they also came under political pressure to back Brennan's judgment that Putin personally ordered "active measures" against the Clinton campaign to throw the election to Trump, even though the underlying intelligence was "weak."
 
@@ -47,7 +47,7 @@ But the secret congressional review details how the ICA, which was hastily put t
 
 It did, however, include a two-page annex summarizing allegations from a dossier compiled by former British intelligence officer Christopher Steele. His claim that Putin had personally ordered cyberattacks on the Clinton campaign to help Trump win happened to echo the key finding of the ICA that Brennan supported. Brennan had briefed Democratic senators about allegations from the dossier on Capitol Hill.
 
-"Some of the FBI source's [Steele's] reporting is consistent with the judgment in the assessment," stated the appended summary, which the two intelligence sources say was written by Brennan loyalists. "The FBI source claimed, for example, that Putin ordered the influence effort with the aim of defeating Secretary Clinton, whom Putin 'feared and hated.' "
+"Some of the FBI source's \[[Steele's]({% post_url 2016-06-20-the-steele-dossier %})\] reporting is consistent with the judgment in the assessment," stated the appended summary, which the two intelligence sources say was written by Brennan loyalists. "The FBI source claimed, for example, that Putin ordered the influence effort with the aim of defeating Secretary Clinton, whom Putin 'feared and hated.'"
 
 Steele's reporting has since been discredited by the Justice Department's inspector general as rumor-based opposition research on Trump paid for by the Clinton campaign. Several allegations have been debunked, even by Steele's own primary source, who confessed to the FBI that he ginned the rumors up with some of his Russian drinking buddies to earn money from Steele.
 
@@ -69,7 +69,7 @@ Durham's investigators have focused on people who worked at NIC during the draft
 
 The senior official who identified Kendall-Taylor said Brennan did not seek input from experts from CIA's so-called Russia House, a department within Langley officially called the Center for Europe and Eurasia, before arriving at the conclusion that Putin meddled in the election to benefit Trump.
 
-"It was not an intelligence assessment. It was not coordinated in the [intelligence] community or even with experts in Russia House," the official said. "It was just a small group of people selected and driven by Brennan himself ... and Brennan did the editing."
+"It was not an intelligence assessment. It was not coordinated in the \[intelligence\] community or even with experts in Russia House," the official said. "It was just a small group of people selected and driven by Brennan himself ... and Brennan did the editing."
 
 The official noted that National Security Agency analysts also dissented from the conclusion that Putin personally sought to tilt the scale for Trump. One of only three agencies from the 17-agency intelligence community invited to participate in the ICA, the NSA had a lower level of confidence than the CIA and FBI, specifically on that bombshell conclusion.
 
