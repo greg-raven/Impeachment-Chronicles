@@ -82,7 +82,7 @@ On taking office in 2017, the climate-sceptic president Trump then pulled the US
 
 Trump's successor as president, Joe Biden, campaigned in 2020 on a platform of a "clean energy revolution". On gaining office in 2021, he immediately rejoined the Paris Agreement and then issued a more ambitious pledge to cut US emissions to 50-52% below 2005 levels by 2030.
 
-> Joe Biden on Twitter/X "Today, the Trump Administration officially left the Paris Climate Agreement. And in exactly 77 days, a Biden Administration will rejoin it."
+> Joe Biden on Twitter/𝕏 "Today, the Trump Administration officially left the Paris Climate Agreement. And in exactly 77 days, a Biden Administration will rejoin it."
 
 Biden also pledged to decarbonise the electricity grid by 2035 and joined roughly 150 other countries in committing the US to reaching net-zero emissions by 2050 --- the global benchmark, if the world is to keep warming below 1.5C.
 
@@ -96,7 +96,7 @@ It includes grants, loans and tax credits initially estimated to be worth $369bn
 
 In general, cost estimates have risen since its passing, as investments triggered by the bill's incentives have rolled in, with some now putting its ultimate cost above $1tn.
 
-> Rhodium Group on twitter/X "Investment in clean technologies is continuing at record levels in the US, as demonstrated by new data from Q3 2023. Actual clean energy and transport investment in the US reached a record $64 billion in Q3 2023—an 8% increase from Q2 and a 42%increase year-on-year"
+> Rhodium Group on Twitter/𝕏 "Investment in clean technologies is continuing at record levels in the US, as demonstrated by new data from Q3 2023. Actual clean energy and transport investment in the US reached a record $64 billion in Q3 2023—an 8% increase from Q2 and a 42%increase year-on-year"
 
 However, a recent analysis of progress since the bill passed in 2021 shows that while electric vehicle sales are running at the top end of what was expected in earlier modelling of the IRA's impact, the deployment of clean electricity --- in particular, wind power --- is falling slightly behind.
 
@@ -176,7 +176,7 @@ There is a clear need for further policy, if US climate goals are to be met. Mor
 
 It suggests that a price on emissions, described as a "carbon fee", could significantly boost US chances of hitting its 2030 target, even if paired with a partial repeal of the IRA.
 
-> John Bistline on Twitter/X "How could climate policy options in 2025 shape emissions and fiscal outcomes? Our new working paper crunches the numbers across a range of possibilities and highlights differences in CO2 reductions, fiscal costs/revenues, and household impacts."
+> John Bistline on Twitter/𝕏 "How could climate policy options in 2025 shape emissions and fiscal outcomes? Our new working paper crunches the numbers across a range of possibilities and highlights differences in CO2 reductions, fiscal costs/revenues, and household impacts."
 
 (Note that the "Repeal IRA; no new emissions rules" scenario in this study is similar to the "Trump" scenario in Carbon Brief's analysis. However, the model used in the study finds a relatively weak 2030 emissions impact of the IRA compared with most of the five others, with which it is aggregated by Carbon Brief.)
 

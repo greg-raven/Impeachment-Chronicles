@@ -148,7 +148,7 @@ President Trump [said it best](https://x.com/realDonaldTrump/status/183571797306
 
 ---
 
-Yesterday Twitter/X was awash in ridiculous posts, ranging from "it was a hoax" to "it's all Trump's fault." And it wasn't just left-wing wackos of the harridans of The View or the jerks on MSNBC. In newspapers across the country, pundits intoned in the fake "not in anger but in sorrow" tones of hypocrites that Donald Trump inspired people to shoot at him.
+Yesterday Twitter/𝕏 was awash in ridiculous posts, ranging from "it was a hoax" to "it's all Trump's fault." And it wasn't just left-wing wackos of the harridans of The View or the jerks on MSNBC. In newspapers across the country, pundits intoned in the fake "not in anger but in sorrow" tones of hypocrites that Donald Trump inspired people to shoot at him.
 
 If only Trump had the decency to die, they wouldn't have to keep trying to kill him.
 
