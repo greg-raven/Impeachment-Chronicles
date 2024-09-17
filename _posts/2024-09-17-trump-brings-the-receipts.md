@@ -16,7 +16,7 @@ tags:
 
 Actually, only some of the receipts since there are so many.
 
-The Trump campaign has said the unsayable out loud: Democrats and the mainstream media have been <a href="https://www.donaldjtrump.com/news/7b04b05d-a8ed-479c-b92d-5868a1f6873b">working overtime to demonize Trump</a>, and the inevitable result is that the more unhinged among them are being inspired to violence.
+The Trump campaign has said the unsayable out loud: Democrats and the mainstream media have been [working overtime to demonize Trump](https://www.donaldjtrump.com/news/7b04b05d-a8ed-479c-b92d-5868a1f6873b), and the inevitable result is that the more unhinged among them are being inspired to violence.
 
 I've already written a couple of posts about the Democrats' incitement to violence, including instances above and beyond those cited by Trump. Conversely, Trump has listed a bunch that I haven't mentioned.
 
@@ -134,7 +134,7 @@ That doesn't even include the dangerous rhetoric against President Trump spewed 
 
 - **[Jonathan Chait, _New York Magazine_](https://nymag.com/intelligencer/article/trump-is-a-threat-to-democracy-saying-so-is-not-incitement.html)_:_** "Trump is a threat to democracy, and saying so is not incitement."
 
-- **[*The Cincinnati Enquirer*](https://x.com/Enquirer/status/1835702707505730032)_:_** "The former president, Donald Trump, brings a lot of this stuff on himself."
+- **_[The Cincinnati Enquirer*](https://x.com/Enquirer/status/1835702707505730032):_** "The former president, Donald Trump, brings a lot of this stuff on himself."
 
 - **[_USA TODAY_](https://x.com/DonaldJTrumpJr/status/1835725196080083351)_:_** "Hope in America."
 

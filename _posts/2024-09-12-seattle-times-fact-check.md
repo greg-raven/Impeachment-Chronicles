@@ -11,7 +11,7 @@ Community Notes just nuked *The Seattle Times.*
 >
 > <cite>The Seattle Times</cite>
 
-> *The Seattle Times* themselves have reported on the very real incident in June of 2020 where violent protestors forcefully took control of a portion of Seattle's Capitol Hill area that was dubbed CHAZ (Capitol Hill Autonomous Zone) or CHOP (Capitol Hill Organized Protest)
+> *The Seattle Times* themselves have reported on the very real incident in June of 2020 where violent protestors forcefully took control of a portion of Seattle's Capitol Hill area that was dubbed CHAZ (Capitol Hill Autonomous Zone) or CHOP (Capitol Hill Organized Protest).
 >
 > <cite>Reader added context</cite>
 
