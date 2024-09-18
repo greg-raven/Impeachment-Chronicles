@@ -1,5 +1,5 @@
 ---
-title: "Trump Brings the Receipts"
+title: "Trump brings the receipts"
 layout: post
 tags:
 - Kamala Harris
@@ -32,7 +32,7 @@ Thankfully, the would-be assassin was stopped by the heroic action of law enforc
 
 - **[Kamala Harris --- repeatedly](https://x.com/TrumpWarRoom/status/1835709557307220128):** "Trump is a threat to our democracy and fundamental freedoms."
 
-- **[Kamala Harris](https://x.com/KamalaHarris/status/1775939587589689479):** "It's on us to recognize the threat \[Trump\] poses."
+- **[Kamala Harris](https://x.com/KamalaHarris/status/1775939587589689479):** "It's on us to recognize the threat [Trump] poses."
 
 - **[Kamala Harris](https://x.com/TrumpWarRoom/status/1816168883197468852):** "Does one of us have to come out alive? Ha ha ha ha!"
 
@@ -48,11 +48,11 @@ Thankfully, the would-be assassin was stopped by the heroic action of law enforc
 
 - **[Joe Biden](https://x.com/RNCResearch/status/1812966910150992234):** "Trump and the MAGA Republicans represent an extremism that threatens the very foundations of our republic ... and that is a threat to this country."
 
-- **[Tim Walz](https://x.com/TrumpWarRoom/status/1835709648869150935):** "Are \[Republicans\] a threat to democracy? Yes. ... Are they going to put peoples' lives in danger? Yes."
+- **[Tim Walz](https://x.com/TrumpWarRoom/status/1835709648869150935):** "Are [Republicans] a threat to democracy? Yes. ... Are they going to put peoples' lives in danger? Yes."
 
 - **[Gwen Walz](https://x.com/TrumpWarRoom/status/1835054355189313896):** "Buh-bye, Donald Trump."
 
-- **[Rep. Nancy Pelosi](https://x.com/TrumpWarRoom/status/1826663245995790397):** "\[Trump\] is a threat to our democracy of the kind that we have not seen."
+- **[Rep. Nancy Pelosi](https://x.com/TrumpWarRoom/status/1826663245995790397):** "[Trump] is a threat to our democracy of the kind that we have not seen."
 
 - **[Rep. Jasmine Crockett](https://x.com/TrumpWarRoom/status/1835697949562503377):** "MAGA in general --- they are threats to us domestically."
 
@@ -64,9 +64,9 @@ Thankfully, the would-be assassin was stopped by the heroic action of law enforc
 
 - **[Rep. Steve Cohen](https://archive.org/details/MSNBCW_20230610_120000_The_Katie_Phang_Show/start/1140/end/1200):** "Trump is an enemy of the United States."
 
-- **[Rep. Maxine Waters](https://x.com/RNCResearch/status/1797438425106157714):** "Are \[Trump supporters\] preparing a civil war against us?"
+- **[Rep. Maxine Waters](https://x.com/RNCResearch/status/1797438425106157714):** "Are [Trump supporters] preparing a civil war against us?"
 
-- **[Rep. Maxine Waters](https://x.com/RNCResearch/status/1787470550320689252):** "I want to know about all of those right-wing organizations that \[Trump\] is connected with who are training up in the hills somewhere."
+- **[Rep. Maxine Waters](https://x.com/RNCResearch/status/1787470550320689252):** "I want to know about all of those right-wing organizations that [Trump] is connected with who are training up in the hills somewhere."
 
 - **[Rep. Debbie Wasserman Schultz](https://x.com/DWStweets/status/1810437872157360496):** Trump is an "existential threat to our democracy."
 
@@ -82,7 +82,7 @@ Thankfully, the would-be assassin was stopped by the heroic action of law enforc
 
 - **[Rep. Annie Kuster](https://x.com/Marisa_N19/status/1795898240799256588):** "Trump and his extreme right-wing followers pose an existential threat to our democracy."
 
-- **[Rep. Becca Balint](https://x.com/RepBeccaB/status/1785403877405135163):** "We cannot underestimate the threat \[Trump\] poses to American democracy."
+- **[Rep. Becca Balint](https://x.com/RepBeccaB/status/1785403877405135163):** "We cannot underestimate the threat [Trump] poses to American democracy."
 
 - **[Rep. Jason Crow](https://x.com/BidenHQ/status/1778944484014805383):** "Trump is an extreme danger to our democracy."
 
@@ -112,7 +112,7 @@ That doesn't even include the dangerous rhetoric against President Trump spewed 
 
 **Meanwhile, the deplorable commentary from Democrats and the Fake News in the aftermath of the latest assassination attempt has been even worse:**
 
-- **[Rep. Hakeem Jeffries](https://x.com/RepJeffries/status/1835400811012071678):** "We must stop \[Trump\]."
+- **[Rep. Hakeem Jeffries](https://x.com/RepJeffries/status/1835400811012071678):** "We must stop [Trump]."
 
 - **[Rachel Vindman, wife of disgraced impeachment hoax 'witness'](https://x.com/DonaldJTrumpJr/status/1835432636686483840):** "No ears were harmed. Carry on with your Sunday afternoon."
 
@@ -122,11 +122,11 @@ That doesn't even include the dangerous rhetoric against President Trump spewed 
 
 - **[Lester Holt, NBC Nightly News](https://x.com/CurtisHouck/status/1835449928136462361):** "Today's apparent assassination attempt comes amid increasingly fierce rhetoric on the campaign trail. Mr. Trump, his running mate JD Vance, continue to make baseless claims ..."
 
-- **[Alex Witt, MSNBC](https://x.com/CurtisHouck/status/1835416101611589931):** "Do you expect there to be calls from within the Trump campaign to \[tone it down\]?"
+- **[Alex Witt, MSNBC](https://x.com/CurtisHouck/status/1835416101611589931):** "Do you expect there to be calls from within the Trump campaign to [tone it down]?"
 
 - **[Phil Bump, _The Washington Post_](https://www.washingtonpost.com/politics/2024/09/16/another-chance-trump-frame-democrats-dangerous-has-emerged/)_:_** "Another chance for Trump to frame Democrats as dangerous has emerged."
 
-- **[Bill Kristol, _The Bulwark_](https://x.com/DonaldJTrumpJr/status/1835457726937268547)_:_** "Vance ... incite\[s\] potential violence with lies."
+- **[Bill Kristol, _The Bulwark_](https://x.com/DonaldJTrumpJr/status/1835457726937268547)_:_** "Vance ... incite[s] potential violence with lies."
 
 - **[Ron Filipkowski, liberal commentator](https://x.com/ronfilipkowski/status/1835456216178331947?s=46&t=jCHou9Ht-D9FgubZD9ZMtw):** "Was the golf course guy with the gun a migrant?"
 

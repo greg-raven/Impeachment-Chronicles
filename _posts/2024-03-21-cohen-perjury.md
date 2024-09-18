@@ -5,7 +5,7 @@ tags:
 - Madeleine Hubbard
 ---
 
-- "It gives rise to two possibilities: one, Cohen committed perjury when he pleaded guilty," the judge wrote. “Or, two, Cohen committed perjury in his October 2023 testimony."
+- "It gives rise to two possibilities: one, Cohen committed perjury when he pleaded guilty," the judge wrote. "Or, two, Cohen committed perjury in his October 2023 testimony."
 
 Former President Donald Trump scored an unexpected victory ahead of Manhattan District Attorney Alvin Bragg's trial against him when a federal judge denied Michael Cohen's bid to end his supervised release early on the grounds that the former Trump attorney may have committed perjury.
 
@@ -13,7 +13,7 @@ Cohen on Wednesday asked the court to lift his supervised release because he tes
 
 Cohen, who has tried three times before to lift the supervision set to end in November, told the judge that there has been a "substantial change in circumstances" since he testified against Trump in October 2023.
 
-"In short, there was ‘a substantial change in circumstances’ between Cohen’s third failed application and this, his fourth," U.S. District Judge Jesse M. Furman wrote Wednesday, per CNN. "But that change — his October 2023 testimony, which was either perjurious or confirms that he committed perjury before this Court — makes plain that Cohen should be required to serve out the remainder of his supervised release term."
+"In short, there was 'a substantial change in circumstances' between Cohen's third failed application and this, his fourth," U.S. District Judge Jesse M. Furman wrote Wednesday, per CNN. "But that change --- his October 2023 testimony, which was either perjurious or confirms that he committed perjury before this Court --- makes plain that Cohen should be required to serve out the remainder of his supervised release term."
 
 Cohen testified last fall that he falsely pleaded guilty to tax evasion in 2018 before Judge William Pauley.
 

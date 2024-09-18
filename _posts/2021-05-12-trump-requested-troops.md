@@ -13,7 +13,6 @@ According to Miller's testimony, Trump asked during that meeting whether the Dis
 
 Trump told Miller to "fill" the request, the former defense secretary testified. Miller said Trump told him: "Do whatever is necessary to protect demonstrators that were executing their constitutionally protected rights."
 
-[1/5]House Oversight and Reform Committee Chairwoman Carolyn Maloney (D-NY) presides during a House Oversight and Reform Committee hearing titled “The Capitol [Insurrection](/insurrection.html): Unexplained Delays and Unanswered Questions,” regarding the on January 6 attack on the U.S. Capitol, on Capitol Hill in ... Purchase Licensing Rights Read more
 Miller made the remarks during a contentious hearing held by the House Oversight Committee, which is investigating security failures in the days leading to and during the riot.
 
 Representative Carolyn Maloney, the Democrat who chairs the committee, demanded answers from Miller on why National Guard troops did not arrive until hours after the building was overrun.

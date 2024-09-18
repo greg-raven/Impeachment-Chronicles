@@ -5,7 +5,7 @@ tags:
 - Joe Biden
 ---
 
-Donald Trump attempted to overthrow an election, wants to be a dictator on day one, and has promised revenge and retribution if he wins—and the Supreme Court he appointed just gave him virtually unlimited immunity to do it.
+Donald Trump attempted to overthrow an election, wants to be a dictator on day one, and has promised revenge and retribution if he wins --- and the Supreme Court he appointed just gave him virtually unlimited immunity to do it.
 
 Ask yourself: What will happen next?
 

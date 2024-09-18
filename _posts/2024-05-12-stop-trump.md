@@ -5,9 +5,9 @@ tags:
 - Biden-Harris HQ
 ---
 
-NEW AD: Donald Trump wants to separate mothers from their children and allow laws that rip away IVF access and monitor women’s pregnancies.
+NEW AD: Donald Trump wants to separate mothers from their children and allow laws that rip away IVF access and monitor women's pregnancies.
 
-This Mother’s Day, do the moms in your life a favor: Stop Trump.
+This Mother's Day, do the moms in your life a favor: Stop Trump.
 
 > This is how Trump treats mothers.
 

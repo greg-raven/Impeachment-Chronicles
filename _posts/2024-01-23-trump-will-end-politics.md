@@ -11,7 +11,7 @@ MSNBC anchor Rachel Maddow claimed Monday that former President Trump's re-elect
 
 Maddow argued that Trump is increasingly being honest about his dictatorial ambitions to his base.
 
-"What he's offering is what he both inherently offers and now, more and more, explicitly offers, which is that ‘if you pick me, that’s the end of politics,'" Maddow said.
+"What he's offering is what he both inherently offers and now, more and more, explicitly offers, which is that 'if you pick me, that's the end of politics,'" Maddow said.
 
 The MSNBC anchor summarized the deal that American voters would get in the scenario that Trump wins the 2024 election and causes, in her view, the collapse of the American political system.
 

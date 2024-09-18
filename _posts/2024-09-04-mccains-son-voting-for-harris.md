@@ -5,7 +5,7 @@ tags:
 - Jimmy McCain
 ---
 
-NEW: John McCain’s son, Jimmy, says he is so disgusted that Trump would turn Arlington into a "campaign backdrop" that he is voting for Kamala.
+NEW: John McCain's son, Jimmy, says he is so disgusted that Trump would turn Arlington into a "campaign backdrop" that he is voting for Kamala.
 
 Ironically, in 1999, John McCain himself used Arlington National Cemetery as a "campaign backdrop."
 
@@ -15,9 +15,9 @@ The incident got so much attention that McCain was forced to remove the footage 
 
 "McCain to Remove Arlington Footage From Campaign Ad," an *LA Times* headline read from Nov. 12, 1999.
 
-"Republican presidential candidate Sen. John McCain will remove footage of Arlington National Cemetery from his campaign’s biographical television ad," the report read.
+"Republican presidential candidate Sen. John McCain will remove footage of Arlington National Cemetery from his campaign's biographical television ad," the report read.
 
-"The Army said this week that the Arizonan’s campaign did not ask permission to film him at the cemetery. Any request to do so would have been denied because partisan activity is banned at Army installations, the Army said," the *LA Times* reported at the time.
+"The Army said this week that the Arizonan's campaign did not ask permission to film him at the cemetery. Any request to do so would have been denied because partisan activity is banned at Army installations, the Army said," the *LA Times* reported at the time.
 
 "'It just blows me away. These men and women that are laying in the ground there have no choice' of whether to be a backdrop for a political campaign," he said, according to CNN.
 

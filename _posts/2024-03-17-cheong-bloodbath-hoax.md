@@ -5,7 +5,7 @@ tags:
 - Ian Miles Cheong
 ---
 
-The media is lying about Donald Trump with this narrative about a "bloodbath" if he loses the election. He was very clearly talking about the car manufacturing industry—before and after he used the word.
+The media is lying about Donald Trump with this narrative about a "bloodbath" if he loses the election. He was very clearly talking about the car manufacturing industry --- before and after he used the word.
 
 You have to be extremely disingenuous to take what he's saying out of context, and that's exactly what the media is doing. They're all running with the same lie.
 

@@ -11,17 +11,17 @@ George Stephanopoulos and ABC News are now being sued over the repeated lie that
 
 - "Donald Trump has been found liable for rape by a jury."
 
-- "I'm asking you a question about why you endorsed someone who’s been found liable for rape. Just answer the question."
+- "I'm asking you a question about why you endorsed someone who's been found liable for rape. Just answer the question."
 
 - "It was a civil court that found him liable for rape."
 
-- "... you're supporting someone who’s been found liable for rape."
+- "... you're supporting someone who's been found liable for rape."
 
-- "Why are you supporting someone who’s been found liable for rape?"
+- "Why are you supporting someone who's been found liable for rape?"
 
 - "You don't find it offensive that Donald Trump has been found liable for rape?"
 
-- "Well, actually, what you’re doing is defending a man who's been found liable for rape. I don't understand how you can do that."
+- "Well, actually, what you're doing is defending a man who's been found liable for rape. I don't understand how you can do that."
 
 - "In fact, it has been shown to be rape. The judge affirmed that it was, in fact, rape. Donald Trump was found to have committed rape. That's just a fact."
 

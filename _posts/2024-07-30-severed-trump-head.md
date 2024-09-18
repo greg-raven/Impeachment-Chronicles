@@ -7,7 +7,7 @@ tags:
 
 Green Day had a concert here in DC last night.
 
-They decided it’d be a good idea to hold up a severed Trump head.
+They decided it'd be a good idea to hold up a severed Trump head.
 
 Just TWO WEEKS after he was sh*t in the head.
 

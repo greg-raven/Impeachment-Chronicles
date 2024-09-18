@@ -96,7 +96,7 @@ It includes grants, loans and tax credits initially estimated to be worth $369bn
 
 In general, cost estimates have risen since its passing, as investments triggered by the bill's incentives have rolled in, with some now putting its ultimate cost above $1tn.
 
-> Rhodium Group on Twitter/𝕏 "Investment in clean technologies is continuing at record levels in the US, as demonstrated by new data from Q3 2023. Actual clean energy and transport investment in the US reached a record $64 billion in Q3 2023—an 8% increase from Q2 and a 42%increase year-on-year"
+> Rhodium Group on Twitter/𝕏 "Investment in clean technologies is continuing at record levels in the US, as demonstrated by new data from Q3 2023. Actual clean energy and transport investment in the US reached a record $64 billion in Q3 2023 --- an 8% increase from Q2 and a 42%increase year-on-year"
 
 However, a recent analysis of progress since the bill passed in 2021 shows that while electric vehicle sales are running at the top end of what was expected in earlier modelling of the IRA's impact, the deployment of clean electricity --- in particular, wind power --- is falling slightly behind.
 

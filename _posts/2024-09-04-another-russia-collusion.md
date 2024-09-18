@@ -16,7 +16,7 @@ Democrats would absolutely do another Russia Collusion hoax. It's their cope.
 : What do the Russians have on Donald Trump, politically, financially, and personally?
 
 2020
-: What does Vladimir Putin have on President Trump — personally, politically, financially, in any way?
+: What does Vladimir Putin have on President Trump --- personally, politically, financially, in any way?
 
 2024
 : What does he have on Donald Trump? [...] I think it is probably financial, and it's probably financial, either something financial he has on, or something on the come.

@@ -5,13 +5,13 @@ tags:
 - Insurrection Barbie
 ---
 
-Madonna: Let’s blow up the White House.
+Madonna: Let's blow up the White House.
 
 Peter Fonda: Lock up 10 year old Barron Trump in a cage with child molesters.
 
 Johnny Depp: we need another John Wilkes Booth.
 
-Tom Arnold: I fantasize about standing over Don Jr.’s dead body.
+Tom Arnold: I fantasize about standing over Don Jr.'s dead body.
 
 Joe Biden: I would like to take Trump behind the barn to beat him.
 

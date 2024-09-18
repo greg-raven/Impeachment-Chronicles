@@ -25,9 +25,9 @@ You can see his [posts here]({% post_url 2024-07-01-trump-will-end-america %}).
 
 [...]
 
-Snyder has issued a warning for years about the threats Trump poses to the country and in 2021 said that Trump's claims the 2020 election was stolen had relied on “personal charisma and signals to his followers and a few people in the Justice Department and hope.”
+Snyder has issued a warning for years about the threats Trump poses to the country and in 2021 said that Trump's claims the 2020 election was stolen had relied on "personal charisma and signals to his followers and a few people in the Justice Department and hope."
 
-At the time, he noted that a Trump 2024 campaign would have “institutional machinery” behind him, warning that the January 6 [insurrection](/insurrection.html) was merely a "trial run" for a successful coup attempt:
+At the time, he noted that a Trump 2024 campaign would have "institutional machinery" behind him, warning that the January 6 [insurrection](/insurrection.html) was merely a "trial run" for a successful coup attempt:
 
 > What we know historically is that a failed coup is a trial run for a successful coup. Usually, when you fail in a coup, something happens to you --- and Mr. Trump, nothing has happened to him.
 
@@ -53,7 +53,7 @@ The legal team also suggested that this decision could benefit Trump in the clas
 
 The Court clarified that unofficial actions are not immune, and has remanded the case back to District Court Judge Tanya Chutkan to determine what constitutes an official act versus a private one.
 
-Moreover, the majority emphasized that official acts cannot be used as evidence in a potential trial, which could complicate Smith's efforts to establish Trump’s motive and other critical aspects of the case against him. Trump's team also is trying to make the case that his criminal conviction for falsifying financial records should be nullified as well. Trump's sentencing hearing in the case will now be held on September 18.
+Moreover, the majority emphasized that official acts cannot be used as evidence in a potential trial, which could complicate Smith's efforts to establish Trump's motive and other critical aspects of the case against him. Trump's team also is trying to make the case that his criminal conviction for falsifying financial records should be nullified as well. Trump's sentencing hearing in the case will now be held on September 18.
 
 Source: Alan Herrera, comicsands.com/timothy-snyder-trump-america-ends-2668680948.html
 

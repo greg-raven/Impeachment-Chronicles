@@ -11,4 +11,4 @@ I don't condone violence but please get you some shooting lessons so you don't m
 
 Source: Jacqueline Marsaw, via [𝕏](https://x.com) (since deleted)
 
-H/T: Steven Wilson, "Mississippi congressman's staffer says 'don’t miss next time’ after Trump assassination attempt," justthenews.com/nation/states/center-square/mississippi-congressmans-field-director-says-dont-miss-next-time
+H/T: Steven Wilson, "Mississippi congressman's staffer says 'don't miss next time' after Trump assassination attempt," justthenews.com/nation/states/center-square/mississippi-congressmans-field-director-says-dont-miss-next-time

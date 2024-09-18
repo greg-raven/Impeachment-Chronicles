@@ -23,12 +23,7 @@ Trump's potential revenge tour has already been mapped out in detail. Rolling St
 
 The plans for retribution are being hatched behind the scenes, but Trump has been fantasizing publicly about putting them into motion. "The precedent on doing what they did, with the weaponization, using the DOJ and the FBI to go after their political opponents, that is so bad," Trump told Lou Dobbs in January, referring to the idea that all of his indictments and all of the lawsuits he is facing are politically motivated. "That means I can do it too," he continued. "Pandora's Box is open and that means that I can do it too."
 
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-	<p lang="en" dir="ltr">
-		Trump: “Doing what they did &#8211; using the DOJ &amp; FBI to go after their political opponent .. that means that I can do it too. In other words, the Pandora’s box is open, and that means that I can do it too.” <a href="https://t.co/FYafQE2Wc0" rel="nofollow" target="_blank">pic.twitter.com/FYafQE2Wc0</a>
-	</p>
-	&mdash; Ron Filipkowski (@RonFilipkowski) <a href="https://twitter.com/RonFilipkowski/status/1744548023051407600?ref_src=twsrc%5Etfw" rel="nofollow" target="_blank">January 9, 2024</a>
-</blockquote>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"> <p lang="en" dir="ltr"> Trump: “Doing what they did &#8211; using the DOJ &amp; FBI to go after their political opponent .. that means that I can do it too. In other words, the Pandora’s box is open, and that means that I can do it too.” <a href="https://t.co/FYafQE2Wc0" rel="nofollow" target="_blank">pic.twitter.com/FYafQE2Wc0</a> </p> &mdash; Ron Filipkowski (@RonFilipkowski) <a href="https://twitter.com/RonFilipkowski/status/1744548023051407600?ref_src=twsrc%5Etfw" rel="nofollow" target="_blank">January 9, 2024</a> </blockquote>
 
 **He will round up, intern, and deport undocumented immigrants**
 
@@ -142,14 +137,7 @@ Trump reminded everyone of the push to crackdown on the media after winning the 
 
 Trump wants to codify the discrimination of trans Americans. He's said he would move to enact a federal law stating that there are only two genders, push Congress to ban gender-affirming care for minors, and punish doctors and hospitals who treat transgender youth. He has also vowed to restore his first administration's ban on trans Americans serving in the military, and work to prevent trans women from competing in women's sports.
 
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
-	<p lang="en" dir="ltr">
-		PRES. TRUMP: I will restore the Trump ban on transgender in the military<br>
-		<br>
-		“I had it stopped.” <a href="https://t.co/9t13spHbRa" rel="nofollow" target="_blank">pic.twitter.com/9t13spHbRa</a>
-	</p>
-	&mdash; The Post Millennial (@TPostMillennial) <a href="https://twitter.com/TPostMillennial/status/1680384639037485056?ref_src=twsrc%5Etfw" rel="nofollow" target="_blank">July 16, 2023</a>
-</blockquote>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"> <p lang="en" dir="ltr"> PRES. TRUMP: I will restore the Trump ban on transgender in the military<br> <br> “I had it stopped.” <a href="https://t.co/9t13spHbRa" rel="nofollow" target="_blank">pic.twitter.com/9t13spHbRa</a> </p> &mdash; The Post Millennial (@TPostMillennial) <a href="https://twitter.com/TPostMillennial/status/1680384639037485056?ref_src=twsrc%5Etfw" rel="nofollow" target="_blank">July 16, 2023</a> </blockquote>
 
 **He will pardon the Jan. 6 rioters**
 

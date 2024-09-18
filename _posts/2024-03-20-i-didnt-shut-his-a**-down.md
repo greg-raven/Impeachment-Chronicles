@@ -1,11 +1,11 @@
 ---
-title: "I didn't shut his as* down"
+title: "I didn't shut his ass down"
 layout: post
 tags:
 - Stormy Daniels
 ---
 
-> I have not forgiven myself because I didn’t shut his as* down.
+> I have not forgiven myself because I didn't shut his as* down.
 
 Stormy Daniels says she feels some responsibility for all the women Trump allegedly sexually assaulted after her.
 

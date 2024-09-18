@@ -8,7 +8,7 @@ tags:
 
 [...]
 
-> We’re done talking about the debate, it’s time to put Trump in a bullseye.
+> We're done talking about the debate. It's time to put Trump in a bullseye.
 >
 > <cite>Joe Biden</cite>
 

@@ -5,7 +5,7 @@ tags:
 - Jamaal Bowman
 ---
 
-“She wants to do transgender operations on illegal aliens in prison.” Yall serious right now? He says anything. He just put words together that scares people and barely forms sentences.
+"She wants to do transgender operations on illegal aliens in prison." Yall serious right now? He says anything. He just put words together that scares people and barely forms sentences.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">“She wants to do transgender operations on illegal aliens in prison.” Yall serious right now? He says anything. He just put words together that scares people and barely forms sentences.</p>&mdash; Rep. Jamaal Bowman Ed.D. (@JamaalBowmanNY) <a href="https://twitter.com/JamaalBowmanNY/status/1833683431315616148?ref_src=twsrc%5Etfw">September 11, 2024</a></blockquote>
 
