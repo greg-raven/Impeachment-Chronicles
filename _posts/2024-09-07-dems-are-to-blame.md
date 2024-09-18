@@ -41,7 +41,7 @@ The left is the cancer. The liberal media is the most prominent voice and purvey
 
 Mock them, denigrate them, and, yes, confront their false narratives head-on. It's game time; take the gloves off. What's happening to Trump is the liberal media's fault and that of the Democrats. The real kicker is that their line centers on this return to normalcy, but only if you vote for Kamala and the Democrats.
 
-This game is over, and the liberal media knows it.
+This game is over, and the liberal media know it.
 
 Source: Matt Vespa, townhall.com/columnists/mattvespa/2024/09/17/yes-dems-are-to-blame-for-the-assassination-attempts-on-trump-n2644872
 
