@@ -18,22 +18,12 @@
 
 [Judge in Trump Case Says She's Concerned With Special Counsel Jack Smith | The Epoch Times](https://www.theepochtimes.com/us/judge-in-trump-case-says-shes-concerned-with-special-counsel-jack-smith-5653302)
 
-The mainstream media can never be trusted - https://rumble.com/v4wx0gw-the-mainstream-media-can-never-be-trusted.html
-
-[Election Interference](https://www.bitchute.com/video/dPpYTubvKRk/)
 
 [Donald Trump's Chances of Winning Election Suddenly Slide](https://www.msn.com/en-us/news/politics/donald-trumps-chances-of-winning-election-suddenly-slide/ar-BB1ovR6R)
 
 
 [Biden delivers stark warnings about potential second Trump term at star-studded fundraiser | CNN Politics](https://www.cnn.com/2024/06/16/politics/joe-biden-supreme-court-warning-barack-obama-jimmy-kimmel/index.html)
 
-BIDEN HARRIS
-FOR IMMEDIATE RELEASE
-March 21, 2024
-Not a Winning Campaign: Broke Don Hides
-in Basement
-Trump can't raise money, isn't campaigning, and is letting convicts and conspiracy theorists run his campaign
-[...]
 
 [Julian Assange tells Megyn Kelly why WikiLeaks isn't releasing dirt on Donald Trump | The Week](https://theweek.com/speedreads/645239/julian-assange-tells-megyn-kelly-why-wikileaks-isnt-releasing-dirt-donald-trump)
 
@@ -313,3 +303,5 @@ https://youtu.be/Zg1kbeeigg0
 https://youtu.be/ZPlS9MvaeXE?si=bSGo8Y_Lw7F190Ry
 https://youtu.be/Zrf1AColf8M?si=UOUtyK1DblgBHva7
 https://www.youtube.com/watch?v=F659I6pSFmQ
+https://rumble.com/v4wx0gw-the-mainstream-media-can-never-be-trusted.html - The mainstream media can never be trusted
+https://www.bitchute.com/video/dPpYTubvKRk/ - Election Interference
