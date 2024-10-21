@@ -322,11 +322,6 @@ https://www.youtube.com/watch?v=00vWa8M7eNw
 https://www.youtube.com/watch?v=KOewbR1vjLA
 
 
-Mitch McConnell called Donald Trump 'stupid' after 2020 election: Book - https://thehill.com/homenews/senate/4938254-mitch-mcconnell-donald-trump-2020-election-book/
-
-Donald Trump bears responsibility for Jan. 6 attack, Jack Smith argues in new filing - https://www.nbcnews.com/politics/justice-department/donald-trump-bears-responsibility-jan-6-attack-jack-smith-argues-new-f-rcna175707
-
-
 https://www.youtube.com/watch?v=0Og95neMLkw
 https://www.youtube.com/watch?v=eZiPoKfAnlI
 https://www.youtube.com/watch?v=CawgTKIcrt8
