@@ -1,5 +1,3 @@
-2024-03-10 [Fanni Willis & her lover Wade met with White House BEFORE they indicted Trump | Armstrong Economics](https://www.armstrongeconomics.com/armstrongeconomics101/deep-state/fanni-willis-her-lover-wade-met-with-white-house-before-they-indicted-trump/)
-
 2024-03-09 [Ex-CIA head Brennan hints at intel community withholding 'sensitive' info from Trump after he gets nomination | Fox News](https://www.foxnews.com/media/ex-cia-head-brennan-hints-intel-community-withholding-sensitive-info-trump-gets-nomination)
 
 2024-03-07 [Book Admits Fani Willis' Investigation Began With Illegal Recording](https://thefederalist.com/2024/03/07/new-book-admits-fani-willis-get-trump-investigation-began-with-illegal-recording/)
