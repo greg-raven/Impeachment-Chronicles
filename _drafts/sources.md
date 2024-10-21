@@ -326,10 +326,6 @@ Mitch McConnell called Donald Trump 'stupid' after 2020 election: Book - https:/
 
 Donald Trump bears responsibility for Jan. 6 attack, Jack Smith argues in new filing - https://www.nbcnews.com/politics/justice-department/donald-trump-bears-responsibility-jan-6-attack-jack-smith-argues-new-f-rcna175707
 
-Trump Confesses He Was ‘Sexually Attracted’ to Ivanka When She Was 13 Years Old - https://www.politicalflare.com/2024/07/trump-confesses-he-was-sexually-attracted-to-ivanka-when-she-was-13-year-old/
-
-'Is Trump okay?' Confusion as 'exhausted' ex-president abruptly ends friendly interview - Raw Story - https://www.rawstory.com/trump-dan-bongino-ends-interview/
-
 
 https://www.youtube.com/watch?v=0Og95neMLkw
 https://www.youtube.com/watch?v=eZiPoKfAnlI
