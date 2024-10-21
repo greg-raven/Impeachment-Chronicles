@@ -1,7 +1,3 @@
-2024-03-09 [Ex-CIA head Brennan hints at intel community withholding 'sensitive' info from Trump after he gets nomination | Fox News](https://www.foxnews.com/media/ex-cia-head-brennan-hints-intel-community-withholding-sensitive-info-trump-gets-nomination)
-
-2024-03-07 [Book Admits Fani Willis' Investigation Began With Illegal Recording](https://thefederalist.com/2024/03/07/new-book-admits-fani-willis-get-trump-investigation-began-with-illegal-recording/)
-
 2024-03-01 [MSNBC Goes Full Racist on President Trump's WHITE RURAL Voters aka People living in the Country - Accused of WHITE RURAL RAGE](https://rumble.com/v4gisu6-msnbc-goes-full-racist-on-pres-trumps-white-rural-voters-aka-people-living-.html)
 
 2023-12-22 [Trump recorded pressuring Wayne Co. canvassers not to certify 2020 vote](https://www.detroitnews.com/story/news/politics/2023/12/21/donald-trump-recorded-pressuring-wayne-canvassers-not-to-certify-2020-vote-michigan/72004514007/)
