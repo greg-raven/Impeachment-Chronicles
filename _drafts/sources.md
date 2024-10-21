@@ -78,26 +78,6 @@ https://www.youtube.com/watch?v=NgJDbzXo3rQ
 
 [Joy Reid suggest Biden recovering from COVID is 'exactly the same thing' as Trump surviving an assassination](https://www.msn.com/en-us/news/opinion/joy-reid-suggest-biden-recovering-from-covid-is-exactly-the-same-thing-as-trump-surviving-an-assassination/ar-BB1qblgY)
 
-https://www.youtube.com/watch?v=HotPL809GKo
-https://www.youtube.com/watch?v=zYMaGViu0-I
-https://www.youtube.com/watch?v=Kumo170Ts4g
-https://www.youtube.com/watch?v=hV6f_xmwb-0
-https://www.youtube.com/watch?v=LbVQfPCKrJU
-https://www.youtube.com/watch?v=eGA_QYPj8Jk
-https://www.youtube.com/watch?v=z8RBsu0OXWo
-https://www.youtube.com/watch?v=sbZnmJF5io4
-https://www.youtube.com/watch?v=TxYWNSk35t8
-https://www.youtube.com/watch?v=8InUQ6-9qtw
-https://www.youtube.com/watch?v=NQfqSl3ai_U
-https://www.youtube.com/watch?v=Ty3W2NQBIqM
-https://www.youtube.com/watch?v=cXBTRYzepNo
-https://www.youtube.com/watch?v=RAyJVR95MPE
-https://www.youtube.com/watch?v=mCuHO6mCRqM
-https://www.youtube.com/watch?v=Rn5LM5P9OiU
-https://www.youtube.com/watch?v=ro994KDlXZM
-https://www.youtube.com/watch?v=a1bCLpLiItI
-https://www.youtube.com/watch?v=WB7Y-bg4IT8
-
 [Trump rally shooting being investigated as attempt on his life as spectator killed | Donald Trump | The Guardian](https://www.theguardian.com/us-news/article/2024/jul/13/trump-rally-gun-shots-pennsylvania)
 
 [Trump's history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
@@ -152,29 +132,15 @@ https://www.theatlantic.com/entertainment/archive/2017/01/madonna-trump-blow-up-
 
 [Pennsylvania is slipping out of Trump's reach - UnHerd](https://unherd.com/2024/09/pennsylvania-is-slipping-out-of-trumps-reach/)
 
-https://www.youtube.com/watch?v=DGt1I-6UcGE
-
-https://www.youtube.com/watch?v=5NGrkt-9nRM
-
-https://youtu.be/Xza-Z-ENJo0?si=xZ8uYjc4wD3DCs7K (from 1:14)
-
 Trump's ad spending reveals a struggling campaign - https://www.dailykos.com/stories/2024/9/3/2267534/-Trump-s-ad-spending-reveals-a-struggling-campaign
 
 Trump Is Now Facing Serious Memory Lapses Which Has People Concerned - https://www.politicalflare.com/2024/07/trump-is-now-facing-serious-memory-lapses-which-has-people-concerned/
 
 CNN slammed for 'sane-washing Trump's diatribe' after more incomprehensible rants - Politics - News - Daily Express US - https://www.the-express.com/news/politics/148045/trump-rant-sane-washing-rally
 
-https://www.youtube.com/watch?v=Sp8_U_Pto4c
-
-https://www.youtube.com/watch?v=b4m0pv8oXZ4
-
-https://www.youtube.com/watch?v=7XnZ0kQOr2M
-
 https://www.reddit.com/r/Law_and_Politics/comments/1ffdjdr/so_here_is_how_the_trumpism_slide_will_happen/
 
 Trump’s debate meltdown was spectacular - https://www.msn.com/en-us/news/politics/trump-s-debate-meltdown-was-spectacular/ar-AA1qnGY0
-
-From Russia with Lev - https://www.msnbc.com/lev
 
 People Shocked as Sweaty Trump Slurred and Seemed Drunk During Michigan Speech, 'He Sounds Loaded!' - https://www.politicalflare.com/2024/09/people-shocked-as-sweaty-trump-slurred-and-seemed-drunk-during-michigan-speech-he-sounds-loaded/
 
@@ -183,7 +149,6 @@ Trump Mocked Mercilessly for Having a Meltdown as People Leave His Rally Early, 
 Bill Maher Assures His Guests That Trump Is 'Definitely Going to Lose': 'I’m Not Even Worried About It' - https://www.politicalflare.com/2024/09/bill-maher-assures-his-guests-that-trump-is-definitely-going-to-lose-im-not-even-worried-about-it/
 
 Americans Disgusted After Trump Is Caught Drooling During Speech, 'Ketamine and Antipsychotics Cause Drooling!' - https://www.politicalflare.com/2024/09/americans-disgusted-after-trump-is-caught-drooling-during-speech-ketamine-and-antipsychotics-cause-drooling/
-
 
 'Unreal': Massive pushback after Trump 'admitted he stiffed his workers' at latest rally - Raw Story - https://www.rawstory.com/trump-stiffed-workers-overtime/
 
@@ -194,6 +159,31 @@ Trump’s Tax Plan Is Another Giant Boon for the Wealthy - https://www.rollingst
 Florida is nearing toss-up status as top Republican poll shows Trump’s lead nearly vanished - https://www.msn.com/en-us/news/politics/florida-is-nearing-toss-up-status-as-top-republican-poll-shows-trump-s-lead-nearly-vanished/ar-AA1rKJLt
 
 
+https://www.youtube.com/watch?v=DGt1I-6UcGE
+https://www.youtube.com/watch?v=5NGrkt-9nRM
+https://youtu.be/Xza-Z-ENJo0?si=xZ8uYjc4wD3DCs7K (from 1:14)
+https://www.youtube.com/watch?v=Sp8_U_Pto4c
+https://www.youtube.com/watch?v=b4m0pv8oXZ4
+https://www.youtube.com/watch?v=7XnZ0kQOr2M
+https://www.youtube.com/watch?v=HotPL809GKo
+https://www.youtube.com/watch?v=zYMaGViu0-I
+https://www.youtube.com/watch?v=Kumo170Ts4g
+https://www.youtube.com/watch?v=hV6f_xmwb-0
+https://www.youtube.com/watch?v=LbVQfPCKrJU
+https://www.youtube.com/watch?v=eGA_QYPj8Jk
+https://www.youtube.com/watch?v=z8RBsu0OXWo
+https://www.youtube.com/watch?v=sbZnmJF5io4
+https://www.youtube.com/watch?v=TxYWNSk35t8
+https://www.youtube.com/watch?v=8InUQ6-9qtw
+https://www.youtube.com/watch?v=NQfqSl3ai_U
+https://www.youtube.com/watch?v=Ty3W2NQBIqM
+https://www.youtube.com/watch?v=cXBTRYzepNo
+https://www.youtube.com/watch?v=RAyJVR95MPE
+https://www.youtube.com/watch?v=mCuHO6mCRqM
+https://www.youtube.com/watch?v=Rn5LM5P9OiU
+https://www.youtube.com/watch?v=ro994KDlXZM
+https://www.youtube.com/watch?v=a1bCLpLiItI
+https://www.youtube.com/watch?v=WB7Y-bg4IT8
 https://www.youtube.com/watch?v=--6dEsv64gQ
 https://www.youtube.com/watch?v=Xs6OFgRLJ4k
 https://www.youtube.com/watch?v=Um9SocQx9K0
