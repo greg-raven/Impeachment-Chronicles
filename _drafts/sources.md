@@ -189,11 +189,7 @@ Americans Disgusted After Trump Is Caught Drooling During Speech, 'Ketamine and 
 
 'Omg': Critics stunned as Trump caught 'endorsing The Purge' as a real policy at his rally - Raw Story - https://www.rawstory.com/trump-proposes-the-purge-policy/
 
-On overtime pay, Trump slips up by accidentally telling the truth - https://www.msnbc.com/rachel-maddow-show/maddowblog/overtime-pay-trump-slips-accidentally-telling-truth-rcna173223
-
 Trump’s Tax Plan Is Another Giant Boon for the Wealthy - https://www.rollingstone.com/politics/politics-features/trump-tax-plan-wealthy-corporations-oil-billionaires-musk-1235107554/
-
-Trump’s True Crowd Size Exposed in Absolutely Humiliating Video - https://www.politicalflare.com/2024/10/trumps-true-crowd-size-exposed-in-absolutely-humiliating-video/
 
 Florida is nearing toss-up status as top Republican poll shows Trump’s lead nearly vanished - https://www.msn.com/en-us/news/politics/florida-is-nearing-toss-up-status-as-top-republican-poll-shows-trump-s-lead-nearly-vanished/ar-AA1rKJLt
 
