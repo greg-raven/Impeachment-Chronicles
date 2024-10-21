@@ -140,23 +140,23 @@ CNN slammed for 'sane-washing Trump's diatribe' after more incomprehensible rant
 
 https://www.reddit.com/r/Law_and_Politics/comments/1ffdjdr/so_here_is_how_the_trumpism_slide_will_happen/
 
-Trump’s debate meltdown was spectacular - https://www.msn.com/en-us/news/politics/trump-s-debate-meltdown-was-spectacular/ar-AA1qnGY0
+Trump's debate meltdown was spectacular - https://www.msn.com/en-us/news/politics/trump-s-debate-meltdown-was-spectacular/ar-AA1qnGY0
 
 People Shocked as Sweaty Trump Slurred and Seemed Drunk During Michigan Speech, 'He Sounds Loaded!' - https://www.politicalflare.com/2024/09/people-shocked-as-sweaty-trump-slurred-and-seemed-drunk-during-michigan-speech-he-sounds-loaded/
 
 Trump Mocked Mercilessly for Having a Meltdown as People Leave His Rally Early, 'He's Falling Apart!' - https://www.politicalflare.com/2024/09/trump-mocked-mercilessly-for-having-a-meltdown-as-people-leave-his-rally-early-hes-falling-apart/
 
-Bill Maher Assures His Guests That Trump Is 'Definitely Going to Lose': 'I’m Not Even Worried About It' - https://www.politicalflare.com/2024/09/bill-maher-assures-his-guests-that-trump-is-definitely-going-to-lose-im-not-even-worried-about-it/
+Bill Maher Assures His Guests That Trump Is 'Definitely Going to Lose': 'I'm Not Even Worried About It' - https://www.politicalflare.com/2024/09/bill-maher-assures-his-guests-that-trump-is-definitely-going-to-lose-im-not-even-worried-about-it/
 
 Americans Disgusted After Trump Is Caught Drooling During Speech, 'Ketamine and Antipsychotics Cause Drooling!' - https://www.politicalflare.com/2024/09/americans-disgusted-after-trump-is-caught-drooling-during-speech-ketamine-and-antipsychotics-cause-drooling/
 
 'Unreal': Massive pushback after Trump 'admitted he stiffed his workers' at latest rally - Raw Story - https://www.rawstory.com/trump-stiffed-workers-overtime/
 
-'Omg': Critics stunned as Trump caught 'endorsing The Purge' as a real policy at his rally - Raw Story - https://www.rawstory.com/trump-proposes-the-purge-policy/
+'OMG': Critics stunned as Trump caught 'endorsing The Purge' as a real policy at his rally - Raw Story - https://www.rawstory.com/trump-proposes-the-purge-policy/
 
-Trump’s Tax Plan Is Another Giant Boon for the Wealthy - https://www.rollingstone.com/politics/politics-features/trump-tax-plan-wealthy-corporations-oil-billionaires-musk-1235107554/
+Trump's Tax Plan Is Another Giant Boon for the Wealthy - https://www.rollingstone.com/politics/politics-features/trump-tax-plan-wealthy-corporations-oil-billionaires-musk-1235107554/
 
-Florida is nearing toss-up status as top Republican poll shows Trump’s lead nearly vanished - https://www.msn.com/en-us/news/politics/florida-is-nearing-toss-up-status-as-top-republican-poll-shows-trump-s-lead-nearly-vanished/ar-AA1rKJLt
+Florida is nearing toss-up status as top Republican poll shows Trump's lead nearly vanished - https://www.msn.com/en-us/news/politics/florida-is-nearing-toss-up-status-as-top-republican-poll-shows-trump-s-lead-nearly-vanished/ar-AA1rKJLt
 
 
 https://www.youtube.com/watch?v=DGt1I-6UcGE
