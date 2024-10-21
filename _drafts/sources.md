@@ -312,8 +312,6 @@ Trump’s True Crowd Size Exposed in Absolutely Humiliating Video - https://www.
 
 Florida is nearing toss-up status as top Republican poll shows Trump’s lead nearly vanished - https://www.msn.com/en-us/news/politics/florida-is-nearing-toss-up-status-as-top-republican-poll-shows-trump-s-lead-nearly-vanished/ar-AA1rKJLt
 
-Trump sent Putin COVID testing gear during pandemic shortage, Woodward book reports : NPR - https://www.npr.org/2024/10/08/nx-s1-5146501/trump-putin-covid-tests
-
 
 https://www.youtube.com/watch?v=trgUkDOK9SE
 https://www.youtube.com/watch?v=Zbz8u2fBkoo
