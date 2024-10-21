@@ -263,3 +263,83 @@ https://www.youtube.com/watch?v=DGt1I-6UcGE
 https://www.youtube.com/watch?v=5NGrkt-9nRM
 
 https://youtu.be/Xza-Z-ENJo0?si=xZ8uYjc4wD3DCs7K (from 1:14)
+
+Trump's ad spending reveals a struggling campaign - https://www.dailykos.com/stories/2024/9/3/2267534/-Trump-s-ad-spending-reveals-a-struggling-campaign
+
+Trump Is Now Facing Serious Memory Lapses Which Has People Concerned - https://www.politicalflare.com/2024/07/trump-is-now-facing-serious-memory-lapses-which-has-people-concerned/
+
+CNN slammed for 'sane-washing Trump's diatribe' after more incomprehensible rants - Politics - News - Daily Express US - https://www.the-express.com/news/politics/148045/trump-rant-sane-washing-rally
+
+https://www.youtube.com/watch?v=Sp8_U_Pto4c
+
+https://www.youtube.com/watch?v=b4m0pv8oXZ4
+
+https://www.youtube.com/watch?v=7XnZ0kQOr2M
+
+https://www.reddit.com/r/Law_and_Politics/comments/1ffdjdr/so_here_is_how_the_trumpism_slide_will_happen/
+
+Trump’s debate meltdown was spectacular - https://www.msn.com/en-us/news/politics/trump-s-debate-meltdown-was-spectacular/ar-AA1qnGY0
+
+https://www.youtube.com/watch?v=wr2tLz3EDHw
+
+https://www.youtube.com/watch?v=qhDR2QYYuzA
+
+https://www.youtube.com/watch?v=Fjf6u7491yw
+https://www.youtube.com/watch?v=rjj6iT2JLBg
+https://www.youtube.com/watch?v=5G6XPbdQ57I
+
+From Russia with Lev - https://www.msnbc.com/lev
+
+People Shocked as Sweaty Trump Slurred and Seemed Drunk During Michigan Speech, 'He Sounds Loaded!' - https://www.politicalflare.com/2024/09/people-shocked-as-sweaty-trump-slurred-and-seemed-drunk-during-michigan-speech-he-sounds-loaded/
+
+Trump Mocked Mercilessly for Having a Meltdown as People Leave His Rally Early, 'He's Falling Apart!' - https://www.politicalflare.com/2024/09/trump-mocked-mercilessly-for-having-a-meltdown-as-people-leave-his-rally-early-hes-falling-apart/
+
+Bill Maher Assures His Guests That Trump Is 'Definitely Going to Lose': 'I’m Not Even Worried About It' - https://www.politicalflare.com/2024/09/bill-maher-assures-his-guests-that-trump-is-definitely-going-to-lose-im-not-even-worried-about-it/
+
+Americans Disgusted After Trump Is Caught Drooling During Speech, 'Ketamine and Antipsychotics Cause Drooling!' - https://www.politicalflare.com/2024/09/americans-disgusted-after-trump-is-caught-drooling-during-speech-ketamine-and-antipsychotics-cause-drooling/
+
+https://youtu.be/ez5QX8HLqLo?si=UFEa26wv2HweiKy5
+
+'Unreal': Massive pushback after Trump 'admitted he stiffed his workers' at latest rally - Raw Story - https://www.rawstory.com/trump-stiffed-workers-overtime/
+
+'Omg': Critics stunned as Trump caught 'endorsing The Purge' as a real policy at his rally - Raw Story - https://www.rawstory.com/trump-proposes-the-purge-policy/
+
+On overtime pay, Trump slips up by accidentally telling the truth - https://www.msnbc.com/rachel-maddow-show/maddowblog/overtime-pay-trump-slips-accidentally-telling-truth-rcna173223
+
+Trump’s Tax Plan Is Another Giant Boon for the Wealthy - https://www.rollingstone.com/politics/politics-features/trump-tax-plan-wealthy-corporations-oil-billionaires-musk-1235107554/
+
+Trump’s True Crowd Size Exposed in Absolutely Humiliating Video - https://www.politicalflare.com/2024/10/trumps-true-crowd-size-exposed-in-absolutely-humiliating-video/
+
+Florida is nearing toss-up status as top Republican poll shows Trump’s lead nearly vanished - https://www.msn.com/en-us/news/politics/florida-is-nearing-toss-up-status-as-top-republican-poll-shows-trump-s-lead-nearly-vanished/ar-AA1rKJLt
+
+Trump sent Putin COVID testing gear during pandemic shortage, Woodward book reports : NPR - https://www.npr.org/2024/10/08/nx-s1-5146501/trump-putin-covid-tests
+
+
+https://www.youtube.com/watch?v=trgUkDOK9SE
+https://www.youtube.com/watch?v=Zbz8u2fBkoo
+https://www.youtube.com/watch?v=CepfnyK625M
+https://www.youtube.com/watch?v=00vWa8M7eNw
+https://www.youtube.com/watch?v=KOewbR1vjLA
+
+
+Mitch McConnell called Donald Trump 'stupid' after 2020 election: Book - https://thehill.com/homenews/senate/4938254-mitch-mcconnell-donald-trump-2020-election-book/
+
+Donald Trump bears responsibility for Jan. 6 attack, Jack Smith argues in new filing - https://www.nbcnews.com/politics/justice-department/donald-trump-bears-responsibility-jan-6-attack-jack-smith-argues-new-f-rcna175707
+
+Trump Confesses He Was ‘Sexually Attracted’ to Ivanka When She Was 13 Years Old - https://www.politicalflare.com/2024/07/trump-confesses-he-was-sexually-attracted-to-ivanka-when-she-was-13-year-old/
+
+'Is Trump okay?' Confusion as 'exhausted' ex-president abruptly ends friendly interview - Raw Story - https://www.rawstory.com/trump-dan-bongino-ends-interview/
+
+
+https://www.youtube.com/watch?v=0Og95neMLkw
+https://www.youtube.com/watch?v=eZiPoKfAnlI
+https://www.youtube.com/watch?v=CawgTKIcrt8
+https://www.youtube.com/watch?v=fndlg43-8d0
+https://www.youtube.com/watch?v=BoGBc1ccxdw
+https://www.youtube.com/watch?v=sPJpm-GC2TQ
+https://www.youtube.com/watch?v=tBe-nt8MA-Q
+https://www.youtube.com/watch?v=J42Z7LZU-gI
+https://www.youtube.com/watch?v=DKXZLL4TTIQ
+https://www.youtube.com/watch?v=sYGgexy-b_U
+https://www.youtube.com/watch?v=bOIotF3zrrk
+https://www.youtube.com/watch?v=wEgXUVFnj7w
