@@ -1,5 +1,5 @@
 ---
-title: "Willis and Wade: Lawfare election interference"
+title: "Election interference: Willis and Wade lawfare edition"
 layout: post
 tags:
 - Newsmax
