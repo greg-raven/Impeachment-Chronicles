@@ -5,7 +5,7 @@ tags:
 - Andrew Simpson
 ---
 
-**Here's Everything We Know So Far About the 'Katie Johnson' Allegations Against Trump -- It's Serious and MUST Be Dealt With**
+**Here's Everything We Know So Far About the 'Katie Johnson' Allegations Against Trump --- It's Serious and MUST Be Dealt With**
 
 - This gets tricky, but it doesn't sound out of character for Trump OR Epstein.
 

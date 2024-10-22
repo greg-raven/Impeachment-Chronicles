@@ -11,7 +11,7 @@ I'm endorsing Joe Biden for reelection.
 
 There's too much at stake to sit on the sidelines as Donald Trump threatens the future of America. He's called for "termination" of the constitution, continued to stoke political violence, and admitted he'll act as a dictator on "day one" if reelected.
 
-The former president doesn't care about our country. He doesn't care about you. He only cares about himself, and he will do or say anything in pursuit of power -- no matter who it hurts.
+The former president doesn't care about our country. He doesn't care about you. He only cares about himself, and he will do or say anything in pursuit of power --- no matter who it hurts.
 
 So, here I am, a Republican asking millions of Americans to rush a donation to help reelect a Democratic president. Will you donate $25 or even more to President Biden's campaign before tonight's debate? We desperately need President Biden in the Oval Office to protect what makes this country great: our democracy.
 
