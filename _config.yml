@@ -9,9 +9,16 @@ description: Attacks on our 45th president and our republic.
 
 # Build settings
 
+# If you clone the Minima repo and build locally, use this setting.
 theme: minima
 
-url: "https://www.impeachment.network" # the base hostname & protocol for your site
+# As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/).
+# If you want to use the latest Minima version on GitHub Pages, use the following setting and
+# add a line comment on "theme: minima" above.
+remote_theme: jekyll/minima
+
+# the base hostname & protocol for your site
+url: "https://www.impeachment.network"
 
 plugins:
   - jekyll-archives
@@ -30,32 +37,18 @@ jekyll-archives:
 
 # Theme-specific settings
 
-minima:
-  # Minima date format.
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #
-  # date_format: "%b %-d, %Y"
-
-  skin: auto
-
-  # Generate social links in footer.
-  #
-  # social_links:
-  #   - { platform: github,         user_url: "https://github.com/greg-raven" }
-  #   - { platform: keybase,        user_url: "https://keybase.io/gregraven" }
-  #   - { platform: x,              user_url: "https://x.com/gregraven" }
-  #   - { platform: youtube,        user_url: "https://www.youtube.com/@GregRaven" }
-
-# If you want to link only specific pages in your header, uncomment this
-# and add the path to the pages in order as they should show up.
-#
+# If you want to link only specific pages in your header, use this and add the path to the pages
+# in order as they should show up.
 header_pages:
   - accomplishments.html
   - timeline.html
   - search.html
 
 # Set to `true` to show excerpts on the homepage.
-#
 show_excerpts: true
+
+# Minima specific settings, which are only available from Minima 3.0 onward.
+minima:
+  skin: classic
 
 paginate: 20
