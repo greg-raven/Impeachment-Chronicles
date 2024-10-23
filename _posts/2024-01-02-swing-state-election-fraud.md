@@ -523,7 +523,7 @@ voting earlier than Republicans.
 
 87. Jim Hoft, 'Exclusive: [The TCF Center Election Fraud --- Newly Discovered Video Shows Late Night Deliveries of Tens of Thousands of Illegal Ballots 8 Hours After Deadline](https://www.thegatewaypundit.com/2021/02/exclusive-tcf-center-election-fraud-newly-recovered-video-shows-late-night-deliveries-tens-thousands-illegal-ballots-michigan-arena/),' The Gateway Pundit, Feb. 5, 2021.
 
-88. '[Report on the November 2020 Election in Michigan](https://committees.senate.michigan.gov/testimony/2021-2022/Senate%20Committee%20on%20Oversight%20Report%20on%20the%20November%202020%20Election%20in%20Michigan,%20adopted.pdf), Michigan House Oversight Committee.
+88. '[Report on the November 2020 Election in Michigan](https://misenategopcdn.s3.us-east-1.amazonaws.com/99/doccuments/20210623/SMPO_2020ElectionReport.pdf), Michigan House Oversight Committee.
 
 89. Natalia Mittelstadt and John Solomon, "[Zuckerberg group gave Detroit $7.4 million to 'dramatically' expand vote in city key to Biden win](https://justthenews.com/politics-policy/elections/zuckerbergs-group-gave-whopping-74-million-detroit-expand-voting-city-key)," Just the News, April 10, 2021.
 
