@@ -14,7 +14,7 @@ Apparently, the lie they decided to stick with is the one about Trump ordering R
 
 As Harris put it in her acceptance speech:
 
-"Last year, Joe and I brought together Democrats and conservative Republicans to write the strongest border bill in decades. ... But Donald Trump believes a border deal would hurt his campaign, so he ordered his allies in Congress to kill the deal. Well, I refuse to play politics with our security. And here is my pledge to you: As president, I will bring back the bipartisan border security bill that he killed, and I will sign it into law."
+> Last year, Joe and I brought together Democrats and conservative Republicans to write the strongest border bill in decades. ... But Donald Trump believes a border deal would hurt his campaign, so he ordered his allies in Congress to kill the deal. Well, I refuse to play politics with our security. And here is my pledge to you: As president, I will bring back the bipartisan border security bill that he killed, and I will sign it into law.
 
 In fact, the "strongest border bill in decades" was nothing of the kind: It was a mandate for open borders. Future presidents wouldn't have to violate federal law to fling open the border, as the Biden administration has done --- they would be required by federal law to fling open the border, as the Biden administration has done. That's pretty much the only thing the bill did: codify the Biden administration's disastrous immigration policies.
 

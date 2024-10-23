@@ -37,7 +37,7 @@ Those, of course, are just a sampling. See below for the comprehensive list. And
 			<td>For potentially ignoring court orders on his travel ban</td>
 			<td>02/01/2017</td>
 			<td>[MSNBC](https://news.grabien.com/story-rep-castro-floats-impeachment-trump-if-court-orders-exec-ord)</td>
-			<td>Joaquin [*sic*] Castro</td>
+			<td>Joaquin [<i>sic</i>] Castro</td>
 		</tr>
 		<tr>
 			<td>2</td>
