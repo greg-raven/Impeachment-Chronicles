@@ -5,7 +5,7 @@ tags:
 - Matt Margolis
 ---
 
-The release of the Durham report has made it clear that there was never any collusion between Trump or his campaign and Russia. According to the Durham report, "Neither U.S. law enforcement nor the Intelligence Community appears to have possessed any actual evidence of collusion in their holdings at the commencement of the Crossfire Hurricane investigation."
+The release of the [Durham report]({% post_url 2023-05-12-durham-report %}) has made it clear that there was never any collusion between Trump or his campaign and Russia. According to the Durham report, "Neither U.S. law enforcement nor the Intelligence Community appears to have possessed any actual evidence of collusion in their holdings at the commencement of the Crossfire Hurricane investigation."
 
 This hardly surprises anyone who has paid attention to conservative media over the past six years or those who paid attention to the Mueller report, which similarly found no evidence of collusion. In fact, top Obama officials all testified that they never saw any empirical evidence of collusion. We've known the whole time the entire Trump-Russia collusion story was bogus. Yet throughout the entirety of Trump's presidency, there were multiple Democrats who insisted not only that Trump colluded with Russia to steal the 2016 election but also that they had personally seen evidence of it.
 
