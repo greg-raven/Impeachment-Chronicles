@@ -699,7 +699,7 @@ Those, of course, are just a sampling. See below for the comprehensive list. And
 		</tr>
 		<tr>
 			<td>96</td>
-			<td>For pronouncing November 'National American History and Founders Month'</td>
+			<td>For pronouncing November "National American History and Founders Month"</td>
 			<td>11/05/2019</td>
 			<td>[Twitter](https://twitter.com/RashidaTlaib/status/1191718292567842821)</td>
 			<td>Rashida Tlaib</td>
@@ -713,7 +713,7 @@ Those, of course, are just a sampling. See below for the comprehensive list. And
 		</tr>
 		<tr>
 			<td>98</td>
-			<td>For 'trying to use the court system'</td>
+			<td>For "trying to use the court system"</td>
 			<td>11/22/2019</td>
 			<td>[Washington Free Beacon](https://freebeacon.com/politics/dem-rep-trump-trying-to-use-the-court-system-is-obstruction-of-justice/)</td>
 			<td>Pramila Jayapal</td>
