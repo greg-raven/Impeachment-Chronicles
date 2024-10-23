@@ -15,7 +15,7 @@ That is a huge win for Trump, who has for years called out his unfair treatment 
 
 The investigation into the "collusion" clouded Trump's entire presidency, and Democrats harnessed the tale to paint Trump as an illegitimate president.
 
-The real-life implication is that some Trump supporters will see the Durham report as reason to believe the former president's outrageous claims, including that the 2020 election was "stolen."
+The real-life implication is that some Trump supporters will see the [Durham report]({% post_url 2023-05-12-durham-report %}) as reason to believe the former president's outrageous claims, including that the 2020 election was "stolen."
 
 **Failures at the FBI**
 
