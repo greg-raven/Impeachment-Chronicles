@@ -214,6 +214,6 @@ It's the last effort in this desperate campaign to smear me and my family. The v
 
 I get calls from my father to tell me that *The New York Times* is calling, but my old partner Eric, who literally has done me harm for I don't know how long is the one taking the calls because my father will not stop sending the calls to Eric. I have another *New York Times* reporter calling about my representation of the literally Dr. Patrick Ho, the fucking spy chief of China who started the company that my partner, who was worth $323 billion, founded. It is now missing. The richest man in the world is missing who was my partner. He was missing since I last saw him in his $58 million apartment and signed a $4 billion deal to build the fucking largest fucking LNG port in the world. And I am receiving calls from Southern District of New York, from the U.S. attorney himself, my best friend in business, Devon [Archer], has named me as a witness without telling me. In a criminal case and my father without telling me.
 
-<div id="chute"></div><script>var b=document.createElement('iframe');b.setAttribute('allowfullscreen','true');b.setAttribute('width','640');b.setAttribute('height','360');b.setAttribute('src','https://www.bitchute.com/embed/dPpYTubvKRk');b.setAttribute('frameborder','0');document.getElementById('chute').appendChild(b);</script>
+<iframe allowfullscreen="true" width="640" height="360" src="https://www.bitchute.com/embed/dPpYTubvKRk"></iframe>
 
 Source: Tony Heller, bitchute.com/video/dPpYTubvKRk/
