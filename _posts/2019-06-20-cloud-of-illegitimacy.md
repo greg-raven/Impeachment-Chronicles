@@ -9,6 +9,6 @@ tags:
 >
 > <cite>Hakeem Jeffries</cite>
 
-<iframe width="512" height="350" src="https://www.c-span.org/video/standalone/?c5042349/user-clip-hakeem-jeffries-cloud-illgetimacy" allowfullscreen="allowfullscreen"></iframe>
+<iframe width="512" height="350" src="https://www.c-span.org/video/standalone/?c5042349/user-clip-hakeem-jeffries-cloud-illgetimacy" allowfullscreen></iframe>
 
 Source: C-SPAN

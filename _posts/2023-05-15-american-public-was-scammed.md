@@ -15,12 +15,12 @@ TREASON!!!
 
 CONGRESS MUST DO SOMETHING ABOUT THIS. MUST NEVER HAPPEN AGAIN!
 
-<iframe src="https://truthsocial.com/@realDonaldTrump/110374542486721971/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://truthsocial.com/@realDonaldTrump/110374542486721971/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen></iframe>
 
-<iframe src="https://truthsocial.com/@realDonaldTrump/110375084258316262/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://truthsocial.com/@realDonaldTrump/110375084258316262/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen></iframe>
 
-<iframe src="https://truthsocial.com/@realDonaldTrump/110375099350647540/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe>
+<iframe src="https://truthsocial.com/@realDonaldTrump/110375099350647540/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen></iframe>
 
-<iframe src="https://truthsocial.com/@realDonaldTrump/110375134153698173/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe><script src="https://truthsocial.com/embed.js" async="async"></script>
+<iframe src="https://truthsocial.com/@realDonaldTrump/110375134153698173/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen></iframe><script src="https://truthsocial.com/embed.js" async="async"></script>
 
 Source: Donald Trump, TruthSocial.com

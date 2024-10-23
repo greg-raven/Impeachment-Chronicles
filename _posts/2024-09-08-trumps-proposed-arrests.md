@@ -7,7 +7,7 @@ tags:
 
 > CEASE & DESIST: I, together with many Attorneys and Legal Scholars, am watching the Sanctity of the 2024 Presidential Election very closely because I know, better than most, the rampant Cheating and Skullduggery that has taken place by the Democrats in the 2020 Presidential Election. It was a Disgrace to our Nation! Therefore, the 2024 Election, where Votes have just started being cast, will be under the closest professional scrutiny and, WHEN I WIN, those people that CHEATED will be prosecuted to the fullest extent of the Law, which will include long term prison sentences so that this Depravity of Justice does not happen again. We cannot let our Country further devolve into a Third World Nation, AND WE WON'T! Please beware that this legal exposure extends to Lawyers, Political Operatives, Donors, Illegal Voters, & Corrupt Election Officials. Those involved in unscrupulous behavior will be sought out, caught, and prosecuted at levels, unfortunately, never seen before in our Country.
 
-<iframe src="https://truthsocial.com/@realDonaldTrump/113098755955857290/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe><script src="https://truthsocial.com/embed.js" async="async"></script>
+<iframe src="https://truthsocial.com/@realDonaldTrump/113098755955857290/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen></iframe><script src="https://truthsocial.com/embed.js" async="async"></script>
 
 President Trump is now proposing two of the largest-ever federal arrests of people living in America, including U.S. citizens, if he's re-elected:
 

@@ -36,6 +36,8 @@ Trump abruptly ends his live interview after it is reported that he is canceling
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump abruptly ends his live interview after it is reported that he is canceling interviews because he is “exhausted”: “Off the record, I gotta get going” <a href="https://t.co/dIPNFZRcTi">pic.twitter.com/dIPNFZRcTi</a></p>&mdash; Kamala HQ (@KamalaHQ) <a href="https://twitter.com/KamalaHQ/status/1847295800436474125?ref_src=twsrc%5Etfw">October 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Source: Kamala HQ, via [𝕏](https://x.com)
+
 ---
 
 **Context**
@@ -48,6 +50,10 @@ You can shove this absolute bullshit right up your ass. Lying pieces of shit.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">BULLSHIT.<br>He stayed LONGER than planned and signed a baseball and other items for charitable hurricane relief for another 10 mins afterwards.<br>You can shove this absolute bullshit right up your ass. Lying pieces of shit. <a href="https://t.co/IvKN8a3h4j">https://t.co/IvKN8a3h4j</a></p>&mdash; Dan Bongino (@dbongino) <a href="https://twitter.com/dbongino/status/1847300670870720645?ref_src=twsrc%5Etfw">October 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Source: Dan Bongino, via [𝕏](https://x.com)
+
 This is an absolute lie. I produce Dan's show and just got off the phone with him. Trump stayed longer, took pics with the team, and signed a lot for charity, mostly going to the hurricane victims that Kamala's ignoring.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is an absolute lie. I produce Dan&#39;s show and just got off the phone with him. Trump stayed longer, took pics with the team, and signed a lot for charity, mostly going to the hurricane victims that Kamala&#39;s ignoring. Make this viral please <a href="https://t.co/WbGgwSuSXs">https://t.co/WbGgwSuSXs</a></p>&mdash; Jim Verdi (@jjverdi) <a href="https://twitter.com/jjverdi/status/1847301499522580968?ref_src=twsrc%5Etfw">October 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Source: Jim Verdi, via [𝕏](https://x.com)

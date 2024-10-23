@@ -9,7 +9,7 @@ Here's Kamala's statement on Trump's roast.
 
 Her campaign is operating in a different universe.
 
-> Statement on Trump Appearance at Al Smith Dinner
+> **Statement on Trump Appearance at Al Smith Dinner**
 >
 >Below is a statement from Harris-Walz 2024 Rapid Response Director Ammar Moussa on Donald Trump's appearance at the Al Smith Dinner tonight:
 >
