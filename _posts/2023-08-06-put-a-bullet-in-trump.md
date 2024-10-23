@@ -5,7 +5,7 @@ tags:
 - Rick Wilson
 ---
 
-Listen to this guy Rick Wilson founder of Interepid Media say on MSNBC someone needs to put a bullet in Donald Trump.
+Listen to this guy Rick Wilson founder of Intrepid Media say on MSNBC someone needs to put a bullet in Donald Trump.
 
 > And the donor class can't just sit back on the sidelines and say, 'Oh, well, don't worry. This will all work itself out.' They're still going to have to go out and put a bullet in Donald Trump. And that's a fact.
 
