@@ -19,7 +19,7 @@ Last week, CNBC featured a reporter who told us about a meeting Trump had had wi
 
 Rep. Ted Lieu apparently heard the CEO story and weighed in Monday:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dear CEOs: Part of your job is to know the news. If you are “startled” when you see Trump’s incoherent rants in person, then that means you are consuming far too much right wing news.<br /><br />Go outside your biased information bubble. Your company and your country will thank you for it. <a href="https://t.co/d5w01rkkDj">https://t.co/d5w01rkkDj</a></p>&mdash; Ted Lieu (@tedlieu) <a href="https://twitter.com/tedlieu/status/1802755089192648907?ref_src=twsrc%5Etfw">June 17, 2024</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dear CEOs: Part of your job is to know the news. If you are “startled” when you see Trump’s incoherent rants in person, then that means you are consuming far too much right wing news.<br><br>Go outside your biased information bubble. Your company and your country will thank you for it. <a href="https://t.co/d5w01rkkDj">https://t.co/d5w01rkkDj</a></p>&mdash; Ted Lieu (@tedlieu) <a href="https://twitter.com/tedlieu/status/1802755089192648907?ref_src=twsrc%5Etfw">June 17, 2024</a></blockquote>
 
 [...]
 

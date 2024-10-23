@@ -13,7 +13,7 @@ In October 2022 Judge Chutkan slammed President Trump as she berated a J6er duri
 
 "It's blind loyalty to one person who, by the way, remains free to this day," Judge Chutkan said referring to Trump as she blasted a J6er.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today Judge Tanya Chutkan warned Trump&#39;s lawyers that politics had no place in her courtroom or in this case.<br /><br />But here is Judge Chutkan berating a J6er during a sentencing hearing in Oct. 2022.<br /><br />She clearly expressed anger that Trump was still &quot;free&quot; and not behind bars: <a href="https://t.co/BaFEItMGYz">pic.twitter.com/BaFEItMGYz</a></p>&mdash; Julie Kelly 🇺🇸 (@julie_kelly2) <a href="https://twitter.com/julie_kelly2/status/1690097151156629504?ref_src=twsrc%5Etfw">August 11, 2023</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today Judge Tanya Chutkan warned Trump&#39;s lawyers that politics had no place in her courtroom or in this case.<br><br>But here is Judge Chutkan berating a J6er during a sentencing hearing in Oct. 2022.<br><br>She clearly expressed anger that Trump was still &quot;free&quot; and not behind bars: <a href="https://t.co/BaFEItMGYz">pic.twitter.com/BaFEItMGYz</a></p>&mdash; Julie Kelly 🇺🇸 (@julie_kelly2) <a href="https://twitter.com/julie_kelly2/status/1690097151156629504?ref_src=twsrc%5Etfw">August 11, 2023</a></blockquote>
 
 Judge Chutkan also said January 6 protesters tried to violently overthrow the government.
 

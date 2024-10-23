@@ -46,7 +46,7 @@ He stayed LONGER than planned and signed a baseball and other items for charitab
 
 You can shove this absolute bullshit right up your ass. Lying pieces of shit.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BULLSHIT.<br />He stayed LONGER than planned and signed a baseball and other items for charitable hurricane relief for another 10 mins afterwards.<br />You can shove this absolute bullshit right up your ass. Lying pieces of shit. <a href="https://t.co/IvKN8a3h4j">https://t.co/IvKN8a3h4j</a></p>&mdash; Dan Bongino (@dbongino) <a href="https://twitter.com/dbongino/status/1847300670870720645?ref_src=twsrc%5Etfw">October 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BULLSHIT.<br>He stayed LONGER than planned and signed a baseball and other items for charitable hurricane relief for another 10 mins afterwards.<br>You can shove this absolute bullshit right up your ass. Lying pieces of shit. <a href="https://t.co/IvKN8a3h4j">https://t.co/IvKN8a3h4j</a></p>&mdash; Dan Bongino (@dbongino) <a href="https://twitter.com/dbongino/status/1847300670870720645?ref_src=twsrc%5Etfw">October 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 This is an absolute lie. I produce Dan's show and just got off the phone with him. Trump stayed longer, took pics with the team, and signed a lot for charity, mostly going to the hurricane victims that Kamala's ignoring.
 

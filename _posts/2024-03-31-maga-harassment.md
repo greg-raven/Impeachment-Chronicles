@@ -23,6 +23,6 @@ WTF?
 
 #VoteForBiden
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I got my Biden Harris bumper sticker to put on my car.<br />Unfortunately, my wife won&#39;t let me as we live in a very red state and she drives my car a lot, so she is afraid that she will get harassed, tail gated, pushed off the road, assaulted, abused, or worse. <br />Some people have… <a href="https://t.co/fhYf259rgL">pic.twitter.com/fhYf259rgL</a></p>&mdash; Phoenix Wise Ⓥ of the rock band The Resistance ✊🏽 (@TheGr8Illusion) <a href="https://twitter.com/TheGr8Illusion/status/1774472570919592408?ref_src=twsrc%5Etfw">March 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I got my Biden Harris bumper sticker to put on my car.<br>Unfortunately, my wife won&#39;t let me as we live in a very red state and she drives my car a lot, so she is afraid that she will get harassed, tail gated, pushed off the road, assaulted, abused, or worse. <br>Some people have… <a href="https://t.co/fhYf259rgL">pic.twitter.com/fhYf259rgL</a></p>&mdash; Phoenix Wise Ⓥ of the rock band The Resistance ✊🏽 (@TheGr8Illusion) <a href="https://twitter.com/TheGr8Illusion/status/1774472570919592408?ref_src=twsrc%5Etfw">March 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Phoenix Wise, via [𝕏](https://x.com)

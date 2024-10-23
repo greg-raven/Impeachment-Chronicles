@@ -11,15 +11,15 @@ ChatGPT accepted a user's request for a poem praising President Joe Biden but re
 
 ChatGPT claims it does not produce content glorifying any person. However, it produced a poem that praised Biden, which read:
 
-> Joe Biden, leader of the land<br />
-> With a steady hand and a heart of a man,<br />
-> You took the helm in troubled times,<br />
-> With a message of unity, it chimes.<br />
-> Your words of hope and empathy,<br />
-> Provide comfort to the nation,<br />
-> You lead with compassion and grace,<br />
-> And set a new foundation.<br />
-> With your decades of experience,<br />
+> Joe Biden, leader of the land<br>
+> With a steady hand and a heart of a man,<br>
+> You took the helm in troubled times,<br>
+> With a message of unity, it chimes.<br>
+> Your words of hope and empathy,<br>
+> Provide comfort to the nation,<br>
+> You lead with compassion and grace,<br>
+> And set a new foundation.<br>
+> With your decades of experience,<br>
 > You guide us through the storm,
 
 Asked to produce a similar poem for Trump, the AI-powered chatbot said:

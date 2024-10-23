@@ -39,8 +39,8 @@ He started by declaring that the pick replacing Anthony Kennedy will do "his wil
 
 **Partial transcript:**
 
-> MSNBC's Hardball<br />
-> June 28, 2018<br />
+> MSNBC's Hardball<br>
+> June 28, 2018<br>
 > 7:02 p.m. Eastern
 >
 > CHRIS MATTHEWS: Now to the epic battle over President Trump's Supreme Court pick to replace Anthony Kennedy. It's impossible to see another decision that will have greater or sure will greater shape the kind of country we do live in. The Supreme Court has proven his willingness to decide Presidential elections, the number of guns in the country, the power of money in our politics and on and on. Donald Trump and Mitch McConnell clearly plan to jam what will be a 30-year choice through Congress which is four months to go before the people will speak in issues midterm's elections.

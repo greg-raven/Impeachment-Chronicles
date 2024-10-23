@@ -11,7 +11,7 @@ Earlier this week, *The New York Times* infamously "broke" the story about Biden
 
 The journalist who broke the story, Emma-Jo Morris, is now at Breitbart and has some thoughts about their "scoop."
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NYT casually admitted this week that my reporting on the Laptop From Hell was authentic, as if we all forgot they called it "baroque mythology" at the time. <br /><br />But ink stains, and their role in one of the most elaborate hoaxes will live on. <br /><br />My column: <a href="https://t.co/mTzr6WHbsJ">https://t.co/mTzr6WHbsJ</a></p>&mdash; Emma-Jo Morris (@EmmaJoNYC) <a href="https://twitter.com/EmmaJoNYC/status/1505171391632621568?ref_src=twsrc%5Etfw">March 19, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NYT casually admitted this week that my reporting on the Laptop From Hell was authentic, as if we all forgot they called it "baroque mythology" at the time. <br><br>But ink stains, and their role in one of the most elaborate hoaxes will live on. <br><br>My column: <a href="https://t.co/mTzr6WHbsJ">https://t.co/mTzr6WHbsJ</a></p>&mdash; Emma-Jo Morris (@EmmaJoNYC) <a href="https://twitter.com/EmmaJoNYC/status/1505171391632621568?ref_src=twsrc%5Etfw">March 19, 2022</a></blockquote>
 
 Well over a year after the 2020 presidential election and while everyone is focused on Russia's invasion of Ukraine, the Times thought it would be good to get it into the "paper of record" that yes, Hunter Biden's laptop did contain verified and very troubling information, including the peddling of his father's influence when the latter was serving as vice president under Obama.
 

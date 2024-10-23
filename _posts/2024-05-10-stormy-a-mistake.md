@@ -31,7 +31,7 @@ Taft then noted that the other thing that came out at trial was that she tried t
 
 A recorded phone exchange revealed this:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow this transcript proves that Stormy and co were trying to EXTORT <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a>.<br /><br />TRUMP DID NOTHING WRONG — HE IS THE VICTIM! <a href="https://t.co/wyGXOE9hmr">https://t.co/wyGXOE9hmr</a></p>&mdash; Alex Bruesewitz 🇺🇸 (@alexbruesewitz) <a href="https://twitter.com/alexbruesewitz/status/1788586285579264465?ref_src=twsrc%5Etfw">May 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow this transcript proves that Stormy and co were trying to EXTORT <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a>.<br><br>TRUMP DID NOTHING WRONG — HE IS THE VICTIM! <a href="https://t.co/wyGXOE9hmr">https://t.co/wyGXOE9hmr</a></p>&mdash; Alex Bruesewitz 🇺🇸 (@alexbruesewitz) <a href="https://twitter.com/alexbruesewitz/status/1788586285579264465?ref_src=twsrc%5Etfw">May 9, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 "You better settle this God damn story. Because if he loses this election, and he is going to lose, if he loses this election we lose all fucking leverage this case is worth zero. And if that happens, I'm going to sue you because you lost this opportunity," said Stormy's lawyer Keith Davidson to Trump's then-fixer Michael Cohen, who then badly advised Trump to pay the extortion money.
 

@@ -33,6 +33,6 @@ Related Article
 
 <https://justthenews.com/accountability/political-ethics/hld-hunter-biden-was-proposed-board-member-120-million-burisma>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💧💧Pretty big story just dropped<br /><br />The FBI knew since 2016 Hunter Biden nearly scored $120 million Ukrainian deal while Joe was VP --- And While Trump was Being Impeached over Ukrainian Phone Call<br /><br />"It's an extraordinary story because the FBI knew about it in 16, but when Donald… <a href="https://t.co/pOa2d0PRW2">pic.twitter.com/pOa2d0PRW2</a></p>&mdash; MJTruthUltra (@MJTruthUltra) <a href="https://twitter.com/MJTruthUltra/status/1803450966227718252?ref_src=twsrc%5Etfw">June 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">💧💧Pretty big story just dropped<br><br>The FBI knew since 2016 Hunter Biden nearly scored $120 million Ukrainian deal while Joe was VP --- And While Trump was Being Impeached over Ukrainian Phone Call<br><br>"It's an extraordinary story because the FBI knew about it in 16, but when Donald… <a href="https://t.co/pOa2d0PRW2">pic.twitter.com/pOa2d0PRW2</a></p>&mdash; MJTruthUltra (@MJTruthUltra) <a href="https://twitter.com/MJTruthUltra/status/1803450966227718252?ref_src=twsrc%5Etfw">June 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: MJTruthUltra, via [𝕏](https://x.com)

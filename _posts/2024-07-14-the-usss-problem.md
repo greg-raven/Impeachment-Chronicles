@@ -13,7 +13,7 @@ I don't know what kind of research Child did, but the point he makes repeatedly 
 
 In Butler, Pennsylvania, however, not only did the Secret Service seemingly make no effort to control a rooftop within relatively easy shooting distance of a former president and current presidential candidate, but Secret Service agents also seemed disinterested in repeated warnings that a man with a gun had crawled on top of a building that gave him a clear shot at President Trump. This video shows the first eyewitness we heard from, but reports are that several other people saw the same thing and had the same response from Trump's security detail --- that is, no response:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Eyewitness tells BBC that he informed police, Secret Service about a suspicious man on a roof with a rifle.<br /><br />He was ignored. <a href="https://t.co/Cvfb7znZtZ">pic.twitter.com/Cvfb7znZtZ</a></p>&mdash; End Wokeness (@EndWokeness) <a href="https://twitter.com/EndWokeness/status/1812273630702952543?ref_src=twsrc%5Etfw">July 13, 2024</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Eyewitness tells BBC that he informed police, Secret Service about a suspicious man on a roof with a rifle.<br><br>He was ignored. <a href="https://t.co/Cvfb7znZtZ">pic.twitter.com/Cvfb7znZtZ</a></p>&mdash; End Wokeness (@EndWokeness) <a href="https://twitter.com/EndWokeness/status/1812273630702952543?ref_src=twsrc%5Etfw">July 13, 2024</a></blockquote>
 
 The fact is that the shooter was on high ground (a rooftop) that was so close to President Trump that the Secret Service should have had it completely locked down before the event began. It was a shot that required no special skill because it was so close --- and it's utterly inexplicable how this could have happened:
 
@@ -21,7 +21,7 @@ The fact is that the shooter was on high ground (a rooftop) that was so close to
 
 There's also evidence that government snipers had the shooter in their sights...but did nothing. I have no idea if that correctly interprets the footage below and, if it does, if there's a good explanation for the delay in action. So, as of this moment, I am not criticizing the sniper; I'm just observing a potential fact:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This looks really bad. <br /><br />This looks like the counter sniper team had eyes on the shooter, let him fire first, then returned fire.<br /><br /> <a href="https://t.co/GbVJZGNaax">pic.twitter.com/GbVJZGNaax</a></p>&mdash; John Cardillo (@johncardillo) <a href="https://twitter.com/johncardillo/status/1812301273145680116?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This looks really bad. <br><br>This looks like the counter sniper team had eyes on the shooter, let him fire first, then returned fire.<br><br> <a href="https://t.co/GbVJZGNaax">pic.twitter.com/GbVJZGNaax</a></p>&mdash; John Cardillo (@johncardillo) <a href="https://twitter.com/johncardillo/status/1812301273145680116?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote>
 
 ---
 
@@ -43,7 +43,7 @@ Of course, his statement could mean that Trump went from a completely inadequate
 
 Donald Trump is a genuine threat to this nation.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump is a genuine threat to this nation.<br /><br />He&#39;s a threat to our freedom. He&#39;s a threat to our democracy. He&#39;s literally a threat to everything America stands for.</p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1806745000971296833?ref_src=twsrc%5Etfw">June 28, 2024</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump is a genuine threat to this nation.<br><br>He&#39;s a threat to our freedom. He&#39;s a threat to our democracy. He&#39;s literally a threat to everything America stands for.</p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1806745000971296833?ref_src=twsrc%5Etfw">June 28, 2024</a></blockquote>
 
 In other words, Trump = Hitler. If you were a member of a government trying to keep an alleged Hitler from taking over, would you be rigorous about providing the best protection possible? I didn't think so.
 
@@ -63,7 +63,7 @@ And then there was the after when the Secret Service was getting Trump out of th
 
 There's an old saying about inept institutions that "a fish rots from the head." The boss sets the policy, and, in this case, the boss is Kimberly A. Cheatle. Cheatle's openly-stated priority wasn't to have the best trained, most tightly functioning A1 team imaginable. Instead, it was to have 30% of all Secret Service agents be women by the year 2030 and generally to bow before the Democrat god of "diversity":
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What was Biden&#39;s Secret Service Director Kimberly Cheatle busy with? <br /><br />Her goal of 30% female agents by 2030.<br /><br />No, this is not satire.<br /><br /> <a href="https://t.co/abVbjJN0GO">pic.twitter.com/abVbjJN0GO</a></p>&mdash; End Wokeness (@EndWokeness) <a href="https://twitter.com/EndWokeness/status/1812330886962004382?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What was Biden&#39;s Secret Service Director Kimberly Cheatle busy with? <br><br>Her goal of 30% female agents by 2030.<br><br>No, this is not satire.<br><br> <a href="https://t.co/abVbjJN0GO">pic.twitter.com/abVbjJN0GO</a></p>&mdash; End Wokeness (@EndWokeness) <a href="https://twitter.com/EndWokeness/status/1812330886962004382?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote>
 
 Cheatle's DEI goal turned into DIE for one tragically unlucky attendee and almost for Donald Trump. What's even worse is learning that, before yesterday's assassination attempt, 39 Secret Service agents were so worried about how inadequately these new hires were performing that they signed a petition demanding an investigation into the problem. That demand followed on the heels of one of the female agents on Kamala's detail having a very public breakdown:
 
@@ -73,7 +73,7 @@ Those things happen when underqualified people confront their own limitations.
 
 But there's more. Cheatle is also political in a way that suggests she's not only all-in on the disaster of non-merit-based DEI, but also that she will do anything to protect the Biden administration:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reminder that the texts belonging to 2 dozen Secret Service officials/agents—including now director Kim Cheatle—before and on Jan 6 were deleted and never recovered.<br /><br />The Secret Service allowed the armed raid of MAL without the slightest challenge.<br /><br />Something is very wrong.</p>&mdash; Julie Kelly 🇺🇸 (@julie_kelly2) <a href="https://twitter.com/julie_kelly2/status/1812324223622209822?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Reminder that the texts belonging to 2 dozen Secret Service officials/agents—including now director Kim Cheatle—before and on Jan 6 were deleted and never recovered.<br><br>The Secret Service allowed the armed raid of MAL without the slightest challenge.<br><br>Something is very wrong.</p>&mdash; Julie Kelly 🇺🇸 (@julie_kelly2) <a href="https://twitter.com/julie_kelly2/status/1812324223622209822?ref_src=twsrc%5Etfw">July 14, 2024</a></blockquote>
 
 I am not accusing anyone in the Secret Service (or in the Biden government as a whole) of deliberately trying to get Donald Trump killed. However, I am saying that the Secret Service's performance was completely inadequate in many instances, that it appears that the obsession with DEI was a factor in this inadequacy, and that it's possible that an underlying animus toward Donald Trump created an environment in which Trump's protection was dysfunctional, both in terms of staffing and attitude.
 

@@ -9,8 +9,8 @@ On or about September 19, 2016, within the District of Columbia, MICHAEL A. SUSS
 
 (In violation of Title 18, United States Code, Section 1001(a)(2))
 
-John H. Durham<br />
-Special Counsel<br />
+John H. Durham<br>
+Special Counsel<br>
 U.S. Department of Justice
 
 <iframe src="https://justthenews.com/sites/default/files/2021-09/9901e223-403a-47ce-93e0-1d78a5ff6627.pdf" class="pdf"></iframe>

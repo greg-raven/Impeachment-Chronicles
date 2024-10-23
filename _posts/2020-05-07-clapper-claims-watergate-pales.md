@@ -13,7 +13,7 @@ In case you missed it in a previous post, those interview transcripts that Rep. 
 
 The Daily Caller's Greg Price was good enough to pull up an old CNN story in which Clapper tells reporters at a National Press Club event that "I think when you compare the two, that Watergate pales really in my view compared to what we're confronting now."
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">James Clapper was willfully lying to our faces.<br /><br />The left was in public from June 7, 2017. The right was under oath from his hearing on July 17, 2017. <a href="https://t.co/pbe8lkcmtq">pic.twitter.com/pbe8lkcmtq</a></p>&mdash; Greg Price (@greg_price11) <a href="https://twitter.com/greg_price11/status/1258552012569899009?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">James Clapper was willfully lying to our faces.<br><br>The left was in public from June 7, 2017. The right was under oath from his hearing on July 17, 2017. <a href="https://t.co/pbe8lkcmtq">pic.twitter.com/pbe8lkcmtq</a></p>&mdash; Greg Price (@greg_price11) <a href="https://twitter.com/greg_price11/status/1258552012569899009?ref_src=twsrc%5Etfw">May 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [...]
 

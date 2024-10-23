@@ -21,6 +21,6 @@ And it is my belief that someone who cannot meet this simple, sacred duty should
 
 [...]
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As Vice President, I have had the privilege of visiting Arlington National Cemetery several times. It is a solemn place; a place where we come together to honor American heroes who have made the ultimate sacrifice in service of this nation.<br /><br />It is not a place for politics.<br /><br />And…</p>&mdash; Kamala Harris (@KamalaHarris) <a href="https://twitter.com/KamalaHarris/status/1829915590468731167?ref_src=twsrc%5Etfw">August 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As Vice President, I have had the privilege of visiting Arlington National Cemetery several times. It is a solemn place; a place where we come together to honor American heroes who have made the ultimate sacrifice in service of this nation.<br><br>It is not a place for politics.<br><br>And…</p>&mdash; Kamala Harris (@KamalaHarris) <a href="https://twitter.com/KamalaHarris/status/1829915590468731167?ref_src=twsrc%5Etfw">August 31, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Kamala Harris, via [𝕏](https://x.com)

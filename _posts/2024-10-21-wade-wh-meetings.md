@@ -15,6 +15,6 @@ Disgraced Fulton County DA Fani Willis's lover Nathan Wade just admitted under o
 
 MORE DEMOCRAT CORRUPTION EXPOSED ...
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 JUST IN: Disgraced Fulton County DA Fani Willis’s lover Nathan Wade just admitted under oath to multiple undercover meetings with the Harris administration during Fani Willis&#39;s prosecution of Donald Trump in Georgia.<br /><br />MORE DEMOCRAT CORRUPTION EXPOSED… <a href="https://t.co/k7ldXn6uLj">https://t.co/k7ldXn6uLj</a></p>&mdash; Proud Elephant 🇺🇸🦅 (@ProudElephantUS) <a href="https://twitter.com/ProudElephantUS/status/1848442262834872482?ref_src=twsrc%5Etfw">October 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 JUST IN: Disgraced Fulton County DA Fani Willis’s lover Nathan Wade just admitted under oath to multiple undercover meetings with the Harris administration during Fani Willis&#39;s prosecution of Donald Trump in Georgia.<br><br>MORE DEMOCRAT CORRUPTION EXPOSED… <a href="https://t.co/k7ldXn6uLj">https://t.co/k7ldXn6uLj</a></p>&mdash; Proud Elephant 🇺🇸🦅 (@ProudElephantUS) <a href="https://twitter.com/ProudElephantUS/status/1848442262834872482?ref_src=twsrc%5Etfw">October 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Proud Elephant, via [𝕏](https://x.com)

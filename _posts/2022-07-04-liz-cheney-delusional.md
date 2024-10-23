@@ -21,7 +21,7 @@ Thegatewaypundit.com reports: When asked if the January 6 Committee will possibl
 
 Watch:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EXCLUSIVE: Rep. Liz Cheney tells <a href="https://twitter.com/jonkarl?ref_src=twsrc%5Etfw">@JonKarl</a> that it is possible that the Jan. 6 Committee will make a criminal referral against former Pres. Donald Trump. <br /><br />“What kind of man knows that a mob is armed and sends the mob to attack the Capitol?” <a href="https://t.co/bbjvh5ugTs">https://t.co/bbjvh5ugTs</a> <a href="https://t.co/L7DZFP8qGM">pic.twitter.com/L7DZFP8qGM</a></p>&mdash; This Week (@ThisWeekABC) <a href="https://twitter.com/ThisWeekABC/status/1543584959750963203?ref_src=twsrc%5Etfw">July 3, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">EXCLUSIVE: Rep. Liz Cheney tells <a href="https://twitter.com/jonkarl?ref_src=twsrc%5Etfw">@JonKarl</a> that it is possible that the Jan. 6 Committee will make a criminal referral against former Pres. Donald Trump. <br><br>“What kind of man knows that a mob is armed and sends the mob to attack the Capitol?” <a href="https://t.co/bbjvh5ugTs">https://t.co/bbjvh5ugTs</a> <a href="https://t.co/L7DZFP8qGM">pic.twitter.com/L7DZFP8qGM</a></p>&mdash; This Week (@ThisWeekABC) <a href="https://twitter.com/ThisWeekABC/status/1543584959750963203?ref_src=twsrc%5Etfw">July 3, 2022</a></blockquote>
 
 Jon Karl played a previous clip of Cheney saying, 'Trump can never be anywhere near the Oval Office again' and asked her if her goal is to keep Trump from getting back into the White House.
 
@@ -33,7 +33,7 @@ Sure it is.
 
 Watch:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;There&#39;s no question: A man as dangerous as Donald Trump can absolutely never be anywhere near the Oval Office ever again.” <br /><br />Cheney tells <a href="https://twitter.com/jonkarl?ref_src=twsrc%5Etfw">@JonKarl</a> the goal of the Jan. 6 hearings is to “make sure that the American people understand what happened.” <a href="https://t.co/pcs4b0QqQl">https://t.co/pcs4b0QqQl</a> <a href="https://t.co/knvaK5xuk7">pic.twitter.com/knvaK5xuk7</a></p>&mdash; This Week (@ThisWeekABC) <a href="https://twitter.com/ThisWeekABC/status/1543594092856213504?ref_src=twsrc%5Etfw">July 3, 2022</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;There&#39;s no question: A man as dangerous as Donald Trump can absolutely never be anywhere near the Oval Office ever again.” <br><br>Cheney tells <a href="https://twitter.com/jonkarl?ref_src=twsrc%5Etfw">@JonKarl</a> the goal of the Jan. 6 hearings is to “make sure that the American people understand what happened.” <a href="https://t.co/pcs4b0QqQl">https://t.co/pcs4b0QqQl</a> <a href="https://t.co/knvaK5xuk7">pic.twitter.com/knvaK5xuk7</a></p>&mdash; This Week (@ThisWeekABC) <a href="https://twitter.com/ThisWeekABC/status/1543594092856213504?ref_src=twsrc%5Etfw">July 3, 2022</a></blockquote>
 
 When asked about Cheney's comments on ABC's "This Week" on the committee's possible criminal referrals --- and prosecution of Trump, Adam Schiff told host Margaret Brennan that he agreed with Cheney.
 

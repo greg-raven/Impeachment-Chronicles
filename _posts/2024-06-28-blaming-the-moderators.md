@@ -29,7 +29,7 @@ Mark Hamill: "One off night also doesn't change the fact that the former guy is 
 
 Sulk.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hollywood celebrities are lashing out &amp; are blaming far-left moderators Jake Tapper &amp; Dana Bash for Joe&#39;s dismal performance: <br /> <br />Stephen King: &quot;The networks are packaging this as entertainment, like a boxing match, and selling democracy down the river.&quot; <br /><br />Barbra Streisand:… <a href="https://t.co/lAiluMoxnM">pic.twitter.com/lAiluMoxnM</a></p>&mdash; Collin Rugg (@CollinRugg) <a href="https://twitter.com/CollinRugg/status/1806712500920180755?ref_src=twsrc%5Etfw">June 28, 2024</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hollywood celebrities are lashing out &amp; are blaming far-left moderators Jake Tapper &amp; Dana Bash for Joe&#39;s dismal performance: <br> <br>Stephen King: &quot;The networks are packaging this as entertainment, like a boxing match, and selling democracy down the river.&quot; <br><br>Barbra Streisand:… <a href="https://t.co/lAiluMoxnM">pic.twitter.com/lAiluMoxnM</a></p>&mdash; Collin Rugg (@CollinRugg) <a href="https://twitter.com/CollinRugg/status/1806712500920180755?ref_src=twsrc%5Etfw">June 28, 2024</a></blockquote>
 
 Source: Collin Rugg, via [𝕏](https://x.com)
 

@@ -9,7 +9,7 @@ FEMA claims President Trump lied when he said migrants received funding that wou
 
 <http://fema.gov/grants/emergency-food-and-shelter-program>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING NEWS 🚨📰<br /><br />FEMA claims President Trump lied when he said migrants received funding that would have otherwise went to American citizens. FEMA&#39;s website says that, in 2023 alone, $425 million dollars was used for &quot;assisting migrants&quot; through the Emergency Food and Shelter… <a href="https://t.co/om5ehMm8e2">pic.twitter.com/om5ehMm8e2</a></p>&mdash; Free the World 🇺🇲🌏🦅 (@PatriotVerity) <a href="https://twitter.com/PatriotVerity/status/1842910642191454320?ref_src=twsrc%5Etfw">October 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING NEWS 🚨📰<br><br>FEMA claims President Trump lied when he said migrants received funding that would have otherwise went to American citizens. FEMA&#39;s website says that, in 2023 alone, $425 million dollars was used for &quot;assisting migrants&quot; through the Emergency Food and Shelter… <a href="https://t.co/om5ehMm8e2">pic.twitter.com/om5ehMm8e2</a></p>&mdash; Free the World 🇺🇲🌏🦅 (@PatriotVerity) <a href="https://twitter.com/PatriotVerity/status/1842910642191454320?ref_src=twsrc%5Etfw">October 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Free the World, via [𝕏](https://x.com)
 

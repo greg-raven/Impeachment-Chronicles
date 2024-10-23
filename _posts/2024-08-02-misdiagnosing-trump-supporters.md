@@ -18,6 +18,6 @@ What's your reaction to this?
 >
 > <cite>diana thirst @cocksailor</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">OMG!<br /><br />What&#39;s your reaction to this? <a href="https://t.co/H34DdcpdSK">pic.twitter.com/H34DdcpdSK</a></p>&mdash; 🗽🇺🇸 Rachel 🇺🇸🗽 ✨#TRUMPWON✨ (@Rachel4Trump_45) <a href="https://twitter.com/Rachel4Trump_45/status/1819461259403972633?ref_src=twsrc%5Etfw">August 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">OMG!<br><br>What&#39;s your reaction to this? <a href="https://t.co/H34DdcpdSK">pic.twitter.com/H34DdcpdSK</a></p>&mdash; 🗽🇺🇸 Rachel 🇺🇸🗽 ✨#TRUMPWON✨ (@Rachel4Trump_45) <a href="https://twitter.com/Rachel4Trump_45/status/1819461259403972633?ref_src=twsrc%5Etfw">August 2, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Rachel4Trump_45, via [𝕏](https://x.com)

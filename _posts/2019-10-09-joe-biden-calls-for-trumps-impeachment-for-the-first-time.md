@@ -35,6 +35,6 @@ In a letter to House Speaker Nancy Pelosi on Tuesday, White House counsel Pat Ci
 
 Responding to Trump's tweet Wednesday, Biden in part told the president to "stop stonewalling the Congress."
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks for watching. Stop stonewalling the Congress. Honor your oath. Respect the Constitution.<br /><br />And speaking of taxpayers, I've released 21 years of my tax returns. You? <a href="https://t.co/CrqOQG8YXb">https://t.co/CrqOQG8YXb</a></p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1181997336052080647?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thanks for watching. Stop stonewalling the Congress. Honor your oath. Respect the Constitution.<br><br>And speaking of taxpayers, I've released 21 years of my tax returns. You? <a href="https://t.co/CrqOQG8YXb">https://t.co/CrqOQG8YXb</a></p>&mdash; Joe Biden (@JoeBiden) <a href="https://twitter.com/JoeBiden/status/1181997336052080647?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Jacob Pramuk, cnbc.com/2019/10/09/joe-biden-calls-for-donald-trump-impeachment-amid-2020-electionhtml
