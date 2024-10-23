@@ -11,7 +11,7 @@ tags:
 >
 > <cite>Glenn Greenwald, via [𝕏](https://x.com)</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Another major editor's note attached to a Washington Post Russiagate story (see others: <a href="https://t.co/56HwMKrW7k">https://t.co/56HwMKrW7k</a> &amp; <a href="https://t.co/7wuV1rw13x">https://t.co/7wuV1rw13x</a>).<br><br>This one is essentially a retraction. There's no way for major media outlets can keep evading this accountability. It's crashing down. <a href="https://t.co/lPmqVqFISl">https://t.co/lPmqVqFISl</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1459213370234748928?ref_src=twsrc%5Etfw">November 12, 2021</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Another major editor's note attached to a Washington Post Russiagate story (see others: <a href="https://t.co/56HwMKrW7k">https://t.co/56HwMKrW7k</a> &amp; <a href="https://t.co/7wuV1rw13x">https://t.co/7wuV1rw13x</a>).<br /><br />This one is essentially a retraction. There's no way for major media outlets can keep evading this accountability. It's crashing down. <a href="https://t.co/lPmqVqFISl">https://t.co/lPmqVqFISl</a></p>&mdash; Glenn Greenwald (@ggreenwald) <a href="https://twitter.com/ggreenwald/status/1459213370234748928?ref_src=twsrc%5Etfw">November 12, 2021</a></blockquote>
 
 > The Washington Post just retracted two major stories it published on the [Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}): with the perhaps unprecedented step of removing huge parts of the articles and re-writing them. Yet it still refuses to say who lied to make them publish this:
 >

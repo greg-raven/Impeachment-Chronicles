@@ -6,11 +6,11 @@ tags:
 - HPSCI Majority Staff
 ---
 
-<p style="text-align: center;">THE WHITE HOUSE<br>WASHINGTON</p>
+<p style="text-align: center;">THE WHITE HOUSE<br />WASHINGTON</p>
 
 <p style="text-align: center;">February 2, 2018</p>
 
-The Honorable Devin Nunes<br>Chairman, House Permanent Select Committee on Intelligence<br>United States Capitol<br>Washington, DC 20515
+The Honorable Devin Nunes<br />Chairman, House Permanent Select Committee on Intelligence<br />United States Capitol<br />Washington, DC 20515
 
 Dear Mr. Chairman:
 
@@ -30,11 +30,11 @@ Sincerely,
 
 /s/
 
-Donald F. McGahn II<br>Counsel to the President
+Donald F. McGahn II<br />Counsel to the President
 
-cc: The Honorable Paul Ryan<br>Speaker of the House of Representatives
+cc: The Honorable Paul Ryan<br />Speaker of the House of Representatives
 
-The Honorable Adam Schiff<br>Ranking Member, House Permanent Select Committee on Intelligence
+The Honorable Adam Schiff<br />Ranking Member, House Permanent Select Committee on Intelligence
 
 ---
 

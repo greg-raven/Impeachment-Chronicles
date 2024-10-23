@@ -29,7 +29,7 @@ It's actually a nod to Burleson being a rapper/DJ while in college. They're pret
 
 Don't let the facts get in the way, Keith. Keep calling for explosions.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Matt Carpenter says celebration supposed to mimic a DJ with ear/headphones cupped, started early this month &amp; inspired by Burleson’s “college rapper” nickname —Biscuit. <br><br>“Definitely not a political statement. That is off base,” insists Carpenter. <a href="https://twitter.com/hashtag/stlcards?src=hash&amp;ref_src=twsrc%5Etfw">#stlcards</a></p>&mdash; Derrick Goold (@dgoold) <a href="https://twitter.com/dgoold/status/1815123157457756491?ref_src=twsrc%5Etfw">July 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Matt Carpenter says celebration supposed to mimic a DJ with ear/headphones cupped, started early this month &amp; inspired by Burleson’s “college rapper” nickname —Biscuit. <br /><br />“Definitely not a political statement. That is off base,” insists Carpenter. <a href="https://twitter.com/hashtag/stlcards?src=hash&amp;ref_src=twsrc%5Etfw">#stlcards</a></p>&mdash; Derrick Goold (@dgoold) <a href="https://twitter.com/dgoold/status/1815123157457756491?ref_src=twsrc%5Etfw">July 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Furthermore, it shouldn't be an issue even if Cardinals players had been mimicking Trump's fist pump after being shot.
 

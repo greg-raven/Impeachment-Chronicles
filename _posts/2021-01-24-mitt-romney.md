@@ -15,7 +15,7 @@ Sen. Mitt Romney (R-Utah) on Sunday called the upcoming impeachment trial of for
 
 He wouldn't say whether he will vote to convict Trump. He was the only Republican to do so during Trump's first impeachment trial in 2020.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chris Wallace: &quot;Senator, it sure sounds like you&#39;re going to vote to convict.&quot; <br><br>Sen. Mitt Romney: &quot;There&#39;s no question that the article of impeachment sent over by the House suggests impeachable conduct, but we have not yet heard either from the prosecution or from the defense.&quot; <a href="https://t.co/Kq0NuAgy2s">pic.twitter.com/Kq0NuAgy2s</a></p>&mdash; The Recount (@therecount) <a href="https://twitter.com/therecount/status/1353348325899169793?ref_src=twsrc%5Etfw">January 24, 2021</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Chris Wallace: &quot;Senator, it sure sounds like you&#39;re going to vote to convict.&quot; <br /><br />Sen. Mitt Romney: &quot;There&#39;s no question that the article of impeachment sent over by the House suggests impeachable conduct, but we have not yet heard either from the prosecution or from the defense.&quot; <a href="https://t.co/Kq0NuAgy2s">pic.twitter.com/Kq0NuAgy2s</a></p>&mdash; The Recount (@therecount) <a href="https://twitter.com/therecount/status/1353348325899169793?ref_src=twsrc%5Etfw">January 24, 2021</a></blockquote>
 
 The House voted to impeach Trump on Jan. 13, marking the first time a U.S. president has been impeached twice. Ten Republican members of the House joined their Democratic colleagues in voting to pass the resolution.
 

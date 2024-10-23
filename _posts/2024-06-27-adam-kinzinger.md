@@ -33,7 +33,7 @@ I certainly don't agree with President Biden on everything, but I know that he w
 
 Thank you for doing your part,
 
-Adam Kinzinger<br>
+Adam Kinzinger<br />
 Fmr. U.S. Congressman
 
 Source: Adam Kinzinger, e-mail

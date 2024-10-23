@@ -21,7 +21,7 @@ Liz Cheney coached Cassidy Hutchinson and suborned perjury.
 >
 > <cite>Oversight Committee</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🧵Cassidy Hutchinson knowingly provided false testimony.<br><br>Chairman <a href="https://twitter.com/RepLoudermilk?ref_src=twsrc%5Etfw">@RepLoudermilk</a> released NEW handwriting analysis showing Cassidy Hutchinson lied in transcribed interviews &amp; public testimony in front of the J6 Select Committee with Liz Cheney’s help.</p>&mdash; Oversight Subcommittee (@OversightAdmn) <a href="https://twitter.com/OversightAdmn/status/1848365494249906574?ref_src=twsrc%5Etfw">October 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🧵Cassidy Hutchinson knowingly provided false testimony.<br /><br />Chairman <a href="https://twitter.com/RepLoudermilk?ref_src=twsrc%5Etfw">@RepLoudermilk</a> released NEW handwriting analysis showing Cassidy Hutchinson lied in transcribed interviews &amp; public testimony in front of the J6 Select Committee with Liz Cheney’s help.</p>&mdash; Oversight Subcommittee (@OversightAdmn) <a href="https://twitter.com/OversightAdmn/status/1848365494249906574?ref_src=twsrc%5Etfw">October 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Cassidy Hutchinson claimed during her sworn testimony that she drafted the note during a conversation with Mark Meadows for Trump on January 6, 2021.
 

@@ -23,6 +23,6 @@ The incident got so much attention that McCain was forced to remove the footage 
 
 Will Jimmy be condemning his father?
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW: John McCain’s son, Jimmy, says he is so disgusted that Trump would turn Arlington into a &quot;campaign backdrop&quot; that he is voting for Kamala.<br><br>Ironically, in 1999, John McCain himself used Arlington National Cemetery as a &quot;campaign backdrop.&quot;<br><br>In a political ad,… <a href="https://t.co/yxrQheAW1x">pic.twitter.com/yxrQheAW1x</a></p>&mdash; Collin Rugg (@CollinRugg) <a href="https://twitter.com/CollinRugg/status/1831127134020280593?ref_src=twsrc%5Etfw">September 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">NEW: John McCain’s son, Jimmy, says he is so disgusted that Trump would turn Arlington into a &quot;campaign backdrop&quot; that he is voting for Kamala.<br /><br />Ironically, in 1999, John McCain himself used Arlington National Cemetery as a &quot;campaign backdrop.&quot;<br /><br />In a political ad,… <a href="https://t.co/yxrQheAW1x">pic.twitter.com/yxrQheAW1x</a></p>&mdash; Collin Rugg (@CollinRugg) <a href="https://twitter.com/CollinRugg/status/1831127134020280593?ref_src=twsrc%5Etfw">September 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Collin Rugg, via [𝕏](https://x.com)

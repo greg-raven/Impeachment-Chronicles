@@ -19,7 +19,7 @@ Maddow appeared on "The View" Tuesday, when host Joy Behar discussed the alarm M
 
 Maddow and the other women on set nodded in agreement:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Joy Behar fears Donald Trump could pull The View and Rachel Maddow&#39;s show off the air in a second term. <br><br>&quot;How seriously should we be taking that?&quot; <a href="https://t.co/eyukfAQirh">https://t.co/eyukfAQirh</a> <a href="https://t.co/F9qVj9TI9M">pic.twitter.com/F9qVj9TI9M</a></p>&mdash; Zachary Leeman (@WritingLeeman) <a href="https://twitter.com/WritingLeeman/status/1803096980240875963?ref_src=twsrc%5Etfw">June 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Joy Behar fears Donald Trump could pull The View and Rachel Maddow&#39;s show off the air in a second term. <br /><br />&quot;How seriously should we be taking that?&quot; <a href="https://t.co/eyukfAQirh">https://t.co/eyukfAQirh</a> <a href="https://t.co/F9qVj9TI9M">pic.twitter.com/F9qVj9TI9M</a></p>&mdash; Zachary Leeman (@WritingLeeman) <a href="https://twitter.com/WritingLeeman/status/1803096980240875963?ref_src=twsrc%5Etfw">June 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 You might wonder how exactly a President of the United States could take a show off-air by pressuring sponsors. We also wondered about that.
 

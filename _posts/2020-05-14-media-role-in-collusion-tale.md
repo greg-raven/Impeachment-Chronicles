@@ -46,7 +46,7 @@ June 17, 2016:
 ."
 
 July 2016:
-: Ukraine minister of internal affairs Arsen Avakov attacks Trump and Trump campaign adviser Paul Manafort on Twitter and Facebook, calling Trump "an even bigger danger to the U.S. than terrorism."<br>Former Ukrainian Prime Minister Arseny Yatseniuk writes on Facebook that Trump has "challenged the very values of the free world."
+: Ukraine minister of internal affairs Arsen Avakov attacks Trump and Trump campaign adviser Paul Manafort on Twitter and Facebook, calling Trump "an even bigger danger to the U.S. than terrorism."<br />Former Ukrainian Prime Minister Arseny Yatseniuk writes on Facebook that Trump has "challenged the very values of the free world."
 
 Late July 2016:
 : Chalupa leaves the (DNC) to work full-time on her research into Manafort, Trump and Russia; and provides off-the-record guidance to "a lot of journalists."
@@ -58,10 +58,10 @@ Aug. 14, 2016:
 : *New York Times* breaks story about cash payments made a decade ago to Paul Manafort by pro-Russia interests in Ukraine. The ledger was released and publicized by the National Anti-Corruption Bureau of Ukraine.
 
 Aug. 15, 2016:
-: CNN reports the FBI is conducting an inquiry into Manafort's payments from pro-Russia interests in Ukraine in 2007 and 2009.<br>After a meeting discussing the election in FBI Deputy Director Andrew McCabe's office, FBI counterintelligence agent Peter Strzok texts FBI attorney Lisa Page referring to the possibility of Trump getting elected. "We can't take that risk," he writes. They speak of needing an "insurance policy."
+: CNN reports the FBI is conducting an inquiry into Manafort's payments from pro-Russia interests in Ukraine in 2007 and 2009.<br />After a meeting discussing the election in FBI Deputy Director Andrew McCabe's office, FBI counterintelligence agent Peter Strzok texts FBI attorney Lisa Page referring to the possibility of Trump getting elected. "We can't take that risk," he writes. They speak of needing an "insurance policy."
 
 Aug. 19, 2016:
-: Paul Manafort resigns as Trump campaign chairman.<br>Ukrainian parliament member Sergii Leshchenko holds news conference to draw attention to Paul Manafort and Trump's "pro-Russia" ties.
+: Paul Manafort resigns as Trump campaign chairman.<br />Ukrainian parliament member Sergii Leshchenko holds news conference to draw attention to Paul Manafort and Trump's "pro-Russia" ties.
 
 Sept. 2, 2016:
 : FBI officials Lisa Page and Peter Strzok text that "[President Obama] wants to know everything we're doing."
@@ -112,10 +112,10 @@ Nov. 30 - Dec. 28, 2016:
 : Two dozen Obama administration officials make requests to unmask the name of National Security Adviser designee Flynn, who was "incidentally" captured by intel surveillance. The officials include: U.N. Ambassador Samantha Power, Director of National Intelligence James Clapper, and CIA Director John Brennan.
 
 Jan. 5, 2017:
-: Obama chief of staff Denis McDonough requests Flynn unmasking.<br>Intelligence Community leadership, including FBI Director James Comey, Deputy Attorney General Sally Yates, CIA Director Brennan and Director of National Intelligence Clapper, provides classified briefing to President Obama, Vice President Joe Biden, and National Security Adviser Susan Rice on alleged Russia hacking during 2016 campaign, according to notes later written by Rice.<br>After briefing, according to Rice's notes, President Obama convenes Oval Office meeting with her, Comey, Biden, and Yates. The "[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %})" is reportedly discussed. Also reportedly discussed: Flynn's intercepted talks with Russia's ambassador.
+: Obama chief of staff Denis McDonough requests Flynn unmasking.<br />Intelligence Community leadership, including FBI Director James Comey, Deputy Attorney General Sally Yates, CIA Director Brennan and Director of National Intelligence Clapper, provides classified briefing to President Obama, Vice President Joe Biden, and National Security Adviser Susan Rice on alleged Russia hacking during 2016 campaign, according to notes later written by Rice.<br />After briefing, according to Rice's notes, President Obama convenes Oval Office meeting with her, Comey, Biden, and Yates. The "[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %})" is reportedly discussed. Also reportedly discussed: Flynn's intercepted talks with Russia's ambassador.
 
 Jan. 6, 2017:
-: Comey and other intelligence leaders meet with President-elect Trump and his national security team at Trump Tower in New York to brief them on alleged Russian efforts to interfere in the election.<br>Later, Rice would write herself an email stating that Obama suggested they hold back on providing Trump officials with certain info for national security reasons.<br>After Trump team briefing, Comey meets alone with Trump to "brief him" on Fusion GPS/Steele allegations "to alert the incoming President to the existence of this material," even though it was, as he later put it, "salacious and unverified." Comey later says Clapper asked him (Comey) to do the briefing personally.
+: Comey and other intelligence leaders meet with President-elect Trump and his national security team at Trump Tower in New York to brief them on alleged Russian efforts to interfere in the election.<br />Later, Rice would write herself an email stating that Obama suggested they hold back on providing Trump officials with certain info for national security reasons.<br />After Trump team briefing, Comey meets alone with Trump to "brief him" on Fusion GPS/Steele allegations "to alert the incoming President to the existence of this material," even though it was, as he later put it, "salacious and unverified." Comey later says Clapper asked him (Comey) to do the briefing personally.
 
 Jan. 7, 2017:
 : Clapper and two other Obama administration officials request Flynn unmasking.
@@ -124,16 +124,16 @@ January 2017:
 : The FBI interviews a main source of Steele's "dossier" and learns his information was merely barroom gossip and rumor never meant to be taken as fact or submitted to the FBI and the Foreign Intelligence Surveillance Court to wiretap Page. (The FBI does not notify the court and applies for, and receives, another wiretap against Page).
 
 Jan. 10, 2017:
-: The 35-page Fusion GPS anti-Trump "dossier" is leaked to the media and published.<br>A CIA official makes a Flynn [unmasking request]({% post_url 2020-05-08-follow-up-unmasking-requests-re-former-national-security-advisor-michael-flynn %}).
+: The 35-page Fusion GPS anti-Trump "dossier" is leaked to the media and published.<br />A CIA official makes a Flynn [unmasking request]({% post_url 2020-05-08-follow-up-unmasking-requests-re-former-national-security-advisor-michael-flynn %}).
 
 Jan. 11, 2017:
 : Power makes another Flynn [unmasking request]({% post_url 2020-05-08-follow-up-unmasking-requests-re-former-national-security-advisor-michael-flynn %}).
 
 Jan. 12, 2017:
-: Obama administration finalizes new rules allowing NSA to spread "certain intel to" other U.S. intel agencies without normal privacy protections.<br>Vice President Biden and Treasury Secretary Jacob Lew request the unmasking of Flynn in intelligence communications.<br>Someone leaks to David Ignatius of the *Washington Post* that Flynn had called Russia's ambassador. "What did Flynn say, and did it undercut the U.S. sanctions?" asked Ignatius in the article.
+: Obama administration finalizes new rules allowing NSA to spread "certain intel to" other U.S. intel agencies without normal privacy protections.<br />Vice President Biden and Treasury Secretary Jacob Lew request the unmasking of Flynn in intelligence communications.<br />Someone leaks to David Ignatius of the *Washington Post* that Flynn had called Russia's ambassador. "What did Flynn say, and did it undercut the U.S. sanctions?" asked Ignatius in the article.
 
 Jan. 20, 2017:
-: Trump becomes president.<br>Fifteen minutes after Trump becomes president, former National Security Adviser Susan Rice emails memo to herself purporting to summarize the Jan. 5 Oval Office meeting with President Obama and other top officials. She states that Obama instructed the group to investigate "by the book" and asked them to be mindful whether there were certain things that "could not be fully shared with the incoming administration."
+: Trump becomes president.<br />Fifteen minutes after Trump becomes president, former National Security Adviser Susan Rice emails memo to herself purporting to summarize the Jan. 5 Oval Office meeting with President Obama and other top officials. She states that Obama instructed the group to investigate "by the book" and asked them to be mindful whether there were certain things that "could not be fully shared with the incoming administration."
 
 Jan. 22, 2017:
 : Intel information is leaked to Wall Street Journal, which reports "US counterintelligence agents have investigated communications" between Flynn and Russian Ambassador to the U.S. Sergey Kislyak to determine if any laws were violated.
@@ -142,7 +142,7 @@ Jan. 23, 2017:
 : Leak to *Washington Post* falsely claims Flynn is not the subject of an investigation.
 
 Jan. 24, 2017:
-: McCabe sends two FBI agents, including Strzok, to the White House to question Flynn. FBI Director Comey later takes credit for "sending a couple of guys" to interview Flynn, circumventing normal processes.<br>Notes kept hidden until May 2020 show FBI officials discussing whether the goal of the meeting with Flynn was to "get him to lie" so that he would be fired or prosecuted.
+: McCabe sends two FBI agents, including Strzok, to the White House to question Flynn. FBI Director Comey later takes credit for "sending a couple of guys" to interview Flynn, circumventing normal processes.<br />Notes kept hidden until May 2020 show FBI officials discussing whether the goal of the meeting with Flynn was to "get him to lie" so that he would be fired or prosecuted.
 
 Feb. 9, 2017:
 : News of FBI wiretaps capturing Trump national security adviser Flynn speaking with Russia's ambassador is leaked to the press. *New York Times* and *Washington Post* report Flynn discussed U.S. sanctions, despite his earlier denials. The Post also reports the FBI "found nothing illicit" in the talks. The Post headline in an article by Greg Miller, Adam Entous and Ellen Nakashima reads, "National Security Adviser Flynn Discussed Sanctions with Russian Ambassador, Despite Denials, Officials Say."
@@ -151,7 +151,7 @@ Feb. 13, 2017:
 : *Washington Post* reports Justice Dept. has opened a "Logan Act" violation investigation against Flynn.
 
 Feb. 14, 2017:
-: *New York Times* reports that FBI had told Obama officials there was no "quid pro quo" (promise of a deal in exchange for some action) discussed between Gen. Flynn and Russian Ambassador Kislyak.<br>Flynn resigns, allegedly acknowledging he misled Vice President Mike Pence about the content of his discussions with Russia.
+: *New York Times* reports that FBI had told Obama officials there was no "quid pro quo" (promise of a deal in exchange for some action) discussed between Gen. Flynn and Russian Ambassador Kislyak.<br />Flynn resigns, allegedly acknowledging he misled Vice President Mike Pence about the content of his discussions with Russia.
 
 Feb. 17, 2017:
 : *Washington Post* reports that "Flynn told FBI he did not discuss sanctions" with Russia ambassador and that "lying to the FBI is a felony offense."
@@ -184,7 +184,7 @@ May 12, 2017:
 : Benjamin Wittes, confidant of ex-FBI Director James Comey and editor in chief of Lawfare, contacts *New York Times* reporter Mike Schmidt to leak conversations he'd had with Comey as FBI Director that are critical of President Trump.
 
 May 16, 2017:
-: *New York Times* publishes leaked account of FBI memoranda recorded by former FBI Director James Comey. Comey later acknowledges engineering the leak of the FBI material through his friend, Columbia Law School professor Daniel Richman, to spur appointment of special counsel to investigate President Trump.<br>Trump reportedly interviews, but passes over, former FBI Director Robert Mueller for position of FBI Director.
+: *New York Times* publishes leaked account of FBI memoranda recorded by former FBI Director James Comey. Comey later acknowledges engineering the leak of the FBI material through his friend, Columbia Law School professor Daniel Richman, to spur appointment of special counsel to investigate President Trump.<br />Trump reportedly interviews, but passes over, former FBI Director Robert Mueller for position of FBI Director.
 
 May 17, 2017:
 : Deputy Attorney General Rod Rosenstein appoints Mueller as Special Counsel for the Russia-Trump probe.
@@ -202,7 +202,7 @@ Dec. 19, 2017:
 : McCabe repeatedly testifies that the wiretap against Trump campaign official Carter Page would not have been approved without the Fusion GPS/[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %}) info. FBI General Counsel James Baker, who is himself subject of an Inspector General probe into his alleged leaks to the press, attends as McCabe's attorney. McCabe acknowledges that if Baker had met with *Mother Jones* reporter David Corn, it would have been inappropriate. Baker is reassigned amid investigation into his alleged contacts with media.
 
 Feb. 2, 2018:
-: House Intelligence Committee Republican memo summarizes classified documents revealing for the first time that Fusion GPS political opposition research was used, in part, to justify Carter Page wiretap; along with Michael Isikoff Yahoo News article based on the same opposition research.<br>Ex-CIA Director Brennan signs on as a contributor to NBC and MSNBC, where he provides routine criticism of Trump and his associates, including providing false information.
+: House Intelligence Committee Republican memo summarizes classified documents revealing for the first time that Fusion GPS political opposition research was used, in part, to justify Carter Page wiretap; along with Michael Isikoff Yahoo News article based on the same opposition research.<br />Ex-CIA Director Brennan signs on as a contributor to NBC and MSNBC, where he provides routine criticism of Trump and his associates, including providing false information.
 
 Feb. 9, 2018:
 : Former FBI Director Comey assistant Josh Campbell leaves FBI for job at CNN.

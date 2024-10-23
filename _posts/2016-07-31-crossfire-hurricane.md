@@ -13,11 +13,11 @@ Title: Crossfire Hurricane
 
 Date: 07/31/2016
 
-Cc: [Redacted]<br>
+Cc: [Redacted]<br />
 Strzok Peter P II
 
-From: COUNTERINTELLIGENCE<br>
-[Redacted]<br>
+From: COUNTERINTELLIGENCE<br />
+[Redacted]<br />
 Contact: Strzok Peter P II, [Redacted]
 
 Approved by: Strzok Peter P II

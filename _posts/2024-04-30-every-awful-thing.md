@@ -137,7 +137,7 @@ Trump reminded everyone of the push to crackdown on the media after winning the 
 
 Trump wants to codify the discrimination of trans Americans. He's said he would move to enact a federal law stating that there are only two genders, push Congress to ban gender-affirming care for minors, and punish doctors and hospitals who treat transgender youth. He has also vowed to restore his first administration's ban on trans Americans serving in the military, and work to prevent trans women from competing in women's sports.
 
-<blockquote class="twitter-tweet" data-width="500" data-dnt="true"> <p lang="en" dir="ltr"> PRES. TRUMP: I will restore the Trump ban on transgender in the military<br> <br> “I had it stopped.” <a href="https://t.co/9t13spHbRa" rel="nofollow" target="_blank">pic.twitter.com/9t13spHbRa</a> </p> &mdash; The Post Millennial (@TPostMillennial) <a href="https://twitter.com/TPostMillennial/status/1680384639037485056?ref_src=twsrc%5Etfw" rel="nofollow" target="_blank">July 16, 2023</a> </blockquote>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true"> <p lang="en" dir="ltr"> PRES. TRUMP: I will restore the Trump ban on transgender in the military<br /> <br /> “I had it stopped.” <a href="https://t.co/9t13spHbRa" rel="nofollow" target="_blank">pic.twitter.com/9t13spHbRa</a> </p> &mdash; The Post Millennial (@TPostMillennial) <a href="https://twitter.com/TPostMillennial/status/1680384639037485056?ref_src=twsrc%5Etfw" rel="nofollow" target="_blank">July 16, 2023</a> </blockquote>
 
 **He will pardon the Jan. 6 rioters**
 

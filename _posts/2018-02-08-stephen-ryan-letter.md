@@ -17,7 +17,7 @@ Please contact me at your earliest convenience at (redacted) regarding this lett
 
 Sincerely,
 
-Stephen M. Ryan<br>Counsel for Michael Cohen
+Stephen M. Ryan<br />Counsel for Michael Cohen
 
 ![Stephen M. Ryan on behalf of Michael Cohen](/assets/2018-02-08-stephen-ryan-letter.jpg "Stephen M. Ryan on behalf of Michael Cohen")
 

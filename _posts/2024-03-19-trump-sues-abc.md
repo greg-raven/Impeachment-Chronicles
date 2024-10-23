@@ -29,7 +29,7 @@ George Stephanopoulos and ABC News are now being sued over the repeated lie that
 
 - "So you're comfortable with it ... even though he's been found liable for rape?"
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">George Stephanopoulos and ABC News are now being sued over the repeated lie that Donald Trump was &quot;found liable for rape.&quot; Here is each instance:<br><br>• &quot;Judges in two separate juries have found him liable for rape and for defaming a victim of that rape.&quot;<br><br>• &quot;Donald Trump has been… <a href="https://t.co/POps0zhLAx">pic.twitter.com/POps0zhLAx</a></p>&mdash; Andrew @ Don’t Walk, RUN! (@DontWalkRUN) <a href="https://twitter.com/DontWalkRUN/status/1770117212277252304?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">George Stephanopoulos and ABC News are now being sued over the repeated lie that Donald Trump was &quot;found liable for rape.&quot; Here is each instance:<br /><br />• &quot;Judges in two separate juries have found him liable for rape and for defaming a victim of that rape.&quot;<br /><br />• &quot;Donald Trump has been… <a href="https://t.co/POps0zhLAx">pic.twitter.com/POps0zhLAx</a></p>&mdash; Andrew @ Don’t Walk, RUN! (@DontWalkRUN) <a href="https://twitter.com/DontWalkRUN/status/1770117212277252304?ref_src=twsrc%5Etfw">March 19, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Don't Walk, RUN!, via [𝕏](https://x.com)
 

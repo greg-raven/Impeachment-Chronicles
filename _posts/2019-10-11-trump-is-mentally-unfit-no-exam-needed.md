@@ -18,8 +18,8 @@ Mr. Trump's now familiar affinity for violence is manifest in his verbal threats
 
 Our observations are not "diagnosing" and do not refer to mental illness; rather, they speak to a lack of fitness that can be determined based on sufficient sources outside of a personal examination.
 
-Leonard L. Glass<br>
-Bandy X. Lee<br>
+Leonard L. Glass<br />
+Bandy X. Lee<br />
 Edwin B. Fisher
 
 The writers are professors, respectively, at Harvard Medical School, Yale School of Medicine and Gillings School of Global Public Health, University of North Carolina-Chapel Hill.
