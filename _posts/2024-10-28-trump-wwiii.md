@@ -1,5 +1,5 @@
 ---
-title: "Trump won't prevent WWIII"
+title: "Trump will start WWIII"
 layout: post
 tags:
 - Trudy Rubin
