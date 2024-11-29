@@ -2,7 +2,7 @@
 title: "Trump wants a firing squad for Liz Cheney"
 layout: post
 tags:
-- Don't Walk, Run
+- Don't Walk, RUN!
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yVhy3kDKXJ4?si=vBk5nCBQ5eMv_khG" title="Trump wants a firing squad for Liz Cheney"></iframe>
@@ -220,4 +220,4 @@ Simone Sanders
 Andrew
 : So Simone Sanders says that conservatives are overreacting to the liberal media's coverage of Trump's Liz Cheney comments, but then seconds later claims that Trump called for Cheney to be placed in front of a firing squad and a military tribunal, which he never said. So much for self-awareness, right?
 
-Source: Don't Walk, Run, via YouTube
+Source: Don't Walk, RUN!, via YouTube
