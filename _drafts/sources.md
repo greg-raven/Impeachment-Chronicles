@@ -274,22 +274,6 @@ Trump's 88 criminal charges and where they stand - CREW | Citizens for Responsib
 
 Millions at risk of losing health insurance after Trump's victory - https://www.nbcnews.com/health/health-news/millions-risk-losing-health-insurance-trumps-victory-rcna179146
 
-https://www.youtube.com/watch?v=YVvMyEg5ewM&list=WL&index=3&pp=gAQBiAQB
-
-https://www.youtube.com/watch?v=HFkJ77LgvGA&list=WL&index=4&pp=gAQBiAQB
-
-https://www.youtube.com/watch?v=VByxR2g1XII&list=WL&index=5&t=67s&pp=gAQBiAQB
-
-https://www.youtube.com/watch?v=Byk47r0Kkv0&list=WL&index=7&pp=gAQBiAQB
-
-https://www.youtube.com/watch?v=0DGwnhiTnNo&list=WL&index=8&pp=gAQBiAQB
-
-https://www.youtube.com/watch?v=FZYJhF9CYM0&list=WL&index=12&pp=gAQBiAQB
-
-https://www.youtube.com/watch?v=D41CI8i69x4&list=WL&index=13&pp=gAQBiAQB
-
-https://www.youtube.com/watch?v=JZkCpiQFdNM&list=WL&index=1&pp=gAQBiAQB
-
 Stock Market Tanks as Trump Unveils Nightmare Cabinet Picks | The New Republic - https://newrepublic.com/post/188492/stock-market-tanks-trump-cabinet
 
 Cyber-Security Experts Warn Election Was Hacked - https://www.planetcritical.com/p/cyber-security-experts-warn-election-hacked
@@ -306,6 +290,14 @@ Biggest Loser in DOJ History Takes a Final L on His Way Out the Door - https://w
 
 
 
+https://www.youtube.com/watch?v=YVvMyEg5ewM
+https://www.youtube.com/watch?v=HFkJ77LgvGA
+https://www.youtube.com/watch?v=VByxR2g1XII
+https://www.youtube.com/watch?v=Byk47r0Kkv0
+https://www.youtube.com/watch?v=0DGwnhiTnNo
+https://www.youtube.com/watch?v=FZYJhF9CYM0
+https://www.youtube.com/watch?v=D41CI8i69x4
+https://www.youtube.com/watch?v=JZkCpiQFdNM
 https://www.youtube.com/watch?v=C0n_8IpI6Cs
 https://www.youtube.com/watch?v=-charvnq2FU
 https://youtu.be/DvoQxvhAfOQ?si=wRX_fZb0zuoZzzhb
