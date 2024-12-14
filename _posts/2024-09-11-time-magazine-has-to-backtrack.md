@@ -1,11 +1,11 @@
 ---
-title: "Time magazine has to backtrack"
+title: "TIME magazine has to backtrack"
 layout: post
 tags:
 - Libs of TikTok
 ---
 
-*Time* just quietly updated their article where they accused Trump of lying about Kamala's support for s*x change surgery for detained illegals.
+*TIME* just quietly updated their article where they accused Trump of lying about Kamala's support for s*x change surgery for detained illegals.
 
 They backtracked on it and are now admitting that Kamala supports tax funded s*x change surgery for illegal aliens in prison.
 

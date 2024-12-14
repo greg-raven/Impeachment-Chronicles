@@ -1,3 +1,5 @@
+*TIME* magazine Trump covers --- https://time.com/5928282/donald-trump-time-covers/
+
 Kamala Harris' Hitler-Focused Closing Argument Is A Shameful Stain On Her Party - https://www.public.news/p/kamala-harris-hitler-focused-closing
 
 Why Harris moved from 'joy' to calling Trump a 'fascist' - https://www.bbc.com/news/articles/c1dp7xnyr51o

@@ -65,7 +65,7 @@ Everyone knows that, just as Don Jr's laptop would've been the story of the cent
 
 Even the courts' refusal of the case gets nowhere w/them, because of how the opposition embraced mass political violence. They'll say, w/good reason: What judge will stick his neck out for Trump knowing he'll be destroyed in the media as a violent mob burns down his house? 30/x
 
-It's a fact, according to Time Magazine, that mass riots were planned in cities across the country if Trump won. Sure, they were "protests," but they were planned by the same people as during the summer, and everyone knows what it would have meant. Judges have families, too. 31/x
+It's a fact, according to *TIME* magazine, that mass riots were planned in cities across the country if Trump won. Sure, they were "protests," but they were planned by the same people as during the summer, and everyone knows what it would have meant. Judges have families, too. 31/x
 
 Forget the ballot conspiracies. It's a fact that governors used COVID to unconstitutionally alter election procedures (the Constitution states that only legislatures can do so) to help Biden to make up for a massive enthusiasm gap by gaming the mail-in ballot system. 32/x
 

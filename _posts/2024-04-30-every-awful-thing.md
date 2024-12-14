@@ -35,7 +35,7 @@ Trump has intensified his rhetoric, telling Newsmax in March that he will order 
 
 Trump mused late last year that he will be a "dictator" for one day only, should he win reelection. Rolling Stone reported shortly after his comments that part of this authoritarian plot is to send potentially hundreds of thousands of troops to help seal the border and build new detention camps to house migrants. Trump tried to do something similar during his first term, but he was shot down by officials and attorneys due to fears of legal repercussions. He's going to surround himself with more compliant actors in a potential second term, who are already working on ways to make a militarized border "perfectly legal."
 
-Trump told Time Magazine in April that he would also be willing to deploy the military inside the United States, not just at the border, as part of his effort to rid the nation of undocumented immigrants.
+Trump told *TIME* magazine in April that he would also be willing to deploy the military inside the United States, not just at the border, as part of his effort to rid the nation of undocumented immigrants.
 
 **He will invade Mexico**
 
@@ -64,7 +64,7 @@ The New York Times reported in February, however, that Trump supports a 16-week 
 
 Trump insisted in April, however, that he will leave the issue up to the states, but there's plenty of reason to doubt this, not least of which is that the conservative activists shaping his potential policy seem dead-set on a national ban. Trump also undermined his own pledge to leave the issue to the states just days after making it. When the Arizona Supreme Court revived a near-total ban on abortion from 1864, Trump said the state went too far, and that "it'll be straightened out."
 
-Trump told Time Magazine a few weeks later that he would --- as Eric Cortalessa, who interviewed Trump, put it --- "let red states monitor women's pregnancies and prosecute those who violate abortion bans."
+Trump told *TIME* magazine a few weeks later that he would --- as Eric Cortalessa, who interviewed Trump, put it --- "let red states monitor women's pregnancies and prosecute those who violate abortion bans."
 
 **He will bring back the death penalty in a big way**
 
@@ -143,7 +143,7 @@ Trump wants to codify the discrimination of trans Americans. He's said he would 
 
 Trump and his allies in Congress view the Jan. 6 attack on the U.S. Capitol as a noble effort, and have long lamented how those arrested for breaking into Congress have been treated. Trump said during a town hall last May that he will "most likely" pardon "a large portion of them."
 
-He told Time Magazine in April that he is weighing pardons for all of his supporters accused of attacking the Capitol --- including, presumably, those who pleaded guilty to or were convicted of violent offenses.
+He told *TIME* magazine in April that he is weighing pardons for all of his supporters accused of attacking the Capitol --- including, presumably, those who pleaded guilty to or were convicted of violent offenses.
 
 **He will gut the federal government and take unprecedented control of what's left**
 
