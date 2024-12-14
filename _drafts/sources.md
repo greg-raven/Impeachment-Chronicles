@@ -1,5 +1,3 @@
-Jeh Johnson to Fox News: Kamala Tougher on Border Than Trump - https://www.mediaite.com/tv/obama-dhs-sec-shock-fox-friends-by-insisting-its-obvious-kamala-harris-would-be-tougher-on-the-border-than-trump/
-
 Kamala Harris' Hitler-Focused Closing Argument Is A Shameful Stain On Her Party - https://www.public.news/p/kamala-harris-hitler-focused-closing
 
 Why Harris moved from 'joy' to calling Trump a 'fascist' - https://www.bbc.com/news/articles/c1dp7xnyr51o
@@ -34,7 +32,7 @@ Something BAD Must Be Going on in Trump World Because Trump Is Losing His MIND o
 [CNN Debate Moderator's Ex-Husband Among 51 Spies Who Lied to the Public About Hunter Laptop to Steal 2020 Election Breaking Digest](https://breakingdigest.com/cnn-debate-moderators-ex-husband-among-51-spies-who-lied-to-the-public-about-hunter-laptop-to-steal-2020-election/)
 
 
-[If Joe Biden Were as Ruthless About Immunity as Donald Trump … | The New Republic](https://newrepublic.com/article/183422/joe-biden-ruthless-immunity-donald-trump)
+[If Joe Biden Were as Ruthless About Immunity as Donald Trump ... | The New Republic](https://newrepublic.com/article/183422/joe-biden-ruthless-immunity-donald-trump)
 
 ---
 
@@ -153,24 +151,6 @@ Trump's Tax Plan Is Another Giant Boon for the Wealthy - https://www.rollingston
 
 Florida is nearing toss-up status as top Republican poll shows Trump's lead nearly vanished - https://www.msn.com/en-us/news/politics/florida-is-nearing-toss-up-status-as-top-republican-poll-shows-trump-s-lead-nearly-vanished/ar-AA1rKJLt
 
-https://www.youtube.com/watch?v=4oh9c3hBkcU
-https://www.youtube.com/watch?v=Vz6Xzy1GXRE
-https://www.youtube.com/watch?v=h9gVZFtlP78
-https://www.youtube.com/watch?v=tNGicdJxHTo
-https://www.youtube.com/watch?v=qOQpAA7-fCQ
-https://www.youtube.com/watch?v=A1Niwfg-fzY
-https://www.youtube.com/watch?v=TZSJoFcqunk
-https://www.youtube.com/watch?v=DvoQxvhAfOQ
-https://www.youtube.com/watch?v=1EcXiRJumQs
-https://www.youtube.com/watch?v=p5HQld42hTI
-https://www.youtube.com/watch?v=BuvGC86vATg
-https://www.youtube.com/watch?v=b22VhEMEHV4
-https://www.youtube.com/watch?v=44Ss3plgUqQ
-https://www.youtube.com/watch?v=yT2HDaTuAnk
-https://www.youtube.com/watch?v=ZFS4BgCwbhQ
-https://www.youtube.com/watch?v=5MWulUcFMms
-
-
 
 Harris goads Trump over 'hiding' from a debate as he burnishes border bona fides - POLITICO - https://www.politico.com/news/2024/10/13/harris-attack-trump-second-debate-00183567
 
@@ -191,7 +171,7 @@ John Bolton says Donald Trump will claim early victory 'between 9 and 10' p.m. -
 
 Trump still uses 'comedy' to mask the dangers of his worst ideas - https://www.msnbc.com/opinion/msnbc-opinion/trump-election-won-seriously-comedy-rcna177723
 
-2024 election: What happens now to Trump’s trials and sentencing. - https://slate.com/news-and-politics/2024/11/trump-trials-sentencing-election-2024-jack-smith-what-now.html
+2024 election: What happens now to Trump's trials and sentencing. - https://slate.com/news-and-politics/2024/11/trump-trials-sentencing-election-2024-jack-smith-what-now.html
 
 Trump's 88 criminal charges and where they stand - CREW | Citizens for Responsibility and Ethics in Washington - https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-91-criminal-charges-and-where-they-stand/
 
@@ -205,8 +185,6 @@ Cyber-Security Experts Warn Election Was Hacked - https://www.planetcritical.com
 
 Jack Smith moves to abandon two criminal cases against Trump | AP News - https://apnews.com/article/trump-capitol-riot-justice-department-jack-smith-d6172cf98d8e03e099571c908267456c
 
-Tragic Ashli Babbitt and the buried Jan. 6 truth - https://nypost.com/2024/11/24/opinion/tragic-ashli-babbitt-and-the-buried-jan-6-truth/
-
 Biggest Loser in DOJ History Takes a Final L on His Way Out the Door - https://www.declassified.live/p/biggest-loser-in-doj-history-takes
 
 
@@ -215,6 +193,22 @@ Biggest Loser in DOJ History Takes a Final L on His Way Out the Door - https://w
 
 
 Election deniers --- https://www.youtube.com/watch?v=HGOSXpgnKQw
+https://www.youtube.com/watch?v=4oh9c3hBkcU
+https://www.youtube.com/watch?v=Vz6Xzy1GXRE
+https://www.youtube.com/watch?v=h9gVZFtlP78
+https://www.youtube.com/watch?v=tNGicdJxHTo
+https://www.youtube.com/watch?v=qOQpAA7-fCQ
+https://www.youtube.com/watch?v=A1Niwfg-fzY
+https://www.youtube.com/watch?v=TZSJoFcqunk
+https://www.youtube.com/watch?v=DvoQxvhAfOQ
+https://www.youtube.com/watch?v=1EcXiRJumQs
+https://www.youtube.com/watch?v=p5HQld42hTI
+https://www.youtube.com/watch?v=BuvGC86vATg
+https://www.youtube.com/watch?v=b22VhEMEHV4
+https://www.youtube.com/watch?v=44Ss3plgUqQ
+https://www.youtube.com/watch?v=yT2HDaTuAnk
+https://www.youtube.com/watch?v=ZFS4BgCwbhQ
+https://www.youtube.com/watch?v=5MWulUcFMms
 https://www.youtube.com/watch?v=YVvMyEg5ewM
 https://www.youtube.com/watch?v=HFkJ77LgvGA
 https://www.youtube.com/watch?v=VByxR2g1XII
