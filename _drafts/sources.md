@@ -1,4 +1,17 @@
 *TIME* magazine Trump covers --- https://time.com/5928282/donald-trump-time-covers/
+- February 27, 2017 Nothing to See Here
+- November 6, 2017 The Wrecking Crew
+- January 22, 2018 Year One
+- April 23, 2018 Stormy
+- June 18, 2018 King Me
+- June 25, 2018 The Riskiest Show on Earth
+- July 2, 2018 Welcome to America
+- July 25, 2018 The Summit Crisis
+- September 3, 2018 In Deep
+- October 7, 2019 (painting himself into a corner)
+- May 25, 2020 There's a Right Way to Reopen American (This Isn't It)
+- June 24, 2024 (gavel coming down on Trump)
+- September 30, 2024 In Trouble
 
 Kamala Harris' Hitler-Focused Closing Argument Is A Shameful Stain On Her Party - https://www.public.news/p/kamala-harris-hitler-focused-closing
 
