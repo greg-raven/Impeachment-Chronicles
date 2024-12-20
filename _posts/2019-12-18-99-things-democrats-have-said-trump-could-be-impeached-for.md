@@ -86,7 +86,7 @@ Those, of course, are just a sampling. See below for the comprehensive list. And
 			<td>Because "he regards himself as above the law"</td>
 			<td>05/14/2017</td>
 			<td><a href="https://grabien.com/story.php?id=104757">ABC</a></td>
-			<td>Lawrence Tribe</td>
+			<td>Laurence Tribe</td>
 		</tr>
 		<tr>
 			<td>9</td>

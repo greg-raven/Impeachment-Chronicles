@@ -2,7 +2,7 @@
 title: "A typical first step for tyrants"
 layout: post
 tags:
-- Lawrence Tribe
+- Laurence Tribe
 ---
 
 Calling your political adversaries enemies of the people is a typical first step for tyrants who aim ultimately to silence or exterminate all who resist their rule. We've gotta nip this terrifying move in the bud.
@@ -15,4 +15,4 @@ Earlier, though ...
 
 ![Trump is an enemy of the people](/assets/2018-08-02-lawrence-tribe.jpg "Trump is an enemy of the people")
 
-Source: Lawrence Tribe, via [𝕏](https://x.com)
+Source: Laurence Tribe, via [𝕏](https://x.com)
