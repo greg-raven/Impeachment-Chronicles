@@ -2,8 +2,6 @@
 
 Trump was notified the Capitol was under attack. He remained in the Oval Office dining room for 187" - https://www.dailykos.com/stories/2024/12/15/2292074/-Trump-was-notified-the-Capitol-was-under-attack-He-remained-in-the-Oval-Office-dining-room-for-187
 
-
-
 Panicked CEOs left 'scratching their heads' as Trump ignores their warnings: WSJ - Raw Story - https://www.rawstory.com/trump-ceos-tariffs/
 
 Costco exec warns Trump tariffs would raise costs | Fox Business - https://www.foxbusiness.com/lifestyle/costco-exec-warns-trumps-proposed-tariffs-would-raise-costs
@@ -16,8 +14,9 @@ Romney: ‘Confusion reigns’ on CR as Trump’s direction ‘absent’ - https
 
 DOJ Inspector General Says Schiff and Swalwell Behind Russia Hoax Leaks. - https://thenationalpulse.com/2024/12/17/doj-inspector-general-says-schiff-and-swalwell-behind-russia-hoax-leaks/
 
-
 Report: The Feds Lied About the National Guard on January 6 – PJ Media - https://pjmedia.com/victoria-taft/2024/12/19/j6-loudermilk-finding-n4935221
+
+
 
 Opinion | The Great Capitulation - The New York Times - https://www.nytimes.com/2024/12/16/opinion/trump-tech-leaders-support.html
 
