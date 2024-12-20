@@ -10,14 +10,6 @@ Donald Trump Shares Campaign Video Featuring Image Used by White Supremacist Gro
 
 Romney: ‘Confusion reigns’ on CR as Trump’s direction ‘absent’ - https://www.msn.com/en-us/news/politics/romney-confusion-reigns-on-cr-as-trump-direction-absent/ar-AA1w6Pte
 
-
-
-DOJ Inspector General Says Schiff and Swalwell Behind Russia Hoax Leaks. - https://thenationalpulse.com/2024/12/17/doj-inspector-general-says-schiff-and-swalwell-behind-russia-hoax-leaks/
-
-Report: The Feds Lied About the National Guard on January 6 – PJ Media - https://pjmedia.com/victoria-taft/2024/12/19/j6-loudermilk-finding-n4935221
-
-
-
 Opinion | The Great Capitulation - The New York Times - https://www.nytimes.com/2024/12/16/opinion/trump-tech-leaders-support.html
 
 FreedomWorks Is Closing — And Blaming Trump - POLITICO - https://www.politico.com/news/magazine/2024/05/08/freedomworks-is-closing-and-blaming-trump-00156784
