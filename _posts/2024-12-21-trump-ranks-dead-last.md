@@ -2,7 +2,7 @@
 title: "Trump ranks dead last"
 layout: post
 tags:
-- Amuse
+- Presidential Greatness Project
 ---
 
 Biden is ranked as one of the greatest presidents by the Presidential Greatness Project while Trump ranks dead last. The survey conducted by experts specializing in the presidency, Biden was ranked the 14th-best president, while Trump found himself at the very bottom of the list.
