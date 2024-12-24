@@ -1,3 +1,9 @@
+EXCLUSIVE: FEMA Chief Confirms Multiple ‘Ongoing’ Federal Investigations Into Trump Instructions - https://www.dailywire.com/news/exclusive-fema-chief-confirms-multiple-ongoing-federal-investigations-into-trump-instructions
+
+Warning signs for Trump as Republican rebels defiant - https://www.msn.com/en-us/news/politics/warning-signs-for-trump-as-republican-rebels-defiant/ar-AA1wesRi
+
+Trump's Second Term Plans: Wildest Proposals for 2025 and Beyond - https://www.rollingstone.com/politics/politics-features/trump-second-term-plans-wildest-proposals-1234947327/
+
 'Did he lie?' Trump questioning his price-lowering promises sparks anger - https://www.msn.com/en-us/news/politics/did-he-lie-trump-questioning-his-price-lowering-promises-sparks-anger/ar-AA1vL0jH
 
 Trump was notified the Capitol was under attack. He remained in the Oval Office dining room for 187" - https://www.dailykos.com/stories/2024/12/15/2292074/-Trump-was-notified-the-Capitol-was-under-attack-He-remained-in-the-Oval-Office-dining-room-for-187
@@ -18,6 +24,7 @@ FreedomWorks Is Closing — And Blaming Trump - POLITICO - https://www.politico.
 
 
 *TIME* magazine Trump covers --- https://time.com/5928282/donald-trump-time-covers/
+https://time.com/vault/year/2024/
 - February 27, 2017 Nothing to See Here
 - November 6, 2017 The Wrecking Crew
 - January 22, 2018 Year One
@@ -29,8 +36,10 @@ FreedomWorks Is Closing — And Blaming Trump - POLITICO - https://www.politico.
 - September 3, 2018 In Deep
 - October 7, 2019 (painting himself into a corner)
 - May 25, 2020 There's a Right Way to Reopen American (This Isn't It)
-- June 24, 2024 (gavel coming down on Trump)
-- September 30, 2024 In Trouble
+- May 27, 2024 If He Wins - https://time.com/magazine/us/6979410/may-27th-2024-vol-203-no-17-u-s/
+- June 24, 2024 Donald Trump Convicted in Historic New York Hush-Money Trial - https://time.com/magazine/us/6988424/june-24th-2024-vol-203-no-21-u-s/
+- September 30, 2024 In Trouble - https://time.com/magazine/us/7023172/september-30th-2024-vol-204-no-9-u-s-asia-south-pacific/
+- November 25, 2024 How Trump Won - https://time.com/magazine/us/7176710/november-25th-2024-vol-204-no-17-u-s-south-pacific-europe-middle-east-and-africa/
 
 Kamala Harris' Hitler-Focused Closing Argument Is A Shameful Stain On Her Party - https://www.public.news/p/kamala-harris-hitler-focused-closing
 
@@ -379,3 +388,20 @@ https://youtu.be/ZPlS9MvaeXE?si=bSGo8Y_Lw7F190Ry
 https://youtu.be/Zrf1AColf8M?si=UOUtyK1DblgBHva7
 https://www.youtube.com/watch?v=F659I6pSFmQ
 https://rumble.com/v4wx0gw-the-mainstream-media-can-never-be-trusted.html - The mainstream media can never be trusted
+https://www.youtube.com/watch?v=ffJ3SWe4F-s
+https://www.youtube.com/watch?v=x-nbkZj-FhA
+https://www.youtube.com/watch?v=bQgPa8Bh72M
+https://www.youtube.com/watch?v=za2XuvBDy5U
+https://www.youtube.com/watch?v=J782V-SUlwE
+https://www.youtube.com/watch?v=ktp_hjRshMg
+https://www.youtube.com/watch?v=8kwZPeQnWrQ
+https://www.youtube.com/watch?v=DVbZNScYwEU
+https://www.youtube.com/watch?v=-EFhbvGF8GM
+https://www.youtube.com/watch?v=OoOP5CuEyXg
+https://www.youtube.com/watch?v=MsEgbzj-Fcg
+https://www.youtube.com/watch?v=paZMX4Cq-R4
+https://www.youtube.com/watch?v=HMgluPFBOB4
+https://www.youtube.com/watch?v=hBzuUDkDBuQ
+https://www.youtube.com/watch?v=GER3k6KFmiA
+https://www.youtube.com/watch?v=1WMwNsGcP2g
+https://www.youtube.com/watch?v=nGH6RhAjtC0
