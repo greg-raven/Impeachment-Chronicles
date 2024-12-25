@@ -9,5 +9,5 @@ What people do not seem to understand is that Margorie Taylor Green is simply mo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SBz84THOJ4E?si=yDDS-4bs5hdKllF4" title="Trump wants to be Hitler" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Source: Alex Wagner Tonight (H/T Memology 101 https://youtu.be/SBz84THOJ4E?si=suQWljx5LQrMof7D)
+Source: Alex Wagner Tonight (H/T Memology 101 youtu.be/SBz84THOJ4E?si=suQWljx5LQrMof7D)
 

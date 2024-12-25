@@ -7,7 +7,7 @@ tags:
 
 FEMA claims President Trump lied when he said migrants received funding that would have otherwise went to American citizens. FEMA's website says that, in 2023 alone, $425 million dollars was used for "assisting migrants" through the Emergency Food and Shelter Program (EFSP). FEMA also states it awards funds directly to the EFSP national board. Now, FEMA says it doesn't have enough funding to respond to hurricane season and victims of Hurricane Helene are suffering.
 
-<http://fema.gov/grants/emergency-food-and-shelter-program>
+<https://fema.gov/grants/emergency-food-and-shelter-program>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING NEWS 🚨📰<br><br>FEMA claims President Trump lied when he said migrants received funding that would have otherwise went to American citizens. FEMA&#39;s website says that, in 2023 alone, $425 million dollars was used for &quot;assisting migrants&quot; through the Emergency Food and Shelter… <a href="https://t.co/om5ehMm8e2">pic.twitter.com/om5ehMm8e2</a></p>&mdash; Free the World 🇺🇲🌏🦅 (@PatriotVerity) <a href="https://twitter.com/PatriotVerity/status/1842910642191454320?ref_src=twsrc%5Etfw">October 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

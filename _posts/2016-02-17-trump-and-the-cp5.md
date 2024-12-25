@@ -117,4 +117,4 @@ He was unsurprised that Trump currently leads polling averages by nearly 20 poin
 
 "I thought for a moment: What would this country look like with Donald Trump as being a president? That's a scary thing," Salaam said. "That's a very scary thing."
 
-Source: Oliver Laughland, https://www.theguardian.com/us-news/2016/feb/17/central-park-five-donald-trump-jogger-rape-case-new-york
+Source: Oliver Laughland, theguardian.com/us-news/2016/feb/17/central-park-five-donald-trump-jogger-rape-case-new-york

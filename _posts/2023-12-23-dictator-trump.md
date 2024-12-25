@@ -89,4 +89,4 @@ Joe Biden: And he's using the abuse of power and every element of the the presid
 
 Joe Biden: Um ... we just have to demonstrate that he will not take power ... um ... by ... uh.    if we if he does run.
 
-Source: The Daily Netizen, https://youtu.be/B5D5O8YMvKs?si=kq8ow16t0eYHyqUu
+Source: The Daily Netizen, youtu.be/B5D5O8YMvKs?si=kq8ow16t0eYHyqUu
