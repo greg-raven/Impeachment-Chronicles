@@ -1,5 +1,5 @@
 ---
-title: "NOW you can call him a convicted felon"
+title: "Trump is a convicted felon"
 layout: post
 tags:
 - Ken Dilanian
