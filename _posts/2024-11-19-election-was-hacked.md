@@ -31,7 +31,7 @@ Critically, only 400,000 votes would be need to be added in strategic precincts 
 
 Finally, the other piece of data raising eyebrows is the fact that Trump won all seven swing states --- the first candidate to sweep the board in four decades --- without record voter turnout. Less than 50% of voters chose Trump, with Harris less than 1.7% behind him. One data scientist crunched the numbers:
 
-"It's north of a 35 billion to 1 probability that you could win seven out of seven outside of recount range with less than 50% of the vote."
+> "It's north of a 35 billion to 1 probability that you could win seven out of seven outside of recount range with less than 50% of the vote."
 
 Here's what the experts say happened.
 
@@ -63,7 +63,7 @@ With copies of the software, hackers could then relatively easily develop their 
 
 Election officials across multiple states have already dismissed the claims that tabulating machines are connected to the internet, insisting, then, that adding fake votes would have been impossible. However, Spoonamore, who has run hacks like this in the past, told me that the fact the software was compromised means these machines could have been connected to the internet without the election officials even knowing.
 
-"It's a lie that these machines aren't connected to the internet. They're not supposed to be connected to the internet while they're doing tabulation --- but you don't know what was loaded in there for the software."
+> "It's a lie that these machines aren't connected to the internet. They're not *supposed* to be connected to the internet while they're doing tabulation --- but you don't know what was loaded in there for the software."
 
 *The Hack*
 
@@ -95,16 +95,16 @@ Online, however, American social media users are exhausted by more calls of elec
 
 Yet, voter fraud has a history in the United States, well beyond Trump's claims. Thanks to the Supreme Court, the public still does not know the result of the 2000 election. The 2004 Presidential election and a 2002 Senate election were also decried as fraudulent by experts, including Spoonamore --- to no avail.
 
-"I don't know why John Kerry refused to engage nor why Max Cleland refused to engage. This is the third time I've walked into the public square, poured kerosene on myself and set myself on fire saying, 'Hey, this election was defrauded.' And all three times the same thing has happened. People just run around going, 'Oh my God, don't question elections. Oh my God.' They keep questioning integrity. Well, I was right in 2002 and I was right in 2004."
+> "I don't know why John Kerry refused to engage nor why Max Cleland refused to engage. This is the third time I've walked into the public square, poured kerosene on myself and set myself on fire saying, 'Hey, this election was defrauded.' And all three times the same thing has happened. People just run around going, 'Oh my God, don't question elections. Oh my God.' They keep questioning integrity. Well, I was right in 2002 and I was right in 2004."
 
 Notes:
 
-1. Clara Hendrickson, "[Did data from Georgia voting machine breach play a role in alleged Michigan election plot?]({% post_url https://www.freep.com/story/news/politics/2023/08/31/michigan-and-georgia-voting-machine-breachconnection/70702597007/ %})", The Detroit Free Press, (August 31, 2023).
+1. Clara Hendrickson, "[Did data from Georgia voting machine breach play a role in alleged Michigan election plot?](https://www.freep.com/story/news/politics/2023/08/31/michigan-and-georgia-voting-machine-breachconnection/70702597007/)", The Detroit Free Press, (August 31, 2023).
 
-2. Jeremy Duda, "[Group led by 'kraken' lawyer Sidney Powell hired the firm recounting AZ's election to probe election in Fulton Co]({% post_url https://penncapital-star.com/government-politics/group-led-by-kraken-lawyer-sidney-powell-hiredthe-firm-recounting-azs-election-to-probe-a-pa-election/ %})." Pennsylvania Capital-Star, (May 24, 2021).
+2. Jeremy Duda, "[Group led by 'kraken' lawyer Sidney Powell hired the firm recounting AZ's election to probe election in Fulton Co](https://penncapital-star.com/government-politics/group-led-by-kraken-lawyer-sidney-powell-hiredthe-firm-recounting-azs-election-to-probe-a-pa-election/)." Pennsylvania Capital-Star, (May 24, 2021).
 
-3. Christina A. Cassidy, "[Georgia election indictments highlights wider attempts to illegally access voting equipment]({% post_url https://apnews.com/article/georgia-trump-indictment-voting-machines-conspiracy-theoriesbc3db57cabd25fd8e335f85ed299e79c %})," Associated Press, (August 15, 2023).
+3. Christina A. Cassidy, "[Georgia election indictments highlights wider attempts to illegally access voting equipment](https://apnews.com/article/georgia-trump-indictment-voting-machines-conspiracy-theoriesbc3db57cabd25fd8e335f85ed299e79c)," Associated Press, (August 15, 2023).
 
-4. Maritsa Georgiou, "[Arizona voting system data sent to Montana lab as part of the latest audit]({% post_url https://nbcmontana.com/news/local/arizona-votingsystem-data-sent-to-montana-lab-as-part-of-latest-audit %})," NBC Montana, (June 3, 2021).
+4. Maritsa Georgiou, "[Arizona voting system data sent to Montana lab as part of the latest audit](https://nbcmontana.com/news/local/arizona-votingsystem-data-sent-to-montana-lab-as-part-of-latest-audit)," NBC Montana, (June 3, 2021).
 
 Source: Rachel Donald, planetcritical.com/p/cyber-security-experts-warn-election-hacked
