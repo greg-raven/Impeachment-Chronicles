@@ -19,4 +19,4 @@ Kamala Harris
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AifTTFSQfqw?si=uF5Loz7nBl2gsai4" title="Harris believes Trump is a fascist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Source: Kamala Harris, youtu.be/AifTTFSQfqw?si=rpoZpiQFyGSol23-
+Source: CNN, youtu.be/AifTTFSQfqw?si=rpoZpiQFyGSol23-

@@ -1,4 +1,4 @@
-EXCLUSIVE: FEMA Chief Confirms Multiple ‘Ongoing’ Federal Investigations Into Trump Instructions - https://www.dailywire.com/news/exclusive-fema-chief-confirms-multiple-ongoing-federal-investigations-into-trump-instructions
+EXCLUSIVE: FEMA Chief Confirms Multiple 'Ongoing' Federal Investigations Into Trump Instructions - https://www.dailywire.com/news/exclusive-fema-chief-confirms-multiple-ongoing-federal-investigations-into-trump-instructions
 
 Warning signs for Trump as Republican rebels defiant - https://www.msn.com/en-us/news/politics/warning-signs-for-trump-as-republican-rebels-defiant/ar-AA1wesRi
 
@@ -8,15 +8,15 @@ Trump's Second Term Plans: Wildest Proposals for 2025 and Beyond - https://www.r
 
 Trump was notified the Capitol was under attack. He remained in the Oval Office dining room for 187" - https://www.dailykos.com/stories/2024/12/15/2292074/-Trump-was-notified-the-Capitol-was-under-attack-He-remained-in-the-Oval-Office-dining-room-for-187
 
-Panicked CEOs left 'scratching their heads' as Trump ignores their warnings: WSJ - Raw Story - https://www.rawstory.com/trump-ceos-tariffs/
+Panicked CEOs left 'scratching their heads' as Trump ignores their warnings - https://www.rawstory.com/trump-ceos-tariffs/
 
 Costco exec warns Trump tariffs would raise costs | Fox Business - https://www.foxbusiness.com/lifestyle/costco-exec-warns-trumps-proposed-tariffs-would-raise-costs
 
 Donald Trump Shares Campaign Video Featuring Image Used by White Supremacist Group - Newsweek - https://www.newsweek.com/donald-trump-shares-campaign-video-featuring-image-used-white-supremacist-group-1456785
 
-Romney: ‘Confusion reigns’ on CR as Trump’s direction ‘absent’ - https://www.msn.com/en-us/news/politics/romney-confusion-reigns-on-cr-as-trump-direction-absent/ar-AA1w6Pte
+Romney: 'Confusion reigns' on CR as Trump's direction 'absent' - https://www.msn.com/en-us/news/politics/romney-confusion-reigns-on-cr-as-trump-direction-absent/ar-AA1w6Pte
 
-Opinion | The Great Capitulation - The New York Times - https://www.nytimes.com/2024/12/16/opinion/trump-tech-leaders-support.html
+The Great Capitulation - The New York Times - https://www.nytimes.com/2024/12/16/opinion/trump-tech-leaders-support.html
 
 FreedomWorks Is Closing — And Blaming Trump - POLITICO - https://www.politico.com/news/magazine/2024/05/08/freedomworks-is-closing-and-blaming-trump-00156784
 
@@ -221,8 +221,6 @@ Trump's 88 criminal charges and where they stand - CREW | Citizens for Responsib
 Millions at risk of losing health insurance after Trump's victory - https://www.nbcnews.com/health/health-news/millions-risk-losing-health-insurance-trumps-victory-rcna179146
 
 Stock Market Tanks as Trump Unveils Nightmare Cabinet Picks | The New Republic - https://newrepublic.com/post/188492/stock-market-tanks-trump-cabinet
-
-Cyber-Security Experts Warn Election Was Hacked - https://www.planetcritical.com/p/cyber-security-experts-warn-election-hacked
 
 'In the dark': Trump team reportedly getting 'blocked' after transition's ethics 'failure' - Raw Story - https://www.rawstory.com/trump-in-the-dark-ethics/
 
