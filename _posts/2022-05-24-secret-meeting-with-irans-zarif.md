@@ -21,7 +21,7 @@ The key here is "former" --- and the date, October 2018, right in the middle of 
 
 The newly obtained memo, regarding the secret meeting between Zarif and these former U.S. officials, included discussions of nuclear weapons, potential prisoner swaps, Afghanistan withdrawal and negotiations with the Taliban, Houthi rebels, Syria, Suleimani's popularity in Iran, and the "region in turmoil."
 
-Former Secretary of State Mike Pompeo --- now ACLJ Senior Counsel for Global Affairs --- reviewed this memo and reacted by calling this discovery "a big deal for sure." He continued: "This is exactly what we were fighting. . . . The arrogance. The indecency. The hatred of Israel."
+Former Secretary of State Mike Pompeo --- now ACLJ Senior Counsel for Global Affairs --- reviewed this memo and reacted by calling this discovery "a big deal for sure." He continued: "This is exactly what we were fighting. ... The arrogance. The indecency. The hatred of Israel."
 
 This is precisely why we sent this FOIA request: to uncover actions of then-former U.S. diplomats --- those who worked for the Obama-Biden Administration but who then went to work undermining President Trump and the core policies he campaigned on and succeeded. Kerry himself admitted his part in this scheme. And here we obtained a memo showing just that: an off-the-record meeting between Zarif and "former" U.S. diplomats right in the middle of the Trump Administration and during the time President Trump was working through the aftermath of withdrawing the United States from the farce known as the Joint Comprehensive Plan of Action (JCPOA) --- the Iran nuclear deal.
 
