@@ -1,5 +1,5 @@
 ---
-title: "Journalists also fell for Danchenko's mythical dossier source"
+title: "Journalists who fell for Danchenko's mythical dossier source"
 layout: post
 tags:
 - Paul Sperry
