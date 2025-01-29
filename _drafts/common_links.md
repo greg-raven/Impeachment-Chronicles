@@ -9,3 +9,5 @@
 [Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %})
 
 [//]: # (comment goes here)
+
+[fascism](https://www.gregraven.org/stories/definitionisms.html)

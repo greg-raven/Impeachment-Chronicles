@@ -15,44 +15,44 @@ YOU'RE FOCUSING ON THE WRONG THING. IN FACT, YOU'RE BEING PLAYED. THEY HAVE BEEN
 
 ![You're focusing on the thing thing](/assets/2025-01-25-02-this-is-fascism.jpg "You're focusing on the thing thing")
 
-THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms). A FAR-RIGHT [*sic*], AUTHORITARIAN, AND ULTRA-NATIONALIST POLITICAL IDEOLOGY AND MOVEMEN [*sic*] CHARACTERIZED BY A DICTATORIAL LEADER
+THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms.html). A FAR-RIGHT [*sic*], AUTHORITARIAN, AND ULTRA-NATIONALIST POLITICAL IDEOLOGY AND MOVEMEN [*sic*] CHARACTERIZED BY A DICTATORIAL LEADER
 
 ![Mussolini and Hitler](/assets/2025-01-25-03-this-is-fascism.jpg "Mussolini and Hitler")
 
-UNWAVERING LOYALTY TO A LEADER WHO IS BELIEVED TO BE POWERFUL, INFALLIBLE, AND NEVER MAKES MISTAKES. THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms).
+UNWAVERING LOYALTY TO A LEADER WHO IS BELIEVED TO BE POWERFUL, INFALLIBLE, AND NEVER MAKES MISTAKES. THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms.html).
 
 ![Donald J. Trump](/assets/2025-01-25-04-this-is-fascism.jpg "Donald J. Trump")
 
-THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms). CONTROL OF MASS MEDIA AND UNDERMINING OF THE TRUTH. RESULTS IN
+THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms.html). CONTROL OF MASS MEDIA AND UNDERMINING OF THE TRUTH. RESULTS IN
 FRAUDULENT ELECTIONS.
 
 ![Elon Musk](/assets/2025-01-25-05-this-is-fascism.jpg "Elon Musk")
 
-OBSESSION WITH PERCEIVED NATIONAL DECLINE, HUMILIATION, AND VICTOMHOOD [*sic*]. GLORIFIES VIOLENCE AS REDEMPTIVE. THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms).
+OBSESSION WITH PERCEIVED NATIONAL DECLINE, HUMILIATION, AND VICTOMHOOD [*sic*]. GLORIFIES VIOLENCE AS REDEMPTIVE. THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms.html).
 
 ![Red shirts](/assets/2025-01-25-06-this-is-fascism.jpg "Red shirts")
 
-THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms). SEEKS TO EXPAND TERRITORY THROUGH ARMED CONFLICT. RELIGION AND GOVERNMENT ARE INTERTWINED.
+THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms.html). SEEKS TO EXPAND TERRITORY THROUGH ARMED CONFLICT. RELIGION AND GOVERNMENT ARE INTERTWINED.
 
 ![Netanyahu](/assets/2025-01-25-07-this-is-fascism.jpg "Netanyahu")
 
-RAMPANT CORRUPTION AND CRONYISM. LOYALTY TO THE LEADER IS PARAMOUNT, AND MORE IMPORTANT THAN COMPETENCE. THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms).
+RAMPANT CORRUPTION AND CRONYISM. LOYALTY TO THE LEADER IS PARAMOUNT, AND MORE IMPORTANT THAN COMPETENCE. THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms.html).
 
 ![ADL](/assets/2025-01-25-08-this-is-fascism.jpg "ADL")
 
-THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms). POLITICAL POWER DERIVED FROM QUESTIONING REALITY, CREATING MYTHS, AND ENDORSING LIES.
+THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms.html). POLITICAL POWER DERIVED FROM QUESTIONING REALITY, CREATING MYTHS, AND ENDORSING LIES.
 
 ![Gadsden Flag](/assets/2025-01-25-09-this-is-fascism.jpg "Gadsden Flag")
 
-THE THREAT OF "WHITE REPLACEMENT" USED TO OPPOSE RACIAL AND RELIGIOUS FREEDOM. THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms).
+THE THREAT OF "WHITE REPLACEMENT" USED TO OPPOSE RACIAL AND RELIGIOUS FREEDOM. THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms.html).
 
 ![ICE officer](/assets/2025-01-25-10-this-is-fascism.jpg "ICE officer")
 
-THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms). DISDAIN FOR HUMAN RIGHTS AND IDENTIFICATION OF "ENEMIES" THAT ARE USED AS SCAPEGOATS TO UNIFY THE NATION.
+THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms.html). DISDAIN FOR HUMAN RIGHTS AND IDENTIFICATION OF "ENEMIES" THAT ARE USED AS SCAPEGOATS TO UNIFY THE NATION.
 
 ![NPCs](/assets/2025-01-25-11-this-is-fascism.jpg "NPCs")
 
-OPPOSITION TO ANY INITIATIVE OR INSTITUTION THAT PROMOTES RACIAL, ETHNIC, OR RELIGIOUS EQUALITY. THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms).
+OPPOSITION TO ANY INITIATIVE OR INSTITUTION THAT PROMOTES RACIAL, ETHNIC, OR RELIGIOUS EQUALITY. THIS IS [FASCISM](https://www.gregraven.org/stories/definitionisms.html).
 
 ![All roads lead to DEI](/assets/2025-01-25-12-this-is-fascism.jpg "All roads lead to DEI")
 
