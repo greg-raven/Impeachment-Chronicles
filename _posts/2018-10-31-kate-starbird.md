@@ -17,7 +17,7 @@ Vote, because I'm sure you can see how the GOP rhetoric around health care is me
 
 Vote, like you understand deep down that the lies this President tells over and over again (and that current GOP congresspeople don't push back against) are not frivolous, or funny, but intentional and strategic. Because you understand that these conspiracy theories that he has brought into mainstream discourse have real world consequences --- that they are designed to feed a way of thinking about "others" and a way of thinking about the world, that ensures his power. That those "others" will be a moving target and eventually they will come for you or someone you care about.
 
-Vote, like you understand the rise of fascism and white nationalism is happening all over the world, and that if we cannot stop it here, it won't be stopped.
+Vote, like you understand the rise of [fascism](https://www.gregraven.org/stories/definitionisms) and white nationalism is happening all over the world, and that if we cannot stop it here, it won't be stopped.
 
 Vote, because our country, our values, and even our freedom depends upon it. Your children's lives depend upon it. And if you cannot see these, then because I promise you that as a LGBT person my rights depend upon it.
 

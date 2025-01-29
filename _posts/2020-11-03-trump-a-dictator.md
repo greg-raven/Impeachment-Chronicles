@@ -31,7 +31,7 @@ Last month, Biden compared Trump to German Nazi politician and Reich Minister of
 
 **2\. Ruth Ben-Ghiat: 'He slowly chipped away at democratic institutions'**
 
-*Historian and scholar on fascism and authoritarian leaders*
+*Historian and scholar on [fascism](https://www.gregraven.org/stories/definitionisms) and authoritarian leaders*
 
 Speaking to *Insider,* Ben-Ghiat compared Trump to Mussolini:
 
