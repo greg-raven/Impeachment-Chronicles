@@ -1,5 +1,5 @@
 ---
-title: "<#Title#>"
+title: "Trump has inflamed violence"
 layout: post
 tags:
 - Mariann Budde

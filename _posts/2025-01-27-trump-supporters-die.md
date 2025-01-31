@@ -2,7 +2,7 @@
 title: "Trump supporters choke and die"
 layout: post
 tags:
-- <#Author#>
+- Pamila Pahuja
 ---
 
 Teacher at <a href="https://twitter.com/3vcsd?ref_src=twsrc%5Etfw">@3vcsd</a> was just placed on leave until further notice after she wished for all Trump supporters to choke and die.
