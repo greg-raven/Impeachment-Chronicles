@@ -228,6 +228,157 @@ Jack Smith moves to abandon two criminal cases against Trump | AP News - https:/
 
 Biggest Loser in DOJ History Takes a Final L on His Way Out the Door - https://www.declassified.live/p/biggest-loser-in-doj-history-takes
 
+Trump's Sad, Pitiful Post on Social Media Almost Makes The Internet Feel Bad For Him ... Almost - https://www.politicalflare.com/2024/12/trumps-sad-pitiful-post-on-social-media-almost-makes-the-internet-feel-bad-for-him-almost/
+
+Trump's shutdown gamble exposes limits of his power - https://sg.news.yahoo.com/warning-signs-trump-republican-rebels-152114835.html
+
+Trump's call to bust budget cap fiscally irresponsible – Daily News - https://www.dailynews.com/2024/12/22/trumps-call-to-bust-budget-cap-fiscally-irresponsible/
+
+Keep DC trash-free --- https://www.thegatewaypundit.com/2024/12/dc-department-transportation-scrambles-after-outrage-keep-dc/
+
+Trump Voters Are in for a Rude Awakening | The New Republic - https://newrepublic.com/article/189523/trump-voters-2025-rude-awakening
+
+Insurrection on Donald Trump - https://youtu.be/dmWpqBBgR98?si=kAQA7lZ5q1etB3UE
+
+Trump and GOP allies falsely blame New Orleans attack on immigration failures - https://www.nbcnews.com/politics/national-security/trump-gop-allies-falsely-blame-new-orleans-attack-immigration-failures-rcna186022
+
+DOJ watchdog says FBI had 26 confidential sources in DC for Jan. 6 riot -- but no evidence of undercover agents - https://nypost.com/2024/12/12/us-news/doj-watchdog-says-fbi-had-26-confidential-sources-in-dc-for-jan-6-riot-but-no-evidence-of-undercover-agents/
+
+Phoenix billboard depicts Donald Trump, Nazi-like symbols - https://www.eveningtribune.com/story/news/local/phoenix/2017/03/17/billboard-depicts-trump-nazi-like-symbols-karen-fiorito/99326126/
+
+Insurrectionist Democrats: Most oppose certifying a Trump reelection - Washington Examiner - https://www.washingtonexaminer.com/news/washington-secrets/2913791/insurrectionist-democrats-most-oppose-certifying-a-trump-reelection/
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Starting Jan 20th Air Force one will be renamed Con Air and the White House will be The Big House.</p>&mdash; who dis? new phone. (@notjeffredfruit) <a href="https://twitter.com/notjeffredfruit/status/1878296757110513930?ref_src=twsrc%5Etfw">January 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+https://www.youtube.com/shorts/a5vjNY1por0
+https://www.youtube.com/watch?v=qktluMDn-HE
+https://www.youtube.com/watch?v=nmMfMwQnE08
+https://www.youtube.com/watch?v=Oz-6YgxS9M4
+https://www.youtube.com/watch?v=TzCnhFki8XI
+https://www.youtube.com/watch?v=gsrK-PHMKFA
+https://www.patreon.com/posts/sneak-peek-trump-120659870
+https://www.youtube.com/watch?v=d2Gt0r3hlfA
+https://www.youtube.com/watch?v=U4OOXyhMuiU
+https://www.youtube.com/watch?v=P-GA730hPm8
+https://www.youtube.com/watch?v=i01AxnkEHtw
+https://www.youtube.com/watch?v=xoGg5VMQmQU
+https://www.youtube.com/watch?v=wbDgtlysi7k
+https://www.youtube.com/watch?v=sEFtzHe38yE
+https://www.youtube.com/watch?v=RNvoF9WJC8Q
+https://www.youtube.com/watch?v=Tn7wJorl7Uc
+https://www.youtube.com/watch?v=CdAxI8gO3H0
+https://www.youtube.com/watch?v=l9UDwkVm8nI
+https://www.youtube.com/watch?v=HwvWlLrCtB8
+https://www.youtube.com/watch?v=rA-jTLHqjgs
+https://www.youtube.com/watch?v=f504a9XKwAw
+https://www.youtube.com/watch?v=HcY5CJCYHS4
+https://www.youtube.com/watch?v=3dDmGDOQkaA
+https://www.youtube.com/watch?v=a5vjNY1por0
+https://www.youtube.com/watch?v=PWGzR1O6sdI
+https://www.youtube.com/watch?v=bH1PF58odz4
+https://www.youtube.com/watch?v=89yyGisX_ok
+https://www.youtube.com/watch?v=lBo2shlNABM
+https://www.youtube.com/watch?v=lmcnJW9vaag
+https://www.youtube.com/watch?v=Pg4mwT4Vanw
+https://www.youtube.com/watch?v=3TGPCpUojbo
+https://www.youtube.com/watch?v=bm33-dnHi3k
+https://www.youtube.com/watch?v=34JqlB-IJHA
+https://www.youtube.com/watch?v=xFMPYQ5si5o
+https://www.youtube.com/watch?v=dkv_kY-Cktg
+https://www.youtube.com/watch?v=qHTo-xYctYE
+https://www.youtube.com/watch?v=6Sl1_CcO8Sk
+https://www.youtube.com/watch?v=8xuR8YZ4jRo
+https://www.youtube.com/watch?v=FwgGsYypc8A
+https://www.youtube.com/watch?v=939GR_GRkuE
+https://www.youtube.com/watch?v=jtawcG1OGjM
+https://www.youtube.com/watch?v=FSxiv76RqJw
+https://www.youtube.com/watch?v=XAJvfVgR5_g
+https://www.youtube.com/watch?v=_Aq6UPdizoo
+https://www.youtube.com/watch?v=RmAk8FtdB3o
+https://www.youtube.com/watch?v=8efk1oXAcm8
+https://www.youtube.com/watch?v=rfIVrleuajY
+https://youtu.be/S1NQtD9NKaU?si=A1frfjuLz5tNNpTf
+https://www.youtube.com/watch?v=E4OYLGMUTeM
+https://www.youtube.com/watch?v=9HyUSl-S1G8
+https://www.youtube.com/watch?v=ED7Zqe7r3BM
+
+
+
+
+Juan Merchan Sentences Trump: No Penalty, Conviction Upheld - https://www.breitbart.com/law-and-order/2025/01/10/merchan-sentences-trump-to-unconditional-discharge-upholding-conviction/
+
+Trump supporters' travel expenses paid for Jan. 6 rally: new evidence - https://www.usatoday.com/story/news/politics/elections/2024/10/18/donald-trump-election-interference-case-new-evidence/75714784007/
+
+Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump in new filing | CNN Politics - https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html
+
+Special counsel releases trove of redacted documents in 2020 election subversion case against Trump | CNN Politics - https://www.cnn.com/2024/10/18/politics/donald-trump-special-counsel-evidence-documents-release/index.html
+
+
+
+https://youtu.be/hsfkUTBCu2I?si=xmlMcnCpgyWWC1Oh
+Mariann Budde:
+: We we are upset about the fire as well but that is not our primary focus. Our primary focus is the reason behind the fundamental reasons behind uh the protests in our country right now I see to that the president's counselor Kellyanne Conway is saying ... uh ... for ... for people to question what the president did to call it a photo op or a photo opportunity is to question his faith is that what you're doing are you questioning the president's Faith No I'm challenging his actions and I I'm I am I am saying to him and to all who will listen that uh the Gospel of Jesus and the teachings of the scripture are antithetical to the messages that he is communicating and the way he is is responding to people in this in this moment and that there is no spiritual mantle of Authority for the actions that he had just moments before said that he would take you you told the Washington Post yesterday and I'm quoting everything this president has said and done is to inflame violence we need moral leadership and he's done everything to divide us is there any way to to begin to heal this breach that that you're describing well you know we see examples of people attempting that across the country um the police officials and officers who are moving into the crowds to speak to them the people who are acknowledging pain and seeking to make um fundamental change for the good of the nation and in particular for the um for the safety and dignity of black and brown people in this country so yes there are any number of steps that any one of us can make including the president to heal the breach uh but it isn't um it isn't by inflaming emotions it's trying to bring them down and trying to offer a word of unity rather than ... um ... rather than division. Mariann Budde, June 2, 2020
+
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Ftom.padilla.5%2Fposts%2Fpfbid02h7TQ8qJS6FeBwnFxmZccX2v9f8MboBLtWXkZoGFEU2vbBy3mdwcbrEd9gE11Qs2kl&show_text=true&width=500" width="500" height="158" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+[Wall Street's Big Hope Is Trump Pulls His Punches on Immigration - Bloomberg](https://www.bloomberg.com/news/articles/2025-01-26/wall-street-s-big-hope-is-trump-pulls-his-punches-on-immigration)
+Wall Street's Big Hope Is Trump Pulls His Punches on Immigration
+
+- Deportations have broad support and were key campaign promise Impact would be close to pandemic era, Siebert's Malek says
+
+January 26, 2025
+
+President Donald Trump's immigration policies would likely have devastating effects on Corporate America's growth and earnings, but investors haven't been perturbed yet --- largely because they don't believe he'll follow through on the full extent of his plans.
+
+It's a gamble that would be costly to lose, strategists and analysts say, with mass deportations likely upending industries as varied as service-heavy hospitality and leisure, and labor-intensive agriculture, food production, manufacturing and construction.
+
+[...]
+
+Source: Esha Dey, bloomberg.com/news/articles/2025-01-26/wall-street-s-big-hope-is-trump-pulls-his-punches-on-immigration
+
+
+
+[US election 2020: Latest news on the Trump-Biden transition | CNN Politics](https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20#h_d58f958cc30c727786086bc83e861f84)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No cheaper eggs. No cheaper gas. No affordable housing plans. War in Ukraine not over in 24 hours. But he did release 1,500 domestic terrorists, raise the price of insulin and 50 other drugs by a few 1000% and rename the Gulf of Mexico. <a href="https://t.co/E4BFk8t5uw">https://t.co/E4BFk8t5uw</a></p>&mdash; Jeffrey Levy 🇺🇸 🌊 🇮🇱 (@jeffreymlevy) <a href="https://twitter.com/jeffreymlevy/status/1881812150173508009?ref_src=twsrc%5Etfw">January 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Egg are more expensive and there’s still a war in Ukraine, but at least he reversed decades old protections against workplace discrimination, freed the Jan. 6th terrorists, made medication more expensive, got into a fight with a pastor and shut down our public health agencies.</p>&mdash; Jo (@JoJoFromJerz) <a href="https://twitter.com/JoJoFromJerz/status/1882468176379986292?ref_src=twsrc%5Etfw">January 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Eggs are more expensive, there’s still a war in Ukraine, Douchebag reversed decades-old protections against workplace discrimination, freed the J6 terrorists and criminals, made meds more expensive, got into a fight with a Bishop and shut down our public health agencies. Winning! <a href="https://t.co/lIJ3kfpEMW">https://t.co/lIJ3kfpEMW</a> <a href="https://t.co/JhR0ccdUsA">pic.twitter.com/JhR0ccdUsA</a></p>&mdash; Gary S. Kadet (@GaryScottKadet) <a href="https://twitter.com/GaryScottKadet/status/1882928984893362319?ref_src=twsrc%5Etfw">January 24, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">SCOOP: Teacher at <a href="https://twitter.com/3vcsd?ref_src=twsrc%5Etfw">@3vcsd</a> was just placed on leave until further notice after she wished for all Trump supporters to choke and die. <a href="https://t.co/U69Pmo6aPA">pic.twitter.com/U69Pmo6aPA</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1883733683775156340?ref_src=twsrc%5Etfw">January 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+[Donald Trump is the GOP’s chemotherapy - The Washington Post](https://www.washingtonpost.com/opinions/donald-trumps-vile-candidacy-is-chemotherapy-for-the-gop/2016/10/10/73e40f30-8f05-11e6-9c85-ac42097b8cc0_story.html)
+
+[President Trump’s Lies, the Definitive List - The New York Times](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html)
+
+[Statues of Washington, Jefferson Aren't 'Next,' But It's Complicated, Historians Say](https://www.nbcnews.com/politics/white-house/statues-washington-jefferson-aren-t-next-it-s-complicated-historians-n793971)
+
+[Robert Reich on Twitter: "Trump's lies have consequences. 48 hrs after his comments on Sweden, riots broke out in an immigrant community. https://t.co/1k2BOl2jdw"](https://archive.is/pvycQ)
+
+[Harris calls Trump a 'fascist' at CNN town hall, argues he's unfit for office](https://www.nbcnews.com/politics/2024-election/kamala-harris-calls-trump-fascist-argues-dangerous-unfit-office-rcna176713)
+
+[Donald Trump’s Muslim Ban Is Cowardly and Dangerous - The New York Times](https://www.nytimes.com/2017/01/28/opinion/donald-trumps-muslim-ban-is-cowardly-and-dangerous.html)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hey Ken Paxton the fucking election was rigged you jack ass by Elon Musk. <a href="https://twitter.com/hashtag/Trump?src=hash&amp;ref_src=twsrc%5Etfw">#Trump</a> is not a legitimate president. <a href="https://twitter.com/hashtag/TrumpCheated?src=hash&amp;ref_src=twsrc%5Etfw">#TrumpCheated</a> <br>You fucks are evil incarnates. <a href="https://t.co/aCCWbSUrG5">pic.twitter.com/aCCWbSUrG5</a></p>&mdash; Leslie D Ⓥ (@consciencevegan) <a href="https://twitter.com/consciencevegan/status/1882275451508527283?ref_src=twsrc%5Etfw">January 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump admitted he cheated with the help from a Elon.<br> <a href="https://t.co/dvG6UMlxQP">pic.twitter.com/dvG6UMlxQP</a></p>&mdash; Political Cat Daddy (@PoliticalCatTN) <a href="https://twitter.com/PoliticalCatTN/status/1881170690973614251?ref_src=twsrc%5Etfw">January 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">trump basically admitting that he cheated <a href="https://t.co/pUh47JHscY">pic.twitter.com/pUh47JHscY</a></p>&mdash; hawa🪞 (@diorbabe66) <a href="https://twitter.com/diorbabe66/status/1854333174744224104?ref_src=twsrc%5Etfw">November 7, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You can’t make this up. Notorious tax cheat Ed Krassenstein is worried that others might cheat on their taxes if Trump reroutes 88,000 IRS agents to the border. <a href="https://t.co/WQ54J5pYY4">pic.twitter.com/WQ54J5pYY4</a></p>&mdash; Bad Hombre (@joma_gc) <a href="https://twitter.com/joma_gc/status/1883486252038766995?ref_src=twsrc%5Etfw">January 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🧵<br>HERE&#39;S A THREAD EXPOSING DONALD TRUMP FOR CHEATING MULTIPLE TIMES IN THIS ELECTION, HE CHEATED THIS WHOLE TIME<br><br>PLEASE LIKE + RETWEET 🔁<br><br>DON&#39;T LET HIM GET AWAY WITH THIS <a href="https://t.co/Q3G0APLzeL">https://t.co/Q3G0APLzeL</a> <a href="https://t.co/gCEPMYSTE2">pic.twitter.com/gCEPMYSTE2</a></p>&mdash; Springtrap (@Espaking2) <a href="https://twitter.com/Espaking2/status/1854287198331515005?ref_src=twsrc%5Etfw">November 6, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Trump's funding freeze creates widespread confusion - https://www.nbcnews.com/politics/donald-trump/trump-federal-funding-freeze-widespread-confusion-rcna189581
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="659"><a href="https://www.reddit.com/r/inflation/comments/1i6m6xp/its_january_22nd/">It's January 22nd</a><br> by<a href="https://www.reddit.com/user/Subinatori/">u/Subinatori</a> in<a href="https://www.reddit.com/r/inflation/">inflation</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+see downloaded graphic
 
 
 
