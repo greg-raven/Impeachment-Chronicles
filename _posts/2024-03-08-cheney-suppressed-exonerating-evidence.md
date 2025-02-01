@@ -57,7 +57,7 @@ Once the Capitol was breached, the Trump White House pushed for immediate help f
 
 Still later, he said, "[T]he constant was, you know, where is the National Guard? Why isn't --- you know, we've got to get control of this." And again, "But, you know, [Meadows] understood the urgency, that's for sure. And he kept, you know, getting Miller on the phone, wanting to know where they were, why aren't they there yet."
 
-Days prior, Cheney had "secretly orchestrated" a pressure campaign to prevent the Defense Department from deploying resources on January 6, 2021. She organized an op-ed for the Washington Post from her father and other former secretaries of defense specifically to discourage Miller from taking action.
+Days prior, Cheney had "secretly orchestrated" a pressure campaign to prevent the Defense Department from deploying resources on January 6, 2021. She organized an op-ed for *The Washington Post* from her father and other former secretaries of defense specifically to discourage Miller from taking action.
 
 Ornato described Meadows' strenuous efforts to quicken the Defense Department's deployment of the National Guard: "Every time [Meadows] would ask, 'What's taking so long?' It would be, like, you know, 'This isn't just start the car and we're there. We have to muster them up, we have to' --- so it was constant excuses coming of --- not excuses, but what they were actually doing to get them there. So, you know, 'We only have so many here right now. They're given an hour to get ready.' So there's, like, all these timelines that was being explained to the chief. And he relayed that, like, you know --- he's like, 'I don't care, just get them here,' you know, and 'Get them to the Capitol, not to the White House.'"
 

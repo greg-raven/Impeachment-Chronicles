@@ -11,7 +11,7 @@ In a disclosure to the House Judiciary Committee, the whistleblower said Jeffrey
 
 The whistleblower called Mr. Veltri "adamantly and vocally anti-Trump" and said FBI Director Christopher A. Wray, Deputy Director Paul Abbate and Executive Assistant Director Jennifer Moore were involved in directing Mr. Veltri to cleanse his social media.
 
-"The home of President Donald Trump is located in the area of responsibility of the Miami Field Office. It was well known that Veltri was adamantly and vocally Anti-Trump," said the disclosure, which The Washington Times has obtained. "Wray, Abbate and Moore wanted to ensure that Veltri appeared non-political, Veltri was ordered to remove all of his Facebook and Social media posts that were Anti-Trump."
+"The home of President Donald Trump is located in the area of responsibility of the Miami Field Office. It was well known that Veltri was adamantly and vocally Anti-Trump," said the disclosure, which *The Washington Times* has obtained. "Wray, Abbate and Moore wanted to ensure that Veltri appeared non-political, Veltri was ordered to remove all of his Facebook and Social media posts that were Anti-Trump."
 
 The whistleblower said the bureau leaders weren't concerned about Mr. Veltri's "bias against Trump" but whether "information related to Veltri's political bias can be removed from the public domain."
 

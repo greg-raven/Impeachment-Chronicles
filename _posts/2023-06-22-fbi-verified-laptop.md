@@ -11,7 +11,7 @@ Investigators probing President Biden's son for tax fraud and other crimes were 
 
 "The computer guy said that they could do a CSV list that shows when everything was created ... the whole discussion was about can we rely on this information on the laptop, is it Hunter Biden's? And their opinion was, it was, and it was not manipulated in any way," he said.
 
-Shapley confirmed key details in the chronology of the laptop, whose existence was first reported by The Post in October 2020 but dismissed as a "Russian plant" by then-presidential candidate Joe Biden.
+Shapley confirmed key details in the chronology of the laptop, whose existence was first reported by *The Post* in October 2020 but dismissed as a "Russian plant" by then-presidential candidate Joe Biden.
 
 "In October 2019, the FBI became aware that a repair shop had a laptop allegedly belonging to Hunter Biden and that the laptop might contain evidence of a crime. The FBI verified its authenticity in November of 2019 by matching the device number against Hunter Biden's Apple iCloud ID," Shapley said.
 

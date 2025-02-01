@@ -31,7 +31,7 @@ Sounds familiar, if you swap in Obama for Fethullah Gülen.
 
 If you mean entrenched bureaucracy, then of course there is. If you mean a government-wide conspiracy, then the answer is almost certainly no.
 
-Longtime Washington Post columnist and nightly Fox News panelist Charles Krauthammer calls the notion ridiculous.
+Longtime *Washington Post* columnist and nightly Fox News panelist Charles Krauthammer calls the notion ridiculous.
 
 "I don't believe in the tooth fairy, the Knights Templar, Bilderberg, the Protocols of the Elders of Zion, a vast right wing conspiracy, or, for that matter, a vast left wing conspiracy," Krauthammer tells Rolling Stone. "Are there in the U.S. government individual bureaucrats that are Democratic holdovers that would love nothing more than to damage Trump? Yeah, of course there are. Is there a concealed web of conspirators, malevolent permanent hidden shadow government? Rubbish. And I would add that Lee Harvey Oswald acted alone without the help of Ted Cruz's father."
 

@@ -41,7 +41,7 @@ In September, Hunter filed a lawsuit against Rudy Giuliani, alleging the former 
 
 The complaint claims Giuliani is "primarily responsible" for the "total annihilation" of Hunter's digital privacy, while also naming Robert Costello, a former federal prosecutor who previously represented the former New York City mayor, as a defendant.
 
-Giuliani and Costello have openly acknowledged that they obtained copies of files from a hard drive device that Biden allegedly left at a Delaware computer repair shop in 2019. Giuliani provided that information to the Post in October 2020, which published a story based on Hunter Biden's emails that implicated President Biden in a business deal with a Ukrainian company that had hired Hunter on its board.
+Giuliani and Costello have openly acknowledged that they obtained copies of files from a hard drive device that Biden allegedly left at a Delaware computer repair shop in 2019. Giuliani provided that information to *The Post* in October 2020, which published a story based on Hunter Biden's emails that implicated President Biden in a business deal with a Ukrainian company that had hired Hunter on its board.
 
 Before federal agents picked up the device, Mac Isaac made a copy of its hard drive and gave it to Giuliani the following year.
 

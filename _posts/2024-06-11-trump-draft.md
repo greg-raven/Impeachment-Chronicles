@@ -22,7 +22,7 @@ Trump has been complimentary of Miller's performance during his administration a
 
 [...]
 
-On Tuesday, after publication of this report, Trump wrote on social media that the idea he would call for mandatory military service was "ridiculous" and attacked The Washington Post for what he said was a "failed attempt to damage me with the Voters."
+On Tuesday, after publication of this report, Trump wrote on social media that the idea he would call for mandatory military service was "ridiculous" and attacked *The Washington Post* for what he said was a "failed attempt to damage me with the Voters."
 
 "In fact," he said, "I never even thought of that idea."
 

@@ -5,7 +5,7 @@ tags:
 - Cameron Cawthorne
 ---
 
-Rep. Maxine Waters (D., Calif.) on Tuesday spoke at the Center for American Progress Ideas Conference in Washington, where she claimed that Monday's Washington Post report on President Trump sharing classified intelligence with Russian diplomats moves Congress closer to impeaching him.
+Rep. Maxine Waters (D., Calif.) on Tuesday spoke at the Center for American Progress Ideas Conference in Washington, where she claimed that Monday's *Washington Post* report on President Trump sharing classified intelligence with Russian diplomats moves Congress closer to impeaching him.
 
 "We don't have to be afraid to use the word impeachment," Waters said. "We don't have to think that impeachment is out of our reach. All we have to do is make sure that we are talking to the American public, that we are keeping them involved, that we are resisting every day, and we are challenging every day."
 

@@ -5,9 +5,9 @@ tags:
 - Paul Farhi
 ---
 
-The *Washington Post* on Friday took the unusual step of correcting and removing large portions of two articles, published in March 2017 and February 2019, that had identified a Belarusian American businessman as a key source of the "[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %})," a collection of largely unverified reports that claimed the Russian government had compromising information about then-candidate Donald Trump.
+*The Washington Post* on Friday took the unusual step of correcting and removing large portions of two articles, published in March 2017 and February 2019, that had identified a Belarusian American businessman as a key source of the "[Steele dossier]({% post_url 2016-06-20-the-steele-dossier %})," a collection of largely unverified reports that claimed the Russian government had compromising information about then-candidate Donald Trump.
 
-The newspaper's executive editor, Sally Buzbee, said The Post could no longer stand by the accuracy of those elements of the story. It had identified businessman Sergei Millian as "Source D," the unnamed figure who passed on the most salacious allegation in the dossier to its principal author, former British intelligence officer Christopher Steele.
+The newspaper's executive editor, Sally Buzbee, said *The Post* could no longer stand by the accuracy of those elements of the story. It had identified businessman Sergei Millian as "Source D," the unnamed figure who passed on the most salacious allegation in the dossier to its principal author, former British intelligence officer Christopher Steele.
 
 The story's headline was amended, sections identifying Millian as the source were removed, and an accompanying video summarizing the article was eliminated. An editor's note explaining the changes was added. Other stories that made the same assertion were corrected as well.
 

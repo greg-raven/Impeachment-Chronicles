@@ -26,13 +26,13 @@ We covered the influence peddling revelations and the collusion across governmen
 - Twitter Changes 'Hacked Materials Policy' After Backlash From Blocking New York Post's Hunter Biden Stories
 - Facebook, Twitter 'Reducing' the Distribution of New York Post Story on Hunter Biden Emails
 
-At the time the Post broke the story, the entire left-wing colossus conspired to keep the information hidden from the American people. As Mary noted after the 2020 election, their collusion to bury the truth worked, Biden's presidential campaign was not impacted by the revelations because voters either didn't hear about them or believed them to be "Russian disinformation."
+At the time *The Post* broke the story, the entire left-wing colossus conspired to keep the information hidden from the American people. As Mary noted after the 2020 election, their collusion to bury the truth worked, Biden's presidential campaign was not impacted by the revelations because voters either didn't hear about them or believed them to be "Russian disinformation."
 
 Why did people think that it was Russian disinformation? Not only was the media hammering that point endlessly and Big Tech stifling the truth as "misinformation," but 51 intelligence "experts" got together, penned a letter, and signed their names to willful propaganda that undermined the veracity of the emails at the root of the influence peddling controversy.
 
 The *New York Post* reports:
 
-> But the 51 former "intelligence" officials who cast doubt on The Post's Hunter Biden laptop stories in a public letter really were just desperate to get Joe Biden elected president. And more than a year later, even after their Deep State sabotage has been shown again and again to be a lie, they refuse to own up to how they undermined an election.
+> But the 51 former "intelligence" officials who cast doubt on *The Post*'s Hunter Biden laptop stories in a public letter really were just desperate to get Joe Biden elected president. And more than a year later, even after their Deep State sabotage has been shown again and again to be a lie, they refuse to own up to how they undermined an election.
 >
 > The officials, including CNN pundit and professional fabricator James Clapper --- a man who was nearly charged for perjury for lying to Congress --- signed a letter saying that the laptop "has the classic earmarks of a Russian information operation."
 >

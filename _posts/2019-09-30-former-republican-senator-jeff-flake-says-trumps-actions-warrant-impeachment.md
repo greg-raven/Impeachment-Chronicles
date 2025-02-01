@@ -7,7 +7,7 @@ tags:
 
 Former Republican Senator Jeff Flake said that with what the American public currently knows about President Donald Trump's conduct in office, impeachment proceedings against him are warranted.
 
-Flake wrote about Trump's latest controversy with the Ukraine whistleblower, his feelings about impeachment and the "soul" of the Republican Party in an op-ed for The Washington Post on Monday.
+Flake wrote about Trump's latest controversy with the Ukraine whistleblower, his feelings about impeachment and the "soul" of the Republican Party in an op-ed for *The Washington Post* on Monday.
 
 "Compelling arguments will be made on both sides of the impeachment question. With what we now know, the president's actions warrant impeachment," the former lawmaker wrote. He added that he had "grave reservations" about whether removing Trump is the right decision given the "profound division in the country."
 

@@ -67,11 +67,11 @@ Added Caplin: "This is serious business and voters deserve the facts before elec
 
 But the media never reported the real facts behind the story --- that it was all based on Clinton campaign opposition research --- which allowed the rumors to survive without any real scrutiny for years.
 
-The Washington Post eventually stopped paying attention to the red flags surrounding the dossier. The newspaper seized on other rumors Fusion fed reporters from the Clinton-paid document.
+*The Washington Post* eventually stopped paying attention to the red flags surrounding the dossier. The newspaper seized on other rumors Fusion fed reporters from the Clinton-paid document.
 
 Hamburger, for one, later bit on a tip that the source for the most explosive allegations in the dossier was a Trump supporter with Kremlin ties. He reported in 2017 that Sergei Millian was behind the claim that Russian President Vladimir Putin had compromising sex tapes of Trump and that he and Trump were engaged in a "well-developed conspiracy" to steal the 2016 election.
 
-However, the Post had to retract his stories after Special Counsel John Durham last year disclosed that Millian was fabricated as a source. The prosecutor indicted Steele's "primary subsource," Igor Danchenko, for lying to the FBI when he told agents that Millian was a source for the dossier. Millian had nothing to do with the dossier, as RCI reported. Danchenko, who awaits trial, apparently made it all up.
+However, *The Post* had to retract his stories after Special Counsel John Durham last year disclosed that Millian was fabricated as a source. The prosecutor indicted Steele's "primary subsource," Igor Danchenko, for lying to the FBI when he told agents that Millian was a source for the dossier. Millian had nothing to do with the dossier, as RCI reported. Danchenko, who awaits trial, apparently made it all up.
 
 Hamburger did not respond to repeated requests for comment.
 

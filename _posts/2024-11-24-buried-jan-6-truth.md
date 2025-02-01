@@ -27,7 +27,7 @@ But the National Guard didn't arrive for hours, delayed not just by Pelosi but b
 
 This was a delusion that worst gripped Mark Milley, then-chairman of the Joint Chiefs, the most powerful military figure in Washington. 
 
-Milley was constantly talking to people about the threat of a "coup" by Trump after the 2020 election, Washington Post reporters Carol Leonnig and Philip Rucker wrote in their book "I Alone Can Fix It," which paints Milley as a defender of democracy rather than an emotional weakling defying his commander-in-chief.
+Milley was constantly talking to people about the threat of a "coup" by Trump after the 2020 election, *Washington Post* reporters Carol Leonnig and Philip Rucker wrote in their book "I Alone Can Fix It," which paints Milley as a defender of democracy rather than an emotional weakling defying his commander-in-chief.
 
 In the days leading up to the riot, Milley told his staff that Trump's suggestions that the National Guard be deployed on Jan. 6 were just an "excuse to invoke the Insurrection Act" and call out the military. 
 
@@ -65,7 +65,7 @@ And nothing they did, until it was too late.
 
 **Ominous WaPo op-ed**
 
-Something else significant happened the day Miller issued his memo: An op-ed signed by 10 former secretaries of defense, including Dick Cheney, Donald Rumsfeld and Jim Mattis, was published by the Washington Post warning that Trump might use the military to hang on to power. They warned, "Civilian and military officials who direct or carry out such measures" would potentially face "criminal penalties." 
+Something else significant happened the day Miller issued his memo: An op-ed signed by 10 former secretaries of defense, including Dick Cheney, Donald Rumsfeld, and Jim Mattis, was published by *The Washington Post* warning that Trump might use the military to hang on to power. They warned, "Civilian and military officials who direct or carry out such measures" would potentially face "criminal penalties." 
 
 Miller got the message. He later testified to Congress that he wrote the memo because he was afraid Trump "would invoke the Insurrection Act to politicize the military in an antidemocratic manner."
 

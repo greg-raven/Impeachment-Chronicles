@@ -5,11 +5,11 @@ tags:
 - Doug P.
 ---
 
-This might shock you, but the *Washington Post* has been spotted having some evolving standards when it comes to hyperbolic rhetoric to describe presidential administrations and government agencies:
+This might shock you, but *The Washington Post* has been spotted having some evolving standards when it comes to hyperbolic rhetoric to describe presidential administrations and government agencies:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🧵The Washington Post has published at least two articles complaining about hyperbolic criticism of the FBI coming from the right.<br><br>They don't like people using terms like &quot;banana republic&quot; or &quot;dictatorship.&quot;<br><br>Here's a little thread showing why they are full of bovine excrement.</p>&mdash; Jeff Charles, Agent of Chaos🏴 (@jeffcharlesjr) <a href="https://twitter.com/jeffcharlesjr/status/1558883794224021504?ref_src=twsrc%5Etfw">August 14, 2022</a></blockquote>
 
-We always knew the "Democracy Dies in Darkness" news outlet has covered themselves in ironic and hypocritical BS for a long time, and now it's been applied even thicker. You won't be surprised to know when the *Washington Post's* aversion to extreme rhetoric to describe an administration began:
+We always knew the "Democracy Dies in Darkness" news outlet has covered themselves in ironic and hypocritical BS for a long time, and now it's been applied even thicker. You won't be surprised to know when *The Washington Post*'s aversion to extreme rhetoric to describe an administration began:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here's a little ditty comparing Trump's America to the Holocaust<a href="https://t.co/IGwpanksjY">https://t.co/IGwpanksjY</a></p>&mdash; Jeff Charles, Agent of Chaos🏴 (@jeffcharlesjr) <a href="https://twitter.com/jeffcharlesjr/status/1558883795704709120?ref_src=twsrc%5Etfw">August 14, 2022</a></blockquote>
 

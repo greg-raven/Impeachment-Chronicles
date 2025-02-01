@@ -18,7 +18,7 @@ Furness was responding to a tweet Saturday depicting then-President Trump in Pue
 In response, Furness wrote, "Should've been Lincoln'd five minutes later," referring to the assassination of President Abraham Lincoln in 1865. Following the Twitter reply, it appears Furness has deleted his main Twitter account.
 
 This isn't the first time that Furness has called for violence.
-In late September 2020, Furness wrote a tweet listing several journalists, including The Post Millennial's editor-at-large Andy Ngo, and prominent conservative figures that he would like to "launch" towards the sun.
+In late September 2020, Furness wrote a tweet listing several journalists, including *The Post Millennial*'s editor-at-large Andy Ngo, and prominent conservative figures that he would like to "launch" towards the sun.
 
 "I'd like to build an arc and fill it with, Michael Tracey, Andrew Sullivan, Bari Weiss, Andy Ngo, Ian Miles Cheong, Jordan Peterson, Ben Shapiro, and Fox &amp; Friends. And then launch it toward the sun," Furness wrote on Sept. 9, 2020.
 

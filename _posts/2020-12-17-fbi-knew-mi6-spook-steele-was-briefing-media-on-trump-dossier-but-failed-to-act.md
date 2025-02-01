@@ -23,7 +23,7 @@ The FBI cut Steele out of the loop after he leaked more material to website *Mot
 
 The messages show Strzok and others at the agency had advance knowledge of CNN's 10 January, 2017, story about then-FBI director James Comey's January 6 briefing to Trump on the dossier, in which Comey warned the president-elect that Russia had a sex tape that it could use to blackmail him.
 
-In a January 9 exchange with a fellow agent named Page, possibly his mistress, Lisa Page, Strzok wrote of "nervousness" over the report's revelation that Comey had received a copy of the dossier from late senator John McCain --- and that veteran Washington Post reporter Carl Bernstein, who broke the 1973 Watergate scandal with colleague Bob Woodward, was now working on the story, taking over from Jim Sciutto.
+In a January 9 exchange with a fellow agent named Page, possibly his mistress, Lisa Page, Strzok wrote of "nervousness" over the report's revelation that Comey had received a copy of the dossier from late senator John McCain --- and that veteran *Washington Post* reporter Carl Bernstein, who broke the 1973 Watergate scandal with colleague Bob Woodward, was now working on the story, taking over from Jim Sciutto.
 
 "Story no longer Sciutto, now Evan Perez. Internal nervousness about nature of allegations," Strzok wrote. "Also Carl Bernstein (yes that Carl) called OPA, said he got a 'dossier' from McCain."
 

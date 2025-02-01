@@ -5,7 +5,7 @@ tags:
 - Peter Roff
 ---
 
-Washington, D.C. --- A senior FBI official has abruptly resigned, The Washington Times reported late Monday, amidst allegations he showed improper political bias during the bureau's investigation into information recovered from the hard drive of a laptop left by Hunter Biden in a Delaware computer repair shop.
+Washington, D.C. --- A senior FBI official has abruptly resigned, *The Washington Times* reported late Monday, amidst allegations he showed improper political bias during the bureau's investigation into information recovered from the hard drive of a laptop left by Hunter Biden in a Delaware computer repair shop.
 
 Timothy Thibault, an assistant special agent in charge in the FBI's Washington field office was "forced to leave his post" the paper reported in an exclusive, saying two former bureau officials familiar with the situation had provided the information and description of his departure.
 

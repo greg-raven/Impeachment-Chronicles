@@ -25,7 +25,7 @@ Mr. Trump said of Mr. Nadler: "I always beat him, and I had to beat him another 
 
 "Of course, they're going to try again," said Pam Bondi, a former Florida attorney general and member of the president's Senate trial defense team, on Fox News.
 
-"The unwillingness of the Democrats to accept the results of their gross abuse of their constitutional power is a crime against the public trust," John M. Dowd, Mr. Trump's former defense counsel, told The Washington Times.
+"The unwillingness of the Democrats to accept the results of their gross abuse of their constitutional power is a crime against the public trust," John M. Dowd, Mr. Trump's former defense counsel, told *The Washington Times.*
 
 Mr. Schiff, chairman of the House Permanent Select Committee on Intelligence, announced an anti-Trump staff investigation on Feb. 6, 2019, upon taking control of the committee. Some of his allegations mirror claims pushed by opposition research firm Fusion GPS and its co-founder Glenn Simpson --- organizers of the discredited Democratic Party-funded dossier spread all over Washington.
 
@@ -53,7 +53,7 @@ None of these allegations surfaced in the [Mueller report]({% post_url 2019-03-2
 
 GOP staffers say that Mr. Schiff has not given up on proving money laundering, which supposedly revolves around his bank, Deutsche Bank, and Russia, or perhaps around an aborted bid to build a hotel in Moscow in 2015-16.
 
-"Schiff will try to redeem himself by continuing his investigations, accompanied by the usual slew of misleading leaks to masochistic reporters, into Trump's connections to both Russia and Ukraine," one Republican staffer told The Washington Times. "He'll probably go back after Trump-Russia money laundering, which is one of Schiff's favorite conspiracy theories. He doesn't know if it's Russians laundering money for Trump through the NRA, Trump properties, Deutsche Bank, or the Trump Tower Moscow project, but he's convinced that somewhere, somehow, something happened."
+"Schiff will try to redeem himself by continuing his investigations, accompanied by the usual slew of misleading leaks to masochistic reporters, into Trump's connections to both Russia and Ukraine," one Republican staffer told *The Washington Times.* "He'll probably go back after Trump-Russia money laundering, which is one of Schiff's favorite conspiracy theories. He doesn't know if it's Russians laundering money for Trump through the NRA, Trump properties, Deutsche Bank, or the Trump Tower Moscow project, but he's convinced that somewhere, somehow, something happened."
 
 One of Fusion GPS's allegations is that Russians provided illegal campaign donations to the National Rifle Association's political action committee. The NRA denied this in letters to the Senate.
 

@@ -77,7 +77,7 @@ When *The New York Times* first linked Sater to the mob stock and money launderi
 
 "We do as much of a background check as we can on the principals. I didn't really know him very well," Trump told the Times, adding that he dealt primarily with other Bayrock executives.
 
-Garten told The Post that, prior to the 2007 article, Trump's company knew "none" of Sater's criminal past and "would have had no reason to inquire."
+Garten told *The Post* that, prior to the 2007 article, Trump's company knew "none" of Sater's criminal past and "would have had no reason to inquire."
 
 The disclosure led to problems for Bayrock and Trump.
 

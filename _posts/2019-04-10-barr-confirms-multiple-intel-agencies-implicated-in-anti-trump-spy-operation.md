@@ -41,7 +41,7 @@ The fact of the matter is that federal intelligence agencies spied on a rival po
 
 This is a scandal of epic proportions. It is one that threatens the foundations of constitutional government. It is a direct attack on American democracy.
 
-If it is true, as the Washington Post asserts, that democracy dies in darkness, then every single improper deed done under the cloak of secrecy must be fully brought to light. The only way to restore the definitively lost credibility of the FBI and other intelligence agencies is through a thorough investigation of what happened, who was involved, and how they will be held accountable.
+If it is true, as *The Washington Post* asserts, that democracy dies in darkness, then every single improper deed done under the cloak of secrecy must be fully brought to light. The only way to restore the definitively lost credibility of the FBI and other intelligence agencies is through a thorough investigation of what happened, who was involved, and how they will be held accountable.
 
 Mollie Hemingway, thefederalist.com/2019/04/10/barr-confirms-multiple-intel-agencies-implicated-in-anti-trump-spy-operation/
 

@@ -11,7 +11,7 @@ Asked if she knew what the case was about, and well, she didn't.
 
 According to Victoria Taft, writing at PJMedia:
 
-> The Washington Post captured most of the dialogue between Necheles and Daniels.
+> *The Washington Post* captured most of the dialogue between Necheles and Daniels.
 >
 > > Necheles asked Daniels if she had knowledge of Trump's involvement in the payment made to her in 2016 to ensure she would not go public about their alleged sexual encounter.
 > >

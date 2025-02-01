@@ -9,11 +9,11 @@ The establishment media were abuzz this week with stories about a "seven-hour ga
 
 Documents turned over to the United States House Select Committee on the January 6 Attack, and then leaked to the media, suggested that there was a gap that could have been caused by President Donald Trump or his aides suppressing information.
 
-"A 7-hour gap in Trump's calls evokes a missing spot on Nixon's tapes," the Washington Post reported breathlessly, recalling the 18-minute gap in President Richard Nixon's White House tapes that ultimately led him to resign his presidency in 1974.
+"A 7-hour gap in Trump's calls evokes a missing spot on Nixon's tapes," *The Washington Post* reported breathlessly, recalling the 18-minute gap in President Richard Nixon's White House tapes that ultimately led him to resign his presidency in 1974.
 
-The Post's left-wing opinion columnist Greg Sergeant suggested the absent Trump phone logs were "worse than Watergate":
+*The Post*'s left-wing opinion columnist Greg Sergeant suggested the absent Trump phone logs were "worse than Watergate":
 
-> In another bid for the "Worse than Watergate" files, it turns out there is a seven-hour gap in Donald Trump's phone logs on the day of the insurrection attempt. According to documents obtained by The Post and CBS News, there is no record of then-President Trump's calls on Jan. 6, 2021, from just after 11 a.m. to shortly before 7 p.m.
+> In another bid for the "Worse than Watergate" files, it turns out there is a seven-hour gap in Donald Trump's phone logs on the day of the insurrection attempt. According to documents obtained by *The Post* and CBS News, there is no record of then-President Trump's calls on Jan. 6, 2021, from just after 11 a.m. to shortly before 7 p.m.
 >
 > That means there's a big black hole in the record when it comes to Trump's conversations throughout the period during which the mob assaulted the U.S. Capitol and violence raged over several hours.
 >

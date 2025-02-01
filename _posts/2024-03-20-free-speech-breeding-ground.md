@@ -25,7 +25,7 @@ Unchecked, the internet dumped megatons of raw sewage on the public square. With
 
 Would the rise of the hard right and Mr. Trump have been possible if the internet had been given guardrails? Not a chance. The internet gave him --- before his account was suspended in 2021 --- 88 million Twitter followers. With that came the freedom to circumvent traditional media and create an alternate universe, a smearsphere wherein he could lie like he breathes and get away with it.
 
-The internet undermined the established newspaper business model, greatly reducing the number of papers and coverage and creating a void for Mr. Trump and the like-minded to fill. His cries of fake news had the impact --- it's charted well in former Washington Post editor Martin Barron's book, Collision of Power --- of compartmentalizing the media landscape into left-right silos, which helped bring on the extremes of polarization.
+The internet undermined the established newspaper business model, greatly reducing the number of papers and coverage and creating a void for Mr. Trump and the like-minded to fill. His cries of fake news had the impact --- it's charted well in former *Washington Post* editor Martin Barron's book, Collision of Power --- of compartmentalizing the media landscape into left-right silos, which helped bring on the extremes of polarization.
 
 The way to reverse the trend is with rigid regulation, but the free speech lobby in the United States is as fierce as the gun lobby. The historic triumph the internet gave free speech is all but forgotten. The amnesiacs scream censorship. Joe Biden is out "to crush free speech in America," Mr. Trump ludicrously charged recently.
 

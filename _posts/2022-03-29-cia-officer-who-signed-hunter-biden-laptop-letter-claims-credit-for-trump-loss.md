@@ -29,7 +29,7 @@ He also wrote that "the letter didn't say the laptop was disinformation," but, i
 
 Nick Shapiro, once a top aide to former CIA Director John Brennan --- both Shapiro and Brennan signed the missive --- and who provided it to Politico, didn't respond to requests for comment from The Epoch Times by press time.
 
-Most of the other signers didn't respond to requests for comment or declined the requests, the Post reported.
+Most of the other signers didn't respond to requests for comment or declined the requests, *The Post* reported.
 
 Former DNI James Clapper told the paper that he stands by the statement "made AT THE TIME."
 

@@ -43,13 +43,13 @@ Agalarov and his son, Russian pop musician Emin Agalarov, told *The Washington P
 
 Russia has signaled a deep interest in the U.S. election and in Trump, in particular. The Russian ambassador to the United States, breaking from a tradition in which diplomats steer clear of domestic politics, attended Trump's April foreign policy speech in which he called for ending "this horrible cycle of hostility" between the two nations.
 
-And in the past week, The Post reported that hackers tied to the Russian government had gained access to the Democratic National Committee's opposition research file on Trump.
+And in the past week, *The Post* reported that hackers tied to the Russian government had gained access to the Democratic National Committee's opposition research file on Trump.
 
 A spokesman for the Russian Embassy said that Ambassador Sergey I. Kislyak's attendance at the Trump speech should not be considered an indication that Russia is partial to Trump. "There is no preference," the spokesman said.
 
 Still, the relationship is setting off alarms in pro-Western capitals --- and in the U.S. foreign policy community.
 
-Trump's campaign rhetoric is the "biggest dream of everyone in the Kremlin," Tina Khidasheli, defense minister of Georgia, a U.S. ally, told The Post. "It's scary, it's dangerous, and it's irresponsible."
+Trump's campaign rhetoric is the "biggest dream of everyone in the Kremlin," Tina Khidasheli, defense minister of Georgia, a U.S. ally, told *The Post.* "It's scary, it's dangerous, and it's irresponsible."
 
 Her view is shared in the United States by leading Russia experts from both political parties.
 
@@ -93,7 +93,7 @@ In 2013, Trump found a new Russian partner for a Moscow real estate project, Ara
 
 The Agalarovs are wealthy developers who have received several contracts for state-funded construction projects, a sign of their closeness to the Putin government. Shortly after the pageant, Putin awarded the elder Agalarov the "Order of Honor of the Russian Federation," a prestigious designation.
 
-Agalarov and his son Emin spoke with The Post earlier this year at the chic Nobu restaurant inside Crocus City Mall, their gleaming luxury development.
+Agalarov and his son Emin spoke with *The Post* earlier this year at the chic Nobu restaurant inside Crocus City Mall, their gleaming luxury development.
 
 They said they first met Trump after hiring Miss Universe contestants for one of Emin's music videos. Trump ultimately appeared in the video along with the beauty queens. After the video and the 2013 pageant, the Agalarovs said they developed a deeper relationship with Trump.
 

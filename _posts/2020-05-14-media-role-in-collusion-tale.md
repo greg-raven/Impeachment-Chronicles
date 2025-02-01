@@ -145,7 +145,7 @@ Jan. 24, 2017:
 : McCabe sends two FBI agents, including Strzok, to the White House to question Flynn. FBI Director Comey later takes credit for "sending a couple of guys" to interview Flynn, circumventing normal processes.<br>Notes kept hidden until May 2020 show FBI officials discussing whether the goal of the meeting with Flynn was to "get him to lie" so that he would be fired or prosecuted.
 
 Feb. 9, 2017:
-: News of FBI wiretaps capturing Trump national security adviser Flynn speaking with Russia's ambassador is leaked to the press. *New York Times* and *Washington Post* report Flynn discussed U.S. sanctions, despite his earlier denials. The Post also reports the FBI "found nothing illicit" in the talks. The Post headline in an article by Greg Miller, Adam Entous and Ellen Nakashima reads, "National Security Adviser Flynn Discussed Sanctions with Russian Ambassador, Despite Denials, Officials Say."
+: News of FBI wiretaps capturing Trump national security adviser Flynn speaking with Russia's ambassador is leaked to the press. *New York Times* and *Washington Post* report Flynn discussed U.S. sanctions, despite his earlier denials. *The Post* also reports the FBI "found nothing illicit" in the talks. *The Post* headline in an article by Greg Miller, Adam Entous, and Ellen Nakashima reads, "National Security Adviser Flynn Discussed Sanctions with Russian Ambassador, Despite Denials, Officials Say."
 
 Feb. 13, 2017:
 : *Washington Post* reports Justice Dept. has opened a "Logan Act" violation investigation against Flynn.

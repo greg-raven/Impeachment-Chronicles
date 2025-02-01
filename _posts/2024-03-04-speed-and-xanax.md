@@ -86,7 +86,7 @@ The source adds, "Unit leadership did slowly start making appropriate changes, b
 
 OUR INTEREST IN THIS STORY was sparked, in part, by a handwritten ledger reprinted on page 14 of the January inspector general's report: a tracking form for the controlled substances ordered by the White House Medical Unit. In addition to the thousands of pills of Ambien and Provigil listed are even more potent sedatives and pain pills: morphine, hydrocodone, diazepam and lorazepam (better known by their brand names, Valium and Ativan), fentanyl, and even ketamine.
 
-Jackson, now a Republican congressman from Texas, told the Washington Post that his team prescribed narcotics "less than five times" across his tenure. And according to the paper's sources, drugs like fentanyl were "kept on hand for extreme emergencies --- such as a White House fence jumper impaling themselves on a spike."
+Jackson, now a Republican congressman from Texas, told *The Washington Post* that his team prescribed narcotics "less than five times" across his tenure. And according to the paper's sources, drugs like fentanyl were "kept on hand for extreme emergencies --- such as a White House fence jumper impaling themselves on a spike."
 
 That's a ridiculous example, a well-placed source tells us. "Someone just made up something. If there was a jumper, someone would call 911," the source says. The jumper would then be transferred to a nearby civilian hospital.
 
