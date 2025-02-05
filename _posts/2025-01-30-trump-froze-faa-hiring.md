@@ -18,3 +18,7 @@ On his first day in office, Donald Trump froze the hiring of federal employees -
 [...]
 
 Source: Jasmine Crockett, via [𝕏](https://x.com)
+
+Readers provided context they thought people might want to know:
+
+> [Federal air traffic controllers are exempted from the hiring freeze](https://chcoc.gov/sites/default/files/OMB-OPM%20Federal%20Civilian%20Hiring%20Freeze%20Guidance%201-20-2025%20FINAL.pdf).
