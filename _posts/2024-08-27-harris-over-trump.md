@@ -26,7 +26,7 @@ Trump campaign spokesperson Steven Cheung said in a statement that the letter is
 
 McCain's former chief of staff Mark Salter and Olivia Troye, a former aide to Vice President Mike Pence, signed the letter. Troye spoke out against Trump at the Democratic National Convention last week.
 
-The group joins more than two dozen Republicans — former governors, members of Congress and Trump administration officials who are vocal critics of Trump — who pledged support for Harris' presidential campaign this month.
+The group joins more than two dozen Republicans --- former governors, members of Congress and Trump administration officials who are vocal critics of Trump --- who pledged support for Harris' presidential campaign this month.
 
 A similar group of anti-Trump Republicans, including several hundred former aides to George W. Bush and McCain, endorsed Biden's 2020 presidential election campaign.
 

@@ -7,7 +7,7 @@ tags:
 
 - Might CISA declare that the 2024 election was the "least secure in American history" while still "circling the wagons" to protect Dominion, ES&S, etc.?
 
-Would CISA (Cybersecurity and Infrastructure Security Agency) flip-the-script after the 2024 election --- 180 degrees from 2020 –and declare that the 2024 election was irreparably compromised? Going from "the most secure election in our history" in 2020, to "the most compromised in our history" in 2024?
+Would CISA (Cybersecurity and Infrastructure Security Agency) flip-the-script after the 2024 election --- 180 degrees from 2020 --- and declare that the 2024 election was irreparably compromised? Going from "the most secure election in our history" in 2020, to "the most compromised in our history" in 2024?
 
 Could the Democrats and UniParty Republicans in Congress then use that CISA declaration as a pretext to *refuse to certify* Donald J. Trump as President in January, 2025?
 

@@ -57,7 +57,7 @@ They had nothing.
 
 Favorito then shares at the 32:20 mark this shocking revelation:
 
-> Let me just add one more point to what you just said…but here's the other thing.  There is one thing that is illegal about this call and that was the recording of the call, which the evidence indicates down here was the recording was made by the Assistant Secretary of State Jordan Fuchs when she was in Florida.  And that is, Florida is a two-way state and therefore recording of the call without notifying the parties, if you're recording from a two-way state, that is a violation of federal law.
+> Let me just add one more point to what you just said ... but here's the other thing.  There is one thing that is illegal about this call and that was the recording of the call, which the evidence indicates down here was the recording was made by the Assistant Secretary of State Jordan Fuchs when she was in Florida.  And that is, Florida is a two-way state and therefore recording of the call without notifying the parties, if you're recording from a two-way state, that is a violation of federal law.
 >
 > And that is one of the things that I believe Fanni Willis covered up and prevented the grand jury from knowing that information.  And if you remember it was generally accepted down here and in other circles that it was Jordan Fuchs who leaked the information to *The Washington Post* and distorted the story and then *The Washington Post* had to back peddle about what it had previously written about that call.
 

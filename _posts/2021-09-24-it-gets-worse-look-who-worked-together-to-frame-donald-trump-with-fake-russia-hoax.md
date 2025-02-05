@@ -5,7 +5,7 @@ tags:
 - Victoria Taft
 ---
 
-How much more frightening will this conspiracy get? Now, according to court documents reported by JusttheNews.com, we learn that The Dark Lord himself, George Soros, paid for his own investigator to work for the U.S. Senate Armed Services Committee to plant the fake Trump-Russia story–and that then-Senator John McCain let him do it.
+How much more frightening will this conspiracy get? Now, according to court documents reported by JusttheNews.com, we learn that The Dark Lord himself, George Soros, paid for his own investigator to work for the U.S. Senate Armed Services Committee to plant the fake Trump-Russia story --- and that then-Senator John McCain let him do it.
 
 Fight the urge to roll up in a ball and watch fairy tales on Netflix. Get your fingers out of your ears. Stop with your "John McCain hated Trump" pap. We all know that. We know McCain shopped the fake pee tape dossier too.
 
@@ -13,7 +13,7 @@ Pay attention.
 
 We know that the upper reaches of the U.S. government, including President Obama, Joe Biden, Hillary Clinton and their FBI, were a part of the effort to Get Trump. Bruce Ohr at the Department of Justice was in on it. The intelligence community played along with "CIA director John Brennan report[ing] to President Obama that Clinton herself approved the scheme in order to deflect attention away from her use of a private email server." Biden's national security adviser knew and lied about it. Democrat party-connected cyber sleuths using government contracts to gain access to secret data tried to frame and plant fake news about Donald Trump being a Russian secret agent. All of these apparatchiks put their expertise and privileged government positions into the service of Hillary Clinton for President in 2016.
 
-They leveraged their positions to destroy Trump and change an election–and in so doing sold out America.
+They leveraged their positions to destroy Trump and change an election --- and in so doing sold out America.
 
 It was by any means necessary.
 

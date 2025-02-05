@@ -9,7 +9,7 @@ Pretty big story just dropped
 
 The FBI knew since 2016 Hunter Biden nearly scored $120 million Ukrainian deal while Joe was VP --- And While Trump was Being Impeached over Ukrainian Phone Call
 
-"It's an extraordinary story because the FBI knew about it in 16, but when Donald Trump was being tried for Impeachment in 2019/2020, these documents were not made available to his defense…
+"It's an extraordinary story because the FBI knew about it in 16, but when Donald Trump was being tried for Impeachment in 2019/2020, these documents were not made available to his defense ...
 
 Imagine if the American people knew that story, that Hunter Biden was poised for a $120 Million pay day. The impeachment would have been stopped in its grounds."
 

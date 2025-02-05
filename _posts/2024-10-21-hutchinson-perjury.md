@@ -5,7 +5,7 @@ tags:
 - Cristina Laila
 ---
 
-– Handwriting Expert Blows Up Her Biggest Lie!
+- Handwriting Expert Blows Up Her Biggest Lie!
 
 Liz Cheney's J6 'star witness' Cassidy Hutchinson knowingly gave false testimony, according to the Committee on House Administration's Subcommittee on Oversight.
 

@@ -15,7 +15,7 @@ Some "pants on fire" statements include Trump's widely denounced claim that he s
 
 Trump has been largely unapologetic when reporters and critics have pointed out the inaccuracy of some of his statements. When the candidate retweeted an inaccurate statistic about crime in the U.S., he defended his actions by saying that a retweet is not an endorsement.
 
-"Am I gonna check every statistic?" Trump said when Fox News host Bill O'Reilly challenged the tweet. "I get millions and millions of people … @RealDonaldTrump, by the way."
+"Am I gonna check every statistic?" Trump said when Fox News host Bill O'Reilly challenged the tweet. "I get millions and millions of people ... @RealDonaldTrump, by the way."
 
 Read the full analysis at PolitiFact.
 

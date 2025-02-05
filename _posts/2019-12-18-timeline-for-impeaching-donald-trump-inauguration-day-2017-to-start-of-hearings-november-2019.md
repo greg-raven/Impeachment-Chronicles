@@ -93,7 +93,7 @@ Now as the House votes to impeach Trump, moving the effort to the Senate for a t
 >
 > "As a Jew and as an American and as a representative of an African American district, I am revolted by the fact that the President of the United States couldn't stand up and unequivocally condemn Nazis who want to kill Jews and whose predecessors murdered 6 million Jews during the Holocaust, and could not unequivocally condemn Klansmen whose organization is dedicated to terrorizing African Americans," the Tennessee Democrat said in a statement.
 
-• Nov. 2, 2017 –*The Mercury News*
+• Nov. 2, 2017 --- *The Mercury News*
 
 > [Tom] Steyer's campaign has gathered steam: In 14 days, his petition calling for Trump's impeachment has gathered more than 1.4 million signatures. His 60-second ad --- which is playing nationwide on TV and online --- argues that Trump has "obstructed justice" and "brought us to the brink of nuclear war," as video rolls of North Korean President Kim Jong-un. It has been viewed nearly 1.2 million times on YouTube and 474,000 times on Facebook.
 
@@ -159,6 +159,6 @@ And a rash of resolutions was introduced in the House in March:
     - Mismanagement by failing to fill vacancies
     - Separation of immigrant children from their families
 
-On October 31, the House of Representatives voted 232–196 to establish procedures for public hearings on impeachment, which started on November 13 and culminated with a vote on articles of impeachment on Wednesday.
+On October 31, the House of Representatives voted 232-196 to establish procedures for public hearings on impeachment, which started on November 13 and culminated with a vote on articles of impeachment on Wednesday.
 
 Source: Penny Starr, breitbart.com/politics/2019/12/18/timeline-for-impeaching-donald-trump-inauguration-day-2017-to-start-of-hearings-november-2019

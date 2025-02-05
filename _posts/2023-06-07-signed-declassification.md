@@ -17,7 +17,7 @@ This is devastating news for the Biden regime. Don't expect this to make any hea
 
 Back in August 2022 when the Biden regime raided Mar-a-Lago The Gateway Pundit reported that the FBI "had a personal stake" in retrieving documents at Mar-a-Lago. They were after Spygate documents!
 
-**Here is what we reported at the time –**
+**Here is what we reported at the time ---**
 
 President Trump declassified a binder on January 19th, 2021 that contains hundreds of pages about the Crossfire Hurricane scandal. It contains damaging information about the corrupt actors involved with our government. Two different DOJ Attorney General's have defied President Trump's direct lawful order to publish the binder in the Federal Register. It's been 19 months as the DOJ defies the order, and every FOIA request to make it public. Can we now raid the homes of acting AG Monty Wilkinson, and Merrick Garland?
 
@@ -27,7 +27,7 @@ Hours before Trump left office on January 20th, Chief of Staff Mark Meadows gave
 
 Meadows admits in interviews various agency's often stalled or defied Trump's orders. Meadows knew better than to rely on the DOJ to release this damaging binder after they left the White House. He should have released the binder to the public himself. But in doing so, there was a chance he would become a target of the DOJ and FBI. The memorandum below is what Mr. Meadows sent to the DOJ Attorney General on January 20th, 2021.
 
-**Now this –**
+**Now this ---**
 
 New details on Monday's raid of Mar-a-Lago may offer an explanation on what the FBI was looking for and why the FBI has not released the Spygate documents as they were ordered to when President Trump left office.
 

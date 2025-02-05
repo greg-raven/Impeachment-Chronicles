@@ -11,7 +11,7 @@ Ex-CIA director John Brennan told MSNBC's Nicolle Wallace on Thursday that the i
 
 Ex-CIA director John Brennan told MSNBC's Nicolle Wallace on Thursday that the intelligence community may withhold "sensitive" intelligence information from former President Trump even if he becomes the GOP presidential nominee later this year.
 
-The MSNBC senior national security and intelligence analyst, expressed his belief that Trump will be briefed on some national security information – according to the 72-year tradition of sitting administrations tapping U.S. intelligence officials to brief the presidential candidates of major political parties – however, he will not get highly sensitive information.
+The MSNBC senior national security and intelligence analyst, expressed his belief that Trump will be briefed on some national security information --- according to the 72-year tradition of sitting administrations tapping U.S. intelligence officials to brief the presidential candidates of major political parties --- however, he will not get highly sensitive information.
 
 [...]
 

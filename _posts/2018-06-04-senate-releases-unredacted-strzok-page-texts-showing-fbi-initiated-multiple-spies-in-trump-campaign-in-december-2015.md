@@ -25,9 +25,9 @@ A text message released today by the US Senate showed words that were redacted w
 >
 > <cite>Tony Shaffer (@T\_S\_P\_O\_O\_K\_Y) June 4, 2018</cite>
 
-The texts released today from corrupt FBI investigator Peter Strzok to corrupt FBI attorney Lisa Page state the following –
+The texts released today from corrupt FBI investigator Peter Strzok to corrupt FBI attorney Lisa Page state the following ---
 
-> 1\) BOMBSHELL- From DECEMBER 2015–The word LURES is redacted by FBI but not OIG
+> 1\) BOMBSHELL --- From DECEMBER 2015 --- The word LURES is redacted by FBI but not OIG
 >
 > "OCONUS LURES"
 >

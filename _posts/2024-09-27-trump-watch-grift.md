@@ -29,7 +29,7 @@ Now, Trump's not trying to get greedy or anything. This main watch pictured abov
 
 ![Trump watch grift](/assets/2024-09-27-trump-watch-grift-2.webp "Trump watch grift")
 
-He's only looking to raise $14.7 million dollars with this watch. Well, $14,6, technically, since he grabbed up the first one. And it says that they'll be numbered 1–147. So wait, does that mean you can't get one with a lower number than two? You know, since he took the first one?
+He's only looking to raise $14.7 million dollars with this watch. Well, $14,6, technically, since he grabbed up the first one. And it says that they'll be numbered 1-147. So wait, does that mean you can't get one with a lower number than two? You know, since he took the first one?
 
 No, hang on, I guess you can get the number one in one of the OTHER two colors it comes in, if you want to look cheap without a gold watch, I suppose.
 

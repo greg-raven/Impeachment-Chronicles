@@ -28,7 +28,7 @@ In November 2021, Hutchinson was among the first former White House staffers to 
 
 "Same," she wrote back.
 
-Of being subpoenaed in November, Hutchinson wrote, "we were [f---–] by Bennie Thompson," the titular chair of the committee. She joked that he would be sending her to jail, and hoped that another friend would come visit her. In a text published by the Daily Caller earlier this month, Hutchinson called the panel's probe "bs."
+Of being subpoenaed in November, Hutchinson wrote, "we were [f---] by Bennie Thompson," the titular chair of the committee. She joked that he would be sending her to jail, and hoped that another friend would come visit her. In a text published by the Daily Caller earlier this month, Hutchinson called the panel's probe "bs."
 
 In a group chat, a friend shared a tweet from another former White House colleague.
 

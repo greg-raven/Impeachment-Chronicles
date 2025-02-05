@@ -78,7 +78,7 @@ Thankfully, the would-be assassin was stopped by the heroic action of law enforc
 
 - **[Rep. Jake Auchincloss](https://www.foxnews.com/video/6357115096112):** "What unifies us as a party is knowing that Donald Trump is an existential threat to Democracy."
 
-- **[Rep. Abigail Spanberger](https://transcripts.cnn.com/show/ctmo/date/2024-01-08/segment/04):** "Trump is a threat to our democracy … the threats to our democratic republic are real."
+- **[Rep. Abigail Spanberger](https://transcripts.cnn.com/show/ctmo/date/2024-01-08/segment/04):** "Trump is a threat to our democracy ... the threats to our democratic republic are real."
 
 - **[Rep. Annie Kuster](https://x.com/Marisa_N19/status/1795898240799256588):** "Trump and his extreme right-wing followers pose an existential threat to our democracy."
 

@@ -17,7 +17,7 @@ WERE THEY ORDERED TO STAND DOWN?
 
 Agents also already had texts about the suspicious person with a range finder from over an hour before.
 
-The more evidence that comes out… THE MORE IT LOOKS LIKE AN INSIDE JOB ⚠️
+The more evidence that comes out ... THE MORE IT LOOKS LIKE AN INSIDE JOB ⚠️
 
 No wonder Facebook and Google are trying to erase the entire event from history!
 

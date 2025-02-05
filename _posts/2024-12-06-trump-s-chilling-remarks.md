@@ -7,7 +7,7 @@ tags:
 
 - Donald Trump made the chilling remark while accepting an award for supposed patriotism.
 
-Fox News's "Patriot of the Year" loves the United States so much that he wants to completely reshape it—starting with the country's elections.
+Fox News's "Patriot of the Year" loves the United States so much that he wants to completely reshape it --- starting with the country's elections.
 
 Speaking to a crowd he referred to as "friends" during the network's sixth annual Fox Nation Patriot Awards Thursday night, President-elect Donald Trump signaled his full intentions to enact sweeping changes to the process by which the nation chooses its leaders.
 

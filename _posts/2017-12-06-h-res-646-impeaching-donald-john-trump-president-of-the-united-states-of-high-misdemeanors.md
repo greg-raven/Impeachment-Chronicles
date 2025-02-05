@@ -5,7 +5,7 @@ tags:
 - Al Green
 ---
 
-On December 6, 2017, Rep. Al Green introduced articles of impeachment against President Trump. Green introduced the resolution as a privileged motion and it was voted on the same day. As expected the resolution did not move forward, losing by 364–58 with all Republicans and most Democrats voting against it.
+On December 6, 2017, Rep. Al Green introduced articles of impeachment against President Trump. Green introduced the resolution as a privileged motion and it was voted on the same day. As expected the resolution did not move forward, losing by 364-58 with all Republicans and most Democrats voting against it.
 
 **High crimes or misdemeanors**
 
@@ -35,7 +35,7 @@ Both the Democratic leadership and the White House opposed these articles of imp
 
 **Vote**
 
-The vote against the resolution was decisive, losing by 364–58. Neither of the other resolutions of impeachment introduced this session have gone anywhere either --- nor are they expected to.
+The vote against the resolution was decisive, losing by 364-58. Neither of the other resolutions of impeachment introduced this session have gone anywhere either --- nor are they expected to.
 
 Articles of impeachment against the President and related sorts of resolutions aren't uncommon. President Obama faced at least one resolution of condemnation and President Bush a resolution of impeachment. Neither of those resolutions went anywhere either. The previous president, President Clinton, was impeached (but not subsequently convicted by the Senate).
 

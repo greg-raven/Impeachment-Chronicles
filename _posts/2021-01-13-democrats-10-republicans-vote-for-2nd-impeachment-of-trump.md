@@ -5,7 +5,7 @@ tags:
 - Ivan Pentchoukov
 ---
 
-Democrats in the House of Representatives, joined by ten Republicans, voted to impeach President Donald Trump for a second time, in a 232–197 vote on Jan. 13. The single article of impeachment alleges that the president incited an [insurrection](/insurrection.html) that resulted in the breach of the U.S. Capitol on Jan. 6.
+Democrats in the House of Representatives, joined by ten Republicans, voted to impeach President Donald Trump for a second time, in a 232-197 vote on Jan. 13. The single article of impeachment alleges that the president incited an [insurrection](/insurrection.html) that resulted in the breach of the U.S. Capitol on Jan. 6.
 
 The impeachment, accomplished in a single seven-hour session, was the fastest in U.S. history. It is also the first time in the nation's history that a president was impeached twice.
 

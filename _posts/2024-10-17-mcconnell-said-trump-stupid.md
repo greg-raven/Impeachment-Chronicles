@@ -21,7 +21,7 @@ McConnell strongly denounced Trump's actions in the lead-up to the Jan. 6 riots,
 
 And he called Trump's actions preceding the riot "a disgraceful dereliction of duty."
 
-Republican senators have told The Hill that members of their conference also viewed Trump as largely responsible for the loss of their Senate majority because he harshly criticized the fairness of the election process in Georgia — depressing GOP voter turnout — ahead of a crucial runoff election in which Democrats defeated Sens. David Perdue (R) and Kelly Loeffler (R).
+Republican senators have told The Hill that members of their conference also viewed Trump as largely responsible for the loss of their Senate majority because he harshly criticized the fairness of the election process in Georgia --- depressing GOP voter turnout --- ahead of a crucial runoff election in which Democrats defeated Sens. David Perdue (R) and Kelly Loeffler (R).
 
 McConnell did not speak to Trump for years after that falling out and they didn't meet again in person until this June, when the GOP presidential nominee met with Republican senators at the National Republican Senatorial Committee headquarters on Capitol Hill.
 

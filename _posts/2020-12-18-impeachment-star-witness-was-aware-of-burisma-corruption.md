@@ -19,7 +19,7 @@ Polt emails Yovanovitch on October 4, 2017:
 
 Yovanovitch, in her response, warned Polt about Burisma, writing:
 
-> Mike: Sorry not to have responded more quickly. I will get back to you with a fuller response, but I would urge caution in dealing with the Burisma Group. It is widely believed that the owner was the beneficiary of the corrupt justice system here and I think –to the extent that anyone is aware that Burisma is funding the training –there would be raised eyebrows in Kyiv over the irony of Burisma training prosecutors and to what end.
+> Mike: Sorry not to have responded more quickly. I will get back to you with a fuller response, but I would urge caution in dealing with the Burisma Group. It is widely believed that the owner was the beneficiary of the corrupt justice system here and I think --- to the extent that anyone is aware that Burisma is funding the training --- there would be raised eyebrows in Kyiv over the irony of Burisma training prosecutors and to what end.
 >
 > I'd also note that the PGO [Prosecutor General's Office] is one of the entities here that remains resolutely unreformed. After a year and a half of trying, we pulled out and reprogrammed our resources into other areas in the justice sector that were ready for change. Wish I had better news and will get back to you with more details.
 

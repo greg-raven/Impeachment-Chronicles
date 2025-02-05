@@ -18,7 +18,7 @@ Romney: 'Confusion reigns' on CR as Trump's direction 'absent' - https://www.msn
 
 The Great Capitulation - The New York Times - https://www.nytimes.com/2024/12/16/opinion/trump-tech-leaders-support.html
 
-FreedomWorks Is Closing — And Blaming Trump - POLITICO - https://www.politico.com/news/magazine/2024/05/08/freedomworks-is-closing-and-blaming-trump-00156784
+FreedomWorks Is Closing --- And Blaming Trump - POLITICO - https://www.politico.com/news/magazine/2024/05/08/freedomworks-is-closing-and-blaming-trump-00156784
 
 
 
@@ -100,7 +100,7 @@ https://www.youtube.com/watch?v=NgJDbzXo3rQ
 
 [James Clapper, Mr. October Surprise: How Obama's Intel Czar Rigged 2016 and 2020 Debates Against Trump | RealClearInvestigations](https://www.realclearinvestigations.com/articles/2024/06/26/james_clapper_mr_october_surprise_how_obamas_intel_czar_rigged_2016_and_2020_debates_against_trump_1040444.html)
 
-[Clapper and the Spooks – Enemies Foreign and Domestic - American Thinker](https://www.americanthinker.com/articles/2024/07/clapper_and_the_spooks_enemies_foreign_and_domestic.html)
+[Clapper and the Spooks --- Enemies Foreign and Domestic --- American Thinker](https://www.americanthinker.com/articles/2024/07/clapper_and_the_spooks_enemies_foreign_and_domestic.html)
 
 [Insurrections and the Leviathan State - American Thinker](https://www.americanthinker.com/articles/2024/07/insurrections_and_the_leviathan_state.html)
 

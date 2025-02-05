@@ -19,7 +19,7 @@ While I will try not to "get too far in the weeds" in this discussion it is nece
 
 First, what his report did not say: The article which prompted me to take a closer look at this issue made the following statement:
 
-> Jack Smith, the dutiful DOJ attack dog unleashed to take down President Trump and eliminate him from the 2024 race, has finally let the truth slip about January 6th. Whether it was a blunder or a last-resort confession doesn't matter—the fact is, it's now on the official record: President Trump never incited an insurrection, because there wasn't one.
+> Jack Smith, the dutiful DOJ attack dog unleashed to take down President Trump and eliminate him from the 2024 race, has finally let the truth slip about January 6th. Whether it was a blunder or a last-resort confession doesn't matter --- the fact is, it's now on the official record: President Trump never incited an insurrection, because there wasn't one.
 
 While it may certainly be inferred from the language used to justify his decision not to charge President Trump under the Insurrection Act, he did not say there was no insurrection as his Trump Derangement Syndrome would not permit him to go that far. However, his statement clearly amounts to that conclusion once one cuts through all the Deep State bureaucratic gobbledygook and legalistic obfuscation.
 

@@ -25,7 +25,7 @@ For several areas of concern, including but not limited to:
 
 8. failure to take care that the laws be faithfully executed;
 
-9. failure to preserve records required by the Presidential Recordings and Materials Preservation Act (PRMPA) of 1974 (Public Law 93–526, 88 Stat. 1695);
+9. failure to preserve records required by the Presidential Recordings and Materials Preservation Act (PRMPA) of 1974 (Public Law 93-526, 88 Stat. 1695);
 
 10. countenancing the payment of ransom with Federal funds to secure the release of an American hostage held in violation of international law by an outlaw nation;
 

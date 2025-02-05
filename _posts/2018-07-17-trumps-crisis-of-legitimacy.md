@@ -15,7 +15,7 @@ But of course it is not at all clear that the Russian interference had no materi
 
 Trey Gowdy, the chair of the House Oversight Committee, issued a statement post-Helsinki: "It is possible to conclude Russia interfered in our election in 2016 without delegitimizing his [President Trump's] electoral success." It is possible to do that, but you have to be strongly motivated. The more plausible and more probable conclusion, even before Helsinki, was that the Russian interference shadowed Trump's legitimacy. Post-Helsinki, the doubts rankle even more sharply.
 
-Plainly, there is something wrong in the Trump–Russia relationship. Plainly, it governs Trump's behavior. Plainly, Trump refuses to do the things --- release his tax returns, for example --- that might clarify his financial obligations to Russian sources.
+Plainly, there is something wrong in the Trump-Russia relationship. Plainly, it governs Trump's behavior. Plainly, Trump refuses to do the things --- release his tax returns, for example --- that might clarify his financial obligations to Russian sources.
 
 Republicans want to argue that Russia did something wrong to influence the election's outcome, while rebuffing questions about whether the outcome of the election was wrongly influenced. This is not a sustainable position, something Trump has recognized more clearly than most of his followers.
 

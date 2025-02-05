@@ -127,7 +127,7 @@ In a March 2017 interview with CNN anchor Wolf Blitzer, for example, Sullivan di
 
 Sullivan insisted that the computer scientists "weren't just making up crackpot theories."
 
-In fact, Durham is actively investigating their leader for potential fraud and conspiracy– computer contractor Rodney Joffe, who was offered a top post in a future Clinton administration --- according to recent court filings. Joffe, who recently was terminated for cause as a longtime FBI informant, has invoked his Fifth Amendment right against self-incrimination and refused to cooperate with grand jury subpoenas. His lawyer did not respond to phone calls and email messages.
+In fact, Durham is actively investigating their leader for potential fraud and conspiracy --- computer contractor Rodney Joffe, who was offered a top post in a future Clinton administration --- according to recent court filings. Joffe, who recently was terminated for cause as a longtime FBI informant, has invoked his Fifth Amendment right against self-incrimination and refused to cooperate with grand jury subpoenas. His lawyer did not respond to phone calls and email messages.
 
 **Dafna Rand: An Anti-Trump Outfit Called TDIP**
 

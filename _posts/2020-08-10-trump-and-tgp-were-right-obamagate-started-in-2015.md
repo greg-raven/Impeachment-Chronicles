@@ -17,23 +17,23 @@ In June of 2018, *The Gateway Pundit* posted an article identifying unredacted w
 
 The discovery came from an individual on Twitter who was later removed from Twitter, named Nick Falco, who identified a word uncovered in a Senate text that was previously redacted by the corrupt DOJ.
 
-In our post we noted that hidden in the information released by the Senate at that time were unredacted Strzok–Page texts that showed that the FBI initiated actions to insert multiple spies in the Trump campaign in December 2015.
+In our post we noted that hidden in the information released by the Senate at that time were unredacted Strzok-Page texts that showed that the FBI initiated actions to insert multiple spies in the Trump campaign in December 2015.
 
 As we reported previously, according to far left *LA Times,* Comey stated in March of 2017 under oath that the FBI investigation into the Trump --- Russia scandal started in July 2016.
 
 We knew then without a doubt that Comey lied about this.
 
-Intelligence expert Tony Shaffer tweeted Falco's tweet –
+Intelligence expert Tony Shaffer tweeted Falco's tweet ---
 
-> I'd call this evidence of collusion and wrongdoing... https://t.co/CcTrao5bZE
+> I'd call this evidence of collusion and wrongdoing ... https://t.co/CcTrao5bZE
 >
 > <cite>Tony Shaffer (@T\_S\_P\_O\_O\_K\_Y) June 4, 2018</cite>
 
 Falco's tweet (soon taken down by Twitter) stated that the texts released from corrupt FBI investigator Peter Strzok to corrupt FBI attorney Lisa Page state the following:
 
-> BOMBSHELL- From DECEMBER 2015–The word LURES is redacted by FBI but not OIG; OCONUS LURES; OCONUS= Outside Contiguous U.S. LURES= In this context LURES = SPIES --- multiple --- Is this an admission that the FBI wanted to run a baited Sting Op using foreign agents against Trump?"
+> BOMBSHELL --- From DECEMBER 2015 --- The word LURES is redacted by FBI but not OIG; OCONUS LURES; OCONUS= Outside Contiguous U.S. LURES= In this context LURES = SPIES --- multiple --- Is this an admission that the FBI wanted to run a baited Sting Op using foreign agents against Trump?"
 >
-> 1\) BOMBSHELL- From DECEMBER 2015–The word LURES is redacted by FBI but not OIG
+> 1\) BOMBSHELL --- From DECEMBER 2015 --- The word LURES is redacted by FBI but not OIG
 >
 > "OCONUS LURES"
 >
@@ -85,7 +85,7 @@ Based on his calendar and his wife Nellie's testimony, we know that Bruce Ohr li
 
 General Flynn's attorney Sidney Powell gave us another clue in September of 2019.
 
-In her filing with the court, she requests that the U.S. government provide her and her client, General Mike Flynn, documents related to Deep State spy Joseph Mifsud from an event in late 2015 –
+In her filing with the court, she requests that the U.S. government provide her and her client, General Mike Flynn, documents related to Deep State spy Joseph Mifsud from an event in late 2015 ---
 
 [...]
 

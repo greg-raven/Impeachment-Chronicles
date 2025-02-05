@@ -7,7 +7,7 @@ tags:
 
 So now we know that the cop who fatally shot unarmed Donald Trump supporter Ashli Babbitt, 36, during the Jan. 6, 2021, Capitol riot was rewarded with a promotion and a $36,000 bonus. 
 
-There were no ill consequences for his rash actions that day. Instead, Capt. Michael Byrd, 56, was held up as a hero of democracy, despite the fact that he had a lengthy disciplinary record that includes leaving his loaded handgun in a public bathroom in the Capitol Visitor Center, "improperly" firing his gun at a car near his home while off duty and abusing a Maryland cop who tried to stop him entering a high school football field as a "racist a–hole," again while off duty, according to a letter released last week by the GOP-led House Administration Committee's Subcommittee on Oversight.
+There were no ill consequences for his rash actions that day. Instead, Capt. Michael Byrd, 56, was held up as a hero of democracy, despite the fact that he had a lengthy disciplinary record that includes leaving his loaded handgun in a public bathroom in the Capitol Visitor Center, "improperly" firing his gun at a car near his home while off duty and abusing a Maryland cop who tried to stop him entering a high school football field as a "racist a-hole," again while off duty, according to a letter released last week by the GOP-led House Administration Committee's Subcommittee on Oversight.
 
 Three entries in Byrd's internal affairs record are missing, wrote subcommittee Chairman Barry Loudermilk (R-Ga.) in a letter to Capitol Police Chief Thomas Manger. 
 

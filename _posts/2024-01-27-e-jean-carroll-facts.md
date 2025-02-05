@@ -59,7 +59,7 @@ Breitbart News detailed:
 >
 > Carroll replied with the following advice (emphasis added):
 >
-> > Dear Snowed Under: Stop flagellating yourself. Gadzooks! At least you have orgasms. And if that isn't spontaneous sex I don't know what is. Most women (about 70 percent) experience difficulties climaxing through intercourse alone. So you're perfectly normal. Begin by reading For Yourself by Dr. Lonnie Barbach. She'll give you excellent instructions on how to have an orgasm during intercourse. Then after 313 queenhell love-wiggles, move on to Gretta Garbo's favorite love position – the top. (In erotic scenes, Garbo is always above the man. So are Sharon Stone, Bette Midler and Katherine Hepburn). **Indeed, this location works better for women than the fourth floor of Bergdorf's.**
+> > Dear Snowed Under: Stop flagellating yourself. Gadzooks! At least you have orgasms. And if that isn't spontaneous sex I don't know what is. Most women (about 70 percent) experience difficulties climaxing through intercourse alone. So you're perfectly normal. Begin by reading For Yourself by Dr. Lonnie Barbach. She'll give you excellent instructions on how to have an orgasm during intercourse. Then after 313 queenhell love-wiggles, move on to Gretta Garbo's favorite love position --- the top. (In erotic scenes, Garbo is always above the man. So are Sharon Stone, Bette Midler, and Katherine Hepburn). **Indeed, this location works better for women than the fourth floor of Bergdorf's.**
 
 12\.  Carroll is financially backed by anti-Trump Democrat megadonor Reid Hoffman, who has openly admitted to visiting convicted sex offender Jeffrey Epstein's private island.
 
