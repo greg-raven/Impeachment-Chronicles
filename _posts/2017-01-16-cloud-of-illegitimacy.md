@@ -5,10 +5,18 @@ tags:
 - Hakeem Jeffries
 ---
 
-> Because John Lewis is completely right, there's a cloud of illegitimacy around the election of Donald Trump.
+> John Lewis is completely right.
+> 
+> There is a cloud of illegitimacy around the election of Donald Trump.
+> 
+> The Russians interfered with his election.
+> 
+> James Comey and the FBI interfered with his ... uh ... election.
+> 
+> The fake news industry interfered with his election.
 >
 > <cite>Hakeem Jeffries</cite>
 
-<iframe width="560" height="315" src="https://grabien.com/getmedia.php?id=1739545&#038;key=d18ca4f0273aa82a7afe3bc2dcb8dc2a&#038;userid=17087"></iframe>
+<div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 1em;"><video class="embed-responsive-item" controls src="https://www.glockspiel.com/impeach45/2017-01-16-hakeem-jeffries.mp4" poster="https://www.glockspiel.com/impeach45/2017-01-16-hakeem-jeffries.jpg"></video><br></div>
 
 Source: MSNBC
