@@ -27,7 +27,7 @@ And Trump shot back against the reports a short time later on Twitter.
 >
 > <cite>Donald J. Trump (@realDonaldTrump) January 11, 2017</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">FAKE NEWS - A TOTAL POLITICAL WITCH HUNT!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/818990655418617856?ref_src=twsrc%5Etfw">January 11, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">FAKE NEWS --- A TOTAL POLITICAL WITCH HUNT!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/818990655418617856?ref_src=twsrc%5Etfw">January 11, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Donald Trump, via [𝕏](https://twitter.com/realDonaldTrump/status/818990655418617856)
 

@@ -34,7 +34,7 @@ Page
 : "That's what I'm afraid of."
 
 Strzok
-: "God, Hillary should win 100,000,000 - 0."
+: "God, Hillary should win 100,000,000 -- 0."
 
 
 Source: [Durham report]({% post_url 2023-05-12-durham-report %})

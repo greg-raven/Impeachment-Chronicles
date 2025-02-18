@@ -23,7 +23,7 @@ The president responded to the Democrat's speech almost immediately in a tweet. 
 
 "Joe's Failing Campaign gave him no other choice!" the president wrote.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So pathetic to see Sleepy Joe Biden, who with his son, Hunter, and to the detriment of the American Taxpayer, has ripped off at least two countries for millions of dollars, calling for my impeachment - and I did nothing wrong. Joe's Failing Campaign gave him no other choice!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1181991604493656064?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So pathetic to see Sleepy Joe Biden, who with his son, Hunter, and to the detriment of the American Taxpayer, has ripped off at least two countries for millions of dollars, calling for my impeachment --- and I did nothing wrong. Joe's Failing Campaign gave him no other choice!</p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1181991604493656064?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote>
 
 Biden on Wednesday argued that Trump dredged up the allegations because he feared Biden as an opponent in 2020. Many early polls show Biden, one of the leading contenders for the Democratic nomination, beating Trump in key electoral states.
 

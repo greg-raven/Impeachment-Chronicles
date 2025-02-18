@@ -1,24 +1,10 @@
-EXCLUSIVE: FEMA Chief Confirms Multiple 'Ongoing' Federal Investigations Into Trump Instructions - https://www.dailywire.com/news/exclusive-fema-chief-confirms-multiple-ongoing-federal-investigations-into-trump-instructions
+Donald Trump Shares Campaign Video Featuring Image Used by White Supremacist Group --- Newsweek --- https://www.newsweek.com/donald-trump-shares-campaign-video-featuring-image-used-white-supremacist-group-1456785
 
-Warning signs for Trump as Republican rebels defiant - https://www.msn.com/en-us/news/politics/warning-signs-for-trump-as-republican-rebels-defiant/ar-AA1wesRi
+Romney: 'Confusion reigns' on CR as Trump's direction 'absent' --- https://www.msn.com/en-us/news/politics/romney-confusion-reigns-on-cr-as-trump-direction-absent/ar-AA1w6Pte
 
-Trump's Second Term Plans: Wildest Proposals for 2025 and Beyond - https://www.rollingstone.com/politics/politics-features/trump-second-term-plans-wildest-proposals-1234947327/
+The Great Capitulation --- The New York Times --- https://www.nytimes.com/2024/12/16/opinion/trump-tech-leaders-support.html
 
-'Did he lie?' Trump questioning his price-lowering promises sparks anger - https://www.msn.com/en-us/news/politics/did-he-lie-trump-questioning-his-price-lowering-promises-sparks-anger/ar-AA1vL0jH
-
-Trump was notified the Capitol was under attack. He remained in the Oval Office dining room for 187" - https://www.dailykos.com/stories/2024/12/15/2292074/-Trump-was-notified-the-Capitol-was-under-attack-He-remained-in-the-Oval-Office-dining-room-for-187
-
-Panicked CEOs left 'scratching their heads' as Trump ignores their warnings - https://www.rawstory.com/trump-ceos-tariffs/
-
-Costco exec warns Trump tariffs would raise costs | Fox Business - https://www.foxbusiness.com/lifestyle/costco-exec-warns-trumps-proposed-tariffs-would-raise-costs
-
-Donald Trump Shares Campaign Video Featuring Image Used by White Supremacist Group - Newsweek - https://www.newsweek.com/donald-trump-shares-campaign-video-featuring-image-used-white-supremacist-group-1456785
-
-Romney: 'Confusion reigns' on CR as Trump's direction 'absent' - https://www.msn.com/en-us/news/politics/romney-confusion-reigns-on-cr-as-trump-direction-absent/ar-AA1w6Pte
-
-The Great Capitulation - The New York Times - https://www.nytimes.com/2024/12/16/opinion/trump-tech-leaders-support.html
-
-FreedomWorks Is Closing --- And Blaming Trump - POLITICO - https://www.politico.com/news/magazine/2024/05/08/freedomworks-is-closing-and-blaming-trump-00156784
+FreedomWorks Is Closing --- And Blaming Trump --- POLITICO --- https://www.politico.com/news/magazine/2024/05/08/freedomworks-is-closing-and-blaming-trump-00156784
 
 
 
@@ -36,34 +22,34 @@ https://time.com/vault/year/2024/
 - September 3, 2018 In Deep
 - October 7, 2019 (painting himself into a corner)
 - May 25, 2020 There's a Right Way to Reopen American (This Isn't It)
-- May 27, 2024 If He Wins - https://time.com/magazine/us/6979410/may-27th-2024-vol-203-no-17-u-s/
-- June 24, 2024 Donald Trump Convicted in Historic New York Hush-Money Trial - https://time.com/magazine/us/6988424/june-24th-2024-vol-203-no-21-u-s/
-- September 30, 2024 In Trouble - https://time.com/magazine/us/7023172/september-30th-2024-vol-204-no-9-u-s-asia-south-pacific/
-- November 25, 2024 How Trump Won - https://time.com/magazine/us/7176710/november-25th-2024-vol-204-no-17-u-s-south-pacific-europe-middle-east-and-africa/
+- May 27, 2024 If He Wins --- https://time.com/magazine/us/6979410/may-27th-2024-vol-203-no-17-u-s/
+- June 24, 2024 Donald Trump Convicted in Historic New York Hush-Money Trial --- https://time.com/magazine/us/6988424/june-24th-2024-vol-203-no-21-u-s/
+- September 30, 2024 In Trouble --- https://time.com/magazine/us/7023172/september-30th-2024-vol-204-no-9-u-s-asia-south-pacific/
+- November 25, 2024 How Trump Won --- https://time.com/magazine/us/7176710/november-25th-2024-vol-204-no-17-u-s-south-pacific-europe-middle-east-and-africa/
 
 
 
 
 
-Kamala Harris' Hitler-Focused Closing Argument Is A Shameful Stain On Her Party - https://www.public.news/p/kamala-harris-hitler-focused-closing
+Kamala Harris' Hitler-Focused Closing Argument Is A Shameful Stain On Her Party --- https://www.public.news/p/kamala-harris-hitler-focused-closing
 
-Why Harris moved from 'joy' to calling Trump a 'fascist' - https://www.bbc.com/news/articles/c1dp7xnyr51o
+Why Harris moved from 'joy' to calling Trump a 'fascist' --- https://www.bbc.com/news/articles/c1dp7xnyr51o
 
-Trump Used 'N-Word' In Taped 'Apprentice' Meeting, Producer Claims - https://www.forbes.com/sites/saradorn/2024/05/30/trump-used-n-word-apprentice-producer-says-biden-calls-foe-racist/
+Trump Used 'N-Word' In Taped 'Apprentice' Meeting, Producer Claims --- https://www.forbes.com/sites/saradorn/2024/05/30/trump-used-n-word-apprentice-producer-says-biden-calls-foe-racist/
 
-Something BAD Must Be Going on in Trump World Because Trump Is Losing His MIND on Truth Social - https://www.politicalflare.com/2024/10/something-bad-must-be-going-on-in-trump-world-because-trump-is-losing-his-mind-on-truth-social/
+Something BAD Must Be Going on in Trump World Because Trump Is Losing His MIND on Truth Social --- https://www.politicalflare.com/2024/10/something-bad-must-be-going-on-in-trump-world-because-trump-is-losing-his-mind-on-truth-social/
 
-2024-03-01 [MSNBC Goes Full Racist on President Trump's WHITE RURAL Voters aka People living in the Country - Accused of WHITE RURAL RAGE](https://rumble.com/v4gisu6-msnbc-goes-full-racist-on-pres-trumps-white-rural-voters-aka-people-living-.html)
+2024-03-01 [MSNBC Goes Full Racist on President Trump's WHITE RURAL Voters aka People living in the Country --- Accused of WHITE RURAL RAGE](https://rumble.com/v4gisu6-msnbc-goes-full-racist-on-pres-trumps-white-rural-voters-aka-people-living-.html)
 
 2023-12-22 [Trump recorded pressuring Wayne Co. canvassers not to certify 2020 vote](https://www.detroitnews.com/story/news/politics/2023/12/21/donald-trump-recorded-pressuring-wayne-canvassers-not-to-certify-2020-vote-michigan/72004514007/)
 
 2020-07-09 [No, Trump didn't tell Americans infected with the coronavirus to drink bleach](https://www.politifact.com/factchecks/2020/jul/11/joe-biden/no-trump-didnt-tell-americans-infected-coronavirus/)
 
-2024-04-01 [Trump Gag Order Is Expanded to Stop Attacks on Judge Merchan's Family - The New York Times](https://www.nytimes.com/2024/04/01/nyregion/trump-gag-order-juan-merchan.html)
+2024-04-01 [Trump Gag Order Is Expanded to Stop Attacks on Judge Merchan's Family --- The New York Times](https://www.nytimes.com/2024/04/01/nyregion/trump-gag-order-juan-merchan.html)
 
 [Trump attacks judge after gag order in hush money case | AP News](https://apnews.com/article/donald-trump-judge-merchan-hush-money-gag-order-truth-social-daughter-578a0c6334b206d81dc2ebf6a410a502)
 
-[Now even leftists think putting Stormy Daniels on the stand trashed Alvin Bragg's case against Trump - American Thinker](https://www.americanthinker.com/blog/2024/05/now_even_leftists_think_putting_stormy_daniels_on_the_stand_trashed_alvin_bragg_s_case_against_trump.html)
+[Now even leftists think putting Stormy Daniels on the stand trashed Alvin Bragg's case against Trump --- American Thinker](https://www.americanthinker.com/blog/2024/05/now_even_leftists_think_putting_stormy_daniels_on_the_stand_trashed_alvin_bragg_s_case_against_trump.html)
 
 [Judge in Trump Case Says She's Concerned With Special Counsel Jack Smith | The Epoch Times](https://www.theepochtimes.com/us/judge-in-trump-case-says-shes-concerned-with-special-counsel-jack-smith-5653302)
 
@@ -102,7 +88,7 @@ https://www.youtube.com/watch?v=NgJDbzXo3rQ
 
 [Clapper and the Spooks --- Enemies Foreign and Domestic --- American Thinker](https://www.americanthinker.com/articles/2024/07/clapper_and_the_spooks_enemies_foreign_and_domestic.html)
 
-[Insurrections and the Leviathan State - American Thinker](https://www.americanthinker.com/articles/2024/07/insurrections_and_the_leviathan_state.html)
+[Insurrections and the Leviathan State --- American Thinker](https://www.americanthinker.com/articles/2024/07/insurrections_and_the_leviathan_state.html)
 
 [BREAKING: Judge Cannon DISMISSES Trump/Classified Docs Case, Calls Jack Smith Appt. Unconstitutional – Twitchy](https://twitchy.com/samj/2024/07/15/judge-aileen-cannon-dismissed-trumpclassified-docs-case-saying-that-jack-smiths-appt-unconstitutional-n2398385)
 
@@ -122,11 +108,11 @@ https://www.youtube.com/watch?v=NgJDbzXo3rQ
 
 [Trump rally shooting being investigated as attempt on his life as spectator killed | Donald Trump | The Guardian](https://www.theguardian.com/us-news/article/2024/jul/13/trump-rally-gun-shots-pennsylvania)
 
-[Trump's history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
+[Trump's history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack --- Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
 
 [Disney's 'Star Wars' Star Mark Hamill Cracks Jokes About Trump's Ear Bandage Following Assassination Attempt](https://www.breitbart.com/entertainment/2024/07/16/disneys-star-wars-star-mark-hamill-cracks-jokes-about-trumps-ear-bandage-following-assassination-attempt/)
 
-[Google buries Trump campaign site as GOP convention kicks off - Rebel News](https://www.rebelnews.com/google_buries_trump_campaign_site_as_gop_convention_kicks_off)
+[Google buries Trump campaign site as GOP convention kicks off --- Rebel News](https://www.rebelnews.com/google_buries_trump_campaign_site_as_gop_convention_kicks_off)
 
 [BREAKING: Secret Service DENIED requests for more security at Trump rallies before assassination attempt: report | The Post Millennial | thepostmillennial.com](https://thepostmillennial.com/breaking-secret-service-denied-requests-for-more-security-at-trump-rallies-before-assassination-attempt-report)
 
@@ -136,15 +122,15 @@ https://www.youtube.com/watch?v=NgJDbzXo3rQ
 
 https://www.threads.net/@countdownwithkeitholbermann/post/C9kdstJRx8s
 
-[Democrats Immediately Start Calling Trump Too Old - Newsweek](https://www.newsweek.com/democrats-donald-trump-old-joe-biden-age-1928586)
+[Democrats Immediately Start Calling Trump Too Old --- Newsweek](https://www.newsweek.com/democrats-donald-trump-old-joe-biden-age-1928586)
 
-[Fact Check: Did Joe Biden Say He Would Fight Donald Trump? - Newsweek](https://www.newsweek.com/joe-biden-back-barn-donald-trump-tiktok-video-fact-check-1839170)
+[Fact Check: Did Joe Biden Say He Would Fight Donald Trump? --- Newsweek](https://www.newsweek.com/joe-biden-back-barn-donald-trump-tiktok-video-fact-check-1839170)
 
-[Trump's history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack - Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
+[Trump's history of inciting violence in words and tweets: A timeline from 2015 through the Capitol attack --- Vox](https://www.vox.com/21506029/trump-violence-tweets-racist-hate-speech)
 
-[Despite Trump claim and 2020 tweet showing support, Harris never donated to Minnesota Freedom Fund - CBS Minnesota](https://www.cbsnews.com/minnesota/news/donald-trump-kamala-harris-minnesota-freedom-fund-donation/)
+[Despite Trump claim and 2020 tweet showing support, Harris never donated to Minnesota Freedom Fund --- CBS Minnesota](https://www.cbsnews.com/minnesota/news/donald-trump-kamala-harris-minnesota-freedom-fund-donation/)
 
-['Direct attack': Critics say Trump is prepping 'much bigger insurrection' - Raw Story](https://www.rawstory.com/trump-direct-democracy-insurrection/)
+['Direct attack': Critics say Trump is prepping 'much bigger insurrection' --- Raw Story](https://www.rawstory.com/trump-direct-democracy-insurrection/)
 
 [New photos of Trump's ear have left-wingers doubling down on conspiracy he wasn't shot](https://www.elhayat-life.com/2024/07/new-photos-of-trumps-ear-have-left.html)
 
@@ -152,9 +138,9 @@ https://www.threads.net/@countdownwithkeitholbermann/post/C9kdstJRx8s
 
 https://www.westernjournal.com/google-admits-changing-search-results-trump-assassination-searches-much/
 
-[Donald Trump Says He Will Go to Venezuela if He Loses Election - Newsweek](https://www.newsweek.com/donald-trump-flee-venezuela-loses-election-elon-musk-interview-1938321)
+[Donald Trump Says He Will Go to Venezuela if He Loses Election --- Newsweek](https://www.newsweek.com/donald-trump-flee-venezuela-loses-election-elon-musk-interview-1938321)
 
-[What's Happened In Silicon Valley Is Insane,' Says Mark Cuban – 'They Want Trump To Be The CEO Of The United States of America' - Benzinga](https://www.benzinga.com/startups/24/08/40429719/whats-happened-in-silicon-valley-is-insane-says-mark-cuban-they-want-trump-to-be-the-ceo-of-the-unit)
+[What's Happened In Silicon Valley Is Insane,' Says Mark Cuban – 'They Want Trump To Be The CEO Of The United States of America' --- Benzinga](https://www.benzinga.com/startups/24/08/40429719/whats-happened-in-silicon-valley-is-insane-says-mark-cuban-they-want-trump-to-be-the-ceo-of-the-unit)
 
 [VFW blasts Donald Trump Medal of Honor statement as 'assinine'](https://thehill.com/homenews/4832324-vfw-donald-trump-medal-honor-statement/)
 
@@ -162,98 +148,123 @@ https://www.westernjournal.com/google-admits-changing-search-results-trump-assas
 
 [Mark Zuckerberg admits Biden admin pressured Facebook to censor COVID content, says it was wrong to suppress Hunter laptop coverage](https://nypost.com/2024/08/27/us-news/mark-zuckerberg-admits-biden-admin-pressured-facebook-to-censor-covid-content-says-it-was-wrong-to-suppress-hunter-laptop-coverage/)
 
-[Opinion | Here are 18 reasons Trump could be a Russian asset - The Washington Post](https://www.washingtonpost.com/opinions/here-are-18-reasons-why-trump-could-be-a-russian-asset/2019/01/13/45b1b250-174f-11e9-88fe-f9f77a3bcb6c_story.html)
+[Opinion | Here are 18 reasons Trump could be a Russian asset --- The Washington Post](https://www.washingtonpost.com/opinions/here-are-18-reasons-why-trump-could-be-a-russian-asset/2019/01/13/45b1b250-174f-11e9-88fe-f9f77a3bcb6c_story.html)
 
 https://www.theatlantic.com/entertainment/archive/2017/01/madonna-trump-blow-up-the-white-house-womens-march-speech/514106/
 
-[Donald Trump Says He Never Swore Oath 'to Support the Constitution' - Newsweek](https://www.newsweek.com/donald-trump-oath-support-constitution-colorado-insurrection-1847482)
+[Donald Trump Says He Never Swore Oath 'to Support the Constitution' --- Newsweek](https://www.newsweek.com/donald-trump-oath-support-constitution-colorado-insurrection-1847482)
 
-[Trump Says He Had 'Every Right' to Interfere With Election - Newsweek](https://www.newsweek.com/donald-trump-every-right-interfere-presidential-election-1947342)
+[Trump Says He Had 'Every Right' to Interfere With Election --- Newsweek](https://www.newsweek.com/donald-trump-every-right-interfere-presidential-election-1947342)
 
-[Pennsylvania is slipping out of Trump's reach - UnHerd](https://unherd.com/2024/09/pennsylvania-is-slipping-out-of-trumps-reach/)
+[Pennsylvania is slipping out of Trump's reach --- UnHerd](https://unherd.com/2024/09/pennsylvania-is-slipping-out-of-trumps-reach/)
 
-Trump's ad spending reveals a struggling campaign - https://www.dailykos.com/stories/2024/9/3/2267534/-Trump-s-ad-spending-reveals-a-struggling-campaign
+Trump's ad spending reveals a struggling campaign --- https://www.dailykos.com/stories/2024/9/3/2267534/-Trump-s-ad-spending-reveals-a-struggling-campaign
 
-Trump Is Now Facing Serious Memory Lapses Which Has People Concerned - https://www.politicalflare.com/2024/07/trump-is-now-facing-serious-memory-lapses-which-has-people-concerned/
+Trump Is Now Facing Serious Memory Lapses Which Has People Concerned --- https://www.politicalflare.com/2024/07/trump-is-now-facing-serious-memory-lapses-which-has-people-concerned/
 
-CNN slammed for 'sane-washing Trump's diatribe' after more incomprehensible rants - Politics - News - Daily Express US - https://www.the-express.com/news/politics/148045/trump-rant-sane-washing-rally
+CNN slammed for 'sane-washing Trump's diatribe' after more incomprehensible rants --- Politics --- News --- Daily Express US --- https://www.the-express.com/news/politics/148045/trump-rant-sane-washing-rally
 
 https://www.reddit.com/r/Law_and_Politics/comments/1ffdjdr/so_here_is_how_the_trumpism_slide_will_happen/
 
-Trump's debate meltdown was spectacular - https://www.msn.com/en-us/news/politics/trump-s-debate-meltdown-was-spectacular/ar-AA1qnGY0
+Trump's debate meltdown was spectacular --- https://www.msn.com/en-us/news/politics/trump-s-debate-meltdown-was-spectacular/ar-AA1qnGY0
 
-People Shocked as Sweaty Trump Slurred and Seemed Drunk During Michigan Speech, 'He Sounds Loaded!' - https://www.politicalflare.com/2024/09/people-shocked-as-sweaty-trump-slurred-and-seemed-drunk-during-michigan-speech-he-sounds-loaded/
+People Shocked as Sweaty Trump Slurred and Seemed Drunk During Michigan Speech, 'He Sounds Loaded!' --- https://www.politicalflare.com/2024/09/people-shocked-as-sweaty-trump-slurred-and-seemed-drunk-during-michigan-speech-he-sounds-loaded/
 
-Trump Mocked Mercilessly for Having a Meltdown as People Leave His Rally Early, 'He's Falling Apart!' - https://www.politicalflare.com/2024/09/trump-mocked-mercilessly-for-having-a-meltdown-as-people-leave-his-rally-early-hes-falling-apart/
+Trump Mocked Mercilessly for Having a Meltdown as People Leave His Rally Early, 'He's Falling Apart!' --- https://www.politicalflare.com/2024/09/trump-mocked-mercilessly-for-having-a-meltdown-as-people-leave-his-rally-early-hes-falling-apart/
 
-Bill Maher Assures His Guests That Trump Is 'Definitely Going to Lose': 'I'm Not Even Worried About It' - https://www.politicalflare.com/2024/09/bill-maher-assures-his-guests-that-trump-is-definitely-going-to-lose-im-not-even-worried-about-it/
+Bill Maher Assures His Guests That Trump Is 'Definitely Going to Lose': 'I'm Not Even Worried About It' --- https://www.politicalflare.com/2024/09/bill-maher-assures-his-guests-that-trump-is-definitely-going-to-lose-im-not-even-worried-about-it/
 
-Americans Disgusted After Trump Is Caught Drooling During Speech, 'Ketamine and Antipsychotics Cause Drooling!' - https://www.politicalflare.com/2024/09/americans-disgusted-after-trump-is-caught-drooling-during-speech-ketamine-and-antipsychotics-cause-drooling/
+Americans Disgusted After Trump Is Caught Drooling During Speech, 'Ketamine and Antipsychotics Cause Drooling!' --- https://www.politicalflare.com/2024/09/americans-disgusted-after-trump-is-caught-drooling-during-speech-ketamine-and-antipsychotics-cause-drooling/
 
-'Unreal': Massive pushback after Trump 'admitted he stiffed his workers' at latest rally - Raw Story - https://www.rawstory.com/trump-stiffed-workers-overtime/
+'Unreal': Massive pushback after Trump 'admitted he stiffed his workers' at latest rally --- Raw Story --- https://www.rawstory.com/trump-stiffed-workers-overtime/
 
-'OMG': Critics stunned as Trump caught 'endorsing The Purge' as a real policy at his rally - Raw Story - https://www.rawstory.com/trump-proposes-the-purge-policy/
+'OMG': Critics stunned as Trump caught 'endorsing The Purge' as a real policy at his rally --- Raw Story --- https://www.rawstory.com/trump-proposes-the-purge-policy/
 
-Trump's Tax Plan Is Another Giant Boon for the Wealthy - https://www.rollingstone.com/politics/politics-features/trump-tax-plan-wealthy-corporations-oil-billionaires-musk-1235107554/
+Trump's Tax Plan Is Another Giant Boon for the Wealthy --- https://www.rollingstone.com/politics/politics-features/trump-tax-plan-wealthy-corporations-oil-billionaires-musk-1235107554/
 
-Florida is nearing toss-up status as top Republican poll shows Trump's lead nearly vanished - https://www.msn.com/en-us/news/politics/florida-is-nearing-toss-up-status-as-top-republican-poll-shows-trump-s-lead-nearly-vanished/ar-AA1rKJLt
-
-
-Harris goads Trump over 'hiding' from a debate as he burnishes border bona fides - POLITICO - https://www.politico.com/news/2024/10/13/harris-attack-trump-second-debate-00183567
-
-Rashida Tlaib Twitter video: Michigan's New congresswoman on Trump: "we're going to impeach the motherfucker" - CBS News - https://www.cbsnews.com/news/congresswoman-rashida-tlaib-trump-profanity-curse-says-impeach-the-motherf-twitter-video/
-
-Alexandria Ocasio-Cortez Says Donald Trump Should Be Investigated And Possibly Impeached For Obstruction - https://www.buzzfeednews.com/article/lissandravilla/alexandria-ocasio-cortez-donald-trump-impeachment
-
-'Dead to me': Major rift reported between Trump and head of his campaign - Raw Story - https://www.rawstory.com/chris-lacivita-trump-campaign/
+Florida is nearing toss-up status as top Republican poll shows Trump's lead nearly vanished --- https://www.msn.com/en-us/news/politics/florida-is-nearing-toss-up-status-as-top-republican-poll-shows-trump-s-lead-nearly-vanished/ar-AA1rKJLt
 
 
-Democrat Strategist James Carville: Trump Win Is 'Sickening' and 'Depressing' - https://www.breitbart.com/politics/2024/11/07/democrat-strategist-james-carville-trump-win-sickening-depressing/
+Harris goads Trump over 'hiding' from a debate as he burnishes border bona fides --- POLITICO --- https://www.politico.com/news/2024/10/13/harris-attack-trump-second-debate-00183567
 
-Mad Leftists Flood Google with 'Move to Canada' Searches Following Trump Victory - https://www.breitbart.com/tech/2024/11/07/mad-leftists-flood-google-with-move-to-canada-searches-following-trump-victory/
+Rashida Tlaib Twitter video: Michigan's New congresswoman on Trump: "we're going to impeach the motherfucker" --- CBS News --- https://www.cbsnews.com/news/congresswoman-rashida-tlaib-trump-profanity-curse-says-impeach-the-motherf-twitter-video/
 
-After Trump's win, many despondent Americans research moving abroad | Reuters - https://www.reuters.com/world/us/after-trumps-win-many-despondent-americans-research-moving-abroad-2024-11-08/
+Alexandria Ocasio-Cortez Says Donald Trump Should Be Investigated And Possibly Impeached For Obstruction --- https://www.buzzfeednews.com/article/lissandravilla/alexandria-ocasio-cortez-donald-trump-impeachment
 
-John Bolton says Donald Trump will claim early victory 'between 9 and 10' p.m. - https://thehill.com/homenews/campaign/4972178-john-bolton-donald-trump-early-victory-2024/
+'Dead to me': Major rift reported between Trump and head of his campaign --- Raw Story --- https://www.rawstory.com/chris-lacivita-trump-campaign/
 
-Trump still uses 'comedy' to mask the dangers of his worst ideas - https://www.msnbc.com/opinion/msnbc-opinion/trump-election-won-seriously-comedy-rcna177723
 
-2024 election: What happens now to Trump's trials and sentencing. - https://slate.com/news-and-politics/2024/11/trump-trials-sentencing-election-2024-jack-smith-what-now.html
+Democrat Strategist James Carville: Trump Win Is 'Sickening' and 'Depressing' --- https://www.breitbart.com/politics/2024/11/07/democrat-strategist-james-carville-trump-win-sickening-depressing/
 
-Trump's 88 criminal charges and where they stand - CREW | Citizens for Responsibility and Ethics in Washington - https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-91-criminal-charges-and-where-they-stand/
+Mad Leftists Flood Google with 'Move to Canada' Searches Following Trump Victory --- https://www.breitbart.com/tech/2024/11/07/mad-leftists-flood-google-with-move-to-canada-searches-following-trump-victory/
 
-Millions at risk of losing health insurance after Trump's victory - https://www.nbcnews.com/health/health-news/millions-risk-losing-health-insurance-trumps-victory-rcna179146
+After Trump's win, many despondent Americans research moving abroad | Reuters --- https://www.reuters.com/world/us/after-trumps-win-many-despondent-americans-research-moving-abroad-2024-11-08/
 
-Stock Market Tanks as Trump Unveils Nightmare Cabinet Picks | The New Republic - https://newrepublic.com/post/188492/stock-market-tanks-trump-cabinet
+John Bolton says Donald Trump will claim early victory 'between 9 and 10' p.m. --- https://thehill.com/homenews/campaign/4972178-john-bolton-donald-trump-early-victory-2024/
 
-'In the dark': Trump team reportedly getting 'blocked' after transition's ethics 'failure' - Raw Story - https://www.rawstory.com/trump-in-the-dark-ethics/
+Trump still uses 'comedy' to mask the dangers of his worst ideas --- https://www.msnbc.com/opinion/msnbc-opinion/trump-election-won-seriously-comedy-rcna177723
 
-Jack Smith moves to abandon two criminal cases against Trump | AP News - https://apnews.com/article/trump-capitol-riot-justice-department-jack-smith-d6172cf98d8e03e099571c908267456c
+2024 election: What happens now to Trump's trials and sentencing. --- https://slate.com/news-and-politics/2024/11/trump-trials-sentencing-election-2024-jack-smith-what-now.html
 
-Biggest Loser in DOJ History Takes a Final L on His Way Out the Door - https://www.declassified.live/p/biggest-loser-in-doj-history-takes
+Trump's 88 criminal charges and where they stand --- CREW | Citizens for Responsibility and Ethics in Washington --- https://www.citizensforethics.org/reports-investigations/crew-reports/trumps-91-criminal-charges-and-where-they-stand/
 
-Trump's Sad, Pitiful Post on Social Media Almost Makes The Internet Feel Bad For Him ... Almost - https://www.politicalflare.com/2024/12/trumps-sad-pitiful-post-on-social-media-almost-makes-the-internet-feel-bad-for-him-almost/
+Millions at risk of losing health insurance after Trump's victory --- https://www.nbcnews.com/health/health-news/millions-risk-losing-health-insurance-trumps-victory-rcna179146
 
-Trump's shutdown gamble exposes limits of his power - https://sg.news.yahoo.com/warning-signs-trump-republican-rebels-152114835.html
+Stock Market Tanks as Trump Unveils Nightmare Cabinet Picks | The New Republic --- https://newrepublic.com/post/188492/stock-market-tanks-trump-cabinet
 
-Trump's call to bust budget cap fiscally irresponsible – Daily News - https://www.dailynews.com/2024/12/22/trumps-call-to-bust-budget-cap-fiscally-irresponsible/
+'In the dark': Trump team reportedly getting 'blocked' after transition's ethics 'failure' --- Raw Story --- https://www.rawstory.com/trump-in-the-dark-ethics/
+
+Jack Smith moves to abandon two criminal cases against Trump | AP News --- https://apnews.com/article/trump-capitol-riot-justice-department-jack-smith-d6172cf98d8e03e099571c908267456c
+
+Biggest Loser in DOJ History Takes a Final L on His Way Out the Door --- https://www.declassified.live/p/biggest-loser-in-doj-history-takes
+
+Trump's Sad, Pitiful Post on Social Media Almost Makes The Internet Feel Bad For Him ... Almost --- https://www.politicalflare.com/2024/12/trumps-sad-pitiful-post-on-social-media-almost-makes-the-internet-feel-bad-for-him-almost/
+
+Trump's shutdown gamble exposes limits of his power --- https://sg.news.yahoo.com/warning-signs-trump-republican-rebels-152114835.html
+
+Trump's call to bust budget cap fiscally irresponsible – Daily News --- https://www.dailynews.com/2024/12/22/trumps-call-to-bust-budget-cap-fiscally-irresponsible/
 
 Keep DC trash-free --- https://www.thegatewaypundit.com/2024/12/dc-department-transportation-scrambles-after-outrage-keep-dc/
 
-Trump Voters Are in for a Rude Awakening | The New Republic - https://newrepublic.com/article/189523/trump-voters-2025-rude-awakening
+Trump Voters Are in for a Rude Awakening | The New Republic --- https://newrepublic.com/article/189523/trump-voters-2025-rude-awakening
 
-Insurrection on Donald Trump - https://youtu.be/dmWpqBBgR98?si=kAQA7lZ5q1etB3UE
+Insurrection on Donald Trump --- https://youtu.be/dmWpqBBgR98?si=kAQA7lZ5q1etB3UE
 
-Trump and GOP allies falsely blame New Orleans attack on immigration failures - https://www.nbcnews.com/politics/national-security/trump-gop-allies-falsely-blame-new-orleans-attack-immigration-failures-rcna186022
+Trump and GOP allies falsely blame New Orleans attack on immigration failures --- https://www.nbcnews.com/politics/national-security/trump-gop-allies-falsely-blame-new-orleans-attack-immigration-failures-rcna186022
 
-DOJ watchdog says FBI had 26 confidential sources in DC for Jan. 6 riot -- but no evidence of undercover agents - https://nypost.com/2024/12/12/us-news/doj-watchdog-says-fbi-had-26-confidential-sources-in-dc-for-jan-6-riot-but-no-evidence-of-undercover-agents/
+DOJ watchdog says FBI had 26 confidential sources in DC for Jan. 6 riot -- but no evidence of undercover agents --- https://nypost.com/2024/12/12/us-news/doj-watchdog-says-fbi-had-26-confidential-sources-in-dc-for-jan-6-riot-but-no-evidence-of-undercover-agents/
 
-Phoenix billboard depicts Donald Trump, Nazi-like symbols - https://www.eveningtribune.com/story/news/local/phoenix/2017/03/17/billboard-depicts-trump-nazi-like-symbols-karen-fiorito/99326126/
+Phoenix billboard depicts Donald Trump, Nazi-like symbols --- https://www.eveningtribune.com/story/news/local/phoenix/2017/03/17/billboard-depicts-trump-nazi-like-symbols-karen-fiorito/99326126/
 
-Insurrectionist Democrats: Most oppose certifying a Trump reelection - Washington Examiner - https://www.washingtonexaminer.com/news/washington-secrets/2913791/insurrectionist-democrats-most-oppose-certifying-a-trump-reelection/
+Insurrectionist Democrats: Most oppose certifying a Trump reelection --- Washington Examiner --- https://www.washingtonexaminer.com/news/washington-secrets/2913791/insurrectionist-democrats-most-oppose-certifying-a-trump-reelection/
+
+Juan Merchan Sentences Trump: No Penalty, Conviction Upheld --- https://www.breitbart.com/law-and-order/2025/01/10/merchan-sentences-trump-to-unconditional-discharge-upholding-conviction/
+
+Trump supporters' travel expenses paid for Jan. 6 rally: new evidence --- https://www.usatoday.com/story/news/politics/elections/2024/10/18/donald-trump-election-interference-case-new-evidence/75714784007/
+
+Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump in new filing | CNN Politics --- https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html
+
+Special counsel releases trove of redacted documents in 2020 election subversion case against Trump | CNN Politics --- https://www.cnn.com/2024/10/18/politics/donald-trump-special-counsel-evidence-documents-release/index.html
+
+[US election 2020: Latest news on the Trump-Biden transition | CNN Politics](https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20#h_d58f958cc30c727786086bc83e861f84)
+
+[Donald Trump is the GOP’s chemotherapy --- The Washington Post](https://www.washingtonpost.com/opinions/donald-trumps-vile-candidacy-is-chemotherapy-for-the-gop/2016/10/10/73e40f30-8f05-11e6-9c85-ac42097b8cc0_story.html)
+
+[President Trump’s Lies, the Definitive List --- The New York Times](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html)
+
+[Statues of Washington, Jefferson Aren't 'Next,' But It's Complicated, Historians Say](https://www.nbcnews.com/politics/white-house/statues-washington-jefferson-aren-t-next-it-s-complicated-historians-n793971)
+
+[Robert Reich on Twitter: "Trump's lies have consequences. 48 hrs after his comments on Sweden, riots broke out in an immigrant community. https://t.co/1k2BOl2jdw"](https://archive.is/pvycQ)
+
+[Harris calls Trump a 'fascist' at CNN town hall, argues he's unfit for office](https://www.nbcnews.com/politics/2024-election/kamala-harris-calls-trump-fascist-argues-dangerous-unfit-office-rcna176713)
+
+[Donald Trump’s Muslim Ban Is Cowardly and Dangerous --- The New York Times](https://www.nytimes.com/2017/01/28/opinion/donald-trumps-muslim-ban-is-cowardly-and-dangerous.html)
+
+Trump's funding freeze creates widespread confusion --- https://www.nbcnews.com/politics/donald-trump/trump-federal-funding-freeze-widespread-confusion-rcna189581
 
 
 
+Election deniers --- https://www.youtube.com/watch?v=HGOSXpgnKQw
 https://www.youtube.com/shorts/a5vjNY1por0
 https://www.youtube.com/watch?v=qktluMDn-HE
 https://www.youtube.com/watch?v=nmMfMwQnE08
@@ -298,6 +309,7 @@ https://www.youtube.com/watch?v=jtawcG1OGjM
 https://www.youtube.com/watch?v=FSxiv76RqJw
 https://www.youtube.com/watch?v=XAJvfVgR5_g
 https://www.youtube.com/watch?v=_Aq6UPdizoo
+
 https://www.youtube.com/watch?v=RmAk8FtdB3o
 https://www.youtube.com/watch?v=8efk1oXAcm8
 https://www.youtube.com/watch?v=rfIVrleuajY
@@ -305,42 +317,6 @@ https://youtu.be/S1NQtD9NKaU?si=A1frfjuLz5tNNpTf
 https://www.youtube.com/watch?v=E4OYLGMUTeM
 https://www.youtube.com/watch?v=9HyUSl-S1G8
 https://www.youtube.com/watch?v=ED7Zqe7r3BM
-
-
-
-
-Juan Merchan Sentences Trump: No Penalty, Conviction Upheld - https://www.breitbart.com/law-and-order/2025/01/10/merchan-sentences-trump-to-unconditional-discharge-upholding-conviction/
-
-Trump supporters' travel expenses paid for Jan. 6 rally: new evidence - https://www.usatoday.com/story/news/politics/elections/2024/10/18/donald-trump-election-interference-case-new-evidence/75714784007/
-
-Special counsel Jack Smith provides fullest picture yet of his 2020 election case against Trump in new filing | CNN Politics - https://www.cnn.com/2024/10/02/politics/jack-smith-donald-trump-filing/index.html
-
-Special counsel releases trove of redacted documents in 2020 election subversion case against Trump | CNN Politics - https://www.cnn.com/2024/10/18/politics/donald-trump-special-counsel-evidence-documents-release/index.html
-
-
-
-[US election 2020: Latest news on the Trump-Biden transition | CNN Politics](https://www.cnn.com/politics/live-news/biden-trump-us-election-news-12-03-20#h_d58f958cc30c727786086bc83e861f84)
-
-[Donald Trump is the GOP’s chemotherapy - The Washington Post](https://www.washingtonpost.com/opinions/donald-trumps-vile-candidacy-is-chemotherapy-for-the-gop/2016/10/10/73e40f30-8f05-11e6-9c85-ac42097b8cc0_story.html)
-
-[President Trump’s Lies, the Definitive List - The New York Times](https://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html)
-
-[Statues of Washington, Jefferson Aren't 'Next,' But It's Complicated, Historians Say](https://www.nbcnews.com/politics/white-house/statues-washington-jefferson-aren-t-next-it-s-complicated-historians-n793971)
-
-[Robert Reich on Twitter: "Trump's lies have consequences. 48 hrs after his comments on Sweden, riots broke out in an immigrant community. https://t.co/1k2BOl2jdw"](https://archive.is/pvycQ)
-
-[Harris calls Trump a 'fascist' at CNN town hall, argues he's unfit for office](https://www.nbcnews.com/politics/2024-election/kamala-harris-calls-trump-fascist-argues-dangerous-unfit-office-rcna176713)
-
-[Donald Trump’s Muslim Ban Is Cowardly and Dangerous - The New York Times](https://www.nytimes.com/2017/01/28/opinion/donald-trumps-muslim-ban-is-cowardly-and-dangerous.html)
-
-Trump's funding freeze creates widespread confusion - https://www.nbcnews.com/politics/donald-trump/trump-federal-funding-freeze-widespread-confusion-rcna189581
-
-
-
-
-
-
-Election deniers --- https://www.youtube.com/watch?v=HGOSXpgnKQw
 https://www.youtube.com/watch?v=4oh9c3hBkcU
 https://www.youtube.com/watch?v=Vz6Xzy1GXRE
 https://www.youtube.com/watch?v=h9gVZFtlP78
@@ -433,7 +409,7 @@ https://www.youtube.com/watch?v=DKXZLL4TTIQ
 https://www.youtube.com/watch?v=sYGgexy-b_U
 https://www.youtube.com/watch?v=bOIotF3zrrk
 https://www.youtube.com/watch?v=wEgXUVFnj7w
-https://rumble.com/v420qgu-deep-state-panics-after-fox-news-blows-up-damning-timeline-of-trump-witch-h.html - 2023-12-18
+https://rumble.com/v420qgu-deep-state-panics-after-fox-news-blows-up-damning-timeline-of-trump-witch-h.html --- 2023-12-18
 https://www.youtube.com/shorts/AcDKUUPYyjk
 https://www.youtube.com/watch?v=_0TKnDMOLIE
 https://www.youtube.com/watch?v=_qGb1JgnG1o
@@ -492,7 +468,7 @@ https://youtu.be/Zg1kbeeigg0
 https://youtu.be/ZPlS9MvaeXE?si=bSGo8Y_Lw7F190Ry
 https://youtu.be/Zrf1AColf8M?si=UOUtyK1DblgBHva7
 https://www.youtube.com/watch?v=F659I6pSFmQ
-https://rumble.com/v4wx0gw-the-mainstream-media-can-never-be-trusted.html - The mainstream media can never be trusted
+https://rumble.com/v4wx0gw-the-mainstream-media-can-never-be-trusted.html --- The mainstream media can never be trusted
 https://www.youtube.com/watch?v=ffJ3SWe4F-s
 https://www.youtube.com/watch?v=x-nbkZj-FhA
 https://www.youtube.com/watch?v=bQgPa8Bh72M

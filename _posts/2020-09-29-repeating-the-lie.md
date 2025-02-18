@@ -23,9 +23,9 @@ As Breitbart News has noted in [fact check](https://www.breitbart.com/2020-elect
 >
 > He completely condemned the extremists --- as the timeline and transcript confirm:
 >
-> - Aug. 12, 2017: Trump condemned violence "on many sides" in Charlottesville, after neo-Nazi and Antifa clashes
-> - Aug. 14, 2017: Trump condemned "neo-Nazis, white supremacists, and other hate groups" in White House statement
-> - Aug. 15, 2017: Trump condemned neo-Nazis "totally," praised non-violent protesters "on both sides" of statue debate
+> --- Aug. 12, 2017: Trump condemned violence "on many sides" in Charlottesville, after neo-Nazi and Antifa clashes
+> --- Aug. 14, 2017: Trump condemned "neo-Nazis, white supremacists, and other hate groups" in White House statement
+> --- Aug. 15, 2017: Trump condemned neo-Nazis "totally," praised non-violent protesters "on both sides" of statue debate
 >
 > ![](/assets/2020-08-20-breitbart.jpg "Trump condemning Nazis in Charlottesville")
 >

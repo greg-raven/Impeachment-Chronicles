@@ -29,11 +29,11 @@ Critics were outraged that Trump --- who was protecting himself from the rain wi
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The recklessness of Trump's presidency, summarized in one unbelievable picture. <a href="https://t.co/PpCdlBilOR">https://t.co/PpCdlBilOR</a></p>&mdash; Matt McDermott (@mattmfm) <a href="https://twitter.com/mattmfm/status/1315759246852722690?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
 
-> Even if you have never read a single tweet or heard a single one of his Tinkerbell magical thinking lies - this photo alone tells you he cares about no one or nothing but himself.
+> Even if you have never read a single tweet or heard a single one of his Tinkerbell magical thinking lies --- this photo alone tells you he cares about no one or nothing but himself.
 >
 > <cite>Katherine Fugate, via [𝕏](https://x.com)</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even if you have never read a single tweet or heard a single one of his Tinkerbell magical thinking lies - this photo alone tells you he cares about no one or nothing but himself. <a href="https://t.co/rAm5MTPAnp">https://t.co/rAm5MTPAnp</a></p>&mdash; Katherine Fugate (@katherinefugate) <a href="https://twitter.com/katherinefugate/status/1315760314755903488?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Even if you have never read a single tweet or heard a single one of his Tinkerbell magical thinking lies --- this photo alone tells you he cares about no one or nothing but himself. <a href="https://t.co/rAm5MTPAnp">https://t.co/rAm5MTPAnp</a></p>&mdash; Katherine Fugate (@katherinefugate) <a href="https://twitter.com/katherinefugate/status/1315760314755903488?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
 
 > siri show me a picture of everyone secretly hating someone
 >
@@ -55,7 +55,7 @@ Critics were outraged that Trump --- who was protecting himself from the rain wi
 >
 > <cite>David Waldman, via [𝕏](https://x.com)</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everyone can SUCK MY GERMS, but if you think I'll let MY FUCKING HAIR get wet, you've got another thing coming! <a href="https://t.co/oUYjixQvSD">https://t.co/oUYjixQvSD</a></p>&mdash; David Waldman - @KagroX@mstdn.party (@KagroX) <a href="https://twitter.com/KagroX/status/1315760690322444291?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Everyone can SUCK MY GERMS, but if you think I'll let MY FUCKING HAIR get wet, you've got another thing coming! <a href="https://t.co/oUYjixQvSD">https://t.co/oUYjixQvSD</a></p>&mdash; David Waldman --- @KagroX@mstdn.party (@KagroX) <a href="https://twitter.com/KagroX/status/1315760690322444291?ref_src=twsrc%5Etfw">October 12, 2020</a></blockquote>
 
 > Trump just boarded Air Force One without a mask while sick with a disease that has infected nearly 8 million Americans and killed 215,000
 >

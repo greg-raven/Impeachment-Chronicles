@@ -53,6 +53,6 @@ Not one to believe in coincidences, another user tweeted what many others appear
 >
 > <cite>Ralph Kern, via [𝕏](https://x.com)</cite>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Call it the &quot;Crossfire Hurricane Cleanup Raid&quot;<br>Not political - nope - nope - this is all just a coincidence.<br>(They'll be raiding Durham's office soon) <a href="https://t.co/xcnHkrGQqP">https://t.co/xcnHkrGQqP</a></p>&mdash; Ralph Kern (Ceithearn) (@7wolfman_kern) <a href="https://twitter.com/7wolfman_kern/status/1560649790865608704?ref_src=twsrc%5Etfw">August 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Call it the &quot;Crossfire Hurricane Cleanup Raid&quot;<br>Not political --- nope --- nope --- this is all just a coincidence.<br>(They'll be raiding Durham's office soon) <a href="https://t.co/xcnHkrGQqP">https://t.co/xcnHkrGQqP</a></p>&mdash; Ralph Kern (Ceithearn) (@7wolfman_kern) <a href="https://twitter.com/7wolfman_kern/status/1560649790865608704?ref_src=twsrc%5Etfw">August 19, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Melissa Fine, bizpacreview.com/2022/08/19/crossfire-hurricane-cleanup-raid-fury-over-report-on-fbi-unit-that-ran-mar-a-lago-probe-1275409/

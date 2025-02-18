@@ -15,7 +15,7 @@ After Will Smith smacked comedian Chris Rock at the Academy Awards last night, i
 
 Who's next? Well, here's Rosie O'Donnell agreeing with Maria Shriver and explaining how watching events unfold was "like the Trump years":
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">so true Maria - we watched him do it - then like the trump years - we don&#39;t hold anyone accountable - shame on us - SHAME on will <a href="https://twitter.com/hashtag/Oscars2022?src=hash&amp;ref_src=twsrc%5Etfw">#Oscars2022</a> <a href="https://t.co/xxTCoaQej4">https://t.co/xxTCoaQej4</a></p>&mdash; ROSIE (@Rosie) <a href="https://twitter.com/Rosie/status/1508300534775631874?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">so true Maria --- we watched him do it --- then like the trump years --- we don&#39;t hold anyone accountable --- shame on us --- SHAME on will <a href="https://twitter.com/hashtag/Oscars2022?src=hash&amp;ref_src=twsrc%5Etfw">#Oscars2022</a> <a href="https://t.co/xxTCoaQej4">https://t.co/xxTCoaQej4</a></p>&mdash; ROSIE (@Rosie) <a href="https://twitter.com/Rosie/status/1508300534775631874?ref_src=twsrc%5Etfw">March 28, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Apparently there is no cure for TDS and it won’t go away on its own.
 

@@ -144,20 +144,20 @@ And a rash of resolutions was introduced in the House in March:
 - H.Res.13 Introduced March 1, 2019 by Rep. Brad Sherman (D-CA) on the grounds of obstruction of justice during the Mueller investigation
 - H.Res.257 Introduced March 27, 2019 by Rep. Rashida Tlaib (D-MI) for opening an investigation with no specific accusation made
 - H.Res.396 Introduced May 25, 2019 by Rep. Shelia Jackson Lee (D-TX) which named several areas of concern, including:
-    - Violations of the Domestic Emoluments Clause
-    - Violations of the Foreign Emoluments Clause
-    - Obstruction of justice
-    - Inappropriately disclosing classified information
-    - Destruction of public records
-    - Payment of ransom with federal funds in violation of international law
-    - Authorizing security clearances for people who are known security risks
-    - Failure to protect U.S. elections from foreign interference
-    - Campaign finance law violations
-    - Condoning white nationalism
-    - Using law enforcement to punish political enemies
-    - Attacking the press as "enemies of the people"
-    - Mismanagement by failing to fill vacancies
-    - Separation of immigrant children from their families
+    --- Violations of the Domestic Emoluments Clause
+    --- Violations of the Foreign Emoluments Clause
+    --- Obstruction of justice
+    --- Inappropriately disclosing classified information
+    --- Destruction of public records
+    --- Payment of ransom with federal funds in violation of international law
+    --- Authorizing security clearances for people who are known security risks
+    --- Failure to protect U.S. elections from foreign interference
+    --- Campaign finance law violations
+    --- Condoning white nationalism
+    --- Using law enforcement to punish political enemies
+    --- Attacking the press as "enemies of the people"
+    --- Mismanagement by failing to fill vacancies
+    --- Separation of immigrant children from their families
 
 On October 31, the House of Representatives voted 232-196 to establish procedures for public hearings on impeachment, which started on November 13 and culminated with a vote on articles of impeachment on Wednesday.
 

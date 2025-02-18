@@ -108,7 +108,7 @@ Nov. 8, 2016:
 Nov. 18, 2016:
 : Trump announces Lt. Gen. Michael Flynn as his choice for National Security Adviser. Over the next few weeks, Flynn communicates with numerous international leaders.
 
-Nov. 30 - Dec. 28, 2016:
+Nov. 30 --- Dec. 28, 2016:
 : Two dozen Obama administration officials make requests to unmask the name of National Security Adviser designee Flynn, who was "incidentally" captured by intel surveillance. The officials include: U.N. Ambassador Samantha Power, Director of National Intelligence James Clapper, and CIA Director John Brennan.
 
 Jan. 5, 2017:

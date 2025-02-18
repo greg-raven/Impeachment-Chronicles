@@ -15,17 +15,17 @@ The lies were so off the charts last night by Kamala Harris that CBS is fact che
 >
 > **Fact check:**
 >
-> - Former President Donald Trump has proposed broad-based tax cuts during his presidential campaign, extending beyond just high earners.
+> --- Former President Donald Trump has proposed broad-based tax cuts during his presidential campaign, extending beyond just high earners.
 >
-> - Trump signed the Tax Cuts and Jobs Act in 2017 that permanently cut corporate tax rates and lowered individual tax rates for most households.
+> --- Trump signed the Tax Cuts and Jobs Act in 2017 that permanently cut corporate tax rates and lowered individual tax rates for most households.
 >
-> - Estimates from the nonpartisan congressional Joint Committee on Taxation and the Tax Policy Center found that the majority of people would benefit from these tax cuts.
+> --- Estimates from the nonpartisan congressional Joint Committee on Taxation and the Tax Policy Center found that the majority of people would benefit from these tax cuts.
 >
-> - Trump has said he will extend the individual tax rate cuts before are set to expire in 2025, a move the Congressional Budget Office estimates could cost $4.6 trillion over the next decade.
+> --- Trump has said he will extend the individual tax rate cuts before are set to expire in 2025, a move the Congressional Budget Office estimates could cost $4.6 trillion over the next decade.
 >
-> - The Biden-Harris administration has proposed extending some of the Trump-era tax cuts for families earning under $400,000 annually.
+> --- The Biden-Harris administration has proposed extending some of the Trump-era tax cuts for families earning under $400,000 annually.
 >
-> - Trump has also called for other tax cuts, including eliminating 16.1K taxes on tips, a policy proposal also backed by Harris campaign.
+> --- Trump has also called for other tax cuts, including eliminating 16.1K taxes on tips, a policy proposal also backed by Harris campaign.
 
 > **Vice President Kamala Harris:**
 >
