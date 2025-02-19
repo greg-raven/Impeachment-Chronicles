@@ -6,8 +6,10 @@ tags:
 - Chris Hayes
 - Chris Murphy
 - Chuck Schumer
+- Hakeem Jeffries
 - Ilhan Omar
 - Jake Sullivan
+- Jessica Tarlov
 - Jen Psaki
 - Martha Raddatz
 - Melissa Murray
