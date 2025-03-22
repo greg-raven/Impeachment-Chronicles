@@ -2,7 +2,7 @@
 title: "Swalwell pins plane crashes on Trump"
 layout: post
 tags:
-- <#Author#>
+- Sarah Arnold
 ---
 
 In an all-too-familiar move, Democrat Rep. Eric Swalwell (CA), who has been embroiled in scandal and controversy, managed to shift blame for recent plane crashes onto President Donald Trump. Although the crashes occurred under the Trump administration, Swalwell's partisan rhetoric once again attempts to deflect responsibility from the previous administration's actions. His remarks exemplify how some Democrats continue to blame Trump for anything and everything, even when it lacks justification. 
