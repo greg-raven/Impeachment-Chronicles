@@ -18,11 +18,13 @@ tags:
 - Various
 ---
 
+Warnings tonight of a constitutional crisis brewing. The U.S. is dangerously close to a constitutional crisis.
+
 <div class="embed-responsive embed-responsive-16by9" style="margin-bottom: 1em;"><video class="embed-responsive-item" controls src="https://www.glockspiel.com/impeach45/2025-02-14-constitutional-crisis.mp4" poster="https://www.glockspiel.com/impeach45/2025-02-14-constitutional-crisis.jpg"></video><br></div>
 
 Rough transcript (various speakers):
 
-Warnings tonight of a constitutional crisis brewing. The U.S. Is dangerously close to a constitutional crisis.
+Warnings tonight of a constitutional crisis brewing. The U.S. is dangerously close to a constitutional crisis.
 
 Legal scholars say we are headed for a constitutional crisis.
 

@@ -349,83 +349,21 @@ You know with regard to this statement which again we we shall not believe R's P
 
 [Trump: This was a 'bigger crime than Watergate' - YouTube](https://youtu.be/regKgBtegyE?si=Al7VTbN4fbsE3mt_)
 
-<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:e6viblkcsztudabnp56gjh4v/app.bsky.feed.post/3ljkzdavjqk26" data-bluesky-cid="bafyreif6vmsg3faomn72rl5rdt46zl7hlnwvzwj5yph4jzjwisbnhotwtm" data-bluesky-embed-color-mode="system"><p lang="en">We need to make sure EVERYONE is aware of this. A week ago, the economy was set to expand by 2.3% this quarter. Now it&#x27;s forecasted to retract by 2.8%. That&#x27;s a massive decline -- and it CAN&#x27;T be blamed on Biden. Again, it all happened inside the last *week*.<br><br><a href="https://bsky.app/profile/did:plc:e6viblkcsztudabnp56gjh4v/post/3ljkzdavjqk26?ref_src=embed">[image or embed]</a></p>&mdash; Bob Cesca (<a href="https://bsky.app/profile/did:plc:e6viblkcsztudabnp56gjh4v?ref_src=embed">@bobcesca.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:e6viblkcsztudabnp56gjh4v/post/3ljkzdavjqk26?ref_src=embed">March 4, 2025 at 9:44 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
-
 Jack Smiths new document drop shows that the Trump Campaign PAID for travel, hotels, expenses and organizing efforts to bring outside Radical organizers to the Capital on
 January 6. Trump and his lackeys planned the assault on our Capital - peg33 on bluesky (see 2024-12-30-peg33.jpg)
 
 [Germans fear Trump more than Kim and Putin – DW – 12/26/2019](https://www.dw.com/en/germans-think-trump-is-more-dangerous-than-kim-jong-un-and-putin/a-51802332)
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FalnurKZ%2Fposts%2Fpfbid027Vyikt9DaHKZGJHyNwwoTSRamb6rCYRV1Vb8tHfnPCvUwzJxrh1B36SBgn6tcD66l&show_text=true&width=500" width="500" height="668" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
-
-and
-
-[Donald Trump 'recruited by KGB in 80s and even has codename', claims former Soviet spy - Irish Star](https://www.irishstar.com/news/us-news/breaking-donald-trump-recruited-kgb-34727079) (see transcript)
-Donald Trump 'recruited by KGB in 80s and even has codename', claims former Soviet spy
-
-February 21, 2025
-
-A former Soviet intelligence officer has claimed Donald Trump was recruited by the KGB in 1987 and given the codename "Krasnov."
-
-The bombshell allegation was made by Alnur Mussayev, a former Kazakh intelligence chief, in a Facebook post.
-
-The 71-year-old, who previously headed Kazakhstan's National Security Committee, said he had served in the 6th Directorate of the KGB in Moscow, which was responsible for counter-intelligence support within the economy.
-
-One of the directorate's primary objectives, he claimed, was "recruiting businessmen from capitalist countries."
-
-According to Mussayev, Trump, then a 40-year-old New York real estate developer, was one of those recruits.
-
-"In 1987, our directorate recruited Donald Trump under the pseudonym Krasnov," he wrote.
-
-Mussayev's post did not include evidence to support his claim, but in a further comment, he made another shocking allegation.
-
-"Today, the personal file of resident 'Krasnov' has been removed from the FSB. It is being privately managed by one of Putin's close associates," he alleged.
-
-His allegations come amid years of speculation over Trump's ties to Russia, dating back to his first visit to Moscow in 1987.
-
-At the time, Trump, then a rising star in the New York property market, travelled to the Soviet Union to explore the possibility of building a hotel in the capital.
-
-Soviet officials reportedly facilitated the trip, raising questions among intelligence analysts about whether it was a routine business opportunity or something more nefarious.
-
-Several years ago a report highlighted how, in 1985, the KGB had updated a secret personality questionnaire distributed among its officers, detailing how to identify and recruit Western figures. The document, according to intelligence sources, instructed agents to target "prominent figures in the West" with the aim of "drawing them into some form of collaboration with us ... as an agent, or confidential or special or unofficial contact." Mussayev's claim appears to suggest that Trump may have been one such target.
-
-Despite years of scrutiny, Trump has vehemently denied having any improper ties to Russia or colluding with President Vladimir Putin.
-
-However, some U.S. officials have repeatedly raised concerns about his close relationship with the Kremlin leader, particularly during his first term in office.
-
-Anthony Scaramucci, who briefly served as Trump's White House communications director in 2017, added to the intrigue during a recent episode of The Rest Is Politics: U.S. podcast.
-
-He suggested that Trump's deference to Putin has puzzled many of his former senior officials. "I think there is a mysterious 'hold' on the president," he said.
-
-Scaramucci did not elaborate on what that 'hold' might be but suggested that several former Trump administration officials, including H.R. McMaster, James Mattis, and John Kelly --- had also struggled to understand Trump's affinity for Putin. "I don't know why it's like this," he said.
-
-"McMaster couldn't figure it out, Mattis couldn't figure it out, Kelly couldn't figure it out."
-
-Source: Christopher Bucktin, irishstar.com/news/us-news/breaking-donald-trump-recruited-kgb-34727079
-
----
 
 The more we learn about 2016 election the more ILLEGITIMATE it becomes.
 America deserves to know whether we have a FAKE President in the Oval Office #RussianInterference - Hakeem Jeffries on Twitter (see image)
 
 We will never bend the knee to the election deniers who poison our democracy. - Hakeem Jeffries (see image)
 
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAltUSNationalParkService%2Fposts%2Fpfbid0C2xUatoagH5rk3ZovVPBLtkDrugYjV7E5VcSFMNFBRo9xC1UHD6U3iuYXhgyRAbBl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> (February 18, 2025)
-
-<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAltUSNationalParkService%2Fposts%2Fpfbid02yJochrPeoaWm9VBbwx52k9qs9fEL2eT3Wv3z2P7wgk2rMFMHeTWwJ2cZ3fzJt5ZQl&show_text=true&width=500" width="500" height="294" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> (February 21, 2025)
-
 [Historians rip Trump attacks on the 'Black Smithsonian' | AP News](https://apnews.com/article/trump-black-history-smithsonian-dei-687fd306dc9c6d7611300d74fe49b8aa)
 
 [Opinion | Will Black Trump Supporters Speak Out Against His Racist and Authoritarian Government? | Common Dreams](https://www.commondreams.org/opinion/black-trump-supporters)
 
 ['Unabashed Fascism': Trump Executive Order Targets 'Improper Ideology' at Smithsonian | Common Dreams](https://www.commondreams.org/news/trump-smithsonian-executive-order)
-
-
-
-
-
-
-
 
 
 https://youtu.be/Yb-57a1Ys0M?si=cZx7-n4TOa--NhTM
