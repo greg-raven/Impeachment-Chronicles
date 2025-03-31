@@ -268,17 +268,11 @@ Trump's funding freeze creates widespread confusion --- https://www.nbcnews.com/
 
 [RUH-ROH! Bill Kristol Makes Elon Musk's Deep State RADAR with PITIFUL Dunk on Trump and HOOOOOBOY – Twitchy](https://twitchy.com/samj/2025/02/03/bill-kristol-praises-the-deep-state-n2407755)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No one elected Elon Musk.<br><br>As Donald Trump allows Musk to access people’s personal information and shut down government funding, Republicans in Washington will also own the consequences.<br><br>We must do everything in our power to push back and protect people from harm.</p>&mdash; Elizabeth Warren (@SenWarren) <a href="https://twitter.com/SenWarren/status/1886133931197583412?ref_src=twsrc%5Etfw">February 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 [Massive protest against Trump deportations forms in downtown L.A. causing ‘major gridlock’ | KTLA](https://ktla.com/news/local-news/massive-protest-against-trump-deportations-forms-near-downtown-l-a-lapd-calls-it-non-permitted/)
 
 [Ilhan Omar accuses Trump of running dictatorship as he works to cut wasteful spending | Fox News](https://www.foxnews.com/politics/omar-slams-trump-musk-changes-usaid-accuses-president-running-dictatorship)
 
 [Blue States Plotted Their War Against Trump Three Days After the 2024 Election. Here's the Agreement.](https://townhall.com/tipsheet/mattvespa/2025/02/11/the-secret-blue-state-anti-trump-resistance-agreement-n2652019)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are they gonna keep saying it now? 😏<a href="https://t.co/qNyguj1YFf">pic.twitter.com/qNyguj1YFf</a></p>&mdash; Defiant L’s (@DefiantLs) <a href="https://twitter.com/DefiantLs/status/1889315808049783155?ref_src=twsrc%5Etfw">February 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LAWFARE: An Obama-appointed judge ruled that President Trump must work with Special Counsel Hampton Dellinger, a Biden-appointed official, instead of his own chosen legal counsel. Judge Jackson issued an order mandating Dellinger represent the president and barred Trump from… <a href="https://t.co/Mh3RlM0u4S">pic.twitter.com/Mh3RlM0u4S</a></p>&mdash; @amuse (@amuse) <a href="https://twitter.com/amuse/status/1889308279479603535?ref_src=twsrc%5Etfw">February 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ['This is just staggering': CNN national security analyst alarmed by Trump's Russia plans](https://www.msn.com/en-us/news/politics/this-is-just-staggering-cnn-national-security-analyst-alarmed-by-trump-s-russia-plans/ar-AA1yUZ0V)
 
@@ -290,8 +284,6 @@ https://t.co/x2lwvMbvEm
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">5/ The FCC jumped in too. They announced an investigation into a radio station owned by a prominent Trump critic just because it reported on a local ICE raid. No other local station who reported on the raid was targeted. Classic harassment of opponents.<a href="https://t.co/3UixGYYjyK">https://t.co/3UixGYYjyK</a></p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1890425328352284714?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">6/ Another part of the plan is the seizure of spending power. Trump will release spending for friends and withhold spending from opponents. A tried and true tactic of monarchs who control speech by using the treasury to reward allies and punish enemies. <a href="https://t.co/NgQf6vjgf7">https://t.co/NgQf6vjgf7</a></p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1890425330705334326?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">7/ And then, just this week, the Associated Press was kicked out of the White House because they refused to use the term &quot;Gulf of America&quot;. No press will be able to cover the White House unless their content and terms are approved by the regime. <br><br>Same as Stalin or Mussolini.…</p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1890425332982792223?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">USAID said it was a charitable group. It wasn&#39;t. It was a tool for regime change. After 2016, it turned its guns inward. In 2019, a front group it created fabricated the evidence used by the CIA, moles in the White House, and House Democrats to impeach Trump. That&#39;s treason. <a href="https://t.co/plxlWUqNiJ">https://t.co/plxlWUqNiJ</a> <a href="https://t.co/u7oYXNkCA6">pic.twitter.com/u7oYXNkCA6</a></p>&mdash; Michael Shellenberger (@shellenberger) <a href="https://twitter.com/shellenberger/status/1890375279714906169?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [America First Legal Releases Explosive Documents Exposing Biden White House’s Role in Sham Prosecution of President Trump Over Classified Documents - America First Legal](https://aflegal.org/america-first-legal-releases-explosive-documents-exposing-biden-white-houses-role-in-sham-prosecution-of-president-trump-over-classified-documents/)
 
@@ -496,54 +488,6 @@ We will never bend the knee to the election deniers who poison our democracy. - 
 
 
 
-https://www.youtube.com/watch?v=1H-Q8WqkYQI
-https://www.youtube.com/watch?v=5m_Y7-SrDJI
-https://www.youtube.com/watch?v=T1WwWR-VB1s
-https://www.youtube.com/watch?v=l9K3it6GRlI
-https://www.youtube.com/watch?v=Cq7OMtDCcho
-https://www.youtube.com/watch?v=Zbsr45ZK9mo
-https://www.youtube.com/watch?v=N7VyvQQfxAU
-https://www.youtube.com/watch?v=3dCn5UtHL4w
-https://www.youtube.com/watch?v=YDxvGiZXHjE
-https://www.youtube.com/watch?v=V-Y5xgFi8Xg
-https://www.youtube.com/watch?v=ABBJaJhADa4
-https://www.youtube.com/watch?v=a6YLvJSk5SQ
-https://www.youtube.com/watch?v=Z9D6azIf_7c
-https://www.youtube.com/watch?v=gmd0E8NH_lA
-https://www.youtube.com/watch?v=piETrEhcLdE
-https://www.youtube.com/watch?v=tEw9D3uOVPM
-https://www.youtube.com/watch?v=bdBBok1cj34
-https://www.youtube.com/watch?v=vK8yC53M07g
-https://www.youtube.com/watch?v=apk8i6XOEm8
-https://www.youtube.com/watch?v=vdjICfvnKGM
-https://youtu.be/bqjFBKRknwo?si=XgIepk_ALnMImbWR
-https://www.youtube.com/watch?v=sWjeFHcharQ
-https://www.youtube.com/watch?v=5hpd61WfMvk
-https://www.youtube.com/watch?v=LXwaHNFaKiY
-https://www.youtube.com/watch?v=PAtWnQRhh0M
-https://www.youtube.com/watch?v=hgNM9YLqMps
-https://www.youtube.com/watch?v=wuJEnqrTwa8
-https://www.youtube.com/watch?v=h0uk63B0u7I
-https://www.youtube.com/watch?v=Qg5uWIZ5ovg
-https://www.youtube.com/watch?v=aSk7lDGF4R0
-https://www.youtube.com/watch?v=hTJzokMSgxg
-https://www.youtube.com/watch?v=3dl-l_x2HVc
-https://www.youtube.com/watch?v=RK4UQVW4Fo0
-https://www.youtube.com/watch?v=ljPbXsMPu8Y
-https://www.youtube.com/watch?v=wND_BqWWoFY
-https://www.youtube.com/watch?v=2HPbWbtbg0o
-https://www.youtube.com/watch?v=zfQtT-a2TnM
-https://www.youtube.com/watch?v=PwrkqUX28lM
-https://www.youtube.com/watch?v=WmktrPrdrx8
-https://www.youtube.com/watch?v=RvfSm1L1dW4
-https://www.youtube.com/watch?v=56oryL9HF5M
-https://www.youtube.com/watch?v=w4YvfDz5WgU
-https://www.youtube.com/watch?v=guHoRFxnQjE
-https://www.youtube.com/watch?v=XDTigQzp3LQ
-https://www.youtube.com/watch?v=m7yblOv81I8
-https://www.youtube.com/watch?v=I2x1aiJQRrI
-https://www.youtube.com/watch?v=L_WheNBNllk
-https://www.youtube.com/watch?v=n9nsnpg8kaQ
 
 
 
@@ -826,3 +770,51 @@ https://www.youtube.com/watch?v=hBzuUDkDBuQ
 https://www.youtube.com/watch?v=GER3k6KFmiA
 https://www.youtube.com/watch?v=1WMwNsGcP2g
 https://www.youtube.com/watch?v=nGH6RhAjtC0
+https://www.youtube.com/watch?v=1H-Q8WqkYQI
+https://www.youtube.com/watch?v=5m_Y7-SrDJI
+https://www.youtube.com/watch?v=T1WwWR-VB1s
+https://www.youtube.com/watch?v=l9K3it6GRlI
+https://www.youtube.com/watch?v=Cq7OMtDCcho
+https://www.youtube.com/watch?v=Zbsr45ZK9mo
+https://www.youtube.com/watch?v=N7VyvQQfxAU
+https://www.youtube.com/watch?v=3dCn5UtHL4w
+https://www.youtube.com/watch?v=YDxvGiZXHjE
+https://www.youtube.com/watch?v=V-Y5xgFi8Xg
+https://www.youtube.com/watch?v=ABBJaJhADa4
+https://www.youtube.com/watch?v=a6YLvJSk5SQ
+https://www.youtube.com/watch?v=Z9D6azIf_7c
+https://www.youtube.com/watch?v=gmd0E8NH_lA
+https://www.youtube.com/watch?v=piETrEhcLdE
+https://www.youtube.com/watch?v=tEw9D3uOVPM
+https://www.youtube.com/watch?v=bdBBok1cj34
+https://www.youtube.com/watch?v=vK8yC53M07g
+https://www.youtube.com/watch?v=apk8i6XOEm8
+https://www.youtube.com/watch?v=vdjICfvnKGM
+https://youtu.be/bqjFBKRknwo?si=XgIepk_ALnMImbWR
+https://www.youtube.com/watch?v=sWjeFHcharQ
+https://www.youtube.com/watch?v=5hpd61WfMvk
+https://www.youtube.com/watch?v=LXwaHNFaKiY
+https://www.youtube.com/watch?v=PAtWnQRhh0M
+https://www.youtube.com/watch?v=hgNM9YLqMps
+https://www.youtube.com/watch?v=wuJEnqrTwa8
+https://www.youtube.com/watch?v=h0uk63B0u7I
+https://www.youtube.com/watch?v=Qg5uWIZ5ovg
+https://www.youtube.com/watch?v=aSk7lDGF4R0
+https://www.youtube.com/watch?v=hTJzokMSgxg
+https://www.youtube.com/watch?v=3dl-l_x2HVc
+https://www.youtube.com/watch?v=RK4UQVW4Fo0
+https://www.youtube.com/watch?v=ljPbXsMPu8Y
+https://www.youtube.com/watch?v=wND_BqWWoFY
+https://www.youtube.com/watch?v=2HPbWbtbg0o
+https://www.youtube.com/watch?v=zfQtT-a2TnM
+https://www.youtube.com/watch?v=PwrkqUX28lM
+https://www.youtube.com/watch?v=WmktrPrdrx8
+https://www.youtube.com/watch?v=RvfSm1L1dW4
+https://www.youtube.com/watch?v=56oryL9HF5M
+https://www.youtube.com/watch?v=w4YvfDz5WgU
+https://www.youtube.com/watch?v=guHoRFxnQjE
+https://www.youtube.com/watch?v=XDTigQzp3LQ
+https://www.youtube.com/watch?v=m7yblOv81I8
+https://www.youtube.com/watch?v=I2x1aiJQRrI
+https://www.youtube.com/watch?v=L_WheNBNllk
+https://www.youtube.com/watch?v=n9nsnpg8kaQ
