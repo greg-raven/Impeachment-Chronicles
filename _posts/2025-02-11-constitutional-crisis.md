@@ -2,16 +2,17 @@
 title: "All together now: Constitutional Crisis"
 layout: post
 tags:
-- Pramila Jayapal
-- Jasmine Crockett
-- Cory Booker
-- Chris Murphy
-- John Kerry
-- Ilhan Omar
-- Ross Colhart
 - Adam Kinzinger
+- Chris Murphy
+- Cory Booker
 - Harry Sisson
+- Ilhan Omar
+- Jasmine Crockett
+- John Kerry
 - Kaitlan Collins
+- Pramila Jayapal
+- Ross Colhart
+- Various
 ---
 
 Group sing: Constitutional Crisis

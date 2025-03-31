@@ -2,7 +2,7 @@
 title: "Leaked Pennsylvania election results"
 layout: post
 tags:
-- ABC
+- ABC News
 - WNEP
 ---
 

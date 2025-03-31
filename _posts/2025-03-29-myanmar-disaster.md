@@ -1,5 +1,5 @@
 ---
-title: "Myanmar suffering because of Trump"
+title: "Myanmar is suffering because of Trump"
 layout: post
 tags:
 - Dominic Waghorn

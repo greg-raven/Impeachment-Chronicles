@@ -2,7 +2,7 @@
 title: "Statement following the dismissal of the Biden-Harris Administration's unprecedented and politically motivated criminal cases against President Trump"
 layout: post
 tags:
-- America First Legal
+- America First Legal Foundation
 ---
 
 Special Counsel Jack Smith has been forced to drop his criminal prosecutions of President Trump. In court filings, first with the U.S. District Court for the District of Columbia and then with the U.S. Court of Appeals for the Eleventh Circuit, Mr. Smith stated that the U.S. Department of Justice Office of Legal Counsel has determined that the Constitution requires that his prosecutions be dismissed. Mr. Smith claimed that the "Government stands fully behind" his unauthorized exercise of prosecutorial power and that the dismissal was "without prejudice." Nevertheless, these cases are now over; the American people have repudiated Mr. Smith and defeated the Biden-Harris Administration's disgraceful weaponization of our justice system.
