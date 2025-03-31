@@ -262,6 +262,346 @@ Special counsel releases trove of redacted documents in 2020 election subversion
 
 Trump's funding freeze creates widespread confusion --- https://www.nbcnews.com/politics/donald-trump/trump-federal-funding-freeze-widespread-confusion-rcna189581
 
+[Germans fear Trump more than Kim and Putin – DW – 12/26/2019](https://www.dw.com/en/germans-think-trump-is-more-dangerous-than-kim-jong-un-and-putin/a-51802332)
+
+[Shielding Biden: Journalists shed light on the media's cover-up of a weakened president | Fox News](https://www.foxnews.com/media/shielding-biden-journalists-shed-light-medias-cover-up-weakened-president) (last couple of paragraphs)
+
+[RUH-ROH! Bill Kristol Makes Elon Musk's Deep State RADAR with PITIFUL Dunk on Trump and HOOOOOBOY – Twitchy](https://twitchy.com/samj/2025/02/03/bill-kristol-praises-the-deep-state-n2407755)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No one elected Elon Musk.<br><br>As Donald Trump allows Musk to access people’s personal information and shut down government funding, Republicans in Washington will also own the consequences.<br><br>We must do everything in our power to push back and protect people from harm.</p>&mdash; Elizabeth Warren (@SenWarren) <a href="https://twitter.com/SenWarren/status/1886133931197583412?ref_src=twsrc%5Etfw">February 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Massive protest against Trump deportations forms in downtown L.A. causing ‘major gridlock’ | KTLA](https://ktla.com/news/local-news/massive-protest-against-trump-deportations-forms-near-downtown-l-a-lapd-calls-it-non-permitted/)
+
+[Ilhan Omar accuses Trump of running dictatorship as he works to cut wasteful spending | Fox News](https://www.foxnews.com/politics/omar-slams-trump-musk-changes-usaid-accuses-president-running-dictatorship)
+
+[Blue States Plotted Their War Against Trump Three Days After the 2024 Election. Here's the Agreement.](https://townhall.com/tipsheet/mattvespa/2025/02/11/the-secret-blue-state-anti-trump-resistance-agreement-n2652019)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Are they gonna keep saying it now? 😏<a href="https://t.co/qNyguj1YFf">pic.twitter.com/qNyguj1YFf</a></p>&mdash; Defiant L’s (@DefiantLs) <a href="https://twitter.com/DefiantLs/status/1889315808049783155?ref_src=twsrc%5Etfw">February 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LAWFARE: An Obama-appointed judge ruled that President Trump must work with Special Counsel Hampton Dellinger, a Biden-appointed official, instead of his own chosen legal counsel. Judge Jackson issued an order mandating Dellinger represent the president and barred Trump from… <a href="https://t.co/Mh3RlM0u4S">pic.twitter.com/Mh3RlM0u4S</a></p>&mdash; @amuse (@amuse) <a href="https://twitter.com/amuse/status/1889308279479603535?ref_src=twsrc%5Etfw">February 11, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+['This is just staggering': CNN national security analyst alarmed by Trump's Russia plans](https://www.msn.com/en-us/news/politics/this-is-just-staggering-cnn-national-security-analyst-alarmed-by-trump-s-russia-plans/ar-AA1yUZ0V)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">What frightening bullshit. <br><br>Trump and Vance have done more to smash free speech in America than any other Administration in our lifetime.<br><br>It&#39;s their plan. They know it. So they lie to cover it up.<br><br>1/ Here&#39;s their plan in a short 🧵and what we do about it. <a href="https://t.co/NrX4beyfxP">https://t.co/NrX4beyfxP</a></p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1890425319045181525?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+https://t.co/x2lwvMbvEm
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2/ First, they pardoned all the Jan 6th rioters. This was done to protect violence when it&#39;s used to target Trump critics (remember, the rioters were there to kill Pence and Democrats).<br><br>Every despot uses the threat of violence to silence its opposition. <a href="https://t.co/DrawC1jEwU">https://t.co/DrawC1jEwU</a></p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1890425321473683628?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">3/ Then they fired the government inspector generals, put a gag order on federal employees and required them to make loyalty pledges.<br><br>All designed to throw darkness over Trump and Musk&#39;s illegal actions and purge independent thinking from government. <a href="https://t.co/FKEMbxe7JH">https://t.co/FKEMbxe7JH</a></p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1890425324036341906?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">4/ Next, their US Attorney started trolling Trump critics online, threatening one with arrest. He sent a letter to Musk saying he would investigate anyone Musk alleged was &quot;interfering&quot; with DOGE.<br><br>Law enforcement is now part of the plan to crush dissent.<a href="https://t.co/Rp8WQgUbxk">https://t.co/Rp8WQgUbxk</a></p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1890425326188073101?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">5/ The FCC jumped in too. They announced an investigation into a radio station owned by a prominent Trump critic just because it reported on a local ICE raid. No other local station who reported on the raid was targeted. Classic harassment of opponents.<a href="https://t.co/3UixGYYjyK">https://t.co/3UixGYYjyK</a></p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1890425328352284714?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">6/ Another part of the plan is the seizure of spending power. Trump will release spending for friends and withhold spending from opponents. A tried and true tactic of monarchs who control speech by using the treasury to reward allies and punish enemies. <a href="https://t.co/NgQf6vjgf7">https://t.co/NgQf6vjgf7</a></p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1890425330705334326?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">7/ And then, just this week, the Associated Press was kicked out of the White House because they refused to use the term &quot;Gulf of America&quot;. No press will be able to cover the White House unless their content and terms are approved by the regime. <br><br>Same as Stalin or Mussolini.…</p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1890425332982792223?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">USAID said it was a charitable group. It wasn&#39;t. It was a tool for regime change. After 2016, it turned its guns inward. In 2019, a front group it created fabricated the evidence used by the CIA, moles in the White House, and House Democrats to impeach Trump. That&#39;s treason. <a href="https://t.co/plxlWUqNiJ">https://t.co/plxlWUqNiJ</a> <a href="https://t.co/u7oYXNkCA6">pic.twitter.com/u7oYXNkCA6</a></p>&mdash; Michael Shellenberger (@shellenberger) <a href="https://twitter.com/shellenberger/status/1890375279714906169?ref_src=twsrc%5Etfw">February 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[America First Legal Releases Explosive Documents Exposing Biden White House’s Role in Sham Prosecution of President Trump Over Classified Documents - America First Legal](https://aflegal.org/america-first-legal-releases-explosive-documents-exposing-biden-white-houses-role-in-sham-prosecution-of-president-trump-over-classified-documents/)
+
+["Not My President": Tens of Thousands Take to Streets, Block Freeways & Rally Against Trump - YouTube](https://www.youtube.com/watch)
+
+[Progressive Organizers Ready Nationwide "Not My Presidents' Day" Protests | Common Dreams](https://www.commondreams.org/news/anti-trump-protests)
+
+
+r/Law_and_Politics icon
+Go to Law_and_Politics
+r/Law_and_Politics
+February 15, 2025
+Source: Icy-Rub-7115, https://www.reddit.com/r/Law_and_Politics/comments/1iq0y3r/maga_has_trump_done_one_damn_thing_for_you/
+
+MAGA, has Trump done one damn thing for you?
+
+MAGA, you were promised peace, a golden age of prosperity, security and an end to inflation.
+
+Instead you have seen cuts in healthcare, SNAP benefits, veteran's benefits and Aid to Dependent Children, Cuts in education and all manner of vital social services and protections against the ravages of big business and banks and credit card companies. The elimination of overtime pay, workplace protection and pension and voting rights.
+
+And the onslaught continues as you read these words.
+
+Meanwhile Musk has received another 100-million-dollar contract for electric, armored trucks, to be used on the battlefield. Electric --- battlefield --- double A or extension cord?
+
+Trump, too, is lining his pockets at your expense. While every one of you who have invested in his meme coin lost 75% of your money, he and his crime family raked in 100 million dollars in fees.
+
+How prosperous are you feeling now, MAGA?
+
+He sure is socking it to the libs.
+
+Lynn Edmonds / Trump is putting LGBTQ, kids, and democracy at risk https://youtu.be/UOUNcfIcOx8?si=0CgZfFI4YHRWXXOJ
+So ... um ... I was struck by something that was said tonight during public comment that we the ... um ... because of our woke agenda, or however it was described, um are like putting vulnerable students at risk and federal funding at risk, and I thought wow that is uh that's rich. So um who exactly is so threatened by the pillars and value of DEI or so threatened by pronouns that they would deny special needs students with the funding they need and deny children School meals? own it. uh own that shortsightedness and own that cruelty. Lastly to all those looking for ways to fight back I'll just ask you to keep standing with us, stand up for the marginalized children, and stand up for kindness and truth and Justice The goal with all of these executive orders is to destroy democracy. The speed and Reckless approach is a strategy meant to exhaust us and make us feel hopeless, so let's do the opposite of that let's show up here, show up in the streets, show up in the courts and if you're in a position that you can give some money, I suggest Lambda Legal who works to protect lgbtq plus students and people, Democracy Forward in the ACLU who are rapidly responding in the courts to these executive orders, and to the Human Rights Campaign there's many many more but those were the ones I chose to highlight tonight our kids and our schools are worth all we've got to give in this moment thank you.
+
+
+
+
+https://youtu.be/JbshX8ZPnIw?si=D5FGXmYtO5CaoHF0
+You know with regard to this statement which again we we shall not believe R's Prius what he says don't worry that someone who saves his country cannot violate a law okay it's been attributed by some historians who aren't certain to Napoleon but I'll tell you where it's definitely been used far more recently and that's with a white supremacist far right extremist named Anders bik in Norway who killed 77 people in Norway the worst modern mass murder in Norwegian history including a mass murder two separate incidents by him on the same day uh including a mass murder at a kids camp in in Norway and he's the one who describes himself as a Neo-Nazi who's used that statement more recently in history and now our president is quoting that white supremacist Neo-Nazi murderer if you voted for that you you you really need to question whether you're American anymore but that's who's using that kind of statement and listen does Trump sit and read Norwegian history hell no someone is handing him this story this quote and we need to figure out out who keeps spoon feeding him the white supremacy white terrorist philosophy if you voted for that you you you really need to question whether you're American anymore.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Holy shit. Trump says Zelenskyy “should have never started” the war with Russia. <br><br>Putin started the war by invading Ukraine. He is literally spreading Putin talking points from the podium. What a disgraceful asshole. <br><br> <a href="https://t.co/EdNAJn46Cm">pic.twitter.com/EdNAJn46Cm</a></p>&mdash; CALL TO ACTIVISM (@CalltoActivism) <a href="https://twitter.com/CalltoActivism/status/1891967011007213651?ref_src=twsrc%5Etfw">February 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Add in a few more warning signs for American citizens. He crowned himself King yesterday and signed an EO giving him and the AG exclusive authority over interpretation of the law. Above the Supreme Court turning it useless for the American people who trust it.</p>&mdash; Richard B (@RichardBuc94088) <a href="https://twitter.com/RichardBuc94088/status/1892678099780960552?ref_src=twsrc%5Etfw">February 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Bonespurs Bonaparte strikes again 🤬<br><br>Trump signs order declaring only. president and AG can interpret US law for executive branch<br><br>Note: That power is only granted to the judiciary per Article III 🤬🤬<a href="https://t.co/nit3O13VFV">https://t.co/nit3O13VFV</a></p>&mdash; MALA ➻ 💗 my 🐶 (@XiXi3210) <a href="https://twitter.com/XiXi3210/status/1893470515723149736?ref_src=twsrc%5Etfw">February 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: The Trump administration has announced that it will kill Medicare coverage of most telehealth services on April 1st.</p>&mdash; More Perfect Union (@MorePerfectUS) <a href="https://twitter.com/MorePerfectUS/status/1892666984145252374?ref_src=twsrc%5Etfw">February 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Medicare just cancelled tele-health <br><br>Costing Medicare recipients more…<br><br>That’s maga</p>&mdash; Barbara McMullin ☮️ (@BarbaraMcMullin) <a href="https://twitter.com/BarbaraMcMullin/status/1893011995768537387?ref_src=twsrc%5Etfw">February 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Scrooge mcfuck doesn’t understand that ending <a href="https://twitter.com/hashtag/telehealth?src=hash&amp;ref_src=twsrc%5Etfw">#telehealth</a> actually increases costs. Infectious patients will have to go to the doctor &amp; all the immunocompromised will be exposed &amp; requiring treatment-avoidable infections cost money and lives.</p>&mdash; GingerStripes (@violentbloom) <a href="https://twitter.com/violentbloom/status/1894029780644684091?ref_src=twsrc%5Etfw">February 24, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">MAGA seniors just found. <br><br>Trump signed an EO ending Medicare coverage for telehealth services, forcing many elderly Americans to return to in-person appointments. This move undermines accessible healthcare for seniors.<br><br>Another example of what happens when you FUCK AROUND!</p>&mdash; JR Did It (@jram0214) <a href="https://twitter.com/jram0214/status/1892963630737748116?ref_src=twsrc%5Etfw">February 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">People need to understand this: Trump did not leave office willingly the first time. If his health holds up, he will not leave office willingly this time. He is not joking about serving more than two terms. <a href="https://t.co/JWeL6O7qag">https://t.co/JWeL6O7qag</a></p>&mdash; Aaron Rupar (@atrupar) <a href="https://twitter.com/atrupar/status/1892743418033397918?ref_src=twsrc%5Etfw">February 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">These assholes are emboldened to say stuff like this as a direct result of Trump. <br><br>This is Trump’s legacy. <a href="https://t.co/niLg7Omd4C">https://t.co/niLg7Omd4C</a></p>&mdash; Drew Rogers (@rogersrazorback) <a href="https://twitter.com/rogersrazorback/status/1894883218572165340?ref_src=twsrc%5Etfw">February 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+[Goldman: GOP proposal allowing Trump third term not a ‘joke’ ](https://brooklyneagle.com/articles/2025/01/24/goldman-gop-proposal-allowing-trump-third-term-not-a-joke/)
+
+[Trump again floats unconstitutional third term - CBS News](https://www.cbsnews.com/video/trump-again-floats-unconstitutional-third-term/)
+
+[Was Donald Trump a Russian spy in 1987? Bizarre allegations by ex-KGB officer will surprise you](https://economictimes.indiatimes.com/magazines/panache/was-donald-trump-a-russian-spy-in-1987-bizarre-allegations-by-ex-kgb-officer-will-surprise-you/articleshow/118487146.cms)
+
+[My Article Saying Trump Was Compromised by Russia Was Right](https://nymag.com/article/2019/04/my-article-saying-trump-was-compromised-by-russia-was-right.html)
+
+['A plausible theory of mind-boggling collusion': Jonathan Chait tests the case for Trump as Russian asset | CBC Radio](https://www.cbc.ca/radio/day6/episode-398-trump-meets-putin-greyhound-s-western-exit-alan-alda-esther-the-wonder-pig-and-more-1.4743981/a-plausible-theory-of-mind-boggling-collusion-jonathan-chait-tests-the-case-for-trump-as-russian-asset-1.4743986)
+
+[The Real Reason Trump Berated Zelensky - The Atlantic](https://www.theatlantic.com/politics/archive/2025/02/zelensky-trump-putin-ukraine/681883/)
+
+[Pro-Trump Senate hopeful J.D. Vance called then-President a ‘moral disaster’ in 2017 messages | CNN Politics](https://www.cnn.com/2021/07/14/politics/kfile-jd-vance-donald-trump-2017/index.html)
+
+[Some Democrats are plotting to disrupt Trump's speech to Congress](https://www.axios.com/2025/03/04/trump-congress-address-democrats-disrupt-plan)
+
+[Trump Set to Whack US Working Class With Historic $2,000 Tax Hike | Common Dreams](https://www.commondreams.org/opinion/trump-tariffs-tax-hike-working-class)
+
+[22 Dem Senators Caught Posting Identical Videos, Almost Word-for-Word, Smearing Musk and Trump](https://truthpress.com/news/22-dem-senators-caught-posting-identical-videos-almost-word-for-word-smearing-musk-and-trump/)
+
+[The Democrats Go Viral (for all the wrong reasons.) | Patreon](https://www.patreon.com/posts/new-video-go-for-123863004)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">French senator perfectly describes the Trump situation. <a href="https://t.co/d7sO1t9mmK">pic.twitter.com/d7sO1t9mmK</a></p>&mdash; Richard Woodruff 🇺🇦 (@frontlinekit) <a href="https://twitter.com/frontlinekit/status/1897400210223140968?ref_src=twsrc%5Etfw">March 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+['Gonna Put Y'all BACK in Chains': Hank 'Capsize' Johnson Says Trump Wants Blacks to Pick Cotton – Twitchy](https://twitchy.com/grateful-calvin/2025/03/07/hes-gonna-put-yall-back-in-chains-hank-capsize-johnson-warns-trump-wants-black-to-pick-cotton-n2409445)
+
+[Alexander Vindman's Dumber Brother Calls Trump's First 45 Days In Office the WORST Days In Our History – Twitchy](https://twitchy.com/samj/2025/03/07/the-other-vindman-brother-says-worst-45-days-in-history-n2409492)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rep Hank Johnson (D) suggests Trump is trying to bring back slavery and have Black people “back to… picking cotton” <a href="https://t.co/g0fGB1IPfN">pic.twitter.com/g0fGB1IPfN</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1897693972253818886?ref_src=twsrc%5Etfw">March 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrat Hank Johnson suggests that he wants U.S. Marshals to arrest Donald Trump. <a href="https://t.co/3VsHYRgfbt">pic.twitter.com/3VsHYRgfbt</a></p>&mdash; Townhall.com (@townhallcom) <a href="https://twitter.com/townhallcom/status/1894418018077159487?ref_src=twsrc%5Etfw">February 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Check out the crowd for Bernie Sanders in Kenosha. <br><br>This is a crowd Donald Trump can only fantasize about. <br><br> <a href="https://t.co/hK184wDB64">pic.twitter.com/hK184wDB64</a></p>&mdash; CALL TO ACTIVISM (@CalltoActivism) <a href="https://twitter.com/CalltoActivism/status/1898397436269195296?ref_src=twsrc%5Etfw">March 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Only a sicko who has a soft spot and is obsessed with dictators can praise the war criminal who started the war as the one who wants to end the war and call him &quot;generous.&quot; <a href="https://t.co/9RWSC4zrHB">https://t.co/9RWSC4zrHB</a></p>&mdash; CALL TO ACTIVISM (@CalltoActivism) <a href="https://twitter.com/CalltoActivism/status/1898085489745207354?ref_src=twsrc%5Etfw">March 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is the kind of ovation Donald Trump can only dream about. <br><br> <a href="https://t.co/3yIAkTmH7T">pic.twitter.com/3yIAkTmH7T</a></p>&mdash; CALL TO ACTIVISM (@CalltoActivism) <a href="https://twitter.com/CalltoActivism/status/1897754450208735399?ref_src=twsrc%5Etfw">March 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trudeau: &quot;I want to speak directly to the American people. We don&#39;t want this…But your government has chosen to do this to you. As of this morning, markets are down and inflation is set to rise dramatically.&quot;<br><br>Trudeau cares more about us than Trump. <br><br> <a href="https://t.co/wz8kmIQ1Ip">pic.twitter.com/wz8kmIQ1Ip</a></p>&mdash; CALL TO ACTIVISM (@CalltoActivism) <a href="https://twitter.com/CalltoActivism/status/1896969828340244697?ref_src=twsrc%5Etfw">March 4, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">John Ratcliffe, Director of the Central Agency, has unequivocally confirmed that <a href="https://twitter.com/SenAdamSchiff?ref_src=twsrc%5Etfw">@SenAdamSchiff</a> manipulated impeachment whistleblower Eric Ciaramella in an effort to remove the sitting President from office. What are your thoughts on this revelation? <a href="https://t.co/Yz48IZIxy4">pic.twitter.com/Yz48IZIxy4</a></p>&mdash; BRIAN FRASER (@bfraser747) <a href="https://twitter.com/bfraser747/status/1898148147500925008?ref_src=twsrc%5Etfw">March 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Some Democrats are plotting to disrupt Trump's speech to Congress](https://www.axios.com/2025/03/04/trump-congress-address-democrats-disrupt-plan)
+
+[Trump rages entire world is 'ripping us off' in insane rant after trade war reaches boiling point](https://www.irishstar.com/news/us-news/donald-trump-rant-ripped-off-34854753)
+
+[Donald Trump gushes over ‘bromance’ with Kim Jong Un in bizarre Oval Office rant - Irish Star](https://www.irishstar.com/news/us-news/donald-trump-gushes-over-bromance-34857873)
+
+[Trump: This was a 'bigger crime than Watergate' - YouTube](https://youtu.be/regKgBtegyE?si=Al7VTbN4fbsE3mt_)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">January 21, 2017. The day after Trump&#39;s inauguration. Bill Maher agrees with the unhinged election-denying Keith Olbermann that Trump was installed as President by the Russians.<br><br>Never forget how dumb Bill Maher really is. <a href="https://t.co/b30U7FBaFY">pic.twitter.com/b30U7FBaFY</a></p>&mdash; MAZE (@mazemoore) <a href="https://twitter.com/mazemoore/status/1903307289349480879?ref_src=twsrc%5Etfw">March 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Republicans aim to INCREASE insulin costs<br><br>Trumpers in Congress introduce bill to KILL the $35/mo cap on insulin prices that Biden passed<br><br>To hurt 8.4 million Americans who rely on insulin<br><br>And to help Big Pharma and insurance<br><br>THAT is what Trump and the GOP represent</p>&mdash; Tristan Snell (@TristanSnell) <a href="https://twitter.com/TristanSnell/status/1877691120190144683?ref_src=twsrc%5Etfw">January 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One failed attempt at a shoe bomb 23 years ago and we all still take our shoes off at the airport. <br><br>One failed attempt at violently overthrowing our country 4 years ago and we allow the guy who orchestrated it to be certified as President so he can do it again.<br><br>Disgraceful.</p>&mdash; Melanie D&#39;Arrigo (@DarrigoMelanie) <a href="https://twitter.com/DarrigoMelanie/status/1876093988652118029?ref_src=twsrc%5Etfw">January 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“If Trump becomes President again in 2024 … it will be the final death blow…to what remains of the global order.”<br>- Yuval Harari <a href="https://t.co/KpbDQsdV1o">pic.twitter.com/KpbDQsdV1o</a></p>&mdash; Resist CBDC (@Resist_CBDC) <a href="https://twitter.com/Resist_CBDC/status/1853299489936925167?ref_src=twsrc%5Etfw">November 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:e6viblkcsztudabnp56gjh4v/app.bsky.feed.post/3ljkzdavjqk26" data-bluesky-cid="bafyreif6vmsg3faomn72rl5rdt46zl7hlnwvzwj5yph4jzjwisbnhotwtm" data-bluesky-embed-color-mode="system"><p lang="en">We need to make sure EVERYONE is aware of this. A week ago, the economy was set to expand by 2.3% this quarter. Now it&#x27;s forecasted to retract by 2.8%. That&#x27;s a massive decline -- and it CAN&#x27;T be blamed on Biden. Again, it all happened inside the last *week*.<br><br><a href="https://bsky.app/profile/did:plc:e6viblkcsztudabnp56gjh4v/post/3ljkzdavjqk26?ref_src=embed">[image or embed]</a></p>&mdash; Bob Cesca (<a href="https://bsky.app/profile/did:plc:e6viblkcsztudabnp56gjh4v?ref_src=embed">@bobcesca.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:e6viblkcsztudabnp56gjh4v/post/3ljkzdavjqk26?ref_src=embed">March 4, 2025 at 9:44 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
+
+Jack Smiths new document drop shows that the Trump Campaign PAID for travel, hotels, expenses and organizing efforts to bring outside Radical organizers to the Capital on
+January 6. Trump and his lackeys planned the assault on our Capital - peg33 on bluesky (see 2024-12-30-peg33.jpg)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">January 6th, 2021 should have been the end of Donald Trump’s political career. For as long as I live, I will not understand how it wasn’t. <a href="https://t.co/rK6sloe0eD">pic.twitter.com/rK6sloe0eD</a></p>&mdash; Jo (@JoJoFromJerz) <a href="https://twitter.com/JoJoFromJerz/status/1876241040589590914?ref_src=twsrc%5Etfw">January 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Germans fear Trump more than Kim and Putin – DW – 12/26/2019](https://www.dw.com/en/germans-think-trump-is-more-dangerous-than-kim-jong-un-and-putin/a-51802332)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FalnurKZ%2Fposts%2Fpfbid027Vyikt9DaHKZGJHyNwwoTSRamb6rCYRV1Vb8tHfnPCvUwzJxrh1B36SBgn6tcD66l&show_text=true&width=500" width="500" height="668" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+and
+
+[Donald Trump 'recruited by KGB in 80s and even has codename', claims former Soviet spy - Irish Star](https://www.irishstar.com/news/us-news/breaking-donald-trump-recruited-kgb-34727079) (see transcript)
+Donald Trump 'recruited by KGB in 80s and even has codename', claims former Soviet spy
+
+February 21, 2025
+
+A former Soviet intelligence officer has claimed Donald Trump was recruited by the KGB in 1987 and given the codename "Krasnov."
+
+The bombshell allegation was made by Alnur Mussayev, a former Kazakh intelligence chief, in a Facebook post.
+
+The 71-year-old, who previously headed Kazakhstan's National Security Committee, said he had served in the 6th Directorate of the KGB in Moscow, which was responsible for counter-intelligence support within the economy.
+
+One of the directorate's primary objectives, he claimed, was "recruiting businessmen from capitalist countries."
+
+According to Mussayev, Trump, then a 40-year-old New York real estate developer, was one of those recruits.
+
+"In 1987, our directorate recruited Donald Trump under the pseudonym Krasnov," he wrote.
+
+Mussayev's post did not include evidence to support his claim, but in a further comment, he made another shocking allegation.
+
+"Today, the personal file of resident 'Krasnov' has been removed from the FSB. It is being privately managed by one of Putin's close associates," he alleged.
+
+His allegations come amid years of speculation over Trump's ties to Russia, dating back to his first visit to Moscow in 1987.
+
+At the time, Trump, then a rising star in the New York property market, travelled to the Soviet Union to explore the possibility of building a hotel in the capital.
+
+Soviet officials reportedly facilitated the trip, raising questions among intelligence analysts about whether it was a routine business opportunity or something more nefarious.
+
+Several years ago a report highlighted how, in 1985, the KGB had updated a secret personality questionnaire distributed among its officers, detailing how to identify and recruit Western figures. The document, according to intelligence sources, instructed agents to target "prominent figures in the West" with the aim of "drawing them into some form of collaboration with us ... as an agent, or confidential or special or unofficial contact." Mussayev's claim appears to suggest that Trump may have been one such target.
+
+Despite years of scrutiny, Trump has vehemently denied having any improper ties to Russia or colluding with President Vladimir Putin.
+
+However, some U.S. officials have repeatedly raised concerns about his close relationship with the Kremlin leader, particularly during his first term in office.
+
+Anthony Scaramucci, who briefly served as Trump's White House communications director in 2017, added to the intrigue during a recent episode of The Rest Is Politics: U.S. podcast.
+
+He suggested that Trump's deference to Putin has puzzled many of his former senior officials. "I think there is a mysterious 'hold' on the president," he said.
+
+Scaramucci did not elaborate on what that 'hold' might be but suggested that several former Trump administration officials, including H.R. McMaster, James Mattis, and John Kelly --- had also struggled to understand Trump's affinity for Putin. "I don't know why it's like this," he said.
+
+"McMaster couldn't figure it out, Mattis couldn't figure it out, Kelly couldn't figure it out."
+
+Source: Christopher Bucktin, irishstar.com/news/us-news/breaking-donald-trump-recruited-kgb-34727079
+
+---
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow. The family of the man killed at Trump’s rally in PA just confirmed that they have NOT heard from Donald Trump. He has not tried to reach out, but President Biden called them. It’s pretty disgusting that Trump can’t take 10 minutes to call the widow.</p>&mdash; Harry Sisson (@harryjsisson) <a href="https://twitter.com/harryjsisson/status/1812988905387446501?ref_src=twsrc%5Etfw">July 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">According to the Supreme Court, Biden could now send in Seal Team 6 to take all of them out. He could send in the military to take out Trump. He has “immunity” for official acts now!</p>&mdash; Harry Sisson (@harryjsisson) <a href="https://twitter.com/harryjsisson/status/1807793337509786023?ref_src=twsrc%5Etfw">July 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+and then
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">All of these MAGA lunatics are saying that this is suggesting violence when the first 5 words are “according to the Supreme Court…” <br><br>Also, this is in reference to Justice Sonia Sotomayor’s dissent which included this exactly <a href="https://t.co/9zfEafCPUN">pic.twitter.com/9zfEafCPUN</a></p>&mdash; Harry Sisson (@harryjsisson) <a href="https://twitter.com/harryjsisson/status/1807830033114828807?ref_src=twsrc%5Etfw">July 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The more we learn about 2016 election the more ILLEGITIMATE it becomes.
+America deserves to know whether we have a FAKE President in the Oval Office #RussianInterference - Hakeem Jeffries on Twitter (see image)
+
+We will never bend the knee to the election deniers who poison our democracy. - Hakeem Jeffries (see image)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dr. Deborah Birx Admits She Manipulated Data and Altered CDC Guidelines to Deceive President Trump <a href="https://t.co/RRYw6C2Fhh">https://t.co/RRYw6C2Fhh</a></p>&mdash; Bo Snerdley (@BoSnerdley) <a href="https://twitter.com/BoSnerdley/status/1620866121871273984?ref_src=twsrc%5Etfw">February 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAltUSNationalParkService%2Fposts%2Fpfbid0C2xUatoagH5rk3ZovVPBLtkDrugYjV7E5VcSFMNFBRo9xC1UHD6U3iuYXhgyRAbBl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> (February 18, 2025)
+
+<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAltUSNationalParkService%2Fposts%2Fpfbid02yJochrPeoaWm9VBbwx52k9qs9fEL2eT3Wv3z2P7wgk2rMFMHeTWwJ2cZ3fzJt5ZQl&show_text=true&width=500" width="500" height="294" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> (February 21, 2025)
+
+[Historians rip Trump attacks on the 'Black Smithsonian' | AP News](https://apnews.com/article/trump-black-history-smithsonian-dei-687fd306dc9c6d7611300d74fe49b8aa)
+
+[Opinion | Will Black Trump Supporters Speak Out Against His Racist and Authoritarian Government? | Common Dreams](https://www.commondreams.org/opinion/black-trump-supporters)
+
+['Unabashed Fascism': Trump Executive Order Targets 'Improper Ideology' at Smithsonian | Common Dreams](https://www.commondreams.org/news/trump-smithsonian-executive-order)
+
+
+
+
+
+https://www.youtube.com/watch?v=1H-Q8WqkYQI
+https://www.youtube.com/watch?v=5m_Y7-SrDJI
+https://www.youtube.com/watch?v=T1WwWR-VB1s
+https://www.youtube.com/watch?v=l9K3it6GRlI
+https://www.youtube.com/watch?v=Cq7OMtDCcho
+https://www.youtube.com/watch?v=Zbsr45ZK9mo
+https://www.youtube.com/watch?v=N7VyvQQfxAU
+https://www.youtube.com/watch?v=3dCn5UtHL4w
+https://www.youtube.com/watch?v=YDxvGiZXHjE
+https://www.youtube.com/watch?v=V-Y5xgFi8Xg
+https://www.youtube.com/watch?v=ABBJaJhADa4
+https://www.youtube.com/watch?v=a6YLvJSk5SQ
+https://www.youtube.com/watch?v=Z9D6azIf_7c
+https://www.youtube.com/watch?v=gmd0E8NH_lA
+https://www.youtube.com/watch?v=piETrEhcLdE
+https://www.youtube.com/watch?v=tEw9D3uOVPM
+https://www.youtube.com/watch?v=bdBBok1cj34
+https://www.youtube.com/watch?v=vK8yC53M07g
+https://www.youtube.com/watch?v=apk8i6XOEm8
+https://www.youtube.com/watch?v=vdjICfvnKGM
+https://youtu.be/bqjFBKRknwo?si=XgIepk_ALnMImbWR
+https://www.youtube.com/watch?v=sWjeFHcharQ
+https://www.youtube.com/watch?v=5hpd61WfMvk
+https://www.youtube.com/watch?v=LXwaHNFaKiY
+https://www.youtube.com/watch?v=PAtWnQRhh0M
+https://www.youtube.com/watch?v=hgNM9YLqMps
+https://www.youtube.com/watch?v=wuJEnqrTwa8
+https://www.youtube.com/watch?v=h0uk63B0u7I
+https://www.youtube.com/watch?v=Qg5uWIZ5ovg
+https://www.youtube.com/watch?v=aSk7lDGF4R0
+https://www.youtube.com/watch?v=hTJzokMSgxg
+https://www.youtube.com/watch?v=3dl-l_x2HVc
+https://www.youtube.com/watch?v=RK4UQVW4Fo0
+https://www.youtube.com/watch?v=ljPbXsMPu8Y
+https://www.youtube.com/watch?v=wND_BqWWoFY
+https://www.youtube.com/watch?v=2HPbWbtbg0o
+https://www.youtube.com/watch?v=zfQtT-a2TnM
+https://www.youtube.com/watch?v=PwrkqUX28lM
+https://www.youtube.com/watch?v=WmktrPrdrx8
+https://www.youtube.com/watch?v=RvfSm1L1dW4
+https://www.youtube.com/watch?v=56oryL9HF5M
+https://www.youtube.com/watch?v=w4YvfDz5WgU
+https://www.youtube.com/watch?v=guHoRFxnQjE
+https://www.youtube.com/watch?v=XDTigQzp3LQ
+https://www.youtube.com/watch?v=m7yblOv81I8
+https://www.youtube.com/watch?v=I2x1aiJQRrI
+https://www.youtube.com/watch?v=L_WheNBNllk
+https://www.youtube.com/watch?v=n9nsnpg8kaQ
+
+
+
+
+https://youtu.be/Yb-57a1Ys0M?si=cZx7-n4TOa--NhTM
+By the hour, Donald Trump Elon Musk and his enablers Advance their extremist anti-equity un-American agenda dismantling Decades of civil rights progress upending livelihoods incomes and lives and and adversely affecting something they claim to care about the GDP um because all data supports that diversity equity and inclusion is actually good business Governor Reynolds my Republican colleagues invited you here today to promote what they see as a model of governance simply put Republicans vision of America is to be more like Iowa governor Reynolds let's learn more about the state do you know what percentage of winds are white and what percentage are black
+
+I don't know the exact percentages now we're by far U larger percentage of white population
+
+that's correct Iowa is 90% white and only four and a half% black so that is drastically different from the national population. So when Republicans suggest Iowa should be a national model they're advocating for a government that doesn't reflect our country um because all data supports that diversity equity and inclusion is actually good business.
+
+
+
+https://youtu.be/0isWX0PjYcA?si=JC3J54iebnMUDXKk
+
+I do believe that fear is truly warranted in the sense that people of color are just going to be rounded up I mean this is this I mean we've we've lived it especially as Black Folk in this country right like it's the racial profiling and so whether you're a US citizen whether you are here as a doca recipient whether you are undocumented whether you are naturalized whatever your situation is I think that if you can be mistaken for being a brown person that you should be concerned because there is nothing that is tatted on anybody's head that says I'm undocumented or I'm a citizen right?
+
+
+
+https://youtu.be/FwdtO6ppg6A?si=lM09XwgJ9tJo1gOA
+February 11, 2025
+Maxine Dexter: We have to fuck Trump.
+
+
+
+https://youtu.be/MhdG3Gthq3w?si=5Q3abFuVm1chpb5z
+Maxine Waters:  Trump announced that they're going to get rid of all the foreign aid if he doesn't do it and they're reorganizing reorganizing all of the right-wing old people the right-wing old people s the pot to the kettle anybody in any of these agencies where we want to go in and capture all of this data which we will monetize is all about money all of it will be monetized all of it will be monetized good God you're dumb we're not afraid of you we know that you are the co-president now of the United States of America we want you to come forward and I want you to say I voted but I changed my mind good luck with that he can't have it so Eli come here and face us bring your ass on over here come on over here and face us Eli musk where are you bring your ass over here. We're standing up we're speaking out and this is our country and we're not going to let Iman L Iman L Iman Les have it.
+
+
+
+https://youtu.be/mFys6rwwtRk?si=KaddrnRinVKV_z5l
+Jasmine Crockett: I'm trying to figure out exactly what it is that the Republicans believe our job is because right now they have relinquished their constitutional duties over to an unelected bureaucrat someone who no one went out to vote for absolutely he is occupying uh the Oval Office as we saw yesterday and that is a first for me to see someone occupying the Oval Office who's never actually been elected to the Oval Office and and actually answering more questions than the person that allegedly got elected.
+
+
+
+https://youtu.be/NhvHpesy8fM?si=VOHDQZzLX9LiwQfN
+Lawrence O'Donnell: We now have the first mug shot ever taken of a former president of the United States here is Donald Trump's mugshot which will instantly become the most famous mugshot in the history of photography the mugshot of the 45th president of the United States will go from tomorrow's newspapers into two our history books where the only presidential mugshot will live forever American High School history students will be looking at that photograph for hundreds of years that mugshot will Define the low point in the history of the American presidency that mugshot will soon be everywhere in our lives it will be on t-shirts coffee mugs napkins toilet pap paper this Christmas you will see people give and receive gifts with that mug shot on them artists will create their own Andy Warhol like Renditions of that mugshot hundreds of years from now history students around the world will be staring at that mug shot, staring into the eyes of Donald Trump and wondering what they see. What they should see is fear; Donald Trump's fear of what can happen in a country where no one is above the law. What they should see is stupidity; The stupidity that made Donald Trump a criminal defendant. And they should see hatred; Donald Trump's hatred of the Integrity of the institutions and the people who forced him to endure the humiliation of that mug shot.
+
+
+
+https://youtu.be/SHVHoSTedyE?si=MW5fwaS3b31X553K
+February 2016
+Lindsey Graham: I'm not going to try to get into the mind of Donald Trump I think he's a cook I think he's crazy I think he's unfit for office and I'm a Republican and he's not.
+
+
+
+Time will tell if Jussie's attackers shouted MAGA or not but there is no part of me that doubts that Trump and MAGA culture have encouraged and emboldened these types of attacks and that is truly fucking unforgivable. Billy Eichner, 1/29/19 xweet (see Sanctuary site)
+
+
+[The Trump Administration Accidentally Texted Me Its War Plans - The Atlantic](https://www.theatlantic.com/politics/archive/2025/03/trump-administration-accidentally-texted-me-its-war-plans/682151/)
+
+[Economists Agree: Trump Is Wrong on Tariffs](https://tcf.org/content/commentary/economists-agree-trump-is-wrong-on-tariffs/)
+
+[Trump's Flawed Claim that Tariffs Made the U.S. Its 'Richest' - FactCheck.org](https://www.factcheck.org/2025/03/trumps-flawed-claim-that-tariffs-made-the-u-s-its-richest/)
+
+[New FBI whistleblower disclosures reveal agent who infiltrated Trump's campaign a decade ago - Washington Times](https://www.washingtontimes.com/news/2025/feb/26/new-fbi-whistleblower-disclosures-reveal-agent-infiltrated-trumps/)
+
+
 
 
 Election deniers --- https://www.youtube.com/watch?v=HGOSXpgnKQw
