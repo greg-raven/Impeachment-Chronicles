@@ -349,18 +349,10 @@ You know with regard to this statement which again we we shall not believe R's P
 
 [Trump: This was a 'bigger crime than Watergate' - YouTube](https://youtu.be/regKgBtegyE?si=Al7VTbN4fbsE3mt_)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Republicans aim to INCREASE insulin costs<br><br>Trumpers in Congress introduce bill to KILL the $35/mo cap on insulin prices that Biden passed<br><br>To hurt 8.4 million Americans who rely on insulin<br><br>And to help Big Pharma and insurance<br><br>THAT is what Trump and the GOP represent</p>&mdash; Tristan Snell (@TristanSnell) <a href="https://twitter.com/TristanSnell/status/1877691120190144683?ref_src=twsrc%5Etfw">January 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">One failed attempt at a shoe bomb 23 years ago and we all still take our shoes off at the airport. <br><br>One failed attempt at violently overthrowing our country 4 years ago and we allow the guy who orchestrated it to be certified as President so he can do it again.<br><br>Disgraceful.</p>&mdash; Melanie D&#39;Arrigo (@DarrigoMelanie) <a href="https://twitter.com/DarrigoMelanie/status/1876093988652118029?ref_src=twsrc%5Etfw">January 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“If Trump becomes President again in 2024 … it will be the final death blow…to what remains of the global order.”<br>- Yuval Harari <a href="https://t.co/KpbDQsdV1o">pic.twitter.com/KpbDQsdV1o</a></p>&mdash; Resist CBDC (@Resist_CBDC) <a href="https://twitter.com/Resist_CBDC/status/1853299489936925167?ref_src=twsrc%5Etfw">November 4, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="bluesky-embed" data-bluesky-uri="at://did:plc:e6viblkcsztudabnp56gjh4v/app.bsky.feed.post/3ljkzdavjqk26" data-bluesky-cid="bafyreif6vmsg3faomn72rl5rdt46zl7hlnwvzwj5yph4jzjwisbnhotwtm" data-bluesky-embed-color-mode="system"><p lang="en">We need to make sure EVERYONE is aware of this. A week ago, the economy was set to expand by 2.3% this quarter. Now it&#x27;s forecasted to retract by 2.8%. That&#x27;s a massive decline -- and it CAN&#x27;T be blamed on Biden. Again, it all happened inside the last *week*.<br><br><a href="https://bsky.app/profile/did:plc:e6viblkcsztudabnp56gjh4v/post/3ljkzdavjqk26?ref_src=embed">[image or embed]</a></p>&mdash; Bob Cesca (<a href="https://bsky.app/profile/did:plc:e6viblkcsztudabnp56gjh4v?ref_src=embed">@bobcesca.bsky.social</a>) <a href="https://bsky.app/profile/did:plc:e6viblkcsztudabnp56gjh4v/post/3ljkzdavjqk26?ref_src=embed">March 4, 2025 at 9:44 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
 Jack Smiths new document drop shows that the Trump Campaign PAID for travel, hotels, expenses and organizing efforts to bring outside Radical organizers to the Capital on
 January 6. Trump and his lackeys planned the assault on our Capital - peg33 on bluesky (see 2024-12-30-peg33.jpg)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">January 6th, 2021 should have been the end of Donald Trump’s political career. For as long as I live, I will not understand how it wasn’t. <a href="https://t.co/rK6sloe0eD">pic.twitter.com/rK6sloe0eD</a></p>&mdash; Jo (@JoJoFromJerz) <a href="https://twitter.com/JoJoFromJerz/status/1876241040589590914?ref_src=twsrc%5Etfw">January 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Germans fear Trump more than Kim and Putin – DW – 12/26/2019](https://www.dw.com/en/germans-think-trump-is-more-dangerous-than-kim-jong-un-and-putin/a-51802332)
 
@@ -413,20 +405,10 @@ Source: Christopher Bucktin, irishstar.com/news/us-news/breaking-donald-trump-re
 
 ---
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Wow. The family of the man killed at Trump’s rally in PA just confirmed that they have NOT heard from Donald Trump. He has not tried to reach out, but President Biden called them. It’s pretty disgusting that Trump can’t take 10 minutes to call the widow.</p>&mdash; Harry Sisson (@harryjsisson) <a href="https://twitter.com/harryjsisson/status/1812988905387446501?ref_src=twsrc%5Etfw">July 15, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">According to the Supreme Court, Biden could now send in Seal Team 6 to take all of them out. He could send in the military to take out Trump. He has “immunity” for official acts now!</p>&mdash; Harry Sisson (@harryjsisson) <a href="https://twitter.com/harryjsisson/status/1807793337509786023?ref_src=twsrc%5Etfw">July 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-and then
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">All of these MAGA lunatics are saying that this is suggesting violence when the first 5 words are “according to the Supreme Court…” <br><br>Also, this is in reference to Justice Sonia Sotomayor’s dissent which included this exactly <a href="https://t.co/9zfEafCPUN">pic.twitter.com/9zfEafCPUN</a></p>&mdash; Harry Sisson (@harryjsisson) <a href="https://twitter.com/harryjsisson/status/1807830033114828807?ref_src=twsrc%5Etfw">July 1, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 The more we learn about 2016 election the more ILLEGITIMATE it becomes.
 America deserves to know whether we have a FAKE President in the Oval Office #RussianInterference - Hakeem Jeffries on Twitter (see image)
 
 We will never bend the knee to the election deniers who poison our democracy. - Hakeem Jeffries (see image)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dr. Deborah Birx Admits She Manipulated Data and Altered CDC Guidelines to Deceive President Trump <a href="https://t.co/RRYw6C2Fhh">https://t.co/RRYw6C2Fhh</a></p>&mdash; Bo Snerdley (@BoSnerdley) <a href="https://twitter.com/BoSnerdley/status/1620866121871273984?ref_src=twsrc%5Etfw">February 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FAltUSNationalParkService%2Fposts%2Fpfbid0C2xUatoagH5rk3ZovVPBLtkDrugYjV7E5VcSFMNFBRo9xC1UHD6U3iuYXhgyRAbBl&show_text=true&width=500" width="500" height="250" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe> (February 18, 2025)
 
