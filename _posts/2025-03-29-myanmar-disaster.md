@@ -5,7 +5,7 @@ tags:
 - Dominic Waghorn
 ---
 
-The Myanmar quake is the first major disaster to suffer the brunt of Donald Trump's devastating cuts | @DominicWaghorn analysis
+**The Myanmar quake is the first major disaster to suffer the brunt of Donald Trump's devastating cuts** | @DominicWaghorn analysis
 
 - The 7.7 magnitude earthquake is the first major disaster to suffer the brunt of Donald Trump's USAID cuts.
 
