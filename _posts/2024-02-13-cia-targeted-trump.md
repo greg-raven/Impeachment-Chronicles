@@ -5,7 +5,7 @@ tags:
 - Victor Nava
 ---
 
-The US Intelligence Community asked foreign spy agencies to surveil 26 associates of Donald Trump in the run-up to the 2016 election, which triggered the allegations that the former president's campaign had been colluding with Russia, according to a report.
+The U.S. Intelligence Community asked foreign spy agencies to surveil 26 associates of Donald Trump in the run-up to the 2016 election, which triggered the allegations that the former president's campaign had been colluding with Russia, according to a report.
 
 Former CIA Director John Brennan identified and presented the targets to the US's intelligence-sharing partners in the so-called "Five Eyes" agencies --- the intelligence-gathering organizations in the US, United Kingdom, Canada, Australia and New Zealand --- according to a report published Monday on Michael Shellenberger's Public Substack.
 
@@ -15,7 +15,7 @@ They cite multiple unnamed sources, including ones close to the House Permanent 
 
 Turner's office did not respond to *The Post's* request for comment.
 
-The US intelligence community had "identified" the 26 Trump associates "as people to 'bump,' or make contact with or manipulate," one source told the outlet.
+The U.S. intelligence community had "identified" the 26 Trump associates "as people to 'bump,' or make contact with or manipulate," one source told the outlet.
 
 In spy-speak, "bumping" is when a reason is manufactured to meet with a target of interest in order to develop a relationship that could lead to intelligence.
 

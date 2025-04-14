@@ -27,7 +27,7 @@ Trump's son, Eric, told Fox host Sean Hannity that "the purpose of the raid, fro
 
 Christina Bobb, Trump's attorney, said the FBI seized documents. "President Trump and his legal team have been cooperative with FBI and DOJ officials every step of the way. The FBI did conduct an unannounced raid and seized paper," Bobb said
 
-There was communication between the FBI and US Secret Service before the search warrant was executed Monday, a person familiar with the matter said, allowing for the FBI to access the estate without any complications. There is only a small Secret Service footprint at Mar-a-Lago when Trump is not there.
+There was communication between the FBI and U.S. Secret Service before the search warrant was executed Monday, a person familiar with the matter said, allowing for the FBI to access the estate without any complications. There is only a small Secret Service footprint at Mar-a-Lago when Trump is not there.
 
 CNN has reached out to the FBI for comment. The Justice Department declined to comment to CNN.
 

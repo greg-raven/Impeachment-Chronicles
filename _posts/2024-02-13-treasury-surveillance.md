@@ -11,7 +11,7 @@ The Biden administration acknowledged a controversial surveillance push that uti
 
 This surveillance approach has sparked criticism from Senator Tim Scott, a leading Republican member of the Senate Banking Committee, who called it a "flagrant violation of Americans' privacy" in a missive to the Treasury Secretary, Janet Yellen.
 
-The Senator argued that the process targeted US citizens for simply exercising their constitutionally sanctioned rights without due process.
+The Senator argued that the process targeted U.S. citizens for simply exercising their constitutionally sanctioned rights without due process.
 
 Despite the outcry, this surveillance tactic was initiated under the previous Trump administration shortly after January 6, 2021.
 

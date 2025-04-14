@@ -7,7 +7,7 @@ tags:
 
 The mean tweets? Really? That's all that bothers you?
 
-What about the promises of a dictatorship, the execution of generals insufficiently loyal, the banning of news outlets insufficiently loyal, the jailing of political opponents, the termination of the US Constitution, the praise of Communist leaders across the globe?
+What about the promises of a dictatorship, the execution of generals insufficiently loyal, the banning of news outlets insufficiently loyal, the jailing of political opponents, the termination of the U.S. Constitution, the praise of Communist leaders across the globe?
 
 @NikkiHaley and @GovRonDeSantis don't promise violent authoritarianism. They are not tyrants-in-waiting. This is not a binary choice and you know it.
 

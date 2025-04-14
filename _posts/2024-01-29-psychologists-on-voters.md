@@ -17,7 +17,7 @@ Trump exemplifies extrinsic values. From the tower bearing his name in gold lett
 
 [...]
 
-Ever since Ronald Reagan came to power, on a platform that ensured society became sharply divided into "winners" and "losers," and ever more people, lacking public provision, were allowed to fall through the cracks, US politics has become fertile soil for extrinsic values. As Democratic presidents, following Reagan, embraced most of the principles of neoliberalism, the ratchet was scarcely reversed. The appeal to extrinsic values by the Democrats, Labour and other once-progressive parties is always self-defeating. Research shows that the further towards the extrinsic end of the spectrum people travel, the more likely they are to vote for a rightwing party.
+Ever since Ronald Reagan came to power, on a platform that ensured society became sharply divided into "winners" and "losers," and ever more people, lacking public provision, were allowed to fall through the cracks, U.S. politics has become fertile soil for extrinsic values. As Democratic presidents, following Reagan, embraced most of the principles of neoliberalism, the ratchet was scarcely reversed. The appeal to extrinsic values by the Democrats, Labour and other once-progressive parties is always self-defeating. Research shows that the further towards the extrinsic end of the spectrum people travel, the more likely they are to vote for a rightwing party.
 
 [...]
 

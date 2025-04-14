@@ -19,7 +19,7 @@ As we reported previously, according to far left Politico, Comey stated in March
 
 But Comey appears to have lied about this.
 
-A text message released today by the US Senate showed words that were redacted when the FBI released the same texts long ago. The texts show evidence of collusion and wrongdoing by Obama's FBI.
+A text message released today by the U.S. Senate showed words that were redacted when the FBI released the same texts long ago. The texts show evidence of collusion and wrongdoing by Obama's FBI.
 
 > I'd call this evidence of collusion and wrongdoing... https://t.co/CcTrao5bZE
 >
@@ -31,7 +31,7 @@ The texts released today from corrupt FBI investigator Peter Strzok to corrupt F
 >
 > "OCONUS LURES"
 >
-> OCONUS= Outside Contiguous US
+> OCONUS= Outside Contiguous U.S.
 >
 > LURES= In this context LURES = SPIES --- multiple
 >
@@ -39,7 +39,7 @@ The texts released today from corrupt FBI investigator Peter Strzok to corrupt F
 >
 > <cite>Falco (@Nick\_Falco) June 4, 2018</cite>
 
-This is only the first day of the 500 pages of documents being released by the US Senate.
+This is only the first day of the 500 pages of documents being released by the U.S. Senate.
 
 Give this a few more days. God only knows what's here and what tomorrow's Senate Hearing with corrupt Obama FBI agent Bill Preistap will reveal.
 

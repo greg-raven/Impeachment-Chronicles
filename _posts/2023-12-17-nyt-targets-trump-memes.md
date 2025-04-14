@@ -5,7 +5,7 @@ tags:
 - Didi Rankovic
 ---
 
-It's that time of the US election cycle again: what were formerly known as "newspapers of record" attempting to, for political reasons, promote odd ideas like regulating jokes.
+It's that time of the U.S. election cycle again: what were formerly known as "newspapers of record" attempting to, for political reasons, promote odd ideas like regulating jokes.
 
 It's *The New York Times* this time, looking like it's terrified that Donald Trump might be successful in his new presidential bid, and so going guns blazing after what it calls his "troll army."
 

@@ -23,7 +23,7 @@ Jack Smith never included Trump's conversation with Pratt in his 37-count indict
 
 Catherine Herridge blew up Jack Smith's leak.
 
-"Sources tell CBS News there is no indication former President Trump shared sensitive records with an Australian billionaire + no charges have been filed by the Special Counsel through their alleged discussion about US Nuclear subs was investigated," Catherine Herridge said.
+"Sources tell CBS News there is no indication former President Trump shared sensitive records with an Australian billionaire + no charges have been filed by the Special Counsel through their alleged discussion about U.S. Nuclear subs was investigated," Catherine Herridge said.
 
 Herridge continued, "Well some information is publicly available, former military officials tell CBS News."
 

@@ -1,5 +1,3 @@
-Donald Trump Shares Campaign Video Featuring Image Used by White Supremacist Group --- Newsweek --- https://www.newsweek.com/donald-trump-shares-campaign-video-featuring-image-used-white-supremacist-group-1456785
-
 Romney: 'Confusion reigns' on CR as Trump's direction 'absent' --- https://www.msn.com/en-us/news/politics/romney-confusion-reigns-on-cr-as-trump-direction-absent/ar-AA1w6Pte
 
 The Great Capitulation --- The New York Times --- https://www.nytimes.com/2024/12/16/opinion/trump-tech-leaders-support.html
@@ -331,7 +329,7 @@ You know with regard to this statement which again we we shall not believe R's P
 
 [Some Democrats are plotting to disrupt Trump's speech to Congress](https://www.axios.com/2025/03/04/trump-congress-address-democrats-disrupt-plan)
 
-[Trump Set to Whack US Working Class With Historic $2,000 Tax Hike | Common Dreams](https://www.commondreams.org/opinion/trump-tariffs-tax-hike-working-class)
+[Trump Set to Whack U.S. Working Class With Historic $2,000 Tax Hike | Common Dreams](https://www.commondreams.org/opinion/trump-tariffs-tax-hike-working-class)
 
 [22 Dem Senators Caught Posting Identical Videos, Almost Word-for-Word, Smearing Musk and Trump](https://truthpress.com/news/22-dem-senators-caught-posting-identical-videos-almost-word-for-word-smearing-musk-and-trump/)
 
@@ -377,7 +375,7 @@ that's correct Iowa is 90% white and only four and a half% black so that is dras
 
 https://youtu.be/0isWX0PjYcA?si=JC3J54iebnMUDXKk
 
-I do believe that fear is truly warranted in the sense that people of color are just going to be rounded up I mean this is this I mean we've we've lived it especially as Black Folk in this country right like it's the racial profiling and so whether you're a US citizen whether you are here as a doca recipient whether you are undocumented whether you are naturalized whatever your situation is I think that if you can be mistaken for being a brown person that you should be concerned because there is nothing that is tatted on anybody's head that says I'm undocumented or I'm a citizen right?
+I do believe that fear is truly warranted in the sense that people of color are just going to be rounded up I mean this is this I mean we've we've lived it especially as Black Folk in this country right like it's the racial profiling and so whether you're a U.S. citizen whether you are here as a doca recipient whether you are undocumented whether you are naturalized whatever your situation is I think that if you can be mistaken for being a brown person that you should be concerned because there is nothing that is tatted on anybody's head that says I'm undocumented or I'm a citizen right?
 
 
 

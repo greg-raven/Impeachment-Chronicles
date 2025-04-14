@@ -9,7 +9,7 @@ tags:
 
 The Rothschilds have used their globalist media mouthpiece to declare that Donald Trump is threatening to destroy the New World Order, for good.
 
-Globalism propaganda tool and Rothschild family-owned publication, *The Economist,* has branded the US President a "present danger" to the "New World Order," and stated that the "internationalists" that formed it are "spinning in their graves.
+Globalism propaganda tool and Rothschild family-owned publication, *The Economist,* has branded the U.S. President a "present danger" to the "New World Order," and stated that the "internationalists" that formed it are "spinning in their graves.
 
 "*The Economist* names Trump is the biggest threat to the "liberal" New World Order above other legitimate threats such as jihadism and terrorism, Communist Chinese expansion, and North Korean hostility.
 

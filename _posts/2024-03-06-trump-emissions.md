@@ -1,20 +1,20 @@
 ---
-title: "Trump election win could add 4bn tonnes to US emissions by 2030"
+title: "Trump election win could add 4bn tonnes to U.S. emissions by 2030"
 layout: post
 tags:
 - Simon Evans
 - Verner Viisainen
 ---
 
-- A victory for Donald Trump in November's presidential election could lead to an additional 4bn tonnes of US emissions by 2030 compared with Joe Biden's plans, Carbon Brief analysis reveals.
+- A victory for Donald Trump in November's presidential election could lead to an additional 4bn tonnes of U.S. emissions by 2030 compared with Joe Biden's plans, Carbon Brief analysis reveals.
 
-This extra 4bn tonnes of carbon dioxide equivalent (GtCO2e) by 2030 would cause global climate damages worth more than $900bn, based on the latest US government valuations.
+This extra 4bn tonnes of carbon dioxide equivalent (GtCO2e) by 2030 would cause global climate damages worth more than $900bn, based on the latest U.S. government valuations.
 
 For context, 4GtCO2e is equivalent to the combined annual emissions of the EU and Japan, or the combined annual total of the world's 140 lowest-emitting countries.
 
 Put another way, the extra 4GtCO2e from a second Trump term would negate --- twice over --- all of the savings from deploying wind, solar and other clean technologies around the world over the past five years.
 
-If Trump secures a second term, the US would also very likely miss its global climate pledge by a wide margin, with emissions only falling to 28% below 2005 levels by 2030. The US's current target under the Paris Agreement is to achieve a 50-52% reduction by 2030.
+If Trump secures a second term, the U.S. would also very likely miss its global climate pledge by a wide margin, with emissions only falling to 28% below 2005 levels by 2030. The US's current target under the Paris Agreement is to achieve a 50-52% reduction by 2030.
 
 Carbon Brief's analysis is based on an aggregation of modelling by various US research groups. It highlights the significant impact of the Biden administration's climate policies. This includes the Inflation Reduction Act --- which Trump has pledged to reverse --- along with several other policies.
 
@@ -156,7 +156,7 @@ After Trump was elected for the first time, many scientists, politicians and cam
 
 Many of his first-term efforts to rollback climate rules and boost fossil fuels ended in failure.
 
-While some modelling suggested that his first presidency would delay hitting global emissions targets by a decade, Carbon Brief analysis found that US states and cities might be able to take sufficient steps to meet the country's then-current climate goal without federal action.
+While some modelling suggested that his first presidency would delay hitting global emissions targets by a decade, Carbon Brief analysis found that U.S. states and cities might be able to take sufficient steps to meet the country's then-current climate goal without federal action.
 
 However, another recent Guardian article says that a second-term Trump would be "even more extreme for the environment than his first, according to interviews with multiple Trump allies and advisers". It adds:
 
@@ -164,47 +164,47 @@ However, another recent Guardian article says that a second-term Trump would be 
 
 Carbon Brief's "Trump" scenario does not include additional fossil fuel emissions as a result of policies supporting coal, oil and gas production or use, as the success or otherwise of any such efforts are highly uncertain.
 
-In addition, higher US fossil fuel production would not all be consumed domestically and would not increase global demand on a one-for-one basis.
+In addition, higher U.S. fossil fuel production would not all be consumed domestically and would not increase global demand on a one-for-one basis.
 
 While it would be likely to raise demand and emissions, both domestically and internationally, the precise impact would depend on the response of markets and overseas policymakers.
 
-**The global climate implications of the US election**
+**The global climate implications of the U.S. election**
 
 If Biden --- or another Democrat --- wins the election in November and if his party regains control over the House and Senate, then they could push to implement new climate policies in 2025.
 
-There is a clear need for further policy, if US climate goals are to be met. Moreover, the expiration of a large number of tax cuts at the end of 2025 could present an opportunity to deploy carbon pricing in support of raising revenues --- and cutting emissions --- according to a recent study.
+There is a clear need for further policy, if U.S. climate goals are to be met. Moreover, the expiration of a large number of tax cuts at the end of 2025 could present an opportunity to deploy carbon pricing in support of raising revenues --- and cutting emissions --- according to a recent study.
 
-It suggests that a price on emissions, described as a "carbon fee", could significantly boost US chances of hitting its 2030 target, even if paired with a partial repeal of the IRA.
+It suggests that a price on emissions, described as a "carbon fee", could significantly boost U.S. chances of hitting its 2030 target, even if paired with a partial repeal of the IRA.
 
 > John Bistline on Twitter/𝕏 "How could climate policy options in 2025 shape emissions and fiscal outcomes? Our new working paper crunches the numbers across a range of possibilities and highlights differences in CO2 reductions, fiscal costs/revenues, and household impacts."
 
 (Note that the "Repeal IRA; no new emissions rules" scenario in this study is similar to the "Trump" scenario in Carbon Brief's analysis. However, the model used in the study finds a relatively weak 2030 emissions impact of the IRA compared with most of the five others, with which it is aggregated by Carbon Brief.)
 
-An additional point of leverage is the EU's carbon border adjustment mechanism (CBAM), which will put a carbon price on US exports unless they face an equivalent price domestically, according to Democratic senator Sheldon Whitehouse, speaking at a launch event for the study:
+An additional point of leverage is the EU's carbon border adjustment mechanism (CBAM), which will put a carbon price on U.S. exports unless they face an equivalent price domestically, according to Democratic senator Sheldon Whitehouse, speaking at a launch event for the study:
 
 "The 2025 opportunity when the Trump tax cuts collapse [creates] huge room for negotiation. Then you've got the CBAM happening in Europe that puts enormous pressure to get a price of carbon, if you want to avoid being tariffed at the EU and UK level."
 
-Whether a second-term Biden administration would attempt to put a price on carbon or not, it would be likely to push forward new policies in pursuit of US climate targets.
+Whether a second-term Biden administration would attempt to put a price on carbon or not, it would be likely to push forward new policies in pursuit of U.S. climate targets.
 
 In contrast, a victory for Donald Trump could be expected, at a minimum, to result in full or partial repeal of the IRA and rollbacks of Biden's climate rules, including power plants, cars and methane.
 
-This is reflected in Carbon Brief's "Trump" scenario, which would add a cumulative 4GtCO2e to US emissions by 2030, as shown in the figure below.
+This is reflected in Carbon Brief's "Trump" scenario, which would add a cumulative 4GtCO2e to U.S. emissions by 2030, as shown in the figure below.
 
 Moreover, assuming no further policy changes, this cumulative total would continue to climb beyond 2030, reaching 15GtCO2e by 2040 and a huge 27GtCO2e by 2050.
 
-The increases in cumulative emissions under the "Trump" scenario are so large that they would imperil not only the US climate targets, but also global climate goals. (Under the 22nd amendment of the US constitution, Trump would not be allowed to run for a third term.)
+The increases in cumulative emissions under the "Trump" scenario are so large that they would imperil not only the U.S. climate targets, but also global climate goals. (Under the 22nd amendment of the U.S. constitution, Trump would not be allowed to run for a third term.)
 
 In 2022, the Intergovernmental Panel on Climate Change (IPCC) sixth assessment report (AR6) said that it would be "impossible" to stay below 1.5C without strengthening current pledges:
 
 > "[F]ollowing current NDCs until 2030 ... [would make] it impossible to limit warming to 1.5C with no or limited overshoot and strongly increas[e] the challenge to likely limit warming to 2C."
 
-The corollary of this is that if the US --- the world's second-largest emitter --- misses its 2030 target by a wide margin, then it would be likely to end any hope of keeping global warming below 1.5C.
+The corollary of this is that if the U.S. --- the world's second-largest emitter --- misses its 2030 target by a wide margin, then it would be likely to end any hope of keeping global warming below 1.5C.
 
 **How the analysis was carried out**
 
 The two scenarios set out in this analysis are based on an aggregation of modelling published by Bistline et al. (2023) and the Rhodium Group (2023).
 
-The first study was explained by the authors in a Carbon Brief guest post. It compares the impact of the IRA using results from 11 separate models, some of which only cover the power sector. Carbon Brief's analysis uses results from the six models that cover the entire US economy.
+The first study was explained by the authors in a Carbon Brief guest post. It compares the impact of the IRA using results from 11 separate models, some of which only cover the power sector. Carbon Brief's analysis uses results from the six models that cover the entire U.S. economy.
 
 The "Trump" scenario is based on the "reference" pathway in this study, corresponding to the average of the six models. The only modification is that the Trump scenario is set to match the Biden scenario below until 2024.
 
@@ -220,6 +220,6 @@ Carbon Brief's analysis does not include any additional post-2025 climate polici
 
 Finally, it also does not include additional subnational climate policies that could be introduced, nor does it consider the risk that current or future state action could be hit by federal or legal challenge.
 
-Historical US greenhouse gas emissions are taken from the US EPA inventory through to 2021. Figures for 2022 and 2023 are based on estimated annual changes from the Rhodium Group.
+Historical U.S. greenhouse gas emissions are taken from the U.S. EPA inventory through to 2021. Figures for 2022 and 2023 are based on estimated annual changes from the Rhodium Group.
 
 Source: Simon Evans and Verner Viisainen, carbonbrief.org/analysis-trump-election-win-could-add-4bn-tonnes-to-us-emissions-by-2030/

@@ -23,7 +23,7 @@ Meanwhile, there are other disturbingly political aspects to Smith. For one, his
 
 The New York Post reported: "Katy Chevigny is credited as a producer on 'Becoming,' a 2020 documentary about Obama, and Federal Election Commission records show that she donated $2,000 in support of Biden's presidential run that same year."
 
-The Post added that Smith's wife "also worked on the 2018 documentary titled 'Dark Money.' The film is described as a 'political thriller' that 'takes viewers to Montana --- a front line in the fight to preserve fair elections nationwide --- to follow an intrepid local journalist working to expose the real-life impact of the US Supreme Court's Citizens United decision.'"
+The Post added that Smith's wife "also worked on the 2018 documentary titled 'Dark Money.' The film is described as a 'political thriller' that 'takes viewers to Montana --- a front line in the fight to preserve fair elections nationwide --- to follow an intrepid local journalist working to expose the real-life impact of the U.S. Supreme Court's Citizens United decision.'"
 
 The Western Journal explained:
 

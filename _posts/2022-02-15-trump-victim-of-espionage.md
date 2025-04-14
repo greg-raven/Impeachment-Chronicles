@@ -13,11 +13,11 @@ In March 2017 I appeared on RT (i.e., Russia Today) to comment on Donald Trump's
 
 Pay close attention. After I gave this interview there was ZERO reaction/response from the media in the United States. They ignored it. It did not create a ripple on social media. Hell, even the Trump folks ignored it.
 
-This is an important point. Three members of the US Intelligence Community --- the CIA, the FBI and NSA --- insisted that Russia was interfering in the US election using platforms like RT. But a minuscule number of Americans watched RT. The non-reaction to my interview illustrates that.
+This is an important point. Three members of the U.S. Intelligence Community --- the CIA, the FBI and NSA --- insisted that Russia was interfering in the U.S. election using platforms like RT. But a minuscule number of Americans watched RT. The non-reaction to my interview illustrates that.
 
 Two weeks later Judge Andrew Napolitano made the following claim on air:
 
-> that former US President Barack Obama asked British intelligence agency GCHQ to monitor President Donald Trump ...
+> that former U.S. President Barack Obama asked British intelligence agency GCHQ to monitor President Donald Trump ...
 >
 > Andrew Napolitano, a political commentator and former New Jersey judge, said on Tuesday Obama used GCHQ in order to "make sure there were no American fingerprints."
 >
@@ -35,7 +35,7 @@ GCHQ, by virtue of being a foreign entity can (and does) easily and routinely co
 
 > The conspiracy theorizing also tested what is often called the special relationship between the United States and Britain. American intelligence agencies enjoy a closer collaboration with their British counterparts than any other in the world. GCHQ was the first agency to warn the United States government that Russia was hacking Democratic Party emails during the presidential campaign
 
-Got that? US and UK have a "special relationship" and the GCHQ was THE FIRST (not the second or third) to warn Obama that Russia supposedly was hacking Democrat Party emails. When did they warn us? Before the discovery of the DNC hack or afterwards? If afterwards, how long? Who received that warning and what steps were taken to take counter measures? Lots of questions.
+Got that? U.S. and UK have a "special relationship" and the GCHQ was THE FIRST (not the second or third) to warn Obama that Russia supposedly was hacking Democrat Party emails. When did they warn us? Before the discovery of the DNC hack or afterwards? If afterwards, how long? Who received that warning and what steps were taken to take counter measures? Lots of questions.
 
 Here's another one --- if the Brits knew that the Russians were hacking the DNC emails then how did they completely miss the Russians passing that info to one Julian Assange, who happens to be holed up in London in the Ecuadorian Embassy? To this date the Brits have not provided one shred of evidence to prove that Assange got the DNC emails from the Russians.
 

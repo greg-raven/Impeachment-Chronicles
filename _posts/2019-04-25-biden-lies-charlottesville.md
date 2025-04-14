@@ -1,5 +1,5 @@
 ---
-title: "Biden cites Charlottesville and saving 'soul' of US in 2020 presidential bid"
+title: "Biden cites Charlottesville and saving 'soul' of U.S. in 2020 presidential bid"
 layout: post
 tags:
 - Molly Nagle

@@ -49,7 +49,7 @@ GCHQ, by virtue of being a foreign entity can (and does) easily and routinely co
 
 > The conspiracy theorizing also tested what is often called the special relationship between the United States and Britain. American intelligence agencies enjoy a closer collaboration with their British counterparts than any other in the world. GCHQ was the first agency to warn the United States government that Russia was hacking Democratic Party emails during the presidential campaign
 
-Got that? US and UK have a "special relationship" and the GCHQ was THE FIRST (not the second or third) to warn Obama that Russia supposedly was hacking Democrat Party emails. When did they warn us? Before the discovery of the DNC hack or afterwards? If afterwards, how long? Who received that warning and what steps were taken to take counter measures? Lots of questions.
+Got that? U.S. and UK have a "special relationship" and the GCHQ was THE FIRST (not the second or third) to warn Obama that Russia supposedly was hacking Democrat Party emails. When did they warn us? Before the discovery of the DNC hack or afterwards? If afterwards, how long? Who received that warning and what steps were taken to take counter measures? Lots of questions.
 
 Here's another one --- if the Brits knew that the Russians were hacking the DNC emails then how did they completely miss the Russians passing that info to one Julian Assange, who happens to be holed up in London in the Ecuadorian Embassy? To this date the Brits have not provided one shred of evidence to prove that Assange got the DNC emails from the Russians.
 
