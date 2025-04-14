@@ -13,7 +13,7 @@ tags:
 
 Facebook is once again at the center of a censorship storm after being accused of blocking the circulation of a video exposing harsh criticisms by a official regarding the prosecution of former President Donald Trump.
 
-The video, also published on Rumble features undercover footage showing Nicholas Biase, the chief spokesman for the Manhattan US Attorney's Office, which brought cases against President Trump, slamming Manhattan District Attorney Alvin Bragg's Trump case as a "perversion of justice."
+The video, also published on Rumble features undercover footage showing Nicholas Biase, the chief spokesman for the Manhattan U.S. Attorney's Office, which brought cases against President Trump, slamming Manhattan District Attorney Alvin Bragg's Trump case as a "perversion of justice."
 
 "Honestly, I think the case is nonsense," Biase says in the video.
 

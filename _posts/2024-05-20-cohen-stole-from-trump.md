@@ -7,10 +7,12 @@ tags:
 ---
 
 - In short: Former Trump fixer Michael Cohen has admitted stealing money from the Trump Organization.
-- Prosecutors have rested their hush money case and turned proceedings over to the former US president's lawyers.
+
+- Prosecutors have rested their hush money case and turned proceedings over to the former U.S. president's lawyers.
+
 - What next: The defence plans to call to the stand a campaign finance expert, a lawyer and a paralegal.
 
-Donald Trump's hush money trial has entered its final stretch, with prosecutors resting their case and turning proceedings over to the former US president's lawyers.
+Donald Trump's hush money trial has entered its final stretch, with prosecutors resting their case and turning proceedings over to the former U.S. president's lawyers.
 
 The conclusion of New York prosecutors' case came after star witness Michael Cohen, Mr Trump's former fixer, returned to the stand on Monday.
 
@@ -24,7 +26,7 @@ Mr Trump has pleaded not guilty in the New York Supreme Court to 34 felony count
 
 The charges stem from internal Trump Organization records where payments to Cohen were marked as legal expenses. Prosecutors say they were really reimbursements for the payment to Ms Daniels to keep her from going public before the 2016 election with claims of a sexual encounter with Mr Trump.
 
-It is the first criminal trial of a former US president.
+It is the first criminal trial of a former U.S. president.
 
 **Cohen accused of revenge campaign**
 

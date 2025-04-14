@@ -9,7 +9,7 @@ Micheal Cohen says he will be leave the country and change his name should Trump
 
 "I have no choice."
 
-Cohen cites the prospect of Trump retribution as the reason he must flee the US should Trump return to the White House.
+Cohen cites the prospect of Trump retribution as the reason he must flee the U.S. should Trump return to the White House.
 
 One more reason to vote Trump.
 

@@ -7,7 +7,7 @@ tags:
 
 Donald Trump, 78, has claimed that Barack Obama, 63, is "exhausted" and "looking older" --- hours after the Republican candidate pulled out of yet another campaign event, amid growing speculation about his own age and mental acuity.
 
-Trump --- the oldest presidential candidate in US history --- spoke at a campaign rally in Greenville, North Carolina, on Tuesday night, where he lashed out at 63-year-old Obama, who was in Detroit with Eminem rallying in support of Kamala Harris.
+Trump --- the oldest presidential candidate in U.S. history --- spoke at a campaign rally in Greenville, North Carolina, on Tuesday night, where he lashed out at 63-year-old Obama, who was in Detroit with Eminem rallying in support of Kamala Harris.
 
 [...]
 

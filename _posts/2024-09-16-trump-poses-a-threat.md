@@ -5,7 +5,7 @@ tags:
 - Will Stancil
 ---
 
-Donald Trump incited a mob to sack the Capitol, a seditious crime without precedent in US history, and one he should spend the rest of his life rotting in jail for. No one should have anything but contempt for the authoritarian thugs trying to make this fact unmentionable
+Donald Trump incited a mob to sack the Capitol, a seditious crime without precedent in U.S. history, and one he should spend the rest of his life rotting in jail for. No one should have anything but contempt for the authoritarian thugs trying to make this fact unmentionable
 
 Trump poses a profound threat to the stability and, yes, existence of American democracy. He's a miserable fascist creep, his most devoted followers are miserable fascist creeps, none of them should ever have any role in the governance of this country
 

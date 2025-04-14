@@ -1,5 +1,5 @@
 ---
-title: "Hawking attacks Trump: US president will cause '250 degree temperatures --- like VENUS'"
+title: "Hawking attacks Trump: U.S. president will cause '250 degree temperatures --- like VENUS'"
 layout: post
 tags:
 - Sean Martin

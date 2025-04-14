@@ -5,7 +5,7 @@ tags:
 - Aaron Rupar
 ---
 
-headlines from a week ago as an incident near DCA appears to be the deadliest aviation disaster in the US since 9/11 
+headlines from a week ago as an incident near DCA appears to be the deadliest aviation disaster in the U.S. since 9/11 
 
 https://huffpost.com/entry/trump-aviation-safety-tsa-coast-guard_n_67912023e4b039fc12780c73
 

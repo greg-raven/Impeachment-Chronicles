@@ -7,7 +7,7 @@ tags:
 
 Meet Dan Whitfield.
 
-He's running for US Senate in Arkansas against @TomCottonAR.
+He's running for U.S. Senate in Arkansas against @TomCottonAR.
 
 Dan said the world would be a better place if the bullet would have killed Donald Trump last Saturday.
 

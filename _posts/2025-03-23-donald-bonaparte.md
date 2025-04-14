@@ -7,7 +7,7 @@ tags:
 
 Bonespurs Bonaparte strikes again 🤬
 
-Trump signs order declaring only. president and AG can interpret US law for executive branch
+Trump signs order declaring only. president and AG can interpret U.S. law for executive branch
 
 Note: That power is only granted to the judiciary per Article III 🤬🤬
 

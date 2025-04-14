@@ -21,7 +21,7 @@ Every despot uses the threat of violence to silence its opposition.
 
 All designed to throw darkness over Trump and Musk's illegal actions and purge independent thinking from government.
 
-4/ Next, their US Attorney started trolling Trump critics online, threatening one with arrest. He sent a letter to Musk saying he would investigate anyone Musk alleged was "interfering" with DOGE.
+4/ Next, their U.S. Attorney started trolling Trump critics online, threatening one with arrest. He sent a letter to Musk saying he would investigate anyone Musk alleged was "interfering" with DOGE.
 
 Law enforcement is now part of the plan to crush dissent.
 

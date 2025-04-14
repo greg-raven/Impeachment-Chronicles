@@ -7,7 +7,7 @@ tags:
 
 Here's how CNN is covering Donald Trump's threats against our allies:
 
-> **Trump teases US expansion**
+> **Trump teases U.S. expansion**
 >
 > The president-elect has suggested a territorial extension into Panama, Greenland and Canada. If he's serious, it would rival the Louisiana Purchase.
 >

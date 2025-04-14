@@ -5,11 +5,11 @@ tags:
 - Robert Reich
 ---
 
-Trump wants to cut the corporate tax rate to 15%. This would give...
+Trump wants to cut the corporate tax rate to 15%. This would give ...
 
 - The 5 largest banks a $4.1B tax cut
 - The 5 largest drug makers a $3.1B tax cut
-- The 5 largest US oil companies a $2.5B tax cut
+- The 5 largest U.S. oil companies a $2.5B tax cut
 - The 5 largest grocery stores a $1.7B tax cut
 
 Some populist, huh?

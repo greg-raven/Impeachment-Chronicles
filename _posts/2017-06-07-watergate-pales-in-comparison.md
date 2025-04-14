@@ -5,15 +5,15 @@ tags:
 - Katharine Murphy
 ---
 
-- Former US spy chief attacks the sharing of intelligence with Putin and says firing of James Comey 'inexcusable'
+- Former U.S. spy chief attacks the sharing of intelligence with Putin and says firing of James Comey 'inexcusable'
 
-The former US director of national intelligence James Clapper says events in Washington now are more serious than the Watergate scandal of the 1970s, and that it is imperative investigators get to the bottom of the Trump administration's links with the Putin regime.
+The former U.S. director of national intelligence James Clapper says events in Washington now are more serious than the Watergate scandal of the 1970s, and that it is imperative investigators get to the bottom of the Trump administration's links with the Putin regime.
 
-Clapper used a speech to Australia's National Press Club on Wednesday to launch a critique of the US president, Donald Trump, describing his decision to cultivate Russia and share intelligence with the Putin regime as "very problematic." He described Trump's firing of the FBI chief Jim Comey as "egregious and inexcusable."
+Clapper used a speech to Australia's National Press Club on Wednesday to launch a critique of the U.S. president, Donald Trump, describing his decision to cultivate Russia and share intelligence with the Putin regime as "very problematic." He described Trump's firing of the FBI chief Jim Comey as "egregious and inexcusable."
 
 The former intelligence director was asked how current events compared to Watergate and he said the behaviour under scrutiny now was more serious. "I think you compare the two, that Watergate pales, really, in my view, compared to what we're confronting now."
 
-Clapper's appearance in Canberra comes before highly anticipated testimony later this week by Comey before the Senate intelligence committee. The committee is examining whether Trump's campaign colluded with Russian officials who interfered in the US presidential election.
+Clapper's appearance in Canberra comes before highly anticipated testimony later this week by Comey before the Senate intelligence committee. The committee is examining whether Trump's campaign colluded with Russian officials who interfered in the U.S. presidential election.
 
 Comey is expected to face questions about whether Trump tried to persuade him to stop an investigation into improper contacts between one of his top backroom advisers and Russian officials, and whether the former FBI director was sacked by the president because he refused to comply.
 
@@ -21,7 +21,7 @@ Clapper told the National Press Club in Canberra it was "absolutely crucial for 
 
 "Is there a smoking gun with all the smoke? I don't know the answer to that. I think it's vital, though, we find that out."
 
-Clapper insisted that, whatever Trump's intentions, there was no way the US and Russia could be allies, because Russia was "opposed to our democracy and values and see us, particularly the United States, as the cause of all their problems and frustrations."
+Clapper insisted that, whatever Trump's intentions, there was no way the U.S. and Russia could be allies, because Russia was "opposed to our democracy and values and see us, particularly the United States, as the cause of all their problems and frustrations."
 
 He said he had a "real hard time reconciling the threat the Russians pose to the United States and, by extension, western democracies in general" with the solicitousness of the Trump administration towards Moscow. "The Russians are not our friends," he said.
 

@@ -7,7 +7,7 @@ tags:
 
 The President of the United States personally requested foreign intelligence agencies spy on a Presidential candidate.
 
-They're all corrupt!  What happened to Trump and is still happening will be used for decades to show how corrupt the US government can become.
+They're all corrupt!  What happened to Trump and is still happening will be used for decades to show how corrupt the U.S. government can become.
 
 Obama and his entire administration broke the law to bring Trump down and it didn't work because they didn't realize Trump is the strongest candidate this country has ever seen.
 

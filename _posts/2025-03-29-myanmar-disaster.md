@@ -11,7 +11,7 @@ The Myanmar quake is the first major disaster to suffer the brunt of Donald Trum
 
 This will be the first natural disaster to happen after President Donald Trump shut down America's international aid agency with potentially devastating consequences.
 
-The impact in the aftermath of this earthquake is likely to be severe. Trump's decision to shut down the US Agency for International Development was already reported to have decimated US aid operations in Myanmar. Its global impact is hard to overstate. American aid had provided 40% of developmental aid worldwide.
+The impact in the aftermath of this earthquake is likely to be severe. Trump's decision to shut down the U.S. Agency for International Development was already reported to have decimated U.S. aid operations in Myanmar. Its global impact is hard to overstate. American aid had provided 40% of developmental aid worldwide.
 
 Yesterday, Trump promised Myanmar aid for the earthquake. In reality, his administration has fired most of the people most experienced at organising that help and shut down the means to provide it.
 

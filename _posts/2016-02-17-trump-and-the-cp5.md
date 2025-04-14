@@ -65,13 +65,13 @@ For many who have studied Trump's rise to prominence, the Central Park case prov
 
 Two years before the Central Park case, Trump had briefly considered a run for president that most dismissed as a naked attempt to drum up publicity for his book The Art of the Deal, released later that year.
 
-But he couldn't resist the opportunity to speak in New Hampshire at the invitation of the Portsmouth Republican committee, using the platform to single out allies in Saudi Arabia and Japan while critiquing US foreign policy in the Persian Gulf. He employed the same tactics as he would in 1989, publishing full-page ads in three of America's biggest newspapers that called for the US to impose taxes on these allies, whom he argued were "taking advantage of the United States".
+But he couldn't resist the opportunity to speak in New Hampshire at the invitation of the Portsmouth Republican committee, using the platform to single out allies in Saudi Arabia and Japan while critiquing U.S. foreign policy in the Persian Gulf. He employed the same tactics as he would in 1989, publishing full-page ads in three of America's biggest newspapers that called for the U.S. to impose taxes on these allies, whom he argued were "taking advantage of the United States".
 
 In February 2000, when Trump was again flirting with a run for the White House, he took out anonymous ads in local upstate New York newspapers, in an effort to shut down a rival casino backed by a group of Native Americans. Beneath a picture of needles and drug paraphernalia, the ad stated: "Are these the new neighbors we want?" It added: "The St. Regis Mohawk Indian record of criminal activity is well documented."
 
 Trump later apologised, but his biographer argued the incident underlined a "willingness to use rhetoric that other people won't use under the guise of talking straight" that is now a fixture on the campaign trail.
 
-After declaring in his campaign announcement that Mexico was "bringing crime" and "rapists" to the US, Trump quickly seized on the murder case of a 32-year-old white woman in San Francisco in which an undocumented Mexican migrant is the chief suspect. He has since frequently condoned and incited violence against protesters at his rallies, and has vowed to bring back waterboarding of terror suspects. In referencing a promise to issue an executive order to mandatorily execute anyone in the US who kills a police officer, he said: "We just can't afford any more to be so politically correct."
+After declaring in his campaign announcement that Mexico was "bringing crime" and "rapists" to the U.S., Trump quickly seized on the murder case of a 32-year-old white woman in San Francisco in which an undocumented Mexican migrant is the chief suspect. He has since frequently condoned and incited violence against protesters at his rallies, and has vowed to bring back waterboarding of terror suspects. In referencing a promise to issue an executive order to mandatorily execute anyone in the U.S. who kills a police officer, he said: "We just can't afford any more to be so politically correct."
 
 But examples of overt racism were perhaps kept behind closed doors in the late 1980s.
 
@@ -79,7 +79,7 @@ One year after the Central Park Five were convicted, John O'Donnell, a former ex
 
 He quoted Trump as saying: "I've got black accountants at Trump Castle and at Trump Plaza. Black guys counting my money! I hate it. The only kind of people I want counting my money are short guys that wear yarmulkes every day."
 
-In a later interview with Playboy magazine, Trump labelled his former employee a "fucking loser" but added: "The stuff O'Donnell wrote about me is probably true."
+In a later interview with *Playboy* magazine, Trump labelled his former employee a "fucking loser" but added: "The stuff O'Donnell wrote about me is probably true."
 
 But Barbara Res, a member of Trump's inner circle through much of the 1980s who served as his executive vice-president in 1989, told the *Guardian* she never witnessed any signs of racism throughout her time at his company and was "surprised" by his inflammatory rhetoric today.
 

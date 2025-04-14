@@ -7,7 +7,7 @@ tags:
 
 - FBI chat logs show immediate clampdown on the Hunter Biden story, with a gag order silencing internal confirmation the laptop was real.
 
-The US House Judiciary Committee has released internal chat logs, that show the FBI moved into cover-up mode the very day the New York Post published the Hunter Biden laptop story, on October 14, 2020.
+The U.S. House Judiciary Committee has released internal chat logs, that show the FBI moved into cover-up mode the very day the New York Post published the Hunter Biden laptop story, on October 14, 2020.
 
 The logs, first reported about by journalists Michael Shellenberger and Catherine Herridge, reveal that the FBI employees were immediately instructed "not to discuss the Biden matter," while an intelligence analyst who, during a call with Twitter, accidentally confirmed that the story, i.e., the laptop, was real, was placed under a "gag order."
 

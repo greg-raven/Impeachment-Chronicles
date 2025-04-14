@@ -41,7 +41,7 @@ Meadows "wanted to know if she need any more guardsmen," Ornato testified. "And 
 
 Ornato was correct. Bowser declined the offer, asking only for a few hundred National Guard and requiring them to serve in a very limited capacity.
 
-"No DCNG personnel shall be armed during this mission, and at no time, will DCNG personnel or assets be engaged in domestic surveillance, searches, or seizures of US persons," Bowser wrote in her letter requesting the D.C. National Guard. Bowser had been a strenuous critic of Republican efforts to limit rioting from leftwing political activists in U.S. cities during 2020's summer of violence.
+"No DCNG personnel shall be armed during this mission, and at no time, will DCNG personnel or assets be engaged in domestic surveillance, searches, or seizures of U.S. persons," Bowser wrote in her letter requesting the D.C. National Guard. Bowser had been a strenuous critic of Republican efforts to limit rioting from leftwing political activists in U.S. cities during 2020's summer of violence.
 
 Bowser's decision to decline help from the White House did not end the Trump team's efforts to secure troops ahead of the protest. When the D.C. mayor declined Trump's offer of 10,000 troops, Ornato said the White House requested a "quick reaction force" out of the Defense Department in case it was needed.
 
