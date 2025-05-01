@@ -1,5 +1,5 @@
 ---
-title: "The CIA conspiracy to topple Trump"
+title: "The CIA conspired to topple Trump"
 layout: post
 tags:
 - Jesse Watters
