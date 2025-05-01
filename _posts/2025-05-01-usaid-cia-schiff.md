@@ -12,7 +12,7 @@ CONFIRMED: CIA Director Gina Haspel conspired with OCCRP, Adam Schiff, and USAID
 
 Jesse Watters "You have this new piece on Substack that the USAID and the CIA helped orchestrate Trump's impeachment?"
 
-Michael Shellenberger "It's a crazy story --- The House of Representatives impeached President Trump in December of 2019. Many people may may not remember that it was a CIA analyst who was left over from the Obama White House who wrote the memo that led to the impeachment. It was all based on hearsay. The person had not actually been in the room with Trump. 
+@shellenberger "It's a crazy story --- The House of Representatives impeached President Trump in December of 2019. Many people may may not remember that it was a CIA analyst who was left over from the Obama White House who wrote the memo that led to the impeachment. It was all based on hearsay. The person had not actually been in the room with Trump. 
 
 "Nonetheless, this memo that he wrote relied heavily on a report done by an organization funded by USAID. In fact, its initial founding funding I mean, now it's $10s of millions of dollars had gone into this group called the Organized Crime and Corruption Reporting Project, a name that's not very memorable, OCCRP, but it was basically created as an extension of the state department and then of USAID."
 
