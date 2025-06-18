@@ -9,4 +9,4 @@ We have a president who has deployed the military, who are trained to kill our e
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFpmnrS9uBo?si=ThRXemEBGV9oiyLv" title="Ilhan Omar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Source: Ilhan Omar
+Source: Memology 101
