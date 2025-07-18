@@ -4,6 +4,8 @@ The Great Capitulation --- The New York Times --- https://www.nytimes.com/2024/1
 
 FreedomWorks Is Closing --- And Blaming Trump --- POLITICO --- https://www.politico.com/news/magazine/2024/05/08/freedomworks-is-closing-and-blaming-trump-00156784
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yup, we&#39;re watching a pumpkin spoil right in front of us. <a href="https://t.co/7ge34AkCVU">pic.twitter.com/7ge34AkCVU</a></p>&mdash; Willie Ross Jr. Knee Deep (@RossKneeDeep) <a href="https://twitter.com/RossKneeDeep/status/1936827891972747532?ref_src=twsrc%5Etfw">June 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
 
