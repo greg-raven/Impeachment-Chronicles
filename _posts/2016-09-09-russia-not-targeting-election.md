@@ -2,8 +2,7 @@
 title: "Russia is not trying to influence the election"
 layout: post
 tags:
-- ODNI Official
-- PDB Official
+- Tulsi Gabbard
 ---
 
 An <abbr title="Office of the Director of National Intelligence">ODNI</abbr> and <abbr title="President's Daily Brief">PDB</abbr> official says that an upcoming PDB should make clear that Russia "probably is not trying ... to influence the election by using cyber means" to target election infrastructure. Several <abbr title="Intelligence Community">IC</abbr> officials agree.

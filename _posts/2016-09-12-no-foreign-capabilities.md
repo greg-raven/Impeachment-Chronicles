@@ -1,8 +1,8 @@
 ---
-title: "<#Title#>"
+title: "No foreign cyber attacks on our election"
 layout: post
 tags:
-- <#Author#>
+- Tulsi Gabbard
 ---
 
 The <abbr title="Intelligence Community">IC</abbr> publishes an Intelligence Community Assessment (ICA) on cyber threats to the election. The report finds "foreign adversaries do not have and will probably not obtain the capabilities to successfully execute widespread and undetected cyber attacks" on election infrastructure.

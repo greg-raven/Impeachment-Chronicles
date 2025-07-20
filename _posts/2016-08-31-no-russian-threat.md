@@ -2,7 +2,7 @@
 title: "No Russian threat to our election"
 layout: post
 tags:
-- DHS Official
+- Tulsi Gabbard
 ---
 
 A DHS official tells former DNI James Clapper that there was "no indication of a
