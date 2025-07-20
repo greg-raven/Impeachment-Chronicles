@@ -6,7 +6,7 @@ tags:
 - Joe Palazzolo
 ---
 
-**Jeffrey Epstein's Friends Sent Him Bawdy Letters for a 50th Birthday Album. One Was From Donald Trump.**
+Jeffrey Epstein's Friends Sent Him Bawdy Letters for a 50th Birthday Album. One Was From Donald Trump.
 
 - The leather-bound book was compiled by Ghislaine Maxwell. The president says the letter 'is a fake thing.'
 
