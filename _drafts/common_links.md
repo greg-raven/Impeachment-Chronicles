@@ -11,3 +11,5 @@
 [//]: # (comment goes here)
 
 [fascism](https://www.gregraven.org/stories/definitionisms.html)
+
+[Trump targeted by Obama administration]({% post_url 2025-07-18-truth-about-2016 %})
