@@ -6,7 +6,7 @@ tags:
 - Michael Balsamo
 - Jill Colvin
 - Colleen Long
-- Zeke Miller
+- Zeke J. Miller
 - Nomaan Merchant
 ---
 
