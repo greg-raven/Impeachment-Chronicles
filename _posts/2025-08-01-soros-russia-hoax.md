@@ -2,8 +2,7 @@
 title: "Russia collusion hoax: Soros rears his ugly head"
 layout: post
 tags:
-- Monica Showalter
-- RealRobert
+- Leonard Benardo
 ---
 
 Given the penchant for creating chaos that is the hallmark of George Soros and his minions, it ought not surprise anyone that the Soros organization, known as the Open Society Foundation, has turned up in a new trove of documents indicating how the Russian collusion hoax against President Trump dogged his first term.
