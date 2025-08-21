@@ -31,7 +31,7 @@ Rosie O'Donnell told former CNN anchor Chris Cuomo that she was "very depressed"
 
 O'Donnell revealed that she left the United States for Ireland out of a sense of "self-preservation" after Trump's second election victory, considering the difficulties she experienced after his first win in 2016.
 
-"During his first go-round, it was very difficult, and I got myself into some bad places. You know, I was very, very depressed. I was overeating. I was overdrinking … I was so depressed, Chris," she told the former cable host.
+"During his first go-round, it was very difficult, and I got myself into some bad places. You know, I was very, very depressed. I was overeating. I was overdrinking ... I was so depressed, Chris," she told the former cable host.
 
 [...]
 

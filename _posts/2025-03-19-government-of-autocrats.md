@@ -9,6 +9,14 @@ Hillary Clinton finding comfort with fellow globalists in Germany today: "We now
 
 She's speaking in a country where it's illegal to insult politicians online.
 
+> There's no way to sugarcoat it. There's no way to explain it away.
+>
+> Autocracy is on the march, and we now have a government in the United States that has thrown in its lot with the autocrats, which has made a choice to support those who wage war not peace, who have given enormous power to the men who control the information flow in our world, who have all pledged allegiance to the continuation of algorithms that not only addict us, but poison us with hatred and fear.
+>
+> [...]
+>
+> <cite>Hillary Clinton</cite>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hillary Clinton finding comfort with fellow globalists in Germany today: “We now have a government in the United States that has thrown in its lot with the autocrats.”<br><br>She’s speaking in a country where it’s illegal to insult politicians online.<br> <a href="https://t.co/LklvJU10wh">pic.twitter.com/LklvJU10wh</a></p>&mdash; Eric Schmitt (@Eric_Schmitt) <a href="https://twitter.com/Eric_Schmitt/status/1902450545782079864?ref_src=twsrc%5Etfw">March 19, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Source: Eric Schmitt, via [𝕏](https://x.com)
