@@ -1,5 +1,5 @@
 ---
-title: "Trump is why Rosie is depressed, drunk, and fat"
+title: "Why Rosie is depressed, drunk, and fat"
 layout: post
 tags:
 - Rosie O'Donnell
