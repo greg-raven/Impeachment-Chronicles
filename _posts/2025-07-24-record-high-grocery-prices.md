@@ -13,7 +13,7 @@ Prices are higher today than they were on July 2024 all in major categories list
 
 ![Trump's America](/assets/2025-07-24-record-high-grocery-prices.jpg "Record high grocery prices")
 
-Source: The Democrats, via [𝕏](https://x.com)
+Source: The Democrats, via [𝕏](https://x.com) (since deleted)
 
 ---
 
