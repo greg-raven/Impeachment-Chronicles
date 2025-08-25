@@ -1,5 +1,5 @@
 ---
-title: "Appeals Court Throws Out New York Civil Fraud Penalty Against Trump"
+title: "Appeals court throws out new york civil fraud penalty against Trump"
 layout: post
 tags:
 - William Upton

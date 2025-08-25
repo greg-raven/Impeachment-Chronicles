@@ -1,5 +1,5 @@
 ---
-title: "Trump Vindicated in Newly Released 'Epstein Files' Interview"
+title: "Trump vindicated in newly released 'Epstein Files' interview"
 layout: post
 tags:
 - Ghislaine Maxwell
