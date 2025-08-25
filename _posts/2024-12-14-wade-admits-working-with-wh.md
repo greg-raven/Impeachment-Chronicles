@@ -1,5 +1,5 @@
 ---
-title: "Wade admits working with White House"
+title: "Wade admits working with Biden White House"
 layout: post
 tags:
 - Nathan Wade
