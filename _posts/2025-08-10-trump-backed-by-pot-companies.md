@@ -2,7 +2,7 @@
 title: "Trump backed by pot companies"
 layout: post
 tags:
-- <#Author#>
+- Josh Dawsey
 ---
 
 President Trump is considering reclassifying marijuana as a less dangerous drug, after pot companies have poured millions of dollars into Trump's political groups

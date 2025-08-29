@@ -2,7 +2,7 @@
 title: "The fix was in"
 layout: post
 tags:
-- <#Author#>
+- Barack Hussein Obama
 ---
 
 Here is Barack Obama giving an interview to NPR—revealing the conclusion of the CIA's Intelligence Community Assessment (ICA), claiming Russia helped Donald Trump win the election. The problem? The CIA hadn't even started manufacturing the seditious conspiracy yet.

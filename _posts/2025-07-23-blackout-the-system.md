@@ -2,7 +2,7 @@
 title: "Blackout the System"
 layout: post
 tags:
-- <#Author#>
+- American AF
 ---
 
 MILLIONS of liberals are now planning for a 'Blackout Day' [September 17] to protest Donald Trump.
