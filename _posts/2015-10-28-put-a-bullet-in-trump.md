@@ -1,5 +1,5 @@
 ---
-title: "GOP Establishment's Rick Wilson: Donor Class Must 'Put a Bullet in Donald Trump"
+title: "GOP Establishment's Rick Wilson: Donor Class Must 'Put a Bullet in Donald Trump'"
 layout: post
 tags:
 - Rick Wilson
