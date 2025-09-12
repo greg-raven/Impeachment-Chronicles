@@ -1,12 +1,5 @@
 Romney: 'Confusion reigns' on CR as Trump's direction 'absent' --- https://www.msn.com/en-us/news/politics/romney-confusion-reigns-on-cr-as-trump-direction-absent/ar-AA1w6Pte
 
-The Great Capitulation --- The New York Times --- https://www.nytimes.com/2024/12/16/opinion/trump-tech-leaders-support.html
-
-FreedomWorks Is Closing --- And Blaming Trump --- POLITICO --- https://www.politico.com/news/magazine/2024/05/08/freedomworks-is-closing-and-blaming-trump-00156784
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yup, we&#39;re watching a pumpkin spoil right in front of us. <a href="https://t.co/7ge34AkCVU">pic.twitter.com/7ge34AkCVU</a></p>&mdash; Willie Ross Jr. Knee Deep (@RossKneeDeep) <a href="https://twitter.com/RossKneeDeep/status/1936827891972747532?ref_src=twsrc%5Etfw">June 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 
 
 *TIME* magazine Trump covers --- https://time.com/5928282/donald-trump-time-covers/
@@ -28,12 +21,6 @@ https://time.com/vault/year/2024/
 - November 25, 2024 How Trump Won --- https://time.com/magazine/us/7176710/november-25th-2024-vol-204-no-17-u-s-south-pacific-europe-middle-east-and-africa/
 
 
-
-
-
-Kamala Harris' Hitler-Focused Closing Argument Is A Shameful Stain On Her Party --- https://www.public.news/p/kamala-harris-hitler-focused-closing
-
-Why Harris moved from 'joy' to calling Trump a 'fascist' --- https://www.bbc.com/news/articles/c1dp7xnyr51o
 
 Trump Used 'N-Word' In Taped 'Apprentice' Meeting, Producer Claims --- https://www.forbes.com/sites/saradorn/2024/05/30/trump-used-n-word-apprentice-producer-says-biden-calls-foe-racist/
 
@@ -101,8 +88,6 @@ https://www.youtube.com/watch?v=NgJDbzXo3rQ
 [Rep. Maxine Waters says she wants to 'take out' Trump | Fox News](https://www.foxnews.com/politics/rep-maxine-waters-says-she-wants-to-take-out-trump)
 
 [Pelosi: This Is Not A Normal Election, Trump Must Be Stopped | Video | RealClearPolitics](https://www.realclearpolitics.com/video/2024/07/02/pelosi_this_is_not_a_normal_election_trump_must_be_stopped.html)
-
-[Party That Called Trump 'Hitler' For 8 Years Shocked As Someone Tries To Assassinate Him | Babylon Bee](https://babylonbee.com/news/political-party-that-called-trump-hitler-shocked-someone-would-try-to-shoot-him)
 
 [Joy Reid suggest Biden recovering from COVID is 'exactly the same thing' as Trump surviving an assassination](https://www.msn.com/en-us/news/opinion/joy-reid-suggest-biden-recovering-from-covid-is-exactly-the-same-thing-as-trump-surviving-an-assassination/ar-BB1qblgY)
 
@@ -256,9 +241,7 @@ Special counsel releases trove of redacted documents in 2020 election subversion
 
 [Robert Reich on Twitter: "Trump's lies have consequences. 48 hrs after his comments on Sweden, riots broke out in an immigrant community. https://t.co/1k2BOl2jdw"](https://archive.is/pvycQ)
 
-[Harris calls Trump a 'fascist' at CNN town hall, argues he's unfit for office](https://www.nbcnews.com/politics/2024-election/kamala-harris-calls-trump-fascist-argues-dangerous-unfit-office-rcna176713)
-
-[Donald Trump’s Muslim Ban Is Cowardly and Dangerous --- The New York Times](https://www.nytimes.com/2017/01/28/opinion/donald-trumps-muslim-ban-is-cowardly-and-dangerous.html)
+[Donald Trump’s Muslim Ban Is Cowardly and Dangerous](https://www.nytimes.com/2017/01/28/opinion/donald-trumps-muslim-ban-is-cowardly-and-dangerous.html)
 
 Trump's funding freeze creates widespread confusion --- https://www.nbcnews.com/politics/donald-trump/trump-federal-funding-freeze-widespread-confusion-rcna189581
 
@@ -721,16 +704,6 @@ https://www.youtube.com/watch?v=mg9CJpQw5dU
 https://www.youtube.com/watch?v=v_8QUdUDgr8
 https://www.youtube.com/watch?v=yMu8LuWZnJQ
 
-
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2024: Dan Goldman claims Joe Biden is sharper than anyone he's spoken to.<br><br>2025: Dan Goldman questions if Trump's cognitive abilities are sufficient to get past the 25th Amendment. <a href="https://t.co/KQFfjvX68x">pic.twitter.com/KQFfjvX68x</a></p>&mdash; Western Lensman (@WesternLensman) <a href="https://twitter.com/WesternLensman/status/1917702273355878590?ref_src=twsrc%5Etfw">April 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
----
-
-https://publish.reddit.com/embed?url=https://www.reddit.com/r/politicsinthewild/comments/1koy4cb/be_not_afraid/
-
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/politicsinthewild/comments/1koy4cb/be_not_afraid/">Be not afraid.</a><br> by<a href="https://www.reddit.com/user/Adodger22/">u/Adodger22</a> in<a href="https://www.reddit.com/r/politicsinthewild/">politicsinthewild</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
-
 ---
 
 [Neil Young warns Trump to stop responding to geriatric rockers' trash talk: '86/47? ... We need a real President'](https://www.breitbart.com/entertainment/2025/05/21/neil-young-warns-trump-to-stop-responding-to-geriatric-rockers-trash-talk-this-guy-is-out-of-control/)
@@ -978,5 +951,3 @@ https://pjmedia.com/matt-margolis/2025/07/12/gao-report-exposes-secret-service-i
 https://twitchy.com/grateful-calvin/2025/07/13/one-year-after-butler-its-important-to-remember-that-we-dont-hate-the-media-nearly-enough-n2415614
 
 https://townhall.com/tipsheet/mattvespa/2025/07/13/remember-how-the-media-covered-trumps-assassination-attempt-at-butler-heres-a-refresher-n2660303
-
-https://twitchy.com/warren-squire/2025/07/13/flashback-george-stephanopoulos-and-martha-raddatz-blame-trump-for-assassination-attempt-n2415610
