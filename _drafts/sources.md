@@ -1,27 +1,5 @@
 Romney: 'Confusion reigns' on CR as Trump's direction 'absent' --- https://www.msn.com/en-us/news/politics/romney-confusion-reigns-on-cr-as-trump-direction-absent/ar-AA1w6Pte
 
-
-
-*TIME* magazine Trump covers --- https://time.com/5928282/donald-trump-time-covers/
-https://time.com/vault/year/2024/
-- February 27, 2017 Nothing to See Here
-- November 6, 2017 The Wrecking Crew
-- January 22, 2018 Year One
-- April 23, 2018 Stormy
-- June 18, 2018 King Me
-- June 25, 2018 The Riskiest Show on Earth
-- July 2, 2018 Welcome to America
-- July 25, 2018 The Summit Crisis
-- September 3, 2018 In Deep
-- October 7, 2019 (painting himself into a corner)
-- May 25, 2020 There's a Right Way to Reopen American (This Isn't It)
-- May 27, 2024 If He Wins --- https://time.com/magazine/us/6979410/may-27th-2024-vol-203-no-17-u-s/
-- June 24, 2024 Donald Trump Convicted in Historic New York Hush-Money Trial --- https://time.com/magazine/us/6988424/june-24th-2024-vol-203-no-21-u-s/
-- September 30, 2024 In Trouble --- https://time.com/magazine/us/7023172/september-30th-2024-vol-204-no-9-u-s-asia-south-pacific/
-- November 25, 2024 How Trump Won --- https://time.com/magazine/us/7176710/november-25th-2024-vol-204-no-17-u-s-south-pacific-europe-middle-east-and-africa/
-
-
-
 Trump Used 'N-Word' In Taped 'Apprentice' Meeting, Producer Claims --- https://www.forbes.com/sites/saradorn/2024/05/30/trump-used-n-word-apprentice-producer-says-biden-calls-foe-racist/
 
 Something BAD Must Be Going on in Trump World Because Trump Is Losing His MIND on Truth Social --- https://www.politicalflare.com/2024/10/something-bad-must-be-going-on-in-trump-world-because-trump-is-losing-his-mind-on-truth-social/
