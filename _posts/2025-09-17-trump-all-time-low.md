@@ -2,7 +2,7 @@
 title: "Trump's Approval Rating on Economy Hits All-Time Low "
 layout: post
 tags:
-- <#Author#>
+- Martha McHardy
 ---
 
 Donald Trump's approval rating on the economy has hit an all-time low, according to a new poll.
