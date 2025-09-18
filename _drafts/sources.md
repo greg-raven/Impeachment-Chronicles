@@ -1,3 +1,5 @@
+[Amazon.com: Unmasked: Big Media's War Against Trump: 9781630061159: Bozell III, Brent, Graham, Tim: Books](https://www.amazon.com/Unmasked-Big-Medias-Against-Trump/dp/1630061158)
+
 Romney: 'Confusion reigns' on CR as Trump's direction 'absent' --- https://www.msn.com/en-us/news/politics/romney-confusion-reigns-on-cr-as-trump-direction-absent/ar-AA1w6Pte
 
 Trump Used 'N-Word' In Taped 'Apprentice' Meeting, Producer Claims --- https://www.forbes.com/sites/saradorn/2024/05/30/trump-used-n-word-apprentice-producer-says-biden-calls-foe-racist/
@@ -267,14 +269,7 @@ How prosperous are you feeling now, MAGA?
 
 He sure is socking it to the libs.
 
-Lynn Edmonds / Trump is putting LGBTQ, kids, and democracy at risk https://youtu.be/UOUNcfIcOx8?si=0CgZfFI4YHRWXXOJ
-So ... um ... I was struck by something that was said tonight during public comment that we the ... um ... because of our woke agenda, or however it was described, um are like putting vulnerable students at risk and federal funding at risk, and I thought wow that is uh that's rich. So um who exactly is so threatened by the pillars and value of DEI or so threatened by pronouns that they would deny special needs students with the funding they need and deny children School meals? own it. uh own that shortsightedness and own that cruelty. Lastly to all those looking for ways to fight back I'll just ask you to keep standing with us, stand up for the marginalized children, and stand up for kindness and truth and Justice The goal with all of these executive orders is to destroy democracy. The speed and Reckless approach is a strategy meant to exhaust us and make us feel hopeless, so let's do the opposite of that let's show up here, show up in the streets, show up in the courts and if you're in a position that you can give some money, I suggest Lambda Legal who works to protect lgbtq plus students and people, Democracy Forward in the ACLU who are rapidly responding in the courts to these executive orders, and to the Human Rights Campaign there's many many more but those were the ones I chose to highlight tonight our kids and our schools are worth all we've got to give in this moment thank you.
-
-
-
-
-https://youtu.be/JbshX8ZPnIw?si=D5FGXmYtO5CaoHF0
-You know with regard to this statement which again we we shall not believe R's Prius what he says don't worry that someone who saves his country cannot violate a law okay it's been attributed by some historians who aren't certain to Napoleon but I'll tell you where it's definitely been used far more recently and that's with a white supremacist far right extremist named Anders bik in Norway who killed 77 people in Norway the worst modern mass murder in Norwegian history including a mass murder two separate incidents by him on the same day uh including a mass murder at a kids camp in in Norway and he's the one who describes himself as a Neo-Nazi who's used that statement more recently in history and now our president is quoting that white supremacist Neo-Nazi murderer if you voted for that you you you really need to question whether you're American anymore but that's who's using that kind of statement and listen does Trump sit and read Norwegian history hell no someone is handing him this story this quote and we need to figure out out who keeps spoon feeding him the white supremacy white terrorist philosophy if you voted for that you you you really need to question whether you're American anymore.
+https://www.youtube.com/watch?v=mM-5MVn-0qA
 
 [Goldman: GOP proposal allowing Trump third term not a ‘joke’ ](https://brooklyneagle.com/articles/2025/01/24/goldman-gop-proposal-allowing-trump-third-term-not-a-joke/)
 
