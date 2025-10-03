@@ -2,7 +2,7 @@
 title: "CNN's false witness about Trump's health"
 layout: post
 tags:
-- ️Chris Pernell
+- Chris Pernell
 ---
 
 FALSE WITNESS‼️ Chris Pernell, an alleged doctor who recently appeared on CNN to paint a dark picture of President Trump's health, is reportedly not a practicing physician and instead works as an NAACP "Health Equity" director.

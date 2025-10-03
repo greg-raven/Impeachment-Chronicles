@@ -2,7 +2,7 @@
 title: "Yearning for Trump's blood"
 layout: post
 tags:
-- Anonymous
+- unknown
 ---
 
 Septum piercing club member says that she is “coming for” President Trump because she “yearns for blood.”
