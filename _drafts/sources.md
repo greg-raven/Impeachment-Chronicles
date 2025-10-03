@@ -822,6 +822,8 @@ Which side are you on? 10:06 PM · Feb 11, 2025 H/T Mike Lee
 
 [The Trump Administration Is Trying to Put Our Federal Forests Up for Sale - Earthjustice](https://earthjustice.org/brief/2025/new-executive-order-aims-to-put-our-federal-forests-up-for-sale)
 
+
+
 https://www.youtube.com/watch?v=Kxu0KS0CN4Q
 https://www.youtube.com/watch?v=m17P3CUJVFw
 https://www.youtube.com/watch?v=1_jUAGwuqvA
@@ -833,6 +835,22 @@ https://www.youtube.com/watch?v=r52nyrn8o50
 https://www.youtube.com/watch?v=I027u-ah3Lo
 https://youtu.be/rHQmNN5jMWs?si=NXJHzZDcTrXiQ6zC Trump is racist
 https://youtu.be/Gv7uuSkNY20?si=bVLZb8OsFBI13FOl Trump arranged assassination attempt
+https://www.youtube.com/watch?v=U5lKJM-0zmQ Gavin Newsom
+https://www.youtube.com/watch?v=V7rroMvePok WTF?
+https://www.youtube.com/watch?v=XRG4GmoVoAg Meltdown over Trump sign
+https://www.youtube.com/watch?v=3jcJdy55FmU JB the Hutt blames Trump for Kirk
+https://www.youtube.com/watch?v=4QqQs4Y7AbY Another annoying attack
+https://www.youtube.com/watch?v=j6uX5VBzMmQ Trump may use Kirk
+https://www.youtube.com/watch?v=d0WbFLp0EcU Deported
+https://www.youtube.com/watch?v=d-uC__MPmv8 JB the Hutt again
+https://www.youtube.com/watch?v=z-Si42tSo-M Tampon Tim
+https://www.youtube.com/watch?v=j-eKLlkPRWU
+https://www.youtube.com/watch?v=LX3YFxiiGHc Jasmine
+https://www.youtube.com/watch?v=0tNHxQN3t1Y Gavin and Jasmine
+https://www.youtube.com/watch?v=K4kBALVmd4o Chuck Todd and Antifa
+https://www.youtube.com/watch?v=ibVKboljABM What do words mean?
+
+
 
 https://townhall.com/tipsheet/saraharnold/2025/07/18/cnn-still-wont-admit-that-trump-got-shot-in-the-ear-n2660606
 
