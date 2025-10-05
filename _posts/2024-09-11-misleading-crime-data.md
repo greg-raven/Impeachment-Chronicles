@@ -2,7 +2,7 @@
 title: "ABC's misleading crime data"
 layout: post
 tags:
-- Amuse
+- amuse
 ---
 
 **FACT CHECK:** In last night's three-on-one debate the ABC News moderators used misleading crime data from the FBI to 'fact check' @realDonaldTrump. The reality is that Trump (as he usually is) was right --- crime is not down --- it is up, way up.
@@ -31,4 +31,4 @@ The reality is, these omissions paint a misleading picture of the state of crime
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">FACT CHECK: In last night&#39;s three-on-one debate the ABC News moderators used misleading crime data from the FBI to &#39;fact check&#39; <a href="https://twitter.com/realDonaldTrump?ref_src=twsrc%5Etfw">@realDonaldTrump</a>. The reality is that Trump (as he usually is) was right --- crime is not down --- it is up, way up. <br><br>Kamala Harris and her willing… <a href="https://t.co/z1GcvfP2nK">pic.twitter.com/z1GcvfP2nK</a></p>&mdash; @amuse (@amuse) <a href="https://twitter.com/amuse/status/1833844205036216355?ref_src=twsrc%5Etfw">September 11, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Source: Amuse, via [𝕏](https://x.com)
+Source: amuse, via [𝕏](https://x.com)
