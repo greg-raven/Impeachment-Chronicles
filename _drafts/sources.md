@@ -1,7 +1,3 @@
-[Amazon.com: Unmasked: Big Media's War Against Trump: 9781630061159: Bozell III, Brent, Graham, Tim: Books](https://www.amazon.com/Unmasked-Big-Medias-Against-Trump/dp/1630061158)
-
-Romney: 'Confusion reigns' on CR as Trump's direction 'absent' --- https://www.msn.com/en-us/news/politics/romney-confusion-reigns-on-cr-as-trump-direction-absent/ar-AA1w6Pte
-
 Trump Used 'N-Word' In Taped 'Apprentice' Meeting, Producer Claims --- https://www.forbes.com/sites/saradorn/2024/05/30/trump-used-n-word-apprentice-producer-says-biden-calls-foe-racist/
 
 Something BAD Must Be Going on in Trump World Because Trump Is Losing His MIND on Truth Social --- https://www.politicalflare.com/2024/10/something-bad-must-be-going-on-in-trump-world-because-trump-is-losing-his-mind-on-truth-social/
@@ -375,10 +371,190 @@ Time will tell if Jussie's attackers shouted MAGA or not but there is no part of
 
 [New FBI whistleblower disclosures reveal agent who infiltrated Trump's campaign a decade ago - Washington Times](https://www.washingtontimes.com/news/2025/feb/26/new-fbi-whistleblower-disclosures-reveal-agent-infiltrated-trumps/)
 
+[Neil Young warns Trump to stop responding to geriatric rockers' trash talk: '86/47? ... We need a real President'](https://www.breitbart.com/entertainment/2025/05/21/neil-young-warns-trump-to-stop-responding-to-geriatric-rockers-trash-talk-this-guy-is-out-of-control/)
+
+[Rep. Al Green files impeachment articles, cites Trump as threat to democracy in 'Dear Colleague' letter](https://algreen.house.gov/media/press-releases/rep-al-green-files-impeachment-articles-cites-trump-threat-democracy-dear)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And this… is the damning email obtained by investigative journalist King Solomon.<br><br>In a stunning exchange, CIA Director Mike Morell turns to fellow Director John Brennan and asks if he would join in toppling the United States government during the November 3, 2020 election.… <a href="https://t.co/oTBQQdlVy2">pic.twitter.com/oTBQQdlVy2</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1936565270459630007?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Oversight Project refers former FBI Director Wray to DOJ for criminal charges](https://www.theblaze.com/news/exclusive-oversight-project-refers-former-fbi-director-wray-to-doj-for-criminal-charges)
+
+[Mark Cuban brutally shreds Trump as 'dishonest' businessman](https://www.mediaite.com/politics/mark-cuban-brutally-shreds-trump-ive-known-him-for-25-years-and-hes-the-most-unethical-person-ive-worked-with/)
+
+[Memo reveals D.C. judges predisposed against Trump Admin](https://thefederalist.com/2025/07/16/exclusive-memo-reveals-d-c-judges-are-predisposed-against-trump-administration/)
+
+[Trump has refused to pay hundreds of workers](https://thehill.com/blogs/ballot-box/presidential-races/282933-report-trump-has-refused-to-pay-hundreds-of-workers/)
+
+[Good Trouble Lives On](https://goodtroubleliveson.org/)
+
+[DNI Gabbard declassifies House report on Russia collusion narrative | Fox News](https://www.foxnews.com/politics/brennan-directed-publication-implausible-reports-claiming-putin-preferred-trump-2016-house-found)
+
+[Rapid Response 47 on X: "https://t.co/7K8BEXswgK" / X](https://x.com/RapidResponse47/status/1948521565454516606)
+and
+https://archive.is/NTKvn (see Democrats on X/ "Trump’s America/ https/t.co/nb9LObZwCL" / X.pxd)
+
+[EXCLUSIVE: DOD Pulls Russia Hoaxer Miller's Security Clearance](https://thefederalist.com/2025/08/14/exclusive-pentagon-terminates-security-clearance-of-russia-collusion-hoaxer-susan-miller/)
+
+[DOJ launching grand jury investigation into Russiagate conspiracy allegations - CBS News](https://www.cbsnews.com/amp/news/doj-russiagate-trump-grand-jury-investigation/)
+
+[Bombshell DNI Emails Expose Fraud That Sabotaged 2018 Trump-Putin Summit](https://thefederalist.com/2025/08/15/bombshell-dni-emails-expose-fraud-that-sabotaged-2018-trump-putin-summit/)
+
+[Fox News issues urgent Donald Trump update and it's humiliating blow | TV & Radio | Showbiz & TV | Express.co.uk](https://www.express.co.uk/showbiz/tv-radio/2096183/fox-news-donald-trump-update)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Declassified FBI 302s reveal Adam Schiff&#39;s HPSCI &quot;communications director [Patrick Boland]&quot; was briefed by Schiff&#39;s &quot;Russia Team&quot; re highly classified docs from the CIA in 2017, even tho he &quot;did not hold a security clearance.&quot; Boland is now Sen. Schiff&#39;s Chief of Staff.</p>&mdash; Paul Sperry (@paulsperry_) <a href="https://twitter.com/paulsperry_/status/1955678144276652337?ref_src=twsrc%5Etfw">August 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is the one declassified <a href="https://twitter.com/FBI?ref_src=twsrc%5Etfw">@FBI</a> record you should not miss!<br><br>The October 2017 FBI report alleges leaking by democrats on the House Intelligence Committee was “not a one-time thing,” there was a “systematic process.”<br><br>“...notes would be run up to the ranking member, ADAM SCHIFF,… <a href="https://t.co/hpEqgzVfAf">https://t.co/hpEqgzVfAf</a> <a href="https://t.co/0XKTETk0aL">pic.twitter.com/0XKTETk0aL</a></p>&mdash; Catherine Herridge (@C__Herridge) <a href="https://twitter.com/C__Herridge/status/1955686857414529506?ref_src=twsrc%5Etfw">August 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨🚨And here it is, <br><br>King Solomon Reporting: <br><br>RE: ‘Arctic Frost’ — it has now been officially referred to <a href="https://twitter.com/FBIDirectorKash?ref_src=twsrc%5Etfw">@FBIDirectorKash</a> and <a href="https://twitter.com/AGPamBondi?ref_src=twsrc%5Etfw">@AGPamBondi</a> for criminal investigation and prosecution.<br><br>Senator Chuck Grassley and Sen. Ron Johnson via WHISTLEBLOWER: CONFIRM a criminal conspiracy… <a href="https://t.co/4P1vLYt1EB">pic.twitter.com/4P1vLYt1EB</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1947687701572162028?ref_src=twsrc%5Etfw">July 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">September, 2018. Two months before the midterms Obama continues to spread the Russia hoax, warning that the privileged will do anything to hold on to their power.<br><br>The nerve of this guy. <a href="https://t.co/Dlo5w2vToX">pic.twitter.com/Dlo5w2vToX</a></p>&mdash; MAZE (@mazemoore) <a href="https://twitter.com/mazemoore/status/1947725720328839174?ref_src=twsrc%5Etfw">July 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And there it is: <br><br>The damning email obtained by King Solomon through the Freedom of Information Act (FOIA)<br><br>In a stunning exchange, CIA Director Mike Morell turns to fellow Director John Brennan and asks if he would join in toppling the United States government during the… <a href="https://t.co/e7tPTQpYFt">pic.twitter.com/e7tPTQpYFt</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1947787433577484333?ref_src=twsrc%5Etfw">July 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Their goal was to usurp President Trump and subvert the will of the American people.<br><br>No matter how powerful, every person involved in this conspiracy must be investigated and prosecuted to the fullest extent of the law. The integrity of our democratic republic depends on it.<br><br>We… <a href="https://t.co/KJ7qrmMv0k">pic.twitter.com/KJ7qrmMv0k</a></p>&mdash; DNI Tulsi Gabbard (@DNIGabbard) <a href="https://twitter.com/DNIGabbard/status/1946293600976785453?ref_src=twsrc%5Etfw">July 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Randolph Moss, an Obama-appointed judge, just issued an order OVERTURNING Trump&#39;s declaration of invasion at the southern border.<br><br>This activist judge wants to turn the US into the Biden-era open border disaster. <a href="https://t.co/NAnry2ld0c">pic.twitter.com/NAnry2ld0c</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1940488258217230750?ref_src=twsrc%5Etfw">July 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you delete this tweet because Fang Fang wrote it?<br><br>I know California politicians are pros at burning taxpayer cash but President Trump is not going to let your paid activists destroy LA. Working class Americans - especially business owners - are happy the Nat’l Guard is… <a href="https://t.co/o1MY8iq4c6">pic.twitter.com/o1MY8iq4c6</a></p>&mdash; Secretary Sean Duffy (@SecDuffy) <a href="https://twitter.com/SecDuffy/status/1938619417648116089?ref_src=twsrc%5Etfw">June 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The United States of America: No Kings since 1776.<br><br>Donald Trump: Russian-owned since 1978.</p>&mdash; Rep. Jamie Raskin (@RepRaskin) <a href="https://twitter.com/RepRaskin/status/1934032056796815534?ref_src=twsrc%5Etfw">June 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/SpeakerPelosi?ref_src=twsrc%5Etfw">@SpeakerPelosi</a>: &quot;On January 6th...we begged the president of the United States to send in the National Guard. He would not do it...And yet, in a contra-constitutional way, he has sent the National Guard into California. Something is very wrong with this picture.&quot; <a href="https://t.co/yHfezvqNf6">pic.twitter.com/yHfezvqNf6</a></p>&mdash; CSPAN (@cspan) <a href="https://twitter.com/cspan/status/1932476519609155745?ref_src=twsrc%5Etfw">June 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And here it is: <br><br>O’Keefe Media Group <a href="https://twitter.com/JamesOKeefeIII?ref_src=twsrc%5Etfw">@JamesOKeefeIII</a> : “Amjad Anton Fseisi states the higher-ups in the intel community, including CIA Directors Mike Pompeo and Gina Haspel and the upper levels of their staffs colluded to withhold information from the sitting President of the… <a href="https://t.co/iQULE8GpJc">https://t.co/iQULE8GpJc</a> <a href="https://t.co/ArWc8EIuMX">pic.twitter.com/ArWc8EIuMX</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1923846459268661619?ref_src=twsrc%5Etfw">May 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrat Governor Gretchen Whitmer also called for ass*ssinating Trump.<br><br>They know exactly what they’re doing. <a href="https://t.co/Mm64FqR56J">pic.twitter.com/Mm64FqR56J</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1923422312046477480?ref_src=twsrc%5Etfw">May 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Former FBI Director James Comey just posted on Instagram a picture that says: &quot;86 47&quot;<br><br>What does Comey mean by &quot;get rid of&quot; the 47th President of the United States, Donald Trump? <a href="https://t.co/SDzf92BmnI">pic.twitter.com/SDzf92BmnI</a></p>&mdash; Steve Guest (@SteveGuest) <a href="https://twitter.com/SteveGuest/status/1923119542848352490?ref_src=twsrc%5Etfw">May 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No one is above the law—including Donald Trump.<br><br>This indictment must now play out through the legal process, without any outside political or ideological interference.<br><br>My statement with <a href="https://twitter.com/RepJeffries?ref_src=twsrc%5Etfw">@RepJeffries</a>: <a href="https://t.co/S9zSuaT9R4">pic.twitter.com/S9zSuaT9R4</a></p>&mdash; Chuck Schumer (@SenSchumer) <a href="https://twitter.com/SenSchumer/status/1667278686364606467?ref_src=twsrc%5Etfw">June 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨As the Biden cognitive decline coverup conversation reignites — deranged Hakeem Jeffries now decides to question President Trump’s mental fitness for office:<br><br>&quot;A lot of Americans across the country that I run into, are questioning whether Donald Trump is actually fit at this… <a href="https://t.co/TJo8JWgQ43">pic.twitter.com/TJo8JWgQ43</a></p>&mdash; Western Lensman (@WesternLensman) <a href="https://twitter.com/WesternLensman/status/1917388981962002832?ref_src=twsrc%5Etfw">April 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump and JD Vance are arresting judges now. Deleting the tweet won&#39;t undo the constitutional crisis you have just thrust us into. <a href="https://t.co/FkZ3whfjaV">https://t.co/FkZ3whfjaV</a></p>&mdash; Ro Khanna (@RoKhanna) <a href="https://twitter.com/RoKhanna/status/1915797898760987071?ref_src=twsrc%5Etfw">April 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Understand what this is: If Kash Patel and Donald Trump don’t like a judge, they think they can arrest them. This is stunning — we must stand up to this blatant power grab.<br><br>Republicans: How is this not a red line for you?</p>&mdash; Tina Smith (@SenTinaSmith) <a href="https://twitter.com/SenTinaSmith/status/1915814735980716136?ref_src=twsrc%5Etfw">April 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Insane. A Democrat just said out loud that large groups meet weekly with Attorney Generals to attack President Trump. <br> <a href="https://t.co/DVTZ02TpX7">pic.twitter.com/DVTZ02TpX7</a></p>&mdash; Benny Johnson (@bennyjohnson) <a href="https://twitter.com/bennyjohnson/status/1912273268695761320?ref_src=twsrc%5Etfw">April 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And this is,<br><br>THE FACT OF THE CENTURY, <br><br>According to this News Article, this is how the United States government was overthrown on November 3, 2020,<br><br>REPORT: analysis shows fraud in 30 States, and more than 2,000 counties had something in common.<br><br>Dominion Rigging Systems and… <a href="https://t.co/LbntZandmv">pic.twitter.com/LbntZandmv</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1898476369941787129?ref_src=twsrc%5Etfw">March 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">KRISHNAMOORTHI (D): President Trump - when will egg costs be high enough for you to take action on bird flu? $10 per carton of eggs? It&#39;ll soon be cheaper to buy a magazine for an AK-47 than to buy breakfast. This is flat out wrong.<br><br>[Hearing is about sanctuary cities] <a href="https://t.co/pl6jFTtSAN">pic.twitter.com/pl6jFTtSAN</a></p>&mdash; Eric Daugherty (@EricLDaugh) <a href="https://twitter.com/EricLDaugh/status/1897326846234255835?ref_src=twsrc%5Etfw">March 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Pocahontas&quot;: First racial slur in a Joint Address</p>&mdash; Nandita Bose (@nanditab1) <a href="https://twitter.com/nanditab1/status/1897132629285277852?ref_src=twsrc%5Etfw">March 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Egg shortages. <br>Fatal measles outbreaks.<br>Airplane crashes.<br>Crypto scams.<br>Tariffs.<br>Betrayal of allies. <br>Pardons and special favors for insurrectionists, crooked mayors, and online pimps.<br>The American people voted for change!</p>&mdash; David Frum (@davidfrum) <a href="https://twitter.com/davidfrum/status/1895150416738033992?ref_src=twsrc%5Etfw">February 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrats are throwing a fit over President Trump kicking Zelenskyy out of the White House. <a href="https://t.co/cltu015vJ6">pic.twitter.com/cltu015vJ6</a></p>&mdash; I Meme Therefore I Am 🇺🇸 (@ImMeme0) <a href="https://twitter.com/ImMeme0/status/1895605384423031139?ref_src=twsrc%5Etfw">February 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">While calling President Trump and VP Vance cowards and puppets, Rep. Seth Moulton (D) digs at Vance&#39;s military service by calling him a POG (Person Other than Grunt). <br><br>Moulton is a Marine infantry veteran who served in Iraq.<br><br>&quot;The only hero in the Oval Office...is the… <a href="https://t.co/0cpauLgBTl">pic.twitter.com/0cpauLgBTl</a></p>&mdash; Julio Rosas (@Julio_Rosas11) <a href="https://twitter.com/Julio_Rosas11/status/1895545645962051971?ref_src=twsrc%5Etfw">February 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I love my country with all my heart and I&#39;ve never been more embarrassed for America than the spectacle I just witnessed in the Oval Office.<br>Zelensky is fighting for the survival of his country, his people and their democracy.<br>Trump and Vance appear to be completely aligned with…</p>&mdash; David Axelrod (@davidaxelrod) <a href="https://twitter.com/davidaxelrod/status/1895541495928873053?ref_src=twsrc%5Etfw">February 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fuck Donald Trump, Fuck Elon Musk and Fuck the Federalist Society judges who enable them. <a href="https://t.co/2z6ctFtXyU">https://t.co/2z6ctFtXyU</a></p>&mdash; David Hogg 🟧 (@davidhogg111) <a href="https://twitter.com/davidhogg111/status/1892679986256978005?ref_src=twsrc%5Etfw">February 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The FT is reporting Trump plans to withdraw troops from the Baltic states at least, giving Russia a huge strategic win, and weakening NATO&#39;s eastern flank at a critical time.<a href="https://t.co/12P9vfwav1">https://t.co/12P9vfwav1</a> <a href="https://t.co/8VN9cYKzae">pic.twitter.com/8VN9cYKzae</a></p>&mdash; Jimmy Rushton (@JimmySecUK) <a href="https://twitter.com/JimmySecUK/status/1891501007676346813?ref_src=twsrc%5Etfw">February 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[MSNBC agrees to settle $30 million defamation lawsuit brought by doctor](https://www.msn.com/en-us/news/us/msnbc-agrees-to-settle-30-million-defamation-lawsuit-brought-by-doctor/ar-AA1zy6UA)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You’re the definitely the delusional one that needs to be in a strait jacket Keithy, not President Trump 😁 <a href="https://t.co/uybifwkmIm">pic.twitter.com/uybifwkmIm</a></p>&mdash; Tyson Garani (@GrubGarani) <a href="https://twitter.com/GrubGarani/status/1885059194321330570?ref_src=twsrc%5Etfw">January 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Donald Trump's Eyebrow 'Falling Off'? Viral Photo Sparks Reactions | US News - Times Now](https://www.timesnownews.com/world/us/us-news/donald-trumps-eyebrow-falling-off-viral-photo-sparks-reactions-article-112551890)
+
+[President Donald Trump compared to an Oompa Loompa as he's criticized for his 'fluorescent' eyebrows - MEAWW News](https://news.meaww.com/president-donald-trump-compared-to-an-oompa-loompa-as-hes-criticized-for-his-fluorescent-eyebrows)
+
+https://townhall.com/tipsheet/saraharnold/2025/07/18/cnn-still-wont-admit-that-trump-got-shot-in-the-ear-n2660606
+
+https://twitchy.com/samj/2025/07/21/texts-emails-show-hillary-clintons-aides-worked-with-obama-admin-to-dig-up-dirt-tying-trump-to-putin-n2415972
+
+https://twitchy.com/justmindy/2025/07/23/house-intel-report-brennan-ignored-warnings-putin-n2416086
+
+https://twitchy.com/dougp/2025/07/23/tulsi-gabbard-releases-more-on-most-egregious-weaponization-and-politicization-of-intel-in-us-history-n2416085
+
+https://townhall.com/tipsheet/mattvespa/2025/07/23/tulsi-gabbard-just-made-obama-eat-his-words-on-the-russian-collusion-hoax-n2660804
+
+https://twitchy.com/dougp/2025/07/23/dem-sen-chris-murphys-skepticism-of-trumps-japan-trade-deal-announcement-aged-horribly-as-usual-n2416110
+
+https://twitchy.com/brettt/2025/07/23/yes-there-will-be-arrests-doj-announces-strike-force-to-assess-russia-hoax-evidence-n2416126
+
+https://townhall.com/tipsheet/mattvespa/2025/07/30/fbi-director-kash-patel-found-mountain-of-russian-collusion-docs-in-burn-bags-n2661175
+
+https://pjmedia.com/matt-margolis/2025/08/03/medias-russian-hoax-defense-for-democrats-hits-a-whole-new-level-of-absurdity-n4942365
+
+https://redstate.com/bradslager/2025/08/03/rolling-stone-commits-conspiracy-inception-evidence-russian-collusion-was-false-was-made-up-by-russia-n2192398
+
+https://pjmedia.com/victoria-taft/2025/08/13/smoking-gun-docs-show-obama-approved-ultimate-cover-up-of-russia-gate-n4942652
 
 
+https://twitchy.com/brettt/2025/08/18/gavin-newsom-press-office-blames-trump-for-illegal-killing-americans-during-u-turn-n2417530
 
-Election deniers --- https://www.youtube.com/watch?v=HGOSXpgnKQw
+https://townhall.com/tipsheet/saraharnold/2025/08/18/pirro-announced-a-woman-was-traveling-from-new-york-to-washington-dc-to-assassnate-president-trump-n2662010
+
+https://twitchy.com/amy-curtis/2025/08/17/david-brooks-dc-crime-crackdown-like-mustard-gas-attack-n2417450
+
+https://ktla.com/news/are-eggs-cheaper-under-trump-tiktoker-intends-to-hold-administration-accountable
+
+https://twitchy.com/amy-curtis/2025/02/02/brian-tyler-cohen-bluesky-post-canada-43-pounds-fentanyl-n2407729
+
+https://ktla.com/news/are-eggs-cheaper-under-trump-tiktoker-intends-to-hold-administration-accountable
+
+https://ktla.com/news/local-news/l-a-police-moving-demonstrators-out-of-downtown
+
+https://ktla.com/news/california/california-congressman-blasts-president-elon-musk-in-subcommittee-hearing
+
+https://twitchy.com/brettt/2025/02/12/congresswoman-says-black-excellence-scares-trump-because-of-his-mediocritry-n2408239
+
+https://ktla.com/news/california/california-ag-rob-bonta-state-attorneys-general-respond-after-judge-blocks-trumps-executive-order-to-end-birthright-citizenship
+
+https://twitchy.com/amy-curtis/2025/02/25/hank-johnson-wants-us-marshals-to-arrest-donald-trump-n2408948
+
+https://redstate.com/nick-arama/2025/02/28/adam-kinzinger-and-liz-cheney-response-on-wh-meeting-n2186135
+
+https://pjmedia.com/athena-thorne/2025/03/01/maybe-the-democrats-really-did-steal-the-2024-election-n4937409
+
+https://twitchy.com/dougp/2025/03/01/lib-media-meltdown-compilation-proves-trumps-meeting-with-zelenskyy-angered-all-the-right-people-n2409163
+
+https://redstate.com/katie-jerkovich/2025/05/15/watch-scott-jennings-gets-democrat-to-admit-justice-system-weaponized-against-trump-yes-really-n2189158
+
+https://hotair.com/betsy-mccaughey/2025/05/18/the-evil-scheme-behind-the-spate-of-anti-trump-lawsuits-n3802857
+
+https://hotair.com/david-strom/2025/05/19/crossfire-hurricane-hoax-will-anybody-pay-a-price-for-attempted-coup-n3802895
+
+https://twitchy.com/warren-squire/2025/06/13/joy-behar-finds-it-suspicious-that-trump-shares-a-birthday-with-the-us-army-n2414229
+
+https://twitchy.com/brettt/2025/06/14/law-prof-claims-trump-normalized-political-violence-with-j6-pardons-n2414275
+
+https://twitchy.com/grateful-calvin/2025/06/14/msnbc-goes-full-crazy-in-reporting-about-minnesota-shooting-guess-who-they-blame-n2414271
+
+https://twitchy.com/dougp/2025/06/14/dem-senator-ron-wyden-attempt-to-pin-mn-shooting-on-republicans-is-aging-badly-in-record-time-n2414265
+
+https://redstate.com/mike_miller/2025/06/15/pbs-host-capehart-ridiculously-dons-tinfoil-hat-reveals-rumor-about-trumps-response-to-la-riots-n2190514
+
+https://pjmedia.com/matt-margolis/2025/06/17/fbi-was-ordered-to-destroy-evidence-of-chinas-2020-election-plot-to-help-biden-n4940897
+
+https://townhall.com/tipsheet/jeff-charles/2025/06/19/fbi-emails-show-just-how-badly-bidens-justice-department-wanted-to-imprison-trump-n2659105
+
+https://twitchy.com/dougp/2025/06/23/jonathan-turley-spots-npr-making-another-case-for-defunding-this-time-about-trumps-strikes-on-iran-n2414622
+
+https://townhall.com/tipsheet/saraharnold/2025/06/28/rosie-odonnell-blames-trump-for-her-overeating-n2659602
+
+https://twitchy.com/grateful-calvin/2025/06/28/harry-sisson-goes-full-baghdad-bob-with-a-laundry-list-of-laughably-false-claims-about-trump-n2414881
+
+https://redstate.com/beccalower/2025/07/02/judge-rules-that-trump-administration-eo-on-asylum-claims-would-violate-immigration-and-nationality-act-n2191174
+
+https://twitchy.com/dougp/2025/07/02/elizabeth-warren-says-cbs-news-settlement-with-trump-is-bribery-in-plain-sight-and-the-fail-is-massive-n2415108
+
+https://townhall.com/tipsheet/jeff-charles/2025/07/03/new-cia-report-exposes-how-the-obama-administration-to-push-the-russia-collusion-hoax-n2659854
+
+https://hotair.com/david-strom/2025/07/08/usaid-staffers-plot-insurrection-and-brag-about-it-n3804568
+
+https://pjmedia.com/matt-margolis/2025/07/12/gao-report-exposes-secret-service-incompetence-that-nearly-cost-trump-his-life-n4941700
+
+https://twitchy.com/grateful-calvin/2025/07/13/one-year-after-butler-its-important-to-remember-that-we-dont-hate-the-media-nearly-enough-n2415614
+
+https://townhall.com/tipsheet/mattvespa/2025/07/13/remember-how-the-media-covered-trumps-assassination-attempt-at-butler-heres-a-refresher-n2660303
+
+https://www.youtube.com/watch?v=HGOSXpgnKQw Election deniers
 https://www.youtube.com/shorts/a5vjNY1por0
 https://www.youtube.com/watch?v=qktluMDn-HE
 https://www.youtube.com/watch?v=nmMfMwQnE08
@@ -676,33 +852,6 @@ https://www.youtube.com/watch?v=LDarmOtKHtY
 https://www.youtube.com/watch?v=mg9CJpQw5dU
 https://www.youtube.com/watch?v=v_8QUdUDgr8
 https://www.youtube.com/watch?v=yMu8LuWZnJQ
-
----
-
-[Neil Young warns Trump to stop responding to geriatric rockers' trash talk: '86/47? ... We need a real President'](https://www.breitbart.com/entertainment/2025/05/21/neil-young-warns-trump-to-stop-responding-to-geriatric-rockers-trash-talk-this-guy-is-out-of-control/)
-
-[Rep. Al Green files impeachment articles, cites Trump as threat to democracy in 'Dear Colleague' letter](https://algreen.house.gov/media/press-releases/rep-al-green-files-impeachment-articles-cites-trump-threat-democracy-dear)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And this… is the damning email obtained by investigative journalist King Solomon.<br><br>In a stunning exchange, CIA Director Mike Morell turns to fellow Director John Brennan and asks if he would join in toppling the United States government during the November 3, 2020 election.… <a href="https://t.co/oTBQQdlVy2">pic.twitter.com/oTBQQdlVy2</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1936565270459630007?ref_src=twsrc%5Etfw">June 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Oversight Project refers former FBI Director Wray to DOJ for criminal charges](https://www.theblaze.com/news/exclusive-oversight-project-refers-former-fbi-director-wray-to-doj-for-criminal-charges)
-
-[Mark Cuban brutally shreds Trump as 'dishonest' businessman](https://www.mediaite.com/politics/mark-cuban-brutally-shreds-trump-ive-known-him-for-25-years-and-hes-the-most-unethical-person-ive-worked-with/)
-
-[Memo reveals D.C. judges predisposed against Trump Admin](https://thefederalist.com/2025/07/16/exclusive-memo-reveals-d-c-judges-are-predisposed-against-trump-administration/)
-
-[Trump has refused to pay hundreds of workers](https://thehill.com/blogs/ballot-box/presidential-races/282933-report-trump-has-refused-to-pay-hundreds-of-workers/)
-
-[Good Trouble Lives On](https://goodtroubleliveson.org/)
-
-[DNI Gabbard declassifies House report on Russia collusion narrative | Fox News](https://www.foxnews.com/politics/brennan-directed-publication-implausible-reports-claiming-putin-preferred-trump-2016-house-found)
-
-[Rapid Response 47 on X: "https://t.co/7K8BEXswgK" / X](https://x.com/RapidResponse47/status/1948521565454516606)
-and
-https://archive.is/NTKvn (see Democrats on X/ "Trump’s America/ https/t.co/nb9LObZwCL" / X.pxd)
-
-[EXCLUSIVE: DOD Pulls Russia Hoaxer Miller's Security Clearance](https://thefederalist.com/2025/08/14/exclusive-pentagon-terminates-security-clearance-of-russia-collusion-hoaxer-susan-miller/)
-
 https://www.youtube.com/watch?v=lJA1YCIwGG8
 https://www.youtube.com/watch?v=YoK8HreyPkQ
 https://www.youtube.com/watch?v=rrQkOBidHPE
@@ -712,82 +861,6 @@ https://www.youtube.com/watch?v=-ygir0ekE7k
 https://www.youtube.com/watch?v=kCz_7zeID3E
 https://www.youtube.com/watch?v=ZYvq_3UfnS8
 https://www.youtube.com/watch?v=VWfrxzQC5bQ
-
-[DOJ launching grand jury investigation into Russiagate conspiracy allegations - CBS News](https://www.cbsnews.com/amp/news/doj-russiagate-trump-grand-jury-investigation/)
-
-[Bombshell DNI Emails Expose Fraud That Sabotaged 2018 Trump-Putin Summit](https://thefederalist.com/2025/08/15/bombshell-dni-emails-expose-fraud-that-sabotaged-2018-trump-putin-summit/)
-
-[Fox News issues urgent Donald Trump update and it's humiliating blow | TV & Radio | Showbiz & TV | Express.co.uk](https://www.express.co.uk/showbiz/tv-radio/2096183/fox-news-donald-trump-update)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Declassified FBI 302s reveal Adam Schiff&#39;s HPSCI &quot;communications director [Patrick Boland]&quot; was briefed by Schiff&#39;s &quot;Russia Team&quot; re highly classified docs from the CIA in 2017, even tho he &quot;did not hold a security clearance.&quot; Boland is now Sen. Schiff&#39;s Chief of Staff.</p>&mdash; Paul Sperry (@paulsperry_) <a href="https://twitter.com/paulsperry_/status/1955678144276652337?ref_src=twsrc%5Etfw">August 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is the one declassified <a href="https://twitter.com/FBI?ref_src=twsrc%5Etfw">@FBI</a> record you should not miss!<br><br>The October 2017 FBI report alleges leaking by democrats on the House Intelligence Committee was “not a one-time thing,” there was a “systematic process.”<br><br>“...notes would be run up to the ranking member, ADAM SCHIFF,… <a href="https://t.co/hpEqgzVfAf">https://t.co/hpEqgzVfAf</a> <a href="https://t.co/0XKTETk0aL">pic.twitter.com/0XKTETk0aL</a></p>&mdash; Catherine Herridge (@C__Herridge) <a href="https://twitter.com/C__Herridge/status/1955686857414529506?ref_src=twsrc%5Etfw">August 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨🚨And here it is, <br><br>King Solomon Reporting: <br><br>RE: ‘Arctic Frost’ — it has now been officially referred to <a href="https://twitter.com/FBIDirectorKash?ref_src=twsrc%5Etfw">@FBIDirectorKash</a> and <a href="https://twitter.com/AGPamBondi?ref_src=twsrc%5Etfw">@AGPamBondi</a> for criminal investigation and prosecution.<br><br>Senator Chuck Grassley and Sen. Ron Johnson via WHISTLEBLOWER: CONFIRM a criminal conspiracy… <a href="https://t.co/4P1vLYt1EB">pic.twitter.com/4P1vLYt1EB</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1947687701572162028?ref_src=twsrc%5Etfw">July 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">September, 2018. Two months before the midterms Obama continues to spread the Russia hoax, warning that the privileged will do anything to hold on to their power.<br><br>The nerve of this guy. <a href="https://t.co/Dlo5w2vToX">pic.twitter.com/Dlo5w2vToX</a></p>&mdash; MAZE (@mazemoore) <a href="https://twitter.com/mazemoore/status/1947725720328839174?ref_src=twsrc%5Etfw">July 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And there it is: <br><br>The damning email obtained by King Solomon through the Freedom of Information Act (FOIA)<br><br>In a stunning exchange, CIA Director Mike Morell turns to fellow Director John Brennan and asks if he would join in toppling the United States government during the… <a href="https://t.co/e7tPTQpYFt">pic.twitter.com/e7tPTQpYFt</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1947787433577484333?ref_src=twsrc%5Etfw">July 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Their goal was to usurp President Trump and subvert the will of the American people.<br><br>No matter how powerful, every person involved in this conspiracy must be investigated and prosecuted to the fullest extent of the law. The integrity of our democratic republic depends on it.<br><br>We… <a href="https://t.co/KJ7qrmMv0k">pic.twitter.com/KJ7qrmMv0k</a></p>&mdash; DNI Tulsi Gabbard (@DNIGabbard) <a href="https://twitter.com/DNIGabbard/status/1946293600976785453?ref_src=twsrc%5Etfw">July 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Randolph Moss, an Obama-appointed judge, just issued an order OVERTURNING Trump&#39;s declaration of invasion at the southern border.<br><br>This activist judge wants to turn the US into the Biden-era open border disaster. <a href="https://t.co/NAnry2ld0c">pic.twitter.com/NAnry2ld0c</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1940488258217230750?ref_src=twsrc%5Etfw">July 2, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Did you delete this tweet because Fang Fang wrote it?<br><br>I know California politicians are pros at burning taxpayer cash but President Trump is not going to let your paid activists destroy LA. Working class Americans - especially business owners - are happy the Nat’l Guard is… <a href="https://t.co/o1MY8iq4c6">pic.twitter.com/o1MY8iq4c6</a></p>&mdash; Secretary Sean Duffy (@SecDuffy) <a href="https://twitter.com/SecDuffy/status/1938619417648116089?ref_src=twsrc%5Etfw">June 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The United States of America: No Kings since 1776.<br><br>Donald Trump: Russian-owned since 1978.</p>&mdash; Rep. Jamie Raskin (@RepRaskin) <a href="https://twitter.com/RepRaskin/status/1934032056796815534?ref_src=twsrc%5Etfw">June 14, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">.<a href="https://twitter.com/SpeakerPelosi?ref_src=twsrc%5Etfw">@SpeakerPelosi</a>: &quot;On January 6th...we begged the president of the United States to send in the National Guard. He would not do it...And yet, in a contra-constitutional way, he has sent the National Guard into California. Something is very wrong with this picture.&quot; <a href="https://t.co/yHfezvqNf6">pic.twitter.com/yHfezvqNf6</a></p>&mdash; CSPAN (@cspan) <a href="https://twitter.com/cspan/status/1932476519609155745?ref_src=twsrc%5Etfw">June 10, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And here it is: <br><br>O’Keefe Media Group <a href="https://twitter.com/JamesOKeefeIII?ref_src=twsrc%5Etfw">@JamesOKeefeIII</a> : “Amjad Anton Fseisi states the higher-ups in the intel community, including CIA Directors Mike Pompeo and Gina Haspel and the upper levels of their staffs colluded to withhold information from the sitting President of the… <a href="https://t.co/iQULE8GpJc">https://t.co/iQULE8GpJc</a> <a href="https://t.co/ArWc8EIuMX">pic.twitter.com/ArWc8EIuMX</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1923846459268661619?ref_src=twsrc%5Etfw">May 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrat Governor Gretchen Whitmer also called for ass*ssinating Trump.<br><br>They know exactly what they’re doing. <a href="https://t.co/Mm64FqR56J">pic.twitter.com/Mm64FqR56J</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1923422312046477480?ref_src=twsrc%5Etfw">May 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Former FBI Director James Comey just posted on Instagram a picture that says: &quot;86 47&quot;<br><br>What does Comey mean by &quot;get rid of&quot; the 47th President of the United States, Donald Trump? <a href="https://t.co/SDzf92BmnI">pic.twitter.com/SDzf92BmnI</a></p>&mdash; Steve Guest (@SteveGuest) <a href="https://twitter.com/SteveGuest/status/1923119542848352490?ref_src=twsrc%5Etfw">May 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No one is above the law—including Donald Trump.<br><br>This indictment must now play out through the legal process, without any outside political or ideological interference.<br><br>My statement with <a href="https://twitter.com/RepJeffries?ref_src=twsrc%5Etfw">@RepJeffries</a>: <a href="https://t.co/S9zSuaT9R4">pic.twitter.com/S9zSuaT9R4</a></p>&mdash; Chuck Schumer (@SenSchumer) <a href="https://twitter.com/SenSchumer/status/1667278686364606467?ref_src=twsrc%5Etfw">June 9, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨As the Biden cognitive decline coverup conversation reignites — deranged Hakeem Jeffries now decides to question President Trump’s mental fitness for office:<br><br>&quot;A lot of Americans across the country that I run into, are questioning whether Donald Trump is actually fit at this… <a href="https://t.co/TJo8JWgQ43">pic.twitter.com/TJo8JWgQ43</a></p>&mdash; Western Lensman (@WesternLensman) <a href="https://twitter.com/WesternLensman/status/1917388981962002832?ref_src=twsrc%5Etfw">April 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump and JD Vance are arresting judges now. Deleting the tweet won&#39;t undo the constitutional crisis you have just thrust us into. <a href="https://t.co/FkZ3whfjaV">https://t.co/FkZ3whfjaV</a></p>&mdash; Ro Khanna (@RoKhanna) <a href="https://twitter.com/RoKhanna/status/1915797898760987071?ref_src=twsrc%5Etfw">April 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Understand what this is: If Kash Patel and Donald Trump don’t like a judge, they think they can arrest them. This is stunning — we must stand up to this blatant power grab.<br><br>Republicans: How is this not a red line for you?</p>&mdash; Tina Smith (@SenTinaSmith) <a href="https://twitter.com/SenTinaSmith/status/1915814735980716136?ref_src=twsrc%5Etfw">April 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Insane. A Democrat just said out loud that large groups meet weekly with Attorney Generals to attack President Trump. <br> <a href="https://t.co/DVTZ02TpX7">pic.twitter.com/DVTZ02TpX7</a></p>&mdash; Benny Johnson (@bennyjohnson) <a href="https://twitter.com/bennyjohnson/status/1912273268695761320?ref_src=twsrc%5Etfw">April 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And this is,<br><br>THE FACT OF THE CENTURY, <br><br>According to this News Article, this is how the United States government was overthrown on November 3, 2020,<br><br>REPORT: analysis shows fraud in 30 States, and more than 2,000 counties had something in common.<br><br>Dominion Rigging Systems and… <a href="https://t.co/LbntZandmv">pic.twitter.com/LbntZandmv</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1898476369941787129?ref_src=twsrc%5Etfw">March 8, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">KRISHNAMOORTHI (D): President Trump - when will egg costs be high enough for you to take action on bird flu? $10 per carton of eggs? It&#39;ll soon be cheaper to buy a magazine for an AK-47 than to buy breakfast. This is flat out wrong.<br><br>[Hearing is about sanctuary cities] <a href="https://t.co/pl6jFTtSAN">pic.twitter.com/pl6jFTtSAN</a></p>&mdash; Eric Daugherty (@EricLDaugh) <a href="https://twitter.com/EricLDaugh/status/1897326846234255835?ref_src=twsrc%5Etfw">March 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Pocahontas&quot;: First racial slur in a Joint Address</p>&mdash; Nandita Bose (@nanditab1) <a href="https://twitter.com/nanditab1/status/1897132629285277852?ref_src=twsrc%5Etfw">March 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Egg shortages. <br>Fatal measles outbreaks.<br>Airplane crashes.<br>Crypto scams.<br>Tariffs.<br>Betrayal of allies. <br>Pardons and special favors for insurrectionists, crooked mayors, and online pimps.<br>The American people voted for change!</p>&mdash; David Frum (@davidfrum) <a href="https://twitter.com/davidfrum/status/1895150416738033992?ref_src=twsrc%5Etfw">February 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democrats are throwing a fit over President Trump kicking Zelenskyy out of the White House. <a href="https://t.co/cltu015vJ6">pic.twitter.com/cltu015vJ6</a></p>&mdash; I Meme Therefore I Am 🇺🇸 (@ImMeme0) <a href="https://twitter.com/ImMeme0/status/1895605384423031139?ref_src=twsrc%5Etfw">February 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">While calling President Trump and VP Vance cowards and puppets, Rep. Seth Moulton (D) digs at Vance&#39;s military service by calling him a POG (Person Other than Grunt). <br><br>Moulton is a Marine infantry veteran who served in Iraq.<br><br>&quot;The only hero in the Oval Office...is the… <a href="https://t.co/0cpauLgBTl">pic.twitter.com/0cpauLgBTl</a></p>&mdash; Julio Rosas (@Julio_Rosas11) <a href="https://twitter.com/Julio_Rosas11/status/1895545645962051971?ref_src=twsrc%5Etfw">February 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I love my country with all my heart and I&#39;ve never been more embarrassed for America than the spectacle I just witnessed in the Oval Office.<br>Zelensky is fighting for the survival of his country, his people and their democracy.<br>Trump and Vance appear to be completely aligned with…</p>&mdash; David Axelrod (@davidaxelrod) <a href="https://twitter.com/davidaxelrod/status/1895541495928873053?ref_src=twsrc%5Etfw">February 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fuck Donald Trump, Fuck Elon Musk and Fuck the Federalist Society judges who enable them. <a href="https://t.co/2z6ctFtXyU">https://t.co/2z6ctFtXyU</a></p>&mdash; David Hogg 🟧 (@davidhogg111) <a href="https://twitter.com/davidhogg111/status/1892679986256978005?ref_src=twsrc%5Etfw">February 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The FT is reporting Trump plans to withdraw troops from the Baltic states at least, giving Russia a huge strategic win, and weakening NATO&#39;s eastern flank at a critical time.<a href="https://t.co/12P9vfwav1">https://t.co/12P9vfwav1</a> <a href="https://t.co/8VN9cYKzae">pic.twitter.com/8VN9cYKzae</a></p>&mdash; Jimmy Rushton (@JimmySecUK) <a href="https://twitter.com/JimmySecUK/status/1891501007676346813?ref_src=twsrc%5Etfw">February 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[MSNBC agrees to settle $30 million defamation lawsuit brought by doctor](https://www.msn.com/en-us/news/us/msnbc-agrees-to-settle-30-million-defamation-lawsuit-brought-by-doctor/ar-AA1zy6UA)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">You’re the definitely the delusional one that needs to be in a strait jacket Keithy, not President Trump 😁 <a href="https://t.co/uybifwkmIm">pic.twitter.com/uybifwkmIm</a></p>&mdash; Tyson Garani (@GrubGarani) <a href="https://twitter.com/GrubGarani/status/1885059194321330570?ref_src=twsrc%5Etfw">January 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Donald Trump's Eyebrow 'Falling Off'? Viral Photo Sparks Reactions | US News - Times Now](https://www.timesnownews.com/world/us/us-news/donald-trumps-eyebrow-falling-off-viral-photo-sparks-reactions-article-112551890)
-
-[President Donald Trump compared to an Oompa Loompa as he's criticized for his 'fluorescent' eyebrows - MEAWW News](https://news.meaww.com/president-donald-trump-compared-to-an-oompa-loompa-as-hes-criticized-for-his-fluorescent-eyebrows)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Analysis: How Trump could defy the Constitution — or find a loophole — and stay in power beyond 2028, writes our legal editor <a href="https://twitter.com/jamesromoser?ref_src=twsrc%5Etfw">@jamesromoser</a> 👉 <a href="https://t.co/VYUsG2nlkS">https://t.co/VYUsG2nlkS</a> <a href="https://t.co/vQ8z6yzkPo">pic.twitter.com/vQ8z6yzkPo</a></p>&mdash; POLITICO (@politico) <a href="https://twitter.com/politico/status/1885384637549019478?ref_src=twsrc%5Etfw">January 31, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Remember what Jake Tapper did to this country, undermining our president with the most notorious political hoax in our history… <a href="https://t.co/YJIrsNW5hi">pic.twitter.com/YJIrsNW5hi</a></p>&mdash; James Woods (@RealJamesWoods) <a href="https://twitter.com/RealJamesWoods/status/1885722245789778283?ref_src=twsrc%5Etfw">February 1, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
-
 https://www.youtube.com/watch?v=Kxu0KS0CN4Q
 https://www.youtube.com/watch?v=m17P3CUJVFw
 https://www.youtube.com/watch?v=1_jUAGwuqvA
@@ -813,96 +886,3 @@ https://www.youtube.com/watch?v=LX3YFxiiGHc Jasmine
 https://www.youtube.com/watch?v=0tNHxQN3t1Y Gavin and Jasmine
 https://www.youtube.com/watch?v=K4kBALVmd4o Chuck Todd and Antifa
 https://www.youtube.com/watch?v=ibVKboljABM What do words mean?
-
-
-
-https://townhall.com/tipsheet/saraharnold/2025/07/18/cnn-still-wont-admit-that-trump-got-shot-in-the-ear-n2660606
-
-https://twitchy.com/samj/2025/07/21/texts-emails-show-hillary-clintons-aides-worked-with-obama-admin-to-dig-up-dirt-tying-trump-to-putin-n2415972
-
-https://twitchy.com/justmindy/2025/07/23/house-intel-report-brennan-ignored-warnings-putin-n2416086
-
-https://twitchy.com/dougp/2025/07/23/tulsi-gabbard-releases-more-on-most-egregious-weaponization-and-politicization-of-intel-in-us-history-n2416085
-
-https://townhall.com/tipsheet/mattvespa/2025/07/23/tulsi-gabbard-just-made-obama-eat-his-words-on-the-russian-collusion-hoax-n2660804
-
-https://twitchy.com/dougp/2025/07/23/dem-sen-chris-murphys-skepticism-of-trumps-japan-trade-deal-announcement-aged-horribly-as-usual-n2416110
-
-https://twitchy.com/brettt/2025/07/23/yes-there-will-be-arrests-doj-announces-strike-force-to-assess-russia-hoax-evidence-n2416126
-
-https://townhall.com/tipsheet/mattvespa/2025/07/30/fbi-director-kash-patel-found-mountain-of-russian-collusion-docs-in-burn-bags-n2661175
-
-https://pjmedia.com/matt-margolis/2025/08/03/medias-russian-hoax-defense-for-democrats-hits-a-whole-new-level-of-absurdity-n4942365
-
-https://redstate.com/bradslager/2025/08/03/rolling-stone-commits-conspiracy-inception-evidence-russian-collusion-was-false-was-made-up-by-russia-n2192398
-
-https://pjmedia.com/victoria-taft/2025/08/13/smoking-gun-docs-show-obama-approved-ultimate-cover-up-of-russia-gate-n4942652
-
-
-https://twitchy.com/brettt/2025/08/18/gavin-newsom-press-office-blames-trump-for-illegal-killing-americans-during-u-turn-n2417530
-
-https://townhall.com/tipsheet/saraharnold/2025/08/18/pirro-announced-a-woman-was-traveling-from-new-york-to-washington-dc-to-assassnate-president-trump-n2662010
-
-https://twitchy.com/amy-curtis/2025/08/17/david-brooks-dc-crime-crackdown-like-mustard-gas-attack-n2417450
-
-https://ktla.com/news/are-eggs-cheaper-under-trump-tiktoker-intends-to-hold-administration-accountable
-
-https://twitchy.com/amy-curtis/2025/02/02/brian-tyler-cohen-bluesky-post-canada-43-pounds-fentanyl-n2407729
-
-https://ktla.com/news/are-eggs-cheaper-under-trump-tiktoker-intends-to-hold-administration-accountable
-
-https://ktla.com/news/local-news/l-a-police-moving-demonstrators-out-of-downtown
-
-https://ktla.com/news/california/california-congressman-blasts-president-elon-musk-in-subcommittee-hearing
-
-https://twitchy.com/brettt/2025/02/12/congresswoman-says-black-excellence-scares-trump-because-of-his-mediocritry-n2408239
-
-https://ktla.com/news/california/california-ag-rob-bonta-state-attorneys-general-respond-after-judge-blocks-trumps-executive-order-to-end-birthright-citizenship
-
-https://twitchy.com/amy-curtis/2025/02/25/hank-johnson-wants-us-marshals-to-arrest-donald-trump-n2408948
-
-https://redstate.com/nick-arama/2025/02/28/adam-kinzinger-and-liz-cheney-response-on-wh-meeting-n2186135
-
-https://pjmedia.com/athena-thorne/2025/03/01/maybe-the-democrats-really-did-steal-the-2024-election-n4937409
-
-https://twitchy.com/dougp/2025/03/01/lib-media-meltdown-compilation-proves-trumps-meeting-with-zelenskyy-angered-all-the-right-people-n2409163
-
-https://redstate.com/katie-jerkovich/2025/05/15/watch-scott-jennings-gets-democrat-to-admit-justice-system-weaponized-against-trump-yes-really-n2189158
-
-https://hotair.com/betsy-mccaughey/2025/05/18/the-evil-scheme-behind-the-spate-of-anti-trump-lawsuits-n3802857
-
-https://hotair.com/david-strom/2025/05/19/crossfire-hurricane-hoax-will-anybody-pay-a-price-for-attempted-coup-n3802895
-
-https://twitchy.com/warren-squire/2025/06/13/joy-behar-finds-it-suspicious-that-trump-shares-a-birthday-with-the-us-army-n2414229
-
-https://twitchy.com/brettt/2025/06/14/law-prof-claims-trump-normalized-political-violence-with-j6-pardons-n2414275
-
-https://twitchy.com/grateful-calvin/2025/06/14/msnbc-goes-full-crazy-in-reporting-about-minnesota-shooting-guess-who-they-blame-n2414271
-
-https://twitchy.com/dougp/2025/06/14/dem-senator-ron-wyden-attempt-to-pin-mn-shooting-on-republicans-is-aging-badly-in-record-time-n2414265
-
-https://redstate.com/mike_miller/2025/06/15/pbs-host-capehart-ridiculously-dons-tinfoil-hat-reveals-rumor-about-trumps-response-to-la-riots-n2190514
-
-https://pjmedia.com/matt-margolis/2025/06/17/fbi-was-ordered-to-destroy-evidence-of-chinas-2020-election-plot-to-help-biden-n4940897
-
-https://townhall.com/tipsheet/jeff-charles/2025/06/19/fbi-emails-show-just-how-badly-bidens-justice-department-wanted-to-imprison-trump-n2659105
-
-https://twitchy.com/dougp/2025/06/23/jonathan-turley-spots-npr-making-another-case-for-defunding-this-time-about-trumps-strikes-on-iran-n2414622
-
-https://townhall.com/tipsheet/saraharnold/2025/06/28/rosie-odonnell-blames-trump-for-her-overeating-n2659602
-
-https://twitchy.com/grateful-calvin/2025/06/28/harry-sisson-goes-full-baghdad-bob-with-a-laundry-list-of-laughably-false-claims-about-trump-n2414881
-
-https://redstate.com/beccalower/2025/07/02/judge-rules-that-trump-administration-eo-on-asylum-claims-would-violate-immigration-and-nationality-act-n2191174
-
-https://twitchy.com/dougp/2025/07/02/elizabeth-warren-says-cbs-news-settlement-with-trump-is-bribery-in-plain-sight-and-the-fail-is-massive-n2415108
-
-https://townhall.com/tipsheet/jeff-charles/2025/07/03/new-cia-report-exposes-how-the-obama-administration-to-push-the-russia-collusion-hoax-n2659854
-
-https://hotair.com/david-strom/2025/07/08/usaid-staffers-plot-insurrection-and-brag-about-it-n3804568
-
-https://pjmedia.com/matt-margolis/2025/07/12/gao-report-exposes-secret-service-incompetence-that-nearly-cost-trump-his-life-n4941700
-
-https://twitchy.com/grateful-calvin/2025/07/13/one-year-after-butler-its-important-to-remember-that-we-dont-hate-the-media-nearly-enough-n2415614
-
-https://townhall.com/tipsheet/mattvespa/2025/07/13/remember-how-the-media-covered-trumps-assassination-attempt-at-butler-heres-a-refresher-n2660303
