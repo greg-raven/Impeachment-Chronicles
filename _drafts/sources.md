@@ -1,5 +1,3 @@
-Trump Used 'N-Word' In Taped 'Apprentice' Meeting, Producer Claims --- https://www.forbes.com/sites/saradorn/2024/05/30/trump-used-n-word-apprentice-producer-says-biden-calls-foe-racist/
-
 Something BAD Must Be Going on in Trump World Because Trump Is Losing His MIND on Truth Social --- https://www.politicalflare.com/2024/10/something-bad-must-be-going-on-in-trump-world-because-trump-is-losing-his-mind-on-truth-social/
 
 2024-03-01 [MSNBC Goes Full Racist on President Trump's WHITE RURAL Voters aka People living in the Country --- Accused of WHITE RURAL RAGE](https://rumble.com/v4gisu6-msnbc-goes-full-racist-on-pres-trumps-white-rural-voters-aka-people-living-.html)
@@ -454,8 +452,6 @@ https://archive.is/NTKvn (see Democrats on X/ "Trump’s America/ https/t.co/nb9
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fuck Donald Trump, Fuck Elon Musk and Fuck the Federalist Society judges who enable them. <a href="https://t.co/2z6ctFtXyU">https://t.co/2z6ctFtXyU</a></p>&mdash; David Hogg 🟧 (@davidhogg111) <a href="https://twitter.com/davidhogg111/status/1892679986256978005?ref_src=twsrc%5Etfw">February 20, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The FT is reporting Trump plans to withdraw troops from the Baltic states at least, giving Russia a huge strategic win, and weakening NATO&#39;s eastern flank at a critical time.<a href="https://t.co/12P9vfwav1">https://t.co/12P9vfwav1</a> <a href="https://t.co/8VN9cYKzae">pic.twitter.com/8VN9cYKzae</a></p>&mdash; Jimmy Rushton (@JimmySecUK) <a href="https://twitter.com/JimmySecUK/status/1891501007676346813?ref_src=twsrc%5Etfw">February 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[MSNBC agrees to settle $30 million defamation lawsuit brought by doctor](https://www.msn.com/en-us/news/us/msnbc-agrees-to-settle-30-million-defamation-lawsuit-brought-by-doctor/ar-AA1zy6UA)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">You’re the definitely the delusional one that needs to be in a strait jacket Keithy, not President Trump 😁 <a href="https://t.co/uybifwkmIm">pic.twitter.com/uybifwkmIm</a></p>&mdash; Tyson Garani (@GrubGarani) <a href="https://twitter.com/GrubGarani/status/1885059194321330570?ref_src=twsrc%5Etfw">January 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
