@@ -2,7 +2,7 @@
 title: "Gonna kill Trump"
 layout: post
 tags:
-- anonymous
+- unknown
 ---
 
 Black women are threatening to kill President Trump if their EBT is cut off for Thanksgiving.
