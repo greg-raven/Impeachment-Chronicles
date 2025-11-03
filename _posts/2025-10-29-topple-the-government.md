@@ -5,7 +5,7 @@ tags:
 - Refuse Fascism
 ---
 
-"Surround the White House. Surround the Capitol. Surround the illegitimate fascist-packed Supreme Court."
+> Surround the White House. Surround the Capitol. Surround the illegitimate fascist-packed Supreme Court.
 
 Far-left group, Refuse Fascism, is organizing an insurrection on Nov. 5 in Washington, D.C. The plan is to besiege government buildings and streets until the U.S. government is toppled.
 
