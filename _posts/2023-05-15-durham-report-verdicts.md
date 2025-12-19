@@ -9,53 +9,53 @@ tags:
 
 ---
 
-Donald J. Trump- Innocent
+Donald J. Trump --- Innocent
 
 ---
 
 FBI --- Guilty
 
-DOJ- Guilt
+DOJ --- Guilt
 
-IC- Guilty
+IC --- Guilty
 
-Comey- Guilty
+Comey --- Guilty
 
-McCabe- Guilty
+McCabe --- Guilty
 
-Strzok- Guilty
+Strzok --- Guilty
 
-Lisa Page- Guilty
+Lisa Page --- Guilty
 
-FISA Judges- Guilty
+FISA Judges --- Guilty
 
-Rosenstein- Guilty
+Rosenstein --- Guilty
 
-Chris Wray- Guilty
+Chris Wray --- Guilty
 
-Gina Haspel- Guilty
+Gina Haspel --- Guilty
 
-Sally Yates- Guilt
+Sally Yates --- Guilt
 
-Lisa Monaco- Guilty
+Lisa Monaco --- Guilty
 
-John Carlin- Guilty
+John Carlin --- Guilty
 
-Michael Sussman- Guilt
+Michael Sussman --- Guilt
 
-Christopher Steele- Guilt
+Christopher Steele --- Guilt
 
-Stephan Haler- Guilty
+Stephan Haler --- Guilty
 
-Fusion GPS- Guilty
+Fusion GPS --- Guilty
 
-Mark Elias- Guilt
+Mark Elias --- Guilt
 
-Clinton- Guilty
+Clinton --- Guilty
 
-Bruce Ohr- Guilty
+Bruce Ohr --- Guilty
 
-Nellie Ohr- Guilty
+Nellie Ohr --- Guilty
 
 ![Durham Report Verdicts according to Donald Trump](/assets/2023-05-15-durham-report-verdicts.png "Durham Report Verdicts according to Donald Trump")
 
