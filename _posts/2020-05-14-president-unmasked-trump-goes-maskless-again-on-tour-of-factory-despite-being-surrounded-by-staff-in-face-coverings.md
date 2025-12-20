@@ -11,7 +11,7 @@ The president decided to go without PPE during his visit to Owens and Minor Inc.
 
 Trump has resisted wearing a mask in public despite his administration's guidance to Americans to wear them and new White House rules requiring staff to wear them at work.
 
-The president toured the Owens &amp; Minor Inc distribution center, which the White House said has sent millions of N95 masks, surgical gowns and gloves to hospitals and surgery centers across the United States. Company officials wore masks.
+The president toured the Owens & Minor Inc distribution center, which the White House said has sent millions of N95 masks, surgical gowns and gloves to hospitals and surgery centers across the United States. Company officials wore masks.
 
 Trump visited a mask production facility in Arizona last week and also did not wear a face covering, though he said he tried some on backstage.
 

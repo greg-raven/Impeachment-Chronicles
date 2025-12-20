@@ -159,7 +159,7 @@ Patel said investigators would be wise to continue following the money trail. He
 
 Last year, Gensler named Melissa Hodgman his associate director of enforcement. She happens to be married to disgraced former FBI official Peter Strzok, who's also implicated in Durham's probe. Strzok led the investigation of Trump and his campaign, codenamed "[Crossfire Hurricane]({% post_url 2016-07-31-crossfire-hurricane %})," before he was fired in 2018 over anti-Trump texts he exchanged with his mistress, former FBI lawyer Lisa Page.
 
-As adviser to the head of the SEC's enforcement division, Hodgman currently is helping oversee an investigation into Trump's social media start-up, Truth Social. According to regulatory filings, the SEC last month served Trump Media &amp; Technology Group with a federal subpoena for records. The company owns Truth Social, Trump's answer to left-leaning Twitter, which kicked him off its platform last year over remarks he made concerning the Jan. 6 riot.
+As adviser to the head of the SEC's enforcement division, Hodgman currently is helping oversee an investigation into Trump's social media start-up, Truth Social. According to regulatory filings, the SEC last month served Trump Media & Technology Group with a federal subpoena for records. The company owns Truth Social, Trump's answer to left-leaning Twitter, which kicked him off its platform last year over remarks he made concerning the Jan. 6 riot.
 
 The SEC reportedly wants to know more about merger talks between Trump's parent company and Digital World Acquisition Corp., a publicly traded company regulated by the SEC. RCI contacted the SEC about the investigation and Gensler's previous work for the Clinton campaign, but did not hear back.
 

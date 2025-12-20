@@ -23,7 +23,7 @@ The impeachment drive comes as Democrats and liberal activists are mounting broa
 
 Strategists behind the campaign for impeachment said they are confident that other groups will soon join their cause. They argue that Trump will immediately be in violation of the U.S. Constitution's Foreign Emoluments Clause, which prohibits a president from accepting a gift or benefit from a foreign leader or government.
 
-Fein cited several examples, including rent paid by the Industrial &amp; Commercial Bank of China for its space in Trump Tower in New York and potential ongoing spending by foreign diplomats at the Trump International Hotel in Washington and other Trump properties. In addition, he said, royalties collected by the Trump organization from the president's business partner in the Philippines, who was recently named a special envoy to the United States, could violate the clause.
+Fein cited several examples, including rent paid by the Industrial & Commercial Bank of China for its space in Trump Tower in New York and potential ongoing spending by foreign diplomats at the Trump International Hotel in Washington and other Trump properties. In addition, he said, royalties collected by the Trump organization from the president's business partner in the Philippines, who was recently named a special envoy to the United States, could violate the clause.
 
 Trump's Washington hotel is hub of inaugural action --- and potential conflicts
 

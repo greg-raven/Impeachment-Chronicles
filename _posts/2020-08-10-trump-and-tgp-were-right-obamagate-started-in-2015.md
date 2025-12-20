@@ -59,7 +59,7 @@ The problem with Comey lying about the start date of the Trump counterintelligen
 
 President Trump tweeted out a follow up to our post the next day undoubtedly referring to our report:
 
-> Wow, Strzok-Page, the incompetent &amp; corrupt FBI lovers, have texts referring to a counter-intelligence operation into the Trump Campaign dating way back to December, 2015. SPYGATE is in full force! Is the Mainstream Media interested yet? Big stuff!
+> Wow, Strzok-Page, the incompetent & corrupt FBI lovers, have texts referring to a counter-intelligence operation into the Trump Campaign dating way back to December, 2015. SPYGATE is in full force! Is the Mainstream Media interested yet? Big stuff!
 >
 > <cite>Donald J. Trump (@realDonaldTrump) June 6, 2018</cite>
 

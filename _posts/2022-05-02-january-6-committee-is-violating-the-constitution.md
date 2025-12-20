@@ -5,7 +5,7 @@ tags:
 - Jeff Poor
 ---
 
-Sunday, conservative talk Mark Levin opened his FNC "Life, Liberty, &amp; Levin" program by criticizing the January 6 House Select Committee and congressional Democrats for promoting a "political agenda" against former President Donald Trump.
+Sunday, conservative talk Mark Levin opened his FNC "Life, Liberty, & Levin" program by criticizing the January 6 House Select Committee and congressional Democrats for promoting a "political agenda" against former President Donald Trump.
 
 According to Levin, the January 6 Committee was violating the Constitution.
 

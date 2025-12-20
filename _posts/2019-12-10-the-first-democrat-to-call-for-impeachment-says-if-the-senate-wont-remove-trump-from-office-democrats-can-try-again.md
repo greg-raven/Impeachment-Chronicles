@@ -37,7 +37,7 @@ Green has repeatedly pushed for the inclusion of an impeachment article that add
 
 Rep. Rashida Tlaib, a progressive first-year member, has pushed for the same.
 
-"The words 'racist abuse of power' should be part of the articles of impeachment. Not including this type of abuse based on racism will be unjust to the children caged at the border &amp; all the communities who have faced violence b/c of his actions," [Tlaib tweeted](https://twitter.com/rashidatlaib/status/1191718292567842821?s=21) last month, responding to a story about Trump's decision to proclaim November "National American History and Founders Month" instead of Native American Heritage Month.
+"The words 'racist abuse of power' should be part of the articles of impeachment. Not including this type of abuse based on racism will be unjust to the children caged at the border & all the communities who have faced violence b/c of his actions," [Tlaib tweeted](https://twitter.com/rashidatlaib/status/1191718292567842821?s=21) last month, responding to a story about Trump's decision to proclaim November "National American History and Founders Month" instead of Native American Heritage Month.
 
 "I think for many of my residents, it is some of the most un-American, racist policies that he's also [enacted] that we think is an impeachable offense," Tlaib told reporters Tuesday, though she added that impeaching Trump on abuse of power and obstruction of Congress charges is also important.
 

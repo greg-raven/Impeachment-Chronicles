@@ -39,6 +39,6 @@ In a statement Monday evening, the Episcopal Church Presiding Bishop Michael Cur
 
 The church visit was praised, however, by a member of Trump's Evangelical Advisory Board, the Rev. Johnnie Moore.
 
-"I will never forget seeing @POTUS @realDonaldTrump slowly &amp; in-total-command walk from the @WhiteHouse across Lafayette Square to St. John's Church defying those who aim to derail our national healing by spreading fear, hate &amp; anarchy," Moore tweeted.
+"I will never forget seeing @POTUS @realDonaldTrump slowly & in-total-command walk from the @WhiteHouse across Lafayette Square to St. John's Church defying those who aim to derail our national healing by spreading fear, hate & anarchy," Moore tweeted.
 
 Source: Tom Gjelten, npr.org/2020/06/01/867532070/trumps-unannounced-church-visit-angers-church-officials

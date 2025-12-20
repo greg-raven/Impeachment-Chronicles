@@ -15,7 +15,7 @@ In the lead up to the 2020 election, the story of Hunter Biden's now infamous la
 
 Trump wrote,
 
-> "So now it comes out, conclusively, that the FBI BURIED THE HUNTER BIDEN LAPTOP STORY BEFORE THE ELECTION knowing that, if they didn't, 'Trump would have easily won the 2020 Presidential Election,' This is massive FRAUD &amp; ELECTION INTERFERENCE at level never seen before in our Country. REMEDY: Declare the rightful winner or, and this would be the minimal solution, declare the 2020 Election irreparably compromised and have a new Election, immediately!"
+> "So now it comes out, conclusively, that the FBI BURIED THE HUNTER BIDEN LAPTOP STORY BEFORE THE ELECTION knowing that, if they didn't, 'Trump would have easily won the 2020 Presidential Election,' This is massive FRAUD & ELECTION INTERFERENCE at level never seen before in our Country. REMEDY: Declare the rightful winner or, and this would be the minimal solution, declare the 2020 Election irreparably compromised and have a new Election, immediately!"
 >
 > <cite>President Donald Trump via [TruthSocial.com](https://truthsocial.com/@realDonaldTrump/posts/108910239289415166)</cite>
 

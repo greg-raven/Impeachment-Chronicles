@@ -15,21 +15,21 @@ These are Tea Party people. The types who give their kids a pocket Constitution 
 
 Everyone involved lied about their involvement as long as they could. We only learned the DNC paid for the manufactured evidence because of a court order. Comey denied on TV knowing the DNC paid for it, when we have emails from a year earlier proving that he knew. 5/x
 
-This was true with everyone, from CIA Dir Brennan &amp; Adam Schiff --- who were on TV saying they'd seen clear evidence of collusion w/Russia, while admitting under oath behind closed doors that they hadn't --- all the way down the line. In the end we learned that it was ALL fake. 6/x
+This was true with everyone, from CIA Dir Brennan & Adam Schiff --- who were on TV saying they'd seen clear evidence of collusion w/Russia, while admitting under oath behind closed doors that they hadn't --- all the way down the line. In the end we learned that it was ALL fake. 6/x
 
-At first, many Trump ppl were worried there must be some collusion, because every media &amp; intel agency wouldn't make it up out of nothing. When it was clear that they had made it up, people expected a reckoning, and shed many illusions about their gov't when it didn't happen. 7/x
+At first, many Trump ppl were worried there must be some collusion, because every media & intel agency wouldn't make it up out of nothing. When it was clear that they had made it up, people expected a reckoning, and shed many illusions about their gov't when it didn't happen. 7/x
 
 We know as fact: a) The [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was the sole evidence used to justify spying on the Trump campaign, b) The FBI knew the [Steele Dossier]({% post_url 2016-06-20-the-steele-dossier %}) was a DNC op, c) Steele's source told the FBI the info was unserious, d) they did not inform the court of any of this and kept spying. 8/x
 
 Trump supporters know the collusion case front and back. They went from worrying the collusion must be real, to suspecting it might be fake, to realizing it was a scam, then watched as every institution --- agencies, the press, Congress, academia --- gaslit them for another year. 9/x
 
-Worse, collusion was used to scare people away from working in the administration. They knew their entire lives would be investigated. Many quit because they were being bankrupted by legal fees. The DoJ, press, &amp; gov't destroyed lives and actively subverted an elected admin. 10/x
+Worse, collusion was used to scare people away from working in the administration. They knew their entire lives would be investigated. Many quit because they were being bankrupted by legal fees. The DoJ, press, & gov't destroyed lives and actively subverted an elected admin. 10/x
 
 This is where people whose political identity was largely defined by a naive belief in what they learned in Civics class began to see the outline of a Regime that crossed all institutional boundaries. Because it had stepped out of the shadows to unite against an interloper. 11/x
 
 GOP propaganda still has many of them thinking in terms of partisan binaries, but A LOT of Trump supporters see that the Regime is not partisan. They all know that the same institutions would have taken opposite sides if it was a Tulsi Gabbard vs Jeb Bush election. 12/x
 
-It's hard to describe to people on the left (who are used to thinking of gov't as a conspiracy ... Watergate, COINTELPRO, WMD, etc) how shocking &amp; disillusioning this was for people who encourage their sons to enlist in the Army, and hate ppl who don't stand for the Anthem. 13/x
+It's hard to describe to people on the left (who are used to thinking of gov't as a conspiracy ... Watergate, COINTELPRO, WMD, etc) how shocking & disillusioning this was for people who encourage their sons to enlist in the Army, and hate ppl who don't stand for the Anthem. 13/x
 
 They could have managed the shock if it only involved the government. But the behavior of the corporate press is really what radicalized them. They hate journalists more than they hate any politician or gov't official, because they feel most betrayed by them. 14/x
 
@@ -59,7 +59,7 @@ And yet they showed up in record numbers to vote. He got 13m more votes than in 
 
 Over the ensuing weeks, they got shuffled around by grifters and media scam artists selling them conspiracy theories. They latched onto one, then another increasingly absurd theory as they tried to put a concrete name on something very real. 27/x
 
-Media &amp; Tech did everything to make things worse. Everything about the election was strange --- the changes to procedure, unprecedented mail-in voting, the delays, etc --- but rather than admit that and make everything transparent, they banned discussion of it (even in DMs!). 28/x
+Media Tech did everything to make things worse. Everything about the election was strange --- the changes to procedure, unprecedented mail-in voting, the delays, etc --- but rather than admit that and make everything transparent, they banned discussion of it (even in DMs!). 28/x
 
 Everyone knows that, just as Don Jr's laptop would've been the story of the century, if everything about the election dispute was the same, except the parties were reversed, suspicions about the outcome would've been Taken Very Seriously. See 2016 for proof. 29/x
 
@@ -71,7 +71,7 @@ Forget the ballot conspiracies. It's a fact that governors used COVID to unconst
 
 They knew it was unconstitutional, it's right there in plain English. But they knew the cases wouldn't see court until after the election. And what judge will toss millions of ballots because a governor broke the rules? The threat of mass riots wasn't implied, it was direct. 33/x
 
-a) The entrenched bureaucracy &amp; security state subverted Trump from Day 1, b) The press is part of the operation, c) Election rules were changed, d) Big Tech censors opposition, e) Political violence is legitimized &amp; encouraged, f) Trump is banned from social media. 34/x
+a) The entrenched bureaucracy & security state subverted Trump from Day 1, b) The press is part of the operation, c) Election rules were changed, d) Big Tech censors opposition, e) Political violence is legitimized & encouraged, f) Trump is banned from social media. 34/x
 
 They were led down some rabbit holes, but they are absolutely right that their gov't is monopolized by a Regime that believes they are beneath representation, and will observe no limits to keep them getting it. Trump fans should be happy he lost; it might've kept him alive. /end
 

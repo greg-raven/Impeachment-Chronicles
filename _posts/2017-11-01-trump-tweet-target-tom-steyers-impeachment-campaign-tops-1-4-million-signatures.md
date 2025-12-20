@@ -7,7 +7,7 @@ tags:
 
 Tom Steyer was sitting on a plane waiting to take off from SFO to LAX last week when he got a text: The president had just tweeted about him.
 
-For most people, having Donald Trump call them out on Twitter as "wacky &amp; totally unhinged" --- as the president did of Steyer --- isn't exactly a good way to start your day.
+For most people, having Donald Trump call them out on Twitter as "wacky & totally unhinged" --- as the president did of Steyer --- isn't exactly a good way to start your day.
 
 But for Steyer, a billionaire hedge fund chief and philanthropist running an $11 million ad campaign calling for Trump's impeachment, that tweet was more than welcome --- introducing him and his movement to the president's 41 million followers.
 
@@ -23,7 +23,7 @@ But Steyer insists that the campaign is "not about me."
 
 "I'm just the vehicle," he said. "The American people are very scared by the behavior of this president."
 
-It was no coincidence that the ad was shown on "Fox &amp; Friends," Trump's favorite TV show --- it's aimed at reaching more than just the liberal faithful who already believe Trump should be kicked out of the Oval Office, Steyer said.
+It was no coincidence that the ad was shown on "Fox & Friends," Trump's favorite TV show --- it's aimed at reaching more than just the liberal faithful who already believe Trump should be kicked out of the Oval Office, Steyer said.
 
 When the ad came on during several World Series games over the last week, Twitter lit up with people asking, basically, who the hell is Tom Steyer?
 

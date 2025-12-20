@@ -7,7 +7,7 @@ tags:
 
 Speaker of the House Nancy Pelosi said Tuesday that the nation could not "accept" another term from President Trump if the country wants to remain "faithful" to the Constitution.
 
-"We have to make sure --- this will sound political but we have to make sure that the Constitution wins the next presidential election," Pelosi said at an event at Cornell University's Institute of Politics &amp; Global Affairs.
+"We have to make sure --- this will sound political but we have to make sure that the Constitution wins the next presidential election," Pelosi said at an event at Cornell University's Institute of Politics & Global Affairs.
 
 "We can't be worrying about well, how long is this going to take? Well, that will take as long as it does. And we will press the case so that in the court of public opinion. People will know what is --- is right. But we cannot accept a second term for Donald Trump if we are going to be faithful to our democracy and to the Constitution of the United States," Pelosi said.
 

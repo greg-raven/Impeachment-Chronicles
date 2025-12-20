@@ -20,7 +20,7 @@ In response, Furness wrote, "Should've been Lincoln'd five minutes later," refer
 This isn't the first time that Furness has called for violence.
 In late September 2020, Furness wrote a tweet listing several journalists, including *The Post Millennial*'s editor-at-large Andy Ngo, and prominent conservative figures that he would like to "launch" towards the sun.
 
-"I'd like to build an arc and fill it with, Michael Tracey, Andrew Sullivan, Bari Weiss, Andy Ngo, Ian Miles Cheong, Jordan Peterson, Ben Shapiro, and Fox &amp; Friends. And then launch it toward the sun," Furness wrote on Sept. 9, 2020.
+"I'd like to build an arc and fill it with, Michael Tracey, Andrew Sullivan, Bari Weiss, Andy Ngo, Ian Miles Cheong, Jordan Peterson, Ben Shapiro, and Fox & Friends. And then launch it toward the sun," Furness wrote on Sept. 9, 2020.
 
 On Penn State University's website, Furness describes himself as an author, researcher, and teacher, per the university's About page.
 
@@ -28,6 +28,6 @@ On Penn State University's website, Furness describes himself as an author, rese
 
 Furness has taught several classes at Penn State University, Greater Allegheny, many of which revolve around the media, music, and communications.
 
-One particular communications class, titled "Gender, Diversity, &amp; the Media," explores the cultural, socioeconomic, historical, and political implications of media content, media practices, and media literacy. Course readings and assignments are "designed to help students build deeper understandings of gender, race, ethnicity, ability, sexual orientation and class diversity in media," the course description reads. "Communication theory helps explain how media representations impact the human construction of meaning in social relationships, in both the U.S. and throughout the world," according to the course description.
+One particular communications class, titled "Gender, Diversity, & the Media," explores the cultural, socioeconomic, historical, and political implications of media content, media practices, and media literacy. Course readings and assignments are "designed to help students build deeper understandings of gender, race, ethnicity, ability, sexual orientation and class diversity in media," the course description reads. "Communication theory helps explain how media representations impact the human construction of meaning in social relationships, in both the U.S. and throughout the world," according to the course description.
 
 Source: Hannah Nightingale, thepostmillennial.com/penn-state-professor-calls-for-assassination-of-trump
