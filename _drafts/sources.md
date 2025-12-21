@@ -1,5 +1,9 @@
 Something BAD Must Be Going on in Trump World Because Trump Is Losing His MIND on Truth Social --- https://www.politicalflare.com/2024/10/something-bad-must-be-going-on-in-trump-world-because-trump-is-losing-his-mind-on-truth-social/
 
+2025-03-01 [The White Nationalist in Chief’s Return to Power | The Nation](https://www.thenation.com/article/society/trump-white-nationalist-in-chief/)
+
+2023-11-28 [Trump, MAGA and the insidious underbelly of white supremacy in America ](https://thehill.com/opinion/campaign/4330735-trump-maga-and-the-insidious-underbelly-of-white-supremacy-in-america/)
+
 2024-03-01 [MSNBC Goes Full Racist on President Trump's WHITE RURAL Voters aka People living in the Country --- Accused of WHITE RURAL RAGE](https://rumble.com/v4gisu6-msnbc-goes-full-racist-on-pres-trumps-white-rural-voters-aka-people-living-.html)
 
 2023-12-22 [Trump recorded pressuring Wayne Co. canvassers not to certify 2020 vote](https://www.detroitnews.com/story/news/politics/2023/12/21/donald-trump-recorded-pressuring-wayne-canvassers-not-to-certify-2020-vote-michigan/72004514007/)
