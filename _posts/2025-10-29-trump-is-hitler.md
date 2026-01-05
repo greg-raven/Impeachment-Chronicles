@@ -26,4 +26,4 @@ Trump is Hitler.
 
 ![Trump is Hitler](/assets/2025-10-29-trump-is-hitler.jpg "2025-10-29-trump-is-hitler.jpg")
 
-Source: Matt Margolis and John Cox, margolisandcox.com
+Source: Matt Margolis and John Cox, margolisandcox.com and townhall.com
