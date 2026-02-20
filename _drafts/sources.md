@@ -20,10 +20,6 @@ https://www.youtube.com/watch?v=n8_NKYEy1f4 Jack Smith's actions
 
 
 
-Are you just going to allow a dictator to invade?
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tiktoker with 500k followers appears to call for the military to defy Trump and Hegseth and commit treason. These people are deranged <a href="https://t.co/OKgJaT0c3l">pic.twitter.com/OKgJaT0c3l</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1979178304344142003?ref_src=twsrc%5Etfw">October 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are the middle of an authoritarian takeover. It&#39;s not too late to stop it. But we&#39;re short on time.<br><br>It&#39;s important we see beyond the daily outrage and understand Trump&#39;s coordinated step-by-step plan. In this video, I lay it out for you.<br><br>You need to know it to fight it. <a href="https://t.co/ZMAU9Gw1FX">pic.twitter.com/ZMAU9Gw1FX</a></p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1979174554724401248?ref_src=twsrc%5Etfw">October 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
@@ -288,8 +284,6 @@ https://youtu.be/LTq2FMzTSAU?si=A_4xE3PIsq9cogW7 Trump is the biggest threat to 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The State of Nevada’s voter roll OFFICIALLY exposed from the November 3, 2020 election!<br><br>Sen. Lankford broke it all down …<br> - Over 42,000 people voted more than once,<br> - Over 1,500 resurrection of the dead, <br> - Over 19,000 didn&#39;t live in Nevada,<br> - Over 8,000 voted from a… <a href="https://t.co/nSREfJnqyk">pic.twitter.com/nSREfJnqyk</a></p>&mdash; C-Reason🇺🇸 (@CreasonJana) <a href="https://twitter.com/CreasonJana/status/2005624302905749931?ref_src=twsrc%5Etfw">December 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is: <br><br>Sidney Katherine Powell, VINDICATED ONCE MORE: Precisely why the regime went after her:<br><br>A Venezuelan Military Intelligence whistleblower CONFIRMS that the Central Intelligence Agency outsources its election-rigging software and voting machines (Smartmatic) overseas to… <a href="https://t.co/GVOWCCsiCB">pic.twitter.com/GVOWCCsiCB</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/2005849937423261706?ref_src=twsrc%5Etfw">December 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-[Judges now veto Trump prosecutors after the Senate stalls confirmations | Blaze Media](https://www.theblaze.com/columns/opinion/judges-now-veto-trump-prosecutors-after-the-senate-stalls-confirmations)
 
 [NEWS: Sanders Statement on Trump Canceling $7 Billion for Solar for All » Senator Bernie Sanders](https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-trump-canceling-7-billion-for-solar-for-all/)
 
