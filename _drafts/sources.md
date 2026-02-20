@@ -1,3 +1,352 @@
+https://youtu.be/3hMS-iIV8uY?si=Otn5lpxpwWo4WhM1 --- Symone Sanders urges 25th Amendment, not hyperbole ... Trump is not there
+
+https://youtu.be/ZvwyfE_4Rso?si=MpTkIuEosXNsLCNt --- Katie Porter fantasizing about Trump's demise
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here it is: <br><br>The damning email obtained by King Solomon through the Freedom of Information Act (FOIA).<br><br>CONFIRMS: <br>The Central Intelligence Agency conspired and succeeded in the overthrow of the United States government on November 3, 2020.<br><br>In a stunning exchange, CIA Director… <a href="https://t.co/JyxGNJUa7M">pic.twitter.com/JyxGNJUa7M</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/1977543894918386162?ref_src=twsrc%5Etfw">October 13, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+https://www.youtube.com/watch?v=aK32ul6_tZM
+https://www.youtube.com/watch?v=xLay_rRJEAk
+https://www.youtube.com/watch?v=8791TAFFnA8
+https://www.youtube.com/watch?v=Z3i1tqgRSr8
+https://www.youtube.com/watch?v=08TSnmjiD1g
+https://www.youtube.com/watch?v=V0ZxoY8MJlE Dems to demolish WH ballroom
+https://www.youtube.com/watch?v=QsJLq7X5new Arctic Frost
+https://www.youtube.com/watch?v=9UXNoQrNJD8 Baldoccio
+https://www.youtube.com/watch?v=494Z25AFwM8 Botox woman attacks Trump
+https://www.youtube.com/watch?v=6OEFvXRaR-w Katie Porter attacks Trump
+https://www.youtube.com/watch?v=o94XOAybtEY Comey's role
+https://www.youtube.com/watch?v=n8_NKYEy1f4 Jack Smith's actions
+
+
+
+
+Are you just going to allow a dictator to invade?
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tiktoker with 500k followers appears to call for the military to defy Trump and Hegseth and commit treason. These people are deranged <a href="https://t.co/OKgJaT0c3l">pic.twitter.com/OKgJaT0c3l</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1979178304344142003?ref_src=twsrc%5Etfw">October 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are the middle of an authoritarian takeover. It&#39;s not too late to stop it. But we&#39;re short on time.<br><br>It&#39;s important we see beyond the daily outrage and understand Trump&#39;s coordinated step-by-step plan. In this video, I lay it out for you.<br><br>You need to know it to fight it. <a href="https://t.co/ZMAU9Gw1FX">pic.twitter.com/ZMAU9Gw1FX</a></p>&mdash; Chris Murphy 🟧 (@ChrisMurphyCT) <a href="https://twitter.com/ChrisMurphyCT/status/1979174554724401248?ref_src=twsrc%5Etfw">October 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jay Jones declares he is going to &quot;prosecute the President&quot; as Virginia Attorney General. <a href="https://t.co/uQfBGytWAS">pic.twitter.com/uQfBGytWAS</a></p>&mdash; Greg Price (@greg_price11) <a href="https://twitter.com/greg_price11/status/1978958138658132237?ref_src=twsrc%5Etfw">October 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Gavin Newsom says that he never saw any sign at all of cognitive decline in Joe Biden. Newsom is also now saying that Trump is in cognitive and physical decline.<br><br>It&#39;s astonishing how easily this man lies. Really evil stuff. <a href="https://t.co/ZPpnOw7C0O">pic.twitter.com/ZPpnOw7C0O</a></p>&mdash; MAZE (@mazemoore) <a href="https://twitter.com/mazemoore/status/1979016248563232852?ref_src=twsrc%5Etfw">October 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+Trump's rapid demolition of the East Wing released hundreds of pounds of asbestos into the surrounding environment.
+
+The entire area is contaminated now.
+
+Including the park.
+
+Good luck to all.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump’s rapid demolition of the East Wing released hundreds of pounds of asbestos into the surrounding environment.<br><br>The entire area is contaminated now.<br><br>Including the park.<br><br>Good luck to all.</p>&mdash; Being J Wood (@BeingJWood) <a href="https://twitter.com/BeingJWood/status/1982135425503256891?ref_src=twsrc%5Etfw">October 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+King Trump is building a bunker beneath the WH so he can be King for the rest of his life!!
+
+Long Live the King!!👑✊🏻
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🤣🤣🤣🤣<br>King Trump is building a bunker beneath the WH so he can be King for the rest of his life!!<br><br>Long Live the King!!👑✊🏻<br> <a href="https://t.co/NeV1qhlqGY">pic.twitter.com/NeV1qhlqGY</a></p>&mdash; Sheri™ (@FFT1776) <a href="https://twitter.com/FFT1776/status/1982166148670976028?ref_src=twsrc%5Etfw">October 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+No President in history has cut off food aid during a shutdown. Until now.
+
+This morning, I urged Sec. Rollins to reverse course or millions of New Yorkers will go hungry.
+
+This is indefensible.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">No President in history has cut off food aid during a shutdown. Until now.<br><br>This morning, I urged Sec. Rollins to reverse course or millions of New Yorkers will go hungry.<br><br>This is indefensible.<a href="https://t.co/lmkxR4zlP7">https://t.co/lmkxR4zlP7</a></p>&mdash; Governor Kathy Hochul (@GovKathyHochul) <a href="https://twitter.com/GovKathyHochul/status/1981816355344003535?ref_src=twsrc%5Etfw">October 24, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+It has been said before, but it bears repeating: the elderly who've worked their entire lives to get $800 a month on Social Security aren't bankrupting America. It's tax-evading billionaires like Trump who are bleeding this country dry.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">It has been said before, but it bears repeating: the elderly who’ve worked their entire lives to get $800 a month on Social Security aren’t bankrupting America. It’s tax-evading billionaires like Trump who are bleeding this country dry.</p>&mdash; Andrea Junker (@Strandjunker) <a href="https://twitter.com/Strandjunker/status/1982189122446917641?ref_src=twsrc%5Etfw">October 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+I have never in my entire career seen a President so unwilling to even TALK to Democrats about how to solve problems for the American people.
+
+This is the most corrupt President in American history and EVERYONE should be outraged.
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I have never in my entire career seen a President so unwilling to even TALK to Democrats about how to solve problems for the American people.<br> <br>This is the most corrupt President in American history and EVERYONE should be outraged. <a href="https://t.co/OzmoCQFAbK">pic.twitter.com/OzmoCQFAbK</a></p>&mdash; Senator Patty Murray (@PattyMurray) <a href="https://twitter.com/PattyMurray/status/1982492867848442047?ref_src=twsrc%5Etfw">October 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+Who agrees?
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Who agrees?✋🏽 <a href="https://t.co/2dGuDtvNYz">pic.twitter.com/2dGuDtvNYz</a></p>&mdash; Esta (@TheOnlyEsta) <a href="https://twitter.com/TheOnlyEsta/status/1982231262396924308?ref_src=twsrc%5Etfw">October 25, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+People are calling this protest the No Kings Day because Trump thinks he's a [...] king and you know he's not. He's barely a president. In fact, guess what? I'm going to say something that's going to get me in trouble. I don't think he won in a free and fair election. You heard me. I'm coming out and saying it myself. I don't care if that means I look crazy. Elon Musk [...] is good friends with Trump and at one point, I don't know if you remember, but he was giving out million-dollar checks to people if they would vote for Trump. That's illegal. It's unconstitutional and illegal. So, that was happening. And the fact that Trump won all seven swing states, which has never happened in the history of the US, makes it all very suspicious to me. So there I said it.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XuIkGbB8-U8?si=0VPvSjW426_LA1ru" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Source: Kathy Griffith, https://youtu.be/XuIkGbB8-U8?si=xtokPGpH42j3qPNk
+
+
+[Arctic Frost probe targeting Trump conservatives born at highest levels of Biden White House, DOJ | Just The News](https://justthenews.com/government/federal-agencies/biden-white-house-and-doj-fbi-leaders-involved-launch-arctic-frost)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Americans want to see their healthcare premiums go down.<br> <br>Americans want to see the government reopen.<br> <br>They don’t want to pay an extra twenty thousand dollars a year just to have health insurance.<br> <br>But Donald Trump isn’t even in the country.</p>&mdash; Chuck Schumer (@SenSchumer) <a href="https://twitter.com/SenSchumer/status/1982939181006409954?ref_src=twsrc%5Etfw">October 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Spoiler alert: if people are searching for second jobs at record high numbers, that means the economy is in a pretty bad shape.<br><br>Donald Trump is making America unaffordable. <a href="https://t.co/a2dmkcXNv6">pic.twitter.com/a2dmkcXNv6</a></p>&mdash; Elizabeth Warren (@SenWarren) <a href="https://twitter.com/SenWarren/status/1982890755044917639?ref_src=twsrc%5Etfw">October 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump is throwing 15 million Americans off health care.<br> <br>He&#39;s doubling premiums for 20 million Americans.<br> <br>Now, he&#39;s refusing to use a $5 billion emergency SNAP fund to keep 16 million kids from going hungry.<br> <br>But the 1% keep $1 trillion in tax breaks.<br> <br>Oligarchy in action.</p>&mdash; Sen. Bernie Sanders (@SenSanders) <a href="https://twitter.com/SenSanders/status/1982851946295026157?ref_src=twsrc%5Etfw">October 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I call this some of the ugliest humans on the planet. <br><br>What do you call them? <a href="https://t.co/llSpaVtEiS">pic.twitter.com/llSpaVtEiS</a></p>&mdash; Haters_gonna_hate (@princess_kim_k) <a href="https://twitter.com/princess_kim_k/status/1982889520183025907?ref_src=twsrc%5Etfw">October 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rachel Maddow sounds the alarm on Donald Trump’s latest move to track the phones of all Americans: “This turns your own phone into a spy against you. This is a surviellance capability I have been laying awake at night thinking about for the past couple of years” <a href="https://t.co/pF1g1LQgJ9">pic.twitter.com/pF1g1LQgJ9</a></p>&mdash; Marco Foster (@MarcoFoster_) <a href="https://twitter.com/MarcoFoster_/status/1983225543861436805?ref_src=twsrc%5Etfw">October 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">THIS IS TRUMP’S AMERICA!<br><br>A 16-year-old minor from Houston, Texas, who is a U.S. Citizen was beaten, tackled, and choked by ICE as he was heading for school. They used racial slurs against him and his father. The officers did not identify themselves or show any badge.<br><br>Why are… <a href="https://t.co/p2SmanXrtj">pic.twitter.com/p2SmanXrtj</a></p>&mdash; Ed Krassenstein (@EdKrassen) <a href="https://twitter.com/EdKrassen/status/1983202019138515347?ref_src=twsrc%5Etfw">October 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is a trump shutdown.<br>This is a trump shutdown.<br>This is a trump shutdown.<br>This is a trump shutdown.<br><br>The 42 million Americans losing their SNAP benefits should ask trump why he gave $40B to Argentina, or $172M for Kristi Noem&#39;s private jets.<br><br>PASS IT ON. <a href="https://t.co/s7K8I3HvZH">pic.twitter.com/s7K8I3HvZH</a></p>&mdash; BrooklynDad_Defiant!☮️ (@mmpadellan) <a href="https://twitter.com/mmpadellan/status/1983213359899001156?ref_src=twsrc%5Etfw">October 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+https://x.com/SenAdamSchiff/status/1982983342464348359
+
+https://x.com/donwinslow/status/1983362887793160616
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump is a failing authoritarian whose approval ratings are tanking. Like any bully, when he feels humiliated, he lashes out. But what he doesn’t realize is that his authoritarianism and his bullying are waking up America’s great sleeping giant. <a href="https://t.co/aiU5A2yxSY">pic.twitter.com/aiU5A2yxSY</a></p>&mdash; Robert Reich (@RBReich) <a href="https://twitter.com/RBReich/status/1982824611638333704?ref_src=twsrc%5Etfw">October 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump is weaponizing DOJ to punish <a href="https://twitter.com/TishJames?ref_src=twsrc%5Etfw">@TishJames</a> because she held him accountable for lying.<br><br>Career prosecutors&#39; memo found no fraud, profit, or crime, so Trump fired them and installed his insurance lawyer to charge the baseless case.<br><br>We stand with Tish and the rule of law. <a href="https://t.co/DbzZRuRZiW">pic.twitter.com/DbzZRuRZiW</a></p>&mdash; Daniel Goldman (@danielsgoldman) <a href="https://twitter.com/danielsgoldman/status/1982820831920115724?ref_src=twsrc%5Etfw">October 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">When the Trump regime&#39;s reign of terror comes to an end and the magnitude of their crimes are revealed to the public, America is going to have its own version of the Nuremberg trials. Trump is too old, but Stephen Miller is going to spend a long time in prison. Do you agree? <a href="https://t.co/LwKHKCijXs">pic.twitter.com/LwKHKCijXs</a></p>&mdash; TheFrenchie (@ML3democrats) <a href="https://twitter.com/ML3democrats/status/1983287632189919479?ref_src=twsrc%5Etfw">October 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨HEARTBREAKING: Essential government workers in Queens, New York, who haven&#39;t been paid in nearly a month share emotional reactions to the shutdown as they wait in line at a pop-up food distribution<br><br>Meanwhile, Trump and Republicans don’t care. Is cruelty the point? <a href="https://t.co/yxxm2svesK">pic.twitter.com/yxxm2svesK</a></p>&mdash; CALL TO ACTIVISM (@CalltoActivism) <a href="https://twitter.com/CalltoActivism/status/1983299034745045076?ref_src=twsrc%5Etfw">October 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;Not only is Donald Trump not here, not negotiating, Mike Johnson has now shut down the House for 39 consecutive days. There&#39;s no one to negotiate with. Across town, Trump is building a $300 million ballroom while he is set to let Americans starve.&quot;<br><br>-- Rep. <a href="https://twitter.com/MelanieforNM?ref_src=twsrc%5Etfw">@MelanieforNM</a> <a href="https://t.co/g7EBI70cfG">pic.twitter.com/g7EBI70cfG</a></p>&mdash; Charlotte Clymer 🇺🇦 (@cmclymer) <a href="https://twitter.com/cmclymer/status/1983237049609072925?ref_src=twsrc%5Etfw">October 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump says there’s no money to feed hungry kids, but he’s spending:<br> <br>$40 billion to bail out Argentina,<br> <br>$300 million on his vanity ballroom<br> <br>$172 million on two luxury jets for Kristi Noem<br> <br>Hundreds of millions for outfitting his foreign jet.<br> <br>Let’s be clear: Trump…</p>&mdash; Chuck Schumer (@SenSchumer) <a href="https://twitter.com/SenSchumer/status/1982930371021877316?ref_src=twsrc%5Etfw">October 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">While Donald Trump builds his knock-off Versailles on White House grounds, his government shutdown is depriving millions of Californians of federal food assistance.<br><br>Trump and his lapdog Congress just don&#39;t care, period.</p>&mdash; Governor Gavin Newsom (@CAgovernor) <a href="https://twitter.com/CAgovernor/status/1982940226667589653?ref_src=twsrc%5Etfw">October 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">JB Pritzker: &quot;I haven&#39;t suggested that Trump is Hitler.&quot;<br><br>Here’s one minute straight of JB Pritzker comparing Trump and his administration to Hitler 👇🏻<br><br>.<a href="https://twitter.com/JBPritzker?ref_src=twsrc%5Etfw">@jbpritzker</a> is a disgusting liar <a href="https://t.co/KkUFA0l5ro">pic.twitter.com/KkUFA0l5ro</a></p>&mdash; Libs of TikTok (@libsoftiktok) <a href="https://twitter.com/libsoftiktok/status/1982929621332222183?ref_src=twsrc%5Etfw">October 27, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">He might be the president of the United States, but I will never accept him as my president! Is he yours? Yes or No! <a href="https://t.co/cgehp7wxJU">pic.twitter.com/cgehp7wxJU</a></p>&mdash; Damaan, AKA &#39;Philly&#39;s Finest!&#39; (@Damaan4u33) <a href="https://twitter.com/Damaan4u33/status/1983672798318133693?ref_src=twsrc%5Etfw">October 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Nunes Issues Statement on Secret Subpoena of Trump Media](https://www.globenewswire.com/news-release/2025/10/30/3177409/0/en/Nunes-Issues-Statement-on-Secret-Subpoena-of-Trump-Media-Bank-Records.html)
+
+[Trump Sweeps Presidential Election in Landslide Victory – The Gator](https://bmgator.org/43462/opinion/trump-sweeps-election-in-landslide-victory/) 2024-11-20-landslide-victory.md
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨NEW: Rosie O&#39;Donnell hurls *WILD* allegations at Trump after he threatens to revoke her citizenship🚨<br><br>&quot;He paid $1B to Jeffrey Epstein.&quot; (Snopes fact-check: FALSE)<br><br>&quot;It&#39;s so obvious that he is guilty as sin! ... Our president is a serial p*dophile r*pist.&quot; (Even WaPo reported:… <a href="https://t.co/4rhWKWTSFH">pic.twitter.com/4rhWKWTSFH</a></p>&mdash; Jason Cohen 🇺🇸 (@JasonJournoDC) <a href="https://twitter.com/JasonJournoDC/status/1963995245638529121?ref_src=twsrc%5Etfw">September 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨NEW: Rosie O&#39;Donnell hurls *WILD* allegations at Trump after he threatens to revoke her citizenship🚨<br><br>&quot;He paid $1B to Jeffrey Epstein.&quot; (Snopes fact-check: FALSE)<br><br>&quot;It&#39;s so obvious that he is guilty as sin! ... Our president is a serial p*dophile r*pist.&quot; (Even WaPo reported:… <a href="https://t.co/4rhWKWTSFH">pic.twitter.com/4rhWKWTSFH</a></p>&mdash; Jason Cohen 🇺🇸 (@JasonJournoDC) <a href="https://twitter.com/JasonJournoDC/status/1963995245638529121?ref_src=twsrc%5Etfw">September 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: CNN says Trump just dragged Pam Bondi, Todd Blanche, Kash Patel, and Lauren Boebert into an emergency meeting in the actual Situation Room to discuss the House push to release the DOJ’s Epstein files.<br><br>You don’t use the Situation Room for “nothing to hide.”<br><br>This is… <a href="https://t.co/vqmKI60uiS">pic.twitter.com/vqmKI60uiS</a></p>&mdash; Brian Allen (@allenanalysis) <a href="https://twitter.com/allenanalysis/status/1988740115087159604?ref_src=twsrc%5Etfw">November 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump might prefer the shutdown to another round of Epstein documents. <a href="https://t.co/kAEb6xEFQh">https://t.co/kAEb6xEFQh</a></p>&mdash; Jessica Tarlov (@JessicaTarlov) <a href="https://twitter.com/JessicaTarlov/status/1988616404996620791?ref_src=twsrc%5Etfw">November 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[New Epstein Emails Alleged Trump Knew of His Conduct - The New York Times](https://www.nytimes.com/2025/11/12/us/politics/trump-epstein-emails.html) --- Nov. 12, 2025
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An actual terrorist would be thrilled to cause this much physical devastation to the White House. Trump did this without any advance notice, using private money he raised with bribes, because he thinks he&#39;s a dictator and personally owns the government. <a href="https://t.co/6l6swGncod">pic.twitter.com/6l6swGncod</a></p>&mdash; Will Stancil (@whstancil) <a href="https://twitter.com/whstancil/status/1981432617972170788?ref_src=twsrc%5Etfw">October 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+https://youtu.be/Y38TZnzrrps?si=8AZq0N9G0oD1rdR7 No one in America is above the law. Eric Swalwell
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump: &quot;You&#39;re destroying your country with windmills all over the place. If it&#39;s not windy, you don&#39;t get it... You&#39;re killing all the birds. They are ugly as hell. They make noise. They are very unsafe.&quot;<br><br>We have the dumbest POTUS ever <a href="https://t.co/VtS8q3Poq5">pic.twitter.com/VtS8q3Poq5</a></p>&mdash; Ron Smith (@Ronxyz00) <a href="https://twitter.com/Ronxyz00/status/1990127111533715766?ref_src=twsrc%5Etfw">November 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just your weekly reminder Trump raped a 13-year old child. <br><br>It’s on record <a href="https://t.co/i3agYscLOZ">pic.twitter.com/i3agYscLOZ</a></p>&mdash; Jamie Bonkiewicz (@JamieBonkiewicz) <a href="https://twitter.com/JamieBonkiewicz/status/1990549578463261162?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Recently-revealed emails suggest Trump knew that Epstein and Ghislaine Maxwell were trafficking young girls, including from Mar-a-Lago. <br><br>If Trump knew that Epstein was trafficking and abusing children, why didn’t he go to the authorities?<a href="https://twitter.com/hashtag/ReleaseTheFiles?src=hash&amp;ref_src=twsrc%5Etfw">#ReleaseTheFiles</a> <a href="https://t.co/4mHWj6WSYn">pic.twitter.com/4mHWj6WSYn</a></p>&mdash; Rep. James Walkinshaw (@Rep_Walkinshaw) <a href="https://twitter.com/Rep_Walkinshaw/status/1990145991656280140?ref_src=twsrc%5Etfw">November 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Open Secrets: Trump, GOP paid millions to Jan. 6 organizers](https://www.usatoday.com/story/aerial-journalism/2022/06/17/trump-paid-millions-january-6-organizers-report/7658737001/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">1992 footage shows Trump, Epstein, and Ghislaine Maxwell at Mar-a-Lago, laughing, whispering, and pointing out women like they’re shopping.<br><br>It’s not a rumor. It’s on tape. Trump gestures toward a group of young women, Epstein nods, Maxwell watches, and all three smile.<br><br>For… <a href="https://t.co/BQz3ThHkNW">pic.twitter.com/BQz3ThHkNW</a></p>&mdash; Brian Allen (@allenanalysis) <a href="https://twitter.com/allenanalysis/status/1990461383192854927?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">ONLY IN AMERICA 🤦 <a href="https://t.co/7Q4JPdCABM">pic.twitter.com/7Q4JPdCABM</a></p>&mdash; Glenn Tunes (@glenn_tunes) <a href="https://twitter.com/glenn_tunes/status/1990394403718922436?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump has been President for a year now.<br><br>This is his failed economy.<br>This is his failed Tariff policy.<br>This is his Epstein scandal<br>This is his disastrous foreign policy.<br><br>Stop blaming Biden.</p>&mdash; Don Winslow (@donwinslow) <a href="https://twitter.com/donwinslow/status/1990514928227397865?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Mark Epstein (Jeffrey Epstein’s brother): “In 2016, Jeffrey told me if he said what he knew about the candidates, they’d have to cancel the election. Jeffrey definitely had dirt on Trump. Trump can deny all he wants, but it’s pretty clear. Everything Trump says is a lie” <a href="https://t.co/uO6nbb8agk">pic.twitter.com/uO6nbb8agk</a></p>&mdash; Marco Foster (@MarcoFoster_) <a href="https://twitter.com/MarcoFoster_/status/1990644626357666222?ref_src=twsrc%5Etfw">November 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This should win a Pulitzer.<br><br>A visibly defeated and worn Trump, with the American flag lying on the ground in the background.<br><br>A symbol of his down fall, and the disgrace he has brought the American people. <a href="https://t.co/zxX66RAmjj">pic.twitter.com/zxX66RAmjj</a></p>&mdash; Adam Cochran (adamscochran.eth) (@adamscochran) <a href="https://twitter.com/adamscochran/status/1990507797927375178?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">House Minority Leader Hakeem Jefferies (D-NY): “Donald Trump appears to have chickened out on the Epstein scandal. He&#39;s caved; it&#39;s a complete and total surrender. Because as Democrats, we’ve been clear from the very beginning. The survivors and American people deserve full and… <a href="https://t.co/cifhDz86Bb">pic.twitter.com/cifhDz86Bb</a></p>&mdash; RedWave Press (@RedWave_Press) <a href="https://twitter.com/RedWave_Press/status/1990527500573945899?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Trump, whose name appears 1,628 times in 20,000 Epstein emails, and is in more photos with Epstein than anyone else, says others &quot;were with him all the time. I wasn&#39;t. I wasn&#39;t at all.&quot;<br><br>Brutally desperate deflections.<a href="https://t.co/ZuqxZ9X2Ep">pic.twitter.com/ZuqxZ9X2Ep</a></p>&mdash; Really American 🇺🇸 (@ReallyAmerican1) <a href="https://twitter.com/ReallyAmerican1/status/1990521552866324751?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Democratic Sen. Chris Murphy literally said recently, &#39;Clearly, Donald Trump was at the center of a child sex ring. That is heartbreaking that the President of the United States was involved in that kind of gross, craven immorality.&#39; That is a positively surrealistic read on what…</p>&mdash; Byron York (@ByronYork) <a href="https://twitter.com/ByronYork/status/1990524124314194332?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">How far gone is Trump&#39;s mind?<br><br>He says the 2020 census was rigged. <br><br>It was conducted while the president was... HIM<br><br>He&#39;s accusing HIMSELF of rigging a census 🤪 <a href="https://t.co/0NSYJe5TGk">pic.twitter.com/0NSYJe5TGk</a></p>&mdash; Keith Olbermann (@KeithOlbermann) <a href="https://twitter.com/KeithOlbermann/status/1990458034183651461?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hunter Biden: &quot;I&#39;m not saying that Donald Trump is Hitler, because Hitler had an ideology. And he had a grand plan. Donald Trump is purely corrupt. Donald Trump is a narcissistic sociopath…&quot;<a href="https://t.co/w39zXUYm7A">pic.twitter.com/w39zXUYm7A</a></p>&mdash; Thomas Sowell Quotes (@ThomasSowell) <a href="https://twitter.com/ThomasSowell/status/1990436012338639111?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump has been a disgusting creep in public, so God knows what he does in private. Those files could be devastating. Watch LP&#39;s Stuart Stevens on <a href="https://twitter.com/MSNOWNews?ref_src=twsrc%5Etfw">@MSNOWNews</a> <a href="https://t.co/yxTmuTQNX7">pic.twitter.com/yxTmuTQNX7</a></p>&mdash; The Lincoln Project (@ProjectLincoln) <a href="https://twitter.com/ProjectLincoln/status/1990480293979890107?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The rapist arrives at his golf course accompanied by 16 vehicles for another round of golf.<br><br>Why is he wasting millions of taxpayer dollars at a time when most Americans are struggling to get by?<br><br> <a href="https://t.co/uMYBqRp37Q">pic.twitter.com/uMYBqRp37Q</a></p>&mdash; Morgan J. Freeman (@mjfree) <a href="https://twitter.com/mjfree/status/1990169797473235399?ref_src=twsrc%5Etfw">November 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rosie O&#39;Donnell: &quot;We never thought we’d be living what we’re living right now. That they would re-elect the man who orchestrated an insurrection against the government? With all the charges of sex abuse, the adjudicated rapist&quot;<a href="https://t.co/jSreRTJbu2">pic.twitter.com/jSreRTJbu2</a></p>&mdash; Defiant L’s (@DefiantLs) <a href="https://twitter.com/DefiantLs/status/1990605880371654668?ref_src=twsrc%5Etfw">November 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump is welcoming MBS, the Saudi crown prince, to the White House. This is the dictator who had a U.S. columnist murdered for criticizing the Saudi royal family. <br><br>Sadly, we have a president who prefers the Saudi model — an autocracy run by a trillionaire family — to democracy.</p>&mdash; Sen. Bernie Sanders (@SenSanders) <a href="https://twitter.com/SenSanders/status/1990492994537951253?ref_src=twsrc%5Etfw">November 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Former Harvard President Larry Summers to step down after emails with Jeffrey Epstein were revealed.<br><br>Note that Donald Trump’s connections to Jeffrey Epstein are exponentially worse.<br><br>It’s time for Donald Trump to follow the same blueprint. STEP DOWN!<br><br>Who agrees? <a href="https://t.co/nq6RptJAYP">pic.twitter.com/nq6RptJAYP</a></p>&mdash; Brian Krassenstein (@krassenstein) <a href="https://twitter.com/krassenstein/status/1990592189114843381?ref_src=twsrc%5Etfw">November 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Call for military to disobey orders must be retracted](https://www.dailysignal.com/2025/11/20/video-calling-for-military-ignore-orders-from-undermines-good-order-and-discipline/)
+
+Feb. 8, 2017: Recall ive told you,, --- i have met some very bad people ,, none as bad as trump. not one decent cell in his body ... so yes --- dangerous. Jeffrey Epstein
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">BREAKING: Thousands of protestors have gathered in Washington DC to protest against Donald Trump. The American people know Trump is weaker than ever and are done with his BS. <a href="https://t.co/kEjK1Uls83">pic.twitter.com/kEjK1Uls83</a></p>&mdash; Democratic Wins Media (@DemocraticWins) <a href="https://twitter.com/DemocraticWins/status/1992297284575342694?ref_src=twsrc%5Etfw">November 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨 HAPPENING NOW: Thousands have flooded the streets of D.C. for the “Remove the Regime” rally.<br><br>Crowds are chanting “IMPEACH, CONVICT, REMOVE” and “LOCK HIM UP.” <a href="https://t.co/oCMawObVTn">pic.twitter.com/oCMawObVTn</a></p>&mdash; Brian Allen (@allenanalysis) <a href="https://twitter.com/allenanalysis/status/1992308482192572603?ref_src=twsrc%5Etfw">November 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Al Green calls for Donald Trump’s impeachment from the steps of the Lincoln Memorial: “There will be articles of impeachment filed. My conscience tells me that I must vote to impeach a President who disrespects the Constitution. A President who wants to be an authoritarian who is… <a href="https://t.co/xOD0DoBSzf">pic.twitter.com/xOD0DoBSzf</a></p>&mdash; Marco Foster (@MarcoFoster_) <a href="https://twitter.com/MarcoFoster_/status/1992301021482160577?ref_src=twsrc%5Etfw">November 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Im not saying a word. <a href="https://t.co/igkRFcvSKt">pic.twitter.com/igkRFcvSKt</a></p>&mdash; The Disrespected Trucker (@DisrespectedThe) <a href="https://twitter.com/DisrespectedThe/status/1991942408473628761?ref_src=twsrc%5Etfw">November 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump spends $300 million on his ballroom, $172 million on Kristi Noem’s private jet, $10 million on promoting his own golf courses.<br><br>But working people have to pay more for health care.<br><br>Corruption. Plain and simple.</p>&mdash; Congressman Greg Casar (@RepCasar) <a href="https://twitter.com/RepCasar/status/1997393593112174966?ref_src=twsrc%5Etfw">December 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sen. Mark Warner complains that Trump took too long to catch the J6 pipe bomb suspect (11 months since his inauguration, after 4 years of ZILCH from Biden).<br><br>“How much earlier could we have caught this guy if resources hadn’t been diverted?” <a href="https://t.co/iVvJdyzVp1">pic.twitter.com/iVvJdyzVp1</a></p>&mdash; Breitbart News (@BreitbartNews) <a href="https://twitter.com/BreitbartNews/status/1997038139551228125?ref_src=twsrc%5Etfw">December 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">George Conway on Donald Trump: “He’s a pathological narcissist, he’s a sociopath, he’s sadistic, he’s an ignoramus. Even apart from his insanity, he’s dumb as shit and uninformed as shit. He’s clearly losing it. Whatever he had is disappearing by the day.” <a href="https://t.co/oe61gaiy8q">pic.twitter.com/oe61gaiy8q</a></p>&mdash; Marco Foster (@MarcoFoster_) <a href="https://twitter.com/MarcoFoster_/status/1996944640906248604?ref_src=twsrc%5Etfw">December 5, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Americans are struggling to pay their bills and afford groceries, and we&#39;ve got a President who is asleep at the wheel. <a href="https://t.co/s8DsaT9l0v">pic.twitter.com/s8DsaT9l0v</a></p>&mdash; Captain Mark Kelly (@CaptMarkKelly) <a href="https://twitter.com/CaptMarkKelly/status/1997137761632166387?ref_src=twsrc%5Etfw">December 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sleepy Trump is falling asleep while the rest of us have to live in the nightmare he created.<br><br>Health care costs are set to skyrocket, the price of everyday goods is rising, and many Americans are struggling to keep food on the table... and he&#39;s using those horrors as a lullaby. <a href="https://t.co/fUIDTb7bNu">pic.twitter.com/fUIDTb7bNu</a></p>&mdash; Senator Mazie Hirono (@maziehirono) <a href="https://twitter.com/maziehirono/status/1997422798932000865?ref_src=twsrc%5Etfw">December 6, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Judge clarifies: Yes, Trump was found to have raped E. Jean Carroll - The Washington Post](https://www.washingtonpost.com/politics/2023/07/19/trump-carroll-judge-rape/)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here is: <br><br>Rob Reiner: <br><br>While he was spreading the Russian collusion conspiracy hoax, Barack Obama was orchestrating the overthrow of the United States government in 2026—no less the sitting President of the United States in 2017. <a href="https://t.co/QuaJCVYoNU">pic.twitter.com/QuaJCVYoNU</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/2000738363075387532?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Q: Is Judge Luttig right?<br><br>A: 100%. Outside America, the entire world is aware that we elected the most corrupt &amp; incompetent sociopath in history— TWICE!— and they cannot and should not forgive us. Our reputation as honest and educated people has been destroyed. We did this. <a href="https://t.co/Tc8tmYnbMK">pic.twitter.com/Tc8tmYnbMK</a></p>&mdash; Dr. Dave (@drdave1999) <a href="https://twitter.com/drdave1999/status/2000686784297001233?ref_src=twsrc%5Etfw">December 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+https://x.com/MAGACult2/status/2000936029126271410?s=20 Rob Reiner
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">FLASHBACK: Long before today’s revelations, Rob Reiner was tied to Russiagate. He founded an NGO with Brennan and Clapper that pushed the collusion hoax against President Trump. Hollywood and intelligence insiders worked together.<br><br>Rob Reiner was not a bystander during… <a href="https://t.co/xgTxzVSX1r">pic.twitter.com/xgTxzVSX1r</a></p>&mdash; @amuse (@amuse) <a href="https://twitter.com/amuse/status/2000982942907039813?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">CARVILLE: &quot;I wouldn’t piss down Trumps God damn throat if his heart was on fire.&quot; <br><br>The left, ladies and gentlemen. Putrid, hate filled scum of the earth. <a href="https://t.co/nFVtgy2eoB">pic.twitter.com/nFVtgy2eoB</a></p>&mdash; Sara Rose 🇺🇸🌹 (@saras76) <a href="https://twitter.com/saras76/status/2001006020756431090?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">At a time when silence was easier, Rob Reiner chose clarity.<br>His words stood for democracy, truth, and accountability, without apology.<br>Rest in Peace. <a href="https://t.co/x2remFlOG8">pic.twitter.com/x2remFlOG8</a></p>&mdash; Canada Hates Trump (@AntiTrumpCanada) <a href="https://twitter.com/AntiTrumpCanada/status/2000572449805463948?ref_src=twsrc%5Etfw">December 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here is what Rob Reiner had to say about President Trump <a href="https://t.co/A7Oc6ClNCy">pic.twitter.com/A7Oc6ClNCy</a></p>&mdash; Commentary Donald J. Trump Posts From Truth Social (@TrumpDailyPosts) <a href="https://twitter.com/TrumpDailyPosts/status/2000744767437857100?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="qme" dir="ltr"><a href="https://twitter.com/hashtag/EpsteinTrumpCoverUp?src=hash&amp;ref_src=twsrc%5Etfw">#EpsteinTrumpCoverUp</a> <a href="https://t.co/8aY2pV4YAI">pic.twitter.com/8aY2pV4YAI</a></p>&mdash; Pissed off American Voter💙💙💙🌊🌊🌊🌊 (@JanetLei5) <a href="https://twitter.com/JanetLei5/status/2001020655911981288?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">&quot;We suffer through daily reminders of the weakness of his mind, but the US has muddled along with other dim presidents. Trump occupies a category all his own in his breathtaking moral depravity. The man is a moral abomination, and so are his defenders.&quot;<a href="https://t.co/KpnJ4A6Af5">https://t.co/KpnJ4A6Af5</a></p>&mdash; Bill Kristol (@BillKristol) <a href="https://twitter.com/BillKristol/status/2000941358622892485?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rob Reiner was always spot on. <a href="https://t.co/IZGHEeIlWU">pic.twitter.com/IZGHEeIlWU</a></p>&mdash; James Tate (@JamesTate121) <a href="https://twitter.com/JamesTate121/status/2000926837762089398?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rob Reiner on President Trump: &quot;You have a complete and utter lying buffoon… He&#39;s a fraud. He lies. He cheats people. Everything that comes out of his mouth virtually is a lie. And he&#39;s a con man… I hate this man.&quot;<a href="https://t.co/WNKedid0ie">pic.twitter.com/WNKedid0ie</a></p>&mdash; Thomas Sowell Quotes (@ThomasSowell) <a href="https://twitter.com/ThomasSowell/status/2000988167030341890?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Every single time Trump is asked a question he doesn&#39;t want to answer he goes off into a long rant about his grades, taxes, his MRI, Biden, Obama, Comey, how transparent his regime is and how unfairly he has been treated.<br><br>Americans are sick of his BS.<br><br>Trump is too demented to… <a href="https://t.co/6WCu4bQAPl">pic.twitter.com/6WCu4bQAPl</a></p>&mdash; Feisty is proud to be a Democrat! (@FeistyLibLady) <a href="https://twitter.com/FeistyLibLady/status/2000930381848104992?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨BREAKING: Donald Trump says Rob Reiner was “deranged” and “very bad for the country” and completely doubles down on his disgusting Truth Social post. <br><br>Don’t get it twisted. Donald Trump is deranged. And HE is bad for the country. <br><br>Donald Trump is a piece of shit. <a href="https://t.co/OwnjWIn1Gr">pic.twitter.com/OwnjWIn1Gr</a></p>&mdash; CALL TO ACTIVISM (@CalltoActivism) <a href="https://twitter.com/CalltoActivism/status/2000676822757920802?ref_src=twsrc%5Etfw">December 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Man says he is excited for the day when Trump dies because he wants to celebrate like he did when Charlie was assassianted. <a href="https://t.co/wqY4Gca5BA">pic.twitter.com/wqY4Gca5BA</a></p>&mdash; Defiant L’s (@DefiantLs) <a href="https://twitter.com/DefiantLs/status/2001053473111204193?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">CRUELTY IS THE POINT <br><br>Trump looked at the horrifying double homicide of Rob &amp; Michelle Reiner and did what he always does when empathy is required: he mocked the victims, and made it about himself. INEXCUSABLE!<br><br>In the wake of these brutal murders at the hand of their own son,… <a href="https://t.co/iBdTuLoqDi">pic.twitter.com/iBdTuLoqDi</a></p>&mdash; Morgan J. Freeman (@mjfree) <a href="https://twitter.com/mjfree/status/2000933267801829612?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The brutality of Donald Trump’s language is nothing new. And yet, with his remarks on the death of Rob Reiner—made while the world was reeling from violent events over the weekend—he reached a new level of degradation, David Remnick writes.<a href="https://t.co/92IxHycHUi">https://t.co/92IxHycHUi</a></p>&mdash; The New Yorker (@NewYorker) <a href="https://twitter.com/NewYorker/status/2000976733684875400?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Don Lemon says President Trump is a vile nasty revolting human being.... <a href="https://t.co/Bek6dBRcBa">pic.twitter.com/Bek6dBRcBa</a></p>&mdash; Brandon (@LibOrNormal) <a href="https://twitter.com/LibOrNormal/status/2001009499549917481?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This senile, lost, demented mother fucker belongs in a nursing home,<br><br>Heavily medicated.<br><br>If Biden did this,<br>It would be on the news 24/7. <a href="https://t.co/rVALVB9yAE">pic.twitter.com/rVALVB9yAE</a></p>&mdash; Not Your Average Liberal (@NotAvgLiberal) <a href="https://twitter.com/NotAvgLiberal/status/2000870709522825413?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump’s $10bn lawsuit against the BBC is a threat to our democracy which would hit every licence fee payer in the pocket. <br><br>The Prime Minister must stand up for our BBC and call on Trump to drop it. <a href="https://t.co/NhblrG4FvO">pic.twitter.com/NhblrG4FvO</a></p>&mdash; Liberal Democrats (@LibDems) <a href="https://twitter.com/LibDems/status/2000997574786896347?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[TRUMP MEAN TWEETS ARE BACK! | Patreon](https://www.patreon.com/posts/new-video-trump-146077062) --- Rob Reiner -- https://youtu.be/PEGZkMoEOMU?si=_e6HyimA8ZZr7QrI --- https://x.com/DemocraticWins/status/2001075844505125288?s=20
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rachel Maddow: “We were within sight of ending AIDS forever within a decade. Marco Rubio and Donald Trump decided they didn’t understand it and they just cut it all off. It is repulsive and going to cause the deaths of millions of people and it’s going to be on Marco Rubio’s head… <a href="https://t.co/6r8RuFO901">pic.twitter.com/6r8RuFO901</a></p>&mdash; Marco Foster (@MarcoFoster_) <a href="https://twitter.com/MarcoFoster_/status/2001349197006885131?ref_src=twsrc%5Etfw">December 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+https://youtu.be/LTq2FMzTSAU?si=A_4xE3PIsq9cogW7 Trump is the biggest threat to America
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If anyone wants to know why Trump posted what he posted about Rob Reiner take a look at this 👇🏻👇🏻👇🏻 <a href="https://t.co/wRS7rSzdge">pic.twitter.com/wRS7rSzdge</a></p>&mdash; Val (@TrumpsHurricane) <a href="https://twitter.com/TrumpsHurricane/status/2000674427801948668?ref_src=twsrc%5Etfw">December 15, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">TRUMP&#39;S PRESIDENCY IS OVER. HE AND HIS REGIME ARE ILLEGITIMATE BECAUSE THE 2024 ELECTION WAS RIGGED FOR THEM. THEY ARE ALSO COMMITTING TREASON AND OTHER HIGH CRIMES. THEY MUST BE REMOVED FROM OFFICE UNDER ARTICLE II, SECTION 4, OF THE CONSTITUTION. ANNUL, EVICT, AND CONVICT! <a href="https://t.co/jlS84H0pon">https://t.co/jlS84H0pon</a></p>&mdash; Michelle (@Michell33650674) <a href="https://twitter.com/Michell33650674/status/2001598011139342832?ref_src=twsrc%5Etfw">December 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Exhaustive proof that Donald Trump and Jeffrey Epstein were very close and cooperated extensively in their sexual pursuits <a href="https://t.co/0HFqbGuW0g">https://t.co/0HFqbGuW0g</a></p>&mdash; Jonathan Chait (@jonathanchait) <a href="https://twitter.com/jonathanchait/status/2001637982311465227?ref_src=twsrc%5Etfw">December 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The New York Times makes another big effort to connect Trump to Jeffrey Epstein&#39;s crimes. Fails again. &quot;The Times interviewed more than 30 former Epstein employees, victims of his abuse and others who crossed paths with the two men over the years. The Times also obtained new…</p>&mdash; Byron York (@ByronYork) <a href="https://twitter.com/ByronYork/status/2001734294943715609?ref_src=twsrc%5Etfw">December 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/ZdMJGrlraC">pic.twitter.com/ZdMJGrlraC</a></p>&mdash; Brad (@BraddrofliT) <a href="https://twitter.com/BraddrofliT/status/2001462461501968824?ref_src=twsrc%5Etfw">December 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Yep Rob Reiner hated Trump so bad that he said he would set himself on fire if Trump won. Remember that? <a href="https://t.co/0Dfvi83Z51">pic.twitter.com/0Dfvi83Z51</a></p>&mdash; Johnny Midnight ⚡️ (@its_The_Dr) <a href="https://twitter.com/its_The_Dr/status/2001484958913957965?ref_src=twsrc%5Etfw">December 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Now your just getting me excited, Can I play kick the stool out from under him? It would be a pleasure to get justice for all the Ppl who&#39;ve lost their lives due to this PileOfVomit being placed by Putin to dismantle &amp; destabilize USA &amp; World for Putin, Why he needs 2B taken down <a href="https://t.co/jqpBh0IIuN">pic.twitter.com/jqpBh0IIuN</a></p>&mdash; Debbie Madrid (@Her13Loves) <a href="https://twitter.com/Her13Loves/status/1067446962293637121?ref_src=twsrc%5Etfw">November 27, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Dave Matthews: “What a disgusting human being Donald Trump is. What a shallow, horrifying, selfish, greedy, cruel little pig he is. While we all mourn the loss of a cultural icon, this withering turd of a human just puts poison in the air” <a href="https://t.co/FULuHJWAxC">pic.twitter.com/FULuHJWAxC</a></p>&mdash; Marco Foster (@MarcoFoster_) <a href="https://twitter.com/MarcoFoster_/status/2002127464529866917?ref_src=twsrc%5Etfw">December 19, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Donald Trump will go down in history as the first American president to have willingly betrayed his own country in service to a foreign enemy. His acts of treason will be taught in history books for generations to come, and the name &#39;Trump&#39; will become synonymous with treachery.… <a href="https://t.co/zlrpa2nxlq">pic.twitter.com/zlrpa2nxlq</a></p>&mdash; Democratic Coalition (@TheDemCoalition) <a href="https://twitter.com/TheDemCoalition/status/2001714221269020869?ref_src=twsrc%5Etfw">December 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump flip flops, does 180s. But the one thing he’s consistent with is every day he breaks the law.</p>&mdash; Rob Reiner (@ActualRobReiner) <a href="https://twitter.com/ActualRobReiner/status/1923397684167053738?ref_src=twsrc%5Etfw">May 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Erasing Medgar Evers and all Black people and women from the Arlington website is just the latest atrocious act from our Convicted Felon President.</p>&mdash; Rob Reiner (@ActualRobReiner) <a href="https://twitter.com/ActualRobReiner/status/1901941370903818693?ref_src=twsrc%5Etfw">March 18, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Right now the Courts are holding. But if the already Convicted Felon refuses to abide by a Supreme Court ruling, our 250 years of Democratic Self Rule will come to an end. We must all be prepared.</p>&mdash; Rob Reiner (@ActualRobReiner) <a href="https://twitter.com/ActualRobReiner/status/1898148105524330786?ref_src=twsrc%5Etfw">March 7, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The convicted felon president can continue to lie to his followers, but when the truth starts to affect their lives, they will abandon him.</p>&mdash; Rob Reiner (@ActualRobReiner) <a href="https://twitter.com/ActualRobReiner/status/1893703423326830638?ref_src=twsrc%5Etfw">February 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our founding fathers never imagined that the United States of America would be run by a convicted felon. And that compels me to add whatever resistance I can to try to correct that.</p>&mdash; Rob Reiner (@ActualRobReiner) <a href="https://twitter.com/ActualRobReiner/status/1893085479408472181?ref_src=twsrc%5Etfw">February 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Rob Reiner’s Dramatic Pledge: A Cautionary Tale of Political Hyperbole | by Ava Martin | Medium](https://medium.com/@ava_martin/rob-reiners-dramatic-pledge-a-cautionary-tale-of-political-hyperbole-9bce1519cb98)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">2017. Rob Reiner claims that Russia&#39;s &quot;election interference&quot; was way worse than if they attacked us with an atom bomb.<br><br>The poor guy was insane. <a href="https://t.co/bdu9Q43VUL">pic.twitter.com/bdu9Q43VUL</a></p>&mdash; MAZE (@mazemoore) <a href="https://twitter.com/mazemoore/status/2002780756960243809?ref_src=twsrc%5Etfw">December 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Here it is: <br><br>Fred Fleitz, then National Security Adviser John Bolton’s chief of staff, CONFIRMS: <br><br>Treachery, deception, betrayal, conspiracy, subversion, and the overthrow of the President of the United States.<br><br>John Durham; John Bolton; Mike Pompeo; and CIA Director Gina… <a href="https://t.co/6GGYLTugT0">pic.twitter.com/6GGYLTugT0</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/2002842893413912992?ref_src=twsrc%5Etfw">December 21, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Instagram](https://www.instagram.com/reel/DSlOnN3ETwr/) Epstein redactions, criminal as president
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I miss the Biden&#39;s and the Obama&#39;s so much! 🥹💙 <a href="https://t.co/ff80kqBEB1">pic.twitter.com/ff80kqBEB1</a></p>&mdash; Kool Karyn 😎 Resister Since Day One 💙 (@koolkaryn) <a href="https://twitter.com/koolkaryn/status/2004343636834898235?ref_src=twsrc%5Etfw">December 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LAWFARE: Soros-backed NGO is teaching DC residents how to sneak onto juries and rig trials against President Trump and his administration. <br><br>A newly formed Washington DC group called Free DC, tied to Community Change &amp; Community Change Action, is training residents to act as… <a href="https://t.co/tCYaVpFosd">pic.twitter.com/tCYaVpFosd</a></p>&mdash; @amuse (@amuse) <a href="https://twitter.com/amuse/status/2005092720927232198?ref_src=twsrc%5Etfw">December 28, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">WOW 🚨 MSNBC is broadcasting to all of America that the Somalian fraud in Minnesota is made up by Donald Trump<br><br>MSNBC is actually saying the FBI and DOJ are lying about the fraud<br><br>The mainstream media is organized crime against the United States and should be prosecuted<br><br>“The… <a href="https://t.co/1Yz5ivQgdU">pic.twitter.com/1Yz5ivQgdU</a></p>&mdash; Wall Street Apes (@WallStreetApes) <a href="https://twitter.com/WallStreetApes/status/2005682606436647362?ref_src=twsrc%5Etfw">December 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The State of Nevada’s voter roll OFFICIALLY exposed from the November 3, 2020 election!<br><br>Sen. Lankford broke it all down …<br> - Over 42,000 people voted more than once,<br> - Over 1,500 resurrection of the dead, <br> - Over 19,000 didn&#39;t live in Nevada,<br> - Over 8,000 voted from a… <a href="https://t.co/nSREfJnqyk">pic.twitter.com/nSREfJnqyk</a></p>&mdash; C-Reason🇺🇸 (@CreasonJana) <a href="https://twitter.com/CreasonJana/status/2005624302905749931?ref_src=twsrc%5Etfw">December 29, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is: <br><br>Sidney Katherine Powell, VINDICATED ONCE MORE: Precisely why the regime went after her:<br><br>A Venezuelan Military Intelligence whistleblower CONFIRMS that the Central Intelligence Agency outsources its election-rigging software and voting machines (Smartmatic) overseas to… <a href="https://t.co/GVOWCCsiCB">pic.twitter.com/GVOWCCsiCB</a></p>&mdash; 🇺🇸RealRobert🇺🇸 (@Real_RobN) <a href="https://twitter.com/Real_RobN/status/2005849937423261706?ref_src=twsrc%5Etfw">December 30, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[Judges now veto Trump prosecutors after the Senate stalls confirmations | Blaze Media](https://www.theblaze.com/columns/opinion/judges-now-veto-trump-prosecutors-after-the-senate-stalls-confirmations)
+
+[NEWS: Sanders Statement on Trump Canceling $7 Billion for Solar for All » Senator Bernie Sanders](https://www.sanders.senate.gov/press-releases/news-sanders-statement-on-trump-canceling-7-billion-for-solar-for-all/)
+
+
+
+
+
+https://www.youtube.com/watch?v=aIbg1GqdQzs
+
+https://www.youtube.com/watch?v=cAJXByjDvis
+
+https://www.youtube.com/watch?v=hE2fFfnIylk
+
+https://www.youtube.com/watch?v=0mLA2iRZE-0
+
+https://www.youtube.com/watch?v=BOeihrmalVk ???
+
+https://www.youtube.com/watch?v=Yn2ArxKW8nQ
+
+https://www.youtube.com/watch?v=9wKci9uRLNI
+
+https://www.youtube.com/watch?v=Jg2P925Nrlg
+
+https://www.youtube.com/watch?v=E1zJfQ2b67A
+
+https://www.youtube.com/watch?v=UznpJ1mafyI
+
+https://www.youtube.com/watch?v=CKPMAxoELIw
+
+https://www.youtube.com/watch?v=rFf7ctHk4Jo
+
+https://www.youtube.com/watch?v=jUZ8HSFFWCk
+
+https://www.youtube.com/watch?v=AVvNKcKrhNo
+
+https://www.youtube.com/watch?v=PteTF_VSTNo
+
+https://www.youtube.com/watch?v=FEGCSR9viYk
+
+https://www.youtube.com/watch?v=c1VbcIMuPME
+
+https://www.youtube.com/watch?v=vwfHb5srKss
+
+https://www.youtube.com/watch?v=leOu0RHqUEc
+
+https://www.youtube.com/watch?v=v-TT0CER1hg
+
+https://www.youtube.com/watch?v=IitpO4t4UH4
+
+https://www.youtube.com/watch?v=3Y2cFcPUUUM
+
+https://www.youtube.com/watch?v=u3GaWCi0xTo
+
+https://youtu.be/phO5OXQ8QP4?si=bNKTAIFdMgcDzFT7
+
+
+
 Something BAD Must Be Going on in Trump World Because Trump Is Losing His MIND on Truth Social --- https://www.politicalflare.com/2024/10/something-bad-must-be-going-on-in-trump-world-because-trump-is-losing-his-mind-on-truth-social/
 
 2025-03-01 [The White Nationalist in Chief’s Return to Power | The Nation](https://www.thenation.com/article/society/trump-white-nationalist-in-chief/)
