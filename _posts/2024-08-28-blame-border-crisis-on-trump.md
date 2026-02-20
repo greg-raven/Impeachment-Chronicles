@@ -1,5 +1,5 @@
 ---
-title: "Media: Let's blame the border crisis on Trump!"
+title: Blame the border crisis on Trump
 layout: post
 tags:
 - Kamala Harris

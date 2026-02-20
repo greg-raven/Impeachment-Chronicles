@@ -1,5 +1,5 @@
 ---
-title: "Rothschild: Donald Trump is threatening to destroy the New World Order"
+title: "Trump is threatening to destroy the New World Order"
 layout: post
 tags:
 - Larsen
