@@ -5,7 +5,7 @@ tags:
 - Charlie Spiering
 ---
 
-The America First Action PAC released a [timeline of the ongoing "witch hunt" against President Donald Trump]({% link /timeline.html %}) on Wednesday.
+The America First Action PAC released a [timeline of the ongoing "witch hunt" against President Donald Trump]({{ site.baseurl }}{% link /timeline.html %}) on Wednesday.
 
 The deeply researched timeline, provided exclusively in advance to Breitbart News, details all of the evidence of federal law enforcement officers, intelligence agencies, and government bureaucrats trying to cripple President Trump's political campaign and his administration and continues to highlight the present-day efforts by Democrats and their impeachment effort.
 
