@@ -17,7 +17,7 @@ That so many basic and fundamental errors were made by three separate, hand-pick
 
 In our view, this was a failure of not only the operational team, but also of the managers and supervisors, including senior officials, in the chain of command. For these reasons, we recommend that the FBI review the performance of the employees who had responsibility for the preparation, Woods review, or approval of the FISA applications, as well as the managers and supervisors in the chain of command of the Carter Page investigation, including senior officials, and take any action deemed appropriate. In addition, given the extensive compliance failures we identified in this review, we believe that additional OIG oversight work is required to assess the FBI's compliance with Department and FBI FISA-related policies that seek to protect the civil liberties of U.S. persons. Accordingly, we have today initiated an OIG audit that will further examine the FBI's compliance with the Woods Procedures in FISA applications that target U.S. persons in both counterintelligence and counterterrorism investigations. This audit will be informed by the findings in this review, as well as by our prior work over the past 15 years on the Department's and FBI's use of national security and surveillance authorities, including authorities under FISA, as detailed in Chapter One.
 
-<iframe src="https://oig.justice.gov/reports/2019/o20012.pdf" class="pdf"></iframe>
+<iframe src="https://justice.gov/storage/120919-examination.pdf" class="pdf"></iframe>
 
 Source: Office of the Inspector General, justice.gov/storage/120919-examination.pdf
 

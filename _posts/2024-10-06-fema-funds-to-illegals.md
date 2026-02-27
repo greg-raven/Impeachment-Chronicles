@@ -15,6 +15,6 @@ Source: Free the World, via [𝕏](https://x.com)
 
 > The Shelter and Services Program (SSP) is administered by the FEMA in partnership with U.S. Customs and Border Protection (CBP). SSP provides financial support to non-federal entities to provide humanitarian services to noncitizen migrants following their release from the Department of Homeland Security (DHS). The intent is to support CBP in the safe, orderly and humane release of noncitizen migrants from short-term holding facilities.
 >
-> <https://www.fema.gov/grants/shelter-services-program>
+> <cite>https://www.fema.gov/grants/shelter-services-program</cite>
 
 ![FEMA Emergency Food and Shelter Program](/assets/2024-10-06-fema-shelter-and-services.jpg "FEMA Emergency Food and Shelter Program")

@@ -429,7 +429,7 @@ voting earlier than Republicans.
 
 40. Alison Dirr, '[Are drop boxes secure, where are ballots stored and who has access to them? Answers to your questions about voting in Milwaukee](https://www.jsonline.com/story/news/politics/elections/2020/10/19/how-milwaukee-ensures-absentee-ballots-voting-machines-secured/5937160002/),' Milwaukee Journal Sentinel, 2020.
 
-41. [Special Report Delivery of Absentee Ballots by Intermediaries to Milwaukee County Area Drop Boxes October 20](https://legis.wisconsin.gov/assembly/22/brandtjen/media/m3wnlto0/5-combined-files-for-melodie.pdf) --- November 3, 2020, March 18, 2022.
+41. Special Report Delivery of Absentee Ballots by Intermediaries to Milwaukee County Area Drop Boxes October 20 (https://legis.wisconsin.gov/assembly/22/brandtjen/media/m3wnlto0/5-combined-files-for-melodie.pdf) --- November 3, 2020, March 18, 2022.
 
 42. Ibid.
 
@@ -453,9 +453,9 @@ voting earlier than Republicans.
 
 52. '[Wisconsin Safe Voting Plan 2020](https://www.techandciviclife.org/wp-content/uploads/2020/07/Approved-Wisconsin-Safe-Voting-Plan-2020.pdf), Submitted to the Center for Tech & Civic Life, June 15, 2020.'
 
-53. Michael Gableman, '[Why Many Wisconsin Voters Still Doubt the 2020 Election Results](https://legis.wisconsin.gov/assembly/22/brandtjen/media/xc4ofiaz/gableman-powerpoint.pdf),' March 1, 2022.
+53. Michael Gableman, 'Why Many Wisconsin Voters Still Doubt the 2020 Election Results (https://legis.wisconsin.gov/assembly/22/brandtjen/media/xc4ofiaz/gableman-powerpoint.pdf),' March 1, 2022.
 
-54. M.D. Kittle, '[SPECIAL INVESTIGATION: INFILTRATING THE ELECTION](https://web.archive.org/web/20210313025127/https://wisconsinspotlight.com/special-investigation-infiltrating-the-election/),' Wisconsin Spotlight, March 9, 2021.
+54. M.D. Kittle, ' SPECIAL INVESTIGATION: INFILTRATING THE ELECTION (https://wisconsinspotlight.com/special-investigation-infiltrating-the-election/),' Wisconsin Spotlight, March 9, 2021.
 
 55. Verity Vote, '[Pennsylvania Voter Deficit](https://verityvote.us/pennsylvania-voter-deficit/),' Feb. 10, 2021.
 
@@ -475,7 +475,7 @@ voting earlier than Republicans.
 
 63. Bradley Vasoli, '[It's a Felony:' A New Lawsuit, with Video Evidence, Alleges Delaware County, Pennsylvania Election Officials Destroyed Voting Records](https://theohiostar.com/news/its-a-felony-a-new-lawsuit-with-video-evidence-alleges-delaware-county-pennsylvania-election-officials-destroyed-voting-records/bvasoli/2021/11/18/),' the Ohio Star, Nov. 18, 2021.
 
-64. '[Delaware County Awarded $2.2 Million Grant for Safe Elections](https://delcopa.gov/publicrelations/releases/2020/safeelectionsgrant.html),' Aug. 19, 2020.
+64. 'Delaware County Awarded $2.2 Million Grant for Safe Elections (https://delcopa.gov/publicrelations/releases/2020/safeelectionsgrant.html),' Aug. 19, 2020.
 
 65. '[How They Did It --- True the Vote's Catherine Engelbrecht and Gregg Phillips on The Charlie Kirk Show](https://rumble.com/v10ajh2-how-the-did-it-true-the-votes-catherine-engelbrecht-and-gregg-phillips-on-t.html),' Rumble, 2022.
 

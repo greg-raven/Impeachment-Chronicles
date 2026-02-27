@@ -53,8 +53,8 @@ In conclusion, the leaked audio involving Kevin Roberts and Donald Trump has spa
 
 Sources:
 
-- [CNN Article on Project 2025](https://www.cnn.com/project-2025)
+- CNN Article on Project 2025 (https://www.cnn.com/project-2025)
 
-- [ABC News Coverage of the Leaked Audio](https://www.abcnews.com/leaked-audio-trump-project-2025)
+- ABC News Coverage of the Leaked Audio (https://www.abcnews.com/leaked-audio-trump-project-2025)
 
 Source: Chekwas John, trendsnewsline.com/2024/07/12/newly-leaked-audio-reveals-project-2025-leader-kevin-roberts-accusing-trump-of-lying-to-voters-share-now/

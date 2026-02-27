@@ -101,10 +101,10 @@ Notes:
 
 1. Clara Hendrickson, "[Did data from Georgia voting machine breach play a role in alleged Michigan election plot?](https://www.freep.com/story/news/politics/2023/08/31/michigan-and-georgia-voting-machine-breachconnection/70702597007/)", The Detroit Free Press, (August 31, 2023).
 
-2. Jeremy Duda, "[Group led by 'kraken' lawyer Sidney Powell hired the firm recounting AZ's election to probe election in Fulton Co](https://penncapital-star.com/government-politics/group-led-by-kraken-lawyer-sidney-powell-hiredthe-firm-recounting-azs-election-to-probe-a-pa-election/)." Pennsylvania Capital-Star, (May 24, 2021).
+2. Jeremy Duda, "Group led by 'kraken' lawyer Sidney Powell hired the firm recounting AZ's election to probe election in Fulton Co (https://penncapital-star.com/government-politics/group-led-by-kraken-lawyer-sidney-powell-hiredthe-firm-recounting-azs-election-to-probe-a-pa-election/)." Pennsylvania Capital-Star, (May 24, 2021).
 
 3. Christina A. Cassidy, "[Georgia election indictments highlights wider attempts to illegally access voting equipment](https://apnews.com/article/georgia-trump-indictment-voting-machines-conspiracy-theoriesbc3db57cabd25fd8e335f85ed299e79c)," Associated Press, (August 15, 2023).
 
-4. Maritsa Georgiou, "[Arizona voting system data sent to Montana lab as part of the latest audit](https://nbcmontana.com/news/local/arizona-votingsystem-data-sent-to-montana-lab-as-part-of-latest-audit)," NBC Montana, (June 3, 2021).
+4. Maritsa Georgiou, "Arizona voting system data sent to Montana lab as part of the latest audit (https://nbcmontana.com/news/local/arizona-votingsystem-data-sent-to-montana-lab-as-part-of-latest-audit)," NBC Montana, (June 3, 2021).
 
 Source: Rachel Donald, planetcritical.com/p/cyber-security-experts-warn-election-hacked

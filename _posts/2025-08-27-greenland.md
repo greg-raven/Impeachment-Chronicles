@@ -28,7 +28,7 @@ DR has not been able to clarify whether the American men work on their own initi
 
 DR's sources.
 
-<https://automat.drintern.dk/grafik/68a59ebcbfffb8940cffbf09>
+https://automat.drintern.dk/grafik/68a59ebcbfffb8940cffbf09
 
 **See you often with Donald Trump**
 
