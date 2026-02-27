@@ -7,6 +7,8 @@ tags:
 
 The America First Action PAC released a <a href="/timeline.html">timeline of the ongoing "witch hunt" against President Donald Trump</a> on Wednesday.
 
+[timeline of the ongoing "witch hunt" against President Donald Trump](/timeline.html)
+
 The deeply researched timeline, provided exclusively in advance to Breitbart News, details all of the evidence of federal law enforcement officers, intelligence agencies, and government bureaucrats trying to cripple President Trump's political campaign and his administration and continues to highlight the present-day efforts by Democrats and their impeachment effort.
 
 "Their perverse scheme took the instruments of government designed to protect American democracy and used them to undermine it," wrote PAC officials in a forthcoming release.
@@ -31,4 +33,4 @@ American First Action is the official Pro-Trump Super PAC dedicated to electing 
 
 Source: Charlie Spiering, breitbart.com/politics/2020/01/22/exclusive-trump-super-pac-releases-witch-hunt-timeline/
 
-[Witch Hunt Timeline](/assets/WitchHuntTimeline.pdf) ([Download](/assets/WitchHuntTimeline.pdf))
+[Read or download the 'Witch Hunt' Timeline](/assets/WitchHuntTimeline.pdf)
