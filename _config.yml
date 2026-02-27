@@ -2,20 +2,11 @@ title: Impeachment Chronicles
 author:
   name: Greg Raven
   email: greg@impeachment.network
-
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-
 description: Attacks on our president and our republic.
-
-# Build settings
-
-theme: minima
-
-# the base hostname & protocol for your site
-
 url: "https://www.impeachment.network"
 
+# Build settings
+theme: minima
 plugins:
   - jekyll-archives
   - jekyll-feed
