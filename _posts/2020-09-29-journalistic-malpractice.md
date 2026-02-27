@@ -22,4 +22,4 @@ Benny Johnson, via [𝕏](https://x.com)
 
 Steve Cortes, via [𝕏](https://x.com)
 
-The article in question: [Trump Didn't Call Neo-Nazis 'Fine People.' Here's Proof.](https://www.realclearpolitics.com/articles/2019/03/21/trump_didnt_call_neo-nazis_fine_people_heres_proof_139815.html)
+The article in question: Trump Didn't Call Neo-Nazis 'Fine People.' Here's Proof. (https://www.realclearpolitics.com/articles/2019/03/21/trump_didnt_call_neo-nazis_fine_people_heres_proof_139815.html)
