@@ -28,6 +28,7 @@ dd
 }
 
 iframe { margin-bottom: 1em; }
+.pdf { width: 100%; height: 600px; }
 q { quotes: "“" "”" "‘" "’"; }
 q::before { content: open-quote; }
 q::after { content: close-quote; }
