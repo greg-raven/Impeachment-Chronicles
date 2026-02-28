@@ -1,6 +1,8 @@
 ---
-title: Witch Hunt
+title: Witch Hunt Timeline
 layout: page
 ---
 
-<iframe src="/assets/WitchHuntTimeline.pdf" class="pdf"></iframe>
+The road to a sham impeachment.
+
+<iframe class="pdf" src="/assets/WitchHuntTimeline.pdf"></iframe>
