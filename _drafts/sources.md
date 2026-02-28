@@ -234,7 +234,7 @@ https://x.com/MAGACult2/status/2000936029126271410?s=20 Rob Reiner
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Trump’s $10bn lawsuit against the BBC is a threat to our democracy which would hit every licence fee payer in the pocket. <br><br>The Prime Minister must stand up for our BBC and call on Trump to drop it. <a href="https://t.co/NhblrG4FvO">pic.twitter.com/NhblrG4FvO</a></p>&mdash; Liberal Democrats (@LibDems) <a href="https://twitter.com/LibDems/status/2000997574786896347?ref_src=twsrc%5Etfw">December 16, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[TRUMP MEAN TWEETS ARE BACK! | Patreon](https://www.patreon.com/posts/new-video-trump-146077062) --- Rob Reiner -- https://youtu.be/PEGZkMoEOMU?si=_e6HyimA8ZZr7QrI --- https://x.com/DemocraticWins/status/2001075844505125288?s=20
+[TRUMP MEAN TWEETS ARE BACK!](https://www.patreon.com/posts/new-video-trump-146077062) --- Rob Reiner -- https://youtu.be/PEGZkMoEOMU?si=_e6HyimA8ZZr7QrI --- https://x.com/DemocraticWins/status/2001075844505125288?s=20
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Rachel Maddow: “We were within sight of ending AIDS forever within a decade. Marco Rubio and Donald Trump decided they didn’t understand it and they just cut it all off. It is repulsive and going to cause the deaths of millions of people and it’s going to be on Marco Rubio’s head… <a href="https://t.co/6r8RuFO901">pic.twitter.com/6r8RuFO901</a></p>&mdash; Marco Foster (@MarcoFoster_) <a href="https://twitter.com/MarcoFoster_/status/2001349197006885131?ref_src=twsrc%5Etfw">December 17, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
