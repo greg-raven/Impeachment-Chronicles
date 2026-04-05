@@ -1,4 +1,9 @@
-# Records show FBI objecting to Mar-a-Lago raid
+---
+title: "Records show FBI objecting to Mar-a-Lago raid"
+layout: post
+tags:
+- Judicial Watch
+---
 
 We obtained [207 pages](https://www.judicialwatch.org/documents/plasmic-echo-mar-a-lago-2026/) of Federal Bureau of Investigation (FBI) records that reveal the FBI's concerns about the legal basis for the raid of then-former President Donald J. Trump's Mar-a-Lago home.
 
