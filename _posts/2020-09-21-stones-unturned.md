@@ -5,7 +5,7 @@ tags:
 - Aaron Maté
 ---
 
-- Part 2 of a two-article analysis ([Part 1 here]({% post_url 2020-09-21-no-smoking-gun %})). Above, Julian Assange. Like the Special Counsel's team before it, the Senate Intelligence Committee passed up an interview with the WikiLeaks founder.
+- Part 2 of a two-article analysis ([Part 1 here]({% post_url 2020-09-21-fog-machine %})). Above, Julian Assange. Like the Special Counsel's team before it, the Senate Intelligence Committee passed up an interview with the WikiLeaks founder.
 
 The Senate Select Committee on Intelligence's fifth and final Russia report has been widely greeted as a vindication of the Russia intrigue that has gripped the nation since 2016. Democratic Sen. Mark Warner says the report cataloged "a breathtaking level of contacts between Trump officials and Russian government operatives that is a very real counterintelligence threat to our elections."
 
